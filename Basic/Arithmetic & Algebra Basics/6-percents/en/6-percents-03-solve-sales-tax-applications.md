@@ -1,4 +1,77 @@
+<style>
+.math-inline {
+    font-style: italic;
+    padding: 2px 6px;
+    border-radius: 4px;
+    background: #f8f9fa;
+    font-family: Georgia, serif;
+}
+.math-display {
+    background: #f8f9fa;
+    border-left: 4px solid #4a90d9;
+    padding: 16px 20px;
+    margin: 16px 0;
+    border-radius: 6px;
+    font-size: 1.15em;
+    font-family: Georgia, serif;
+    text-align: center;
+    line-height: 2;
+    overflow-x: auto;
+}
+.example-box, .example {
+    background: #f0f8ff;
+    border-left: 4px solid #2e86de;
+    padding: 12px 20px;
+    margin: 16px 0;
+    border-radius: 6px;
+}
+.tryit-box, .tryit {
+    background: #f0fff4;
+    border-left: 4px solid #27ae60;
+    padding: 12px 20px;
+    margin: 16px 0;
+    border-radius: 6px;
+}
+.solution-box, .solution {
+    background: #fef9e7;
+    border-left: 4px solid #f39c12;
+    padding: 12px 20px;
+    margin: 12px 0;
+    border-radius: 6px;
+}
+.check-box, .check {
+    background: #fef9e7;
+    border-left: 4px solid #f39c12;
+    padding: 12px 20px;
+    margin: 12px 0;
+    border-radius: 6px;
+}
+.prep-quiz {
+    background: #fff3cd;
+    border: 1px solid #ffc107;
+    padding: 12px 20px;
+    margin: 16px 0;
+    border-radius: 6px;
+}
+.def-label, .definition-label {
+    font-weight: bold;
+    font-size: 1.1em;
+    margin: 20px 0 8px 0;
+    color: #2c3e50;
+    display: block;
+}
+.math-display sup, .math-inline sup { font-size: 0.75em; line-height: 0; }
+.math-display sub, .math-inline sub { font-size: 0.75em; line-height: 0; }
+</style>
+
+
+---
+
+
+---
+
 ## Solve Sales Tax Applications
+
 
 Sales tax and commissions are applications of percent in our everyday lives. To solve these applications, we will follow the same strategy we used in the section on decimal operations. We show it again here for easy reference.
 
@@ -24,30 +97,33 @@ To find the sales tax multiply the purchase price by the sales tax rate. Remembe
 *The sales tax is calculated as a percent of the purchase price.*
 
 
-**Sales Tax**
+<div class="definition-label">**Sales Tax**</div>
+
 
 The **sales tax** is a percent of the purchase price.
 
 
-$$
+<div class="math-display">
 Sales Tax & = & Tax Rate \\
 Total Cost & = & Purchase Price
-$$
+</div>
 
 
+<div class="example">
 **Example**
 
 
-Cathy bought a bicycle in Washington, where the sales tax rate was \(6.5%\) of the purchase price. What was
+Cathy bought a bicycle in Washington, where the sales tax rate was <span class="math-inline">6.5%</span> of the purchase price. What was
 
   -
 ⓐ the sales tax and
 
   -
-ⓑ the total cost of a bicycle if the purchase price of the bicycle was \($392?\)
+ⓑ the total cost of a bicycle if the purchase price of the bicycle was <span class="math-inline">$392?</span>
 
 
-Solution
+<div class="solution">
+<span class="def-label">Solution</span>
 
 
 ⓐ
@@ -58,29 +134,24 @@ What is the sales tax?
 
 
 Choose a variable to represent it.
-Let \(t=\) sales tax.
+Let <span class="math-inline">t=</span> sales tax.
 
 
 Write a sentence that gives the information to find it.
 The sales tax is 6.5% of the purchase price.
 
 
-
    Translate into an equation. (Remember to change the percent to a decimal).
-
-
 
 
 Simplify.
 
 
-
- Check: Is this answer reasonable?
+<div class="check">
+<span class="def-label">Check</span>
 
 
  Yes, because the sales tax amount is less than 10% of the purchase price.
-
-
 
 
  Write a complete sentence that answers the question.
@@ -95,23 +166,21 @@ What is the total cost of the bicycle?
 
 
 Choose a variable to represent it.
-Let \(c=\) total cost of bicycle.
+Let <span class="math-inline">c=</span> total cost of bicycle.
 
 
 Write a sentence that gives the information to find it.
 The total cost is the purchase price plus the sales tax.
 
 
-
    Translate into an equation.
-
-
 
 
 Simplify.
 
 
- Check: Is this answer reasonable?
+<div class="check">
+<span class="def-label">Check</span>
 
 
  Yes, because the total cost is a little more than the purchase price.
@@ -121,11 +190,11 @@ Simplify.
  The total cost of the bicycle is $417.48.
 
 
-
+<div class="tryit">
 **Try It**
 
 
-Find ⓐ the sales tax and ⓑ the total cost: Alexandra bought a television set for \($724\) in Boston, where the sales tax rate was \(6.25%\) of the purchase price.
+Find ⓐ the sales tax and ⓑ the total cost: Alexandra bought a television set for <span class="math-inline">$724</span> in Boston, where the sales tax rate was <span class="math-inline">6.25%</span> of the purchase price.
 
 
   -
@@ -135,10 +204,11 @@ Find ⓐ the sales tax and ⓑ the total cost: Alexandra bought a television set
 ⓑ $769.25
 
 
+<div class="tryit">
 **Try It**
 
 
-Find ⓐ the sales tax and ⓑ the total cost: Kim bought a winter coat for \($250\) in St. Louis, where the sales tax rate was \(8.2%\) of the purchase price.
+Find ⓐ the sales tax and ⓑ the total cost: Kim bought a winter coat for <span class="math-inline">$250</span> in St. Louis, where the sales tax rate was <span class="math-inline">8.2%</span> of the purchase price.
 
 
   -
@@ -148,13 +218,15 @@ Find ⓐ the sales tax and ⓑ the total cost: Kim bought a winter coat for \($2
 ⓑ $270.50
 
 
+<div class="example">
 **Example**
 
 
-Evelyn bought a new smartphone for \($499\) plus tax. She was surprised when she got the receipt and saw that the tax was \($42.42.\) What was the sales tax rate for this purchase?
+Evelyn bought a new smartphone for <span class="math-inline">$499</span> plus tax. She was surprised when she got the receipt and saw that the tax was <span class="math-inline">$42.42.</span> What was the sales tax rate for this purchase?
 
 
-Solution
+<div class="solution">
+<span class="def-label">Solution</span>
 
 
 Identify what you are asked to find.
@@ -162,17 +234,14 @@ What is the sales tax rate?
 
 
 Choose a variable to represent it.
-Let \(r=\) sales tax.
+Let <span class="math-inline">r=</span> sales tax.
 
 
 Write a sentence that gives the information to find it.
 What percent of the price is the sales tax?
 
 
-
    Translate into an equation.
-
-
 
 
 Divide.
@@ -181,8 +250,8 @@ Divide.
 Simplify.
 
 
-
- Check. Is this answer reasonable?
+<div class="check-box">
+<span class="def-label">Check. Is this answer reasonable?</span>
 
 
  Yes, because 8.5% is close to 10%.
@@ -190,55 +259,64 @@ Simplify.
  10% of $500 is $50, which is close to $42.42.
 
 
-
-
  Write a complete sentence that answers the question.
  The sales tax rate is 8.5%.
 
 
-
+<div class="tryit">
 **Try It**
 
 
-Diego bought a new car for \($26,525.\) He was surprised that the dealer then added \($2,387.25.\) What was the sales tax rate for this purchase?
+Diego bought a new car for <span class="math-inline">$26,525.</span> He was surprised that the dealer then added <span class="math-inline">$2,387.25.</span> What was the sales tax rate for this purchase?
 
 
 9%
 
 
+<div class="tryit">
 **Try It**
 
 
-What is the sales tax rate if a \($7,594\) purchase will have \($569.55\) of sales tax added to it?
+What is the sales tax rate if a <span class="math-inline">$7,594</span> purchase will have <span class="math-inline">$569.55</span> of sales tax added to it?
 
 
 7.5%
 
 
+---
+
+
+---
+
 ## Solve Commission Applications
+
 
 Sales people often receive a **commission**, or percent of total sales, for their sales. Their income may be just the commission they earn, or it may be their commission added to their hourly wages or salary. The commission they earn is calculated as a certain percent of the price of each item they sell. That percent is called the *rate of commission*.
 
 
-**Commission**
+<div class="definition-label">**Commission**</div>
+
 
 A commission is a percentage of total sales as determined by the rate of commission.
 
 
-$$
-commission=rate of commission\cdot total sales
-$$
+<div class="math-display">
+commission=rate of commission· total sales
+</div>
+
 
 To find the commission on a sale, multiply the rate of commission by the total sales. Just as we did for computing sales tax, remember to first convert the rate of commission from a percent to a decimal.
 
 
+<div class="example">
 **Example**
 
 
-Helene is a realtor. She receives \(3%\) commission when she sells a house. How much commission will she receive for selling a house that costs \($260,000?\)
+Helene is a realtor. She receives <span class="math-inline">3%</span> commission when she sells a house. How much commission will she receive for selling a house that costs <span class="math-inline">$260,000?</span>
 
 
-Solution
+<div class="solution">
+<span class="def-label">Solution</span>
 
 
 Identify what you are asked to find.
@@ -246,61 +324,59 @@ What is the commission?
 
 
 Choose a variable to represent it.
-Let \(c=\) the commission.
+Let <span class="math-inline">c=</span> the commission.
 
 
 Write a sentence that gives the information to find it.
 The commission is 3% of the price.
 
 
-
    Translate into an equation.
-
-
 
 
 Simplify.
 
 
-
- Check. Is this answer reasonable?
+<div class="check-box">
+<span class="def-label">Check. Is this answer reasonable?</span>
 
 
  Yes. 1% of $260,000 is $2,600, and $7,800 is three times $2,600.
-
-
 
 
  Write a complete sentence that answers the question.
  Helene will receive a commission of $7,800.
 
 
-
+<div class="tryit">
 **Try It**
 
 
-Bob is a travel agent. He receives \(7%\) commission when he books a cruise for a customer. How much commission will he receive for booking a \($3,900\) cruise?
+Bob is a travel agent. He receives <span class="math-inline">7%</span> commission when he books a cruise for a customer. How much commission will he receive for booking a <span class="math-inline">$3,900</span> cruise?
 
 
 $273
 
 
+<div class="tryit">
 **Try It**
 
 
-Fernando receives \(18%\) commission when he makes a computer sale. How much commission will he receive for selling a computer for \($2,190?\)
+Fernando receives <span class="math-inline">18%</span> commission when he makes a computer sale. How much commission will he receive for selling a computer for <span class="math-inline">$2,190?</span>
 
 
 $394.20
 
 
+<div class="example">
 **Example**
 
 
-Rikki earned \($87\) commission when she sold a \($1,450\) stove. What rate of commission did she get?
+Rikki earned <span class="math-inline">$87</span> commission when she sold a <span class="math-inline">$1,450</span> stove. What rate of commission did she get?
 
 
-Solution
+<div class="solution">
+<span class="def-label">Solution</span>
 
 
 Identify what you are asked to find.
@@ -308,22 +384,17 @@ What is the rate of commission?
 
 
 Choose a variable to represent it.
-Let \(r=\) the rate of commission.
+Let <span class="math-inline">r=</span> the rate of commission.
 
 
 Write a sentence that gives the information to find it.
 The commission is what percent of the sale?
 
 
-
    Translate into an equation.
 
 
-
-
  Divide.
-
-
 
 
 Simplify.
@@ -332,40 +403,44 @@ Simplify.
 Change to percent form.
 
 
-
  Check if this answer is reasonable.
-
 
 
   Yes. A 10% commission would have been $145.
  The 6% commission, $87, is a little more than half of that.
 
 
-
  Write a complete sentence that answers the question.
  The commission was 6% of the price of the stove.
 
 
-
+<div class="tryit">
 **Try It**
 
 
-Homer received \($1,140\) commission when he sold a car for \($28,500.\) What rate of commission did he get?
+Homer received <span class="math-inline">$1,140</span> commission when he sold a car for <span class="math-inline">$28,500.</span> What rate of commission did he get?
 
 
 4%
 
 
+<div class="tryit">
 **Try It**
 
 
-Bernice earned \($451\) commission when she sold an \($8,200\) living room set. What rate of commission did she get?
+Bernice earned <span class="math-inline">$451</span> commission when she sold an <span class="math-inline">$8,200</span> living room set. What rate of commission did she get?
 
 
 5.5%
 
 
+---
+
+
+---
+
 ## Solve Discount Applications
+
 
 Applications of discount are very common in retail settings . When you buy an item on sale, the *original price* of the item has been reduced by some dollar amount. The *discount rate*, usually given as a percent, is used to determine the amount of the discount. To determine the *amount of discount*, we multiply the discount rate by the original price. We summarize the discount model in the box below.
 
@@ -373,26 +448,30 @@ Applications of discount are very common in retail settings . When you buy an it
 *Applications of discounts are common in everyday life. (credit: Charleston's TheDigitel, Flickr)*
 
 
-**Discount**
+<div class="definition-label">**Discount**</div>
+
 
 An amount of **discount** is a percent off the original price.
 
 
-$$
+<div class="math-display">
 amount of discount & = & discount rate \\
 sale price & = & original price
-$$
+</div>
+
 
 The sale price should always be less than the original price. In some cases, the amount of discount is a fixed dollar amount. Then we just find the sale price by subtracting the amount of discount from the original price.
 
 
+<div class="example">
 **Example**
 
 
-Jason bought a pair of sunglasses that were on sale for \($10\) off. The original price of the sunglasses was \($39.\) What was the sale price of the sunglasses?
+Jason bought a pair of sunglasses that were on sale for <span class="math-inline">$10</span> off. The original price of the sunglasses was <span class="math-inline">$39.</span> What was the sale price of the sunglasses?
 
 
-Solution
+<div class="solution">
+<span class="def-label">Solution</span>
 
 
 Identify what you are asked to find.
@@ -400,64 +479,64 @@ What is the sale price?
 
 
 Choose a variable to represent it.
-Let \(s=\) the sale price.
+Let <span class="math-inline">s=</span> the sale price.
 
 
 Write a sentence that gives the information to find it.
 The sale price is the original price minus the discount.
 
 
-
    Translate into an equation.
-
-
 
 
 Simplify.
 
 
-
- Check if this answer is reasonable.
-
+<div class="check-box">
+<span class="def-label">Check if this answer is reasonable.</span>
 
 
  Yes. The sale price, $29, is less than the original price, $39.
-
 
 
  Write a complete sentence that answers the question.
  The sale price of the sunglasses was $29.
 
 
-
+<div class="tryit">
 **Try It**
 
 
-Marta bought a dishwasher that was on sale for \($75\) off. The original price of the dishwasher was \($525.\) What was the sale price of the dishwasher?
+Marta bought a dishwasher that was on sale for <span class="math-inline">$75</span> off. The original price of the dishwasher was <span class="math-inline">$525.</span> What was the sale price of the dishwasher?
 
 
 $450
 
 
+<div class="tryit">
 **Try It**
 
 
-Orlando bought a pair of shoes that was on sale for \($30\) off. The original price of the shoes was \($112.\) What was the sale price of the shoes?
+Orlando bought a pair of shoes that was on sale for <span class="math-inline">$30</span> off. The original price of the shoes was <span class="math-inline">$112.</span> What was the sale price of the shoes?
 
 
 $82
 
 
-In , the amount of discount was a set amount, \($10.\) In  the discount is given as a percent of the original price.
+In , the amount of discount was a set amount, <span class="math-inline">$10.</span> In  the discount is given as a percent of the original price.
 
 
+<div class="example">
 **Example**
 
 
-Elise bought a dress that was discounted \(35%\) off of the original price of \($140.\) What was ⓐ the amount of discount and ⓑ the sale price of the dress?
+Elise bought a dress that was discounted <span class="math-inline">35%</span> off of the original price of <span class="math-inline">$140.</span> What was ⓐ the amount of discount and ⓑ the sale price of the dress?
 
 
-Solution
+<div class="solution">
+<span class="def-label">Solution</span>
+
+
 ⓐ Before beginning, you may find it helpful to organize the information in a list.
 
 Original price = $140
@@ -472,34 +551,27 @@ What is the amount of discount?
 
 
 Choose a variable to represent it.
-Let \(d=\) the amount of discount.
+Let <span class="math-inline">d=</span> the amount of discount.
 
 
 Write a sentence that gives the information to find it.
 The discount is 35% of the original price.
 
 
-
    Translate into an equation.
-
-
 
 
 Simplify.
 
 
-
  Check if this answer is reasonable.
-
 
 
   Yes. A $49 discount is reasonable for a $140 dress.
 
 
-
  Write a complete sentence that answers the question.
  The amount of discount was $49.
-
 
 
 ⓑ
@@ -516,42 +588,34 @@ What is the sale price of the dress?
 
 
 Choose a variable to represent it.
-Let \(s=\) the sale price.
+Let <span class="math-inline">s=</span> the sale price.
 
 
 Write a sentence that gives the information to find it.
 The sale price is the original price minus the discount.
 
 
-
    Translate into an equation.
-
-
 
 
 Simplify.
 
 
-
  Check if this answer is reasonable.
 
 
-
-
  Yes. The sale price, $91, is less than the original price, $140.
-
-
 
 
  Write a complete sentence that answers the question.
  The sale price of the dress was $91.
 
 
-
+<div class="tryit">
 **Try It**
 
 
-Find ⓐ the amount of discount and ⓑ the sale price: Sergio bought a belt that was discounted \(40%\) from an original price of \($29.\)
+Find ⓐ the amount of discount and ⓑ the sale price: Sergio bought a belt that was discounted <span class="math-inline">40%</span> from an original price of <span class="math-inline">$29.</span>
 
 
   -
@@ -561,10 +625,11 @@ Find ⓐ the amount of discount and ⓑ the sale price: Sergio bought a belt tha
 ⓑ $17.40
 
 
+<div class="tryit">
 **Try It**
 
 
-Find ⓐ the amount of discount and ⓑ the sale price: Oscar bought a barbecue grill that was discounted \(65%\) from an original price of \($395.\)
+Find ⓐ the amount of discount and ⓑ the sale price: Oscar bought a barbecue grill that was discounted <span class="math-inline">65%</span> from an original price of <span class="math-inline">$395.</span>
 
 
   -
@@ -577,13 +642,17 @@ Find ⓐ the amount of discount and ⓑ the sale price: Oscar bought a barbecue 
 There may be times when you buy something on sale and want to know the discount rate. The next example will show this case.
 
 
+<div class="example">
 **Example**
 
 
-Jeannette bought a swimsuit at a sale price of \($13.95.\) The original price of the swimsuit was \($31.\) Find the ⓐ amount of discount and ⓑ discount rate.
+Jeannette bought a swimsuit at a sale price of <span class="math-inline">$13.95.</span> The original price of the swimsuit was <span class="math-inline">$31.</span> Find the ⓐ amount of discount and ⓑ discount rate.
 
 
-Solution
+<div class="solution">
+<span class="def-label">Solution</span>
+
+
 ⓐ Before beginning, you may find it helpful to organize the information in a list.
 
 Original price = $31
@@ -598,35 +667,27 @@ What is the amount of discount?
 
 
 Choose a variable to represent it.
-Let \(d=\) the amount of discount.
+Let <span class="math-inline">d=</span> the amount of discount.
 
 
 Write a sentence that gives the information to find it.
 The discount is the original price minus the sale price.
 
 
-
    Translate into an equation.
-
-
 
 
 Simplify.
 
 
-
  Check if this answer is reasonable.
-
-
 
 
   Yes. The $17.05 discount is less than the original price.
 
 
-
  Write a complete sentence that answers the question.
  The amount of discount was $17.05.
-
 
 
 ⓑ Before beginning, you may find it helpful to organize the information in a list.
@@ -643,17 +704,14 @@ What is the discount rate?
 
 
 Choose a variable to represent it.
-Let \(r=\) the discount rate.
+Let <span class="math-inline">r=</span> the discount rate.
 
 
 Write a sentence that gives the information to find it.
 The discount is what percent of the original price?
 
 
-
    Translate into an equation.
-
-
 
 
 Divide.
@@ -662,25 +720,21 @@ Divide.
  Simplify.
 
 
-
  Check if this answer is reasonable.
 
 
-
-
  The rate of discount was a little more than 50% and the amount of discount is a little more than half of $31.
-
 
 
  Write a complete sentence that answers the question.
  The rate of discount was 55%.
 
 
-
+<div class="tryit">
 **Try It**
 
 
-Find ⓐ the amount of discount and ⓑ the discount rate: Lena bought a kitchen table at the sale price of \($375.20.\) The original price of the table was \($560.\)
+Find ⓐ the amount of discount and ⓑ the discount rate: Lena bought a kitchen table at the sale price of <span class="math-inline">$375.20.</span> The original price of the table was <span class="math-inline">$560.</span>
 
 
   -
@@ -690,10 +744,11 @@ Find ⓐ the amount of discount and ⓑ the discount rate: Lena bought a kitchen
 ⓑ 33%
 
 
+<div class="tryit">
 **Try It**
 
 
-Find ⓐ the amount of discount and ⓑ the discount rate: Nick bought a multi-room air conditioner at a sale price of \($340.\) The original price of the air conditioner was \($400.\)
+Find ⓐ the amount of discount and ⓑ the discount rate: Nick bought a multi-room air conditioner at a sale price of <span class="math-inline">$340.</span> The original price of the air conditioner was <span class="math-inline">$400.</span>
 
 
   -
@@ -703,31 +758,41 @@ Find ⓐ the amount of discount and ⓑ the discount rate: Nick bought a multi-r
 ⓑ 15%
 
 
+---
+
+
+---
+
 ## Solve Mark-up Applications
+
 
 Applications of mark-up are very common in retail settings. The price a retailer pays for an item is called the *wholesale price*. The retailer then adds a *mark-up* to the wholesale price to get the *list price*, the price he sells the item for. The mark-up is usually calculated as a percent of the wholesale price. The percent is called the *mark-up rate*. To determine the amount of mark-up, multiply the mark-up rate by the wholesale price. We summarize the mark-up model in the box below.
 
 
-**Mark-up**
+<div class="definition-label">**Mark-up**</div>
+
 
 The mark-up is the amount added to the wholesale price.
 
 
-$$
+<div class="math-display">
 amount of mark-up & = & mark-up rate \\
 list price & = & wholesale price
-$$
+</div>
+
 
 The list price should always be more than the wholesale price.
 
 
+<div class="example">
 **Example**
 
 
-Adam's art gallery bought a photograph at the wholesale price of \($250.\) Adam marked the price up \(40%.\) Find the ⓐ amount of mark-up and ⓑ the list price of the photograph.
+Adam's art gallery bought a photograph at the wholesale price of <span class="math-inline">$250.</span> Adam marked the price up <span class="math-inline">40%.</span> Find the ⓐ amount of mark-up and ⓑ the list price of the photograph.
 
 
-Solution
+<div class="solution">
+<span class="def-label">Solution</span>
 
 
 ⓐ
@@ -738,35 +803,28 @@ What is the amount of mark-up?
 
 
 Choose a variable to represent it.
-Let \(m=\) the amount of each mark-up.
+Let <span class="math-inline">m=</span> the amount of each mark-up.
 
 
 Write a sentence that gives the information to find it.
 The mark-up is 40% of the wholesale price.
 
 
-
    Translate into an equation.
-
-
 
 
  Simplify.
 
 
-
- Check if this answer is reasonable.
-
-
+<div class="check-box">
+<span class="def-label">Check if this answer is reasonable.</span>
 
 
 Yes. The markup rate is less than 50% and $100 is less than half of $250.
 
 
-
  Write a complete sentence that answers the question.
  The mark-up on the photograph was $100.
-
 
 
 ⓑ
@@ -777,42 +835,34 @@ What is the list price?
 
 
 Choose a variable to represent it.
-Let \(p=\) the list price.
+Let <span class="math-inline">p=</span> the list price.
 
 
 Write a sentence that gives the information to find it.
 The list price is the wholesale price plus the mark-up.
 
 
-
    Translate into an equation.
-
-
 
 
  Simplify.
 
 
-
  Check if this answer is reasonable.
 
 
-
-
  Yes. The list price, $350, is more than the wholesale price, $250.
-
-
 
 
  Write a complete sentence that answers the question.
  The list price of the photograph was $350.
 
 
-
+<div class="tryit">
 **Try It**
 
 
-Jim's music store bought a guitar at wholesale price \($1,200.\) Jim marked the price up \(50%.\) Find the ⓐ amount of mark-up and ⓑ the list price.
+Jim's music store bought a guitar at wholesale price <span class="math-inline">$1,200.</span> Jim marked the price up <span class="math-inline">50%.</span> Find the ⓐ amount of mark-up and ⓑ the list price.
 
 
   -
@@ -822,10 +872,11 @@ Jim's music store bought a guitar at wholesale price \($1,200.\) Jim marked the 
 ⓑ $1,800
 
 
+<div class="tryit">
 **Try It**
 
 
-The Auto Resale Store bought Pablo's Toyota for \($8,500.\) They marked the price up \(35%.\) Find the ⓐ amount of mark-up and ⓑ the list price.
+The Auto Resale Store bought Pablo's Toyota for <span class="math-inline">$8,500.</span> They marked the price up <span class="math-inline">35%.</span> Find the ⓐ amount of mark-up and ⓑ the list price.
 
 
   -
@@ -835,26 +886,32 @@ The Auto Resale Store bought Pablo's Toyota for \($8,500.\) They marked the pric
 ⓑ $11,475
 
 
+---
+
+
+---
+
 ## Key Concepts
+
 
 - *Sales Tax* The sales tax is a percent of the purchase price.
 
-  - \(sales tax=tax rate\cdot purchase price\)
-  - \(total cost=purchase price+sales tax\)
+  - <span class="math-inline">sales tax=tax rate· purchase price</span>
+  - <span class="math-inline">total cost=purchase price+sales tax</span>
 
 - *Commission* A commission is a percentage of total sales as determined by the rate of commission.
 
-  - \(commission=rate of commission\cdot original price\)
+  - <span class="math-inline">commission=rate of commission· original price</span>
 
 - *Discount* An amount of discount is a percent off the original price, determined by the discount rate.
 
-  - \(amount of discount=discount rate\cdot original price\)
-  - \(sale price=original price-discount\)
+  - <span class="math-inline">amount of discount=discount rate· original price</span>
+  - <span class="math-inline">sale price=original price-discount</span>
 
 - *Mark-up* The mark-up is the amount added to the wholesale price, determined by the mark-up rate.
 
-  - \(amount of mark-up=mark-up rate   wholesale price\)
-  - \(list price=wholesale price+mark up\)
+  - <span class="math-inline">amount of mark-up=mark-up rate   wholesale price</span>
+  - <span class="math-inline">list price=wholesale price+mark up</span>
 
 
 ### Practice Makes Perfect
@@ -864,7 +921,7 @@ The Auto Resale Store bought Pablo's Toyota for \($8,500.\) They marked the pric
 In the following exercises, find ⓐ the sales tax and ⓑ the total cost.
 
 
-The cost of a pair of boots was \($84.\) The sales tax rate is \(5%\) of the purchase price.
+The cost of a pair of boots was <span class="math-inline">$84.</span> The sales tax rate is <span class="math-inline">5%</span> of the purchase price.
 
 
   -
@@ -874,10 +931,10 @@ The cost of a pair of boots was \($84.\) The sales tax rate is \(5%\) of the pur
 ⓑ $$88.20
 
 
-The cost of a refrigerator was \($1,242.\) The sales tax rate is \(8%\) of the purchase price.
+The cost of a refrigerator was <span class="math-inline">$1,242.</span> The sales tax rate is <span class="math-inline">8%</span> of the purchase price.
 
 
-The cost of a microwave oven was \($129.\) The sales tax rate is \(7.5%\) of the purchase price.
+The cost of a microwave oven was <span class="math-inline">$129.</span> The sales tax rate is <span class="math-inline">7.5%</span> of the purchase price.
 
 
   -
@@ -887,10 +944,10 @@ The cost of a microwave oven was \($129.\) The sales tax rate is \(7.5%\) of the
 ⓑ $138.68
 
 
-The cost of a tablet computer is \($350.\) The sales tax rate is \(8.5%\) of the purchase price.
+The cost of a tablet computer is <span class="math-inline">$350.</span> The sales tax rate is <span class="math-inline">8.5%</span> of the purchase price.
 
 
-The cost of a file cabinet is \($250.\) The sales tax rate is \(6.85%\) of the purchase price.
+The cost of a file cabinet is <span class="math-inline">$250.</span> The sales tax rate is <span class="math-inline">6.85%</span> of the purchase price.
 
 
   -
@@ -900,10 +957,10 @@ The cost of a file cabinet is \($250.\) The sales tax rate is \(6.85%\) of the p
 ⓑ $267.13
 
 
-The cost of a luggage set \($400.\) The sales tax rate is \(5.75%\) of the purchase price.
+The cost of a luggage set <span class="math-inline">$400.</span> The sales tax rate is <span class="math-inline">5.75%</span> of the purchase price.
 
 
-The cost of a \(6-drawer\) dresser \($1,199.\) The sales tax rate is \(5.125%\) of the purchase price.
+The cost of a <span class="math-inline">6-drawer</span> dresser <span class="math-inline">$1,199.</span> The sales tax rate is <span class="math-inline">5.125%</span> of the purchase price.
 
 
   -
@@ -913,28 +970,28 @@ The cost of a \(6-drawer\) dresser \($1,199.\) The sales tax rate is \(5.125%\) 
 ⓑ $1,260.45
 
 
-The cost of a sofa is \($1,350.\) The sales tax rate is \(4.225%\) of the purchase price.
+The cost of a sofa is <span class="math-inline">$1,350.</span> The sales tax rate is <span class="math-inline">4.225%</span> of the purchase price.
 
 
 In the following exercises, find the sales tax rate.
 
 
-Shawna bought a mixer for \($300.\) The sales tax on the purchase was \($19.50.\)
+Shawna bought a mixer for <span class="math-inline">$300.</span> The sales tax on the purchase was <span class="math-inline">$19.50.</span>
 
 
 6.5%
 
 
-Orphia bought a coffee table for \($400.\) The sales tax on the purchase was \($38.\)
+Orphia bought a coffee table for <span class="math-inline">$400.</span> The sales tax on the purchase was <span class="math-inline">$38.</span>
 
 
-Bopha bought a bedroom set for \($3,600.\) The sales tax on the purchase was \($246.60.\)
+Bopha bought a bedroom set for <span class="math-inline">$3,600.</span> The sales tax on the purchase was <span class="math-inline">$246.60.</span>
 
 
 6.85%
 
 
-Ruth bought a washer and dryer set for \($2,100.\) The sales tax on the purchase was \($152.25.\)
+Ruth bought a washer and dryer set for <span class="math-inline">$2,100.</span> The sales tax on the purchase was <span class="math-inline">$152.25.</span>
 
 
 *Solve Commission Applications*
@@ -942,61 +999,61 @@ Ruth bought a washer and dryer set for \($2,100.\) The sales tax on the purchase
 In the following exercises, find the commission.
 
 
-Christopher sold his dinette set for \($225\) through an online site, which charged him \(9%\) of the selling price as commission. How much was the commission?
+Christopher sold his dinette set for <span class="math-inline">$225</span> through an online site, which charged him <span class="math-inline">9%</span> of the selling price as commission. How much was the commission?
 
 
 $20.25
 
 
-Michele rented a booth at a craft fair, which charged her \(8%\) commission on her sales. One day her total sales were \($193.\) How much was the commission?
+Michele rented a booth at a craft fair, which charged her <span class="math-inline">8%</span> commission on her sales. One day her total sales were <span class="math-inline">$193.</span> How much was the commission?
 
 
-Farrah works in a jewelry store and receives \(12%\) commission when she makes a sale. How much commission will she receive for selling a \($8,125\) ring?
+Farrah works in a jewelry store and receives <span class="math-inline">12%</span> commission when she makes a sale. How much commission will she receive for selling a <span class="math-inline">$8,125</span> ring?
 
 
 $975
 
 
-Jamal works at a car dealership and receives \(9%\) commission when he sells a car. How much commission will he receive for selling a \($32,575\) car?
+Jamal works at a car dealership and receives <span class="math-inline">9%</span> commission when he sells a car. How much commission will he receive for selling a <span class="math-inline">$32,575</span> car?
 
 
-Hector receives \(17.5%\) commission when he sells an insurance policy. How much commission will he receive for selling a policy for \($4,910?\)
+Hector receives <span class="math-inline">17.5%</span> commission when he sells an insurance policy. How much commission will he receive for selling a policy for <span class="math-inline">$4,910?</span>
 
 
 $859.25
 
 
-Denise receives \(10.5%\) commission when she books a tour at the travel agency. How much commission will she receive for booking a tour with total cost \($7,420?\)
+Denise receives <span class="math-inline">10.5%</span> commission when she books a tour at the travel agency. How much commission will she receive for booking a tour with total cost <span class="math-inline">$7,420?</span>
 
 
 In the following exercises, find the rate of commission.
 
 
-Dontay is a realtor and earned \($11,250\) commission on the sale of a \($375,000\) house. What is his rate of commission?
+Dontay is a realtor and earned <span class="math-inline">$11,250</span> commission on the sale of a <span class="math-inline">$375,000</span> house. What is his rate of commission?
 
 
 3%
 
 
-Nevaeh is a cruise specialist and earned \($364\) commission after booking a cruise that cost \($5,200.\) What is her rate of commission?
+Nevaeh is a cruise specialist and earned <span class="math-inline">$364</span> commission after booking a cruise that cost <span class="math-inline">$5,200.</span> What is her rate of commission?
 
 
-As a waitress, Emily earned \($420\) in tips on sales of \($2,625\) last Saturday night. What was her rate of commission?
+As a waitress, Emily earned <span class="math-inline">$420</span> in tips on sales of <span class="math-inline">$2,625</span> last Saturday night. What was her rate of commission?
 
 
 16%
 
 
-Alejandra earned \($1,393.74\) commission on weekly sales of \($15,486\) as a salesperson at the computer store. What is her rate of commission?
+Alejandra earned <span class="math-inline">$1,393.74</span> commission on weekly sales of <span class="math-inline">$15,486</span> as a salesperson at the computer store. What is her rate of commission?
 
 
-Maureen earned \($7,052.50\) commission when she sold a \($45,500\) car. What was the rate of commission?
+Maureen earned <span class="math-inline">$7,052.50</span> commission when she sold a <span class="math-inline">$45,500</span> car. What was the rate of commission?
 
 
 15.5%
 
 
-Lucas earned \($4,487.50\) commission when he brought a \($35,900\) job to his office. What was the rate of commission?
+Lucas earned <span class="math-inline">$4,487.50</span> commission when he brought a <span class="math-inline">$35,900</span> job to his office. What was the rate of commission?
 
 
 *Solve Discount Applications*
@@ -1004,31 +1061,31 @@ Lucas earned \($4,487.50\) commission when he brought a \($35,900\) job to his o
 In the following exercises, find the sale price.
 
 
-Perla bought a cellphone that was on sale for \($50\) off. The original price of the cellphone was \($189.\)
+Perla bought a cellphone that was on sale for <span class="math-inline">$50</span> off. The original price of the cellphone was <span class="math-inline">$189.</span>
 
 
 $139
 
 
-Sophie saw a dress she liked on sale for \($15\) off. The original price of the dress was \($96.\)
+Sophie saw a dress she liked on sale for <span class="math-inline">$15</span> off. The original price of the dress was <span class="math-inline">$96.</span>
 
 
 $81
 
 
-Rick wants to buy a tool set with original price \($165.\) Next week the tool set will be on sale for \($40\) off.
+Rick wants to buy a tool set with original price <span class="math-inline">$165.</span> Next week the tool set will be on sale for <span class="math-inline">$40</span> off.
 
 
 $125
 
 
-Angelo's store is having a sale on TV sets. One set, with an original price of \($859,\) is selling for \($125\) off.
+Angelo's store is having a sale on TV sets. One set, with an original price of <span class="math-inline">$859,</span> is selling for <span class="math-inline">$125</span> off.
 
 
 In the following exercises, find ⓐ the amount of discount and ⓑ the sale price.
 
 
-Janelle bought a beach chair on sale at \(60%\) off. The original price was \($44.95\)
+Janelle bought a beach chair on sale at <span class="math-inline">60%</span> off. The original price was <span class="math-inline">$44.95</span>
 
 
   -
@@ -1038,10 +1095,10 @@ Janelle bought a beach chair on sale at \(60%\) off. The original price was \($4
 ⓑ $17.98
 
 
-Errol bought a skateboard helmet on sale at \(40%\) off. The original price was \($49.95.\)
+Errol bought a skateboard helmet on sale at <span class="math-inline">40%</span> off. The original price was <span class="math-inline">$49.95.</span>
 
 
-Kathy wants to buy a camera that lists for \($389.\) The camera is on sale with a \(33%\) discount.
+Kathy wants to buy a camera that lists for <span class="math-inline">$389.</span> The camera is on sale with a <span class="math-inline">33%</span> discount.
 
 
   -
@@ -1051,10 +1108,10 @@ Kathy wants to buy a camera that lists for \($389.\) The camera is on sale with 
 ⓑ $260.63
 
 
-Colleen bought a suit that was discounted \(25%\) from an original price of \($245.\)
+Colleen bought a suit that was discounted <span class="math-inline">25%</span> from an original price of <span class="math-inline">$245.</span>
 
 
-Erys bought a treadmill on sale at \(35%\) off. The original price was \($949.95.\)
+Erys bought a treadmill on sale at <span class="math-inline">35%</span> off. The original price was <span class="math-inline">$949.95.</span>
 
 
   -
@@ -1064,13 +1121,13 @@ Erys bought a treadmill on sale at \(35%\) off. The original price was \($949.95
 ⓑ $617.47
 
 
-Jay bought a guitar on sale at \(45%\) off. The original price was \($514.75.\)
+Jay bought a guitar on sale at <span class="math-inline">45%</span> off. The original price was <span class="math-inline">$514.75.</span>
 
 
 In the following exercises, find ⓐ the amount of discount and ⓑ the discount rate. (Round to the nearest tenth of a percent if needed.)
 
 
-Larry and Donna bought a sofa at the sale price of \($1,344.\) The original price of the sofa was \($1,920.\)
+Larry and Donna bought a sofa at the sale price of <span class="math-inline">$1,344.</span> The original price of the sofa was <span class="math-inline">$1,920.</span>
 
 
   -
@@ -1080,10 +1137,10 @@ Larry and Donna bought a sofa at the sale price of \($1,344.\) The original pric
 ⓑ 30%
 
 
-Hiroshi bought a lawnmower at the sale price of \($240.\) The original price of the lawnmower is \($300.\)
+Hiroshi bought a lawnmower at the sale price of <span class="math-inline">$240.</span> The original price of the lawnmower is <span class="math-inline">$300.</span>
 
 
-Patty bought a baby stroller on sale for \($301.75.\) The original price of the stroller was \($355.\)
+Patty bought a baby stroller on sale for <span class="math-inline">$301.75.</span> The original price of the stroller was <span class="math-inline">$355.</span>
 
 
   -
@@ -1093,10 +1150,10 @@ Patty bought a baby stroller on sale for \($301.75.\) The original price of the 
 ⓑ 15%
 
 
-Bill found a book he wanted on sale for \($20.80.\) The original price of the book was \($32.\)
+Bill found a book he wanted on sale for <span class="math-inline">$20.80.</span> The original price of the book was <span class="math-inline">$32.</span>
 
 
-Nikki bought a patio set on sale for \($480.\) The original price was \($850.\)
+Nikki bought a patio set on sale for <span class="math-inline">$480.</span> The original price was <span class="math-inline">$850.</span>
 
 
   -
@@ -1106,14 +1163,14 @@ Nikki bought a patio set on sale for \($480.\) The original price was \($850.\)
 ⓑ 43.5%
 
 
-Stella bought a dinette set on sale for \($725.\) The original price was \($1,299.\)
+Stella bought a dinette set on sale for <span class="math-inline">$725.</span> The original price was <span class="math-inline">$1,299.</span>
 
 *Solve Mark-up Applications*
 
 In the following exercises, find ⓐ the amount of the mark-up and ⓑ the list price.
 
 
-Daria bought a bracelet at wholesale cost \($16\) to sell in her handicraft store. She marked the price up \(45%.\)
+Daria bought a bracelet at wholesale cost <span class="math-inline">$16</span> to sell in her handicraft store. She marked the price up <span class="math-inline">45%.</span>
 
 
   -
@@ -1123,10 +1180,10 @@ Daria bought a bracelet at wholesale cost \($16\) to sell in her handicraft stor
 ⓑ $23.20
 
 
-Regina bought a handmade quilt at wholesale cost \($120\) to sell in her quilt store. She marked the price up \(55%.\)
+Regina bought a handmade quilt at wholesale cost <span class="math-inline">$120</span> to sell in her quilt store. She marked the price up <span class="math-inline">55%.</span>
 
 
-Tom paid \($0.60\) a pound for tomatoes to sell at his produce store. He added a \(33%\) mark-up.
+Tom paid <span class="math-inline">$0.60</span> a pound for tomatoes to sell at his produce store. He added a <span class="math-inline">33%</span> mark-up.
 
 
   -
@@ -1136,10 +1193,10 @@ Tom paid \($0.60\) a pound for tomatoes to sell at his produce store. He added a
 ⓑ $0.80
 
 
-Flora paid her supplier \($0.74\) a stem for roses to sell at her flower shop. She added an \(85%\) mark-up.
+Flora paid her supplier <span class="math-inline">$0.74</span> a stem for roses to sell at her flower shop. She added an <span class="math-inline">85%</span> mark-up.
 
 
-Alan bought a used bicycle for \($115.\) After re-conditioning it, he added \(225%\) mark-up and then advertised it for sale.
+Alan bought a used bicycle for <span class="math-inline">$115.</span> After re-conditioning it, he added <span class="math-inline">225%</span> mark-up and then advertised it for sale.
 
 
   -
@@ -1149,18 +1206,18 @@ Alan bought a used bicycle for \($115.\) After re-conditioning it, he added \(22
 ⓑ $373.75
 
 
-Michael bought a classic car for \($8,500.\) He restored it, then added \(150%\) mark-up before advertising it for sale.
+Michael bought a classic car for <span class="math-inline">$8,500.</span> He restored it, then added <span class="math-inline">150%</span> mark-up before advertising it for sale.
 
 
 ### Everyday Math
 
 
-*Coupons* Yvonne can use two coupons for the same purchase at her favorite department store. One coupon gives her \($20\) off and the other gives her \(25%\) off. She wants to buy a bedspread that sells for \($195.\)
+*Coupons* Yvonne can use two coupons for the same purchase at her favorite department store. One coupon gives her <span class="math-inline">$20</span> off and the other gives her <span class="math-inline">25%</span> off. She wants to buy a bedspread that sells for <span class="math-inline">$195.</span>
 
   -
-ⓐ Calculate the discount price if Yvonne uses the \($20\) coupon first and then takes \(25%\) off.
+ⓐ Calculate the discount price if Yvonne uses the <span class="math-inline">$20</span> coupon first and then takes <span class="math-inline">25%</span> off.
   -
-ⓑ Calculate the discount price if Yvonne uses the \(25%\) off coupon first and then uses the \($20\) coupon.
+ⓑ Calculate the discount price if Yvonne uses the <span class="math-inline">25%</span> off coupon first and then uses the <span class="math-inline">$20</span> coupon.
   -
 ⓒ In which order should Yvonne use the coupons?
 
@@ -1175,7 +1232,7 @@ Michael bought a classic car for \($8,500.\) He restored it, then added \(150%\)
 ⓒ 25% off first, then $20 off
 
 
-*Cash Back* Jason can buy a bag of dog food for \($35\) at two different stores. One store offers \(6%\) cash back on the purchase plus \($5\) off his next purchase. The other store offers \(20%\) cash back.
+*Cash Back* Jason can buy a bag of dog food for <span class="math-inline">$35</span> at two different stores. One store offers <span class="math-inline">6%</span> cash back on the purchase plus <span class="math-inline">$5</span> off his next purchase. The other store offers <span class="math-inline">20%</span> cash back.
   -
 ⓐ Calculate the total savings from the first store, including the savings on the next purchase.
 
@@ -1189,7 +1246,7 @@ Michael bought a classic car for \($8,500.\) He restored it, then added \(150%\)
 ### Writing Exercises
 
 
-Priam bought a jacket that was on sale for \(40%\) off. The original price of the jacket was \($150.\) While the sales clerk figured the price by calculating the amount of discount and then subtracting that amount from \($150,\) Priam found the price faster by calculating \(60%\) of \($150.\)
+Priam bought a jacket that was on sale for <span class="math-inline">40%</span> off. The original price of the jacket was <span class="math-inline">$150.</span> While the sales clerk figured the price by calculating the amount of discount and then subtracting that amount from <span class="math-inline">$150,</span> Priam found the price faster by calculating <span class="math-inline">60%</span> of <span class="math-inline">$150.</span>
 
   -
 ⓐ Explain why Priam was correct.
@@ -1205,7 +1262,7 @@ Priam bought a jacket that was on sale for \(40%\) off. The original price of th
 ⓑ Yes.
 
 
-Roxy bought a scarf on sale for \(50%\) off. The original price of the scarf was \($32.90.\) Roxy claimed that the price she paid for the scarf was the same as the amount she saved. Was Roxy correct? Explain.
+Roxy bought a scarf on sale for <span class="math-inline">50%</span> off. The original price of the scarf was <span class="math-inline">$32.90.</span> Roxy claimed that the price she paid for the scarf was the same as the amount she saved. Was Roxy correct? Explain.
 
 
 ### Self Check
@@ -1216,25 +1273,108 @@ Roxy bought a scarf on sale for \(50%\) off. The original price of the scarf was
 ⓑ What does this checklist tell you about your mastery of this section? What steps will you take to improve?
 
 
+<div class="prep-quiz">
 **Be Prepared!**
+
 
 Before you get started, take this readiness quiz.
 
 
-Solve \(0.6y=45.\)
+Solve <span class="math-inline">0.6y=45.</span>
 
 If you missed this problem, review .
 
 
-\(75\)
+<span class="math-inline">75</span>
 
 
+<div class="prep-quiz">
 **Be Prepared!**
 
 
-Solve \(\frac{n}{1.45}=4.6.\)
+Solve <span class="math-inline"><sup>n</sup>∕<sub>1.45</sub>=4.6.</span>
 
 If you missed this problem, review .
 
 
-\(6.67\)
+<span class="math-inline">6.67</span>
+
+</div>
+
+</div>
+
+</div>
+
+</div>
+
+</div>
+
+</div>
+
+</div>
+
+</div>
+
+</div>
+
+</div>
+
+</div>
+
+</div>
+
+</div>
+
+</div>
+
+</div>
+
+</div>
+
+</div>
+
+</div>
+
+</div>
+
+</div>
+
+</div>
+
+</div>
+
+</div>
+
+</div>
+
+</div>
+
+</div>
+
+</div>
+
+</div>
+
+</div>
+
+</div>
+
+</div>
+
+</div>
+
+</div>
+
+</div>
+
+</div>
+
+</div>
+
+</div>
+
+</div>
+
+</div>
+
+</div>

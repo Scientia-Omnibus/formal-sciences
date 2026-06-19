@@ -1,8 +1,82 @@
+<style>
+.math-inline {
+    font-style: italic;
+    padding: 2px 6px;
+    border-radius: 4px;
+    background: #f8f9fa;
+    font-family: Georgia, serif;
+}
+.math-display {
+    background: #f8f9fa;
+    border-left: 4px solid #4a90d9;
+    padding: 16px 20px;
+    margin: 16px 0;
+    border-radius: 6px;
+    font-size: 1.15em;
+    font-family: Georgia, serif;
+    text-align: center;
+    line-height: 2;
+    overflow-x: auto;
+}
+.example-box, .example {
+    background: #f0f8ff;
+    border-left: 4px solid #2e86de;
+    padding: 12px 20px;
+    margin: 16px 0;
+    border-radius: 6px;
+}
+.tryit-box, .tryit {
+    background: #f0fff4;
+    border-left: 4px solid #27ae60;
+    padding: 12px 20px;
+    margin: 16px 0;
+    border-radius: 6px;
+}
+.solution-box, .solution {
+    background: #fef9e7;
+    border-left: 4px solid #f39c12;
+    padding: 12px 20px;
+    margin: 12px 0;
+    border-radius: 6px;
+}
+.check-box, .check {
+    background: #fef9e7;
+    border-left: 4px solid #f39c12;
+    padding: 12px 20px;
+    margin: 12px 0;
+    border-radius: 6px;
+}
+.prep-quiz {
+    background: #fff3cd;
+    border: 1px solid #ffc107;
+    padding: 12px 20px;
+    margin: 16px 0;
+    border-radius: 6px;
+}
+.def-label, .definition-label {
+    font-weight: bold;
+    font-size: 1.1em;
+    margin: 20px 0 8px 0;
+    color: #2c3e50;
+    display: block;
+}
+.math-display sup, .math-inline sup { font-size: 0.75em; line-height: 0; }
+.math-display sub, .math-inline sub { font-size: 0.75em; line-height: 0; }
+</style>
+
+
+---
+
+
+---
+
 ## Translate Phrases to Expressions with Fractions
+
 
 Have you noticed that the examples in this section used the comparison words *ratio of, to, per, in, for, on*, and *from*? When you translate phrases that include these words, you should think either ratio or rate. If the units measure the same quantity (length, time, etc.), you have a ratio. If the units are different, you have a rate. In both cases, you write a fraction.
 
 
+<div class="example">
 **Example**
 
 
@@ -10,65 +84,55 @@ Translate the word phrase into an algebraic expression:
 
 
   -
-ⓐ \(427\) miles per \(h\) hours
+ⓐ <span class="math-inline">427</span> miles per <span class="math-inline">h</span> hours
 
   -
-ⓑ \(x\) students to \(3\) teachers
+ⓑ <span class="math-inline">x</span> students to <span class="math-inline">3</span> teachers
 
   -
-ⓒ \(y\) dollars for \(18\) hours
+ⓒ <span class="math-inline">y</span> dollars for <span class="math-inline">18</span> hours
 
 
-Solution
-
+<div class="solution">
+<span class="def-label">Solution</span>
 
 
  ⓐ
 
 
-
-
- \(427 miles per h hours\)
+ <span class="math-inline">427 miles per h hours</span>
 
 
  Write as a rate.
- \(\frac{427 miles}{h hours}\)
-
-
+ <span class="math-inline"><sup>427 miles</sup>∕<sub>h hours</sub></span>
 
 
  ⓑ
 
 
-
-
- \(x students to 3 teachers\)
+ <span class="math-inline">x students to 3 teachers</span>
 
 
  Write as a rate.
- \(\frac{x students}{3 teachers}\)
-
-
+ <span class="math-inline"><sup>x students</sup>∕<sub>3 teachers</sub></span>
 
 
  ⓒ
 
 
-
-
- \(y dollars for 18 hours\)
+ <span class="math-inline">y dollars for 18 hours</span>
 
 
  Write as a rate.
- \(\frac{$y}{18 hours}\)
+ <span class="math-inline"><sup>$y</sup>∕<sub>18 hours</sub></span>
 
 
-
+<div class="tryit">
 **Try It**
 
 
 Translate the word phrase into an algebraic expression.
-ⓐ \(689\) miles per \(h\) hours ⓑ \(y\) parents to \(22\) students ⓒ \(d\) dollars for \(9\) minutes
+ⓐ <span class="math-inline">689</span> miles per <span class="math-inline">h</span> hours ⓑ <span class="math-inline">y</span> parents to <span class="math-inline">22</span> students ⓒ <span class="math-inline">d</span> dollars for <span class="math-inline">9</span> minutes
 
 
   - ⓐ 689 mi/*h* hours
@@ -76,11 +140,12 @@ Translate the word phrase into an algebraic expression.
   - ⓒ $*d*/9 min
 
 
+<div class="tryit">
 **Try It**
 
 
 Translate the word phrase into an algebraic expression.
-ⓐ \(m\) miles per \(9\) hours ⓑ \(x\) students to \(8\) buses ⓒ \(y\) dollars for \(40\) hours
+ⓐ <span class="math-inline">m</span> miles per <span class="math-inline">9</span> hours ⓑ <span class="math-inline">x</span> students to <span class="math-inline">8</span> buses ⓒ <span class="math-inline">y</span> dollars for <span class="math-inline">40</span> hours
 
 
   - ⓐ *m* mi/9 h
@@ -88,7 +153,8 @@ Translate the word phrase into an algebraic expression.
   - ⓒ $*y*/40 h
 
 
-**ACCESS ADDITIONAL ONLINE RESOURCES**
+<div class="definition-label">**ACCESS ADDITIONAL ONLINE RESOURCES**</div>
+
 
 - Ratios
 
@@ -108,130 +174,130 @@ Translate the word phrase into an algebraic expression.
 In the following exercises, write each ratio as a fraction.
 
 
-\(20\) to \(36\)
+<span class="math-inline">20</span> to <span class="math-inline">36</span>
 
 
-\(\frac{5}{9}\)
+<span class="math-inline"><sup>5</sup>∕<sub>9</sub></span>
 
 
-\(20\) to \(32\)
+<span class="math-inline">20</span> to <span class="math-inline">32</span>
 
 
-\(42\) to \(48\)
+<span class="math-inline">42</span> to <span class="math-inline">48</span>
 
 
-\(\frac{7}{8}\)
+<span class="math-inline"><sup>7</sup>∕<sub>8</sub></span>
 
 
-\(45\) to \(54\)
+<span class="math-inline">45</span> to <span class="math-inline">54</span>
 
 
-\(49\) to \(21\)
+<span class="math-inline">49</span> to <span class="math-inline">21</span>
 
 
-\(\frac{7}{3}\)
+<span class="math-inline"><sup>7</sup>∕<sub>3</sub></span>
 
 
-\(56\) to \(16\)
+<span class="math-inline">56</span> to <span class="math-inline">16</span>
 
 
-\(84\) to \(36\)
+<span class="math-inline">84</span> to <span class="math-inline">36</span>
 
 
-\(\frac{7}{3}\)
+<span class="math-inline"><sup>7</sup>∕<sub>3</sub></span>
 
 
-\(6.4\) to \(0.8\)
+<span class="math-inline">6.4</span> to <span class="math-inline">0.8</span>
 
 
-\(0.56\) to \(2.8\)
+<span class="math-inline">0.56</span> to <span class="math-inline">2.8</span>
 
 
-\(\frac{1}{5}\)
+<span class="math-inline"><sup>1</sup>∕<sub>5</sub></span>
 
 
-\(1.26\) to \(4.2\)
+<span class="math-inline">1.26</span> to <span class="math-inline">4.2</span>
 
 
-\(1\frac{2}{3}\) to \(2\frac{5}{6}\)
+<span class="math-inline">1<sup>2</sup>∕<sub>3</sub></span> to <span class="math-inline">2<sup>5</sup>∕<sub>6</sub></span>
 
 
-\(\frac{10}{17}\)
+<span class="math-inline"><sup>10</sup>∕<sub>17</sub></span>
 
 
-\(1\frac{3}{4}\) to \(2\frac{5}{8}\)
+<span class="math-inline">1<sup>3</sup>∕<sub>4</sub></span> to <span class="math-inline">2<sup>5</sup>∕<sub>8</sub></span>
 
 
-\(4\frac{1}{6}\) to \(3\frac{1}{3}\)
+<span class="math-inline">4<sup>1</sup>∕<sub>6</sub></span> to <span class="math-inline">3<sup>1</sup>∕<sub>3</sub></span>
 
 
-\(\frac{5}{4}\)
+<span class="math-inline"><sup>5</sup>∕<sub>4</sub></span>
 
 
-\(5\frac{3}{5}\) to \(3\frac{3}{5}\)
+<span class="math-inline">5<sup>3</sup>∕<sub>5</sub></span> to <span class="math-inline">3<sup>3</sup>∕<sub>5</sub></span>
 
 
-\($18\) to \($63\)
+<span class="math-inline">$18</span> to <span class="math-inline">$63</span>
 
 
-\(\frac{2}{7}\)
+<span class="math-inline"><sup>2</sup>∕<sub>7</sub></span>
 
 
-\($16\) to \($72\)
+<span class="math-inline">$16</span> to <span class="math-inline">$72</span>
 
 
-\($1.21\) to \($0.44\)
+<span class="math-inline">$1.21</span> to <span class="math-inline">$0.44</span>
 
 
-\(\frac{11}{4}\)
+<span class="math-inline"><sup>11</sup>∕<sub>4</sub></span>
 
 
-\($1.38\) to \($0.69\)
+<span class="math-inline">$1.38</span> to <span class="math-inline">$0.69</span>
 
 
-\(28\) ounces to \(84\) ounces
+<span class="math-inline">28</span> ounces to <span class="math-inline">84</span> ounces
 
 
-\(\frac{1}{3}\)
+<span class="math-inline"><sup>1</sup>∕<sub>3</sub></span>
 
 
-\(32\) ounces to \(128\) ounces
+<span class="math-inline">32</span> ounces to <span class="math-inline">128</span> ounces
 
 
-\(12\) feet to \(46\) feet
+<span class="math-inline">12</span> feet to <span class="math-inline">46</span> feet
 
 
-\(\frac{6}{23}\)
+<span class="math-inline"><sup>6</sup>∕<sub>23</sub></span>
 
 
-\(15\) feet to \(57\) feet
+<span class="math-inline">15</span> feet to <span class="math-inline">57</span> feet
 
 
-\(246\) milligrams to \(45\) milligrams
+<span class="math-inline">246</span> milligrams to <span class="math-inline">45</span> milligrams
 
 
-\(\frac{82}{15}\)
+<span class="math-inline"><sup>82</sup>∕<sub>15</sub></span>
 
 
-\(304\) milligrams to \(48\) milligrams
+<span class="math-inline">304</span> milligrams to <span class="math-inline">48</span> milligrams
 
 
-total cholesterol of \(175\) to HDL cholesterol of \(45\)
+total cholesterol of <span class="math-inline">175</span> to HDL cholesterol of <span class="math-inline">45</span>
 
 
-\(\frac{35}{9}\)
+<span class="math-inline"><sup>35</sup>∕<sub>9</sub></span>
 
 
-total cholesterol of \(215\) to HDL cholesterol of \(55\)
+total cholesterol of <span class="math-inline">215</span> to HDL cholesterol of <span class="math-inline">55</span>
 
 
-\(27\) inches to \(1\) foot
+<span class="math-inline">27</span> inches to <span class="math-inline">1</span> foot
 
 
-\(\frac{9}{4}\)
+<span class="math-inline"><sup>9</sup>∕<sub>4</sub></span>
 
 
-\(28\) inches to \(1\) foot
+<span class="math-inline">28</span> inches to <span class="math-inline">1</span> foot
 
 
 *Write a Rate as a Fraction*
@@ -239,40 +305,40 @@ total cholesterol of \(215\) to HDL cholesterol of \(55\)
 In the following exercises, write each rate as a fraction.
 
 
-\(140\) calories per \(12\) ounces
+<span class="math-inline">140</span> calories per <span class="math-inline">12</span> ounces
 
 
-\(\frac{35 calories}{3 ounces}\)
+<span class="math-inline"><sup>35 calories</sup>∕<sub>3 ounces</sub></span>
 
 
-\(180\) calories per \(16\) ounces
+<span class="math-inline">180</span> calories per <span class="math-inline">16</span> ounces
 
 
-\(8.2\) pounds per \(3\) square inches
+<span class="math-inline">8.2</span> pounds per <span class="math-inline">3</span> square inches
 
 
-\(\frac{41 lbs}{15 sq. in.}\)
+<span class="math-inline"><sup>41 lbs</sup>∕<sub>15 sq. in.</sub></span>
 
 
-\(9.5\) pounds per \(4\) square inches
+<span class="math-inline">9.5</span> pounds per <span class="math-inline">4</span> square inches
 
 
-\(488\) miles in \(7\) hours
+<span class="math-inline">488</span> miles in <span class="math-inline">7</span> hours
 
 
-\(\frac{488 miles}{7 hours}\)
+<span class="math-inline"><sup>488 miles</sup>∕<sub>7 hours</sub></span>
 
 
-\(527\) miles in \(9\) hours
+<span class="math-inline">527</span> miles in <span class="math-inline">9</span> hours
 
 
-\($595\) for \(40\) hours
+<span class="math-inline">$595</span> for <span class="math-inline">40</span> hours
 
 
-\(\frac{$119}{8 hours}\)
+<span class="math-inline"><sup>$119</sup>∕<sub>8 hours</sub></span>
 
 
-\($798\) for \(40\) hours
+<span class="math-inline">$798</span> for <span class="math-inline">40</span> hours
 
 
 *Find Unit Rates*
@@ -280,76 +346,76 @@ In the following exercises, write each rate as a fraction.
 In the following exercises, find the unit rate. Round to two decimal places, if necessary.
 
 
-\(140\) calories per \(12\) ounces
+<span class="math-inline">140</span> calories per <span class="math-inline">12</span> ounces
 
 
 11.67 calories/ounce
 
 
-\(180\) calories per \(16\) ounces
+<span class="math-inline">180</span> calories per <span class="math-inline">16</span> ounces
 
 
-\(8.2\) pounds per \(3\) square inches
+<span class="math-inline">8.2</span> pounds per <span class="math-inline">3</span> square inches
 
 
 2.73 lbs./sq. in.
 
 
-\(9.5\) pounds per \(4\) square inches
+<span class="math-inline">9.5</span> pounds per <span class="math-inline">4</span> square inches
 
 
-\(488\) miles in \(7\) hours
+<span class="math-inline">488</span> miles in <span class="math-inline">7</span> hours
 
 
 69.71 mph
 
 
-\(527\) miles in \(9\) hours
+<span class="math-inline">527</span> miles in <span class="math-inline">9</span> hours
 
 
-\($595\) for \(40\) hours
+<span class="math-inline">$595</span> for <span class="math-inline">40</span> hours
 
 
 $14.88/hour
 
 
-\($798\) for \(40\) hours
+<span class="math-inline">$798</span> for <span class="math-inline">40</span> hours
 
 
-\(576\) miles on \(18\) gallons of gas
+<span class="math-inline">576</span> miles on <span class="math-inline">18</span> gallons of gas
 
 
 32 mpg
 
 
-\(435\) miles on \(15\) gallons of gas
+<span class="math-inline">435</span> miles on <span class="math-inline">15</span> gallons of gas
 
 
-\(43\) pounds in \(16\) weeks
+<span class="math-inline">43</span> pounds in <span class="math-inline">16</span> weeks
 
 
 2.69 lbs./week
 
 
-\(57\) pounds in \(24\) weeks
+<span class="math-inline">57</span> pounds in <span class="math-inline">24</span> weeks
 
 
-\(46\) beats in \(0.5\) minute
+<span class="math-inline">46</span> beats in <span class="math-inline">0.5</span> minute
 
 
 92 beats/minute
 
 
-\(54\) beats in \(0.5\) minute
+<span class="math-inline">54</span> beats in <span class="math-inline">0.5</span> minute
 
 
-The bindery at a printing plant assembles \(96,000\) magazines in \(12\) hours. How many magazines are assembled in one hour?
+The bindery at a printing plant assembles <span class="math-inline">96,000</span> magazines in <span class="math-inline">12</span> hours. How many magazines are assembled in one hour?
 
 
 8,000
 
 
-The pressroom at a printing plant prints \(540,000\) sections in \(12\) hours. How many sections are printed per hour?
+The pressroom at a printing plant prints <span class="math-inline">540,000</span> sections in <span class="math-inline">12</span> hours. How many sections are printed per hour?
 
 
 *Find Unit Price*
@@ -357,88 +423,88 @@ The pressroom at a printing plant prints \(540,000\) sections in \(12\) hours. H
 In the following exercises, find the unit price. Round to the nearest cent.
 
 
-Soap bars at \(8\) for \($8.69\)
+Soap bars at <span class="math-inline">8</span> for <span class="math-inline">$8.69</span>
 
 
 $1.09/bar
 
 
-Soap bars at \(4\) for \($3.39\)
+Soap bars at <span class="math-inline">4</span> for <span class="math-inline">$3.39</span>
 
 
-Women’s sports socks at \(6\) pairs for \($7.99\)
+Women’s sports socks at <span class="math-inline">6</span> pairs for <span class="math-inline">$7.99</span>
 
 
 $1.33/pair
 
 
-Men’s dress socks at \(3\) pairs for \($8.49\)
+Men’s dress socks at <span class="math-inline">3</span> pairs for <span class="math-inline">$8.49</span>
 
 
-Snack packs of cookies at \(12\) for \($5.79\)
+Snack packs of cookies at <span class="math-inline">12</span> for <span class="math-inline">$5.79</span>
 
 
 $0.48/pack
 
 
-Granola bars at \(5\) for \($3.69\)
+Granola bars at <span class="math-inline">5</span> for <span class="math-inline">$3.69</span>
 
 
-CD-RW discs at \(25\) for \($14.99\)
+CD-RW discs at <span class="math-inline">25</span> for <span class="math-inline">$14.99</span>
 
 
 $0.60/disc
 
 
-CDs at \(50\) for \($4.49\)
+CDs at <span class="math-inline">50</span> for <span class="math-inline">$4.49</span>
 
 
-The grocery store has a special on macaroni and cheese. The price is \($3.87\) for \(3\) boxes. How much does each box cost?
+The grocery store has a special on macaroni and cheese. The price is <span class="math-inline">$3.87</span> for <span class="math-inline">3</span> boxes. How much does each box cost?
 
 
 $1.29/box
 
 
-The pet store has a special on cat food. The price is \($4.32\) for \(12\) cans. How much does each can cost?
+The pet store has a special on cat food. The price is <span class="math-inline">$4.32</span> for <span class="math-inline">12</span> cans. How much does each can cost?
 
 
 In the following exercises, find each unit price and then identify the better buy. Round to three decimal places.
 
 
-Mouthwash, \(50.7-ounce\) size for \($6.99\) or \(33.8-ounce\) size for \($4.79\)
+Mouthwash, <span class="math-inline">50.7-ounce</span> size for <span class="math-inline">$6.99</span> or <span class="math-inline">33.8-ounce</span> size for <span class="math-inline">$4.79</span>
 
 
 The 50.7-ounce size costs $0.138 per ounce. The 33.8-ounce size costs $0.142 per ounce. The 50.7-ounce size is the better buy.
 
 
-Toothpaste, \(6\) ounce size for \($3.19\) or \(7.8-ounce\) size for \($5.19\)
+Toothpaste, <span class="math-inline">6</span> ounce size for <span class="math-inline">$3.19</span> or <span class="math-inline">7.8-ounce</span> size for <span class="math-inline">$5.19</span>
 
 
-Breakfast cereal, \(18\) ounces for \($3.99\) or \(14\) ounces for \($3.29\)
+Breakfast cereal, <span class="math-inline">18</span> ounces for <span class="math-inline">$3.99</span> or <span class="math-inline">14</span> ounces for <span class="math-inline">$3.29</span>
 
 
 The 18-ounce size costs $0.222 per ounce. The 14-ounce size costs $0.235 per ounce. The 18-ounce size is a better buy.
 
 
-Breakfast Cereal, \(10.7\) ounces for \($2.69\) or \(14.8\) ounces for \($3.69\)
+Breakfast Cereal, <span class="math-inline">10.7</span> ounces for <span class="math-inline">$2.69</span> or <span class="math-inline">14.8</span> ounces for <span class="math-inline">$3.69</span>
 
 
-Ketchup, \(40-ounce\) regular bottle for \($2.99\) or \(64-ounce\) squeeze bottle for \($4.39\)
+Ketchup, <span class="math-inline">40-ounce</span> regular bottle for <span class="math-inline">$2.99</span> or <span class="math-inline">64-ounce</span> squeeze bottle for <span class="math-inline">$4.39</span>
 
 
 The regular bottle costs $0.075 per ounce. The squeeze bottle costs $0.069 per ounce. The squeeze bottle is a better buy.
 
 
-Mayonnaise \(15-ounce\) regular bottle for \($3.49\) or \(22-ounce\) squeeze bottle for \($4.99\)
+Mayonnaise <span class="math-inline">15-ounce</span> regular bottle for <span class="math-inline">$3.49</span> or <span class="math-inline">22-ounce</span> squeeze bottle for <span class="math-inline">$4.99</span>
 
 
-Cheese \($6.49\) for \(1\) lb. block or \($3.39\) for \(\frac{1}{2}\) lb. block
+Cheese <span class="math-inline">$6.49</span> for <span class="math-inline">1</span> lb. block or <span class="math-inline">$3.39</span> for <span class="math-inline"><sup>1</sup>∕<sub>2</sub></span> lb. block
 
 
 The half-pound block costs $6.78/lb, so the 1-lb. block is a better buy.
 
 
-Candy \($10.99\) for a \(1\) lb. bag or \($2.89\) for \(\frac{1}{4}\) lb. of loose candy
+Candy <span class="math-inline">$10.99</span> for a <span class="math-inline">1</span> lb. bag or <span class="math-inline">$2.89</span> for <span class="math-inline"><sup>1</sup>∕<sub>4</sub></span> lb. of loose candy
 
 
 *Translate Phrases to Expressions with Fractions*
@@ -446,55 +512,55 @@ Candy \($10.99\) for a \(1\) lb. bag or \($2.89\) for \(\frac{1}{4}\) lb. of loo
 In the following exercises, translate the English phrase into an algebraic expression.
 
 
-\(793\) miles per \(p\) hours
+<span class="math-inline">793</span> miles per <span class="math-inline">p</span> hours
 
 
-\(\frac{793 miles}{p hours}\)
+<span class="math-inline"><sup>793 miles</sup>∕<sub>p hours</sub></span>
 
 
-\(78\) feet per \(r\) seconds
+<span class="math-inline">78</span> feet per <span class="math-inline">r</span> seconds
 
 
-\($3\) for \(0.5\) lbs.
+<span class="math-inline">$3</span> for <span class="math-inline">0.5</span> lbs.
 
 
-\(\frac{$3}{0.5 lbs.}\)
+<span class="math-inline"><sup>$3</sup>∕<sub>0.5 lbs.</sub></span>
 
 
-\(j\) beats in \(0.5\) minutes
+<span class="math-inline">j</span> beats in <span class="math-inline">0.5</span> minutes
 
 
-\(105\) calories in \(x\) ounces
+<span class="math-inline">105</span> calories in <span class="math-inline">x</span> ounces
 
 
-\(\frac{105 calories}{x ounces}\)
+<span class="math-inline"><sup>105 calories</sup>∕<sub>x ounces</sub></span>
 
 
-\(400\) minutes for \(m\) dollars
+<span class="math-inline">400</span> minutes for <span class="math-inline">m</span> dollars
 
 
-the ratio of \(y\) and \(5x\)
+the ratio of <span class="math-inline">y</span> and <span class="math-inline">5x</span>
 
 
-\(\frac{y}{5x}\)
+<span class="math-inline"><sup>y</sup>∕<sub>5x</sub></span>
 
 
-the ratio of \(12x\) and \(y\)
+the ratio of <span class="math-inline">12x</span> and <span class="math-inline">y</span>
 
 
 ### Everyday Math
 
 
-One elementary school in Ohio has \(684\) students and \(45\) teachers. Write the student-to-teacher ratio as a unit rate.
+One elementary school in Ohio has <span class="math-inline">684</span> students and <span class="math-inline">45</span> teachers. Write the student-to-teacher ratio as a unit rate.
 
 
 15.2 students per teacher
 
 
-The average American produces about \(1,600\) pounds of paper trash per year \((365 days).\) How many pounds of paper trash does the average American produce each day? (Round to the nearest tenth of a pound.)
+The average American produces about <span class="math-inline">1,600</span> pounds of paper trash per year <span class="math-inline">(365 days).</span> How many pounds of paper trash does the average American produce each day? (Round to the nearest tenth of a pound.)
 
 
-A popular fast food burger weighs \(7.5\) ounces and contains \(540\) calories, \(29\) grams of fat, \(43\) grams of carbohydrates, and \(25\) grams of protein. Find the unit rate of ⓐ calories per ounce ⓑ grams of fat per ounce ⓒ grams of carbohydrates per ounce ⓓ grams of protein per ounce. Round to two decimal places.
+A popular fast food burger weighs <span class="math-inline">7.5</span> ounces and contains <span class="math-inline">540</span> calories, <span class="math-inline">29</span> grams of fat, <span class="math-inline">43</span> grams of carbohydrates, and <span class="math-inline">25</span> grams of protein. Find the unit rate of ⓐ calories per ounce ⓑ grams of fat per ounce ⓒ grams of carbohydrates per ounce ⓓ grams of protein per ounce. Round to two decimal places.
 
 
   - ⓐ 72 calories/ounce
@@ -503,28 +569,28 @@ A popular fast food burger weighs \(7.5\) ounces and contains \(540\) calories, 
   - ⓓ 3.33 grams protein/ounce
 
 
-A \(16-ounce\) chocolate mocha coffee with whipped cream contains \(470\) calories, \(18\) grams of fat, \(63\) grams of carbohydrates, and \(15\) grams of protein. Find the unit rate of ⓐ calories per ounce ⓑ grams of fat per ounce ⓒ grams of carbohydrates per ounce ⓓ grams of protein per ounce.
+A <span class="math-inline">16-ounce</span> chocolate mocha coffee with whipped cream contains <span class="math-inline">470</span> calories, <span class="math-inline">18</span> grams of fat, <span class="math-inline">63</span> grams of carbohydrates, and <span class="math-inline">15</span> grams of protein. Find the unit rate of ⓐ calories per ounce ⓑ grams of fat per ounce ⓒ grams of carbohydrates per ounce ⓓ grams of protein per ounce.
 
 
 ### Writing Exercises
 
 
-Would you prefer the ratio of your income to your friend’s income to be \(3/1\) or \(1/3?\) Explain your reasoning.
+Would you prefer the ratio of your income to your friend’s income to be <span class="math-inline">3/1</span> or <span class="math-inline">1/3?</span> Explain your reasoning.
 
 
 Answers will vary.
 
 
-The parking lot at the airport charges \($0.75\) for every \(15\) minutes. ⓐ How much does it cost to park for \(1\) hour? ⓑ Explain how you got your answer to part ⓐ. Was your reasoning based on the unit cost or did you use another method?
+The parking lot at the airport charges <span class="math-inline">$0.75</span> for every <span class="math-inline">15</span> minutes. ⓐ How much does it cost to park for <span class="math-inline">1</span> hour? ⓑ Explain how you got your answer to part ⓐ. Was your reasoning based on the unit cost or did you use another method?
 
 
-Kathryn ate a \(4-ounce\) cup of frozen yogurt and then went for a swim. The frozen yogurt had \(115\) calories. Swimming burns \(422\) calories per hour. For how many minutes should Kathryn swim to burn off the calories in the frozen yogurt? Explain your reasoning.
+Kathryn ate a <span class="math-inline">4-ounce</span> cup of frozen yogurt and then went for a swim. The frozen yogurt had <span class="math-inline">115</span> calories. Swimming burns <span class="math-inline">422</span> calories per hour. For how many minutes should Kathryn swim to burn off the calories in the frozen yogurt? Explain your reasoning.
 
 
 Kathryn should swim for approximately 16.35 minutes. Explanations will vary.
 
 
-Mollie had a \(16-ounce\) cappuccino at her neighborhood coffee shop. The cappuccino had \(110\) calories. If Mollie walks for one hour, she burns \(246\) calories. For how many minutes must Mollie walk to burn off the calories in the cappuccino? Explain your reasoning.
+Mollie had a <span class="math-inline">16-ounce</span> cappuccino at her neighborhood coffee shop. The cappuccino had <span class="math-inline">110</span> calories. If Mollie walks for one hour, she burns <span class="math-inline">246</span> calories. For how many minutes must Mollie walk to burn off the calories in the cappuccino? Explain your reasoning.
 
 
 ### Self Check
@@ -535,53 +601,64 @@ Mollie had a \(16-ounce\) cappuccino at her neighborhood coffee shop. The cappuc
 ⓑ After reviewing this checklist, what will you do to become confident for all objectives?
 
 
+<div class="prep-quiz">
 **Be Prepared!**
+
 
 Before you get started, take this readiness quiz.
 
 
-Simplify: \((−9)^2.\)
+Simplify: <span class="math-inline">(−9)<sup>2</sup>.</span>
 
 If you missed this problem, review .
 
 
-\(81\)
+<span class="math-inline">81</span>
 
 
+<div class="prep-quiz">
 **Be Prepared!**
 
 
-Round \(3.846\) to the nearest hundredth.
+Round <span class="math-inline">3.846</span> to the nearest hundredth.
 
 If you missed this problem, review .
 
 
-\(3.85\)
+<span class="math-inline">3.85</span>
 
 
+<div class="prep-quiz">
 **Be Prepared!**
 
 
-Evaluate \(12d\) for \(d=80.\)
+Evaluate <span class="math-inline">12d</span> for <span class="math-inline">d=80.</span>
 
 If you missed this problem, review .
 
 
-\(960\)
+<span class="math-inline">960</span>
 
+
+---
+
+
+---
 
 ## Simplify Expressions with Square Roots
 
+
 To start this section, we need to review some important vocabulary and notation.
 
-Remember that when a number \(n\) is multiplied by itself, we can write this as \(n^2,\) which we read aloud as \(“n squared.”\) For example, \(8^2\) is read as \(“8 squared.”\)
+Remember that when a number <span class="math-inline">n</span> is multiplied by itself, we can write this as <span class="math-inline">n<sup>2</sup>,</span> which we read aloud as <span class="math-inline">“n squared.”</span> For example, <span class="math-inline">8<sup>2</sup></span> is read as <span class="math-inline">“8 squared.”</span>
 
-We call \(64\) the *square* of \(8\) because \(8^2=64.\) Similarly, \(121\) is the square of \(11,\) because \(11^2=121.\)
+We call <span class="math-inline">64</span> the *square* of <span class="math-inline">8</span> because <span class="math-inline">8<sup>2</sup>=64.</span> Similarly, <span class="math-inline">121</span> is the square of <span class="math-inline">11,</span> because <span class="math-inline">11<sup>2</sup>=121.</span>
 
 
-**Square of a Number**
+<div class="definition-label">**Square of a Number**</div>
 
-If \(n^2=m,\) then \(m\) is the square of \(n.\)
+
+If <span class="math-inline">n<sup>2</sup>=m,</span> then <span class="math-inline">m</span> is the square of <span class="math-inline">n.</span>
 
 
 ### Modeling Squares
@@ -591,173 +668,170 @@ Do you know why we use the word *square*? If we construct a square with three ti
 This is why we say that the square of three is nine.
 
 
-$$
-3^2=9
-$$
-
-The number \(9\) is called a **perfect square** because it is the square of a whole number.
-
-The chart shows the squares of the counting numbers \(1\) through \(15.\) You can refer to it to help you identify the perfect squares.
+<div class="math-display">
+3<sup>2</sup>=9
+</div>
 
 
-**Perfect Squares**
+The number <span class="math-inline">9</span> is called a **perfect square** because it is the square of a whole number.
+
+The chart shows the squares of the counting numbers <span class="math-inline">1</span> through <span class="math-inline">15.</span> You can refer to it to help you identify the perfect squares.
+
+
+<div class="definition-label">**Perfect Squares**</div>
+
 
 A **perfect square** is the square of a whole number.
 
 What happens when you square a negative number?
 
 
-$$
-(−8)^2 & = \\
+<div class="math-display">
+(−8)<sup>2</sup> & = \\
  & =
-$$
+</div>
+
 
 When we multiply two negative numbers, the product is always positive. So, the square of a negative number is always positive.
 
-The chart shows the squares of the negative integers from \(−1\) to \(−15.\)
+The chart shows the squares of the negative integers from <span class="math-inline">−1</span> to <span class="math-inline">−15.</span>
 
 Did you notice that these squares are the same as the squares of the positive numbers?
 
 
 ### Square Roots
 
-Sometimes we will need to look at the relationship between numbers and their squares in reverse. Because \(10^2=100,\) we say \(100\) is the square of \(10.\) We can also say that \(10\) is a square root of \(100.\)
+Sometimes we will need to look at the relationship between numbers and their squares in reverse. Because <span class="math-inline">10<sup>2</sup>=100,</span> we say <span class="math-inline">100</span> is the square of <span class="math-inline">10.</span> We can also say that <span class="math-inline">10</span> is a square root of <span class="math-inline">100.</span>
 
 
-**Square Root of a Number**
+<div class="definition-label">**Square Root of a Number**</div>
 
-A number whose square is \(m\) is called a **square root** of \(m.\)
 
-If \(n^2=m,\) then \(n\) is a **square root** of \(m.\)
+A number whose square is <span class="math-inline">m</span> is called a **square root** of <span class="math-inline">m.</span>
 
-Notice \((−10)^2=100\) also, so \(−10\) is also a square root of \(100.\) Therefore, both \(10\) and \(−10\) are square roots of \(100.\)
+If <span class="math-inline">n<sup>2</sup>=m,</span> then <span class="math-inline">n</span> is a **square root** of <span class="math-inline">m.</span>
+
+Notice <span class="math-inline">(−10)<sup>2</sup>=100</span> also, so <span class="math-inline">−10</span> is also a square root of <span class="math-inline">100.</span> Therefore, both <span class="math-inline">10</span> and <span class="math-inline">−10</span> are square roots of <span class="math-inline">100.</span>
 
 So, every positive number has two square roots: one positive and one negative.
 
-What if we only want the positive square root of a positive number? The *radical sign,* \(\sqrt{},\) stands for the positive square root. The positive square root is also called the **principal square root**.
+What if we only want the positive square root of a positive number? The *radical sign,* <span class="math-inline">√,</span> stands for the positive square root. The positive square root is also called the **principal square root**.
 
 
-**Square Root Notation**
-
-\(\sqrt{m}\) is read as “the square root of \(m.”\)
-
-\(If m=n^2, then \sqrt{m}=n for n\ge 0.\)
-
-We can also use the radical sign for the square root of zero. Because \(0^2=0,\sqrt{0}=0.\) Notice that zero has only one square root.
-
-The chart shows the square roots of the first \(15\) perfect square numbers.
+<div class="definition-label">**Square Root Notation**</div>
 
 
+<span class="math-inline">√{m}</span> is read as “the square root of <span class="math-inline">m.”</span>
+
+<span class="math-inline">If m=n<sup>2</sup>, then √{m}=n for n≥ 0.</span>
+
+We can also use the radical sign for the square root of zero. Because <span class="math-inline">0<sup>2</sup>=0,√{0}=0.</span> Notice that zero has only one square root.
+
+The chart shows the square roots of the first <span class="math-inline">15</span> perfect square numbers.
+
+
+<div class="example">
 **Example**
 
 
-Simplify: ⓐ \(\sqrt{25}\)ⓑ \(\sqrt{121}.\)
+Simplify: ⓐ <span class="math-inline">√{25}</span>ⓑ <span class="math-inline">√{121}.</span>
 
 
-Solution
-
+<div class="solution">
+<span class="def-label">Solution</span>
 
 
  ⓐ
 
 
+ <span class="math-inline">√{25}</span>
 
 
- \(\sqrt{25}\)
-
-
- Since \(5^2=25\)
- \(5\)
-
-
+ Since <span class="math-inline">5<sup>2</sup>=25</span>
+ <span class="math-inline">5</span>
 
 
  ⓑ
 
 
+ <span class="math-inline">√{121}</span>
 
 
- \(\sqrt{121}\)
+ Since <span class="math-inline">11<sup>2</sup>=121</span>
+ <span class="math-inline">11</span>
 
 
- Since \(11^2=121\)
- \(11\)
-
-
-
+<div class="tryit">
 **Try It**
 
 
-Simplify: ⓐ \(\sqrt{36}\)ⓑ \(\sqrt{169}.\)
+Simplify: ⓐ <span class="math-inline">√{36}</span>ⓑ <span class="math-inline">√{169}.</span>
 
 
   - ⓐ 6
   - ⓑ 13
 
 
+<div class="tryit">
 **Try It**
 
 
-Simplify: ⓐ \(\sqrt{16}\)ⓑ \(\sqrt{196}.\)
+Simplify: ⓐ <span class="math-inline">√{16}</span>ⓑ <span class="math-inline">√{196}.</span>
 
 
   - ⓐ 4
   - ⓑ 14
 
-Every positive number has two **square root**s and the radical sign indicates the positive one. We write \(\sqrt{100}=10.\) If we want to find the negative square root of a number, we place a negative in front of the radical sign. For example, \(-\sqrt{100}=−10.\)
+Every positive number has two **square root**s and the radical sign indicates the positive one. We write <span class="math-inline">√{100}=10.</span> If we want to find the negative square root of a number, we place a negative in front of the radical sign. For example, <span class="math-inline">-√{100}=−10.</span>
 
 
+<div class="example">
 **Example**
 
 
-Simplify. ⓐ \(-\sqrt{9}\)ⓑ \(-\sqrt{144.}\)
+Simplify. ⓐ <span class="math-inline">-√{9}</span>ⓑ <span class="math-inline">-√{144.</span>
 
 
-Solution
-
+<div class="solution">
+<span class="def-label">Solution</span>
 
 
  ⓐ
 
 
-
-
- \(-\sqrt{9}\)
+ <span class="math-inline">-√{9}</span>
 
 
  The negative is in front of the radical sign.
- \(-3\)
-
-
+ <span class="math-inline">-3</span>
 
 
  ⓑ
 
 
-
-
- \(-\sqrt{144}\)
+ <span class="math-inline">-√{144}</span>
 
 
  The negative is in front of the radical sign.
- \(-12\)
+ <span class="math-inline">-12</span>
 
 
-
+<div class="tryit">
 **Try It**
 
 
-Simplify: ⓐ \(-\sqrt{4}\)ⓑ \(-\sqrt{225}.\)
+Simplify: ⓐ <span class="math-inline">-√{4}</span>ⓑ <span class="math-inline">-√{225}.</span>
 
 
   - ⓐ −2
   - ⓑ −15
 
 
+<div class="tryit">
 **Try It**
 
 
-Simplify: ⓐ \(-\sqrt{81}\)ⓑ \(-\sqrt{64}.\)
+Simplify: ⓐ <span class="math-inline">-√{81}</span>ⓑ <span class="math-inline">-√{64}.</span>
 
 
   - ⓐ −9
@@ -766,50 +840,54 @@ Simplify: ⓐ \(-\sqrt{81}\)ⓑ \(-\sqrt{64}.\)
 
 ### Square Root of a Negative Number
 
-Can we simplify \(\sqrt{−25}?\) Is there a number whose square is \(−25?\)
+Can we simplify <span class="math-inline">√−25}?</span> Is there a number whose square is <span class="math-inline">−25?</span>
 
 
-$$
-( )^2=−25?
-$$
-
-None of the numbers that we have dealt with so far have a square that is \(−25.\) Why? Any positive number squared is positive, and any negative number squared is also positive. In the next chapter we will see that all the numbers we work with are called the real numbers. So we say there is no real number equal to \(\sqrt{−25}.\) If we are asked to find the **square root** of any negative number, we say that the solution is not a real number.
+<div class="math-display">
+( )<sup>2</sup>=−25?
+</div>
 
 
+None of the numbers that we have dealt with so far have a square that is <span class="math-inline">−25.</span> Why? Any positive number squared is positive, and any negative number squared is also positive. In the next chapter we will see that all the numbers we work with are called the real numbers. So we say there is no real number equal to <span class="math-inline">√−25}.</span> If we are asked to find the **square root** of any negative number, we say that the solution is not a real number.
+
+
+<div class="example">
 **Example**
 
 
-Simplify: ⓐ \(\sqrt{−169}\)ⓑ \(-\sqrt{121}.\)
+Simplify: ⓐ <span class="math-inline">√−169}</span>ⓑ <span class="math-inline">-√{121}.</span>
 
 
-Solution
-ⓐ There is no real number whose square is \(−169.\) Therefore, \(\sqrt{−169}\) is not a real number.ⓑ The negative is in front of the radical sign, so we find the opposite of the square root of \(121.\)
+<div class="solution">
+<span class="def-label">Solution</span>
 
 
+ⓐ There is no real number whose square is <span class="math-inline">−169.</span> Therefore, <span class="math-inline">√−169}</span> is not a real number.ⓑ The negative is in front of the radical sign, so we find the opposite of the square root of <span class="math-inline">121.</span>
 
 
- \(-\sqrt{121}\)
+ <span class="math-inline">-√{121}</span>
 
 
  The negative is in front of the radical.
- \(-11\)
+ <span class="math-inline">-11</span>
 
 
-
+<div class="tryit">
 **Try It**
 
 
-Simplify: ⓐ \(\sqrt{−196}\)ⓑ \(-\sqrt{81}.\)
+Simplify: ⓐ <span class="math-inline">√−196}</span>ⓑ <span class="math-inline">-√{81}.</span>
 
 
   - ⓐ not a real number
   - ⓑ −9
 
 
+<div class="tryit">
 **Try It**
 
 
-Simplify: ⓐ \(\sqrt{−49}\)ⓑ \(-\sqrt{121}.\)
+Simplify: ⓐ <span class="math-inline">√−49}</span>ⓑ <span class="math-inline">-√{121}.</span>
 
 
   - ⓐ not a real number
@@ -821,65 +899,61 @@ Simplify: ⓐ \(\sqrt{−49}\)ⓑ \(-\sqrt{121}.\)
 When using the order of operations to simplify an expression that has square roots, we treat the radical sign as a grouping symbol. We simplify any expressions under the radical sign before performing other operations.
 
 
+<div class="example">
 **Example**
 
 
-Simplify: ⓐ \(\sqrt{25}+\sqrt{144}\)ⓑ \(\sqrt{25+144}.\)
+Simplify: ⓐ <span class="math-inline">√{25}+√{144}</span>ⓑ <span class="math-inline">√{25+144}.</span>
 
 
-Solution
-
+<div class="solution">
+<span class="def-label">Solution</span>
 
 
  ⓐ Use the order of operations.
 
 
-
-
- \(\sqrt{25}+\sqrt{144}\)
+ <span class="math-inline">√{25}+√{144}</span>
 
 
  Simplify each radical.
- \(5+12\)
+ <span class="math-inline">5+12</span>
 
 
  Add.
- \(17\)
-
-
+ <span class="math-inline">17</span>
 
 
  ⓑ Use the order of operations.
 
 
-
-
- \(\sqrt{25}\)
+ <span class="math-inline">√{25}</span>
 
 
  Add under the radical sign.
- \(\sqrt{169}\)
+ <span class="math-inline">√{169}</span>
 
 
  Simplify.
- \(13\)
+ <span class="math-inline">13</span>
 
 
-
+<div class="tryit">
 **Try It**
 
 
-Simplify: ⓐ \(\sqrt{9}+\sqrt{16}\)ⓑ \(\sqrt{9+16}.\)
+Simplify: ⓐ <span class="math-inline">√{9}+√{16}</span>ⓑ <span class="math-inline">√{9+16}.</span>
 
 
   - ⓐ 7
   - ⓑ 5
 
 
+<div class="tryit">
 **Try It**
 
 
-Simplify: ⓐ \(\sqrt{64+225}\)ⓑ \(\sqrt{64}+\sqrt{225}.\)
+Simplify: ⓐ <span class="math-inline">√{64+225}</span>ⓑ <span class="math-inline">√{64}+√{225}.</span>
 
 
   - ⓐ 17
@@ -888,121 +962,205 @@ Simplify: ⓐ \(\sqrt{64+225}\)ⓑ \(\sqrt{64}+\sqrt{225}.\)
 Notice the different answers in parts ⓐ and ⓑ of . It is important to follow the order of operations correctly. In ⓐ , we took each square root first and then added them. In ⓑ , we added under the radical sign first and then found the square root.
 
 
+---
+
+
+---
+
 ## Estimate Square Roots
+
 
 So far we have only worked with square roots of perfect squares. The square roots of other numbers are not whole numbers.
 
-We might conclude that the square roots of numbers between \(4\) and \(9\) will be between \(2\) and \(3,\) and they will not be whole numbers. Based on the pattern in the table above, we could say that \(\sqrt{5}\) is between \(2\) and \(3.\) Using inequality symbols, we write
+We might conclude that the square roots of numbers between <span class="math-inline">4</span> and <span class="math-inline">9</span> will be between <span class="math-inline">2</span> and <span class="math-inline">3,</span> and they will not be whole numbers. Based on the pattern in the table above, we could say that <span class="math-inline">√{5}</span> is between <span class="math-inline">2</span> and <span class="math-inline">3.</span> Using inequality symbols, we write
 
 
-$$
-2<\sqrt{5}<3
-$$
+<div class="math-display">
+2<√{5}<3
+</div>
 
 
+<div class="example">
 **Example**
 
 
-Estimate \(\sqrt{60}\) between two consecutive whole numbers.
+Estimate <span class="math-inline">√{60}</span> between two consecutive whole numbers.
 
 
-Solution
-Think of the perfect squares closest to \(60.\) Make a small table of these perfect squares and their squares roots.
+<div class="solution">
+<span class="def-label">Solution</span>
 
 
-\(Locate 60 between two consecutive perfect squares.\)
-\(49<60<64\)
-
-\(\sqrt{60} is between their square roots.\)
-\(7<\sqrt{60}<8\)
+Think of the perfect squares closest to <span class="math-inline">60.</span> Make a small table of these perfect squares and their squares roots.
 
 
+<span class="math-inline">Locate 60 between two consecutive perfect squares.</span>
+<span class="math-inline">49<60<64</span>
+
+<span class="math-inline">√{60} is between their square roots.</span>
+<span class="math-inline">7<√{60}<8</span>
+
+
+<div class="tryit">
 **Try It**
 
 
-Estimate \(\sqrt{38}\) between two consecutive whole numbers.
+Estimate <span class="math-inline">√{38}</span> between two consecutive whole numbers.
 
 
-\(6<\sqrt{38}<7\)
+<span class="math-inline">6<√{38}<7</span>
 
 
+<div class="tryit">
 **Try It**
 
 
-Estimate \(\sqrt{84}\) between two consecutive whole numbers.
+Estimate <span class="math-inline">√{84}</span> between two consecutive whole numbers.
 
 
-\(9<\sqrt{84}<10\)
+<span class="math-inline">9<√{84}<10</span>
 
+
+---
+
+
+---
 
 ## Approximate Square Roots with a Calculator
 
-There are mathematical methods to approximate square roots, but it is much more convenient to use a calculator to find square roots. Find the \(\sqrt{}\) or \(\sqrt{x}\) key on your calculator. You will need to use this key to approximate square roots. When you use your calculator to find the square root of a number that is not a perfect square, the answer that you see is not the exact number. It is an approximation, to the number of digits shown on your calculator’s display. The symbol for an approximation is \(\approx\) and it is read *approximately*.
 
-Suppose your calculator has a \(10-digit\) display. Using it to find the square root of \(5\) will give \(2.236067977.\) This is the approximate square root of \(5.\) When we report the answer, we should use the “approximately equal to” sign instead of an equal sign.
+There are mathematical methods to approximate square roots, but it is much more convenient to use a calculator to find square roots. Find the <span class="math-inline">√</span> or <span class="math-inline">√{x}</span> key on your calculator. You will need to use this key to approximate square roots. When you use your calculator to find the square root of a number that is not a perfect square, the answer that you see is not the exact number. It is an approximation, to the number of digits shown on your calculator’s display. The symbol for an approximation is <span class="math-inline">≈</span> and it is read *approximately*.
 
-
-$$
-\sqrt{5}\approx 2.236067978
-$$
-
-You will seldom use this many digits for applications in algebra. So, if you wanted to round \(\sqrt{5}\) to two decimal places, you would write
+Suppose your calculator has a <span class="math-inline">10-digit</span> display. Using it to find the square root of <span class="math-inline">5</span> will give <span class="math-inline">2.236067977.</span> This is the approximate square root of <span class="math-inline">5.</span> When we report the answer, we should use the “approximately equal to” sign instead of an equal sign.
 
 
-$$
-\sqrt{5}\approx 2.24
-$$
+<div class="math-display">
+√{5}≈ 2.236067978
+</div>
+
+
+You will seldom use this many digits for applications in algebra. So, if you wanted to round <span class="math-inline">√{5}</span> to two decimal places, you would write
+
+
+<div class="math-display">
+√{5}≈ 2.24
+</div>
+
 
 How do we know these values are approximations and not the exact values? Look at what happens when we square them.
 
 
-$$
-2.236067978^2 & = & 5.000000002 \\
-2.24^2 & = & 5.0176
-$$
-
-The squares are close, but not exactly equal, to \(5.\)
+<div class="math-display">
+2.236067978<sup>2</sup> & = & 5.000000002 \\
+2.24<sup>2</sup> & = & 5.0176
+</div>
 
 
+The squares are close, but not exactly equal, to <span class="math-inline">5.</span>
+
+
+<div class="example">
 **Example**
 
 
-Round \(\sqrt{17}\) to two decimal places using a calculator.
+Round <span class="math-inline">√{17}</span> to two decimal places using a calculator.
 
 
-Solution
+<div class="solution">
+<span class="def-label">Solution</span>
 
 
-
-
- \(\sqrt{17}\)
+ <span class="math-inline">√{17}</span>
 
 
  Use the calculator square root key.
- \(4.123105626\)
+ <span class="math-inline">4.123105626</span>
 
 
  Round to two decimal places.
- \(4.12\)
+ <span class="math-inline">4.12</span>
 
 
+ <span class="math-inline">√{17}≈ 4.12</span>
 
- \(\sqrt{17}\approx 4.12\)
 
-
+<div class="tryit">
 **Try It**
 
 
-Round \(\sqrt{11}\) to two decimal places.
+Round <span class="math-inline">√{11}</span> to two decimal places.
 
 
 ≈ 3.32
 
 
+<div class="tryit">
 **Try It**
 
 
-Round \(\sqrt{13}\) to two decimal places.
+Round <span class="math-inline">√{13}</span> to two decimal places.
 
 
 ≈ 3.61
+
+</div>
+
+</div>
+
+</div>
+
+</div>
+
+</div>
+
+</div>
+
+</div>
+
+</div>
+
+</div>
+
+</div>
+
+</div>
+
+</div>
+
+</div>
+
+</div>
+
+</div>
+
+</div>
+
+</div>
+
+</div>
+
+</div>
+
+</div>
+
+</div>
+
+</div>
+
+</div>
+
+</div>
+
+</div>
+
+</div>
+
+</div>
+
+</div>
+
+</div>
+
+</div>
+
+</div>

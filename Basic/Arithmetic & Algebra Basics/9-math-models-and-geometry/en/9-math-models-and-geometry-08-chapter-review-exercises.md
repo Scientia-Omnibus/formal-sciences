@@ -1,4 +1,74 @@
+<style>
+.math-inline {
+    font-style: italic;
+    padding: 2px 6px;
+    border-radius: 4px;
+    background: #f8f9fa;
+    font-family: Georgia, serif;
+}
+.math-display {
+    background: #f8f9fa;
+    border-left: 4px solid #4a90d9;
+    padding: 16px 20px;
+    margin: 16px 0;
+    border-radius: 6px;
+    font-size: 1.15em;
+    font-family: Georgia, serif;
+    text-align: center;
+    line-height: 2;
+    overflow-x: auto;
+}
+.example-box, .example {
+    background: #f0f8ff;
+    border-left: 4px solid #2e86de;
+    padding: 12px 20px;
+    margin: 16px 0;
+    border-radius: 6px;
+}
+.tryit-box, .tryit {
+    background: #f0fff4;
+    border-left: 4px solid #27ae60;
+    padding: 12px 20px;
+    margin: 16px 0;
+    border-radius: 6px;
+}
+.solution-box, .solution {
+    background: #fef9e7;
+    border-left: 4px solid #f39c12;
+    padding: 12px 20px;
+    margin: 12px 0;
+    border-radius: 6px;
+}
+.check-box, .check {
+    background: #fef9e7;
+    border-left: 4px solid #f39c12;
+    padding: 12px 20px;
+    margin: 12px 0;
+    border-radius: 6px;
+}
+.prep-quiz {
+    background: #fff3cd;
+    border: 1px solid #ffc107;
+    padding: 12px 20px;
+    margin: 16px 0;
+    border-radius: 6px;
+}
+.def-label, .definition-label {
+    font-weight: bold;
+    font-size: 1.1em;
+    margin: 20px 0 8px 0;
+    color: #2c3e50;
+    display: block;
+}
+.math-display sup, .math-inline sup { font-size: 0.75em; line-height: 0; }
+.math-display sub, .math-inline sub { font-size: 0.75em; line-height: 0; }
+</style>
+
+
+---
+
 ## Chapter Review Exercises
+
 
 *Approach Word Problems with a Positive Attitude*
 
@@ -19,22 +89,22 @@ Did the Problem Solving Strategy help you solve word problems in this chapter? E
 In the following exercises, solve using the problem-solving strategy for word problems. Remember to write a complete sentence to answer each question.
 
 
-Three-fourths of the people at a concert are children. If there are \(87\) children, what is the total number of people at the concert?
+Three-fourths of the people at a concert are children. If there are <span class="math-inline">87</span> children, what is the total number of people at the concert?
 
 
 There are 116 people at the concert.
 
 
-There are \(9\) saxophone players in the band. The number of saxophone players is one less than twice the number of tuba players. Find the number of tuba players.
+There are <span class="math-inline">9</span> saxophone players in the band. The number of saxophone players is one less than twice the number of tuba players. Find the number of tuba players.
 
 
-Reza was very sick and lost \(15%\) of his original weight. He lost \(27\) pounds. What was his original weight?
+Reza was very sick and lost <span class="math-inline">15%</span> of his original weight. He lost <span class="math-inline">27</span> pounds. What was his original weight?
 
 
 His original weight was 180 pounds.
 
 
-Dolores bought a crib on sale for \($350.\) The sale price was \(40%\) of the original price. What was the original price of the crib?
+Dolores bought a crib on sale for <span class="math-inline">$350.</span> The sale price was <span class="math-inline">40%</span> of the original price. What was the original price of the crib?
 
 
 *Solve Number Problems*
@@ -57,7 +127,7 @@ One number is nine less than another. Their sum is twenty-seven. Find the number
 18, 9
 
 
-The sum of two consecutive integers is \(-135.\) Find the numbers.
+The sum of two consecutive integers is <span class="math-inline">-135.</span> Find the numbers.
 
 
 *Solve Coin Word Problems*
@@ -65,22 +135,22 @@ The sum of two consecutive integers is \(-135.\) Find the numbers.
 In the following exercises, solve each coin word problem.
 
 
-Francie has \($4.35\) in dimes and quarters. The number of dimes is \(5\) more than the number of quarters. How many of each coin does she have?
+Francie has <span class="math-inline">$4.35</span> in dimes and quarters. The number of dimes is <span class="math-inline">5</span> more than the number of quarters. How many of each coin does she have?
 
 
 16 dimes, 11 quarters
 
 
-Scott has \($0.39\) in pennies and nickels. The number of pennies is \(8\) times the number of nickels. How many of each coin does he have?
+Scott has <span class="math-inline">$0.39</span> in pennies and nickels. The number of pennies is <span class="math-inline">8</span> times the number of nickels. How many of each coin does he have?
 
 
-Paulette has \($140\) in \($5\) and \($10\) bills. The number of \($10\) bills is one less than twice the number of \($5\) bills. How many of each does she have?
+Paulette has <span class="math-inline">$140</span> in <span class="math-inline">$5</span> and <span class="math-inline">$10</span> bills. The number of <span class="math-inline">$10</span> bills is one less than twice the number of <span class="math-inline">$5</span> bills. How many of each does she have?
 
 
 6 of $5 bills, 11 of $10 bills
 
 
-Lenny has \($3.69\) in pennies, dimes, and quarters. The number of pennies is \(3\) more than the number of dimes. The number of quarters is twice the number of dimes. How many of each coin does he have?
+Lenny has <span class="math-inline">$3.69</span> in pennies, dimes, and quarters. The number of pennies is <span class="math-inline">3</span> more than the number of dimes. The number of quarters is twice the number of dimes. How many of each coin does he have?
 
 
 *Solve Ticket and Stamp Word Problems*
@@ -88,22 +158,22 @@ Lenny has \($3.69\) in pennies, dimes, and quarters. The number of pennies is \(
 In the following exercises, solve each ticket or stamp word problem.
 
 
-A church luncheon made \($842.\) Adult tickets cost \($10\) each and children’s tickets cost \($6\) each. The number of children was \(12\) more than twice the number of adults. How many of each ticket were sold?
+A church luncheon made <span class="math-inline">$842.</span> Adult tickets cost <span class="math-inline">$10</span> each and children’s tickets cost <span class="math-inline">$6</span> each. The number of children was <span class="math-inline">12</span> more than twice the number of adults. How many of each ticket were sold?
 
 
 35 adults, 82 children
 
 
-Tickets for a basketball game cost \($2\) for students and \($5\) for adults. The number of students was \(3\) less than \(10\) times the number of adults. The total amount of money from ticket sales was \($619.\) How many of each ticket were sold?
+Tickets for a basketball game cost <span class="math-inline">$2</span> for students and <span class="math-inline">$5</span> for adults. The number of students was <span class="math-inline">3</span> less than <span class="math-inline">10</span> times the number of adults. The total amount of money from ticket sales was <span class="math-inline">$619.</span> How many of each ticket were sold?
 
 
-Ana spent \($4.06\) buying stamps. The number of \($0.41\) stamps she bought was \(5\) more than the number of \($0.26\) stamps. How many of each did she buy?
+Ana spent <span class="math-inline">$4.06</span> buying stamps. The number of <span class="math-inline">$0.41</span> stamps she bought was <span class="math-inline">5</span> more than the number of <span class="math-inline">$0.26</span> stamps. How many of each did she buy?
 
 
 3 of 26 -cent stamps, 8 of 41 -cent stamps
 
 
-Yumi spent \($34.15\) buying stamps. The number of \($0.56\) stamps she bought was \(10\) less than \(4\) times the number of \($0.41\) stamps. How many of each did she buy?
+Yumi spent <span class="math-inline">$34.15</span> buying stamps. The number of <span class="math-inline">$0.56</span> stamps she bought was <span class="math-inline">10</span> less than <span class="math-inline">4</span> times the number of <span class="math-inline">$0.41</span> stamps. How many of each did she buy?
 
 
 *Use Properties of Angles*
@@ -111,22 +181,22 @@ Yumi spent \($34.15\) buying stamps. The number of \($0.56\) stamps she bought w
 In the following exercises, solve using properties of angles.
 
 
-What is the supplement of a \(48°\) angle?
+What is the supplement of a <span class="math-inline">48°</span> angle?
 
 
 132°
 
 
-What is the complement of a \(61°\) angle?
+What is the complement of a <span class="math-inline">61°</span> angle?
 
 
-Two angles are complementary. The smaller angle is \(24°\) less than the larger angle. Find the measures of both angles.
+Two angles are complementary. The smaller angle is <span class="math-inline">24°</span> less than the larger angle. Find the measures of both angles.
 
 
 33°, 57°
 
 
-Two angles are supplementary. The larger angle is \(45°\) more than the smaller angle. Find the measures of both angles.
+Two angles are supplementary. The larger angle is <span class="math-inline">45°</span> more than the smaller angle. Find the measures of both angles.
 
 
 *Use Properties of Triangles*
@@ -134,34 +204,34 @@ Two angles are supplementary. The larger angle is \(45°\) more than the smaller
 In the following exercises, solve using properties of triangles.
 
 
-The measures of two angles of a triangle are \(22\) and \(85\) degrees. Find the measure of the third angle.
+The measures of two angles of a triangle are <span class="math-inline">22</span> and <span class="math-inline">85</span> degrees. Find the measure of the third angle.
 
 
 73°
 
 
-One angle of a right triangle measures \(41.5\) degrees. What is the measure of the other small angle?
+One angle of a right triangle measures <span class="math-inline">41.5</span> degrees. What is the measure of the other small angle?
 
 
-One angle of a triangle is \(30°\) more than the smallest angle. The largest angle is the sum of the other angles. Find the measures of all three angles.
+One angle of a triangle is <span class="math-inline">30°</span> more than the smallest angle. The largest angle is the sum of the other angles. Find the measures of all three angles.
 
 
 30°, 60°, 90°
 
 
-One angle of a triangle is twice the measure of the smallest angle. The third angle is \(60°\) more than the measure of the smallest angle. Find the measures of all three angles.
+One angle of a triangle is twice the measure of the smallest angle. The third angle is <span class="math-inline">60°</span> more than the measure of the smallest angle. Find the measures of all three angles.
 
 
-In the following exercises, \(ΔABC\) is similar to \(ΔXYZ.\) Find the length of the indicated side.
+In the following exercises, <span class="math-inline">ΔABC</span> is similar to <span class="math-inline">ΔXYZ.</span> Find the length of the indicated side.
 
 
-side \(x\)
+side <span class="math-inline">x</span>
 
 
 15
 
 
-side \(b\)
+side <span class="math-inline">b</span>
 
 
 *Use the Pythagorean Theorem*
@@ -181,13 +251,13 @@ In the following exercises, use the Pythagorean Theorem to find the length of th
 In the following exercises, solve. Approximate to the nearest tenth, if necessary.
 
 
-Sergio needs to attach a wire to hold the antenna to the roof of his house, as shown in the figure. The antenna is \(8\) feet tall and Sergio has \(10\) feet of wire. How far from the base of the antenna can he attach the wire?
+Sergio needs to attach a wire to hold the antenna to the roof of his house, as shown in the figure. The antenna is <span class="math-inline">8</span> feet tall and Sergio has <span class="math-inline">10</span> feet of wire. How far from the base of the antenna can he attach the wire?
 
 
 6 feet
 
 
-Seong is building shelving in his garage. The shelves are \(36\) inches wide and \(15\) inches tall. He wants to put a diagonal brace across the back to stabilize the shelves, as shown. How long should the brace be?
+Seong is building shelving in his garage. The shelves are <span class="math-inline">36</span> inches wide and <span class="math-inline">15</span> inches tall. He wants to put a diagonal brace across the back to stabilize the shelves, as shown. How long should the brace be?
 
 
 *Understand Linear, Square, Cubic Measure*
@@ -226,53 +296,53 @@ In the following exercises, find
 In the following exercises, find the ⓐ perimeter ⓑ area of each rectangle
 
 
-The length of a rectangle is \(42\) meters and the width is \(28\) meters.
+The length of a rectangle is <span class="math-inline">42</span> meters and the width is <span class="math-inline">28</span> meters.
 
 
   - ⓐ 140 m
   - ⓑ 1176 sq. m
 
 
-The length of a rectangle is \(36\) feet and the width is \(19\) feet.
+The length of a rectangle is <span class="math-inline">36</span> feet and the width is <span class="math-inline">19</span> feet.
 
 
-A sidewalk in front of Kathy’s house is in the shape of a rectangle \(4\) feet wide by \(45\) feet long.
+A sidewalk in front of Kathy’s house is in the shape of a rectangle <span class="math-inline">4</span> feet wide by <span class="math-inline">45</span> feet long.
 
 
   - ⓐ 98 ft.
   - ⓑ 180 sq. ft.
 
 
-A rectangular room is \(16\) feet wide by \(12\) feet long.
+A rectangular room is <span class="math-inline">16</span> feet wide by <span class="math-inline">12</span> feet long.
 
 In the following exercises, solve.
 
 
-Find the length of a rectangle with perimeter of \(220\) centimeters and width of \(85\) centimeters.
+Find the length of a rectangle with perimeter of <span class="math-inline">220</span> centimeters and width of <span class="math-inline">85</span> centimeters.
 
 
 25 cm
 
 
-Find the width of a rectangle with perimeter \(39\) and length \(11.\)
+Find the width of a rectangle with perimeter <span class="math-inline">39</span> and length <span class="math-inline">11.</span>
 
 
-The area of a rectangle is \(2356\) square meters. The length is \(38\) meters. What is the width?
+The area of a rectangle is <span class="math-inline">2356</span> square meters. The length is <span class="math-inline">38</span> meters. What is the width?
 
 
 62 m
 
 
-The width of a rectangle is \(45\) centimeters. The area is \(2700\) square centimeters. What is the length?
+The width of a rectangle is <span class="math-inline">45</span> centimeters. The area is <span class="math-inline">2700</span> square centimeters. What is the length?
 
 
-The length of a rectangle is \(12\) centimeters more than the width. The perimeter is \(74\) centimeters. Find the length and the width.
+The length of a rectangle is <span class="math-inline">12</span> centimeters more than the width. The perimeter is <span class="math-inline">74</span> centimeters. Find the length and the width.
 
 
 24.5 cm., 12.5 cm.
 
 
-The width of a rectangle is \(3\) more than twice the length. The perimeter is \(96\) inches. Find the length and the width.
+The width of a rectangle is <span class="math-inline">3</span> more than twice the length. The perimeter is <span class="math-inline">96</span> inches. Find the length and the width.
 
 
 *Use Properties of Triangles*
@@ -280,40 +350,40 @@ The width of a rectangle is \(3\) more than twice the length. The perimeter is \
 In the following exercises, solve using the properties of triangles.
 
 
-Find the area of a triangle with base \(18\) inches and height \(15\) inches.
+Find the area of a triangle with base <span class="math-inline">18</span> inches and height <span class="math-inline">15</span> inches.
 
 
 135 sq. in.
 
 
-Find the area of a triangle with base \(33\) centimeters and height \(21\) centimeters.
+Find the area of a triangle with base <span class="math-inline">33</span> centimeters and height <span class="math-inline">21</span> centimeters.
 
 
-A triangular road sign has base \(30\) inches and height \(40\) inches. What is its area?
+A triangular road sign has base <span class="math-inline">30</span> inches and height <span class="math-inline">40</span> inches. What is its area?
 
 
 600 sq. in.
 
 
-If a triangular courtyard has sides \(9\) feet and \(12\) feet and the perimeter is \(32\) feet, how long is the third side?
+If a triangular courtyard has sides <span class="math-inline">9</span> feet and <span class="math-inline">12</span> feet and the perimeter is <span class="math-inline">32</span> feet, how long is the third side?
 
 
-A tile in the shape of an isosceles triangle has a base of \(6\) inches. If the perimeter is \(20\) inches, find the length of each of the other sides.
+A tile in the shape of an isosceles triangle has a base of <span class="math-inline">6</span> inches. If the perimeter is <span class="math-inline">20</span> inches, find the length of each of the other sides.
 
 
 7 in., 7 in.
 
 
-Find the length of each side of an equilateral triangle with perimeter of \(81\) yards.
+Find the length of each side of an equilateral triangle with perimeter of <span class="math-inline">81</span> yards.
 
 
-The perimeter of a triangle is \(59\) feet. One side of the triangle is \(3\) feet longer than the shortest side. The third side is \(5\) feet longer than the shortest side. Find the length of each side.
+The perimeter of a triangle is <span class="math-inline">59</span> feet. One side of the triangle is <span class="math-inline">3</span> feet longer than the shortest side. The third side is <span class="math-inline">5</span> feet longer than the shortest side. Find the length of each side.
 
 
 17 ft., 20 ft., 22 ft.
 
 
-One side of a triangle is three times the smallest side. The third side is \(9\) feet more than the shortest side. The perimeter is \(39\) feet. Find the lengths of all three sides.
+One side of a triangle is three times the smallest side. The third side is <span class="math-inline">9</span> feet more than the shortest side. The perimeter is <span class="math-inline">39</span> feet. Find the lengths of all three sides.
 
 
 *Use Properties of Trapezoids*
@@ -321,22 +391,22 @@ One side of a triangle is three times the smallest side. The third side is \(9\)
 In the following exercises, solve using the properties of trapezoids.
 
 
-The height of a trapezoid is \(8\) feet and the bases are \(11\) and \(14\) feet. What is the area?
+The height of a trapezoid is <span class="math-inline">8</span> feet and the bases are <span class="math-inline">11</span> and <span class="math-inline">14</span> feet. What is the area?
 
 
 100 sq. ft.
 
 
-The height of a trapezoid is \(5\) yards and the bases are \(7\) and \(10\) yards. What is the area?
+The height of a trapezoid is <span class="math-inline">5</span> yards and the bases are <span class="math-inline">7</span> and <span class="math-inline">10</span> yards. What is the area?
 
 
-Find the area of the trapezoid with height \(25\) meters and bases \(32.5\) and \(21.5\) meters.
+Find the area of the trapezoid with height <span class="math-inline">25</span> meters and bases <span class="math-inline">32.5</span> and <span class="math-inline">21.5</span> meters.
 
 
 675 sq. m
 
 
-A flag is shaped like a trapezoid with height \(62\) centimeters and the bases are \(91.5\) and \(78.1\) centimeters. What is the area of the flag?
+A flag is shaped like a trapezoid with height <span class="math-inline">62</span> centimeters and the bases are <span class="math-inline">91.5</span> and <span class="math-inline">78.1</span> centimeters. What is the area of the flag?
 
 
 *Use Properties of Circles*
@@ -344,7 +414,7 @@ A flag is shaped like a trapezoid with height \(62\) centimeters and the bases a
 In the following exercises, solve using the properties of circles. Round answers to the nearest hundredth.
 
 
-A circular mosaic has radius \(3\) meters. Find the
+A circular mosaic has radius <span class="math-inline">3</span> meters. Find the
   - ⓐ circumference
   - ⓑ area of the mosaic
 
@@ -353,18 +423,18 @@ A circular mosaic has radius \(3\) meters. Find the
   - ⓑ 28.26 sq. m
 
 
-A circular fountain has radius \(8\) feet. Find the
+A circular fountain has radius <span class="math-inline">8</span> feet. Find the
   - ⓐ circumference
   - ⓑ area of the fountain
 
 
-Find the diameter of a circle with circumference \(150.72\) inches.
+Find the diameter of a circle with circumference <span class="math-inline">150.72</span> inches.
 
 
 48 in.
 
 
-Find the radius of a circle with circumference \(345.4\) centimeters
+Find the radius of a circle with circumference <span class="math-inline">345.4</span> centimeters
 
 
 *Find the Area of Irregular Figures*
@@ -388,24 +458,24 @@ In the following exercises, find the
   - ⓑ surface area of the rectangular solid
 
 
-a rectangular solid with length \(14\) centimeters, width \(4.5\) centimeters, and height \(10\) centimeters
+a rectangular solid with length <span class="math-inline">14</span> centimeters, width <span class="math-inline">4.5</span> centimeters, and height <span class="math-inline">10</span> centimeters
 
 
   - ⓐ 630 cu. cm
   - ⓑ 496 sq. cm
 
 
-a cube with sides that are \(3\) feet long
+a cube with sides that are <span class="math-inline">3</span> feet long
 
 
-a cube of tofu with sides \(2.5\) inches
+a cube of tofu with sides <span class="math-inline">2.5</span> inches
 
 
   - ⓐ 15.625 cu. in.
   - ⓑ 37.5 sq. in.
 
 
-a rectangular carton with length \(32\) inches, width \(18\) inches, and height \(10\) inches
+a rectangular carton with length <span class="math-inline">32</span> inches, width <span class="math-inline">18</span> inches, and height <span class="math-inline">10</span> inches
 
 
 *Find Volume and Surface Area of Spheres*
@@ -415,24 +485,24 @@ In the following exercises, find the
   - ⓑ surface area of the sphere.
 
 
-a sphere with radius \(4\) yards
+a sphere with radius <span class="math-inline">4</span> yards
 
 
   - ⓐ 267.95 cu. yd.
   - ⓑ 200.96 sq. yd.
 
 
-a sphere with radius \(12\) meters
+a sphere with radius <span class="math-inline">12</span> meters
 
 
-a baseball with radius \(1.45\) inches
+a baseball with radius <span class="math-inline">1.45</span> inches
 
 
   - ⓐ 12.76 cu. in.
   - ⓑ 26.41 sq. in.
 
 
-a soccer ball with radius \(22\) centimeters
+a soccer ball with radius <span class="math-inline">22</span> centimeters
 
 
 *Find Volume and Surface Area of Cylinders*
@@ -442,24 +512,24 @@ In the following exercises, find the
   - ⓑ surface area of the cylinder
 
 
-a cylinder with radius \(2\) yards and height \(6\) yards
+a cylinder with radius <span class="math-inline">2</span> yards and height <span class="math-inline">6</span> yards
 
 
   - ⓐ 75.36 cu. yd.
   - ⓑ 100.48 sq. yd.
 
 
-a cylinder with diameter \(18\) inches and height \(40\) inches
+a cylinder with diameter <span class="math-inline">18</span> inches and height <span class="math-inline">40</span> inches
 
 
-a juice can with diameter \(8\) centimeters and height \(15\) centimeters
+a juice can with diameter <span class="math-inline">8</span> centimeters and height <span class="math-inline">15</span> centimeters
 
 
   - ⓐ 753.6 cu. cm
   - ⓑ 477.28 sq. cm
 
 
-a cylindrical pylon with diameter \(0.8\) feet and height \(2.5\) feet
+a cylindrical pylon with diameter <span class="math-inline">0.8</span> feet and height <span class="math-inline">2.5</span> feet
 
 
 *Find Volume of Cones*
@@ -467,22 +537,22 @@ a cylindrical pylon with diameter \(0.8\) feet and height \(2.5\) feet
 In the following exercises, find the volume of the cone.
 
 
-a cone with height \(5\) meters and radius \(1\) meter
+a cone with height <span class="math-inline">5</span> meters and radius <span class="math-inline">1</span> meter
 
 
 5.233 cu. m
 
 
-a cone with height \(24\) feet and radius \(8\) feet
+a cone with height <span class="math-inline">24</span> feet and radius <span class="math-inline">8</span> feet
 
 
-a cone-shaped water cup with diameter \(2.6\) inches and height \(2.6\) inches
+a cone-shaped water cup with diameter <span class="math-inline">2.6</span> inches and height <span class="math-inline">2.6</span> inches
 
 
 4.599 cu. in.
 
 
-a cone-shaped pile of gravel with diameter \(6\) yards and height \(5\) yards
+a cone-shaped pile of gravel with diameter <span class="math-inline">6</span> yards and height <span class="math-inline">5</span> yards
 
 
 *Use the Distance, Rate, and Time Formula*
@@ -490,167 +560,169 @@ a cone-shaped pile of gravel with diameter \(6\) yards and height \(5\) yards
 In the following exercises, solve using the formula for distance, rate, and time.
 
 
-A plane flew \(4\) hours at \(380\) miles per hour. What distance was covered?
+A plane flew <span class="math-inline">4</span> hours at <span class="math-inline">380</span> miles per hour. What distance was covered?
 
 
 1520 miles
 
 
-Gus rode his bike for \(1\frac{1}{2}\) hours at \(8\) miles per hour. How far did he ride?
+Gus rode his bike for <span class="math-inline">1<sup>1</sup>∕<sub>2</sub></span> hours at <span class="math-inline">8</span> miles per hour. How far did he ride?
 
 
-Jack is driving from Bangor to Portland at a rate of \(68\) miles per hour. The distance is \(107\) miles. To the nearest tenth of an hour, how long will the trip take?
+Jack is driving from Bangor to Portland at a rate of <span class="math-inline">68</span> miles per hour. The distance is <span class="math-inline">107</span> miles. To the nearest tenth of an hour, how long will the trip take?
 
 
 1.6 hours
 
 
-Jasmine took the bus from Pittsburgh to Philadelphia. The distance is \(305\) miles and the trip took \(5\) hours. What was the speed of the bus?
+Jasmine took the bus from Pittsburgh to Philadelphia. The distance is <span class="math-inline">305</span> miles and the trip took <span class="math-inline">5</span> hours. What was the speed of the bus?
 
 
 *Solve a Formula for a Specific Variable*
 
-In the following exercises, use the formula \(d=rt.\)
+In the following exercises, use the formula <span class="math-inline">d=rt.</span>
 
 
-Solve for \(t:\)
+Solve for <span class="math-inline">t:</span>
 
-  - ⓐ when \(d=403\) and \(r=65\)
+  - ⓐ when <span class="math-inline">d=403</span> and <span class="math-inline">r=65</span>
   - ⓑ in general
 
 
-  - ⓐ \(t=6.2\)
-  - ⓑ \(t=\frac{d}{r}\)
+  - ⓐ <span class="math-inline">t=6.2</span>
+  - ⓑ <span class="math-inline">t=<sup>d</sup>∕<sub>r</sub></span>
 
 
-Solve for \(r:\)
+Solve for <span class="math-inline">r:</span>
 
-  - ⓐ when \(d=750\) and \(t=15\)
+  - ⓐ when <span class="math-inline">d=750</span> and <span class="math-inline">t=15</span>
   - ⓑ in general
 
-In the following exercises, use the formula \(A=\frac{1}{2}bh.\)
+In the following exercises, use the formula <span class="math-inline">A=<sup>1</sup>∕<sub>2</sub>bh.</span>
 
 
-Solve for \(b:\)
+Solve for <span class="math-inline">b:</span>
 
-  - ⓐ when \(A=416\) and \(h=32\)
-  - ⓑ in general
-
-
-  - ⓐ \(b=26\)
-  - ⓑ \(b=\frac{2A}{h}\)
-
-
-Solve for \(h:\)
-
-  - ⓐ when \(A=48\) and \(b=8\)
-  - ⓑ in general
-
-In the following exercises, use the formula \(I=Prt.\)
-
-
-Solve for the principal, \(P,\) for:
-
-  - ⓐ \(I=$720\), \(r=4%\), \(t=3 years\)
+  - ⓐ when <span class="math-inline">A=416</span> and <span class="math-inline">h=32</span>
   - ⓑ in general
 
 
-  - ⓐ \(P=$6000\)
-  - ⓑ \(P=\frac{I}{(r\cdot t)}\)
+  - ⓐ <span class="math-inline">b=26</span>
+  - ⓑ <span class="math-inline">b=<sup>2A</sup>∕<sub>h</sub></span>
 
 
-Solve for the time, \(t\) for:
+Solve for <span class="math-inline">h:</span>
 
-  - ⓐ \(I=$3630\), \(P=$11,000\), \(r=5.5%\)
+  - ⓐ when <span class="math-inline">A=48</span> and <span class="math-inline">b=8</span>
+  - ⓑ in general
+
+In the following exercises, use the formula <span class="math-inline">I=Prt.</span>
+
+
+Solve for the principal, <span class="math-inline">P,</span> for:
+
+  - ⓐ <span class="math-inline">I=$720</span>, <span class="math-inline">r=4%</span>, <span class="math-inline">t=3 years</span>
+  - ⓑ in general
+
+
+  - ⓐ <span class="math-inline">P=$6000</span>
+  - ⓑ <span class="math-inline">P=<sup>I</sup>∕<sub>(r· t)</sub></span>
+
+
+Solve for the time, <span class="math-inline">t</span> for:
+
+  - ⓐ <span class="math-inline">I=$3630</span>, <span class="math-inline">P=$11,000</span>, <span class="math-inline">r=5.5%</span>
   - ⓑ in general
 
 In the following exercises, solve.
 
 
-Solve the formula \(6x+5y=20\) for \(y:\)
-  - ⓐ when \(x=0\)
+Solve the formula <span class="math-inline">6x+5y=20</span> for <span class="math-inline">y:</span>
+  - ⓐ when <span class="math-inline">x=0</span>
   - ⓑ in general
 
 
-  - ⓐ \(y=4\)
-  - ⓑ \(y=\frac{20-6x}{5}\)
+  - ⓐ <span class="math-inline">y=4</span>
+  - ⓑ <span class="math-inline">y=<sup>20-6x</sup>∕<sub>5</sub></span>
 
 
-Solve the formula \(2x+y=15\) for \(y:\)
-  - ⓐ when \(x=−5\)
+Solve the formula <span class="math-inline">2x+y=15</span> for <span class="math-inline">y:</span>
+  - ⓐ when <span class="math-inline">x=−5</span>
   - ⓑ in general
 
 
-Solve \(a+b=90\) for \(a.\)
+Solve <span class="math-inline">a+b=90</span> for <span class="math-inline">a.</span>
 
 
 *a* = 90 − *b*
 
 
-Solve \(180=a+b+c\) for \(a.\)
+Solve <span class="math-inline">180=a+b+c</span> for <span class="math-inline">a.</span>
 
 
-Solve the formula \(4x+y=17\) for \(y.\)
+Solve the formula <span class="math-inline">4x+y=17</span> for <span class="math-inline">y.</span>
 
 
 *y* = 17 − 4*x*
 
 
-Solve the formula \(-3x+y=−6\) for \(y.\)
+Solve the formula <span class="math-inline">-3x+y=−6</span> for <span class="math-inline">y.</span>
 
 
-Solve the formula \(P=2L+2W\) for \(W.\)
+Solve the formula <span class="math-inline">P=2L+2W</span> for <span class="math-inline">W.</span>
 
 
-\(W=\frac{P-2L}{2}\)
+<span class="math-inline">W=<sup>P-2L</sup>∕<sub>2</sub></span>
 
 
-Solve the formula \(V=LWH\) for \(H.\)
+Solve the formula <span class="math-inline">V=LWH</span> for <span class="math-inline">H.</span>
 
 
 Describe how you have used two topics from this chapter in your life outside of math class during the past month.
 
 
+---
+
 ## Chapter Practice Test
 
 
-Four-fifths of the people on a hike are children. If there are \(12\) children, what is the total number of people on the hike?
+Four-fifths of the people on a hike are children. If there are <span class="math-inline">12</span> children, what is the total number of people on the hike?
 
 
-The sum of \(13\) and twice a number is \(-19.\) Find the number.
+The sum of <span class="math-inline">13</span> and twice a number is <span class="math-inline">-19.</span> Find the number.
 
 
 −16
 
 
-One number is \(3\) less than another number. Their sum is \(65.\) Find the numbers.
+One number is <span class="math-inline">3</span> less than another number. Their sum is <span class="math-inline">65.</span> Find the numbers.
 
 
-Bonita has \($2.95\) in dimes and quarters in her pocket. If she has \(5\) more dimes than quarters, how many of each coin does she have?
+Bonita has <span class="math-inline">$2.95</span> in dimes and quarters in her pocket. If she has <span class="math-inline">5</span> more dimes than quarters, how many of each coin does she have?
 
 
 7 quarters, 12 dimes
 
 
-At a concert, \($1600\) in tickets were sold. Adult tickets were \($9\) each and children’s tickets were \($4\) each. If the number of adult tickets was \(30\) fewer than twice the number of children’s tickets, how many of each kind were sold?
+At a concert, <span class="math-inline">$1600</span> in tickets were sold. Adult tickets were <span class="math-inline">$9</span> each and children’s tickets were <span class="math-inline">$4</span> each. If the number of adult tickets was <span class="math-inline">30</span> fewer than twice the number of children’s tickets, how many of each kind were sold?
 
 
-Find the complement of a \(52°\) angle.
+Find the complement of a <span class="math-inline">52°</span> angle.
 
 
 38°
 
 
-The measure of one angle of a triangle is twice the measure of the smallest angle. The measure of the third angle is \(14\) more than the measure of the smallest angle. Find the measures of all three angles.
+The measure of one angle of a triangle is twice the measure of the smallest angle. The measure of the third angle is <span class="math-inline">14</span> more than the measure of the smallest angle. Find the measures of all three angles.
 
 
-The perimeter of an equilateral triangle is \(145\) feet. Find the length of each side.
+The perimeter of an equilateral triangle is <span class="math-inline">145</span> feet. Find the length of each side.
 
 
 48.3
 
 
-\(ΔABC\) is similar to \(ΔXYZ.\) Find the length of side \(c.\)
+<span class="math-inline">ΔABC</span> is similar to <span class="math-inline">ΔXYZ.</span> Find the length of side <span class="math-inline">c.</span>
 
 
 Find the length of the missing side. Round to the nearest tenth, if necessary.
@@ -662,25 +734,25 @@ Find the length of the missing side. Round to the nearest tenth, if necessary.
 Find the length of the missing side. Round to the nearest tenth, if necessary.
 
 
-A baseball diamond is shaped like a square with sides \(90\) feet long. How far is it from home plate to second base, as shown?
+A baseball diamond is shaped like a square with sides <span class="math-inline">90</span> feet long. How far is it from home plate to second base, as shown?
 
 
 127.3 ft
 
 
-The length of a rectangle is \(2\) feet more than five times the width. The perimeter is \(40\) feet. Find the dimensions of the rectangle.
+The length of a rectangle is <span class="math-inline">2</span> feet more than five times the width. The perimeter is <span class="math-inline">40</span> feet. Find the dimensions of the rectangle.
 
 
-A triangular poster has base \(80\) centimeters and height \(55\) centimeters. Find the area of the poster.
+A triangular poster has base <span class="math-inline">80</span> centimeters and height <span class="math-inline">55</span> centimeters. Find the area of the poster.
 
 
 2200 square centimeters
 
 
-A trapezoid has height \(14\) inches and bases \(20\) inches and \(23\) inches. Find the area of the trapezoid.
+A trapezoid has height <span class="math-inline">14</span> inches and bases <span class="math-inline">20</span> inches and <span class="math-inline">23</span> inches. Find the area of the trapezoid.
 
 
-A circular pool has diameter \(90\) inches. What is its circumference? Round to the nearest *tenth.*
+A circular pool has diameter <span class="math-inline">90</span> inches. What is its circumference? Round to the nearest *tenth.*
 
 
 282.6 inches
@@ -689,42 +761,42 @@ A circular pool has diameter \(90\) inches. What is its circumference? Round to 
 Find the area of the shaded region. Round to the nearest tenth.
 
 
-Find the volume of a rectangular room with width \(12\) feet, length \(15\) feet, and height \(8\) feet.
+Find the volume of a rectangular room with width <span class="math-inline">12</span> feet, length <span class="math-inline">15</span> feet, and height <span class="math-inline">8</span> feet.
 
 
 1440
 
 
-A coffee can is shaped like a cylinder with height \(7\) inches and radius \(5\) inches. Find (a) the surface area and (b) the volume of the can. Round to the nearest tenth.
+A coffee can is shaped like a cylinder with height <span class="math-inline">7</span> inches and radius <span class="math-inline">5</span> inches. Find (a) the surface area and (b) the volume of the can. Round to the nearest tenth.
 
 
-A traffic cone has height \(75\) centimeters. The radius of the base is \(20\) centimeters. Find the volume of the cone. Round to the nearest tenth.
+A traffic cone has height <span class="math-inline">75</span> centimeters. The radius of the base is <span class="math-inline">20</span> centimeters. Find the volume of the cone. Round to the nearest tenth.
 
 
 31,400 cubic inches
 
 
-Leon drove from his house in Cincinnati to his sister’s house in Cleveland. He drove at a uniform rate of \(63\) miles per hour and the trip took \(4\) hours. What was the distance?
+Leon drove from his house in Cincinnati to his sister’s house in Cleveland. He drove at a uniform rate of <span class="math-inline">63</span> miles per hour and the trip took <span class="math-inline">4</span> hours. What was the distance?
 
 
-The Catalina Express takes \(1\frac{1}{2}\) hours to travel from Long Beach to Catalina Island, a distance of \(22\) miles. To the nearest tenth, what is the speed of the boat?
+The Catalina Express takes <span class="math-inline">1<sup>1</sup>∕<sub>2</sub></span> hours to travel from Long Beach to Catalina Island, a distance of <span class="math-inline">22</span> miles. To the nearest tenth, what is the speed of the boat?
 
 
 14.7 miles per hour
 
 
-Use the formula \(I=Prt\) to solve for the principal, \(P,\) for:
-  - ⓐ \(I=$1380, r=5%, t=3\) years
+Use the formula <span class="math-inline">I=Prt</span> to solve for the principal, <span class="math-inline">P,</span> for:
+  - ⓐ <span class="math-inline">I=$1380, r=5%, t=3</span> years
   - ⓑ in general
 
 
-Solve the formula \(A=\frac{1}{2}bh\) for \(h:\)
-  - ⓐ when \(A=1716\) and \(b=66\)
+Solve the formula <span class="math-inline">A=<sup>1</sup>∕<sub>2</sub>bh</span> for <span class="math-inline">h:</span>
+  - ⓐ when <span class="math-inline">A=1716</span> and <span class="math-inline">b=66</span>
   - ⓑ in general
 
 
-  - ⓐ \(height=52\)
-  - ⓑ \(h=\frac{2A}{b}\)
+  - ⓐ <span class="math-inline">height=52</span>
+  - ⓑ <span class="math-inline">h=<sup>2A</sup>∕<sub>b</sub></span>
 
 
-Solve \(x+5y=14\) for \(y.\)
+Solve <span class="math-inline">x+5y=14</span> for <span class="math-inline">y.</span>

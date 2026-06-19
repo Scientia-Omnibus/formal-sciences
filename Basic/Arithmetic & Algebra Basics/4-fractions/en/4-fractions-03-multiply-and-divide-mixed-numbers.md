@@ -1,7 +1,80 @@
+<style>
+.math-inline {
+    font-style: italic;
+    padding: 2px 6px;
+    border-radius: 4px;
+    background: #f8f9fa;
+    font-family: Georgia, serif;
+}
+.math-display {
+    background: #f8f9fa;
+    border-left: 4px solid #4a90d9;
+    padding: 16px 20px;
+    margin: 16px 0;
+    border-radius: 6px;
+    font-size: 1.15em;
+    font-family: Georgia, serif;
+    text-align: center;
+    line-height: 2;
+    overflow-x: auto;
+}
+.example-box, .example {
+    background: #f0f8ff;
+    border-left: 4px solid #2e86de;
+    padding: 12px 20px;
+    margin: 16px 0;
+    border-radius: 6px;
+}
+.tryit-box, .tryit {
+    background: #f0fff4;
+    border-left: 4px solid #27ae60;
+    padding: 12px 20px;
+    margin: 16px 0;
+    border-radius: 6px;
+}
+.solution-box, .solution {
+    background: #fef9e7;
+    border-left: 4px solid #f39c12;
+    padding: 12px 20px;
+    margin: 12px 0;
+    border-radius: 6px;
+}
+.check-box, .check {
+    background: #fef9e7;
+    border-left: 4px solid #f39c12;
+    padding: 12px 20px;
+    margin: 12px 0;
+    border-radius: 6px;
+}
+.prep-quiz {
+    background: #fff3cd;
+    border: 1px solid #ffc107;
+    padding: 12px 20px;
+    margin: 16px 0;
+    border-radius: 6px;
+}
+.def-label, .definition-label {
+    font-weight: bold;
+    font-size: 1.1em;
+    margin: 20px 0 8px 0;
+    color: #2c3e50;
+    display: block;
+}
+.math-display sup, .math-inline sup { font-size: 0.75em; line-height: 0; }
+.math-display sub, .math-inline sub { font-size: 0.75em; line-height: 0; }
+</style>
+
+
+---
+
+
+---
+
 ## Key Concepts
 
+
 - *Equivalent Fractions Property*
-  - If \(a,b,c\) are numbers where \(b\ne 0\), \(c\ne 0\), then \(\frac{a}{b}=\frac{a\cdot c}{b\cdot c}\) and \(\frac{a\cdot c}{b\cdot c}=\frac{a}{b}\).
+  - If <span class="math-inline">a,b,c</span> are numbers where <span class="math-inline">b≠ 0</span>, <span class="math-inline">c≠ 0</span>, then <span class="math-inline"><sup>a</sup>∕<sub>b</sub>=<sup>a· c</sup>∕<sub>b· c</sub></span> and <span class="math-inline"><sup>a· c</sup>∕<sub>b· c</sub>=<sup>a</sup>∕<sub>b</sub></span>.
 
 - *Simplify a fraction.*
   - Rewrite the numerator and denominator to show the common factors. If needed, factor the numerator and denominator into prime numbers.
@@ -9,10 +82,10 @@
   - Multiply any remaining factors.
 
 - *Fraction Multiplication*
-  - If \(a,b,c,\) and \(d\) are numbers where \(b\ne 0\)and \(d\ne 0\), then \(\frac{a}{b}\cdot \frac{c}{d}=\frac{ac}{bd}\).
+  - If <span class="math-inline">a,b,c,</span> and <span class="math-inline">d</span> are numbers where <span class="math-inline">b≠ 0</span>and <span class="math-inline">d≠ 0</span>, then <span class="math-inline"><sup>a</sup>∕<sub>b</sub>· <sup>c</sup>∕<sub>d</sub>=<sup>ac</sup>∕<sub>bd</sub></span>.
 
 - *Reciprocal*
-  - A number and its reciprocal have a product of \(1\). \(\frac{a}{b}\cdot \frac{b}{a}=1\)
+  - A number and its reciprocal have a product of <span class="math-inline">1</span>. <span class="math-inline"><sup>a</sup>∕<sub>b</sub>· <sup>b</sup>∕<sub>a</sub>=1</span>
   -
 
 *Opposite*
@@ -25,9 +98,9 @@ is never negative
 has same sign, fraction inverts
 
 - *Fraction Division*
-  - If \(a,b,c,\) and \(d\) are numbers where \(b\ne 0\), \(c\ne 0\) and \(d\ne 0\) , then
+  - If <span class="math-inline">a,b,c,</span> and <span class="math-inline">d</span> are numbers where <span class="math-inline">b≠ 0</span>, <span class="math-inline">c≠ 0</span> and <span class="math-inline">d≠ 0</span> , then
 
-\(\frac{a}{b}\div \frac{c}{d}=\frac{a}{b}\cdot \frac{d}{c}\)
+<span class="math-inline"><sup>a</sup>∕<sub>b</sub>÷ <sup>c</sup>∕<sub>d</sub>=<sup>a</sup>∕<sub>b</sub>· <sup>d</sup>∕<sub>c</sub></span>
   - To divide fractions, multiply the first fraction by the reciprocal of the second.
 
 
@@ -38,85 +111,85 @@ has same sign, fraction inverts
 In the following exercises, simplify each fraction. Do not convert any improper fractions to mixed numbers.
 
 
-\(\frac{7}{21}\)
+<span class="math-inline"><sup>7</sup>∕<sub>21</sub></span>
 
 
-\(\frac{1}{3}\)
+<span class="math-inline"><sup>1</sup>∕<sub>3</sub></span>
 
 
-\(\frac{8}{24}\)
+<span class="math-inline"><sup>8</sup>∕<sub>24</sub></span>
 
 
-\(\frac{15}{20}\)
+<span class="math-inline"><sup>15</sup>∕<sub>20</sub></span>
 
 
-\(\frac{3}{4}\)
+<span class="math-inline"><sup>3</sup>∕<sub>4</sub></span>
 
 
-\(\frac{12}{18}\)
+<span class="math-inline"><sup>12</sup>∕<sub>18</sub></span>
 
 
-\(-\frac{40}{88}\)
+<span class="math-inline">-<sup>40</sup>∕<sub>88</sub></span>
 
 
-\(-\frac{5}{11}\)
+<span class="math-inline">-<sup>5</sup>∕<sub>11</sub></span>
 
 
-\(-\frac{63}{99}\)
+<span class="math-inline">-<sup>63</sup>∕<sub>99</sub></span>
 
 
-\(-\frac{108}{63}\)
+<span class="math-inline">-<sup>108</sup>∕<sub>63</sub></span>
 
 
-\(-\frac{12}{7}\)
+<span class="math-inline">-<sup>12</sup>∕<sub>7</sub></span>
 
 
-\(-\frac{104}{48}\)
+<span class="math-inline">-<sup>104</sup>∕<sub>48</sub></span>
 
 
-\(\frac{120}{252}\)
+<span class="math-inline"><sup>120</sup>∕<sub>252</sub></span>
 
 
-\(\frac{10}{21}\)
+<span class="math-inline"><sup>10</sup>∕<sub>21</sub></span>
 
 
-\(\frac{182}{294}\)
+<span class="math-inline"><sup>182</sup>∕<sub>294</sub></span>
 
 
-\(-\frac{168}{192}\)
+<span class="math-inline">-<sup>168</sup>∕<sub>192</sub></span>
 
 
-\(-\frac{7}{8}\)
+<span class="math-inline">-<sup>7</sup>∕<sub>8</sub></span>
 
 
-\(-\frac{140}{224}\)
+<span class="math-inline">-<sup>140</sup>∕<sub>224</sub></span>
 
 
-\(\frac{11x}{11y}\)
+<span class="math-inline"><sup>11x</sup>∕<sub>11y</sub></span>
 
 
-\(\frac{x}{y}\)
+<span class="math-inline"><sup>x</sup>∕<sub>y</sub></span>
 
 
-\(\frac{15a}{15b}\)
+<span class="math-inline"><sup>15a</sup>∕<sub>15b</sub></span>
 
 
-\(-\frac{3x}{12y}\)
+<span class="math-inline">-<sup>3x</sup>∕<sub>12y</sub></span>
 
 
-\(-\frac{x}{4y}\)
+<span class="math-inline">-<sup>x</sup>∕<sub>4y</sub></span>
 
 
-\(-\frac{4x}{32y}\)
+<span class="math-inline">-<sup>4x</sup>∕<sub>32y</sub></span>
 
 
-\(\frac{14x^2}{21y}\)
+<span class="math-inline"><sup>14x<sup>2</sup></sup>∕<sub>21y</sub></span>
 
 
-\(\frac{2x^2}{3y}\)
+<span class="math-inline"><sup>2x<sup>2</sup></sup>∕<sub>3y</sub></span>
 
 
-\(\frac{24a}{32b^2}\)
+<span class="math-inline"><sup>24a</sup>∕<sub>32b<sup>2</sup></sub></span>
 
 
 *Multiply Fractions*
@@ -124,151 +197,151 @@ In the following exercises, simplify each fraction. Do not convert any improper 
 In the following exercises, use a diagram to model.
 
 
-\(\frac{1}{2}\cdot \frac{2}{3}\)
+<span class="math-inline"><sup>1</sup>∕<sub>2</sub>· <sup>2</sup>∕<sub>3</sub></span>
 
 
-\(\frac{1}{3}\)
+<span class="math-inline"><sup>1</sup>∕<sub>3</sub></span>
 
 
-\(\frac{1}{2}\cdot \frac{5}{8}\)
+<span class="math-inline"><sup>1</sup>∕<sub>2</sub>· <sup>5</sup>∕<sub>8</sub></span>
 
 
-\(\frac{1}{3}\cdot \frac{5}{6}\)
+<span class="math-inline"><sup>1</sup>∕<sub>3</sub>· <sup>5</sup>∕<sub>6</sub></span>
 
 
-\(\frac{5}{18}\)
+<span class="math-inline"><sup>5</sup>∕<sub>18</sub></span>
 
 
-\(\frac{1}{3}\cdot \frac{2}{5}\)
+<span class="math-inline"><sup>1</sup>∕<sub>3</sub>· <sup>2</sup>∕<sub>5</sub></span>
 
 
 In the following exercises, multiply, and write the answer in simplified form.
 
 
-\(\frac{2}{5}\cdot \frac{1}{3}\)
+<span class="math-inline"><sup>2</sup>∕<sub>5</sub>· <sup>1</sup>∕<sub>3</sub></span>
 
 
-\(\frac{2}{15}\)
+<span class="math-inline"><sup>2</sup>∕<sub>15</sub></span>
 
 
-\(\frac{1}{2}\cdot \frac{3}{8}\)
+<span class="math-inline"><sup>1</sup>∕<sub>2</sub>· <sup>3</sup>∕<sub>8</sub></span>
 
 
-\(\frac{3}{4}\cdot \frac{9}{10}\)
+<span class="math-inline"><sup>3</sup>∕<sub>4</sub>· <sup>9</sup>∕<sub>10</sub></span>
 
 
-\(\frac{27}{40}\)
+<span class="math-inline"><sup>27</sup>∕<sub>40</sub></span>
 
 
-\(\frac{4}{5}\cdot \frac{2}{7}\)
+<span class="math-inline"><sup>4</sup>∕<sub>5</sub>· <sup>2</sup>∕<sub>7</sub></span>
 
 
-\(-\frac{2}{3}(-\frac{3}{8})\)
+<span class="math-inline">-<sup>2</sup>∕<sub>3</sub>(-<sup>3</sup>∕<sub>8</sub>)</span>
 
 
-\(\frac{1}{4}\)
+<span class="math-inline"><sup>1</sup>∕<sub>4</sub></span>
 
 
-\(-\frac{3}{4}(-\frac{4}{9})\)
+<span class="math-inline">-<sup>3</sup>∕<sub>4</sub>(-<sup>4</sup>∕<sub>9</sub>)</span>
 
 
-\(-\frac{5}{9}\cdot \frac{3}{10}\)
+<span class="math-inline">-<sup>5</sup>∕<sub>9</sub>· <sup>3</sup>∕<sub>10</sub></span>
 
 
-\(-\frac{1}{6}\)
+<span class="math-inline">-<sup>1</sup>∕<sub>6</sub></span>
 
 
-\(-\frac{3}{8}\cdot \frac{4}{15}\)
+<span class="math-inline">-<sup>3</sup>∕<sub>8</sub>· <sup>4</sup>∕<sub>15</sub></span>
 
 
-\(\frac{7}{12}(-\frac{8}{21})\)
+<span class="math-inline"><sup>7</sup>∕<sub>12</sub>(-<sup>8</sup>∕<sub>21</sub>)</span>
 
 
-\(-\frac{2}{9}\)
+<span class="math-inline">-<sup>2</sup>∕<sub>9</sub></span>
 
 
-\(\frac{5}{12}(-\frac{8}{15})\)
+<span class="math-inline"><sup>5</sup>∕<sub>12</sub>(-<sup>8</sup>∕<sub>15</sub>)</span>
 
 
-\((-\frac{14}{15})(\frac{9}{20})\)
+<span class="math-inline">(-<sup>14</sup>∕<sub>15</sub>)(<sup>9</sup>∕<sub>20</sub>)</span>
 
 
-\(-\frac{21}{50}\)
+<span class="math-inline">-<sup>21</sup>∕<sub>50</sub></span>
 
 
-\((-\frac{9}{10})(\frac{25}{33})\)
+<span class="math-inline">(-<sup>9</sup>∕<sub>10</sub>)(<sup>25</sup>∕<sub>33</sub>)</span>
 
 
-\((-\frac{63}{84})(-\frac{44}{90})\)
+<span class="math-inline">(-<sup>63</sup>∕<sub>84</sub>)(-<sup>44</sup>∕<sub>90</sub>)</span>
 
 
-\(\frac{11}{30}\)
+<span class="math-inline"><sup>11</sup>∕<sub>30</sub></span>
 
 
-\((-\frac{33}{60})(-\frac{40}{88})\)
+<span class="math-inline">(-<sup>33</sup>∕<sub>60</sub>)(-<sup>40</sup>∕<sub>88</sub>)</span>
 
 
-\(4\cdot \frac{5}{11}\)
+<span class="math-inline">4· <sup>5</sup>∕<sub>11</sub></span>
 
 
-\(\frac{20}{11}\)
+<span class="math-inline"><sup>20</sup>∕<sub>11</sub></span>
 
 
-\(5\cdot \frac{8}{3}\)
+<span class="math-inline">5· <sup>8</sup>∕<sub>3</sub></span>
 
 
-\(\frac{3}{7}\cdot 21n\)
+<span class="math-inline"><sup>3</sup>∕<sub>7</sub>· 21n</span>
 
 
 9*n*
 
 
-\(\frac{5}{6}\cdot 30m\)
+<span class="math-inline"><sup>5</sup>∕<sub>6</sub>· 30m</span>
 
 
-\(−28p(-\frac{1}{4})\)
+<span class="math-inline">−28p(-<sup>1</sup>∕<sub>4</sub>)</span>
 
 
 7*p*
 
 
-\(−51q(-\frac{1}{3})\)
+<span class="math-inline">−51q(-<sup>1</sup>∕<sub>3</sub>)</span>
 
 
-\(−8(\frac{17}{4})\)
+<span class="math-inline">−8(<sup>17</sup>∕<sub>4</sub>)</span>
 
 
 −34
 
 
-\(\frac{14}{5}(−15)\)
+<span class="math-inline"><sup>14</sup>∕<sub>5</sub>(−15)</span>
 
 
-\(−1(-\frac{3}{8})\)
+<span class="math-inline">−1(-<sup>3</sup>∕<sub>8</sub>)</span>
 
 
-\(\frac{3}{8}\)
+<span class="math-inline"><sup>3</sup>∕<sub>8</sub></span>
 
 
-\((−1)(-\frac{6}{7})\)
+<span class="math-inline">(−1)(-<sup>6</sup>∕<sub>7</sub>)</span>
 
 
-\((\frac{2}{3})^3\)
+<span class="math-inline">(<sup>2</sup>∕<sub>3</sub>)<sup>3</sup></span>
 
 
-\(\frac{8}{27}\)
+<span class="math-inline"><sup>8</sup>∕<sub>27</sub></span>
 
 
-\((\frac{4}{5})^2\)
+<span class="math-inline">(<sup>4</sup>∕<sub>5</sub>)<sup>2</sup></span>
 
 
-\((\frac{6}{5})^4\)
+<span class="math-inline">(<sup>6</sup>∕<sub>5</sub>)<sup>4</sup></span>
 
 
-\(\frac{1296}{625}\)
+<span class="math-inline"><sup>1296</sup>∕<sub>625</sub></span>
 
 
-\((\frac{4}{7})^4\)
+<span class="math-inline">(<sup>4</sup>∕<sub>7</sub>)<sup>4</sup></span>
 
 
 *Find Reciprocals*
@@ -276,43 +349,43 @@ In the following exercises, multiply, and write the answer in simplified form.
 In the following exercises, find the reciprocal.
 
 
-\(\frac{3}{4}\)
+<span class="math-inline"><sup>3</sup>∕<sub>4</sub></span>
 
 
-\(\frac{4}{3}\)
+<span class="math-inline"><sup>4</sup>∕<sub>3</sub></span>
 
 
-\(\frac{2}{3}\)
+<span class="math-inline"><sup>2</sup>∕<sub>3</sub></span>
 
 
-\(-\frac{5}{17}\)
+<span class="math-inline">-<sup>5</sup>∕<sub>17</sub></span>
 
 
-\(-\frac{17}{5}\)
+<span class="math-inline">-<sup>17</sup>∕<sub>5</sub></span>
 
 
-\(-\frac{6}{19}\)
+<span class="math-inline">-<sup>6</sup>∕<sub>19</sub></span>
 
 
-\(\frac{11}{8}\)
+<span class="math-inline"><sup>11</sup>∕<sub>8</sub></span>
 
 
-\(\frac{8}{11}\)
+<span class="math-inline"><sup>8</sup>∕<sub>11</sub></span>
 
 
-\(−13\)
+<span class="math-inline">−13</span>
 
 
-\(−19\)
+<span class="math-inline">−19</span>
 
 
-\(-\frac{1}{19}\)
+<span class="math-inline">-<sup>1</sup>∕<sub>19</sub></span>
 
 
-\(−1\)
+<span class="math-inline">−1</span>
 
 
-\(1\)
+<span class="math-inline">1</span>
 
 
 1
@@ -326,16 +399,16 @@ Absolute Value
 Reciprocal
 
 
-\(-\frac{7}{11}\)
+<span class="math-inline">-<sup>7</sup>∕<sub>11</sub></span>
 
 
-\(\frac{4}{5}\)
+<span class="math-inline"><sup>4</sup>∕<sub>5</sub></span>
 
 
-\(\frac{10}{7}\)
+<span class="math-inline"><sup>10</sup>∕<sub>7</sub></span>
 
 
-\(−8\)
+<span class="math-inline">−8</span>
 
 
 Fill in the chart.
@@ -346,16 +419,16 @@ Absolute Value
 Reciprocal
 
 
-\(-\frac{3}{13}\)
+<span class="math-inline">-<sup>3</sup>∕<sub>13</sub></span>
 
 
-\(\frac{9}{14}\)
+<span class="math-inline"><sup>9</sup>∕<sub>14</sub></span>
 
 
-\(\frac{15}{7}\)
+<span class="math-inline"><sup>15</sup>∕<sub>7</sub></span>
 
 
-\(−9\)
+<span class="math-inline">−9</span>
 
 
 *Divide Fractions*
@@ -363,19 +436,19 @@ Reciprocal
 In the following exercises, model each fraction division.
 
 
-\(\frac{1}{2}\div \frac{1}{4}\)
+<span class="math-inline"><sup>1</sup>∕<sub>2</sub>÷ <sup>1</sup>∕<sub>4</sub></span>
 
 
-\(\frac{1}{2}\div \frac{1}{8}\)
+<span class="math-inline"><sup>1</sup>∕<sub>2</sub>÷ <sup>1</sup>∕<sub>8</sub></span>
 
 
 4
 
 
-\(2\div \frac{1}{5}\)
+<span class="math-inline">2÷ <sup>1</sup>∕<sub>5</sub></span>
 
 
-\(3\div \frac{1}{4}\)
+<span class="math-inline">3÷ <sup>1</sup>∕<sub>4</sub></span>
 
 
 12
@@ -384,147 +457,147 @@ In the following exercises, model each fraction division.
 In the following exercises, divide, and write the answer in simplified form.
 
 
-\(\frac{1}{2}\div \frac{1}{4}\)
+<span class="math-inline"><sup>1</sup>∕<sub>2</sub>÷ <sup>1</sup>∕<sub>4</sub></span>
 
 
-\(\frac{1}{2}\div \frac{1}{8}\)
+<span class="math-inline"><sup>1</sup>∕<sub>2</sub>÷ <sup>1</sup>∕<sub>8</sub></span>
 
 
 4
 
 
-\(\frac{3}{4}\div \frac{2}{3}\)
+<span class="math-inline"><sup>3</sup>∕<sub>4</sub>÷ <sup>2</sup>∕<sub>3</sub></span>
 
 
-\(\frac{4}{5}\div \frac{3}{4}\)
+<span class="math-inline"><sup>4</sup>∕<sub>5</sub>÷ <sup>3</sup>∕<sub>4</sub></span>
 
 
-\(\frac{16}{15}\)
+<span class="math-inline"><sup>16</sup>∕<sub>15</sub></span>
 
 
-\(-\frac{4}{5}\div \frac{4}{7}\)
+<span class="math-inline">-<sup>4</sup>∕<sub>5</sub>÷ <sup>4</sup>∕<sub>7</sub></span>
 
 
-\(-\frac{3}{4}\div \frac{3}{5}\)
+<span class="math-inline">-<sup>3</sup>∕<sub>4</sub>÷ <sup>3</sup>∕<sub>5</sub></span>
 
 
-\(-\frac{5}{4}\)
+<span class="math-inline">-<sup>5</sup>∕<sub>4</sub></span>
 
 
-\(-\frac{7}{9}\div (-\frac{7}{9})\)
+<span class="math-inline">-<sup>7</sup>∕<sub>9</sub>÷ (-<sup>7</sup>∕<sub>9</sub>)</span>
 
 
-\(-\frac{5}{6}\div (-\frac{5}{6})\)
+<span class="math-inline">-<sup>5</sup>∕<sub>6</sub>÷ (-<sup>5</sup>∕<sub>6</sub>)</span>
 
 
 1
 
 
-\(\frac{3}{4}\div \frac{x}{11}\)
+<span class="math-inline"><sup>3</sup>∕<sub>4</sub>÷ <sup>x</sup>∕<sub>11</sub></span>
 
 
-\(\frac{2}{5}\div \frac{y}{9}\)
+<span class="math-inline"><sup>2</sup>∕<sub>5</sub>÷ <sup>y</sup>∕<sub>9</sub></span>
 
 
-\(\frac{18}{5y}\)
+<span class="math-inline"><sup>18</sup>∕<sub>5y</sub></span>
 
 
-\(\frac{5}{8}\div \frac{a}{10}\)
+<span class="math-inline"><sup>5</sup>∕<sub>8</sub>÷ <sup>a</sup>∕<sub>10</sub></span>
 
 
-\(\frac{5}{6}\div \frac{c}{15}\)
+<span class="math-inline"><sup>5</sup>∕<sub>6</sub>÷ <sup>c</sup>∕<sub>15</sub></span>
 
 
-\(\frac{25}{2c}\)
+<span class="math-inline"><sup>25</sup>∕<sub>2c</sub></span>
 
 
-\(\frac{5}{18}\div (-\frac{15}{24})\)
+<span class="math-inline"><sup>5</sup>∕<sub>18</sub>÷ (-<sup>15</sup>∕<sub>24</sub>)</span>
 
 
-\(\frac{7}{18}\div (-\frac{14}{27})\)
+<span class="math-inline"><sup>7</sup>∕<sub>18</sub>÷ (-<sup>14</sup>∕<sub>27</sub>)</span>
 
 
-\(-\frac{3}{4}\)
+<span class="math-inline">-<sup>3</sup>∕<sub>4</sub></span>
 
 
-\(\frac{7p}{12}\div \frac{21p}{8}\)
+<span class="math-inline"><sup>7p</sup>∕<sub>12</sub>÷ <sup>21p</sup>∕<sub>8</sub></span>
 
 
-\(\frac{5q}{12}\div \frac{15q}{8}\)
+<span class="math-inline"><sup>5q</sup>∕<sub>12</sub>÷ <sup>15q</sup>∕<sub>8</sub></span>
 
 
-\(\frac{2}{9}\)
+<span class="math-inline"><sup>2</sup>∕<sub>9</sub></span>
 
 
-\(\frac{8u}{15}\div \frac{12v}{25}\)
+<span class="math-inline"><sup>8u</sup>∕<sub>15</sub>÷ <sup>12v</sup>∕<sub>25</sub></span>
 
 
-\(\frac{12r}{25}\div \frac{18s}{35}\)
+<span class="math-inline"><sup>12r</sup>∕<sub>25</sub>÷ <sup>18s</sup>∕<sub>35</sub></span>
 
 
-\(\frac{14r}{15s}\)
+<span class="math-inline"><sup>14r</sup>∕<sub>15s</sub></span>
 
 
-\(−5\div \frac{1}{2}\)
+<span class="math-inline">−5÷ <sup>1</sup>∕<sub>2</sub></span>
 
 
-\(−3\div \frac{1}{4}\)
+<span class="math-inline">−3÷ <sup>1</sup>∕<sub>4</sub></span>
 
 
 −12
 
 
-\(\frac{3}{4}\div (−12)\)
+<span class="math-inline"><sup>3</sup>∕<sub>4</sub>÷ (−12)</span>
 
 
-\(\frac{2}{5}\div (−10)\)
+<span class="math-inline"><sup>2</sup>∕<sub>5</sub>÷ (−10)</span>
 
 
-\(-\frac{1}{25}\)
+<span class="math-inline">-<sup>1</sup>∕<sub>25</sub></span>
 
 
-\(−18\div (-\frac{9}{2})\)
+<span class="math-inline">−18÷ (-<sup>9</sup>∕<sub>2</sub>)</span>
 
 
-\(−15\div (-\frac{5}{3})\)
+<span class="math-inline">−15÷ (-<sup>5</sup>∕<sub>3</sub>)</span>
 
 
 9
 
 
-\(\frac{1}{2}\div (-\frac{3}{4})\div \frac{7}{8}\)
+<span class="math-inline"><sup>1</sup>∕<sub>2</sub>÷ (-<sup>3</sup>∕<sub>4</sub>)÷ <sup>7</sup>∕<sub>8</sub></span>
 
 
-\(\frac{11}{2}\div \frac{7}{8}\cdot \frac{2}{11}\)
+<span class="math-inline"><sup>11</sup>∕<sub>2</sub>÷ <sup>7</sup>∕<sub>8</sub>· <sup>2</sup>∕<sub>11</sub></span>
 
 
-\(\frac{8}{7}\)
+<span class="math-inline"><sup>8</sup>∕<sub>7</sub></span>
 
 
 ### Everyday Math
 
 
-*Baking* A recipe for chocolate chip cookies calls for \(\frac{3}{4}\) cup brown sugar. Imelda wants to double the recipe.
-ⓐ How much brown sugar will Imelda need? Show your calculation. Write your result as an improper fraction and as a mixed number.ⓑ Measuring cups usually come in sets of \(\frac{1}{8},\frac{1}{4},\frac{1}{3},\frac{1}{2},\) and \(1\) cup. Draw a diagram to show two different ways that Imelda could measure the brown sugar needed to double the recipe.
+*Baking* A recipe for chocolate chip cookies calls for <span class="math-inline"><sup>3</sup>∕<sub>4</sub></span> cup brown sugar. Imelda wants to double the recipe.
+ⓐ How much brown sugar will Imelda need? Show your calculation. Write your result as an improper fraction and as a mixed number.ⓑ Measuring cups usually come in sets of <span class="math-inline"><sup>1</sup>∕<sub>8</sub>,<sup>1</sup>∕<sub>4</sub>,<sup>1</sup>∕<sub>3</sub>,<sup>1</sup>∕<sub>2</sub>,</span> and <span class="math-inline">1</span> cup. Draw a diagram to show two different ways that Imelda could measure the brown sugar needed to double the recipe.
 
 
-*Baking* Nina is making \(4\) pans of fudge to serve after a music recital. For each pan, she needs \(\frac{2}{3}\) cup of condensed milk.
+*Baking* Nina is making <span class="math-inline">4</span> pans of fudge to serve after a music recital. For each pan, she needs <span class="math-inline"><sup>2</sup>∕<sub>3</sub></span> cup of condensed milk.
 
   - ⓐ How much condensed milk will Nina need? Show your calculation. Write your result as an improper fraction and as a mixed number.
-  - ⓑ Measuring cups usually come in sets of \(\frac{1}{8},\frac{1}{4},\frac{1}{3},\frac{1}{2},\) and \(1\) cup. Draw a diagram to show two different ways that Nina could measure the condensed milk she needs.
+  - ⓑ Measuring cups usually come in sets of <span class="math-inline"><sup>1</sup>∕<sub>8</sub>,<sup>1</sup>∕<sub>4</sub>,<sup>1</sup>∕<sub>3</sub>,<sup>1</sup>∕<sub>2</sub>,</span> and <span class="math-inline">1</span> cup. Draw a diagram to show two different ways that Nina could measure the condensed milk she needs.
 
 
-  - ⓐ \(4\cdot \frac{2}{3}\) cups\(=\frac{8}{3}\) cups\(=2\frac{2}{3}\) cups
+  - ⓐ <span class="math-inline">4· <sup>2</sup>∕<sub>3</sub></span> cups<span class="math-inline">=<sup>8</sup>∕<sub>3</sub></span> cups<span class="math-inline">=2<sup>2</sup>∕<sub>3</sub></span> cups
   - ⓑ Answers will vary.
 
 
-*Portions* Don purchased a bulk package of candy that weighs \(5\) pounds. He wants to sell the candy in little bags that hold \(\frac{1}{4}\) pound. How many little bags of candy can he fill from the bulk package?
+*Portions* Don purchased a bulk package of candy that weighs <span class="math-inline">5</span> pounds. He wants to sell the candy in little bags that hold <span class="math-inline"><sup>1</sup>∕<sub>4</sub></span> pound. How many little bags of candy can he fill from the bulk package?
 
 
-*Portions* Kristen has \(\frac{3}{4}\) yards of ribbon. She wants to cut it into equal parts to make hair ribbons for her daughter’s \(6\) dolls. How long will each doll’s hair ribbon be?
+*Portions* Kristen has <span class="math-inline"><sup>3</sup>∕<sub>4</sub></span> yards of ribbon. She wants to cut it into equal parts to make hair ribbons for her daughter’s <span class="math-inline">6</span> dolls. How long will each doll’s hair ribbon be?
 
 
-\(\frac{1}{8}\) yard
+<span class="math-inline"><sup>1</sup>∕<sub>8</sub></span> yard
 
 
 ### Writing Exercises
@@ -539,10 +612,10 @@ Explain how you find the reciprocal of a negative fraction.
 Answers will vary.
 
 
-Rafael wanted to order half a medium pizza at a restaurant. The waiter told him that a medium pizza could be cut into \(6\) or \(8\) slices. Would he prefer \(3\) out of \(6\) slices or \(4\) out of \(8\) slices? Rafael replied that since he wasn’t very hungry, he would prefer \(3\) out of \(6\) slices. Explain what is wrong with Rafael’s reasoning.
+Rafael wanted to order half a medium pizza at a restaurant. The waiter told him that a medium pizza could be cut into <span class="math-inline">6</span> or <span class="math-inline">8</span> slices. Would he prefer <span class="math-inline">3</span> out of <span class="math-inline">6</span> slices or <span class="math-inline">4</span> out of <span class="math-inline">8</span> slices? Rafael replied that since he wasn’t very hungry, he would prefer <span class="math-inline">3</span> out of <span class="math-inline">6</span> slices. Explain what is wrong with Rafael’s reasoning.
 
 
-Give an example from everyday life that demonstrates how \(\frac{1}{2}\cdot \frac{2}{3}\) is \(\frac{1}{3}.\)
+Give an example from everyday life that demonstrates how <span class="math-inline"><sup>1</sup>∕<sub>2</sub>· <sup>2</sup>∕<sub>3</sub></span> is <span class="math-inline"><sup>1</sup>∕<sub>3</sub>.</span>
 
 
 Answers will vary.
@@ -556,96 +629,110 @@ Answers will vary.
 ⓑ After reviewing this checklist, what will you do to become confident for all objectives?
 
 
+<div class="prep-quiz">
 **Be Prepared!**
+
 
 Before you get started, take this readiness quiz.
 
 
-Divide and reduce, if possible: \((4+5)\div (10-7).\)
+Divide and reduce, if possible: <span class="math-inline">(4+5)÷ (10-7).</span>
 
 If you missed this problem, review .
 
 
-\(3\)
+<span class="math-inline">3</span>
 
 
+<div class="prep-quiz">
 **Be Prepared!**
 
 
-Multiply and write the answer in simplified form: \(\frac{1}{8}\cdot \frac{2}{3}\).
+Multiply and write the answer in simplified form: <span class="math-inline"><sup>1</sup>∕<sub>8</sub>· <sup>2</sup>∕<sub>3</sub></span>.
 
 If you missed this problem, review .
 
 
-\(\frac{1}{12}\)
+<span class="math-inline"><sup>1</sup>∕<sub>12</sub></span>
 
 
+<div class="prep-quiz">
 **Be Prepared!**
 
 
-Convert \(2\frac{3}{5}\) into an improper fraction.
+Convert <span class="math-inline">2<sup>3</sup>∕<sub>5</sub></span> into an improper fraction.
 
 If you missed this problem, review .
 
 
-\(\frac{13}{5}\)
+<span class="math-inline"><sup>13</sup>∕<sub>5</sub></span>
 
+
+---
+
+
+---
 
 ## Multiply and Divide Mixed Numbers
+
 
 In the previous section, you learned how to multiply and divide fractions. All of the examples there used either proper or improper fractions. What happens when you are asked to multiply or divide mixed numbers? Remember that we can convert a **mixed number** to an **improper fraction**. And you learned how to do that in Visualize Fractions.
 
 
+<div class="example">
 **Example**
 
 
-Multiply: \(3\frac{1}{3}\cdot \frac{5}{8}\)
+Multiply: <span class="math-inline">3<sup>1</sup>∕<sub>3</sub>· <sup>5</sup>∕<sub>8</sub></span>
 
 
-Solution
+<div class="solution">
+<span class="def-label">Solution</span>
 
 
+  <span class="math-inline">3<sup>1</sup>∕<sub>3</sub>· <sup>5</sup>∕<sub>8</sub></span>
 
-  \(3\frac{1}{3}\cdot \frac{5}{8}\)
-
-  Convert \(3\frac{1}{3}\) to an improper fraction.
-  \(\frac{10}{3}\cdot \frac{5}{8}\)
+  Convert <span class="math-inline">3<sup>1</sup>∕<sub>3</sub></span> to an improper fraction.
+  <span class="math-inline"><sup>10</sup>∕<sub>3</sub>· <sup>5</sup>∕<sub>8</sub></span>
 
   Multiply.
-  \(\frac{10\cdot 5}{3\cdot 8}\)
+  <span class="math-inline"><sup>10· 5</sup>∕<sub>3· 8</sub></span>
 
   Look for common factors.
-  \(\frac{2̸\cdot 5\cdot 5}{3\cdot 2̸\cdot 4}\)
+  <span class="math-inline"><sup>2̸· 5· 5</sup>∕<sub>3· 2̸· 4</sub></span>
 
   Remove common factors.
-  \(\frac{5\cdot 5}{3\cdot 4}\)
+  <span class="math-inline"><sup>5· 5</sup>∕<sub>3· 4</sub></span>
 
   Simplify.
-  \(\frac{25}{12}\)
+  <span class="math-inline"><sup>25</sup>∕<sub>12</sub></span>
 
 
-Notice that we left the answer as an improper fraction, \(\frac{25}{12},\) and did not convert it to a mixed number. In algebra, it is preferable to write answers as improper fractions instead of mixed numbers. This avoids any possible confusion between \(2\frac{1}{12}\) and \(2\cdot \frac{1}{12}.\)
+Notice that we left the answer as an improper fraction, <span class="math-inline"><sup>25</sup>∕<sub>12</sub>,</span> and did not convert it to a mixed number. In algebra, it is preferable to write answers as improper fractions instead of mixed numbers. This avoids any possible confusion between <span class="math-inline">2<sup>1</sup>∕<sub>12</sub></span> and <span class="math-inline">2· <sup>1</sup>∕<sub>12</sub>.</span>
 
 
+<div class="tryit">
 **Try It**
 
 
-Multiply, and write your answer in simplified form: \(5\frac{2}{3}\cdot \frac{6}{17}.\)
+Multiply, and write your answer in simplified form: <span class="math-inline">5<sup>2</sup>∕<sub>3</sub>· <sup>6</sup>∕<sub>17</sub>.</span>
 
 
 2
 
 
+<div class="tryit">
 **Try It**
 
 
-Multiply, and write your answer in simplified form: \(\frac{3}{7}\cdot 5\frac{1}{4}.\)
+Multiply, and write your answer in simplified form: <span class="math-inline"><sup>3</sup>∕<sub>7</sub>· 5<sup>1</sup>∕<sub>4</sub>.</span>
 
 
-\(\frac{9}{4}\)
+<span class="math-inline"><sup>9</sup>∕<sub>4</sub></span>
 
 
-**Multiply or divide mixed numbers.**
+<div class="definition-label">**Multiply or divide mixed numbers.**</div>
+
 
 - Convert the mixed numbers to improper fractions.
 
@@ -654,274 +741,312 @@ Multiply, and write your answer in simplified form: \(\frac{3}{7}\cdot 5\frac{1}
 - Simplify if possible.
 
 
+<div class="example">
 **Example**
 
 
-Multiply, and write your answer in simplified form: \(2\frac{4}{5} (-1\frac{7}{8}).\)
+Multiply, and write your answer in simplified form: <span class="math-inline">2<sup>4</sup>∕<sub>5</sub> (-1<sup>7</sup>∕<sub>8</sub>).</span>
 
 
-Solution
+<div class="solution">
+<span class="def-label">Solution</span>
 
 
-
-  \(2\frac{4}{5} (-1\frac{7}{8})\)
+  <span class="math-inline">2<sup>4</sup>∕<sub>5</sub> (-1<sup>7</sup>∕<sub>8</sub>)</span>
 
   Convert mixed numbers to improper fractions.
-  \(\frac{14}{5} (-\frac{15}{8})\)
+  <span class="math-inline"><sup>14</sup>∕<sub>5</sub> (-<sup>15</sup>∕<sub>8</sub>)</span>
 
   Multiply.
-  \(- \frac{14\cdot 15}{5\cdot 8}\)
+  <span class="math-inline">- <sup>14· 15</sup>∕<sub>5· 8</sub></span>
 
   Look for common factors.
-  \(- \frac{2̸\cdot 7\cdot 5̸\cdot 3}{5̸\cdot 2̸\cdot 4}\)
+  <span class="math-inline">- <sup>2̸· 7· 5̸· 3</sup>∕<sub>5̸· 2̸· 4</sub></span>
 
   Remove common factors.
-  \(- \frac{ 7\cdot 3}{4}\)
+  <span class="math-inline">- <sup> 7· 3</sup>∕<sub>4</sub></span>
 
   Simplify.
-  \(- \frac{ 21}{4}\)
+  <span class="math-inline">- <sup> 21</sup>∕<sub>4</sub></span>
 
 
+<div class="tryit">
 **Try It**
 
 
-Multiply, and write your answer in simplified form. \(5\frac{5}{7} (-2\frac{5}{8}).\)
+Multiply, and write your answer in simplified form. <span class="math-inline">5<sup>5</sup>∕<sub>7</sub> (-2<sup>5</sup>∕<sub>8</sub>).</span>
 
 
 −15
 
 
+<div class="tryit">
 **Try It**
 
 
-Multiply, and write your answer in simplified form. \(−3\frac{2}{5}\cdot 4\frac{1}{6}.\)
+Multiply, and write your answer in simplified form. <span class="math-inline">−3<sup>2</sup>∕<sub>5</sub>· 4<sup>1</sup>∕<sub>6</sub>.</span>
 
 
-\(-\frac{85}{6}\)
+<span class="math-inline">-<sup>85</sup>∕<sub>6</sub></span>
 
 
+<div class="example">
 **Example**
 
 
-Divide, and write your answer in simplified form: \(3\frac{4}{7} \div  5.\)
+Divide, and write your answer in simplified form: <span class="math-inline">3<sup>4</sup>∕<sub>7</sub> ÷  5.</span>
 
 
-Solution
+<div class="solution">
+<span class="def-label">Solution</span>
 
 
-
-  \(3\frac{4}{7} \div  5\)
+  <span class="math-inline">3<sup>4</sup>∕<sub>7</sub> ÷  5</span>
 
   Convert mixed numbers to improper fractions.
-  \(\frac{25}{7} \div  \frac{5}{1}\)
+  <span class="math-inline"><sup>25</sup>∕<sub>7</sub> ÷  <sup>5</sup>∕<sub>1</sub></span>
 
   Multiply the first fraction by the reciprocal of the second.
-  \(\frac{25}{7}\cdot \frac{1}{5}\)
+  <span class="math-inline"><sup>25</sup>∕<sub>7</sub>· <sup>1</sup>∕<sub>5</sub></span>
 
   Multiply.
-  \(\frac{25\cdot 1}{7\cdot 5}\)
+  <span class="math-inline"><sup>25· 1</sup>∕<sub>7· 5</sub></span>
 
   Look for common factors.
-  \(\frac{5̸\cdot 5\cdot 1}{7\cdot 5̸}\)
+  <span class="math-inline"><sup>5̸· 5· 1</sup>∕<sub>7· 5̸</sub></span>
 
   Remove common factors.
-  \(\frac{5\cdot 1}{7}\)
+  <span class="math-inline"><sup>5· 1</sup>∕<sub>7</sub></span>
 
   Simplify.
-  \(\frac{5}{7}\)
+  <span class="math-inline"><sup>5</sup>∕<sub>7</sub></span>
 
 
+<div class="tryit">
 **Try It**
 
 
-Divide, and write your answer in simplified form: \(4\frac{3}{8}\div 7.\)
+Divide, and write your answer in simplified form: <span class="math-inline">4<sup>3</sup>∕<sub>8</sub>÷ 7.</span>
 
 
-\(\frac{5}{8}\)
+<span class="math-inline"><sup>5</sup>∕<sub>8</sub></span>
 
 
+<div class="tryit">
 **Try It**
 
 
-Divide, and write your answer in simplified form: \(2\frac{5}{8}\div 3.\)
+Divide, and write your answer in simplified form: <span class="math-inline">2<sup>5</sup>∕<sub>8</sub>÷ 3.</span>
 
 
-\(\frac{7}{8}\)
+<span class="math-inline"><sup>7</sup>∕<sub>8</sub></span>
 
 
+<div class="example">
 **Example**
 
 
-Divide: \(2\frac{1}{2}\div 1\frac{1}{4}.\)
+Divide: <span class="math-inline">2<sup>1</sup>∕<sub>2</sub>÷ 1<sup>1</sup>∕<sub>4</sub>.</span>
 
 
-Solution
+<div class="solution">
+<span class="def-label">Solution</span>
 
 
-
-  \(2\frac{1}{2}\div 1\frac{1}{4}\)
+  <span class="math-inline">2<sup>1</sup>∕<sub>2</sub>÷ 1<sup>1</sup>∕<sub>4</sub></span>
 
   Convert mixed numbers to improper fractions.
-  \(\frac{5}{2}\div \frac{5}{4}\)
+  <span class="math-inline"><sup>5</sup>∕<sub>2</sub>÷ <sup>5</sup>∕<sub>4</sub></span>
 
   Multiply the first fraction by the reciprocal of the second.
-  \(\frac{5}{2}\cdot \frac{4}{5}\)
+  <span class="math-inline"><sup>5</sup>∕<sub>2</sub>· <sup>4</sup>∕<sub>5</sub></span>
 
   Multiply.
-  \(\frac{5\cdot 4}{2\cdot 5}\)
+  <span class="math-inline"><sup>5· 4</sup>∕<sub>2· 5</sub></span>
 
   Look for common factors.
-  \(\frac{5̸\cdot 2̸\cdot 2}{2̸\cdot 1\cdot 5̸}\)
+  <span class="math-inline"><sup>5̸· 2̸· 2</sup>∕<sub>2̸· 1· 5̸</sub></span>
 
   Remove common factors.
-  \(\frac{2}{1}\)
+  <span class="math-inline"><sup>2</sup>∕<sub>1</sub></span>
 
   Simplify.
-  \(2\)
+  <span class="math-inline">2</span>
 
 
+<div class="tryit">
 **Try It**
 
 
-Divide, and write your answer in simplified form: \(2\frac{2}{3}\div 1\frac{1}{3}.\)
+Divide, and write your answer in simplified form: <span class="math-inline">2<sup>2</sup>∕<sub>3</sub>÷ 1<sup>1</sup>∕<sub>3</sub>.</span>
 
 
 2
 
 
+<div class="tryit">
 **Try It**
 
 
-Divide, and write your answer in simplified form: \(3\frac{3}{4}\div 1\frac{1}{2}.\)
+Divide, and write your answer in simplified form: <span class="math-inline">3<sup>3</sup>∕<sub>4</sub>÷ 1<sup>1</sup>∕<sub>2</sub>.</span>
 
 
-\(\frac{5}{2}\)
+<span class="math-inline"><sup>5</sup>∕<sub>2</sub></span>
 
+
+---
+
+
+---
 
 ## Translate Phrases to Expressions with Fractions
 
-The words *quotient* and *ratio* are often used to describe fractions. In Subtract Whole Numbers, we defined quotient as the result of division. The quotient of \(a\) and \(b\) is the result you get from dividing \(a\) by \(b,\) or \(\frac{a}{b}.\) Let’s practice translating some phrases into algebraic expressions using these terms.
+
+The words *quotient* and *ratio* are often used to describe fractions. In Subtract Whole Numbers, we defined quotient as the result of division. The quotient of <span class="math-inline">a</span> and <span class="math-inline">b</span> is the result you get from dividing <span class="math-inline">a</span> by <span class="math-inline">b,</span> or <span class="math-inline"><sup>a</sup>∕<sub>b</sub>.</span> Let’s practice translating some phrases into algebraic expressions using these terms.
 
 
+<div class="example">
 **Example**
 
 
-Translate the phrase into an algebraic expression: “the quotient of \(3x\) and \(8.”\)
+Translate the phrase into an algebraic expression: “the quotient of <span class="math-inline">3x</span> and <span class="math-inline">8.”</span>
 
 
-Solution
+<div class="solution">
+<span class="def-label">Solution</span>
+
+
 The keyword is *quotient*; it tells us that the operation is division. Look for the words *of* and *and* to find the numbers to divide.
-\(The quotient of 3x and 8.\)This tells us that we need to divide \(3x\) by \(8.\) \(\frac{3x}{8}\)
+<span class="math-inline">The quotient of 3x and 8.</span>This tells us that we need to divide <span class="math-inline">3x</span> by <span class="math-inline">8.</span> <span class="math-inline"><sup>3x</sup>∕<sub>8</sub></span>
 
 
+<div class="tryit">
 **Try It**
 
 
-Translate the phrase into an algebraic expression: the quotient of \(9s\) and \(14.\)
+Translate the phrase into an algebraic expression: the quotient of <span class="math-inline">9s</span> and <span class="math-inline">14.</span>
 
 
-\(\frac{9s}{14}\)
+<span class="math-inline"><sup>9s</sup>∕<sub>14</sub></span>
 
 
+<div class="tryit">
 **Try It**
 
 
-Translate the phrase into an algebraic expression: the quotient of \(5y\) and \(6.\)
+Translate the phrase into an algebraic expression: the quotient of <span class="math-inline">5y</span> and <span class="math-inline">6.</span>
 
 
-\(\frac{5y}{6}\)
+<span class="math-inline"><sup>5y</sup>∕<sub>6</sub></span>
 
 
+<div class="example">
 **Example**
 
 
-Translate the phrase into an algebraic expression: the quotient of the difference of \(m\) and \(n,\) and \(p.\)
+Translate the phrase into an algebraic expression: the quotient of the difference of <span class="math-inline">m</span> and <span class="math-inline">n,</span> and <span class="math-inline">p.</span>
 
 
-Solution
-We are looking for the *quotient* of the *difference* of \(m\) and \(n\), and \(p.\) This means we want to divide the difference of *\(m\)* and \(n\) by \(p.\)
-\(\frac{m-n}{p}\)
+<div class="solution">
+<span class="def-label">Solution</span>
 
 
+We are looking for the *quotient* of the *difference* of <span class="math-inline">m</span> and <span class="math-inline">n</span>, and <span class="math-inline">p.</span> This means we want to divide the difference of *<span class="math-inline">m</span>* and <span class="math-inline">n</span> by <span class="math-inline">p.</span>
+<span class="math-inline"><sup>m-n</sup>∕<sub>p</sub></span>
+
+
+<div class="tryit">
 **Try It**
 
 
-Translate the phrase into an algebraic expression: the quotient of the difference of \(a\) and \(b,\) and \(cd.\)
+Translate the phrase into an algebraic expression: the quotient of the difference of <span class="math-inline">a</span> and <span class="math-inline">b,</span> and <span class="math-inline">cd.</span>
 
 
-\(\frac{a-b}{cd}\)
+<span class="math-inline"><sup>a-b</sup>∕<sub>cd</sub></span>
 
 
+<div class="tryit">
 **Try It**
 
 
-Translate the phrase into an algebraic expression: the quotient of the sum of \(p\) and \(q,\) and \(r.\)
+Translate the phrase into an algebraic expression: the quotient of the sum of <span class="math-inline">p</span> and <span class="math-inline">q,</span> and <span class="math-inline">r.</span>
 
 
-\(\frac{p+q}{r}\)
+<span class="math-inline"><sup>p+q</sup>∕<sub>r</sub></span>
 
+
+---
+
+
+---
 
 ## Simplify Complex Fractions
+
 
 Our work with fractions so far has included proper fractions, improper fractions, and mixed numbers. Another kind of fraction is called **complex fraction**, which is a fraction in which the numerator or the denominator contains a fraction.
 
 Some examples of complex fractions are:
 
 
-$$
-\frac{ \frac{6}{7} }{ 3 } \frac{ \frac{3}{4} }{ \frac{5}{8} } \frac{ \frac{x}{2} }{ \frac{5}{6} }
-$$
-
-To simplify a complex fraction, remember that the fraction bar means division. So the complex fraction \(\frac{ \frac{3}{4} }{ \frac{5}{8} }\) can be written as \(\frac{3}{4}\div \frac{5}{8}.\)
+<div class="math-display">
+<sup> \frac{6</sup>∕<sub>7</sub>  3  <sup> \frac{3</sup>∕<sub>4</sub>  <sup>5</sup>∕<sub>8</sub>  <sup> \frac{x</sup>∕<sub>2</sub>  <sup>5</sup>∕<sub>6</sub>
+</div>
 
 
+To simplify a complex fraction, remember that the fraction bar means division. So the complex fraction <span class="math-inline"><sup> \frac{3</sup>∕<sub>4</sub>  <sup>5</sup>∕<sub>8</sub></span> can be written as <span class="math-inline"><sup>3</sup>∕<sub>4</sub>÷ <sup>5</sup>∕<sub>8</sub>.</span>
+
+
+<div class="example">
 **Example**
 
 
-Simplify: \(\frac{ \frac{3}{4} }{ \frac{5}{8} }.\)
+Simplify: <span class="math-inline"><sup> \frac{3</sup>∕<sub>4</sub>  <sup>5</sup>∕<sub>8</sub> .</span>
 
 
-Solution
+<div class="solution">
+<span class="def-label">Solution</span>
 
 
-
-  \(\frac{ \frac{3}{4} }{ \frac{5}{8} }\)
+  <span class="math-inline"><sup> \frac{3</sup>∕<sub>4</sub>  <sup>5</sup>∕<sub>8</sub></span>
 
   Rewrite as division.
-  \(\frac{3}{4}\div \frac{5}{8}\)
+  <span class="math-inline"><sup>3</sup>∕<sub>4</sub>÷ <sup>5</sup>∕<sub>8</sub></span>
 
   Multiply the first fraction by the reciprocal of the second.
-  \(\frac{3}{4}\cdot \frac{8}{5}\)
+  <span class="math-inline"><sup>3</sup>∕<sub>4</sub>· <sup>8</sup>∕<sub>5</sub></span>
 
   Multiply.
-  \(\frac{3\cdot 8}{4\cdot 5}\)
+  <span class="math-inline"><sup>3· 8</sup>∕<sub>4· 5</sub></span>
 
   Look for common factors.
-  \(\frac{3\cdot 4̸\cdot 2}{4̸\cdot 5}\)
+  <span class="math-inline"><sup>3· 4̸· 2</sup>∕<sub>4̸· 5</sub></span>
 
   Remove common factors and simplify.
-  \(\frac{6}{5}\)
+  <span class="math-inline"><sup>6</sup>∕<sub>5</sub></span>
 
 
+<div class="tryit">
 **Try It**
 
 
-Simplify: \(\frac{ \frac{2}{3} }{ \frac{5}{6} }.\)
+Simplify: <span class="math-inline"><sup> \frac{2</sup>∕<sub>3</sub>  <sup>5</sup>∕<sub>6</sub> .</span>
 
 
-\(\frac{4}{5}\)
+<span class="math-inline"><sup>4</sup>∕<sub>5</sub></span>
 
 
+<div class="tryit">
 **Try It**
 
 
-Simplify: \(\frac{ \frac{3}{7} }{ \frac{6}{11} }.\)
+Simplify: <span class="math-inline"><sup> \frac{3</sup>∕<sub>7</sub>  <sup>6</sup>∕<sub>11</sub> .</span>
 
 
-\(\frac{11}{14}\)
+<span class="math-inline"><sup>11</sup>∕<sub>14</sub></span>
 
 
-**Simplify a complex fraction.**
+<div class="definition-label">**Simplify a complex fraction.**</div>
+
 
 - Rewrite the complex fraction as a division problem.
 
@@ -930,142 +1055,237 @@ Simplify: \(\frac{ \frac{3}{7} }{ \frac{6}{11} }.\)
 - Simplify if possible.
 
 
+<div class="example">
 **Example**
 
 
-Simplify: \(\frac{-\frac{6}{7}}{3}.\)
+Simplify: <span class="math-inline"><sup>-\frac{6</sup>∕<sub>7</sub>{3}.</span>
 
 
-Solution
+<div class="solution">
+<span class="def-label">Solution</span>
 
 
-
-  \(\frac{-\frac{6}{7}}{3}\)
+  <span class="math-inline"><sup>-\frac{6</sup>∕<sub>7</sub>{3}</span>
 
   Rewrite as division.
-  \(-\frac{6}{7}\div 3\)
+  <span class="math-inline">-<sup>6</sup>∕<sub>7</sub>÷ 3</span>
 
   Multiply the first fraction by the reciprocal of the second.
-  \(-\frac{6}{7}\cdot \frac{1}{3}\)
+  <span class="math-inline">-<sup>6</sup>∕<sub>7</sub>· <sup>1</sup>∕<sub>3</sub></span>
 
   Multiply; the product will be negative.
-  \(-\frac{6\cdot 1}{7\cdot 3}\)
+  <span class="math-inline">-<sup>6· 1</sup>∕<sub>7· 3</sub></span>
 
   Look for common factors.
-  \(-\frac{3̸\cdot 2\cdot 1}{7\cdot 3̸}\)
+  <span class="math-inline">-<sup>3̸· 2· 1</sup>∕<sub>7· 3̸</sub></span>
 
   Remove common factors and simplify.
-  \(-\frac{2}{7}\)
+  <span class="math-inline">-<sup>2</sup>∕<sub>7</sub></span>
 
 
+<div class="tryit">
 **Try It**
 
 
-Simplify: \(\frac{-\frac{8}{7}}{4}.\)
+Simplify: <span class="math-inline"><sup>-\frac{8</sup>∕<sub>7</sub>{4}.</span>
 
 
-\(-\frac{2}{7}\)
+<span class="math-inline">-<sup>2</sup>∕<sub>7</sub></span>
 
 
+<div class="tryit">
 **Try It**
 
 
-Simplify: \(-\frac{ 3 }{ \frac{9}{10} }.\)
+Simplify: <span class="math-inline">-<sup> 3 </sup>∕<sub> \frac{9</sub>{10} .</span>
 
 
-\(-\frac{10}{3}\)
+<span class="math-inline">-<sup>10</sup>∕<sub>3</sub></span>
 
 
+<div class="example">
 **Example**
 
 
-Simplify: \(\frac{ \frac{x}{2} }{ \frac{xy}{6} }.\)
+Simplify: <span class="math-inline"><sup> \frac{x</sup>∕<sub>2</sub>  <sup>xy</sup>∕<sub>6</sub> .</span>
 
 
-Solution
+<div class="solution">
+<span class="def-label">Solution</span>
 
 
-
-  \(\frac{ \frac{x}{2} }{ \frac{xy}{6} }\)
+  <span class="math-inline"><sup> \frac{x</sup>∕<sub>2</sub>  <sup>xy</sup>∕<sub>6</sub></span>
 
   Rewrite as division.
-  \(\frac{x}{2}\div \frac{xy}{6}\)
+  <span class="math-inline"><sup>x</sup>∕<sub>2</sub>÷ <sup>xy</sup>∕<sub>6</sub></span>
 
   Multiply the first fraction by the reciprocal of the second.
-  \(\frac{x}{2}\cdot \frac{6}{xy}\)
+  <span class="math-inline"><sup>x</sup>∕<sub>2</sub>· <sup>6</sup>∕<sub>xy</sub></span>
 
   Multiply.
-  \(\frac{x\cdot 6}{2\cdot xy}\)
+  <span class="math-inline"><sup>x· 6</sup>∕<sub>2· xy</sub></span>
 
   Look for common factors.
-  \(\frac{x̸\cdot 3\cdot 2̸}{2̸\cdot x̸\cdot y}\)
+  <span class="math-inline"><sup>x̸· 3· 2̸</sup>∕<sub>2̸· x̸· y</sub></span>
 
   Remove common factors and simplify.
-  \(\frac{3}{y}\)
+  <span class="math-inline"><sup>3</sup>∕<sub>y</sub></span>
 
 
+<div class="tryit">
 **Try It**
 
 
-Simplify: \(\frac{ \frac{a}{8} }{ \frac{ab}{6} }.\)
+Simplify: <span class="math-inline"><sup> \frac{a</sup>∕<sub>8</sub>  <sup>ab</sup>∕<sub>6</sub> .</span>
 
 
-\(\frac{3}{4b}\)
+<span class="math-inline"><sup>3</sup>∕<sub>4b</sub></span>
 
 
+<div class="tryit">
 **Try It**
 
 
-Simplify: \(\frac{ \frac{p}{2} }{ \frac{pq}{8} }.\)
+Simplify: <span class="math-inline"><sup> \frac{p</sup>∕<sub>2</sub>  <sup>pq</sup>∕<sub>8</sub> .</span>
 
 
-\(\frac{4}{q}\)
+<span class="math-inline"><sup>4</sup>∕<sub>q</sub></span>
 
 
+<div class="example">
 **Example**
 
 
-Simplify: \(\frac{2\frac{3}{4}}{\frac{1}{8}}.\)
+Simplify: <span class="math-inline"><sup>2\frac{3</sup>∕<sub>4</sub><sup>1</sup>∕<sub>8</sub>.</span>
 
 
-Solution
+<div class="solution">
+<span class="def-label">Solution</span>
 
 
-
-  \(\frac{2\frac{3}{4}}{\frac{1}{8}}\)
+  <span class="math-inline"><sup>2\frac{3</sup>∕<sub>4</sub><sup>1</sup>∕<sub>8</sub></span>
 
   Rewrite as division.
-  \(2\frac{3}{4}\div \frac{1}{8}\)
+  <span class="math-inline">2<sup>3</sup>∕<sub>4</sub>÷ <sup>1</sup>∕<sub>8</sub></span>
 
   Change the mixed number to an improper fraction.
-  \(\frac{11}{4}\div \frac{1}{8}\)
+  <span class="math-inline"><sup>11</sup>∕<sub>4</sub>÷ <sup>1</sup>∕<sub>8</sub></span>
 
   Multiply the first fraction by the reciprocal of the second.
-  \(\frac{11}{4}\cdot \frac{8}{1}\)
+  <span class="math-inline"><sup>11</sup>∕<sub>4</sub>· <sup>8</sup>∕<sub>1</sub></span>
 
   Multiply.
-  \(\frac{11\cdot 8}{4\cdot 1}\)
+  <span class="math-inline"><sup>11· 8</sup>∕<sub>4· 1</sub></span>
 
   Look for common factors.
-  \(\frac{11\cdot 4̸\cdot 2}{4̸\cdot 1}\)
+  <span class="math-inline"><sup>11· 4̸· 2</sup>∕<sub>4̸· 1</sub></span>
 
   Remove common factors and simplify.
-  \(22\)
+  <span class="math-inline">22</span>
 
 
+<div class="tryit">
 **Try It**
 
 
-Simplify: \(\frac{\frac{5}{7}}{1\frac{2}{5}}.\)
+Simplify: <span class="math-inline"><sup>\frac{5</sup>∕<sub>7</sub>{1<sup>2</sup>∕<sub>5</sub>.</span>
 
 
-\(\frac{25}{49}.\)
+<span class="math-inline"><sup>25</sup>∕<sub>49</sub>.</span>
 
 
+<div class="tryit">
 **Try It**
 
 
-Simplify: \(\frac{\frac{8}{5}}{3\frac{1}{5}}.\)
+Simplify: <span class="math-inline"><sup>\frac{8</sup>∕<sub>5</sub>{3<sup>1</sup>∕<sub>5</sub>.</span>
 
 
-\(\frac{1}{2}\)
+<span class="math-inline"><sup>1</sup>∕<sub>2</sub></span>
+
+</div>
+
+</div>
+
+</div>
+
+</div>
+
+</div>
+
+</div>
+
+</div>
+
+</div>
+
+</div>
+
+</div>
+
+</div>
+
+</div>
+
+</div>
+
+</div>
+
+</div>
+
+</div>
+
+</div>
+
+</div>
+
+</div>
+
+</div>
+
+</div>
+
+</div>
+
+</div>
+
+</div>
+
+</div>
+
+</div>
+
+</div>
+
+</div>
+
+</div>
+
+</div>
+
+</div>
+
+</div>
+
+</div>
+
+</div>
+
+</div>
+
+</div>
+
+</div>
+
+</div>
+
+</div>
+
+</div>
+
+</div>
+
+</div>
+
+</div>

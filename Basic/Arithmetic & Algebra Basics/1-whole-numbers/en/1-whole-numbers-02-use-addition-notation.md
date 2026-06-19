@@ -1,213 +1,306 @@
+<style>
+.math-inline {
+    font-style: italic;
+    padding: 2px 6px;
+    border-radius: 4px;
+    background: #f8f9fa;
+    font-family: Georgia, serif;
+}
+.math-display {
+    background: #f8f9fa;
+    border-left: 4px solid #4a90d9;
+    padding: 16px 20px;
+    margin: 16px 0;
+    border-radius: 6px;
+    font-size: 1.15em;
+    font-family: Georgia, serif;
+    text-align: center;
+    line-height: 2;
+    overflow-x: auto;
+}
+.example-box, .example {
+    background: #f0f8ff;
+    border-left: 4px solid #2e86de;
+    padding: 12px 20px;
+    margin: 16px 0;
+    border-radius: 6px;
+}
+.tryit-box, .tryit {
+    background: #f0fff4;
+    border-left: 4px solid #27ae60;
+    padding: 12px 20px;
+    margin: 16px 0;
+    border-radius: 6px;
+}
+.solution-box, .solution {
+    background: #fef9e7;
+    border-left: 4px solid #f39c12;
+    padding: 12px 20px;
+    margin: 12px 0;
+    border-radius: 6px;
+}
+.check-box, .check {
+    background: #fef9e7;
+    border-left: 4px solid #f39c12;
+    padding: 12px 20px;
+    margin: 12px 0;
+    border-radius: 6px;
+}
+.prep-quiz {
+    background: #fff3cd;
+    border: 1px solid #ffc107;
+    padding: 12px 20px;
+    margin: 16px 0;
+    border-radius: 6px;
+}
+.def-label, .definition-label {
+    font-weight: bold;
+    font-size: 1.1em;
+    margin: 20px 0 8px 0;
+    color: #2c3e50;
+    display: block;
+}
+.math-display sup, .math-inline sup { font-size: 0.75em; line-height: 0; }
+.math-display sub, .math-inline sub { font-size: 0.75em; line-height: 0; }
+</style>
+
+
+---
+
+
+---
+
 ## Use Addition Notation
 
-A college student has a part-time job. Last week he worked \(3\) hours on Monday and \(4\) hours on Friday. To find the total number of hours he worked last week, he added \(3\) and \(4.\)
 
-The operation of addition combines numbers to get a **sum**. The notation we use to find the sum of \(3\) and \(4\) is:
+A college student has a part-time job. Last week he worked <span class="math-inline">3</span> hours on Monday and <span class="math-inline">4</span> hours on Friday. To find the total number of hours he worked last week, he added <span class="math-inline">3</span> and <span class="math-inline">4.</span>
+
+The operation of addition combines numbers to get a **sum**. The notation we use to find the sum of <span class="math-inline">3</span> and <span class="math-inline">4</span> is:
 
 
-$$
+<div class="math-display">
 3+4
-$$
-
-We read this as *three plus four* and the result is the sum of three and four. The numbers \(3\) and \(4\) are called the addends. A math statement that includes numbers and operations is called an expression.
+</div>
 
 
-**Addition Notation**
+We read this as *three plus four* and the result is the sum of three and four. The numbers <span class="math-inline">3</span> and <span class="math-inline">4</span> are called the addends. A math statement that includes numbers and operations is called an expression.
+
+
+<div class="definition-label">**Addition Notation**</div>
+
 
 To describe addition, we can use symbols and words.
 
 
+<div class="example">
 **Example**
 
 
 Translate from math notation to words:
-  - ⓐ \(7+1\)
-  - ⓑ \(12+14\)
+  - ⓐ <span class="math-inline">7+1</span>
+  - ⓑ <span class="math-inline">12+14</span>
 
 
-Solution
+<div class="solution">
+<span class="def-label">Solution</span>
+
+
   - ⓐ The expression consists of a plus symbol connecting the addends 7 and 1. We read this as *seven plus one*. The result is *the sum of seven and one*.
   - ⓑ The expression consists of a plus symbol connecting the addends 12 and 14. We read this as *twelve plus fourteen*. The result is the *sum of twelve and fourteen*.
 
 
+<div class="tryit">
 **Try It**
 
 
 Translate from math notation to words:
 
-  - ⓐ \(8+4\)
-  - ⓑ \(18+11\)
+  - ⓐ <span class="math-inline">8+4</span>
+  - ⓑ <span class="math-inline">18+11</span>
 
 
   - ⓐ eight plus four; the sum of eight and four
   - ⓑ eighteen plus eleven; the sum of eighteen and eleven
 
 
+<div class="tryit">
 **Try It**
 
 
 Translate from math notation to words:
 
-  - ⓐ \(21+16\)
-  - ⓑ \(100+200\)
+  - ⓐ <span class="math-inline">21+16</span>
+  - ⓑ <span class="math-inline">100+200</span>
 
 
   - ⓐ twenty-one plus sixteen; the sum of twenty-one and sixteen
   - ⓑ one hundred plus two hundred; the sum of one hundred and two hundred
 
 
+---
+
+
+---
+
 ## Model Addition of Whole Numbers
 
-Addition is really just counting. We will model addition with \(base-10\) blocks. Remember, a block represents \(1\) and a rod represents \(10.\) Let’s start by modeling the addition expression we just considered, \(3+4.\)
 
-Each addend is less than \(10,\) so we can use ones blocks.
+Addition is really just counting. We will model addition with <span class="math-inline">base-10</span> blocks. Remember, a block represents <span class="math-inline">1</span> and a rod represents <span class="math-inline">10.</span> Let’s start by modeling the addition expression we just considered, <span class="math-inline">3+4.</span>
 
-
-There are \(7\) blocks in all. We use an equal sign \((=)\) to show the sum. A math sentence that shows that two expressions are equal is called an equation. We have shown that. \(3+4=7.\)
+Each addend is less than <span class="math-inline">10,</span> so we can use ones blocks.
 
 
+There are <span class="math-inline">7</span> blocks in all. We use an equal sign <span class="math-inline">(=)</span> to show the sum. A math sentence that shows that two expressions are equal is called an equation. We have shown that. <span class="math-inline">3+4=7.</span>
+
+
+<div class="example">
 **Example**
 
 
-Model the addition \(2+6.\)
+Model the addition <span class="math-inline">2+6.</span>
 
 
-Solution
-\(2+6\) means the sum of \(2\) and \(6\)Each addend is less than 10, so we can use ones blocks.
+<div class="solution">
+<span class="def-label">Solution</span>
 
+
+<span class="math-inline">2+6</span> means the sum of <span class="math-inline">2</span> and <span class="math-inline">6</span>Each addend is less than 10, so we can use ones blocks.
 
 
     Model the first number with 2 blocks.
 
 
-
     Model the second number with 6 blocks.
-
 
 
     Count the total number of blocks
 
-There are \(8\) blocks in all, so \(2+6=8.\)
+There are <span class="math-inline">8</span> blocks in all, so <span class="math-inline">2+6=8.</span>
 
 
-
+<div class="tryit">
 **Try It**
 
 
-Model: \(3+6.\)
+Model: <span class="math-inline">3+6.</span>
 
 
+<div class="tryit">
 **Try It**
 
 
-Model: \(5+1.\)
+Model: <span class="math-inline">5+1.</span>
 
 
-When the result is \(10\) or more ones blocks, we will exchange the \(10\) blocks for one rod.
+When the result is <span class="math-inline">10</span> or more ones blocks, we will exchange the <span class="math-inline">10</span> blocks for one rod.
 
 
+<div class="example">
 **Example**
 
 
-Model the addition \(5+8.\)
+Model the addition <span class="math-inline">5+8.</span>
 
 
-Solution
-\(5+8\) means the sum of \(5\) and \(8.\)
+<div class="solution">
+<span class="def-label">Solution</span>
 
+
+<span class="math-inline">5+8</span> means the sum of <span class="math-inline">5</span> and <span class="math-inline">8.</span>
 
 
     Each addend is less than 10, se we can use ones blocks.
 
 
-
     Model the first number with 5 blocks.
-
 
 
     Model the second number with 8 blocks.
 
 
-
     Count the result. There are more than 10 blocks so we exchange 10 ones blocks for 1 tens rod.
-
 
 
     Now we have 1 ten and 3 ones, which is 13.
     5 + 8 = 13
 
 
-
 Notice that we can describe the models as ones blocks and tens rods, or we can simply say *ones* and *tens*. From now on, we will use the shorter version but keep in mind that they mean the same thing.
 
 
+<div class="tryit">
 **Try It**
 
 
-Model the addition: \(5+7.\)
+Model the addition: <span class="math-inline">5+7.</span>
 
 
+<div class="tryit">
 **Try It**
 
 
-Model the addition: \(6+8.\)
+Model the addition: <span class="math-inline">6+8.</span>
 
 
 Next we will model adding two digit numbers.
 
 
+<div class="example">
 **Example**
 
 
-Model the addition: \(17+26.\)
+Model the addition: <span class="math-inline">17+26.</span>
 
 
-Solution
-\(17+26\) means the sum of 17 and 26.
+<div class="solution">
+<span class="def-label">Solution</span>
 
+
+<span class="math-inline">17+26</span> means the sum of 17 and 26.
 
 
     Model the 17.
     1 ten and 7 ones
 
 
-
     Model the 26.
     2 tens and 6 ones
-
 
 
     Combine.
     3 tens and 13 ones
 
 
-
     Exchange 10 ones for 1 ten.
     4 tens and 3 ones
 
-    \(40+3=43\)
+    <span class="math-inline">40+3=43</span>
 
 
-
-    We have shown that \(17+26=43\)
-
+    We have shown that <span class="math-inline">17+26=43</span>
 
 
-
-
+<div class="tryit">
 **Try It**
 
 
-Model the addition: \(15+27.\)
+Model the addition: <span class="math-inline">15+27.</span>
 
 
+<div class="tryit">
 **Try It**
 
 
-Model the addition: \(16+29.\)
+Model the addition: <span class="math-inline">16+29.</span>
 
+
+---
+
+
+---
 
 ## Add Whole Numbers Without Models
+
 
 Now that we have used models to add numbers, we can move on to adding without models. Before we do that, make sure you know all the one digit addition facts. You will need to use these number facts when you add larger numbers.
 
@@ -217,104 +310,110 @@ Imagine filling in  by adding each row number along the left side to each column
 Did you notice what happens when you add zero to a number? The sum of any number and zero is the number itself. We call this the Identity Property of Addition. Zero is called the additive identity.
 
 
-**Identity Property of Addition**
-
-The sum of any number \(a\) and \(0\) is the number.
+<div class="definition-label">**Identity Property of Addition**</div>
 
 
-$$
+The sum of any number <span class="math-inline">a</span> and <span class="math-inline">0</span> is the number.
+
+
+<div class="math-display">
 \\
 a \\
 0
-$$
+</div>
 
 
+<div class="example">
 **Example**
 
 
 Find each sum:
-  - ⓐ \(0+11\)
-  - ⓑ \(42+0\)
+  - ⓐ <span class="math-inline">0+11</span>
+  - ⓑ <span class="math-inline">42+0</span>
 
 
-Solution
+<div class="solution">
+<span class="def-label">Solution</span>
 
 
     ⓐ The first addend is zero. The sum of any number and zero is the number.
-    \(0+11=11\)
+    <span class="math-inline">0+11=11</span>
 
 
     ⓑ The second addend is zero. The sum of any number and zero is the number.
-    \(42+0=42\)
+    <span class="math-inline">42+0=42</span>
 
 
-
+<div class="tryit">
 **Try It**
 
 
 Find each sum:
-  - ⓐ \(0+19\)
-  - ⓑ \(39+0\)
+  - ⓐ <span class="math-inline">0+19</span>
+  - ⓑ <span class="math-inline">39+0</span>
 
 
-  - ⓐ \(0+19=19\)
-  - ⓑ \(39+0=39\)
+  - ⓐ <span class="math-inline">0+19=19</span>
+  - ⓑ <span class="math-inline">39+0=39</span>
 
 
+<div class="tryit">
 **Try It**
 
 
 Find each sum:
-  - ⓐ \(0+24\)
-  - ⓑ \(57+0\)
+  - ⓐ <span class="math-inline">0+24</span>
+  - ⓑ <span class="math-inline">57+0</span>
 
 
-  - ⓐ \(0+24=24\)
-  - ⓑ \(57+0=57\)
+  - ⓐ <span class="math-inline">0+24=24</span>
+  - ⓑ <span class="math-inline">57+0=57</span>
 
 
 Look at the pairs of sums.
 
 
+    <span class="math-inline">2+3=5</span>
 
-    \(2+3=5\)
-
-    \(3+2=5\)
-
-
-    \(4+7=11\)
-
-    \(7+4=11\)
+    <span class="math-inline">3+2=5</span>
 
 
-    \(8+9=17\)
+    <span class="math-inline">4+7=11</span>
 
-    \(9+8=17\)
+    <span class="math-inline">7+4=11</span>
 
+
+    <span class="math-inline">8+9=17</span>
+
+    <span class="math-inline">9+8=17</span>
 
 
 Notice that when the order of the **addends** is reversed, the sum does not change. This property is called the Commutative Property of Addition, which states that changing the order of the addends does not change their sum.
 
 
-**Commutative Property of Addition**
-
-Changing the order of the addends \(a\) and \(b\) does not change their sum.
+<div class="definition-label">**Commutative Property of Addition**</div>
 
 
-$$
+Changing the order of the addends <span class="math-inline">a</span> and <span class="math-inline">b</span> does not change their sum.
+
+
+<div class="math-display">
 a+b=b+a
-$$
+</div>
 
 
+<div class="example">
 **Example**
 
 
 Add:
-  - ⓐ \(8+7\)
-  - ⓑ \(7+8\)
+  - ⓐ <span class="math-inline">8+7</span>
+  - ⓑ <span class="math-inline">7+8</span>
 
 
-Solution
+<div class="solution">
+<span class="def-label">Solution</span>
+
 
   -
 
@@ -322,12 +421,10 @@ Solution
   ⓐ
 
     Add.
-    \(8+7\)
+    <span class="math-inline">8+7</span>
 
 
-
-    \(15\)
-
+    <span class="math-inline">15</span>
 
 
   -
@@ -336,41 +433,46 @@ Solution
   ⓑ
 
     Add.
-    \(7+8\)
+    <span class="math-inline">7+8</span>
 
 
-
-    \(15\)
+    <span class="math-inline">15</span>
 
 
 Did you notice that changing the order of the addends did not change their sum? We could have immediately known the sum from part ⓑ just by recognizing that the addends were the same as in part ⓐ , but in the reverse order. As a result, both sums are the same.
 
 
+<div class="tryit">
 **Try It**
 
 
-Add: \(9+7\) and \(7+9.\)
+Add: <span class="math-inline">9+7</span> and <span class="math-inline">7+9.</span>
 
 
-\(9+7=16;7+9=16\)
+<span class="math-inline">9+7=16;7+9=16</span>
 
 
+<div class="tryit">
 **Try It**
 
 
-Add: \(8+6\) and \(6+8.\)
+Add: <span class="math-inline">8+6</span> and <span class="math-inline">6+8.</span>
 
 
-\(8+6=14;6+8=14\)
+<span class="math-inline">8+6=14;6+8=14</span>
 
 
+<div class="example">
 **Example**
 
 
-Add: \(28+61.\)
+Add: <span class="math-inline">28+61.</span>
 
 
-Solution
+<div class="solution">
+<span class="def-label">Solution</span>
+
+
 To add numbers with more than one digit, it is often easier to write the numbers vertically in columns.
 
 
@@ -380,55 +482,59 @@ To add numbers with more than one digit, it is often easier to write the numbers
 
 
     Then add the digits in each place value.
-Add the ones: \(8+1=9\)
-Add the tens: \(2+6=8\)
+Add the ones: <span class="math-inline">8+1=9</span>
+Add the tens: <span class="math-inline">2+6=8</span>
     \(28 \\
  \\
  \\
 89\)
 
 
-
+<div class="tryit">
 **Try It**
 
 
-Add: \(32+54.\)
+Add: <span class="math-inline">32+54.</span>
 
 
-\(32+54=86\)
+<span class="math-inline">32+54=86</span>
 
 
+<div class="tryit">
 **Try It**
 
 
-Add: \(25+74.\)
+Add: <span class="math-inline">25+74.</span>
 
 
-\(25+74=99\)
+<span class="math-inline">25+74=99</span>
 
-In the previous example, the sum of the ones and the sum of the tens were both less than \(10.\) But what happens if the sum is \(10\) or more? Let’s use our \(base-10\) model to find out.  shows the addition of \(17\) and \(26\) again.
+In the previous example, the sum of the ones and the sum of the tens were both less than <span class="math-inline">10.</span> But what happens if the sum is <span class="math-inline">10</span> or more? Let’s use our <span class="math-inline">base-10</span> model to find out.  shows the addition of <span class="math-inline">17</span> and <span class="math-inline">26</span> again.
 
-When we add the ones, \(7+6,\) we get \(13\) ones. Because we have more than \(10\) ones, we can exchange \(10\) of the ones for \(1\) ten. Now we have \(4\) tens and \(3\) ones. Without using the model, we show this as a small red \(1\) above the digits in the tens place.
+When we add the ones, <span class="math-inline">7+6,</span> we get <span class="math-inline">13</span> ones. Because we have more than <span class="math-inline">10</span> ones, we can exchange <span class="math-inline">10</span> of the ones for <span class="math-inline">1</span> ten. Now we have <span class="math-inline">4</span> tens and <span class="math-inline">3</span> ones. Without using the model, we show this as a small red <span class="math-inline">1</span> above the digits in the tens place.
 
-When the sum in a place value column is greater than \(9,\) we carry over to the next column to the left. Carrying is the same as regrouping by exchanging. For example, \(10\) ones for \(1\) ten or \(10\) tens for \(1\) hundred.
+When the sum in a place value column is greater than <span class="math-inline">9,</span> we carry over to the next column to the left. Carrying is the same as regrouping by exchanging. For example, <span class="math-inline">10</span> ones for <span class="math-inline">1</span> ten or <span class="math-inline">10</span> tens for <span class="math-inline">1</span> hundred.
 
 
-**Add whole numbers.**
+<div class="definition-label">**Add whole numbers.**</div>
+
 
 - Write the numbers so each place value lines up vertically.
 
-- Add the digits in each place value. Work from right to left starting with the ones place. If a sum in a place value is more than \(9,\) carry to the next place value.
+- Add the digits in each place value. Work from right to left starting with the ones place. If a sum in a place value is more than <span class="math-inline">9,</span> carry to the next place value.
 
 - Continue adding each place value from right to left, adding each place value and carrying if needed.
 
 
+<div class="example">
 **Example**
 
 
-Add: \(43+69.\)
+Add: <span class="math-inline">43+69.</span>
 
 
-Solution
+<div class="solution">
+<span class="def-label">Solution</span>
 
 
     Write the numbers so the digits line up vertically.
@@ -437,99 +543,99 @@ Solution
 
 
    Add the digits in each place.
-Add the ones: \(3+9=12\)
+Add the ones: <span class="math-inline">3+9=12</span>
 
 
-
-    Write the \(2\) in the ones place in the sum.
-Add the \(1\) ten to the tens place.
+    Write the <span class="math-inline">2</span> in the ones place in the sum.
+Add the <span class="math-inline">1</span> ten to the tens place.
     \(\overset{1}{4}3 \\
 \underset{____}{+69} \\
 2\)
 
 
-
-    Now add the tens: \(1+4+6=11\)
+    Now add the tens: <span class="math-inline">1+4+6=11</span>
 Write the 11 in the sum.
     \(\overset{1}{4}3 \\
 \underset{____}{+69} \\
 112\)
 
 
-
+<div class="tryit">
 **Try It**
 
 
-Add: \(35+98.\)
+Add: <span class="math-inline">35+98.</span>
 
 
-\(35+98=133\)
+<span class="math-inline">35+98=133</span>
 
 
+<div class="tryit">
 **Try It**
 
 
-Add: \(72+89.\)
+Add: <span class="math-inline">72+89.</span>
 
 
-\(72+89=161\)
+<span class="math-inline">72+89=161</span>
 
 
+<div class="example">
 **Example**
 
 
-Add: \(324+586.\)
+Add: <span class="math-inline">324+586.</span>
 
 
-Solution
+<div class="solution">
+<span class="def-label">Solution</span>
 
 
     Write the numbers so the digits line up vertically.
 
 
-
     Add the digits in each place value.
-Add the ones: \(4+6=10\)
-Write the \(0\) in the ones place in the sum and carry the \(1\) ten to the tens place.
+Add the ones: <span class="math-inline">4+6=10</span>
+Write the <span class="math-inline">0</span> in the ones place in the sum and carry the <span class="math-inline">1</span> ten to the tens place.
 
 
-
-    Add the tens: \(1+2+8=11\)
-Write the \(1\) in the tens place in the sum and carry the \(1\) hundred to the hundreds
-
+    Add the tens: <span class="math-inline">1+2+8=11</span>
+Write the <span class="math-inline">1</span> in the tens place in the sum and carry the <span class="math-inline">1</span> hundred to the hundreds
 
 
-    Add the hundreds: \(1+3+5=9\)
-Write the \(9\) in the hundreds place.
+    Add the hundreds: <span class="math-inline">1+3+5=9</span>
+Write the <span class="math-inline">9</span> in the hundreds place.
 
 
-
-
+<div class="tryit">
 **Try It**
 
 
-Add: \(456+376.\)
+Add: <span class="math-inline">456+376.</span>
 
 
-\(456+376=832\)
+<span class="math-inline">456+376=832</span>
 
 
+<div class="tryit">
 **Try It**
 
 
-Add: \(269+578.\)
+Add: <span class="math-inline">269+578.</span>
 
 
-\(269+578=847\)
+<span class="math-inline">269+578=847</span>
 
 
+<div class="example">
 **Example**
 
 
-Add: \(1,683+479.\)
+Add: <span class="math-inline">1,683+479.</span>
 
 
-Solution
+<div class="solution">
+<span class="def-label">Solution</span>
 
 
     Write the numbers so the digits line up vertically.
@@ -540,68 +646,70 @@ Solution
     Add the digits in each place value.
 
 
-
-    Add the ones: \(3+9=12.\)
-Write the \(2\) in the ones place of the sum and carry the \(1\) ten to the tens place.
+    Add the ones: <span class="math-inline">3+9=12.</span>
+Write the <span class="math-inline">2</span> in the ones place of the sum and carry the <span class="math-inline">1</span> ten to the tens place.
     \(1,6\overset{1}{8}3 \\
  \\
  \\
 2\)
 
 
-    Add the tens: \(1+7+8=16\)
-Write the \(6\) in the tens place and carry the \(1\) hundred to the hundreds place.
+    Add the tens: <span class="math-inline">1+7+8=16</span>
+Write the <span class="math-inline">6</span> in the tens place and carry the <span class="math-inline">1</span> hundred to the hundreds place.
     \(1,\overset{1}{6}\overset{1}{8}3 \\
  \\
  \\
 62\)
 
 
-    Add the hundreds: \(1+6+4=11\)
-Write the \(1\) in the hundreds place and carry the \(1\) thousand to the thousands place.
+    Add the hundreds: <span class="math-inline">1+6+4=11</span>
+Write the <span class="math-inline">1</span> in the hundreds place and carry the <span class="math-inline">1</span> thousand to the thousands place.
     \(1,\overset{1}{6}\overset{1}{8}3 \\
  \\
  \\
 162\)
 
 
-    Add the thousands \(1+1=2\).
-Write the \(2\) in the thousands place of the sum.
+    Add the thousands <span class="math-inline">1+1=2</span>.
+Write the <span class="math-inline">2</span> in the thousands place of the sum.
     \(\overset{1}{1,}\overset{1}{6}\overset{1}{8}3 \\
  \\
  \\
 2,162\)
 
 
-
 When the addends have different numbers of digits, be careful to line up the corresponding place values starting with the ones and moving toward the left.
 
 
+<div class="tryit">
 **Try It**
 
 
-Add: \(4,597+685.\)
+Add: <span class="math-inline">4,597+685.</span>
 
 
-\(4,597+685=5,282\)
+<span class="math-inline">4,597+685=5,282</span>
 
 
+<div class="tryit">
 **Try It**
 
 
-Add: \(5,837+695.\)
+Add: <span class="math-inline">5,837+695.</span>
 
 
-\(5,837+695=6,532\)
+<span class="math-inline">5,837+695=6,532</span>
 
 
+<div class="example">
 **Example**
 
 
-Add: \(21,357+861+8,596.\)
+Add: <span class="math-inline">21,357+861+8,596.</span>
 
 
-Solution
+<div class="solution">
+<span class="def-label">Solution</span>
 
 
     Write the numbers so the place values line up vertically.
@@ -613,9 +721,8 @@ Solution
     Add the digits in each place value.
 
 
-
-    Add the ones: \(7+1+6=14\)
-Write the \(4\) in the ones place of the sum and carry the \(1\) to the tens place.
+    Add the ones: <span class="math-inline">7+1+6=14</span>
+Write the <span class="math-inline">4</span> in the ones place of the sum and carry the <span class="math-inline">1</span> to the tens place.
     \(21,3\overset{1}{5}7 \\
 861 \\
  \\
@@ -623,8 +730,8 @@ Write the \(4\) in the ones place of the sum and carry the \(1\) to the tens pla
 4\)
 
 
-    Add the tens: \(1+5+6+9=21\)
-Write the \(1\) in the tens place and carry the \(2\) to the hundreds place.
+    Add the tens: <span class="math-inline">1+5+6+9=21</span>
+Write the <span class="math-inline">1</span> in the tens place and carry the <span class="math-inline">2</span> to the hundreds place.
     \(21,\overset{2}{3}\overset{1}{5}7 \\
 861 \\
  \\
@@ -632,8 +739,8 @@ Write the \(1\) in the tens place and carry the \(2\) to the hundreds place.
 14\)
 
 
-    Add the hundreds: \(2+3+8+5=18\)
-Write the \(8\) in the hundreds place and carry the \(1\) to the thousands place.
+    Add the hundreds: <span class="math-inline">2+3+8+5=18</span>
+Write the <span class="math-inline">8</span> in the hundreds place and carry the <span class="math-inline">1</span> to the thousands place.
     \(2\overset{1}{1,}\overset{2}{3}\overset{1}{5}7 \\
 861 \\
  \\
@@ -641,8 +748,8 @@ Write the \(8\) in the hundreds place and carry the \(1\) to the thousands place
 814\)
 
 
-    Add the thousands \(1+1+8=10\).
-Write the \(0\) in the thousands place and carry the \(1\) to the ten thousands place.
+    Add the thousands <span class="math-inline">1+1+8=10</span>.
+Write the <span class="math-inline">0</span> in the thousands place and carry the <span class="math-inline">1</span> to the ten thousands place.
     \(\overset{1}{2}\overset{1}{1,}\overset{2}{3}\overset{1}{5}7 \\
 861 \\
  \\
@@ -650,8 +757,8 @@ Write the \(0\) in the thousands place and carry the \(1\) to the ten thousands 
 0814\)
 
 
-Add the ten-thousands \(1+2=3\).
-Write the \(3\) in the ten thousands place in the sum.
+Add the ten-thousands <span class="math-inline">1+2=3</span>.
+Write the <span class="math-inline">3</span> in the ten thousands place in the sum.
 \(\overset{1}{2}\overset{1}{1,}\overset{2}{3}\overset{1}{5}7 \\
 861 \\
  \\
@@ -662,131 +769,155 @@ Write the \(3\) in the ten thousands place in the sum.
 This example had three addends. We can add any number of addends using the same process as long as we are careful to line up the place values correctly.
 
 
+<div class="tryit">
 **Try It**
 
 
-Add: \(46,195+397+6,281.\)
+Add: <span class="math-inline">46,195+397+6,281.</span>
 
 
-\(46,195+397+6,281=52,873\)
+<span class="math-inline">46,195+397+6,281=52,873</span>
 
 
+<div class="tryit">
 **Try It**
 
 
-Add: \(53,762+196+7,458.\)
+Add: <span class="math-inline">53,762+196+7,458.</span>
 
 
-\(53,762+196+7,458=61,416\)
+<span class="math-inline">53,762+196+7,458=61,416</span>
 
+
+---
+
+
+---
 
 ## Translate Word Phrases to Math Notation
+
 
 Earlier in this section, we translated math notation into words. Now we’ll reverse the process. We’ll translate word phrases into math notation. Some of the word phrases that indicate addition are listed in .
 
 
+<div class="example">
 **Example**
 
 
-Translate and simplify: the sum of \(19\) and \(23.\)
+Translate and simplify: the sum of <span class="math-inline">19</span> and <span class="math-inline">23.</span>
 
 
-Solution
-The word *sum* tells us to add. The words *of* \(19\) *and* \(23\) tell us the addends.
+<div class="solution">
+<span class="def-label">Solution</span>
 
 
+The word *sum* tells us to add. The words *of* <span class="math-inline">19</span> *and* <span class="math-inline">23</span> tell us the addends.
 
-    The sum of \(19\) and \(23\)
+
+    The sum of <span class="math-inline">19</span> and <span class="math-inline">23</span>
 
 
     Translate.
-    \(19+23\)
+    <span class="math-inline">19+23</span>
 
 
     Add.
-    \(42\)
+    <span class="math-inline">42</span>
 
 
-    The sum of \(19\) and \(23\) is \(42.\)
+    The sum of <span class="math-inline">19</span> and <span class="math-inline">23</span> is <span class="math-inline">42.</span>
 
 
-
-
+<div class="tryit">
 **Try It**
 
 
-Translate and simplify: the sum of \(17\) and \(26.\)
+Translate and simplify: the sum of <span class="math-inline">17</span> and <span class="math-inline">26.</span>
 
 
-Translate: \(17+26\); Simplify: \(43\)
+Translate: <span class="math-inline">17+26</span>; Simplify: <span class="math-inline">43</span>
 
 
+<div class="tryit">
 **Try It**
 
 
-Translate and simplify: the sum of \(28\) and \(14.\)
+Translate and simplify: the sum of <span class="math-inline">28</span> and <span class="math-inline">14.</span>
 
 
-Translate: \(28+14\); Simplify: \(42\)
+Translate: <span class="math-inline">28+14</span>; Simplify: <span class="math-inline">42</span>
 
 
+<div class="example">
 **Example**
 
 
-Translate and simplify: \(28\) increased by \(31.\)
+Translate and simplify: <span class="math-inline">28</span> increased by <span class="math-inline">31.</span>
 
 
-Solution
+<div class="solution">
+<span class="def-label">Solution</span>
+
+
 The words *increased by* tell us to add. The numbers given are the addends.
 
 
-    \(28\) increased by \(31.\)
-
+    <span class="math-inline">28</span> increased by <span class="math-inline">31.</span>
 
 
     Translate.
-    \(28+31\)
+    <span class="math-inline">28+31</span>
 
 
     Add.
-    \(59\)
+    <span class="math-inline">59</span>
 
 
-    So \(28\) increased by \(31\) is \(59.\)
+    So <span class="math-inline">28</span> increased by <span class="math-inline">31</span> is <span class="math-inline">59.</span>
 
 
-
-
+<div class="tryit">
 **Try It**
 
 
-Translate and simplify: \(29\) increased by \(76.\)
+Translate and simplify: <span class="math-inline">29</span> increased by <span class="math-inline">76.</span>
 
 
-Translate: \(29+76\); Simplify \(105\)
+Translate: <span class="math-inline">29+76</span>; Simplify <span class="math-inline">105</span>
 
 
+<div class="tryit">
 **Try It**
 
 
-Translate and simplify: \(37\) increased by \(69.\)
+Translate and simplify: <span class="math-inline">37</span> increased by <span class="math-inline">69.</span>
 
 
 Translate 37 + 69; Simplify 106
 
 
+---
+
+
+---
+
 ## Add Whole Numbers in Applications
+
 
 Now that we have practiced adding whole numbers, let’s use what we’ve learned to solve real-world problems. We’ll start by outlining a plan. First, we need to read the problem to determine what we are looking for. Then we write a word phrase that gives the information to find it. Next we translate the word phrase into math notation and then simplify. Finally, we write a sentence to answer the question.
 
 
+<div class="example">
 **Example**
 
 
-Hao earned grades of \(87,93,68,95, and 89\) on the five tests of the semester. What is the total number of points he earned on the five tests?
+Hao earned grades of <span class="math-inline">87,93,68,95, and 89</span> on the five tests of the semester. What is the total number of points he earned on the five tests?
 
 
-Solution
+<div class="solution">
+<span class="def-label">Solution</span>
+
+
 We are asked to find the total number of points on the tests.
 
 
@@ -795,11 +926,10 @@ We are asked to find the total number of points on the tests.
 
 
     Translate to math notation.
-    \(87+93+68+95+89\)
+    <span class="math-inline">87+93+68+95+89</span>
 
 
     Then we simplify by adding.
-
 
 
     Since there are several numbers, we will write them vertically.
@@ -813,28 +943,28 @@ We are asked to find the total number of points on the tests.
  \\\)
 
 
-
     Write a sentence to answer the question.
     Hao earned a total of 432 points.
 
 
+Notice that we added *points*, so the sum is <span class="math-inline">432</span> *points*. It is important to include the appropriate units in all answers to applications problems.
 
-Notice that we added *points*, so the sum is \(432\) *points*. It is important to include the appropriate units in all answers to applications problems.
 
-
+<div class="tryit">
 **Try It**
 
 
-Mark is training for a bicycle race. Last week he rode \(18\) miles on Monday, \(15\) miles on Wednesday, \(26\) miles on Friday, \(49\) miles on Saturday, and \(32\) miles on Sunday. What is the total number of miles he rode last week?
+Mark is training for a bicycle race. Last week he rode <span class="math-inline">18</span> miles on Monday, <span class="math-inline">15</span> miles on Wednesday, <span class="math-inline">26</span> miles on Friday, <span class="math-inline">49</span> miles on Saturday, and <span class="math-inline">32</span> miles on Sunday. What is the total number of miles he rode last week?
 
 
 He rode 140 miles.
 
 
+<div class="tryit">
 **Try It**
 
 
-Lincoln Middle School has three grades. The number of students in each grade is \(230,165,and 325.\) What is the total number of students?
+Lincoln Middle School has three grades. The number of students in each grade is <span class="math-inline">230,165,and 325.</span> What is the total number of students?
 
 
 The total number is 720 students.
@@ -843,18 +973,18 @@ The total number is 720 students.
 Some application problems involve shapes. For example, a person might need to know the distance around a garden to put up a fence or around a picture to frame it. The perimeter is the distance around a geometric figure. The perimeter of a figure is the sum of the lengths of its sides.
 
 
+<div class="example">
 **Example**
 
 
 Find the perimeter of the patio shown.
 
 
-Solution
-
+<div class="solution">
+<span class="def-label">Solution</span>
 
 
     We are asked to find the perimeter.
-
 
 
     Write a phrase.
@@ -862,22 +992,21 @@ Solution
 
 
     Translate to math notation.
-    \(4+6+2+3+2+9\)
+    <span class="math-inline">4+6+2+3+2+9</span>
 
 
     Simplify by adding.
-    \(26\)
+    <span class="math-inline">26</span>
 
 
     Write a sentence to answer the question.
 
 
-
-    We added feet, so the sum is \(26\) feet.
-    The perimeter of the patio is \(26\) feet.
-
+    We added feet, so the sum is <span class="math-inline">26</span> feet.
+    The perimeter of the patio is <span class="math-inline">26</span> feet.
 
 
+<div class="tryit">
 **Try It**
 
 
@@ -887,6 +1016,7 @@ Find the perimeter of the figure. All lengths are in inches.
 The perimeter is 30 inches.
 
 
+<div class="tryit">
 **Try It**
 
 
@@ -896,16 +1026,23 @@ Find the perimeter of the figure. All lengths are in inches.
 The perimeter is 36 inches.
 
 
-**ACCESS ADDITIONAL ONLINE RESOURCES**
+<div class="definition-label">**ACCESS ADDITIONAL ONLINE RESOURCES**</div>
 
-- Adding Two-Digit Numbers with \(base-10\) blocks
 
-- Adding Three-Digit Numbers with \(base-10\) blocks
+- Adding Two-Digit Numbers with <span class="math-inline">base-10</span> blocks
+
+- Adding Three-Digit Numbers with <span class="math-inline">base-10</span> blocks
 
 - Adding Whole Numbers
 
 
+---
+
+
+---
+
 ## Key Concepts
+
 
 - *Addition Notation* To describe addition, we can use symbols and words.
 
@@ -918,21 +1055,19 @@ Result
 
 
 Addition
-\(+\)
-\(3+4\)
+<span class="math-inline">+</span>
+<span class="math-inline">3+4</span>
 three plus four
-the sum of \(3\) and \(4\)
-
-
+the sum of <span class="math-inline">3</span> and <span class="math-inline">4</span>
 
 
 - *Identity Property of Addition*
 
-  - The sum of any number \(a\) and \(0\) is the number. \(a+0=a\) \(0+a=a\)
+  - The sum of any number <span class="math-inline">a</span> and <span class="math-inline">0</span> is the number. <span class="math-inline">a+0=a</span> <span class="math-inline">0+a=a</span>
 
 - *Commutative Property of Addition*
 
-  - Changing the order of the addends \(a\) and \(b\) does not change their sum. \(a+b=b+a\).
+  - Changing the order of the addends <span class="math-inline">a</span> and <span class="math-inline">b</span> does not change their sum. <span class="math-inline">a+b=b+a</span>.
 
 - *Add whole numbers.*
 
@@ -948,31 +1083,31 @@ the sum of \(3\) and \(4\)
 In the following exercises, translate the following from math expressions to words.
 
 
-\(5+2\)
+<span class="math-inline">5+2</span>
 
 
 five plus two; the sum of 5 and 2.
 
 
-\(6+3\)
+<span class="math-inline">6+3</span>
 
 
-\(13+18\)
+<span class="math-inline">13+18</span>
 
 
 thirteen plus eighteen; the sum of 13 and 18.
 
 
-\(15+16\)
+<span class="math-inline">15+16</span>
 
 
-\(214+642\)
+<span class="math-inline">214+642</span>
 
 
 two hundred fourteen plus six hundred forty-two; the sum of 214 and 642
 
 
-\(438+113\)
+<span class="math-inline">438+113</span>
 
 
 *Model Addition of Whole Numbers*
@@ -980,40 +1115,40 @@ two hundred fourteen plus six hundred forty-two; the sum of 214 and 642
 In the following exercises, model the addition.
 
 
-\(2+4\)
+<span class="math-inline">2+4</span>
 
 
-\(2+4=6\)
+<span class="math-inline">2+4=6</span>
 
 
-\(5+3\)
+<span class="math-inline">5+3</span>
 
 
-\(8+4\)
+<span class="math-inline">8+4</span>
 
 
-\(8+4=12\)
+<span class="math-inline">8+4=12</span>
 
 
-\(5+9\)
+<span class="math-inline">5+9</span>
 
 
-\(14+75\)
+<span class="math-inline">14+75</span>
 
 
-\(14+75=89\)
+<span class="math-inline">14+75=89</span>
 
 
-\(15+63\)
+<span class="math-inline">15+63</span>
 
 
-\(16+25\)
+<span class="math-inline">16+25</span>
 
 
-\(16+25=41\)
+<span class="math-inline">16+25=41</span>
 
 
-\(14+27\)
+<span class="math-inline">14+27</span>
 
 
 *Add Whole Numbers*
@@ -1023,136 +1158,136 @@ In the following exercises, fill in the missing values in each chart.
 In the following exercises, add.
 
 
-  - ⓐ \(0+13\)
-  - ⓑ \(13+0\)
+  - ⓐ <span class="math-inline">0+13</span>
+  - ⓑ <span class="math-inline">13+0</span>
 
 
   - ⓐ 13
   - ⓑ 13
 
 
-  - ⓐ \(0+5,280\)
-  - ⓑ \(5,280+0\)
+  - ⓐ <span class="math-inline">0+5,280</span>
+  - ⓑ <span class="math-inline">5,280+0</span>
 
 
-  - ⓐ \(8+3\)
-  - ⓑ \(3+8\)
+  - ⓐ <span class="math-inline">8+3</span>
+  - ⓑ <span class="math-inline">3+8</span>
 
 
-  - ⓐ \(11\)
-  - ⓑ \(11\)
+  - ⓐ <span class="math-inline">11</span>
+  - ⓑ <span class="math-inline">11</span>
 
 
-  - ⓐ \(7+5\)
-  - ⓑ \(5+7\)
+  - ⓐ <span class="math-inline">7+5</span>
+  - ⓑ <span class="math-inline">5+7</span>
 
 
-\(45+33\)
+<span class="math-inline">45+33</span>
 
 
-\(78\)
+<span class="math-inline">78</span>
 
 
-\(37+22\)
+<span class="math-inline">37+22</span>
 
 
-\(71+28\)
+<span class="math-inline">71+28</span>
 
 
-\(99\)
+<span class="math-inline">99</span>
 
 
-\(43+53\)
+<span class="math-inline">43+53</span>
 
 
-\(26+59\)
+<span class="math-inline">26+59</span>
 
 
-\(85\)
+<span class="math-inline">85</span>
 
 
-\(38+17\)
+<span class="math-inline">38+17</span>
 
 
-\(64+78\)
+<span class="math-inline">64+78</span>
 
 
-\(142\)
+<span class="math-inline">142</span>
 
 
-\(92+39\)
+<span class="math-inline">92+39</span>
 
 
-\(168+325\)
+<span class="math-inline">168+325</span>
 
 
-\(493\)
+<span class="math-inline">493</span>
 
 
-\(247+149\)
+<span class="math-inline">247+149</span>
 
 
-\(584+277\)
+<span class="math-inline">584+277</span>
 
 
-\(861\)
+<span class="math-inline">861</span>
 
 
-\(175+648\)
+<span class="math-inline">175+648</span>
 
 
-\(832+199\)
+<span class="math-inline">832+199</span>
 
 
-\(1,031\)
+<span class="math-inline">1,031</span>
 
 
-\(775+369\)
+<span class="math-inline">775+369</span>
 
 
-\(6,358+492\)
+<span class="math-inline">6,358+492</span>
 
 
-\(6,850\)
+<span class="math-inline">6,850</span>
 
 
-\(9,184+578\)
+<span class="math-inline">9,184+578</span>
 
 
-\(3,740+18,593\)
+<span class="math-inline">3,740+18,593</span>
 
 
-\(22,333\)
+<span class="math-inline">22,333</span>
 
 
-\(6,118+15,990\)
+<span class="math-inline">6,118+15,990</span>
 
 
-\(485,012+619,848\)
+<span class="math-inline">485,012+619,848</span>
 
 
-\(1,104,860\)
+<span class="math-inline">1,104,860</span>
 
 
-\(368,911+857,289\)
+<span class="math-inline">368,911+857,289</span>
 
 
-\(24,731+592+3,868\)
+<span class="math-inline">24,731+592+3,868</span>
 
 
-\(29,191\)
+<span class="math-inline">29,191</span>
 
 
-\(28,925+817+4,593\)
+<span class="math-inline">28,925+817+4,593</span>
 
 
-\(8,015+76,946+16,570\)
+<span class="math-inline">8,015+76,946+16,570</span>
 
 
-\(101,531\)
+<span class="math-inline">101,531</span>
 
 
-\(6,291+54,107+28,635\)
+<span class="math-inline">6,291+54,107+28,635</span>
 
 
 *Translate Word Phrases to Math Notation*
@@ -1160,58 +1295,58 @@ In the following exercises, add.
 In the following exercises, translate each phrase into math notation and then simplify.
 
 
-the sum of \(13\) and \(18\)
+the sum of <span class="math-inline">13</span> and <span class="math-inline">18</span>
 
 
-\(13+18=31\)
+<span class="math-inline">13+18=31</span>
 
 
-the sum of \(12\) and \(19\)
+the sum of <span class="math-inline">12</span> and <span class="math-inline">19</span>
 
 
-the sum of \(90\) and \(65\)
+the sum of <span class="math-inline">90</span> and <span class="math-inline">65</span>
 
 
-\(90+65=155\)
+<span class="math-inline">90+65=155</span>
 
 
-the sum of \(70\) and \(38\)
+the sum of <span class="math-inline">70</span> and <span class="math-inline">38</span>
 
 
-\(33\) increased by \(49\)
+<span class="math-inline">33</span> increased by <span class="math-inline">49</span>
 
 
-\(33+49=82\)
+<span class="math-inline">33+49=82</span>
 
 
-\(68\) increased by \(25\)
+<span class="math-inline">68</span> increased by <span class="math-inline">25</span>
 
 
-\(250\) more than \(599\)
+<span class="math-inline">250</span> more than <span class="math-inline">599</span>
 
 
-\(599+250=849\)
+<span class="math-inline">599+250=849</span>
 
 
-\(115\) more than \(286\)
+<span class="math-inline">115</span> more than <span class="math-inline">286</span>
 
 
-the total of \(628\) and \(77\)
+the total of <span class="math-inline">628</span> and <span class="math-inline">77</span>
 
 
-\(628+77=705\)
+<span class="math-inline">628+77=705</span>
 
 
-the total of \(593\) and \(79\)
+the total of <span class="math-inline">593</span> and <span class="math-inline">79</span>
 
 
-\(1,482\) added to \(915\)
+<span class="math-inline">1,482</span> added to <span class="math-inline">915</span>
 
 
-\(915+1,482=2,397\)
+<span class="math-inline">915+1,482=2,397</span>
 
 
-\(2,719\) added to \(682\)
+<span class="math-inline">2,719</span> added to <span class="math-inline">682</span>
 
 
 *Add Whole Numbers in Applications*
@@ -1219,40 +1354,40 @@ the total of \(593\) and \(79\)
 In the following exercises, solve the problem.
 
 
-*Home remodeling* Sophia remodeled her kitchen and bought a new range, microwave, and dishwasher. The range cost \($1,100,\) the microwave cost \($250,\) and the dishwasher cost \($525.\) What was the total cost of these three appliances?
+*Home remodeling* Sophia remodeled her kitchen and bought a new range, microwave, and dishwasher. The range cost <span class="math-inline">$1,100,</span> the microwave cost <span class="math-inline">$250,</span> and the dishwasher cost <span class="math-inline">$525.</span> What was the total cost of these three appliances?
 
 
 The total cost was $1,875.
 
 
-*Sports equipment* Aiden bought a baseball bat, helmet, and glove. The bat cost \($299,\) the helmet cost \($35,\) and the glove cost \($68.\) What was the total cost of Aiden’s sports equipment?
+*Sports equipment* Aiden bought a baseball bat, helmet, and glove. The bat cost <span class="math-inline">$299,</span> the helmet cost <span class="math-inline">$35,</span> and the glove cost <span class="math-inline">$68.</span> What was the total cost of Aiden’s sports equipment?
 
 
-*Bike riding* Ethan rode his bike \(14\) miles on Monday, \(19\) miles on Tuesday, \(12\) miles on Wednesday, \(25\) miles on Friday, and \(68\) miles on Saturday. What was the total number of miles Ethan rode?
+*Bike riding* Ethan rode his bike <span class="math-inline">14</span> miles on Monday, <span class="math-inline">19</span> miles on Tuesday, <span class="math-inline">12</span> miles on Wednesday, <span class="math-inline">25</span> miles on Friday, and <span class="math-inline">68</span> miles on Saturday. What was the total number of miles Ethan rode?
 
 
 Ethan rode 138 miles.
 
 
-*Business* Chloe has a flower shop. Last week she made \(19\) floral arrangements on Monday, \(12\) on Tuesday, \(23\) on Wednesday, \(29\) on Thursday, and \(44\) on Friday. What was the total number of floral arrangements Chloe made?
+*Business* Chloe has a flower shop. Last week she made <span class="math-inline">19</span> floral arrangements on Monday, <span class="math-inline">12</span> on Tuesday, <span class="math-inline">23</span> on Wednesday, <span class="math-inline">29</span> on Thursday, and <span class="math-inline">44</span> on Friday. What was the total number of floral arrangements Chloe made?
 
 
-*Apartment size* Jackson lives in a \(7\) room apartment. The number of square feet in each room is \(238,120,156,196,100,132,\) and \(225.\) What is the total number of square feet in all \(7\) rooms?
+*Apartment size* Jackson lives in a <span class="math-inline">7</span> room apartment. The number of square feet in each room is <span class="math-inline">238,120,156,196,100,132,</span> and <span class="math-inline">225.</span> What is the total number of square feet in all <span class="math-inline">7</span> rooms?
 
 
 The total square footage in the rooms is 1,167 square feet.
 
 
-*Weight* Seven men rented a fishing boat. The weights of the men were \(175,192,148,169,205,181,\) and \(225\) pounds. What was the total weight of the seven men?
+*Weight* Seven men rented a fishing boat. The weights of the men were <span class="math-inline">175,192,148,169,205,181,</span> and <span class="math-inline">225</span> pounds. What was the total weight of the seven men?
 
 
-*Salary* Last year Natalie’s salary was \($82,572.\) Two years ago, her salary was \($79,316,\) and three years ago it was \($75,298.\) What is the total amount of Natalie’s salary for the past three years?
+*Salary* Last year Natalie’s salary was <span class="math-inline">$82,572.</span> Two years ago, her salary was <span class="math-inline">$79,316,</span> and three years ago it was <span class="math-inline">$75,298.</span> What is the total amount of Natalie’s salary for the past three years?
 
 
 Natalie’s total salary is $237,186.
 
 
-*Home sales* Emma is a realtor. Last month, she sold three houses. The selling prices of the houses were \($292,540,$505,875,\) and \($423,699.\) What was the total of the three selling prices?
+*Home sales* Emma is a realtor. Last month, she sold three houses. The selling prices of the houses were <span class="math-inline">$292,540,$505,875,</span> and <span class="math-inline">$423,699.</span> What was the total of the three selling prices?
 
 
 In the following exercises, find the perimeter of each figure.
@@ -1273,34 +1408,34 @@ The perimeter of the figure is 62 feet.
 ### Everyday Math
 
 
-*Calories* Paulette had a grilled chicken salad, ranch dressing, and a \(16-ounce\) drink for lunch. On the restaurant’s nutrition chart, she saw that each item had the following number of calories:
-Grilled chicken salad – \(320\) calories
+*Calories* Paulette had a grilled chicken salad, ranch dressing, and a <span class="math-inline">16-ounce</span> drink for lunch. On the restaurant’s nutrition chart, she saw that each item had the following number of calories:
+Grilled chicken salad – <span class="math-inline">320</span> calories
 
-Ranch dressing – \(170\) calories
+Ranch dressing – <span class="math-inline">170</span> calories
 
-\(16-ounce\) drink – \(150\) calories
+<span class="math-inline">16-ounce</span> drink – <span class="math-inline">150</span> calories
 What was the total number of calories of Paulette’s lunch?
 
 
 The total number of calories was 640.
 
 
-*Calories* Fred had a grilled chicken sandwich, a small order of fries, and a \(12-oz\) chocolate shake for dinner. The restaurant’s nutrition chart lists the following calories for each item:
-Grilled chicken sandwich – \(420\) calories
+*Calories* Fred had a grilled chicken sandwich, a small order of fries, and a <span class="math-inline">12-oz</span> chocolate shake for dinner. The restaurant’s nutrition chart lists the following calories for each item:
+Grilled chicken sandwich – <span class="math-inline">420</span> calories
 
-Small fries – \(230\) calories
+Small fries – <span class="math-inline">230</span> calories
 
-\(12-oz\) chocolate shake – \(580\) calories
+<span class="math-inline">12-oz</span> chocolate shake – <span class="math-inline">580</span> calories
 What was the total number of calories of Fred’s dinner?
 
 
-*Test scores* A student needs a total of \(400\) points on five tests to pass a course. The student scored \(82,91,75,88,and 70.\) Did the student pass the course?
+*Test scores* A student needs a total of <span class="math-inline">400</span> points on five tests to pass a course. The student scored <span class="math-inline">82,91,75,88,and 70.</span> Did the student pass the course?
 
 
 Yes, he scored 406 points.
 
 
-*Elevators* The maximum weight capacity of an elevator is \(1150\) pounds. Six men are in the elevator. Their weights are \(210,145,183,230,159,and 164\) pounds. Is the total weight below the elevator’s maximum capacity?
+*Elevators* The maximum weight capacity of an elevator is <span class="math-inline">1150</span> pounds. Six men are in the elevator. Their weights are <span class="math-inline">210,145,183,230,159,and 164</span> pounds. Is the total weight below the elevator’s maximum capacity?
 
 
 Yes, the total weight is 1091 pounds.
@@ -1326,22 +1461,149 @@ How have you used models to help you learn the addition facts?
 ⓑ After reviewing this checklist, what will you do to become confident for all objectives?
 
 
+<div class="prep-quiz">
 **Be Prepared!**
+
 
 Before you get started, take this readiness quiz.
 
 
-Model \(3+4\) using base-ten blocks.
+Model <span class="math-inline">3+4</span> using base-ten blocks.
 
 If you missed this problem, review .
 
 
+<div class="prep-quiz">
 **Be Prepared!**
 
 
-Add: \(324+586.\)
+Add: <span class="math-inline">324+586.</span>
 
 If you missed this problem, review .
 
 
-\(910\)
+<span class="math-inline">910</span>
+
+</div>
+
+</div>
+
+</div>
+
+</div>
+
+</div>
+
+</div>
+
+</div>
+
+</div>
+
+</div>
+
+</div>
+
+</div>
+
+</div>
+
+</div>
+
+</div>
+
+</div>
+
+</div>
+
+</div>
+
+</div>
+
+</div>
+
+</div>
+
+</div>
+
+</div>
+
+</div>
+
+</div>
+
+</div>
+
+</div>
+
+</div>
+
+</div>
+
+</div>
+
+</div>
+
+</div>
+
+</div>
+
+</div>
+
+</div>
+
+</div>
+
+</div>
+
+</div>
+
+</div>
+
+</div>
+
+</div>
+
+</div>
+
+</div>
+
+</div>
+
+</div>
+
+</div>
+
+</div>
+
+</div>
+
+</div>
+
+</div>
+
+</div>
+
+</div>
+
+</div>
+
+</div>
+
+</div>
+
+</div>
+
+</div>
+
+</div>
+
+</div>
+
+</div>
+
+</div>
+
+</div>
+
+</div>

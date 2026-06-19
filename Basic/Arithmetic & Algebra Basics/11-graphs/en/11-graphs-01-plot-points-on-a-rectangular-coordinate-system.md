@@ -1,50 +1,124 @@
 # Graphs
 
+<style>
+.math-inline {
+    font-style: italic;
+    padding: 2px 6px;
+    border-radius: 4px;
+    background: #f8f9fa;
+    font-family: Georgia, serif;
+}
+.math-display {
+    background: #f8f9fa;
+    border-left: 4px solid #4a90d9;
+    padding: 16px 20px;
+    margin: 16px 0;
+    border-radius: 6px;
+    font-size: 1.15em;
+    font-family: Georgia, serif;
+    text-align: center;
+    line-height: 2;
+    overflow-x: auto;
+}
+.example-box, .example {
+    background: #f0f8ff;
+    border-left: 4px solid #2e86de;
+    padding: 12px 20px;
+    margin: 16px 0;
+    border-radius: 6px;
+}
+.tryit-box, .tryit {
+    background: #f0fff4;
+    border-left: 4px solid #27ae60;
+    padding: 12px 20px;
+    margin: 16px 0;
+    border-radius: 6px;
+}
+.solution-box, .solution {
+    background: #fef9e7;
+    border-left: 4px solid #f39c12;
+    padding: 12px 20px;
+    margin: 12px 0;
+    border-radius: 6px;
+}
+.check-box, .check {
+    background: #fef9e7;
+    border-left: 4px solid #f39c12;
+    padding: 12px 20px;
+    margin: 12px 0;
+    border-radius: 6px;
+}
+.prep-quiz {
+    background: #fff3cd;
+    border: 1px solid #ffc107;
+    padding: 12px 20px;
+    margin: 16px 0;
+    border-radius: 6px;
+}
+.def-label, .definition-label {
+    font-weight: bold;
+    font-size: 1.1em;
+    margin: 20px 0 8px 0;
+    color: #2c3e50;
+    display: block;
+}
+.math-display sup, .math-inline sup { font-size: 0.75em; line-height: 0; }
+.math-display sub, .math-inline sub { font-size: 0.75em; line-height: 0; }
+</style>
+
 
 *Cyclists speed toward the finish line. (credit: ewan traveler, Flickr)*
 
 Which cyclist will win the race? What will the winning time be? How many seconds will separate the winner from the runner-up? One way to summarize the information from the race is by creating a graph. In this chapter, we will discuss the basic concepts of graphing. The applications of graphing go far beyond races. They are used to present information in almost every field, including healthcare, business, and entertainment.
 
 
+<div class="prep-quiz">
 **Be Prepared!**
+
 
 Before you get started, take this readiness quiz.
 
 
-Evaluate: \(x+3\) when \(x=−1.\)
+Evaluate: <span class="math-inline">x+3</span> when <span class="math-inline">x=−1.</span>
 If you missed this problem, review .
 
 
-\(2\)
+<span class="math-inline">2</span>
 
 
+<div class="prep-quiz">
 **Be Prepared!**
 
 
-Evaluate: \(2x-5y\) when \(x=3,y=−2.\)
+Evaluate: <span class="math-inline">2x-5y</span> when <span class="math-inline">x=3,y=−2.</span>
 If you missed this problem, review .
 
 
-\(16\)
+<span class="math-inline">16</span>
 
 
+<div class="prep-quiz">
 **Be Prepared!**
 
 
-Solve for \(y: 40-4y=20.\)
+Solve for <span class="math-inline">y: 40-4y=20.</span>
 If you missed this problem, review .
 
 
-\(5\)
+<span class="math-inline">5</span>
 
+
+---
 
 ## Plot Points on a Rectangular Coordinate System
 
-Many maps, such as the Campus Map shown in , use a grid system to identify locations. Do you see the numbers \(1,2,3,\) and \(4\) across the top and bottom of the map and the letters A, B, C, and D along the sides? Every location on the map can be identified by a number and a letter.
 
-For example, the Student Center is in section 2B. It is located in the grid section above the number \(2\) and next to the letter B. In which grid section is the Stadium? The Stadium is in section 4D.
+Many maps, such as the Campus Map shown in , use a grid system to identify locations. Do you see the numbers <span class="math-inline">1,2,3,</span> and <span class="math-inline">4</span> across the top and bottom of the map and the letters A, B, C, and D along the sides? Every location on the map can be identified by a number and a letter.
+
+For example, the Student Center is in section 2B. It is located in the grid section above the number <span class="math-inline">2</span> and next to the letter B. In which grid section is the Stadium? The Stadium is in section 4D.
 
 
+<div class="example">
 **Example**
 
 
@@ -54,12 +128,15 @@ Use the map in .
   - ⓑ What is located in grid section 4C?
 
 
-Solution
-
-  - ⓐ Read the number below the Residence Halls, \(4,\) and the letter to the side, A. So the Residence Halls are in grid section 4A.
-  - ⓑ Find \(4\) across the bottom of the map and C along the side. Look below the \(4\) and next to the C. Tiger Field is in grid section 4C.
+<div class="solution">
+**Solution**
 
 
+  - ⓐ Read the number below the Residence Halls, <span class="math-inline">4,</span> and the letter to the side, A. So the Residence Halls are in grid section 4A.
+  - ⓑ Find <span class="math-inline">4</span> across the bottom of the map and C along the side. Look below the <span class="math-inline">4</span> and next to the C. Tiger Field is in grid section 4C.
+
+
+<div class="tryit">
 **Try It**
 
 
@@ -73,6 +150,7 @@ Use the map in .
   - ⓑ Engineering Building
 
 
+<div class="tryit">
 **Try It**
 
 
@@ -87,16 +165,16 @@ Use the map in .
 
 Just as maps use a grid system to identify locations, a grid system is used in algebra to show a relationship between two variables in a rectangular coordinate system. To create a rectangular coordinate system, start with a horizontal number line. Show both positive and negative numbers as you did before, using a convenient scale unit. This horizontal number line is called the ***x*-axis**.
 
-Now, make a vertical number line passing through the \(x-axis\) at \(0.\) Put the positive numbers above \(0\) and the negative numbers below \(0.\) See . This vertical line is called the ***y*-axis**.
+Now, make a vertical number line passing through the <span class="math-inline">x-axis</span> at <span class="math-inline">0.</span> Put the positive numbers above <span class="math-inline">0</span> and the negative numbers below <span class="math-inline">0.</span> See . This vertical line is called the ***y*-axis**.
 
-Vertical grid lines pass through the integers marked on the \(x-axis.\) Horizontal grid lines pass through the integers marked on the \(y-axis.\) The resulting grid is the rectangular coordinate system.
+Vertical grid lines pass through the integers marked on the <span class="math-inline">x-axis.</span> Horizontal grid lines pass through the integers marked on the <span class="math-inline">y-axis.</span> The resulting grid is the rectangular coordinate system.
 
-The rectangular coordinate system is also called the \(x-y\) plane, the coordinate plane, or the Cartesian coordinate system (since it was developed by a mathematician named René Descartes.)
+The rectangular coordinate system is also called the <span class="math-inline">x-y</span> plane, the coordinate plane, or the Cartesian coordinate system (since it was developed by a mathematician named René Descartes.)
 
 
 *The rectangular coordinate system.*
 
-The \(x-axis\) and the \(y-axis\) form the rectangular coordinate system.  These axes divide a plane into four areas, called **quadrants**. The quadrants are identified by Roman numerals, beginning on the upper right and proceeding counterclockwise. See .
+The <span class="math-inline">x-axis</span> and the <span class="math-inline">y-axis</span> form the rectangular coordinate system.  These axes divide a plane into four areas, called **quadrants**. The quadrants are identified by Roman numerals, beginning on the upper right and proceeding counterclockwise. See .
 
 
 *The four quadrants of the rectangular coordinate system*
@@ -104,89 +182,102 @@ The \(x-axis\) and the \(y-axis\) form the rectangular coordinate system.  These
 In the rectangular coordinate system, every point is represented by an **ordered pair**. The first number in the ordered pair is the *x*-coordinate of the point, and the second number is the *y*-coordinate of the point.
 
 
-**Ordered Pair**
-
-An ordered pair, \((x,y)\) gives the coordinates of a point in a rectangular coordinate system.
+<div class="definition-label">**Ordered Pair**</div>
 
 
-$$
+An ordered pair, <span class="math-inline">(x,y)</span> gives the coordinates of a point in a rectangular coordinate system.
+
+
+<div class="math-display">
 The first number is the \\
 The second number is the
-$$
-
-So how do the coordinates of a point help you locate a point on the \(x-y\) plane?
-
-Let’s try locating the point \((2,5)\). In this ordered pair, the \(x\)-coordinate is \(2\) and the \(y\)-coordinate is \(5\).
-
-We start by locating the \(x\) value, \(2,\) on the \(x-axis.\) Then we lightly sketch a vertical line through \(x=2,\) as shown in .
-
-Now we locate the \(y\) value, \(5,\) on the \(y\)-axis and sketch a horizontal line through \(y=5\). The point where these two lines meet is the point with coordinates \((2,5).\) We plot the point there, as shown in .
+</div>
 
 
+So how do the coordinates of a point help you locate a point on the <span class="math-inline">x-y</span> plane?
+
+Let’s try locating the point <span class="math-inline">(2,5)</span>. In this ordered pair, the <span class="math-inline">x</span>-coordinate is <span class="math-inline">2</span> and the <span class="math-inline">y</span>-coordinate is <span class="math-inline">5</span>.
+
+We start by locating the <span class="math-inline">x</span> value, <span class="math-inline">2,</span> on the <span class="math-inline">x-axis.</span> Then we lightly sketch a vertical line through <span class="math-inline">x=2,</span> as shown in .
+
+Now we locate the <span class="math-inline">y</span> value, <span class="math-inline">5,</span> on the <span class="math-inline">y</span>-axis and sketch a horizontal line through <span class="math-inline">y=5</span>. The point where these two lines meet is the point with coordinates <span class="math-inline">(2,5).</span> We plot the point there, as shown in .
+
+
+<div class="example">
 **Example**
 
 
-Plot \((1,3)\) and \((3,1)\) in the same rectangular coordinate system.
+Plot <span class="math-inline">(1,3)</span> and <span class="math-inline">(3,1)</span> in the same rectangular coordinate system.
 
 
-Solution
-The coordinate values are the same for both points, but the \(x\) and \(y\) values are reversed. Let’s begin with point \((1,3).\) The \(x-coordinate\) is \(1\) so find \(1\) on the \(x-axis\) and sketch a vertical line through \(x=1.\) The \(y-coordinate\) is \(3\) so we find \(3\) on the \(y-axis\) and sketch a horizontal line through \(y=3.\) Where the two lines meet, we plot the point \((1,3).\)
-
-To plot the point \((3,1),\) we start by locating \(3\) on the \(x-axis\) and sketch a vertical line through \(x=3.\) Then we find \(1\) on the \(y-axis\) and sketch a horizontal line through \(y=1.\) Where the two lines meet, we plot the point \((3,1).\)
-
-Notice that the order of the coordinates does matter, so, \((1,3)\) is not the same point as \((3,1).\)
+<div class="solution">
+**Solution**
 
 
+The coordinate values are the same for both points, but the <span class="math-inline">x</span> and <span class="math-inline">y</span> values are reversed. Let’s begin with point <span class="math-inline">(1,3).</span> The <span class="math-inline">x-coordinate</span> is <span class="math-inline">1</span> so find <span class="math-inline">1</span> on the <span class="math-inline">x-axis</span> and sketch a vertical line through <span class="math-inline">x=1.</span> The <span class="math-inline">y-coordinate</span> is <span class="math-inline">3</span> so we find <span class="math-inline">3</span> on the <span class="math-inline">y-axis</span> and sketch a horizontal line through <span class="math-inline">y=3.</span> Where the two lines meet, we plot the point <span class="math-inline">(1,3).</span>
+
+To plot the point <span class="math-inline">(3,1),</span> we start by locating <span class="math-inline">3</span> on the <span class="math-inline">x-axis</span> and sketch a vertical line through <span class="math-inline">x=3.</span> Then we find <span class="math-inline">1</span> on the <span class="math-inline">y-axis</span> and sketch a horizontal line through <span class="math-inline">y=1.</span> Where the two lines meet, we plot the point <span class="math-inline">(3,1).</span>
+
+Notice that the order of the coordinates does matter, so, <span class="math-inline">(1,3)</span> is not the same point as <span class="math-inline">(3,1).</span>
+
+
+<div class="tryit">
 **Try It**
 
 
-Plot each point on the same rectangular coordinate system: \((5,2),(2,5).\)
+Plot each point on the same rectangular coordinate system: <span class="math-inline">(5,2),(2,5).</span>
 
 
+<div class="tryit">
 **Try It**
 
 
-Plot each point on the same rectangular coordinate system: \((4,2),(2,4).\)
+Plot each point on the same rectangular coordinate system: <span class="math-inline">(4,2),(2,4).</span>
 
 
+<div class="example">
 **Example**
 
 
 Plot each point in the rectangular coordinate system and identify the quadrant in which the point is located:
 
-  - ⓐ \((−1,3)\)
-  - ⓑ \((−3,−4)\)
-  - ⓒ \((2,−3)\)
-  - ⓓ \((3,\frac{5}{2})\)
+  - ⓐ <span class="math-inline">(−1,3)</span>
+  - ⓑ <span class="math-inline">(−3,−4)</span>
+  - ⓒ <span class="math-inline">(2,−3)</span>
+  - ⓓ <span class="math-inline">(3,<sup>5</sup>∕<sub>2</sub>)</span>
 
 
-Solution
-The first number of the coordinate pair is the \(x-coordinate,\) and the second number is the \(y-coordinate.\)
-ⓐ Since \(x=−1,y=3,\) the point \((−1,3)\) is in Quadrant II.ⓑ Since \(x=−3,y=−4,\) the point \((−3,−4)\) is in Quadrant III.ⓒ Since \(x=2,y=−1,\) the point \((2,−1)\) is in Quadrant lV.ⓓ Since \(x=3,y=\frac{5}{2},\) the point \((3,\frac{5}{2})\) is in Quadrant I. It may be helpful to write \(\frac{5}{2}\) as the mixed number, \(2\frac{1}{2},\) or decimal, \(2.5.\) Then we know that the point is halfway between \(2\) and \(3\) on the \(y-axis.\)
+<div class="solution">
+**Solution**
 
 
+The first number of the coordinate pair is the <span class="math-inline">x-coordinate,</span> and the second number is the <span class="math-inline">y-coordinate.</span>
+ⓐ Since <span class="math-inline">x=−1,y=3,</span> the point <span class="math-inline">(−1,3)</span> is in Quadrant II.ⓑ Since <span class="math-inline">x=−3,y=−4,</span> the point <span class="math-inline">(−3,−4)</span> is in Quadrant III.ⓒ Since <span class="math-inline">x=2,y=−1,</span> the point <span class="math-inline">(2,−1)</span> is in Quadrant lV.ⓓ Since <span class="math-inline">x=3,y=<sup>5</sup>∕<sub>2</sub>,</span> the point <span class="math-inline">(3,<sup>5</sup>∕<sub>2</sub>)</span> is in Quadrant I. It may be helpful to write <span class="math-inline"><sup>5</sup>∕<sub>2</sub></span> as the mixed number, <span class="math-inline">2<sup>1</sup>∕<sub>2</sub>,</span> or decimal, <span class="math-inline">2.5.</span> Then we know that the point is halfway between <span class="math-inline">2</span> and <span class="math-inline">3</span> on the <span class="math-inline">y-axis.</span>
+
+
+<div class="tryit">
 **Try It**
 
 
 Plot each point on a rectangular coordinate system and identify the quadrant in which the point is located.
-  - ⓐ \((−2,1)\)
-  - ⓑ \((−3,−1)\)
-  - ⓒ \((4,−4)\)
-  - ⓓ \((−4,\frac{3}{2})\)
+  - ⓐ <span class="math-inline">(−2,1)</span>
+  - ⓑ <span class="math-inline">(−3,−1)</span>
+  - ⓒ <span class="math-inline">(4,−4)</span>
+  - ⓓ <span class="math-inline">(−4,<sup>3</sup>∕<sub>2</sub>)</span>
 
 
 (a) Quadrant II, (b) Quadrant III, (c) Quadrant IV, (d) Quadrant II
 
 
-
+<div class="tryit">
 **Try It**
 
 
 Plot each point on a rectangular coordinate system and identify the quadrant in which the point is located.
-  - ⓐ \((−4,1)\)
-  - ⓑ \((−2,3)\)
-  - ⓒ \((2,−5)\)
-  - ⓓ \((−3,\frac{5}{2})\)
+  - ⓐ <span class="math-inline">(−4,1)</span>
+  - ⓑ <span class="math-inline">(−2,3)</span>
+  - ⓒ <span class="math-inline">(2,−5)</span>
+  - ⓓ <span class="math-inline">(−3,<sup>5</sup>∕<sub>2</sub>)</span>
 
 
 (a) Quadrant II, (b) Quadrant II, (c) Quadrant IV, (d) Quadrant II
@@ -195,38 +286,44 @@ Plot each point on a rectangular coordinate system and identify the quadrant in 
 How do the signs affect the location of the points?
 
 
+<div class="example">
 **Example**
 
 
 Plot each point:
-  - ⓐ \((−5,2)\)
-  - ⓑ \((−5,−2)\)
-  - ⓒ \((5,2)\)
-  - ⓓ \((5,−2)\)
+  - ⓐ <span class="math-inline">(−5,2)</span>
+  - ⓑ <span class="math-inline">(−5,−2)</span>
+  - ⓒ <span class="math-inline">(5,2)</span>
+  - ⓓ <span class="math-inline">(5,−2)</span>
 
 
-Solution
-As we locate the \(x-coordinate\) and the \(y-coordinate,\) we must be careful with the signs.
+<div class="solution">
+**Solution**
 
 
+As we locate the <span class="math-inline">x-coordinate</span> and the <span class="math-inline">y-coordinate,</span> we must be careful with the signs.
+
+
+<div class="tryit">
 **Try It**
 
 
 Plot each point:
-  - ⓐ \((4,−3)\)
-  - ⓑ \((4,3)\)
-  - ⓒ \((−4,−3)\)
-  - ⓓ \((−4,3)\)
+  - ⓐ <span class="math-inline">(4,−3)</span>
+  - ⓑ <span class="math-inline">(4,3)</span>
+  - ⓒ <span class="math-inline">(−4,−3)</span>
+  - ⓓ <span class="math-inline">(−4,3)</span>
 
 
+<div class="tryit">
 **Try It**
 
 
 Plot each point:
-  - ⓐ \((−1,4)\)
-  - ⓑ \((1,4)\)
-  - ⓒ \((1,−4)\)
-  - ⓓ \((−1,−4)\)
+  - ⓐ <span class="math-inline">(−1,4)</span>
+  - ⓑ <span class="math-inline">(1,4)</span>
+  - ⓒ <span class="math-inline">(1,−4)</span>
+  - ⓓ <span class="math-inline">(−1,−4)</span>
 
 You may have noticed some patterns as you graphed the points in the two previous examples.
 
@@ -239,81 +336,95 @@ Can you tell just by looking at the coordinates in which quadrant the point (−
 We can summarize sign patterns of the quadrants as follows. Also see .
 
 
-What if one coordinate is zero? Where is the point \((0,4)\) located? Where is the point \((−2,0)\) located? The point \((0,4)\)  is on the *y*-axis and the point  \((-2,0)\) is on the *x*-axis.
+What if one coordinate is zero? Where is the point <span class="math-inline">(0,4)</span> located? Where is the point <span class="math-inline">(−2,0)</span> located? The point <span class="math-inline">(0,4)</span>  is on the *y*-axis and the point  <span class="math-inline">(-2,0)</span> is on the *x*-axis.
 
 
-**Points on the Axes**
-
-Points with a \(y-coordinate\) equal to \(0\) are on the \(x-axis,\) and have coordinates \((a,0).\)
-
-Points with an \(x-coordinate\) equal to \(0\) are on the \(y-axis,\) and have coordinates \((0,b).\)
-
-What is the ordered pair of the point where the axes cross?  At that point both coordinates are zero, so its ordered pair is \((0,0)\). The point has a special name. It is called the *origin*.
+<div class="definition-label">**Points on the Axes**</div>
 
 
-**The Origin**
+Points with a <span class="math-inline">y-coordinate</span> equal to <span class="math-inline">0</span> are on the <span class="math-inline">x-axis,</span> and have coordinates <span class="math-inline">(a,0).</span>
+
+Points with an <span class="math-inline">x-coordinate</span> equal to <span class="math-inline">0</span> are on the <span class="math-inline">y-axis,</span> and have coordinates <span class="math-inline">(0,b).</span>
+
+What is the ordered pair of the point where the axes cross?  At that point both coordinates are zero, so its ordered pair is <span class="math-inline">(0,0)</span>. The point has a special name. It is called the *origin*.
 
 
+<div class="definition-label">**The Origin**</div>
+
+
+<div class="example">
 **Example**
 
 
 Plot each point on a coordinate grid:
-  - ⓐ \((0,5)\)
-  - ⓑ \((4,0)\)
-  - ⓒ \((−3,0)\)
-  - ⓓ \((0,0)\)
-  - ⓔ \((0,−1)\)
+  - ⓐ <span class="math-inline">(0,5)</span>
+  - ⓑ <span class="math-inline">(4,0)</span>
+  - ⓒ <span class="math-inline">(−3,0)</span>
+  - ⓓ <span class="math-inline">(0,0)</span>
+  - ⓔ <span class="math-inline">(0,−1)</span>
 
 
-Solution
-
-  - ⓐ Since \(x=0,\) the point whose coordinates are \((0,5)\) is on the \(y-axis.\)
-  - ⓑ Since \(y=0,\) the point whose coordinates are \((4,0)\) is on the \(x-axis.\)
-  - ⓒ Since \(y=0,\) the point whose coordinates are \((−3,0)\) is on the \(x-axis.\)
-  - ⓓ Since \(x=0\) and \(y=0,\) the point whose coordinates are \((0,0)\) is the origin.
-  - ⓔ Since \(x=0,\) the point whose coordinates are \((0,−1)\) is on the \(y-axis.\)
+<div class="solution">
+**Solution**
 
 
+  - ⓐ Since <span class="math-inline">x=0,</span> the point whose coordinates are <span class="math-inline">(0,5)</span> is on the <span class="math-inline">y-axis.</span>
+  - ⓑ Since <span class="math-inline">y=0,</span> the point whose coordinates are <span class="math-inline">(4,0)</span> is on the <span class="math-inline">x-axis.</span>
+  - ⓒ Since <span class="math-inline">y=0,</span> the point whose coordinates are <span class="math-inline">(−3,0)</span> is on the <span class="math-inline">x-axis.</span>
+  - ⓓ Since <span class="math-inline">x=0</span> and <span class="math-inline">y=0,</span> the point whose coordinates are <span class="math-inline">(0,0)</span> is the origin.
+  - ⓔ Since <span class="math-inline">x=0,</span> the point whose coordinates are <span class="math-inline">(0,−1)</span> is on the <span class="math-inline">y-axis.</span>
+
+
+<div class="tryit">
 **Try It**
 
 
 Plot each point on a coordinate grid:
-  - ⓐ \((4,0)\)
-  - ⓑ \((−2,0)\)
-  - ⓒ \((0,0)\)
-  - ⓓ \((0,2)\)
-  - ⓔ \((0,−3)\)
+  - ⓐ <span class="math-inline">(4,0)</span>
+  - ⓑ <span class="math-inline">(−2,0)</span>
+  - ⓒ <span class="math-inline">(0,0)</span>
+  - ⓓ <span class="math-inline">(0,2)</span>
+  - ⓔ <span class="math-inline">(0,−3)</span>
 
 
+<div class="tryit">
 **Try It**
 
 
 Plot each point on a coordinate grid:
-  - ⓐ \((−5,0)\)
-  - ⓑ \((3,0)\)
-  - ⓒ \((0,0)\)
-  - ⓓ \((0,−1)\)
-  - ⓔ \((0,4)\)
+  - ⓐ <span class="math-inline">(−5,0)</span>
+  - ⓑ <span class="math-inline">(3,0)</span>
+  - ⓒ <span class="math-inline">(0,0)</span>
+  - ⓓ <span class="math-inline">(0,−1)</span>
+  - ⓔ <span class="math-inline">(0,4)</span>
 
+
+---
 
 ## Identify Points on a Graph
 
-In algebra, being able to identify the coordinates of a point shown on a graph is just as important as being able to plot points. To identify the ***x*-coordinate** of a point on a graph, read the number on the ***x*-axis** directly above or below the point. To identify the ***y*-coordinate** of a point, read the number on the ***y*-axis** directly to the left or right of the point. Remember, to write the ordered pair using the correct order \((x,y).\)
+
+In algebra, being able to identify the coordinates of a point shown on a graph is just as important as being able to plot points. To identify the ***x*-coordinate** of a point on a graph, read the number on the ***x*-axis** directly above or below the point. To identify the ***y*-coordinate** of a point, read the number on the ***y*-axis** directly to the left or right of the point. Remember, to write the ordered pair using the correct order <span class="math-inline">(x,y).</span>
 
 
+<div class="example">
 **Example**
 
 
 Name the ordered pair of each point shown:
 
 
-Solution
-Point A is above \(−3\) on the \(x-axis,\) so the \(x-coordinate\) of the point is \(−3.\) The point is to the left of \(3\) on the \(y-axis,\) so the \(y-coordinate\) of the point is \(3.\) The coordinates of the point are \((−3,3).\)
-Point B is below \(−1\) on the \(x-axis,\) so the \(x-coordinate\) of the point is \(−1.\) The point is to the left of \(−3\) on the \(y-axis,\) so the \(y-coordinate\) of the point is \(−3.\) The coordinates of the point are \((−1,−3).\)
-Point C is above \(2\) on the \(x-axis,\) so the \(x-coordinate\) of the point is \(2.\) The point is to the right of \(4\) on the \(y-axis,\) so the \(y-coordinate\) of the point is \(4.\) The coordinates of the point are \((2,4).\)
-Point D is below \(4\) on the \(x-axis,\) so the \(x-coordinate\) of the point is \(4.\) The point is to the right of \(−4\) on the \(y-axis,\) so the \(y-coordinate\) of the point is \(−4.\) The coordinates of the point are \((4,−4).\)
+<div class="solution">
+**Solution**
 
 
+Point A is above <span class="math-inline">−3</span> on the <span class="math-inline">x-axis,</span> so the <span class="math-inline">x-coordinate</span> of the point is <span class="math-inline">−3.</span> The point is to the left of <span class="math-inline">3</span> on the <span class="math-inline">y-axis,</span> so the <span class="math-inline">y-coordinate</span> of the point is <span class="math-inline">3.</span> The coordinates of the point are <span class="math-inline">(−3,3).</span>
+Point B is below <span class="math-inline">−1</span> on the <span class="math-inline">x-axis,</span> so the <span class="math-inline">x-coordinate</span> of the point is <span class="math-inline">−1.</span> The point is to the left of <span class="math-inline">−3</span> on the <span class="math-inline">y-axis,</span> so the <span class="math-inline">y-coordinate</span> of the point is <span class="math-inline">−3.</span> The coordinates of the point are <span class="math-inline">(−1,−3).</span>
+Point C is above <span class="math-inline">2</span> on the <span class="math-inline">x-axis,</span> so the <span class="math-inline">x-coordinate</span> of the point is <span class="math-inline">2.</span> The point is to the right of <span class="math-inline">4</span> on the <span class="math-inline">y-axis,</span> so the <span class="math-inline">y-coordinate</span> of the point is <span class="math-inline">4.</span> The coordinates of the point are <span class="math-inline">(2,4).</span>
+Point D is below <span class="math-inline">4</span> on the <span class="math-inline">x-axis,</span> so the <span class="math-inline">x-coordinate</span> of the point is <span class="math-inline">4.</span> The point is to the right of <span class="math-inline">−4</span> on the <span class="math-inline">y-axis,</span> so the <span class="math-inline">y-coordinate</span> of the point is <span class="math-inline">−4.</span> The coordinates of the point are <span class="math-inline">(4,−4).</span>
+
+
+<div class="tryit">
 **Try It**
 
 
@@ -326,6 +437,7 @@ Name the ordered pair of each point shown:
   - D: (3,−2)
 
 
+<div class="tryit">
 **Try It**
 
 
@@ -338,31 +450,34 @@ Name the ordered pair of each point shown:
   - D: (3,−5)
 
 
+<div class="example">
 **Example**
 
 
 Name the ordered pair of each point shown:
 
 
-Solution
+<div class="solution">
+**Solution**
 
 
-Point A is on the *x*-axis at \(x=-4\).
-The coordinates of point A are \((-4,0)\).
+Point A is on the *x*-axis at <span class="math-inline">x=-4</span>.
+The coordinates of point A are <span class="math-inline">(-4,0)</span>.
 
 
-Point B is on the *y*-axis at \(y=-2\)
-The coordinates of point B are \((0,-2)\).
+Point B is on the *y*-axis at <span class="math-inline">y=-2</span>
+The coordinates of point B are <span class="math-inline">(0,-2)</span>.
 
 
-Point C is on the *x*-axis at \(x=3\).
-The coordinates of point C are \((3,0)\).
+Point C is on the *x*-axis at <span class="math-inline">x=3</span>.
+The coordinates of point C are <span class="math-inline">(3,0)</span>.
 
 
-Point D is on the *y-*axis at \(y=1\).
-The coordinates of point D are \((0,1)\).
+Point D is on the *y-*axis at <span class="math-inline">y=1</span>.
+The coordinates of point D are <span class="math-inline">(0,1)</span>.
 
 
+<div class="tryit">
 **Try It**
 
 
@@ -375,6 +490,7 @@ Name the ordered pair of each point shown:
   - D: (0,−5)
 
 
+<div class="tryit">
 **Try It**
 
 
@@ -387,488 +503,521 @@ Name the ordered pair of each point shown:
   - D: (0,2)
 
 
+---
+
 ## Verify Solutions to an Equation in Two Variables
 
-All the equations we solved so far have been equations with one variable. In almost every case, when we solved the equation we got exactly one **solution**. The process of solving an equation ended with a statement such as \(x=4.\) Then we checked the solution by substituting back into the equation.
+
+All the equations we solved so far have been equations with one variable. In almost every case, when we solved the equation we got exactly one **solution**. The process of solving an equation ended with a statement such as <span class="math-inline">x=4.</span> Then we checked the solution by substituting back into the equation.
 
 Here’s an example of a **linear equation in one variable**, and its one solution.
 
 
-$$
+<div class="math-display">
 3 \\
  \\
  \\
-$$
-
-But equations can have more than one variable. Equations with two variables can be written in the general form \(Ax+By=C.\) An equation of this form is called a linear equation in two variables.
+</div>
 
 
-**Linear Equation**
+But equations can have more than one variable. Equations with two variables can be written in the general form <span class="math-inline">Ax+By=C.</span> An equation of this form is called a linear equation in two variables.
 
-An equation of the form \(Ax+By=C,\) where \(A and B\) are not both zero, is called a linear equation in two variables.
+
+<div class="definition-label">**Linear Equation**</div>
+
+
+An equation of the form <span class="math-inline">Ax+By=C,</span> where <span class="math-inline">A and B</span> are not both zero, is called a linear equation in two variables.
 
 Notice that the word “line” is in linear.
 
-Here is an example of a linear equation in two variables, \(x\) and \(y:\)
+Here is an example of a linear equation in two variables, <span class="math-inline">x</span> and <span class="math-inline">y:</span>
 
-Is \(y=−5x+1\) a linear equation? It does not appear to be in the form \(Ax+By=C.\) But we could rewrite it in this form.
-
-
-By rewriting \(y=−5x+1\) as \(5x+y=1,\) we can see that it is a linear equation in two variables because it can be written in the form \(Ax+By=C.\)
-
-Linear equations in two variables have infinitely many solutions. For every number that is substituted for \(x,\) there is a corresponding \(y\) value. This pair of values is a **solution to the linear equation** and is represented by the ordered pair \((x,y).\) When we substitute these values of \(x\) and \(y\) into the equation, the result is a true statement because the value on the left side is equal to the value on the right side.
+Is <span class="math-inline">y=−5x+1</span> a linear equation? It does not appear to be in the form <span class="math-inline">Ax+By=C.</span> But we could rewrite it in this form.
 
 
-**Solution to a Linear Equation in Two Variables**
+By rewriting <span class="math-inline">y=−5x+1</span> as <span class="math-inline">5x+y=1,</span> we can see that it is a linear equation in two variables because it can be written in the form <span class="math-inline">Ax+By=C.</span>
 
-An ordered pair \((x,y)\) is a solution to the linear equation \(Ax+By=C,\) if the equation is a true statement when the \(x-\) and \(y-values\) of the ordered pair are substituted into the equation.
+Linear equations in two variables have infinitely many solutions. For every number that is substituted for <span class="math-inline">x,</span> there is a corresponding <span class="math-inline">y</span> value. This pair of values is a **solution to the linear equation** and is represented by the ordered pair <span class="math-inline">(x,y).</span> When we substitute these values of <span class="math-inline">x</span> and <span class="math-inline">y</span> into the equation, the result is a true statement because the value on the left side is equal to the value on the right side.
 
 
+<div class="definition-label">**Solution to a Linear Equation in Two Variables**</div>
+
+
+An ordered pair <span class="math-inline">(x,y)</span> is a solution to the linear equation <span class="math-inline">Ax+By=C,</span> if the equation is a true statement when the <span class="math-inline">x-</span> and <span class="math-inline">y-values</span> of the ordered pair are substituted into the equation.
+
+
+<div class="example">
 **Example**
 
 
-Determine which ordered pairs are solutions of the equation \(x+4y=8:\)
-  - ⓐ \((0,2)\)
-  - ⓑ \((2,−4)\)
-  - ⓒ \((−4,3)\)
+Determine which ordered pairs are solutions of the equation <span class="math-inline">x+4y=8:</span>
+  - ⓐ <span class="math-inline">(0,2)</span>
+  - ⓑ <span class="math-inline">(2,−4)</span>
+  - ⓒ <span class="math-inline">(−4,3)</span>
 
 
-Solution
-Substitute the \(x- and y-values\) from each ordered pair into the equation and determine if the result is a true statement.
+<div class="solution">
+**Solution**
 
 
-ⓐ \((0,2)\)
-ⓑ \((2,−4)\)
-ⓒ \((−4,3)\)
+Substitute the <span class="math-inline">x- and y-values</span> from each ordered pair into the equation and determine if the result is a true statement.
 
 
-\((0,2)\) is a solution.
-\((2,−4)\) is not a solution.
-\((−4,3)\) is a solution.
+ⓐ <span class="math-inline">(0,2)</span>
+ⓑ <span class="math-inline">(2,−4)</span>
+ⓒ <span class="math-inline">(−4,3)</span>
 
 
+<span class="math-inline">(0,2)</span> is a solution.
+<span class="math-inline">(2,−4)</span> is not a solution.
+<span class="math-inline">(−4,3)</span> is a solution.
+
+
+<div class="tryit">
 **Try It**
 
 
-Determine which ordered pairs are solutions to the given equation: \(2x+3y=6\)
-  - ⓐ \((3,0)\)
-  - ⓑ \((2,0)\)
-  - ⓒ \((6,−2)\)
+Determine which ordered pairs are solutions to the given equation: <span class="math-inline">2x+3y=6</span>
+  - ⓐ <span class="math-inline">(3,0)</span>
+  - ⓑ <span class="math-inline">(2,0)</span>
+  - ⓒ <span class="math-inline">(6,−2)</span>
 
 
   , ⓒ
 
 
+<div class="tryit">
 **Try It**
 
 
-Determine which ordered pairs are solutions to the given equation: \(4x-y=8\)
-  - ⓐ \((0,8)\)
-  - ⓑ \((2,0)\)
-  - ⓒ \((1,−4)\)
+Determine which ordered pairs are solutions to the given equation: <span class="math-inline">4x-y=8</span>
+  - ⓐ <span class="math-inline">(0,8)</span>
+  - ⓑ <span class="math-inline">(2,0)</span>
+  - ⓒ <span class="math-inline">(1,−4)</span>
 
 
   , ⓒ
 
 
+<div class="example">
 **Example**
 
 
-Determine which ordered pairs are solutions of the equation. \(y=5x-1:\)
-  - ⓐ \((0,−1)\)
-  - ⓑ \((1,4)\)
-  - ⓒ \((−2,−7)\)
+Determine which ordered pairs are solutions of the equation. <span class="math-inline">y=5x-1:</span>
+  - ⓐ <span class="math-inline">(0,−1)</span>
+  - ⓑ <span class="math-inline">(1,4)</span>
+  - ⓒ <span class="math-inline">(−2,−7)</span>
 
 
-Solution
-Substitute the \(x-\) and \(y-values\) from each ordered pair into the equation and determine if it results in a true statement.
+<div class="solution">
+**Solution**
 
 
-ⓐ \((0,−1)\)
-ⓑ \((1,4)\)
-ⓒ \((−2,−7)\)
+Substitute the <span class="math-inline">x-</span> and <span class="math-inline">y-values</span> from each ordered pair into the equation and determine if it results in a true statement.
 
 
-\((0,−1)\) is a solution.
-\((1,4)\) is a solution.
-\((−2,−7)\) is not a solution.
+ⓐ <span class="math-inline">(0,−1)</span>
+ⓑ <span class="math-inline">(1,4)</span>
+ⓒ <span class="math-inline">(−2,−7)</span>
 
 
+<span class="math-inline">(0,−1)</span> is a solution.
+<span class="math-inline">(1,4)</span> is a solution.
+<span class="math-inline">(−2,−7)</span> is not a solution.
+
+
+<div class="tryit">
 **Try It**
 
 
-Determine which ordered pairs are solutions of the given equation: \(y=4x-3\)
-  - ⓐ \((0,3)\)
-  - ⓑ \((1,1)\)
-  - ⓒ \((1,0)\)
+Determine which ordered pairs are solutions of the given equation: <span class="math-inline">y=4x-3</span>
+  - ⓐ <span class="math-inline">(0,3)</span>
+  - ⓑ <span class="math-inline">(1,1)</span>
+  - ⓒ <span class="math-inline">(1,0)</span>
 
 
-
-
-
+<div class="tryit">
 **Try It**
 
 
 Determine which ordered pairs are solutions of the given equation:
-\(y=−2x+6\)
-  - ⓐ \((0,6)\)
-  - ⓑ \((1,4)\)
-  - ⓒ \((−2,−2)\)
+<span class="math-inline">y=−2x+6</span>
+  - ⓐ <span class="math-inline">(0,6)</span>
+  - ⓑ <span class="math-inline">(1,4)</span>
+  - ⓒ <span class="math-inline">(−2,−2)</span>
 
 
   , ⓑ
 
 
+---
+
 ## Complete a Table of Solutions to a Linear Equation
 
-In the previous examples, we substituted the \(x- and y-values\) of a given **ordered pair** to determine whether or not it was a solution to a linear equation. But how do we find the ordered pairs if they are not given? One way is to choose a value for \(x\) and then solve the equation for \(y.\) Or, choose a value for \(y\) and then solve for \(x.\)
 
-We’ll start by looking at the solutions to the equation \(y=5x-1\) we found in . We can summarize this information in a table of solutions.
+In the previous examples, we substituted the <span class="math-inline">x- and y-values</span> of a given **ordered pair** to determine whether or not it was a solution to a linear equation. But how do we find the ordered pairs if they are not given? One way is to choose a value for <span class="math-inline">x</span> and then solve the equation for <span class="math-inline">y.</span> Or, choose a value for <span class="math-inline">y</span> and then solve for <span class="math-inline">x.</span>
 
-
-To find a third solution, we’ll let \(x=2\) and solve for \(y.\)
+We’ll start by looking at the solutions to the equation <span class="math-inline">y=5x-1</span> we found in . We can summarize this information in a table of solutions.
 
 
-The ordered pair is a solution to \(y=5x-1\).  We will add it to the table.
+To find a third solution, we’ll let <span class="math-inline">x=2</span> and solve for <span class="math-inline">y.</span>
 
 
-We can find more solutions to the equation by substituting any value of \(x\) or any value of \(y\) and solving the resulting equation to get another ordered pair that is a solution. There are an infinite number of solutions for this equation.
+The ordered pair is a solution to <span class="math-inline">y=5x-1</span>.  We will add it to the table.
 
 
+We can find more solutions to the equation by substituting any value of <span class="math-inline">x</span> or any value of <span class="math-inline">y</span> and solving the resulting equation to get another ordered pair that is a solution. There are an infinite number of solutions for this equation.
+
+
+<div class="example">
 **Example**
 
 
-Complete the table to find three solutions to the equation \(y=4x-2:\)
+Complete the table to find three solutions to the equation <span class="math-inline">y=4x-2:</span>
 
 
-\(y=4x-2\)
+<span class="math-inline">y=4x-2</span>
 
 
-\(x\)
-\(y\)
-\((x,y)\)
+<span class="math-inline">x</span>
+<span class="math-inline">y</span>
+<span class="math-inline">(x,y)</span>
 
 
-\(0\)
+<span class="math-inline">0</span>
 
 
-\(−1\)
+<span class="math-inline">−1</span>
 
 
-\(2\)
+<span class="math-inline">2</span>
 
 
-Solution
-Substitute \(x=0,x=−1,\) and \(x=2\) into \(y=4x-2.\)
+<div class="solution">
+**Solution**
 
 
-\(y=4x-2\)
-\(y=4x-2\)
-\(y=4x-2\)
+Substitute <span class="math-inline">x=0,x=−1,</span> and <span class="math-inline">x=2</span> into <span class="math-inline">y=4x-2.</span>
 
 
-\(y=0-2\)
-\(y=−4-2\)
-\(y=8-2\)
+<span class="math-inline">y=4x-2</span>
+<span class="math-inline">y=4x-2</span>
+<span class="math-inline">y=4x-2</span>
 
 
-\(y=−2\)
-\(y=−6\)
-\(y=6\)
+<span class="math-inline">y=0-2</span>
+<span class="math-inline">y=−4-2</span>
+<span class="math-inline">y=8-2</span>
 
 
-\((0,−2)\)
-\((−1,−6)\)
-\((2,6)\)
+<span class="math-inline">y=−2</span>
+<span class="math-inline">y=−6</span>
+<span class="math-inline">y=6</span>
+
+
+<span class="math-inline">(0,−2)</span>
+<span class="math-inline">(−1,−6)</span>
+<span class="math-inline">(2,6)</span>
 
 
 The results are summarized in the table.
 
 
-\(y=4x-2\)
+<span class="math-inline">y=4x-2</span>
 
 
-\(x\)
-\(y\)
-\((x,y)\)
+<span class="math-inline">x</span>
+<span class="math-inline">y</span>
+<span class="math-inline">(x,y)</span>
 
 
-\(0\)
-\(−2\)
-\((0,−2)\)
+<span class="math-inline">0</span>
+<span class="math-inline">−2</span>
+<span class="math-inline">(0,−2)</span>
 
 
-\(−1\)
-\(−6\)
-\((−1,−6)\)
+<span class="math-inline">−1</span>
+<span class="math-inline">−6</span>
+<span class="math-inline">(−1,−6)</span>
 
 
-\(2\)
-\(6\)
-\((2,6)\)
+<span class="math-inline">2</span>
+<span class="math-inline">6</span>
+<span class="math-inline">(2,6)</span>
 
 
+<div class="tryit">
 **Try It**
 
 
-Complete the table to find three solutions to the equation: \(y=3x-1.\)
+Complete the table to find three solutions to the equation: <span class="math-inline">y=3x-1.</span>
 
 
-\(y=3x-1\)
+<span class="math-inline">y=3x-1</span>
 
 
-\(x\)
-\(y\)
-\((x,y)\)
+<span class="math-inline">x</span>
+<span class="math-inline">y</span>
+<span class="math-inline">(x,y)</span>
 
 
-\(0\)
+<span class="math-inline">0</span>
 
 
-\(−1\)
+<span class="math-inline">−1</span>
 
 
-\(2\)
+<span class="math-inline">2</span>
 
 
-\(y=3x-1\)
+<span class="math-inline">y=3x-1</span>
 
 
-\(x\)
-\(y\)
-\((x,y)\)
+<span class="math-inline">x</span>
+<span class="math-inline">y</span>
+<span class="math-inline">(x,y)</span>
 
 
-\(0\)
-\(−1\)
-\((0,−1)\)
+<span class="math-inline">0</span>
+<span class="math-inline">−1</span>
+<span class="math-inline">(0,−1)</span>
 
 
-\(−1\)
-\(−4\)
-\((−1,−4)\)
+<span class="math-inline">−1</span>
+<span class="math-inline">−4</span>
+<span class="math-inline">(−1,−4)</span>
 
 
-\(2\)
-\(5\)
-\((2,5)\)
+<span class="math-inline">2</span>
+<span class="math-inline">5</span>
+<span class="math-inline">(2,5)</span>
 
 
+<div class="tryit">
 **Try It**
 
 
-Complete the table to find three solutions to the equation: \(y=6x+1\)
+Complete the table to find three solutions to the equation: <span class="math-inline">y=6x+1</span>
 
 
-\(y=6x+1\)
+<span class="math-inline">y=6x+1</span>
 
 
-\(x\)
-\(y\)
-\((x,y)\)
+<span class="math-inline">x</span>
+<span class="math-inline">y</span>
+<span class="math-inline">(x,y)</span>
 
 
-\(0\)
+<span class="math-inline">0</span>
 
 
-\(1\)
+<span class="math-inline">1</span>
 
 
-\(−2\)
+<span class="math-inline">−2</span>
 
 
-\(y=6x+1\)
+<span class="math-inline">y=6x+1</span>
 
 
-\(x\)
-\(y\)
-\((x,y)\)
+<span class="math-inline">x</span>
+<span class="math-inline">y</span>
+<span class="math-inline">(x,y)</span>
 
 
-\(0\)
-\(1\)
-\((0,1)\)
+<span class="math-inline">0</span>
+<span class="math-inline">1</span>
+<span class="math-inline">(0,1)</span>
 
 
-\(1\)
-\(7\)
-\((1,7)\)
+<span class="math-inline">1</span>
+<span class="math-inline">7</span>
+<span class="math-inline">(1,7)</span>
 
 
-\(−2\)
-\(−11\)
-\((−2,−11)\)
+<span class="math-inline">−2</span>
+<span class="math-inline">−11</span>
+<span class="math-inline">(−2,−11)</span>
 
 
+<div class="example">
 **Example**
 
 
-Complete the table to find three solutions to the equation \(5x-4y=20:\)
+Complete the table to find three solutions to the equation <span class="math-inline">5x-4y=20:</span>
 
 
-\(5x-4y=20\)
+<span class="math-inline">5x-4y=20</span>
 
 
-\(x\)
-\(y\)
-\((x,y)\)
+<span class="math-inline">x</span>
+<span class="math-inline">y</span>
+<span class="math-inline">(x,y)</span>
 
 
-\(0\)
+<span class="math-inline">0</span>
 
 
-\(0\)
+<span class="math-inline">0</span>
 
 
-\(5\)
+<span class="math-inline">5</span>
 
 
-Solution
+<div class="solution">
+**Solution**
 
 
 The results are summarized in the table.
 
 
-\(5x-4y=20\)
+<span class="math-inline">5x-4y=20</span>
 
 
-\(x\)
-\(y\)
-\((x,y)\)
+<span class="math-inline">x</span>
+<span class="math-inline">y</span>
+<span class="math-inline">(x,y)</span>
 
 
-\(0\)
-\(−5\)
-\((0,−5)\)
+<span class="math-inline">0</span>
+<span class="math-inline">−5</span>
+<span class="math-inline">(0,−5)</span>
 
 
-\(4\)
-\(0\)
-\((4,0)\)
+<span class="math-inline">4</span>
+<span class="math-inline">0</span>
+<span class="math-inline">(4,0)</span>
 
 
-\(8\)
-\(5\)
-\((8,5)\)
+<span class="math-inline">8</span>
+<span class="math-inline">5</span>
+<span class="math-inline">(8,5)</span>
 
 
+<div class="tryit">
 **Try It**
 
 
-Complete the table to find three solutions to the equation: \(2x-5y=20.\)
+Complete the table to find three solutions to the equation: <span class="math-inline">2x-5y=20.</span>
 
 
-\(2x-5y=20\)
+<span class="math-inline">2x-5y=20</span>
 
 
-\(x\)
-\(y\)
-\((x,y)\)
+<span class="math-inline">x</span>
+<span class="math-inline">y</span>
+<span class="math-inline">(x,y)</span>
 
 
-\(0\)
+<span class="math-inline">0</span>
 
 
-\(0\)
+<span class="math-inline">0</span>
 
 
-\(−5\)
+<span class="math-inline">−5</span>
 
 
-\(2x-5y=20\)
+<span class="math-inline">2x-5y=20</span>
 
 
-\(x\)
-\(y\)
-\((x,y)\)
+<span class="math-inline">x</span>
+<span class="math-inline">y</span>
+<span class="math-inline">(x,y)</span>
 
 
-\(0\)
-\(−4\)
-\((0,−4)\)
+<span class="math-inline">0</span>
+<span class="math-inline">−4</span>
+<span class="math-inline">(0,−4)</span>
 
 
-\(10\)
-\(0\)
-\((10,0)\)
+<span class="math-inline">10</span>
+<span class="math-inline">0</span>
+<span class="math-inline">(10,0)</span>
 
 
-\(−5\)
-\(−6\)
-\((−5,−6)\)
+<span class="math-inline">−5</span>
+<span class="math-inline">−6</span>
+<span class="math-inline">(−5,−6)</span>
 
 
+<div class="tryit">
 **Try It**
 
 
-Complete the table to find three solutions to the equation: \(3x-4y=12.\)
+Complete the table to find three solutions to the equation: <span class="math-inline">3x-4y=12.</span>
 
 
-\(3x-4y=12\)
+<span class="math-inline">3x-4y=12</span>
 
 
-\(x\)
-\(y\)
-\((x,y)\)
+<span class="math-inline">x</span>
+<span class="math-inline">y</span>
+<span class="math-inline">(x,y)</span>
 
 
-\(0\)
+<span class="math-inline">0</span>
 
 
-\(0\)
+<span class="math-inline">0</span>
 
 
-\(−4\)
+<span class="math-inline">−4</span>
 
 
-\(3x-4y=12\)
+<span class="math-inline">3x-4y=12</span>
 
 
-\(x\)
-\(y\)
-\((x,y)\)
+<span class="math-inline">x</span>
+<span class="math-inline">y</span>
+<span class="math-inline">(x,y)</span>
 
 
-\(0\)
-\(−3\)
-\((0,−3)\)
+<span class="math-inline">0</span>
+<span class="math-inline">−3</span>
+<span class="math-inline">(0,−3)</span>
 
 
-\(4\)
-\(0\)
-\((4,0)\)
+<span class="math-inline">4</span>
+<span class="math-inline">0</span>
+<span class="math-inline">(4,0)</span>
 
 
-\(−4\)
-\(−6\)
-\((−4,−6)\)
+<span class="math-inline">−4</span>
+<span class="math-inline">−6</span>
+<span class="math-inline">(−4,−6)</span>
 
+
+---
 
 ## Find Solutions to Linear Equations in Two Variables
 
-To find a solution to a linear equation, we can choose any number we want to substitute into the equation for either \(x\) or \(y.\) We could choose \(1,100,1,000,\) or any other value we want. But it’s a good idea to choose a number that’s easy to work with. We’ll usually choose \(0\) as one of our values.
+
+To find a solution to a linear equation, we can choose any number we want to substitute into the equation for either <span class="math-inline">x</span> or <span class="math-inline">y.</span> We could choose <span class="math-inline">1,100,1,000,</span> or any other value we want. But it’s a good idea to choose a number that’s easy to work with. We’ll usually choose <span class="math-inline">0</span> as one of our values.
 
 
+<div class="example">
 **Example**
 
 
-Find a solution to the equation \(3x+2y=6.\)
+Find a solution to the equation <span class="math-inline">3x+2y=6.</span>
 
 
-Solution
+<div class="solution">
+**Solution**
 
 
 *Step 1:* Choose any value for one of the variables in the equation.
 
-We can substitute any value we want for \(x\) or any value for \(y.\)
-Let's pick \(x=0.\)
-What is the value of \(y\) if \(x=0\)?
+We can substitute any value we want for <span class="math-inline">x</span> or any value for <span class="math-inline">y.</span>
+Let's pick <span class="math-inline">x=0.</span>
+What is the value of <span class="math-inline">y</span> if <span class="math-inline">x=0</span>?
 
 
 *Step 2:* Substitute that value into the equation.
  Solve for the other variable.
 
-Substitute \(0\) for \(x.\)
+Substitute <span class="math-inline">0</span> for <span class="math-inline">x.</span>
 
 Simplify.
 
@@ -877,8 +1026,8 @@ Simplify.
 
 
 *Step 3:* Write the solution as an ordered pair.
-So, when \(x=0,y=3.\)
-This solution is represented by the ordered pair \((0,3).\)
+So, when <span class="math-inline">x=0,y=3.</span>
+This solution is represented by the ordered pair <span class="math-inline">(0,3).</span>
 
 
 *Step 4:* Check.
@@ -889,35 +1038,41 @@ Is the result a true equation?
 Yes!
 
 
+<div class="tryit">
 **Try It**
 
 
-Find a solution to the equation: \(4x+3y=12.\)
+Find a solution to the equation: <span class="math-inline">4x+3y=12.</span>
 
 
 Answers will vary.
 
 
+<div class="tryit">
 **Try It**
 
 
-Find a solution to the equation: \(2x+4y=8.\)
+Find a solution to the equation: <span class="math-inline">2x+4y=8.</span>
 
 
 Answers will vary.
 
 
-We said that linear equations in two variables have infinitely many solutions, and we’ve just found one of them. Let’s find some other solutions to the equation \(3x+2y=6.\)
+We said that linear equations in two variables have infinitely many solutions, and we’ve just found one of them. Let’s find some other solutions to the equation <span class="math-inline">3x+2y=6.</span>
 
 
+<div class="example">
 **Example**
 
 
-Find three more solutions to the equation \(3x+2y=6.\)
+Find three more solutions to the equation <span class="math-inline">3x+2y=6.</span>
 
 
-Solution
-To find solutions to \(3x+2y=6,\) choose a value for \(x\) or \(y.\) Remember, we can choose any value we want for \(x\) or \(y.\) Here we chose \(1\) for \(x,\) and \(0\) and \(−3\) for \(y.\)
+<div class="solution">
+**Solution**
+
+
+To find solutions to <span class="math-inline">3x+2y=6,</span> choose a value for <span class="math-inline">x</span> or <span class="math-inline">y.</span> Remember, we can choose any value we want for <span class="math-inline">x</span> or <span class="math-inline">y.</span> Here we chose <span class="math-inline">1</span> for <span class="math-inline">x,</span> and <span class="math-inline">0</span> and <span class="math-inline">−3</span> for <span class="math-inline">y.</span>
 
 
 Substitute it into the equation.
@@ -929,63 +1084,65 @@ Solve.
 
 
 Write the ordered pair.
-\((2,0)\)
-\((1,\frac{3}{2})\)
-\((4,−3)\)
+<span class="math-inline">(2,0)</span>
+<span class="math-inline">(1,<sup>3</sup>∕<sub>2</sub>)</span>
+<span class="math-inline">(4,−3)</span>
 
 
 Check your answers.
 
 
-\((2,0)\)
-\((1,\frac{3}{2})\)
-\((4,−3)\)
+<span class="math-inline">(2,0)</span>
+<span class="math-inline">(1,<sup>3</sup>∕<sub>2</sub>)</span>
+<span class="math-inline">(4,−3)</span>
 
 
-So \((2,0),(1,\frac{3}{2})\) and \((4,−3)\) are all solutions to the equation \(3x+2y=6.\) In the previous example, we found that \((0,3)\) is a solution, too. We can list these solutions in a table.
+So <span class="math-inline">(2,0),(1,<sup>3</sup>∕<sub>2</sub>)</span> and <span class="math-inline">(4,−3)</span> are all solutions to the equation <span class="math-inline">3x+2y=6.</span> In the previous example, we found that <span class="math-inline">(0,3)</span> is a solution, too. We can list these solutions in a table.
 
 
-\(3x+2y=6\)
+<span class="math-inline">3x+2y=6</span>
 
 
-\(x\)
-\(y\)
-\((x,y)\)
+<span class="math-inline">x</span>
+<span class="math-inline">y</span>
+<span class="math-inline">(x,y)</span>
 
 
-\(0\)
-\(3\)
-\((0,3)\)
+<span class="math-inline">0</span>
+<span class="math-inline">3</span>
+<span class="math-inline">(0,3)</span>
 
 
-\(2\)
-\(0\)
-\((2,0)\)
+<span class="math-inline">2</span>
+<span class="math-inline">0</span>
+<span class="math-inline">(2,0)</span>
 
 
-\(1\)
-\(\frac{3}{2}\)
-\((1,\frac{3}{2})\)
+<span class="math-inline">1</span>
+<span class="math-inline"><sup>3</sup>∕<sub>2</sub></span>
+<span class="math-inline">(1,<sup>3</sup>∕<sub>2</sub>)</span>
 
 
-\(4\)
-\(−3\)
-\((4,−3)\)
+<span class="math-inline">4</span>
+<span class="math-inline">−3</span>
+<span class="math-inline">(4,−3)</span>
 
 
+<div class="tryit">
 **Try It**
 
 
-Find three solutions to the equation: \(2x+3y=6.\)
+Find three solutions to the equation: <span class="math-inline">2x+3y=6.</span>
 
 
 Answers will vary.
 
 
+<div class="tryit">
 **Try It**
 
 
-Find three solutions to the equation: \(4x+2y=8.\)
+Find three solutions to the equation: <span class="math-inline">4x+2y=8.</span>
 
 
 Answers will vary.
@@ -994,16 +1151,18 @@ Answers will vary.
 Let’s find some solutions to another equation now.
 
 
+<div class="example">
 **Example**
 
 
-Find three solutions to the equation \(x-4y=8.\)
+Find three solutions to the equation <span class="math-inline">x-4y=8.</span>
 
 
-Solution
+<div class="solution">
+**Solution**
 
 
-Choose a value for \(x\) or \(y.\)
+Choose a value for <span class="math-inline">x</span> or <span class="math-inline">y.</span>
 
 
 Substitute it into the equation.
@@ -1013,62 +1172,183 @@ Solve.
 
 
 Write the ordered pair.
-\((0,−2)\)
-\((8,0)\)
-\((20,3)\)
+<span class="math-inline">(0,−2)</span>
+<span class="math-inline">(8,0)</span>
+<span class="math-inline">(20,3)</span>
 
 
-So \((0,−2),(8,0),\) and \((20,3)\) are three solutions to the equation \(x-4y=8.\)
+So <span class="math-inline">(0,−2),(8,0),</span> and <span class="math-inline">(20,3)</span> are three solutions to the equation <span class="math-inline">x-4y=8.</span>
 
 
-\(x-4y=8\)
+<span class="math-inline">x-4y=8</span>
 
 
-\(x\)
-\(y\)
-\((x,y)\)
+<span class="math-inline">x</span>
+<span class="math-inline">y</span>
+<span class="math-inline">(x,y)</span>
 
 
-\(0\)
-\(−2\)
-\((0,−2)\)
+<span class="math-inline">0</span>
+<span class="math-inline">−2</span>
+<span class="math-inline">(0,−2)</span>
 
 
-\(8\)
-\(0\)
-\((8,0)\)
+<span class="math-inline">8</span>
+<span class="math-inline">0</span>
+<span class="math-inline">(8,0)</span>
 
 
-\(20\)
-\(3\)
-\((20,3)\)
+<span class="math-inline">20</span>
+<span class="math-inline">3</span>
+<span class="math-inline">(20,3)</span>
 
 
 Remember, there are an infinite number of solutions to each linear equation. Any point you find is a solution if it makes the equation true.
 
 
+<div class="tryit">
 **Try It**
 
 
-Find three solutions to the equation: \(4x+y=8.\)
+Find three solutions to the equation: <span class="math-inline">4x+y=8.</span>
 
 
 Answers will vary.
 
 
+<div class="tryit">
 **Try It**
 
 
-Find three solutions to the equation: \(x+5y=10.\)
+Find three solutions to the equation: <span class="math-inline">x+5y=10.</span>
 
 
 Answers will vary.
 
 
-**ACCESS ADDITIONAL ONLINE RESOURCES**
+<div class="definition-label">**ACCESS ADDITIONAL ONLINE RESOURCES**</div>
+
 
 - Plotting Points
 
 - Identifying Quadrants
 
 - Verifying Solution to Linear Equation
+
+</div>
+
+</div>
+
+</div>
+
+</div>
+
+</div>
+
+</div>
+
+</div>
+
+</div>
+
+</div>
+
+</div>
+
+</div>
+
+</div>
+
+</div>
+
+</div>
+
+</div>
+
+</div>
+
+</div>
+
+</div>
+
+</div>
+
+</div>
+
+</div>
+
+</div>
+
+</div>
+
+</div>
+
+</div>
+
+</div>
+
+</div>
+
+</div>
+
+</div>
+
+</div>
+
+</div>
+
+</div>
+
+</div>
+
+</div>
+
+</div>
+
+</div>
+
+</div>
+
+</div>
+
+</div>
+
+</div>
+
+</div>
+
+</div>
+
+</div>
+
+</div>
+
+</div>
+
+</div>
+
+</div>
+
+</div>
+
+</div>
+
+</div>
+
+</div>
+
+</div>
+
+</div>
+
+</div>
+
+</div>
+
+</div>
+
+</div>
+
+</div>
+
+</div>

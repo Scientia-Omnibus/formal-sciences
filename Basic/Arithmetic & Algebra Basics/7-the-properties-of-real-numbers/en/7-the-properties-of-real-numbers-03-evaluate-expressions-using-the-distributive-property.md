@@ -1,257 +1,292 @@
+<style>
+.math-inline {
+    font-style: italic;
+    padding: 2px 6px;
+    border-radius: 4px;
+    background: #f8f9fa;
+    font-family: Georgia, serif;
+}
+.math-display {
+    background: #f8f9fa;
+    border-left: 4px solid #4a90d9;
+    padding: 16px 20px;
+    margin: 16px 0;
+    border-radius: 6px;
+    font-size: 1.15em;
+    font-family: Georgia, serif;
+    text-align: center;
+    line-height: 2;
+    overflow-x: auto;
+}
+.example-box, .example {
+    background: #f0f8ff;
+    border-left: 4px solid #2e86de;
+    padding: 12px 20px;
+    margin: 16px 0;
+    border-radius: 6px;
+}
+.tryit-box, .tryit {
+    background: #f0fff4;
+    border-left: 4px solid #27ae60;
+    padding: 12px 20px;
+    margin: 16px 0;
+    border-radius: 6px;
+}
+.solution-box, .solution {
+    background: #fef9e7;
+    border-left: 4px solid #f39c12;
+    padding: 12px 20px;
+    margin: 12px 0;
+    border-radius: 6px;
+}
+.check-box, .check {
+    background: #fef9e7;
+    border-left: 4px solid #f39c12;
+    padding: 12px 20px;
+    margin: 12px 0;
+    border-radius: 6px;
+}
+.prep-quiz {
+    background: #fff3cd;
+    border: 1px solid #ffc107;
+    padding: 12px 20px;
+    margin: 16px 0;
+    border-radius: 6px;
+}
+.def-label, .definition-label {
+    font-weight: bold;
+    font-size: 1.1em;
+    margin: 20px 0 8px 0;
+    color: #2c3e50;
+    display: block;
+}
+.math-display sup, .math-inline sup { font-size: 0.75em; line-height: 0; }
+.math-display sub, .math-inline sub { font-size: 0.75em; line-height: 0; }
+</style>
+
+
+---
+
+
+---
+
 ## Evaluate Expressions Using the Distributive Property
+
 
 Some students need to be convinced that the **Distributive Property** always works.
 
 In the examples below, we will practice evaluating some of the expressions from previous examples; in part ⓐ , we will evaluate the form with parentheses, and in part ⓑ we will evaluate the form we got after distributing. If we evaluate both expressions correctly, this will show that they are indeed equal.
 
 
+<div class="example">
 **Example**
 
 
-When \(y=10\) evaluate:  ⓐ \(6(5y+1)\) ⓑ \(6\cdot 5y+6\cdot 1.\)
+When <span class="math-inline">y=10</span> evaluate:  ⓐ <span class="math-inline">6(5y+1)</span> ⓑ <span class="math-inline">6· 5y+6· 1.</span>
 
 
-Solution
-
+<div class="solution">
+<span class="def-label">Solution</span>
 
 
    ⓐ
 
 
-
-
-   \(6(5y+1)\)
-
-
-
-
-
+   <span class="math-inline">6(5y+1)</span>
 
 
    Simplify in the parentheses.
-   \(6(51)\)
+   <span class="math-inline">6(51)</span>
 
 
    Multiply.
-   \(306\)
-
-
+   <span class="math-inline">306</span>
 
 
    ⓑ
 
 
-
-
-
-
-
-
-
-
-
-
-
    Simplify.
-
 
 
    Add.
 
 
+Notice, the answers are the same. When <span class="math-inline">y=10,</span>
+
+<span class="math-inline">6(5y+1)=6· 5y+6· 1.</span>
+Try it yourself for a different value of <span class="math-inline">y.</span>
 
 
-Notice, the answers are the same. When \(y=10,\)
-
-\(6(5y+1)=6\cdot 5y+6\cdot 1.\)
-Try it yourself for a different value of \(y.\)
-
-
+<div class="tryit">
 **Try It**
 
 
-Evaluate when \(w=3:\)ⓐ \(5(5w+9)\)ⓑ \(5\cdot 5w+5\cdot 9.\)
+Evaluate when <span class="math-inline">w=3:</span>ⓐ <span class="math-inline">5(5w+9)</span>ⓑ <span class="math-inline">5· 5w+5· 9.</span>
 
 
   - ⓐ 120
   - ⓑ 120
 
 
+<div class="tryit">
 **Try It**
 
 
-Evaluate when \(y=2:\)ⓐ \(9(3y+8)\)ⓑ \(9\cdot 3y+9\cdot 8.\)
+Evaluate when <span class="math-inline">y=2:</span>ⓐ <span class="math-inline">9(3y+8)</span>ⓑ <span class="math-inline">9· 3y+9· 8.</span>
 
 
   - ⓐ 126
   - ⓑ 126
 
 
+<div class="example">
 **Example**
 
 
-When \(y=3,\) evaluate ⓐ \(−2(4y+1)\)ⓑ \(−2\cdot 4y+(−2)\cdot 1.\)
+When <span class="math-inline">y=3,</span> evaluate ⓐ <span class="math-inline">−2(4y+1)</span>ⓑ <span class="math-inline">−2· 4y+(−2)· 1.</span>
 
 
-Solution
-
+<div class="solution">
+<span class="def-label">Solution</span>
 
 
 ⓐ
 
 
-
-
-   \(−2(4y+1)\)
-
-
-
-
-
+   <span class="math-inline">−2(4y+1)</span>
 
 
    Simplify in the parentheses.
-   \(−2(13)\)
+   <span class="math-inline">−2(13)</span>
 
 
    Multiply.
-   \(−26\)
-
-
+   <span class="math-inline">−26</span>
 
 
    ⓑ
 
 
-
-
-   \(−2\cdot 4y+(−2)\cdot 1\)
-
-
-
-
-
+   <span class="math-inline">−2· 4y+(−2)· 1</span>
 
 
    Multiply.
-   \(−24-2\)
+   <span class="math-inline">−24-2</span>
 
 
    Subtract.
-   \(−26\)
+   <span class="math-inline">−26</span>
 
 
-  The answers are the same. When \(y=3,\)
- \(−2(4y+1)=−8y-2\)
+  The answers are the same. When <span class="math-inline">y=3,</span>
+ <span class="math-inline">−2(4y+1)=−8y-2</span>
 
 
+<div class="tryit">
 **Try It**
 
 
-Evaluate when \(n=−2:\)ⓐ \(−6(8n+11)\)ⓑ \(−6\cdot 8n+(−6)\cdot 11.\)
+Evaluate when <span class="math-inline">n=−2:</span>ⓐ <span class="math-inline">−6(8n+11)</span>ⓑ <span class="math-inline">−6· 8n+(−6)· 11.</span>
 
 
   - ⓐ 30
   - ⓑ 30
 
 
+<div class="tryit">
 **Try It**
 
 
-Evaluate when \(m=−1:\)ⓐ \(−3(6m+5)\)ⓑ \(−3\cdot 6m+(−3)\cdot 5.\)
+Evaluate when <span class="math-inline">m=−1:</span>ⓐ <span class="math-inline">−3(6m+5)</span>ⓑ <span class="math-inline">−3· 6m+(−3)· 5.</span>
 
 
   - ⓐ 3
   - ⓑ 3
 
 
+<div class="example">
 **Example**
 
 
-When \(y=35\) evaluate ⓐ \(−(y+5)\) and ⓑ \(−y-5\) to show that \(-(y+5)=−y-5.\)
+When <span class="math-inline">y=35</span> evaluate ⓐ <span class="math-inline">−(y+5)</span> and ⓑ <span class="math-inline">−y-5</span> to show that <span class="math-inline">-(y+5)=−y-5.</span>
 
 
-Solution
-
+<div class="solution">
+<span class="def-label">Solution</span>
 
 
    ⓐ
 
 
-
-
-   \(−(y+5)\)
-
-
-
-
+   <span class="math-inline">−(y+5)</span>
 
 
    Add in the parentheses.
-   \(-(40)\)
+   <span class="math-inline">-(40)</span>
 
 
    Simplify.
-   \(−40\)
-
-
+   <span class="math-inline">−40</span>
 
 
    ⓑ
 
 
-
-
-   \(-y-5\)
-
-
-
-
+   <span class="math-inline">-y-5</span>
 
 
    Simplify.
-   \(−40\)
+   <span class="math-inline">−40</span>
 
 
-  The answers are the same when \(y=35,\) demonstrating that
- \(-(y+5)=−y-5\)
+  The answers are the same when <span class="math-inline">y=35,</span> demonstrating that
+ <span class="math-inline">-(y+5)=−y-5</span>
 
 
-
+<div class="tryit">
 **Try It**
 
 
-Evaluate when \(x=36:\)ⓐ \(-(x-4)\)ⓑ \(-x+4\) to show that \(-(x-4)=-x+4.\)
+Evaluate when <span class="math-inline">x=36:</span>ⓐ <span class="math-inline">-(x-4)</span>ⓑ <span class="math-inline">-x+4</span> to show that <span class="math-inline">-(x-4)=-x+4.</span>
 
 
   - ⓐ −32
   - ⓑ −32
 
 
+<div class="tryit">
 **Try It**
 
 
-Evaluate when \(z=55:\)ⓐ \(-(z-10)\)ⓑ \(-z+10\) to show that \(-(z-10)=-z+10.\)
+Evaluate when <span class="math-inline">z=55:</span>ⓐ <span class="math-inline">-(z-10)</span>ⓑ <span class="math-inline">-z+10</span> to show that <span class="math-inline">-(z-10)=-z+10.</span>
 
 
   - ⓐ −45
   - ⓑ −45
 
 
-**ACCESS ADDITIONAL ONLINE RESOURCES**
+<div class="definition-label">**ACCESS ADDITIONAL ONLINE RESOURCES**</div>
+
 
 - Model Distribution
 
 - The Distributive Property
 
 
+---
+
+
+---
+
 ## Key Concepts
 
+
 - *Distributive Property:*
-  - If \(a,b,c\) are real numbers then
-  - \(a(b+c)=ab+ac\)
-  - \((b+c)a=ba+ca\)
-  - \(a(b-c)=ab-ac\)
+  - If <span class="math-inline">a,b,c</span> are real numbers then
+  - <span class="math-inline">a(b+c)=ab+ac</span>
+  - <span class="math-inline">(b+c)a=ba+ca</span>
+  - <span class="math-inline">a(b-c)=ab-ac</span>
 
 
 ### Practice Makes Perfect
@@ -261,235 +296,235 @@ Evaluate when \(z=55:\)ⓐ \(-(z-10)\)ⓑ \(-z+10\) to show that \(-(z-10)=-z+10
 In the following exercises, simplify using the distributive property.
 
 
-\(4(x+8)\)
+<span class="math-inline">4(x+8)</span>
 
 
-\(3(a+9)\)
+<span class="math-inline">3(a+9)</span>
 
 
 3*a* + 27
 
 
-\(8(4y+9)\)
+<span class="math-inline">8(4y+9)</span>
 
 
-\(9(3w+7)\)
+<span class="math-inline">9(3w+7)</span>
 
 
 27*w* + 63
 
 
-\(6(c-13)\)
+<span class="math-inline">6(c-13)</span>
 
 
-\(7(y-13)\)
+<span class="math-inline">7(y-13)</span>
 
 
 7*y* − 91
 
 
-\(7(3p-8)\)
+<span class="math-inline">7(3p-8)</span>
 
 
-\(5(7u-4)\)
+<span class="math-inline">5(7u-4)</span>
 
 
 35*u* − 20
 
 
-\(\frac{1}{2}(n+8)\)
+<span class="math-inline"><sup>1</sup>∕<sub>2</sub>(n+8)</span>
 
 
-\(\frac{1}{3}(u+9)\)
+<span class="math-inline"><sup>1</sup>∕<sub>3</sub>(u+9)</span>
 
 
-\(\frac{1}{3}u+3\)
+<span class="math-inline"><sup>1</sup>∕<sub>3</sub>u+3</span>
 
 
-\(\frac{1}{4}(3q+12)\)
+<span class="math-inline"><sup>1</sup>∕<sub>4</sub>(3q+12)</span>
 
 
-\(\frac{1}{5}(4m+20)\)
+<span class="math-inline"><sup>1</sup>∕<sub>5</sub>(4m+20)</span>
 
 
-\(\frac{4}{5}m+4\)
+<span class="math-inline"><sup>4</sup>∕<sub>5</sub>m+4</span>
 
 
-\(9(\frac{5}{9}y-\frac{1}{3})\)
+<span class="math-inline">9(<sup>5</sup>∕<sub>9</sub>y-<sup>1</sup>∕<sub>3</sub>)</span>
 
 
-\(10(\frac{3}{10}x-\frac{2}{5})\)
+<span class="math-inline">10(<sup>3</sup>∕<sub>10</sub>x-<sup>2</sup>∕<sub>5</sub>)</span>
 
 
 3*x* − 4
 
 
-\(12(\frac{1}{4}+\frac{2}{3}r)\)
+<span class="math-inline">12(<sup>1</sup>∕<sub>4</sub>+<sup>2</sup>∕<sub>3</sub>r)</span>
 
 
-\(12(\frac{1}{6}+\frac{3}{4}s)\)
+<span class="math-inline">12(<sup>1</sup>∕<sub>6</sub>+<sup>3</sup>∕<sub>4</sub>s)</span>
 
 
 2 + 9*s*
 
 
-\(r(s-18)\)
+<span class="math-inline">r(s-18)</span>
 
 
-\(u(v-10)\)
+<span class="math-inline">u(v-10)</span>
 
 
 *uv* − 10*u*
 
 
-\((y+4)p\)
+<span class="math-inline">(y+4)p</span>
 
 
-\((a+7)x\)
+<span class="math-inline">(a+7)x</span>
 
 
 *ax* + 7*x*
 
 
-\(−2(y+13)\)
+<span class="math-inline">−2(y+13)</span>
 
 
-\(−3(a+11)\)
+<span class="math-inline">−3(a+11)</span>
 
 
 −3*a* − 33
 
 
-\(−7(4p+1)\)
+<span class="math-inline">−7(4p+1)</span>
 
 
-\(−9(9a+4)\)
+<span class="math-inline">−9(9a+4)</span>
 
 
 −81*a* − 36
 
 
-\(−3(x-6)\)
+<span class="math-inline">−3(x-6)</span>
 
 
-\(−4(q-7)\)
+<span class="math-inline">−4(q-7)</span>
 
 
 −4*q* + 28
 
 
-\(−9(3a-7)\)
+<span class="math-inline">−9(3a-7)</span>
 
 
-\(−6(7x-8)\)
+<span class="math-inline">−6(7x-8)</span>
 
 
 −42*x* + 48
 
 
-\(-(r+7)\)
+<span class="math-inline">-(r+7)</span>
 
 
-\(-(q+11)\)
+<span class="math-inline">-(q+11)</span>
 
 
 −*q* − 11
 
 
-\(-(3x-7)\)
+<span class="math-inline">-(3x-7)</span>
 
 
-\(-(5p-4)\)
+<span class="math-inline">-(5p-4)</span>
 
 
 −5*p* + 4
 
 
-\(5+9(n-6)\)
+<span class="math-inline">5+9(n-6)</span>
 
 
-\(12+8(u-1)\)
+<span class="math-inline">12+8(u-1)</span>
 
 
 8*u* + 4
 
 
-\(16-3(y+8)\)
+<span class="math-inline">16-3(y+8)</span>
 
 
-\(18-4(x+2)\)
+<span class="math-inline">18-4(x+2)</span>
 
 
 −4*x* + 10
 
 
-\(4-11(3c-2)\)
+<span class="math-inline">4-11(3c-2)</span>
 
 
-\(9-6(7n-5)\)
+<span class="math-inline">9-6(7n-5)</span>
 
 
 −42*n* + 39
 
 
-\(22-(a+3)\)
+<span class="math-inline">22-(a+3)</span>
 
 
-\(8-(r-7)\)
+<span class="math-inline">8-(r-7)</span>
 
 
 −*r* + 15
 
 
-\(−12-(u+10)\)
+<span class="math-inline">−12-(u+10)</span>
 
 
-\(−4-(c-10)\)
+<span class="math-inline">−4-(c-10)</span>
 
 
 −*c* + 6
 
 
-\((5m-3)-(m+7)\)
+<span class="math-inline">(5m-3)-(m+7)</span>
 
 
-\((4y-1)-(y-2)\)
+<span class="math-inline">(4y-1)-(y-2)</span>
 
 
 3*y* + 1
 
 
-\(5(2n+9)+12(n-3)\)
+<span class="math-inline">5(2n+9)+12(n-3)</span>
 
 
-\(9(5u+8)+2(u-6)\)
+<span class="math-inline">9(5u+8)+2(u-6)</span>
 
 
 47*u* + 60
 
 
-\(9(8x-3)-(−2)\)
+<span class="math-inline">9(8x-3)-(−2)</span>
 
 
-\(4(6x-1)-(−8)\)
+<span class="math-inline">4(6x-1)-(−8)</span>
 
 
 24*x* + 4
 
 
-\(14(c-1)-8(c-6)\)
+<span class="math-inline">14(c-1)-8(c-6)</span>
 
 
-\(11(n-7)-5(n-1)\)
+<span class="math-inline">11(n-7)-5(n-1)</span>
 
 
 6*n* − 72
 
 
-\(6(7y+8)-(30y-15)\)
+<span class="math-inline">6(7y+8)-(30y-15)</span>
 
 
-\(7(3n+9)-(4n-13)\)
+<span class="math-inline">7(3n+9)-(4n-13)</span>
 
 
 17*n* + 76
@@ -500,98 +535,98 @@ In the following exercises, simplify using the distributive property.
 In the following exercises, evaluate both expressions for the given value.
 
 
-If \(v=−2,\) evaluate
+If <span class="math-inline">v=−2,</span> evaluate
 
 
-  - ⓐ \(6(4v+7)\)
-  - ⓑ \(6\cdot 4v+6\cdot 7\)
+  - ⓐ <span class="math-inline">6(4v+7)</span>
+  - ⓑ <span class="math-inline">6· 4v+6· 7</span>
 
 
-If \(u=−1,\) evaluate
+If <span class="math-inline">u=−1,</span> evaluate
 
 
-  - ⓐ \(8(5u+12)\)
-  - ⓑ \(8\cdot 5u+8\cdot 12\)
+  - ⓐ <span class="math-inline">8(5u+12)</span>
+  - ⓑ <span class="math-inline">8· 5u+8· 12</span>
 
 
   - ⓐ 56
   - ⓑ 56
 
 
-If \(n=\frac{2}{3},\) evaluate
+If <span class="math-inline">n=<sup>2</sup>∕<sub>3</sub>,</span> evaluate
 
-  - ⓐ \(3(n+\frac{5}{6})\)
-  - ⓑ \(3\cdot n+3\cdot \frac{5}{6}\)
-
-
-If \(y=\frac{3}{4},\) evaluate
-
-  - ⓐ \(4(y+\frac{3}{8})\)
-  - ⓑ \(4\cdot y+4\cdot \frac{3}{8}\)
+  - ⓐ <span class="math-inline">3(n+<sup>5</sup>∕<sub>6</sub>)</span>
+  - ⓑ <span class="math-inline">3· n+3· <sup>5</sup>∕<sub>6</sub></span>
 
 
-  - ⓐ \(\frac{9}{2}\)
-  - ⓑ \(\frac{9}{2}\)
+If <span class="math-inline">y=<sup>3</sup>∕<sub>4</sub>,</span> evaluate
+
+  - ⓐ <span class="math-inline">4(y+<sup>3</sup>∕<sub>8</sub>)</span>
+  - ⓑ <span class="math-inline">4· y+4· <sup>3</sup>∕<sub>8</sub></span>
 
 
-If \(y=\frac{7}{12},\) evaluate
-
-  - ⓐ \(−3(4y+15)\)
-  - ⓑ \(−3\cdot 4y+(−3)\cdot 15\)
+  - ⓐ <span class="math-inline"><sup>9</sup>∕<sub>2</sub></span>
+  - ⓑ <span class="math-inline"><sup>9</sup>∕<sub>2</sub></span>
 
 
-If \(p=\frac{23}{30},\) evaluate
+If <span class="math-inline">y=<sup>7</sup>∕<sub>12</sub>,</span> evaluate
 
-  - ⓐ \(−6(5p+11)\)
-  - ⓑ \(−6\cdot 5p+(−6)\cdot 11\)
+  - ⓐ <span class="math-inline">−3(4y+15)</span>
+  - ⓑ <span class="math-inline">−3· 4y+(−3)· 15</span>
+
+
+If <span class="math-inline">p=<sup>23</sup>∕<sub>30</sub>,</span> evaluate
+
+  - ⓐ <span class="math-inline">−6(5p+11)</span>
+  - ⓑ <span class="math-inline">−6· 5p+(−6)· 11</span>
 
 
   - ⓐ −89
   - ⓑ −89
 
 
-If \(m=0.4,\) evaluate
+If <span class="math-inline">m=0.4,</span> evaluate
 
-  - ⓐ \(−10(3m-0.9)\)
-  - ⓑ \(−10\cdot 3m-(−10)(0.9)\)
+  - ⓐ <span class="math-inline">−10(3m-0.9)</span>
+  - ⓑ <span class="math-inline">−10· 3m-(−10)(0.9)</span>
 
 
-If \(n=0.75,\) evaluate
+If <span class="math-inline">n=0.75,</span> evaluate
 
-  - ⓐ \(−100(5n+1.5)\)
-  - ⓑ \(−100\cdot 5n+(−100)(1.5)\)
+  - ⓐ <span class="math-inline">−100(5n+1.5)</span>
+  - ⓑ <span class="math-inline">−100· 5n+(−100)(1.5)</span>
 
 
   - ⓐ −525
   - ⓑ −525
 
 
-If \(y=−25,\) evaluate
+If <span class="math-inline">y=−25,</span> evaluate
 
-  - ⓐ \(-(y-25)\)
-  - ⓑ \(-y+25\)
+  - ⓐ <span class="math-inline">-(y-25)</span>
+  - ⓑ <span class="math-inline">-y+25</span>
 
 
-If \(w=−80,\) evaluate
+If <span class="math-inline">w=−80,</span> evaluate
 
-  - ⓐ \(-(w-80)\)
-  - ⓑ \(-w+80\)
+  - ⓐ <span class="math-inline">-(w-80)</span>
+  - ⓑ <span class="math-inline">-w+80</span>
 
 
   - ⓐ 160
   - ⓑ 160
 
 
-If \(p=0.19,\) evaluate
+If <span class="math-inline">p=0.19,</span> evaluate
 
-  - ⓐ \(-(p+0.72)\)
-  - ⓑ \(-p-0.72\)
+  - ⓐ <span class="math-inline">-(p+0.72)</span>
+  - ⓑ <span class="math-inline">-p-0.72</span>
 
 
-If \(q=0.55,\) evaluate
+If <span class="math-inline">q=0.55,</span> evaluate
 
-  - ⓐ \(-(q+0.48)\)
-  - ⓑ \(-q-0.48\)
+  - ⓐ <span class="math-inline">-(q+0.48)</span>
+  - ⓑ <span class="math-inline">-q-0.48</span>
 
 
   - ⓐ −1.03
@@ -601,22 +636,22 @@ If \(q=0.55,\) evaluate
 ### Everyday Math
 
 
-*Buying by the case* Joe can buy his favorite ice tea at a convenience store for \($1.99\) per bottle. At the grocery store, he can buy a case of \(12\) bottles for \($23.88.\)
+*Buying by the case* Joe can buy his favorite ice tea at a convenience store for <span class="math-inline">$1.99</span> per bottle. At the grocery store, he can buy a case of <span class="math-inline">12</span> bottles for <span class="math-inline">$23.88.</span>
 
   -
-ⓐ Use the distributive property to find the cost of \(12\) bottles bought individually at the convenience store. (Hint: notice that \($1.99\) is \($2-$0.01.\))
+ⓐ Use the distributive property to find the cost of <span class="math-inline">12</span> bottles bought individually at the convenience store. (Hint: notice that <span class="math-inline">$1.99</span> is <span class="math-inline">$2-$0.01.</span>)
 
   -
 ⓑ Is it a bargain to buy the iced tea at the grocery store by the case?
 
 
-*Multi-pack purchase* Adele’s shampoo sells for \($3.97\) per bottle at the drug store. At the warehouse store, the same shampoo is sold as a \(3-pack\) for \($10.49.\)
+*Multi-pack purchase* Adele’s shampoo sells for <span class="math-inline">$3.97</span> per bottle at the drug store. At the warehouse store, the same shampoo is sold as a <span class="math-inline">3-pack</span> for <span class="math-inline">$10.49.</span>
 
   -
-ⓐ Show how you can use the distributive property to find the cost of \(3\) bottles bought individually at the drug store.
+ⓐ Show how you can use the distributive property to find the cost of <span class="math-inline">3</span> bottles bought individually at the drug store.
 
   -
-ⓑ How much would Adele save by buying the \(3-pack\) at the warehouse store?
+ⓑ How much would Adele save by buying the <span class="math-inline">3-pack</span> at the warehouse store?
 
 
   - ⓐ 3(4 − 0.03) = 11.91
@@ -626,10 +661,10 @@ If \(q=0.55,\) evaluate
 ### Writing Exercises
 
 
-Simplify \(8(x-\frac{1}{4})\) using the distributive property and explain each step.
+Simplify <span class="math-inline">8(x-<sup>1</sup>∕<sub>4</sub>)</span> using the distributive property and explain each step.
 
 
-Explain how you can multiply \(4($5.97)\) without paper or a calculator by thinking of \($5.97\) as \(6-0.03\) and then using the distributive property.
+Explain how you can multiply <span class="math-inline">4($5.97)</span> without paper or a calculator by thinking of <span class="math-inline">$5.97</span> as <span class="math-inline">6-0.03</span> and then using the distributive property.
 
 
 Answers will vary.
@@ -643,349 +678,375 @@ Answers will vary.
 ⓑ What does this checklist tell you about your mastery of this section? What steps will you take to improve?
 
 
+<div class="prep-quiz">
 **Be Prepared!**
+
 
 Before you get started, take this readiness quiz.
 
 
-Find the opposite of \(−4.\)
+Find the opposite of <span class="math-inline">−4.</span>
 
 If you missed this problem, review .
 
 
-\(4\)
+<span class="math-inline">4</span>
 
 
+<div class="prep-quiz">
 **Be Prepared!**
 
 
-Find the reciprocal of \(\frac{5}{2}.\)
+Find the reciprocal of <span class="math-inline"><sup>5</sup>∕<sub>2</sub>.</span>
 
 If you missed this problem, review .
 
 
-\(\frac{2}{5}\)
+<span class="math-inline"><sup>2</sup>∕<sub>5</sub></span>
 
 
+<div class="prep-quiz">
 **Be Prepared!**
 
 
-Multiply: \(\frac{3a}{5}\cdot \frac{9}{2a}.\)
+Multiply: <span class="math-inline"><sup>3a</sup>∕<sub>5</sub>· <sup>9</sup>∕<sub>2a</sub>.</span>
 
 If you missed this problem, review .
 
 
-\(\frac{27}{10}\)
+<span class="math-inline"><sup>27</sup>∕<sub>10</sub></span>
 
+
+---
+
+
+---
 
 ## Recognize the Identity Properties of Addition and Multiplication
 
-What happens when we add zero to any number? Adding zero doesn’t change the value. For this reason, we call \(0\) the **additive identity**.
+
+What happens when we add zero to any number? Adding zero doesn’t change the value. For this reason, we call <span class="math-inline">0</span> the **additive identity**.
 
 For example,
 
 
-$$
+<div class="math-display">
 13 &  & −14 &  & 0 \\
 13 &  & −14 &  & −3
-$$
+</div>
 
-What happens when you multiply any number by one? Multiplying by one doesn’t change the value. So we call \(1\) the **multiplicative identity**.
+
+What happens when you multiply any number by one? Multiplying by one doesn’t change the value. So we call <span class="math-inline">1</span> the **multiplicative identity**.
 
 For example,
 
 
-$$
+<div class="math-display">
 43 &  & −27 &  & 1 \\
-43 &  & −27 &  & \frac{6y}{5}
-$$
+43 &  & −27 &  & <sup>6y</sup>∕<sub>5</sub>
+</div>
 
 
-**Identity Properties**
-
-The *identity property of addition*: for any real number \(a,\)
+<div class="definition-label">**Identity Properties**</div>
 
 
-$$
+The *identity property of addition*: for any real number <span class="math-inline">a,</span>
+
+
+<div class="math-display">
 \\
 a \\
 0 is called the
-$$
-
-The *identity property of multiplication*: for any real number \(a\)
+</div>
 
 
-$$
+The *identity property of multiplication*: for any real number <span class="math-inline">a</span>
+
+
+<div class="math-display">
 a \\
 1 is called the
-$$
+</div>
 
 
+<div class="example">
 **Example**
 
 
 Identify whether each equation demonstrates the identity property of addition or multiplication.
 
   -
-ⓐ \(7+0=7\)
+ⓐ <span class="math-inline">7+0=7</span>
 
   -
-ⓑ \(−16(1)=−16\)
+ⓑ <span class="math-inline">−16(1)=−16</span>
 
 
-Solution
-
+<div class="solution">
+<span class="def-label">Solution</span>
 
 
    ⓐ
 
 
-
-
-   \(7+0=7\)
+   <span class="math-inline">7+0=7</span>
 
 
     We are adding 0.
     We are using the identity property of addition.
 
 
-
-
   ⓑ
 
 
-
-
-   \(−16(1)=−16\)
+   <span class="math-inline">−16(1)=−16</span>
 
 
     We are multiplying by 1.
    We are using the identity property of multiplication.
 
 
-
+<div class="tryit">
 **Try It**
 
 
 Identify whether each equation demonstrates the identity property of addition or multiplication:
-ⓐ \(23+0=23\)ⓑ \(−37(1)=−37.\)
+ⓐ <span class="math-inline">23+0=23</span>ⓑ <span class="math-inline">−37(1)=−37.</span>
 
 
   - ⓐ identity property of addition
   - ⓑ identity property of multiplication
 
 
+<div class="tryit">
 **Try It**
 
 
 Identify whether each equation demonstrates the identity property of addition or multiplication:
-ⓐ \(1\cdot 29=29\)ⓑ \(14+0=14.\)
+ⓐ <span class="math-inline">1· 29=29</span>ⓑ <span class="math-inline">14+0=14.</span>
 
 
   - ⓐ identity property of multiplication
   - ⓑ identity property of addition
 
 
+---
+
+
+---
+
 ## Use the Inverse Properties of Addition and Multiplication
 
 
 Notice that in each case, the missing number was the opposite of the number.
 
-We call \(-a\) the **additive inverse** of \(a.\) The opposite of a number is its additive inverse. A number and its opposite add to \(0,\) which is the additive identity.
+We call <span class="math-inline">-a</span> the **additive inverse** of <span class="math-inline">a.</span> The opposite of a number is its additive inverse. A number and its opposite add to <span class="math-inline">0,</span> which is the additive identity.
 
-What number multiplied by \(\frac{2}{3}\) gives the multiplicative identity, \(1?\) In other words, two-thirds times what results in \(1?\)
+What number multiplied by <span class="math-inline"><sup>2</sup>∕<sub>3</sub></span> gives the multiplicative identity, <span class="math-inline">1?</span> In other words, two-thirds times what results in <span class="math-inline">1?</span>
 
 
-What number multiplied by \(2\) gives the multiplicative identity, \(1?\) In other words two times what results in \(1?\)
+What number multiplied by <span class="math-inline">2</span> gives the multiplicative identity, <span class="math-inline">1?</span> In other words two times what results in <span class="math-inline">1?</span>
 
 
 Notice that in each case, the missing number was the reciprocal of the number.
 
-We call \(\frac{1}{a}\) the **multiplicative inverse** of \(a(a\ne 0).\) The reciprocal of a number is its multiplicative inverse. A number and its reciprocal multiply to \(1,\) which is the multiplicative identity.
+We call <span class="math-inline"><sup>1</sup>∕<sub>a</sub></span> the **multiplicative inverse** of <span class="math-inline">a(a≠ 0).</span> The reciprocal of a number is its multiplicative inverse. A number and its reciprocal multiply to <span class="math-inline">1,</span> which is the multiplicative identity.
 
 We’ll formally state the Inverse Properties here:
 
 
-**Inverse Properties**
-
-*Inverse Property of Addition* for any real number \(a,\)
+<div class="definition-label">**Inverse Properties**</div>
 
 
-$$
+*Inverse Property of Addition* for any real number <span class="math-inline">a,</span>
+
+
+<div class="math-display">
 \\
 a \\
 -
-$$
-
-*Inverse Property of Multiplication* for any real number \(a\ne 0,\)
+</div>
 
 
-$$
+*Inverse Property of Multiplication* for any real number <span class="math-inline">a≠ 0,</span>
+
+
+<div class="math-display">
 \\
  \\
 a \\
-\frac{1}{a}
-$$
+<sup>1</sup>∕<sub>a</sub>
+</div>
 
 
+<div class="example">
 **Example**
 
 
-Find the additive inverse of each expression: ⓐ \(13\) ⓑ \(-\frac{5}{8}\) ⓒ \(0.6\).
+Find the additive inverse of each expression: ⓐ <span class="math-inline">13</span> ⓑ <span class="math-inline">-<sup>5</sup>∕<sub>8</sub></span> ⓒ <span class="math-inline">0.6</span>.
 
 
-Solution
+<div class="solution">
+<span class="def-label">Solution</span>
+
+
 To find the additive inverse, we find the opposite.
 
   -
-ⓐ The additive inverse of \(13\) is its opposite, \(−13.\)
+ⓐ The additive inverse of <span class="math-inline">13</span> is its opposite, <span class="math-inline">−13.</span>
 
   -
-ⓑ The additive inverse of \(-\frac{5}{8}\) is its opposite, \(\frac{5}{8}.\)
+ⓑ The additive inverse of <span class="math-inline">-<sup>5</sup>∕<sub>8</sub></span> is its opposite, <span class="math-inline"><sup>5</sup>∕<sub>8</sub>.</span>
 
   -
-ⓒ The additive inverse of \(0.6\) is its opposite, \(−0.6.\)
+ⓒ The additive inverse of <span class="math-inline">0.6</span> is its opposite, <span class="math-inline">−0.6.</span>
 
 
+<div class="tryit">
 **Try It**
 
 
-Find the additive inverse: ⓐ \(18\) ⓑ \(\frac{7}{9}\) ⓒ \(1.2\).
+Find the additive inverse: ⓐ <span class="math-inline">18</span> ⓑ <span class="math-inline"><sup>7</sup>∕<sub>9</sub></span> ⓒ <span class="math-inline">1.2</span>.
 
 
-  - ⓐ \(−18\)
-  - ⓑ \(-\frac{7}{9}\)
-  - ⓒ \(−1.2\)
+  - ⓐ <span class="math-inline">−18</span>
+  - ⓑ <span class="math-inline">-<sup>7</sup>∕<sub>9</sub></span>
+  - ⓒ <span class="math-inline">−1.2</span>
 
 
+<div class="tryit">
 **Try It**
 
 
-Find the additive inverse: ⓐ \(47\) ⓑ \(\frac{7}{13}\) ⓒ \(8.4\).
+Find the additive inverse: ⓐ <span class="math-inline">47</span> ⓑ <span class="math-inline"><sup>7</sup>∕<sub>13</sub></span> ⓒ <span class="math-inline">8.4</span>.
 
 
-  - ⓐ \(−47\)
-  - ⓑ \(-\frac{7}{13}\)
-  - ⓒ \(−8.4\)
+  - ⓐ <span class="math-inline">−47</span>
+  - ⓑ <span class="math-inline">-<sup>7</sup>∕<sub>13</sub></span>
+  - ⓒ <span class="math-inline">−8.4</span>
 
 
+<div class="example">
 **Example**
 
 
-Find the multiplicative inverse: ⓐ \(9\) ⓑ \(-\frac{1}{9}\) ⓒ \(0.9\).
+Find the multiplicative inverse: ⓐ <span class="math-inline">9</span> ⓑ <span class="math-inline">-<sup>1</sup>∕<sub>9</sub></span> ⓒ <span class="math-inline">0.9</span>.
 
 
-Solution
+<div class="solution">
+<span class="def-label">Solution</span>
+
+
 To find the multiplicative inverse, we find the reciprocal.
 
   -
 
-ⓐ The multiplicative inverse of \(9\) is its reciprocal, \(\frac{1}{9}.\)
+ⓐ The multiplicative inverse of <span class="math-inline">9</span> is its reciprocal, <span class="math-inline"><sup>1</sup>∕<sub>9</sub>.</span>
 
   -
-ⓑ The multiplicative inverse of \(-\frac{1}{9}\) is its reciprocal, \(−9.\)
+ⓑ The multiplicative inverse of <span class="math-inline">-<sup>1</sup>∕<sub>9</sub></span> is its reciprocal, <span class="math-inline">−9.</span>
 
   -
-ⓒ To find the multiplicative inverse of \(0.9,\) we first convert \(0.9\) to a fraction, \(\frac{9}{10}.\) Then we find the reciprocal, \(\frac{10}{9}.\)
+ⓒ To find the multiplicative inverse of <span class="math-inline">0.9,</span> we first convert <span class="math-inline">0.9</span> to a fraction, <span class="math-inline"><sup>9</sup>∕<sub>10</sub>.</span> Then we find the reciprocal, <span class="math-inline"><sup>10</sup>∕<sub>9</sub>.</span>
 
 
+<div class="tryit">
 **Try It**
 
 
-Find the multiplicative inverse: ⓐ \(5\) ⓑ \(-\frac{1}{7}\) ⓒ \(0.3\).
+Find the multiplicative inverse: ⓐ <span class="math-inline">5</span> ⓑ <span class="math-inline">-<sup>1</sup>∕<sub>7</sub></span> ⓒ <span class="math-inline">0.3</span>.
 
 
-  - ⓐ \(\frac{1}{5}\)
-  - ⓑ \(−7\)
-  - ⓒ \(\frac{10}{3}\)
+  - ⓐ <span class="math-inline"><sup>1</sup>∕<sub>5</sub></span>
+  - ⓑ <span class="math-inline">−7</span>
+  - ⓒ <span class="math-inline"><sup>10</sup>∕<sub>3</sub></span>
 
 
+<div class="tryit">
 **Try It**
 
 
-Find the multiplicative inverse: ⓐ \(18\) ⓑ \(-\frac{4}{5}\) ⓒ \(0.6\).
+Find the multiplicative inverse: ⓐ <span class="math-inline">18</span> ⓑ <span class="math-inline">-<sup>4</sup>∕<sub>5</sub></span> ⓒ <span class="math-inline">0.6</span>.
 
 
-  - ⓐ \(\frac{1}{18}\)
-  - ⓑ \(-\frac{5}{4}\)
-  - ⓒ \(\frac{5}{3}\)
+  - ⓐ <span class="math-inline"><sup>1</sup>∕<sub>18</sub></span>
+  - ⓑ <span class="math-inline">-<sup>5</sup>∕<sub>4</sub></span>
+  - ⓒ <span class="math-inline"><sup>5</sup>∕<sub>3</sub></span>
 
+
+---
+
+
+---
 
 ## Use the Properties of Zero
+
 
 We have already learned that zero is the **additive identity**, since it can be added to any number without changing the number’s identity. But zero also has some special properties when it comes to multiplication and division.
 
 
 ### Multiplication by Zero
 
-What happens when you multiply a number by \(0?\) Multiplying by \(0\) makes the product equal zero. The product of any real number and \(0\) is \(0.\)
+What happens when you multiply a number by <span class="math-inline">0?</span> Multiplying by <span class="math-inline">0</span> makes the product equal zero. The product of any real number and <span class="math-inline">0</span> is <span class="math-inline">0.</span>
 
 
-**Multiplication by Zero**
-
-For any real number \(a,\)
+<div class="definition-label">**Multiplication by Zero**</div>
 
 
-$$
-a\cdot 0=0 0\cdot a=0
-$$
+For any real number <span class="math-inline">a,</span>
 
 
+<div class="math-display">
+a· 0=0 0· a=0
+</div>
+
+
+<div class="example">
 **Example**
 
 
-Simplify: ⓐ \(−8\cdot 0\) ⓑ \(\frac{5}{12}\cdot 0\) ⓒ \(0(2.94)\).
+Simplify: ⓐ <span class="math-inline">−8· 0</span> ⓑ <span class="math-inline"><sup>5</sup>∕<sub>12</sub>· 0</span> ⓒ <span class="math-inline">0(2.94)</span>.
 
 
-Solution
-
+<div class="solution">
+<span class="def-label">Solution</span>
 
 
    ⓐ
 
 
-
-
-   \(−8\cdot 0\)
+   <span class="math-inline">−8· 0</span>
 
 
    The product of any real number and 0 is 0.
-   \(0\)
-
-
+   <span class="math-inline">0</span>
 
 
    ⓑ
 
 
-
-
-   \(\frac{5}{12}\cdot 0\)
+   <span class="math-inline"><sup>5</sup>∕<sub>12</sub>· 0</span>
 
 
    The product of any real number and 0 is 0.
-   \(0\)
-
-
+   <span class="math-inline">0</span>
 
 
    ⓒ
 
 
-
-
-   \(0(2.94)\)
+   <span class="math-inline">0(2.94)</span>
 
 
    The product of any real number and 0 is 0.
-   \(0\)
+   <span class="math-inline">0</span>
 
 
-
+<div class="tryit">
 **Try It**
 
 
-Simplify: ⓐ \(−14\cdot 0\) ⓑ \(0\cdot \frac{2}{3}\) ⓒ \((16.5)\cdot 0.\)
+Simplify: ⓐ <span class="math-inline">−14· 0</span> ⓑ <span class="math-inline">0· <sup>2</sup>∕<sub>3</sub></span> ⓒ <span class="math-inline">(16.5)· 0.</span>
 
 
   - ⓐ 0
@@ -993,10 +1054,11 @@ Simplify: ⓐ \(−14\cdot 0\) ⓑ \(0\cdot \frac{2}{3}\) ⓒ \((16.5)\cdot 0.\)
   - ⓒ 0
 
 
+<div class="tryit">
 **Try It**
 
 
-Simplify: ⓐ \((1.95)\cdot 0\) ⓑ \(0(−17)\) ⓒ \(0\cdot \frac{5}{4}.\)
+Simplify: ⓐ <span class="math-inline">(1.95)· 0</span> ⓑ <span class="math-inline">0(−17)</span> ⓒ <span class="math-inline">0· <sup>5</sup>∕<sub>4</sub>.</span>
 
 
   - ⓐ 0
@@ -1006,83 +1068,76 @@ Simplify: ⓐ \((1.95)\cdot 0\) ⓑ \(0(−17)\) ⓒ \(0\cdot \frac{5}{4}.\)
 
 ### Dividing with Zero
 
-What about dividing with \(0?\) Think about a real example: if there are no cookies in the cookie jar and three people want to share them, how many cookies would each person get? There are \(0\) cookies to share, so each person gets \(0\) cookies.
+What about dividing with <span class="math-inline">0?</span> Think about a real example: if there are no cookies in the cookie jar and three people want to share them, how many cookies would each person get? There are <span class="math-inline">0</span> cookies to share, so each person gets <span class="math-inline">0</span> cookies.
 
 
-$$
-0\div 3=0
-$$
+<div class="math-display">
+0÷ 3=0
+</div>
+
 
 Remember that we can always check division with the related multiplication fact. So, we know that
 
 
-$$
-0\div 3=0 because 0\cdot 3=0.
-$$
+<div class="math-display">
+0÷ 3=0 because 0· 3=0.
+</div>
 
 
-**Division of Zero**
+<div class="definition-label">**Division of Zero**</div>
 
-For any real number \(a,\) except \(0,\frac{0}{a}=0\) and \(0\div a=0.\)
+
+For any real number <span class="math-inline">a,</span> except <span class="math-inline">0,<sup>0</sup>∕<sub>a</sub>=0</span> and <span class="math-inline">0÷ a=0.</span>
 
 Zero divided by any real number except zero is zero.
 
 
+<div class="example">
 **Example**
 
 
-Simplify: ⓐ \(0\div 5\) ⓑ \(\frac{0}{−2}\) ⓒ \(0\div \frac{7}{8}\).
+Simplify: ⓐ <span class="math-inline">0÷ 5</span> ⓑ <span class="math-inline"><sup>0</sup>∕<sub>−2</sub></span> ⓒ <span class="math-inline">0÷ <sup>7</sup>∕<sub>8</sub></span>.
 
 
-Solution
-
+<div class="solution">
+<span class="def-label">Solution</span>
 
 
   ⓐ
 
 
-
-
-   \(0\div 5\)
+   <span class="math-inline">0÷ 5</span>
 
 
    Zero divided by any real number, except 0, is zero.
-   \(0\)
-
-
+   <span class="math-inline">0</span>
 
 
       ⓑ
 
 
-
-
-   \(\frac{0}{−2}\)
+   <span class="math-inline"><sup>0</sup>∕<sub>−2</sub></span>
 
 
    Zero divided by any real number, except 0, is zero.
-   \(0\)
-
-
+   <span class="math-inline">0</span>
 
 
       ⓒ
 
 
-
-
-   \(0\div \frac{7}{8}\)
+   <span class="math-inline">0÷ <sup>7</sup>∕<sub>8</sub></span>
 
 
    Zero divided by any real number, except 0, is zero.
-   \(0\)
+   <span class="math-inline">0</span>
 
 
-
+<div class="tryit">
 **Try It**
 
 
-Simplify: ⓐ \(0\div 11\) ⓑ \(\frac{0}{−6}\) ⓒ \(0\div \frac{3}{10}\).
+Simplify: ⓐ <span class="math-inline">0÷ 11</span> ⓑ <span class="math-inline"><sup>0</sup>∕<sub>−6</sub></span> ⓒ <span class="math-inline">0÷ <sup>3</sup>∕<sub>10</sub></span>.
 
 
   - ⓐ 0
@@ -1090,88 +1145,82 @@ Simplify: ⓐ \(0\div 11\) ⓑ \(\frac{0}{−6}\) ⓒ \(0\div \frac{3}{10}\).
   - ⓒ 0
 
 
+<div class="tryit">
 **Try It**
 
 
-Simplify: ⓐ \(0\div \frac{8}{3}\) ⓑ \(0\div (−10)\) ⓒ \(0\div 12.75\).
+Simplify: ⓐ <span class="math-inline">0÷ <sup>8</sup>∕<sub>3</sub></span> ⓑ <span class="math-inline">0÷ (−10)</span> ⓒ <span class="math-inline">0÷ 12.75</span>.
 
 
   - ⓐ 0
   - ⓑ 0
   - ⓒ 0
 
-Now let’s think about dividing a number *by* zero. What is the result of dividing \(4\) by \(0?\) Think about the related multiplication fact. Is there a number that multiplied by \(0\) gives \(4?\)
+Now let’s think about dividing a number *by* zero. What is the result of dividing <span class="math-inline">4</span> by <span class="math-inline">0?</span> Think about the related multiplication fact. Is there a number that multiplied by <span class="math-inline">0</span> gives <span class="math-inline">4?</span>
 
 
-$$
-4\div 0=___ means ___\cdot 0=4
-$$
-
-Since any real number multiplied by \(0\) equals \(0,\) there is no real number that can be multiplied by \(0\) to obtain \(4.\) We can conclude that there is no answer to \(4\div 0,\) and so we say that division by zero is undefined.
+<div class="math-display">
+4÷ 0=___ means ___· 0=4
+</div>
 
 
-**Division by Zero**
+Since any real number multiplied by <span class="math-inline">0</span> equals <span class="math-inline">0,</span> there is no real number that can be multiplied by <span class="math-inline">0</span> to obtain <span class="math-inline">4.</span> We can conclude that there is no answer to <span class="math-inline">4÷ 0,</span> and so we say that division by zero is undefined.
 
-For any real number \(a, \frac{a}{0},\) and \(a\div 0\) are undefined.
+
+<div class="definition-label">**Division by Zero**</div>
+
+
+For any real number <span class="math-inline">a, <sup>a</sup>∕<sub>0</sub>,</span> and <span class="math-inline">a÷ 0</span> are undefined.
 
 Division *by* zero is undefined.
 
 
+<div class="example">
 **Example**
 
 
-Simplify: ⓐ \(7.5\div 0\) ⓑ \(\frac{−32}{0}\) ⓒ \(\frac{4}{9}\div 0\).
+Simplify: ⓐ <span class="math-inline">7.5÷ 0</span> ⓑ <span class="math-inline"><sup>−32</sup>∕<sub>0</sub></span> ⓒ <span class="math-inline"><sup>4</sup>∕<sub>9</sub>÷ 0</span>.
 
 
-Solution
-
+<div class="solution">
+<span class="def-label">Solution</span>
 
 
    ⓐ
 
 
-
-
-   \(7.5\div 0\)
+   <span class="math-inline">7.5÷ 0</span>
 
 
    Division by zero is undefined.
    undefined
-
-
 
 
    ⓑ
 
 
-
-
-   \(\frac{−32}{0}\)
+   <span class="math-inline"><sup>−32</sup>∕<sub>0</sub></span>
 
 
    Division by zero is undefined.
    undefined
-
-
 
 
    ⓒ
 
 
-
-
-   \(\frac{4}{9}\div 0\)
+   <span class="math-inline"><sup>4</sup>∕<sub>9</sub>÷ 0</span>
 
 
    Division by zero is undefined.
    undefined
 
 
-
+<div class="tryit">
 **Try It**
 
 
-Simplify: ⓐ \(16.4\div 0\) ⓑ \(\frac{−2}{0}\) ⓒ \(\frac{1}{5}\div 0\).
+Simplify: ⓐ <span class="math-inline">16.4÷ 0</span> ⓑ <span class="math-inline"><sup>−2</sup>∕<sub>0</sub></span> ⓒ <span class="math-inline"><sup>1</sup>∕<sub>5</sub>÷ 0</span>.
 
 
   - ⓐ undefined
@@ -1179,10 +1228,11 @@ Simplify: ⓐ \(16.4\div 0\) ⓑ \(\frac{−2}{0}\) ⓒ \(\frac{1}{5}\div 0\).
   - ⓒ undefined
 
 
+<div class="tryit">
 **Try It**
 
 
-Simplify: ⓐ \(\frac{−5}{0}\) ⓑ \(96.9\div 0\) ⓒ \(\frac{4}{15}\div 0\)
+Simplify: ⓐ <span class="math-inline"><sup>−5</sup>∕<sub>0</sub></span> ⓑ <span class="math-inline">96.9÷ 0</span> ⓒ <span class="math-inline"><sup>4</sup>∕<sub>15</sub>÷ 0</span>
 
 
   - ⓐ undefined
@@ -1192,14 +1242,93 @@ Simplify: ⓐ \(\frac{−5}{0}\) ⓑ \(96.9\div 0\) ⓒ \(\frac{4}{15}\div 0\)
 We summarize the properties of zero.
 
 
-**Properties of Zero**
+<div class="definition-label">**Properties of Zero**</div>
 
-*Multiplication by Zero:* For any real number \(a,\)
 
-\(a\)
+*Multiplication by Zero:* For any real number <span class="math-inline">a,</span>
 
-*Division by Zero:* For any real number \(a, a\ne 0\)
+<span class="math-inline">a</span>
 
-\(\frac{0}{a}=0\) Zero divided by any real number, except itself, is zero.
+*Division by Zero:* For any real number <span class="math-inline">a, a≠ 0</span>
 
-\(\frac{a}{0}\) is undefined. Division by zero is undefined.
+<span class="math-inline"><sup>0</sup>∕<sub>a</sub>=0</span> Zero divided by any real number, except itself, is zero.
+
+<span class="math-inline"><sup>a</sup>∕<sub>0</sub></span> is undefined. Division by zero is undefined.
+
+</div>
+
+</div>
+
+</div>
+
+</div>
+
+</div>
+
+</div>
+
+</div>
+
+</div>
+
+</div>
+
+</div>
+
+</div>
+
+</div>
+
+</div>
+
+</div>
+
+</div>
+
+</div>
+
+</div>
+
+</div>
+
+</div>
+
+</div>
+
+</div>
+
+</div>
+
+</div>
+
+</div>
+
+</div>
+
+</div>
+
+</div>
+
+</div>
+
+</div>
+
+</div>
+
+</div>
+
+</div>
+
+</div>
+
+</div>
+
+</div>
+
+</div>
+
+</div>
+
+</div>
+
+</div>

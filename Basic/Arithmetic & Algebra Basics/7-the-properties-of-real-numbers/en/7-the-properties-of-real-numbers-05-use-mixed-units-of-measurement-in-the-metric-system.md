@@ -1,101 +1,187 @@
+<style>
+.math-inline {
+    font-style: italic;
+    padding: 2px 6px;
+    border-radius: 4px;
+    background: #f8f9fa;
+    font-family: Georgia, serif;
+}
+.math-display {
+    background: #f8f9fa;
+    border-left: 4px solid #4a90d9;
+    padding: 16px 20px;
+    margin: 16px 0;
+    border-radius: 6px;
+    font-size: 1.15em;
+    font-family: Georgia, serif;
+    text-align: center;
+    line-height: 2;
+    overflow-x: auto;
+}
+.example-box, .example {
+    background: #f0f8ff;
+    border-left: 4px solid #2e86de;
+    padding: 12px 20px;
+    margin: 16px 0;
+    border-radius: 6px;
+}
+.tryit-box, .tryit {
+    background: #f0fff4;
+    border-left: 4px solid #27ae60;
+    padding: 12px 20px;
+    margin: 16px 0;
+    border-radius: 6px;
+}
+.solution-box, .solution {
+    background: #fef9e7;
+    border-left: 4px solid #f39c12;
+    padding: 12px 20px;
+    margin: 12px 0;
+    border-radius: 6px;
+}
+.check-box, .check {
+    background: #fef9e7;
+    border-left: 4px solid #f39c12;
+    padding: 12px 20px;
+    margin: 12px 0;
+    border-radius: 6px;
+}
+.prep-quiz {
+    background: #fff3cd;
+    border: 1px solid #ffc107;
+    padding: 12px 20px;
+    margin: 16px 0;
+    border-radius: 6px;
+}
+.def-label, .definition-label {
+    font-weight: bold;
+    font-size: 1.1em;
+    margin: 20px 0 8px 0;
+    color: #2c3e50;
+    display: block;
+}
+.math-display sup, .math-inline sup { font-size: 0.75em; line-height: 0; }
+.math-display sub, .math-inline sub { font-size: 0.75em; line-height: 0; }
+</style>
+
+
+---
+
+
+---
+
 ## Use Mixed Units of Measurement in the Metric System
 
-Performing arithmetic operations on measurements with mixed units of measures in the **metric system** requires the same care we used in the **U.S. system**. But it may be easier because of the relation of the units to the powers of \(10.\) We still must make sure to add or subtract like units.
+
+Performing arithmetic operations on measurements with mixed units of measures in the **metric system** requires the same care we used in the **U.S. system**. But it may be easier because of the relation of the units to the powers of <span class="math-inline">10.</span> We still must make sure to add or subtract like units.
 
 
+<div class="example">
 **Example**
 
 
-Ryland is \(1.6\) meters tall. His younger brother is \(85\) centimeters tall. How much taller is Ryland than his younger brother?
+Ryland is <span class="math-inline">1.6</span> meters tall. His younger brother is <span class="math-inline">85</span> centimeters tall. How much taller is Ryland than his younger brother?
 
 
-Solution
-We will subtract the lengths in meters. Convert \(85\) centimeters to meters by moving the decimal \(2\) places to the left; \(85\) cm is the same as \(0.85\) m.
+<div class="solution">
+<span class="def-label">Solution</span>
+
+
+We will subtract the lengths in meters. Convert <span class="math-inline">85</span> centimeters to meters by moving the decimal <span class="math-inline">2</span> places to the left; <span class="math-inline">85</span> cm is the same as <span class="math-inline">0.85</span> m.
 Now that both measurements are in meters, subtract to find out how much taller Ryland is than his brother.
 \(\\
  \\
 1.60 m \\
 \underset{_______}{−0.85 m} \\
 0.75 m\)
-Ryland is \(0.75\) meters taller than his brother.
+Ryland is <span class="math-inline">0.75</span> meters taller than his brother.
 
 
+<div class="tryit">
 **Try It**
 
 
-Mariella is \(1.58\) meters tall. Her daughter is \(75\) centimeters tall. How much taller is Mariella than her daughter? Write the answer in centimeters.
+Mariella is <span class="math-inline">1.58</span> meters tall. Her daughter is <span class="math-inline">75</span> centimeters tall. How much taller is Mariella than her daughter? Write the answer in centimeters.
 
 
 83 cm
 
 
+<div class="tryit">
 **Try It**
 
 
-The fence around Hank’s yard is \(2\) meters high. Hank is \(96\) centimeters tall. How much shorter than the fence is Hank? Write the answer in meters.
+The fence around Hank’s yard is <span class="math-inline">2</span> meters high. Hank is <span class="math-inline">96</span> centimeters tall. How much shorter than the fence is Hank? Write the answer in meters.
 
 
 1.04 m
 
 
+<div class="example">
 **Example**
 
 
-Dena’s recipe for lentil soup calls for \(150\) milliliters of olive oil. Dena wants to triple the recipe. How many liters of olive oil will she need?
+Dena’s recipe for lentil soup calls for <span class="math-inline">150</span> milliliters of olive oil. Dena wants to triple the recipe. How many liters of olive oil will she need?
 
 
-Solution
+<div class="solution">
+<span class="def-label">Solution</span>
+
+
 We will find the amount of olive oil in milliliters then convert to liters.
-
-
 
 
    Triple 150 mL
 
 
    Translate to algebra.
-   \(3\cdot 150 mL\)
+   <span class="math-inline">3· 150 mL</span>
 
 
    Multiply.
-   \(450 mL\)
+   <span class="math-inline">450 mL</span>
 
 
    Convert to liters.
-   \(450 mL\cdot \frac{0.001 L}{1 mL}\)
-
+   <span class="math-inline">450 mL· <sup>0.001 L</sup>∕<sub>1 mL</sub></span>
 
 
    Simplify.
-   \(0.45 L\)
-
+   <span class="math-inline">0.45 L</span>
 
 
    Dena needs 0.45 liter of olive oil.
 
 
-
+<div class="tryit">
 **Try It**
 
 
-A recipe for Alfredo sauce calls for \(250\) milliliters of milk. Renata is making pasta with Alfredo sauce for a big party and needs to multiply the recipe amounts by \(8.\) How many liters of milk will she need?
+A recipe for Alfredo sauce calls for <span class="math-inline">250</span> milliliters of milk. Renata is making pasta with Alfredo sauce for a big party and needs to multiply the recipe amounts by <span class="math-inline">8.</span> How many liters of milk will she need?
 
 
 2 L
 
 
+<div class="tryit">
 **Try It**
 
 
-To make one pan of baklava, Dorothea needs \(400\) grams of filo pastry. If Dorothea plans to make \(6\) pans of baklava, how many kilograms of filo pastry will she need?
+To make one pan of baklava, Dorothea needs <span class="math-inline">400</span> grams of filo pastry. If Dorothea plans to make <span class="math-inline">6</span> pans of baklava, how many kilograms of filo pastry will she need?
 
 
 2.4 kg
 
 
+---
+
+
+---
+
 ## Convert Between U.S. and Metric Systems of Measurement
 
-Many measurements in the United States are made in metric units. A drink may come in \(2-liter\) bottles, calcium may come in \(500-mg\) capsules, and we may run a \(5-K\) race. To work easily in both systems, we need to be able to convert between the two systems.
+
+Many measurements in the United States are made in metric units. A drink may come in <span class="math-inline">2-liter</span> bottles, calcium may come in <span class="math-inline">500-mg</span> capsules, and we may run a <span class="math-inline">5-K</span> race. To work easily in both systems, we need to be able to convert between the two systems.
 
  shows some of the most common conversions.
 
@@ -103,50 +189,50 @@ Many measurements in the United States are made in metric units. A drink may com
 We make conversions between the systems just as we do within the systems—by multiplying by unit conversion factors.
 
 
+<div class="example">
 **Example**
 
 
-Lee’s water bottle holds \(500\) mL of water. How many fluid ounces are in the bottle? Round to the nearest tenth of an ounce.
+Lee’s water bottle holds <span class="math-inline">500</span> mL of water. How many fluid ounces are in the bottle? Round to the nearest tenth of an ounce.
 
 
-Solution
-
-
+<div class="solution">
+<span class="def-label">Solution</span>
 
 
    500 mL
 
 
    Multiply by a unit conversion factor relating mL and ounces.
-   \(500 mL\cdot \frac{1 fl oz}{30 mL}\)
+   <span class="math-inline">500 mL· <sup>1 fl oz</sup>∕<sub>30 mL</sub></span>
 
 
    Simplify.
-   \(\frac{500 fl oz}{30}\)
+   <span class="math-inline"><sup>500 fl oz</sup>∕<sub>30</sub></span>
 
 
    Divide.
-   \(16.7 fl. oz.\)
-
+   <span class="math-inline">16.7 fl. oz.</span>
 
 
    The water bottle holds 16.7 fluid ounces.
 
 
-
+<div class="tryit">
 **Try It**
 
 
-How many quarts of soda are in a \(2-liter\) bottle?
+How many quarts of soda are in a <span class="math-inline">2-liter</span> bottle?
 
 
 2.12 quarts
 
 
+<div class="tryit">
 **Try It**
 
 
-How many liters are in \(4\) quarts of milk?
+How many liters are in <span class="math-inline">4</span> quarts of milk?
 
 
 3.8 liters
@@ -155,187 +241,196 @@ How many liters are in \(4\) quarts of milk?
 The conversion factors in  are not exact, but the approximations they give are close enough for everyday purposes. In , we rounded the number of fluid ounces to the nearest tenth.
 
 
+<div class="example">
 **Example**
 
 
-Soleil lives in Minnesota but often travels in Canada for work. While driving on a Canadian highway, she passes a sign that says the next rest stop is in \(100\) kilometers. How many miles until the next rest stop? Round your answer to the nearest mile.
+Soleil lives in Minnesota but often travels in Canada for work. While driving on a Canadian highway, she passes a sign that says the next rest stop is in <span class="math-inline">100</span> kilometers. How many miles until the next rest stop? Round your answer to the nearest mile.
 
 
-Solution
-
-
+<div class="solution">
+<span class="def-label">Solution</span>
 
 
    100 kilometers
 
 
    Multiply by a unit conversion factor relating kilometers and miles.
-   \(100 kilometers\cdot \frac{1 mile}{1.61 kilometers}\)
+   <span class="math-inline">100 kilometers· <sup>1 mile</sup>∕<sub>1.61 kilometers</sub></span>
 
-   \(100\cdot \frac{1 mi}{1.61 km}\)
+   <span class="math-inline">100· <sup>1 mi</sup>∕<sub>1.61 km</sub></span>
 
 
    Simplify.
-    \(\frac{100 mi}{1.61}\)
+    <span class="math-inline"><sup>100 mi</sup>∕<sub>1.61</sub></span>
 
 
    Divide.
    62 mi
 
 
-
    It is about 62 miles to the next rest stop.
 
 
-
+<div class="tryit">
 **Try It**
 
 
-The height of Mount Kilimanjaro is \(5,895\) meters. Convert the height to feet. Round to the nearest foot.
+The height of Mount Kilimanjaro is <span class="math-inline">5,895</span> meters. Convert the height to feet. Round to the nearest foot.
 
 
 19,336 ft
 
 
+<div class="tryit">
 **Try It**
 
 
-The flight distance from New York City to London is \(5,586\) kilometers. Convert the distance to miles. Round to the nearest mile.
+The flight distance from New York City to London is <span class="math-inline">5,586</span> kilometers. Convert the distance to miles. Round to the nearest mile.
 
 
 3,470 mi
 
 
+---
+
+
+---
+
 ## Convert Between Fahrenheit and Celsius Temperatures
 
-Have you ever been in a foreign country and heard the weather forecast? If the forecast is for \(22°C.\) What does that mean?
 
-The U.S. and metric systems use different scales to measure temperature. The **U.S. system** uses degrees Fahrenheit, written \(°F.\) The **metric system** uses degrees Celsius, written \(°C.\)  shows the relationship between the two systems.
+Have you ever been in a foreign country and heard the weather forecast? If the forecast is for <span class="math-inline">22°C.</span> What does that mean?
+
+The U.S. and metric systems use different scales to measure temperature. The **U.S. system** uses degrees Fahrenheit, written <span class="math-inline">°F.</span> The **metric system** uses degrees Celsius, written <span class="math-inline">°C.</span>  shows the relationship between the two systems.
 
 
-*A temperature of \(37°C\) is equivalent to \(98.6°F.\)*
+*A temperature of <span class="math-inline">37°C</span> is equivalent to <span class="math-inline">98.6°F.</span>*
 
 If we know the temperature in one system, we can use a formula to convert it to the other system.
 
 
-**Temperature Conversion**
-
-To convert from Fahrenheit temperature, \(F,\) to Celsius temperature, \(C,\) use the formula
+<div class="definition-label">**Temperature Conversion**</div>
 
 
-$$
-C=\frac{5}{9}(F-32)
-$$
-
-To convert from Celsius temperature, \(C,\) to Fahrenheit temperature, \(F,\) use the formula
+To convert from Fahrenheit temperature, <span class="math-inline">F,</span> to Celsius temperature, <span class="math-inline">C,</span> use the formula
 
 
-$$
-F=\frac{9}{5}C+32
-$$
+<div class="math-display">
+C=<sup>5</sup>∕<sub>9</sub>(F-32)
+</div>
 
 
+To convert from Celsius temperature, <span class="math-inline">C,</span> to Fahrenheit temperature, <span class="math-inline">F,</span> use the formula
+
+
+<div class="math-display">
+F=<sup>9</sup>∕<sub>5</sub>C+32
+</div>
+
+
+<div class="example">
 **Example**
 
 
-Convert \(50°F\) into degrees Celsius.
+Convert <span class="math-inline">50°F</span> into degrees Celsius.
 
 
-Solution
-We will substitute \(50°F\) into the formula to find \(C.\)
+<div class="solution">
+<span class="def-label">Solution</span>
 
+
+We will substitute <span class="math-inline">50°F</span> into the formula to find <span class="math-inline">C.</span>
 
 
    Use the formula for converting °F to °C
-   \(C=\frac{5}{9}(F-32)\)
-
-
-
-
+   <span class="math-inline">C=<sup>5</sup>∕<sub>9</sub>(F-32)</span>
 
 
    Simplify in parentheses.
-   \(C=\frac{5}{9}(18)\)
+   <span class="math-inline">C=<sup>5</sup>∕<sub>9</sub>(18)</span>
 
 
    Multiply.
-   \(C=10\)
-
+   <span class="math-inline">C=10</span>
 
 
    A temperature of 50°F is equivalent to 10°C.
 
 
+<div class="tryit">
 **Try It**
 
 
-Convert the Fahrenheit temperatures to degrees Celsius: \(59°F.\)
+Convert the Fahrenheit temperatures to degrees Celsius: <span class="math-inline">59°F.</span>
 
 
 15°C
 
 
+<div class="tryit">
 **Try It**
 
 
-Convert the Fahrenheit temperatures to degrees Celsius: \(41°F.\)
+Convert the Fahrenheit temperatures to degrees Celsius: <span class="math-inline">41°F.</span>
 
 
 5°C
 
 
+<div class="example">
 **Example**
 
 
-The weather forecast for Paris predicts a high of \(20°C.\) Convert the temperature into degrees Fahrenheit.
+The weather forecast for Paris predicts a high of <span class="math-inline">20°C.</span> Convert the temperature into degrees Fahrenheit.
 
 
-Solution
-We will substitute \(20°C\) into the formula to find \(F.\)
+<div class="solution">
+<span class="def-label">Solution</span>
 
+
+We will substitute <span class="math-inline">20°C</span> into the formula to find <span class="math-inline">F.</span>
 
 
    Use the formula for converting °F to °C
-   \(F=\frac{9}{5}C+32\)
-
-
-
-
+   <span class="math-inline">F=<sup>9</sup>∕<sub>5</sub>C+32</span>
 
 
    Multiply.
-   \(F=36+32\)
+   <span class="math-inline">F=36+32</span>
 
 
    Add.
-   \(F=68\)
-
+   <span class="math-inline">F=68</span>
 
 
    So 20°C is equivalent to 68°F.
 
 
+<div class="tryit">
 **Try It**
 
 
 Convert the Celsius temperatures to degrees Fahrenheit:
-The temperature in Helsinki, Finland was \(15°C.\)
+The temperature in Helsinki, Finland was <span class="math-inline">15°C.</span>
 
 
 59°F
 
 
+<div class="tryit">
 **Try It**
 
 
 Convert the Celsius temperatures to degrees Fahrenheit:
-The temperature in Sydney, Australia was \(10°C.\)
+The temperature in Sydney, Australia was <span class="math-inline">10°C.</span>
 
 
 50°F
 
 
-**ACCESS ADDITIONAL ONLINE RESOURCES**
+<div class="definition-label">**ACCESS ADDITIONAL ONLINE RESOURCES**</div>
+
 
 - American Unit Conversion
 
@@ -350,6 +445,11 @@ The temperature in Sydney, Australia was \(10°C.\)
 - Convert from Fahrenheit to Celsius
 
 
+---
+
+
+---
+
 ## Section Exercises
 
 
@@ -360,82 +460,82 @@ The temperature in Sydney, Australia was \(10°C.\)
 In the following exercises, convert the units.
 
 
-A park bench is \(6\) feet long. Convert the length to inches.
+A park bench is <span class="math-inline">6</span> feet long. Convert the length to inches.
 
 
-A floor tile is \(2\) feet wide. Convert the width to inches.
+A floor tile is <span class="math-inline">2</span> feet wide. Convert the width to inches.
 
 
 24 inches
 
 
-A ribbon is \(18\) inches long. Convert the length to feet.
+A ribbon is <span class="math-inline">18</span> inches long. Convert the length to feet.
 
 
-Carson is \(45\) inches tall. Convert his height to feet.
+Carson is <span class="math-inline">45</span> inches tall. Convert his height to feet.
 
 
 3.75 feet
 
 
-Jon is \(6\) feet \(4\) inches tall. Convert his height to inches.
+Jon is <span class="math-inline">6</span> feet <span class="math-inline">4</span> inches tall. Convert his height to inches.
 
 
-Faye is \(4\) feet \(10\) inches tall. Convert her height to inches.
+Faye is <span class="math-inline">4</span> feet <span class="math-inline">10</span> inches tall. Convert her height to inches.
 
 
 58 inches
 
 
-A football field is \(160\) feet wide. Convert the width to yards.
+A football field is <span class="math-inline">160</span> feet wide. Convert the width to yards.
 
 
-On a baseball diamond, the distance from home plate to first base is \(30\) yards. Convert the distance to feet.
+On a baseball diamond, the distance from home plate to first base is <span class="math-inline">30</span> yards. Convert the distance to feet.
 
 
 90 feet
 
 
-Ulises lives \(1.5\) miles from school. Convert the distance to feet.
+Ulises lives <span class="math-inline">1.5</span> miles from school. Convert the distance to feet.
 
 
-Denver, Colorado, is \(5,183\) feet above sea level. Convert the height to miles.
+Denver, Colorado, is <span class="math-inline">5,183</span> feet above sea level. Convert the height to miles.
 
 
 0.98 miles
 
 
-A killer whale weighs \(4.6\) tons. Convert the weight to pounds.
+A killer whale weighs <span class="math-inline">4.6</span> tons. Convert the weight to pounds.
 
 
-Blue whales can weigh as much as \(150\) tons. Convert the weight to pounds.
+Blue whales can weigh as much as <span class="math-inline">150</span> tons. Convert the weight to pounds.
 
 
 300,000 pounds
 
 
-An empty bus weighs \(35,000\) pounds. Convert the weight to tons.
+An empty bus weighs <span class="math-inline">35,000</span> pounds. Convert the weight to tons.
 
 
-At take-off, an airplane weighs \(220,000\) pounds. Convert the weight to tons.
+At take-off, an airplane weighs <span class="math-inline">220,000</span> pounds. Convert the weight to tons.
 
 
 110 tons
 
 
-The voyage of the *Mayflower* took \(2\) months and \(5\) days. Convert the time to days (30 days = 1 month).
+The voyage of the *Mayflower* took <span class="math-inline">2</span> months and <span class="math-inline">5</span> days. Convert the time to days (30 days = 1 month).
 
 
-Lynn’s cruise lasted \(6\) days and \(18\) hours. Convert the time to hours.
+Lynn’s cruise lasted <span class="math-inline">6</span> days and <span class="math-inline">18</span> hours. Convert the time to hours.
 
 
 162 hours
 
 
-Rocco waited \(1\frac{1}{2}\) hours for his appointment. Convert the time to seconds.
+Rocco waited <span class="math-inline">1<sup>1</sup>∕<sub>2</sub></span> hours for his appointment. Convert the time to seconds.
 
 
-Misty’s surgery lasted \(2\frac{1}{4}\) hours. Convert the time to seconds.
+Misty’s surgery lasted <span class="math-inline">2<sup>1</sup>∕<sub>4</sub></span> hours. Convert the time to seconds.
 
 
 8100 seconds
@@ -450,28 +550,28 @@ How many tablespoons are in a gallon?
 256 tablespoons
 
 
-JJ’s cat, Posy, weighs \(14\) pounds. Convert her weight to ounces.
+JJ’s cat, Posy, weighs <span class="math-inline">14</span> pounds. Convert her weight to ounces.
 
 
-April’s dog, Beans, weighs \(8\) pounds. Convert his weight to ounces.
+April’s dog, Beans, weighs <span class="math-inline">8</span> pounds. Convert his weight to ounces.
 
 
 128 ounces
 
 
-Baby Preston weighed \(7\) pounds \(3\) ounces at birth. Convert his weight to ounces.
+Baby Preston weighed <span class="math-inline">7</span> pounds <span class="math-inline">3</span> ounces at birth. Convert his weight to ounces.
 
 
-Baby Audrey weighed \(6\) pounds \(15\) ounces at birth. Convert her weight to ounces.
+Baby Audrey weighed <span class="math-inline">6</span> pounds <span class="math-inline">15</span> ounces at birth. Convert her weight to ounces.
 
 
 111 ounces
 
 
-Crista will serve \(20\) cups of juice at her son’s party. Convert the volume to gallons.
+Crista will serve <span class="math-inline">20</span> cups of juice at her son’s party. Convert the volume to gallons.
 
 
-Lance needs \(500\) cups of water for the runners in a race. Convert the volume to gallons.
+Lance needs <span class="math-inline">500</span> cups of water for the runners in a race. Convert the volume to gallons.
 
 
 31.25 gallons
@@ -482,37 +582,37 @@ Lance needs \(500\) cups of water for the runners in a race. Convert the volume 
 In the following exercises, solve and write your answer in mixed units.
 
 
-Eli caught three fish. The weights of the fish were \(2\) pounds \(4\) ounces, \(1\) pound \(11\) ounces, and \(4\) pounds \(14\) ounces. What was the total weight of the three fish?
+Eli caught three fish. The weights of the fish were <span class="math-inline">2</span> pounds <span class="math-inline">4</span> ounces, <span class="math-inline">1</span> pound <span class="math-inline">11</span> ounces, and <span class="math-inline">4</span> pounds <span class="math-inline">14</span> ounces. What was the total weight of the three fish?
 
 
-Judy bought \(1\) pound \(6\) ounces of almonds, \(2\) pounds \(3\) ounces of walnuts, and \(8\) ounces of cashews. What was the total weight of the nuts?
+Judy bought <span class="math-inline">1</span> pound <span class="math-inline">6</span> ounces of almonds, <span class="math-inline">2</span> pounds <span class="math-inline">3</span> ounces of walnuts, and <span class="math-inline">8</span> ounces of cashews. What was the total weight of the nuts?
 
 
 4 lbs. 1 oz.
 
 
-One day Anya kept track of the number of minutes she spent driving. She recorded trips of \(45,10,8,65,20,and 35 minutes.\) How much time (in hours and minutes) did Anya spend driving?
+One day Anya kept track of the number of minutes she spent driving. She recorded trips of <span class="math-inline">45,10,8,65,20,and 35 minutes.</span> How much time (in hours and minutes) did Anya spend driving?
 
 
-Last year Eric went on \(6\) business trips. The number of days of each was \(5,2,8,12,6,and 3.\) How much time (in weeks and days) did Eric spend on business trips last year?
+Last year Eric went on <span class="math-inline">6</span> business trips. The number of days of each was <span class="math-inline">5,2,8,12,6,and 3.</span> How much time (in weeks and days) did Eric spend on business trips last year?
 
 
 5 weeks and 1 day
 
 
-Renee attached a \(6-foot-6-inch\) extension cord to her computer’s \(3-foot-8-inch\) power cord. What was the total length of the cords?
+Renee attached a <span class="math-inline">6-foot-6-inch</span> extension cord to her computer’s <span class="math-inline">3-foot-8-inch</span> power cord. What was the total length of the cords?
 
 
-Fawzi’s SUV is \(6\) feet \(4\) inches tall. If he puts a \(2-foot-10-inch\) box on top of his SUV, what is the total height of the SUV and the box?
+Fawzi’s SUV is <span class="math-inline">6</span> feet <span class="math-inline">4</span> inches tall. If he puts a <span class="math-inline">2-foot-10-inch</span> box on top of his SUV, what is the total height of the SUV and the box?
 
 
 9 ft 2 in
 
 
-Leilani wants to make \(8\) placemats. For each placemat she needs \(18\) inches of fabric. How many yards of fabric will she need for the \(8\) placemats?
+Leilani wants to make <span class="math-inline">8</span> placemats. For each placemat she needs <span class="math-inline">18</span> inches of fabric. How many yards of fabric will she need for the <span class="math-inline">8</span> placemats?
 
 
-Mireille needs to cut \(24\) inches of ribbon for each of the \(12\) girls in her dance class. How many yards of ribbon will she need altogether?
+Mireille needs to cut <span class="math-inline">24</span> inches of ribbon for each of the <span class="math-inline">12</span> girls in her dance class. How many yards of ribbon will she need altogether?
 
 
 8 yards
@@ -523,64 +623,64 @@ Mireille needs to cut \(24\) inches of ribbon for each of the \(12\) girls in he
 In the following exercises, convert the units.
 
 
-Ghalib ran \(5\) kilometers. Convert the length to meters.
+Ghalib ran <span class="math-inline">5</span> kilometers. Convert the length to meters.
 
 
-Kitaka hiked \(8\) kilometers. Convert the length to meters.
+Kitaka hiked <span class="math-inline">8</span> kilometers. Convert the length to meters.
 
 
 8000 meters
 
 
-Estrella is \(1.55\) meters tall. Convert her height to centimeters.
+Estrella is <span class="math-inline">1.55</span> meters tall. Convert her height to centimeters.
 
 
-The width of the wading pool is \(2.45\) meters. Convert the width to centimeters.
+The width of the wading pool is <span class="math-inline">2.45</span> meters. Convert the width to centimeters.
 
 
 245 centimeters
 
 
-Mount Whitney is \(3,072\) meters tall. Convert the height to kilometers.
+Mount Whitney is <span class="math-inline">3,072</span> meters tall. Convert the height to kilometers.
 
 
-The depth of the Mariana Trench is \(10,911\) meters. Convert the depth to kilometers.
+The depth of the Mariana Trench is <span class="math-inline">10,911</span> meters. Convert the depth to kilometers.
 
 
 10.911 kilometers
 
 
-June’s multivitamin contains \(1,500\) milligrams of calcium. Convert this to grams.
+June’s multivitamin contains <span class="math-inline">1,500</span> milligrams of calcium. Convert this to grams.
 
 
-A typical ruby-throated hummingbird weights \(3\) grams. Convert this to milligrams.
+A typical ruby-throated hummingbird weights <span class="math-inline">3</span> grams. Convert this to milligrams.
 
 
 3000 milligrams
 
 
-One stick of butter contains \(91.6\) grams of fat. Convert this to milligrams.
+One stick of butter contains <span class="math-inline">91.6</span> grams of fat. Convert this to milligrams.
 
 
-One serving of gourmet ice cream has \(25\) grams of fat. Convert this to milligrams.
+One serving of gourmet ice cream has <span class="math-inline">25</span> grams of fat. Convert this to milligrams.
 
 
 25,000 milligrams
 
 
-The maximum mass of an airmail letter is \(2\) kilograms. Convert this to grams.
+The maximum mass of an airmail letter is <span class="math-inline">2</span> kilograms. Convert this to grams.
 
 
-Dimitri’s daughter weighed \(3.8\) kilograms at birth. Convert this to grams.
+Dimitri’s daughter weighed <span class="math-inline">3.8</span> kilograms at birth. Convert this to grams.
 
 
 3800 grams
 
 
-A bottle of wine contained \(750\) milliliters. Convert this to liters.
+A bottle of wine contained <span class="math-inline">750</span> milliliters. Convert this to liters.
 
 
-A bottle of medicine contained \(300\) milliliters. Convert this to liters.
+A bottle of medicine contained <span class="math-inline">300</span> milliliters. Convert this to liters.
 
 
 0.3 liters
@@ -591,37 +691,37 @@ A bottle of medicine contained \(300\) milliliters. Convert this to liters.
 In the following exercises, solve and write your answer in mixed units.
 
 
-Matthias is \(1.8\) meters tall. His son is \(89\) centimeters tall. How much taller, in centimeters, is Matthias than his son?
+Matthias is <span class="math-inline">1.8</span> meters tall. His son is <span class="math-inline">89</span> centimeters tall. How much taller, in centimeters, is Matthias than his son?
 
 
-Stavros is \(1.6\) meters tall. His sister is \(95\) centimeters tall. How much taller, in centimeters, is Stavros than his sister?
+Stavros is <span class="math-inline">1.6</span> meters tall. His sister is <span class="math-inline">95</span> centimeters tall. How much taller, in centimeters, is Stavros than his sister?
 
 
 65 centimeters
 
 
-A typical dove weighs \(345\) grams. A typical duck weighs \(1.2\) kilograms. What is the difference, in grams, of the weights of a duck and a dove?
+A typical dove weighs <span class="math-inline">345</span> grams. A typical duck weighs <span class="math-inline">1.2</span> kilograms. What is the difference, in grams, of the weights of a duck and a dove?
 
 
-Concetta had a \(2-kilogram\) bag of flour. She used \(180\) grams of flour to make biscotti. How many kilograms of flour are left in the bag?
+Concetta had a <span class="math-inline">2-kilogram</span> bag of flour. She used <span class="math-inline">180</span> grams of flour to make biscotti. How many kilograms of flour are left in the bag?
 
 
 1.82 kilograms
 
 
-Harry mailed \(5\) packages that weighed \(420\) grams each. What was the total weight of the packages in kilograms?
+Harry mailed <span class="math-inline">5</span> packages that weighed <span class="math-inline">420</span> grams each. What was the total weight of the packages in kilograms?
 
 
-One glass of orange juice provides \(560\) milligrams of potassium. Linda drinks one glass of orange juice every morning. How many grams of potassium does Linda get from her orange juice in \(30\) days?
+One glass of orange juice provides <span class="math-inline">560</span> milligrams of potassium. Linda drinks one glass of orange juice every morning. How many grams of potassium does Linda get from her orange juice in <span class="math-inline">30</span> days?
 
 
 16.8 grams
 
 
-Jonas drinks \(200\) milliliters of water \(8\) times a day. How many liters of water does Jonas drink in a day?
+Jonas drinks <span class="math-inline">200</span> milliliters of water <span class="math-inline">8</span> times a day. How many liters of water does Jonas drink in a day?
 
 
-One serving of whole grain sandwich bread provides \(6\) grams of protein. How many milligrams of protein are provided by \(7\) servings of whole grain sandwich bread?
+One serving of whole grain sandwich bread provides <span class="math-inline">6</span> grams of protein. How many milligrams of protein are provided by <span class="math-inline">7</span> servings of whole grain sandwich bread?
 
 
 42,000 milligrams
@@ -632,55 +732,55 @@ One serving of whole grain sandwich bread provides \(6\) grams of protein. How m
 In the following exercises, make the unit conversions. Round to the nearest tenth.
 
 
-Bill is \(75\) inches tall. Convert his height to centimeters.
+Bill is <span class="math-inline">75</span> inches tall. Convert his height to centimeters.
 
 
-Frankie is \(42\) inches tall. Convert his height to centimeters.
+Frankie is <span class="math-inline">42</span> inches tall. Convert his height to centimeters.
 
 
 106.7 centimeters
 
 
-Marcus passed a football \(24\) yards. Convert the pass length to meters.
+Marcus passed a football <span class="math-inline">24</span> yards. Convert the pass length to meters.
 
 
-Connie bought \(9\) yards of fabric to make drapes. Convert the fabric length to meters.
+Connie bought <span class="math-inline">9</span> yards of fabric to make drapes. Convert the fabric length to meters.
 
 
 8.2 meters
 
 
-Each American throws out an average of \(1,650\) pounds of garbage per year. Convert this weight to kilograms (2.20 pounds = 1 kilogram).
+Each American throws out an average of <span class="math-inline">1,650</span> pounds of garbage per year. Convert this weight to kilograms (2.20 pounds = 1 kilogram).
 
 
-An average American will throw away \(90,000\) pounds of trash over his or her lifetime. Convert this weight to kilograms (2.20 pounds = 1 kilogram).
+An average American will throw away <span class="math-inline">90,000</span> pounds of trash over his or her lifetime. Convert this weight to kilograms (2.20 pounds = 1 kilogram).
 
 
 40,900 kilograms
 
 
-A \(5K\) run is \(5\) kilometers long. Convert this length to miles.
+A <span class="math-inline">5K</span> run is <span class="math-inline">5</span> kilometers long. Convert this length to miles.
 
 
-Kathryn is \(1.6\) meters tall. Convert her height to feet.
+Kathryn is <span class="math-inline">1.6</span> meters tall. Convert her height to feet.
 
 
 5.2 feet
 
 
-Dawn’s suitcase weighed \(20\) kilograms. Convert the weight to pounds.
+Dawn’s suitcase weighed <span class="math-inline">20</span> kilograms. Convert the weight to pounds.
 
 
-Jackson’s backpack weighs \(15\) kilograms. Convert the weight to pounds.
+Jackson’s backpack weighs <span class="math-inline">15</span> kilograms. Convert the weight to pounds.
 
 
 33 pounds
 
 
-Ozzie put \(14\) gallons of gas in his truck. Convert the volume to liters.
+Ozzie put <span class="math-inline">14</span> gallons of gas in his truck. Convert the volume to liters.
 
 
-Bernard bought \(8\) gallons of paint. Convert the volume to liters.
+Bernard bought <span class="math-inline">8</span> gallons of paint. Convert the volume to liters.
 
 
 30.2 liters
@@ -691,37 +791,37 @@ Bernard bought \(8\) gallons of paint. Convert the volume to liters.
 In the following exercises, convert the Fahrenheit temperature to degrees Celsius. Round to the nearest tenth.
 
 
-\(86°F\)
+<span class="math-inline">86°F</span>
 
 
-\(77°F\)
+<span class="math-inline">77°F</span>
 
 
 25°C
 
 
-\(104°F\)
+<span class="math-inline">104°F</span>
 
 
-\(14°F\)
+<span class="math-inline">14°F</span>
 
 
 −10°C
 
 
-\(72°F\)
+<span class="math-inline">72°F</span>
 
 
-\(4°F\)
+<span class="math-inline">4°F</span>
 
 
 −15.6°C
 
 
-\(0°F\)
+<span class="math-inline">0°F</span>
 
 
-\(120°F\)
+<span class="math-inline">120°F</span>
 
 
 48.9°C
@@ -730,37 +830,37 @@ In the following exercises, convert the Fahrenheit temperature to degrees Celsiu
 In the following exercises, convert the Celsius temperatures to degrees Fahrenheit. Round to the nearest tenth.
 
 
-\(5°C\)
+<span class="math-inline">5°C</span>
 
 
-\(25°C\)
+<span class="math-inline">25°C</span>
 
 
 77°F
 
 
-\(−10°C\)
+<span class="math-inline">−10°C</span>
 
 
-\(−15°C\)
+<span class="math-inline">−15°C</span>
 
 
 5°F
 
 
-\(22°C\)
+<span class="math-inline">22°C</span>
 
 
-\(8°C\)
+<span class="math-inline">8°C</span>
 
 
 46.4°F
 
 
-\(43°C\)
+<span class="math-inline">43°C</span>
 
 
-\(16°C\)
+<span class="math-inline">16°C</span>
 
 
 60.8°F
@@ -769,10 +869,10 @@ In the following exercises, convert the Celsius temperatures to degrees Fahrenhe
 ### Everyday Math
 
 
-*Nutrition* Julian drinks one can of soda every day. Each can of soda contains \(40\) grams of sugar. How many kilograms of sugar does Julian get from soda in \(1\) year?
+*Nutrition* Julian drinks one can of soda every day. Each can of soda contains <span class="math-inline">40</span> grams of sugar. How many kilograms of sugar does Julian get from soda in <span class="math-inline">1</span> year?
 
 
-*Reflectors* The reflectors in each lane-marking stripe on a highway are spaced \(16\) yards apart. How many reflectors are needed for a one-mile-long stretch of highway?
+*Reflectors* The reflectors in each lane-marking stripe on a highway are spaced <span class="math-inline">16</span> yards apart. How many reflectors are needed for a one-mile-long stretch of highway?
 
 
 110 reflectors
@@ -781,7 +881,7 @@ In the following exercises, convert the Celsius temperatures to degrees Fahrenhe
 ### Writing Exercises
 
 
-Some people think that \(65°\) to \(75°\) Fahrenheit is the ideal temperature range.
+Some people think that <span class="math-inline">65°</span> to <span class="math-inline">75°</span> Fahrenheit is the ideal temperature range.
 
   -
 ⓐ What is your ideal temperature range? Why do you think so?
@@ -801,48 +901,54 @@ Some people think that \(65°\) to \(75°\) Fahrenheit is the ideal temperature 
 ⓑ Overall, after looking at the checklist, do you think you are well-prepared for the next chapter? Why or why not?
 
 
+---
+
+
+---
+
 ## Chapter Review Exercises
+
 
 In the following exercises, write as the ratio of two integers.
 
 
-\(6\)
+<span class="math-inline">6</span>
 
 
-\(−5\)
+<span class="math-inline">−5</span>
 
 
-\(\frac{-5}{1}\)
+<span class="math-inline"><sup>-5</sup>∕<sub>1</sub></span>
 
 
-\(2.9\)
+<span class="math-inline">2.9</span>
 
 
-\(1.8\)
+<span class="math-inline">1.8</span>
 
 
-\(\frac{18}{10}\)
+<span class="math-inline"><sup>18</sup>∕<sub>10</sub></span>
 
 
 In the following exercises, determine which of the numbers is rational.
 
 
-\(0.42,0.\overset{–}{3},2.56813\dots\)
+<span class="math-inline">0.42,0.3<sup>–</sup>,2.56813…</span>
 
 
-\(0.75319\dots,0.\overset{—}{16},1.95\)
+<span class="math-inline">0.75319…,0.16<sup>—</sup>,1.95</span>
 
 
-\(0.\overset{—}{16},1.95\)
+<span class="math-inline">0.16<sup>—</sup>,1.95</span>
 
 
 In the following exercises, identify whether each given number is rational or irrational.
 
 
-ⓐ \(\sqrt{49}\) ⓑ \(\sqrt{55}\)
+ⓐ <span class="math-inline">√{49}</span> ⓑ <span class="math-inline">√{55}</span>
 
 
-ⓐ \(\sqrt{72}\) ⓑ \(\sqrt{64}\)
+ⓐ <span class="math-inline">√{72}</span> ⓑ <span class="math-inline">√{64}</span>
 
 
   - ⓐ irrational
@@ -851,34 +957,34 @@ In the following exercises, identify whether each given number is rational or ir
 In the following exercises, list the ⓐ whole numbers, ⓑ integers, ⓒ rational numbers, ⓓ irrational numbers, ⓔ real numbers for each set of numbers.
 
 
-\(−9,0,0.361....,\frac{8}{9},\sqrt{16},9\)
+<span class="math-inline">−9,0,0.361....,<sup>8</sup>∕<sub>9</sub>,√{16},9</span>
 
 
-\(−5, -2\frac{1}{4}, -\sqrt{4}, 0.\overset{—}{25}, \frac{13}{5}, 4\)
+<span class="math-inline">−5, -2<sup>1</sup>∕<sub>4</sub>, -√{4}, 0.25<sup>—</sup>, <sup>13</sup>∕<sub>5</sub>, 4</span>
 
 
-  - ⓐ \(4\)
-  - ⓑ \(-5, -\sqrt{4}, 4\)
-  - ⓒ \(-5, -2\frac{1}{4}, -\sqrt{4}, 0.\overset{—}{25}, \frac{13}{5}, 4\)
+  - ⓐ <span class="math-inline">4</span>
+  - ⓑ <span class="math-inline">-5, -√{4}, 4</span>
+  - ⓒ <span class="math-inline">-5, -2<sup>1</sup>∕<sub>4</sub>, -√{4}, 0.25<sup>—</sup>, <sup>13</sup>∕<sub>5</sub>, 4</span>
   - ⓓ none
-  - ⓔ \(-5, -2\frac{1}{4},-\sqrt{4},0.\overset{—}{25}, \frac{13}{5}, 4\)
+  - ⓔ <span class="math-inline">-5, -2<sup>1</sup>∕<sub>4</sub>,-√{4},0.25<sup>—</sup>, <sup>13</sup>∕<sub>5</sub>, 4</span>
 
 In the following exercises, use the commutative property to rewrite the given expression.
 
 
-\(6+4=____\)
+<span class="math-inline">6+4=____</span>
 
 
-\(−14\cdot 5=____\)
+<span class="math-inline">−14· 5=____</span>
 
 
 −14·5 = 5(−14)
 
 
-\(3n=____\)
+<span class="math-inline">3n=____</span>
 
 
-\(a+8=____\)
+<span class="math-inline">a+8=____</span>
 
 
 *a* + 8 = 8 + *a*
@@ -887,49 +993,49 @@ In the following exercises, use the commutative property to rewrite the given ex
 In the following exercises, use the associative property to rewrite the given expression.
 
 
-\((13\cdot 5)\cdot 2=_____\)
+<span class="math-inline">(13· 5)· 2=_____</span>
 
 
-\((22+7)+3=_____\)
+<span class="math-inline">(22+7)+3=_____</span>
 
 
 (22 + 7) + 3 = 22 + (7 + 3)
 
 
-\((4+9x)+x=_____\)
+<span class="math-inline">(4+9x)+x=_____</span>
 
 
-\(\frac{1}{2}(22y)=_____\)
+<span class="math-inline"><sup>1</sup>∕<sub>2</sub>(22y)=_____</span>
 
 
-\(\frac{1}{2}(22y)=(\frac{1}{2}\cdot 22)y\)
+<span class="math-inline"><sup>1</sup>∕<sub>2</sub>(22y)=(<sup>1</sup>∕<sub>2</sub>· 22)y</span>
 
 
 In the following exercises, evaluate each expression for the given value.
 
 
-If \(y=\frac{11}{12},\) evaluate:
-ⓐ \(y+0.7+(-y)\)
-ⓑ \(y+(-y)+0.7\)
+If <span class="math-inline">y=<sup>11</sup>∕<sub>12</sub>,</span> evaluate:
+ⓐ <span class="math-inline">y+0.7+(-y)</span>
+ⓑ <span class="math-inline">y+(-y)+0.7</span>
 
 
-If \(z=-\frac{5}{3},\) evaluate:
- ⓐ \(z+5.39+(-z)\)
-ⓑ \(z+(-z)+5.39\)
+If <span class="math-inline">z=-<sup>5</sup>∕<sub>3</sub>,</span> evaluate:
+ ⓐ <span class="math-inline">z+5.39+(-z)</span>
+ⓑ <span class="math-inline">z+(-z)+5.39</span>
 
 
   - ⓐ 5.39
   - ⓑ 5.39
 
 
-If \(k=65,\) evaluate:
-ⓐ \(\frac{4}{9}(\frac{9}{4}k)\)
-ⓑ \((\frac{4}{9}\cdot \frac{9}{4})k\)
+If <span class="math-inline">k=65,</span> evaluate:
+ⓐ <span class="math-inline"><sup>4</sup>∕<sub>9</sub>(<sup>9</sup>∕<sub>4</sub>k)</span>
+ⓑ <span class="math-inline">(<sup>4</sup>∕<sub>9</sub>· <sup>9</sup>∕<sub>4</sub>)k</span>
 
 
-If \(m=−13,\) evaluate:
-ⓐ \(-\frac{2}{5}(\frac{5}{2}m)\)
-ⓑ \((-\frac{2}{5}\cdot \frac{5}{2})m\)
+If <span class="math-inline">m=−13,</span> evaluate:
+ⓐ <span class="math-inline">-<sup>2</sup>∕<sub>5</sub>(<sup>5</sup>∕<sub>2</sub>m)</span>
+ⓑ <span class="math-inline">(-<sup>2</sup>∕<sub>5</sub>· <sup>5</sup>∕<sub>2</sub>)m</span>
 
 
   - ⓐ 13
@@ -938,46 +1044,46 @@ If \(m=−13,\) evaluate:
 In the following exercises, simplify using the commutative and associative properties.
 
 
-\(6y+37+(−6y)\)
+<span class="math-inline">6y+37+(−6y)</span>
 
 
-\(\frac{1}{4}+\frac{11}{15}+(-\frac{1}{4})\)
+<span class="math-inline"><sup>1</sup>∕<sub>4</sub>+<sup>11</sup>∕<sub>15</sub>+(-<sup>1</sup>∕<sub>4</sub>)</span>
 
 
-\(\frac{11}{15}\)
+<span class="math-inline"><sup>11</sup>∕<sub>15</sub></span>
 
 
-\(\frac{14}{11}\cdot \frac{35}{9}\cdot \frac{11}{14}\)
+<span class="math-inline"><sup>14</sup>∕<sub>11</sub>· <sup>35</sup>∕<sub>9</sub>· <sup>11</sup>∕<sub>14</sub></span>
 
 
-\(−18\cdot 15\cdot \frac{2}{9}\)
+<span class="math-inline">−18· 15· <sup>2</sup>∕<sub>9</sub></span>
 
 
 −60
 
 
-\((\frac{7}{12}+\frac{4}{5})+\frac{1}{5}\)
+<span class="math-inline">(<sup>7</sup>∕<sub>12</sub>+<sup>4</sup>∕<sub>5</sub>)+<sup>1</sup>∕<sub>5</sub></span>
 
 
-\((3.98d+0.75d)+1.25d\)
+<span class="math-inline">(3.98d+0.75d)+1.25d</span>
 
 
 5.98 *d*
 
 
-\(−12(4m)\)
+<span class="math-inline">−12(4m)</span>
 
 
-\(30(\frac{5}{6}q)\)
+<span class="math-inline">30(<sup>5</sup>∕<sub>6</sub>q)</span>
 
 
 25 *q*
 
 
-\(11x+8y+16x+15y\)
+<span class="math-inline">11x+8y+16x+15y</span>
 
 
-\(52m+(−20n)+(−18m)+(−5n)\)
+<span class="math-inline">52m+(−20n)+(−18m)+(−5n)</span>
 
 
 34 *m* + (−25 *n*)
@@ -986,37 +1092,37 @@ In the following exercises, simplify using the commutative and associative prope
 In the following exercises, simplify using the distributive property.
 
 
-\(7(x+9)\)
+<span class="math-inline">7(x+9)</span>
 
 
-\(9(u-4)\)
+<span class="math-inline">9(u-4)</span>
 
 
 9*y* − 36
 
 
-\(−3(6m-1)\)
+<span class="math-inline">−3(6m-1)</span>
 
 
-\(−8(−7a-12)\)
+<span class="math-inline">−8(−7a-12)</span>
 
 
 56*a* + 96
 
 
-\(\frac{1}{3}(15n-6)\)
+<span class="math-inline"><sup>1</sup>∕<sub>3</sub>(15n-6)</span>
 
 
-\((y+10)\cdot p\)
+<span class="math-inline">(y+10)· p</span>
 
 
 *yp* + 10*p*
 
 
-\((a-4)-(6a+9)\)
+<span class="math-inline">(a-4)-(6a+9)</span>
 
 
-\(4(x+3)-8(x-7)\)
+<span class="math-inline">4(x+3)-8(x-7)</span>
 
 
 −4*x* + 68
@@ -1025,28 +1131,28 @@ In the following exercises, simplify using the distributive property.
 In the following exercises, evaluate using the distributive property.
 
 
-If \(u=2,\) evaluate
- ⓐ \(3(8u+9) and\)
-ⓑ \(3\cdot 8u+3\cdot 9\) to show that \(3(8u+9)=3\cdot 8u+3\cdot 9\)
+If <span class="math-inline">u=2,</span> evaluate
+ ⓐ <span class="math-inline">3(8u+9) and</span>
+ⓑ <span class="math-inline">3· 8u+3· 9</span> to show that <span class="math-inline">3(8u+9)=3· 8u+3· 9</span>
 
 
-If \(n=\frac{7}{8},\) evaluate
-ⓐ \(8(n+\frac{1}{4})\) and
-ⓑ \(8\cdot n+8\cdot \frac{1}{4}\) to show that \(8(n+\frac{1}{4})=8\cdot n+8\cdot \frac{1}{4}\)
+If <span class="math-inline">n=<sup>7</sup>∕<sub>8</sub>,</span> evaluate
+ⓐ <span class="math-inline">8(n+<sup>1</sup>∕<sub>4</sub>)</span> and
+ⓑ <span class="math-inline">8· n+8· <sup>1</sup>∕<sub>4</sub></span> to show that <span class="math-inline">8(n+<sup>1</sup>∕<sub>4</sub>)=8· n+8· <sup>1</sup>∕<sub>4</sub></span>
 
 
   - ⓐ 9
   - ⓑ 9
 
 
-If \(d=14,\) evaluate
-ⓐ \(−100(0.1d+0.35)\) and
-ⓑ \(−100\cdot (0.1d)+(−100)(0.35)\) to show that \(−100(0.1d+0.35)=−100\cdot (0.1d)+(−100)(0.35)\)
+If <span class="math-inline">d=14,</span> evaluate
+ⓐ <span class="math-inline">−100(0.1d+0.35)</span> and
+ⓑ <span class="math-inline">−100· (0.1d)+(−100)(0.35)</span> to show that <span class="math-inline">−100(0.1d+0.35)=−100· (0.1d)+(−100)(0.35)</span>
 
 
-If \(y=−18,\) evaluate
-ⓐ \(-(y-18)\) and
-ⓑ \(-y+18\) to show that \(-(y-18)=-y+18\)
+If <span class="math-inline">y=−18,</span> evaluate
+ⓐ <span class="math-inline">-(y-18)</span> and
+ⓑ <span class="math-inline">-y+18</span> to show that <span class="math-inline">-(y-18)=-y+18</span>
 
 
   - ⓐ 36
@@ -1055,19 +1161,19 @@ If \(y=−18,\) evaluate
 In the following exercises, identify whether each example is using the identity property of addition or multiplication.
 
 
-\(−35(1)=−35\)
+<span class="math-inline">−35(1)=−35</span>
 
 
-\(29+0=29\)
+<span class="math-inline">29+0=29</span>
 
 
 identity property of addition
 
 
-\((6x+0)+4x=6x+4x\)
+<span class="math-inline">(6x+0)+4x=6x+4x</span>
 
 
-\(9\cdot 1+(-3)=9+(-3)\)
+<span class="math-inline">9· 1+(-3)=9+(-3)</span>
 
 
 identity property of multiplication
@@ -1076,88 +1182,88 @@ identity property of multiplication
 In the following exercises, find the additive inverse.
 
 
-\(−32\)
+<span class="math-inline">−32</span>
 
 
-\(19.4\)
+<span class="math-inline">19.4</span>
 
 
 −19.4
 
 
-\(\frac{3}{5}\)
+<span class="math-inline"><sup>3</sup>∕<sub>5</sub></span>
 
 
-\(-\frac{7}{15}\)
+<span class="math-inline">-<sup>7</sup>∕<sub>15</sub></span>
 
 
-\(\frac{7}{15}\)
+<span class="math-inline"><sup>7</sup>∕<sub>15</sub></span>
 
 
 In the following exercises, find the multiplicative inverse.
 
 
-\(\frac{9}{2}\)
+<span class="math-inline"><sup>9</sup>∕<sub>2</sub></span>
 
 
-\(−5\)
+<span class="math-inline">−5</span>
 
 
-\(-\frac{1}{5}\)
+<span class="math-inline">-<sup>1</sup>∕<sub>5</sub></span>
 
 
-\(\frac{1}{10}\)
+<span class="math-inline"><sup>1</sup>∕<sub>10</sub></span>
 
 
-\(-\frac{4}{9}\)
+<span class="math-inline">-<sup>4</sup>∕<sub>9</sub></span>
 
 
-\(-\frac{9}{4}\)
+<span class="math-inline">-<sup>9</sup>∕<sub>4</sub></span>
 
 
 In the following exercises, simplify.
 
 
-\(83\cdot 0\)
+<span class="math-inline">83· 0</span>
 
 
-\(\frac{0}{9}\)
-
-
-0
-
-
-\(\frac{5}{0}\)
-
-
-\(0\div \frac{2}{3}\)
+<span class="math-inline"><sup>0</sup>∕<sub>9</sub></span>
 
 
 0
 
 
-\(43+39+(−43)\)
+<span class="math-inline"><sup>5</sup>∕<sub>0</sub></span>
 
 
-\((n+6.75)+0.25\)
+<span class="math-inline">0÷ <sup>2</sup>∕<sub>3</sub></span>
+
+
+0
+
+
+<span class="math-inline">43+39+(−43)</span>
+
+
+<span class="math-inline">(n+6.75)+0.25</span>
 
 
 *n* + 7
 
 
-\(\frac{5}{13}\cdot 57\cdot \frac{13}{5}\)
+<span class="math-inline"><sup>5</sup>∕<sub>13</sub>· 57· <sup>13</sup>∕<sub>5</sub></span>
 
 
-\(\frac{1}{6}\cdot 17\cdot 12\)
+<span class="math-inline"><sup>1</sup>∕<sub>6</sub>· 17· 12</span>
 
 
 34
 
 
-\(\frac{2}{3}\cdot 28\cdot \frac{3}{7}\)
+<span class="math-inline"><sup>2</sup>∕<sub>3</sub>· 28· <sup>3</sup>∕<sub>7</sub></span>
 
 
-\(9(6x-11)+15\)
+<span class="math-inline">9(6x-11)+15</span>
 
 
 54*x* − 84
@@ -1166,34 +1272,34 @@ In the following exercises, simplify.
 In the following exercises, convert between U.S. units. Round to the nearest tenth.
 
 
-A floral arbor is \(7\) feet tall. Convert the height to inches.
+A floral arbor is <span class="math-inline">7</span> feet tall. Convert the height to inches.
 
 
-A picture frame is \(42\) inches wide. Convert the width to feet.
+A picture frame is <span class="math-inline">42</span> inches wide. Convert the width to feet.
 
 
 3.5 feet
 
 
-Kelly is \(5\) feet \(4\) inches tall. Convert her height to inches.
+Kelly is <span class="math-inline">5</span> feet <span class="math-inline">4</span> inches tall. Convert her height to inches.
 
 
-A playground is \(45\) feet wide. Convert the width to yards.
+A playground is <span class="math-inline">45</span> feet wide. Convert the width to yards.
 
 
 15 yards
 
 
-The height of Mount Shasta is \(14,179\) feet. Convert the height to miles.
+The height of Mount Shasta is <span class="math-inline">14,179</span> feet. Convert the height to miles.
 
 
-Shamu weighs \(4.5\) tons. Convert the weight to pounds.
+Shamu weighs <span class="math-inline">4.5</span> tons. Convert the weight to pounds.
 
 
 9000 pounds
 
 
-The play lasted \(1\frac{3}{4}\) hours. Convert the time to minutes.
+The play lasted <span class="math-inline">1<sup>3</sup>∕<sub>4</sub></span> hours. Convert the time to minutes.
 
 
 How many tablespoons are in a quart?
@@ -1202,10 +1308,10 @@ How many tablespoons are in a quart?
 64 tablespoons
 
 
-Naomi’s baby weighed \(5\) pounds \(14\) ounces at birth. Convert the weight to ounces.
+Naomi’s baby weighed <span class="math-inline">5</span> pounds <span class="math-inline">14</span> ounces at birth. Convert the weight to ounces.
 
 
-Trinh needs \(30\) cups of paint for her class art project. Convert the volume to gallons.
+Trinh needs <span class="math-inline">30</span> cups of paint for her class art project. Convert the volume to gallons.
 
 
 1.9 gallons
@@ -1214,19 +1320,19 @@ Trinh needs \(30\) cups of paint for her class art project. Convert the volume t
 In the following exercises, solve, and state your answer in mixed units.
 
 
-John caught \(4\) lobsters. The weights of the lobsters were \(1\) pound \(9\) ounces, \(1\) pound \(12\) ounces, \(4\) pounds \(2\) ounces, and \(2\) pounds \(15\) ounces. What was the total weight of the lobsters?
+John caught <span class="math-inline">4</span> lobsters. The weights of the lobsters were <span class="math-inline">1</span> pound <span class="math-inline">9</span> ounces, <span class="math-inline">1</span> pound <span class="math-inline">12</span> ounces, <span class="math-inline">4</span> pounds <span class="math-inline">2</span> ounces, and <span class="math-inline">2</span> pounds <span class="math-inline">15</span> ounces. What was the total weight of the lobsters?
 
 
-Every day last week, Pedro recorded the amount of time he spent reading. He read for \(50,25,83,45,32,60,and 135\) minutes. How much time, in hours and minutes, did Pedro spend reading?
+Every day last week, Pedro recorded the amount of time he spent reading. He read for <span class="math-inline">50,25,83,45,32,60,and 135</span> minutes. How much time, in hours and minutes, did Pedro spend reading?
 
 
 7 hours 10 minutes
 
 
-Fouad is \(6\) feet \(2\) inches tall. If he stands on a rung of a ladder \(8\) feet \(10\) inches high, how high off the ground is the top of Fouad’s head?
+Fouad is <span class="math-inline">6</span> feet <span class="math-inline">2</span> inches tall. If he stands on a rung of a ladder <span class="math-inline">8</span> feet <span class="math-inline">10</span> inches high, how high off the ground is the top of Fouad’s head?
 
 
-Dalila wants to make pillow covers. Each cover takes \(30\) inches of fabric. How many yards and inches of fabric does she need for \(4\) pillow covers?
+Dalila wants to make pillow covers. Each cover takes <span class="math-inline">30</span> inches of fabric. How many yards and inches of fabric does she need for <span class="math-inline">4</span> pillow covers?
 
 
 3 yards, 12 inches
@@ -1235,28 +1341,28 @@ Dalila wants to make pillow covers. Each cover takes \(30\) inches of fabric. Ho
 In the following exercises, convert between metric units.
 
 
-Donna is \(1.7\) meters tall. Convert her height to centimeters.
+Donna is <span class="math-inline">1.7</span> meters tall. Convert her height to centimeters.
 
 
-Mount Everest is \(8,850\) meters tall. Convert the height to kilometers.
+Mount Everest is <span class="math-inline">8,850</span> meters tall. Convert the height to kilometers.
 
 
 8.85 kilometers
 
 
-One cup of yogurt contains \(488\) milligrams of calcium. Convert this to grams.
+One cup of yogurt contains <span class="math-inline">488</span> milligrams of calcium. Convert this to grams.
 
 
-One cup of yogurt contains \(13\) grams of protein. Convert this to milligrams.
+One cup of yogurt contains <span class="math-inline">13</span> grams of protein. Convert this to milligrams.
 
 
 13,000 milligrams
 
 
-Sergio weighed \(2.9\) kilograms at birth. Convert this to grams.
+Sergio weighed <span class="math-inline">2.9</span> kilograms at birth. Convert this to grams.
 
 
-A bottle of water contained \(650\) milliliters. Convert this to liters.
+A bottle of water contained <span class="math-inline">650</span> milliliters. Convert this to liters.
 
 
 0.65 liters
@@ -1265,19 +1371,19 @@ A bottle of water contained \(650\) milliliters. Convert this to liters.
 In the following exercises, solve.
 
 
-Minh is \(2\) meters tall. His daughter is \(88\) centimeters tall. How much taller, in meters, is Minh than his daughter?
+Minh is <span class="math-inline">2</span> meters tall. His daughter is <span class="math-inline">88</span> centimeters tall. How much taller, in meters, is Minh than his daughter?
 
 
-Selma had a \(1-liter\) bottle of water. If she drank \(145\) milliliters, how much water, in milliliters, was left in the bottle?
+Selma had a <span class="math-inline">1-liter</span> bottle of water. If she drank <span class="math-inline">145</span> milliliters, how much water, in milliliters, was left in the bottle?
 
 
 855 milliliters
 
 
-One serving of cranberry juice contains \(30\) grams of sugar. How many kilograms of sugar are in \(30\) servings of cranberry juice?
+One serving of cranberry juice contains <span class="math-inline">30</span> grams of sugar. How many kilograms of sugar are in <span class="math-inline">30</span> servings of cranberry juice?
 
 
-One ounce of tofu provides \(2\) grams of protein. How many milligrams of protein are provided by \(5\) ounces of tofu?
+One ounce of tofu provides <span class="math-inline">2</span> grams of protein. How many milligrams of protein are provided by <span class="math-inline">5</span> ounces of tofu?
 
 
 10,000 milligrams
@@ -1286,28 +1392,28 @@ One ounce of tofu provides \(2\) grams of protein. How many milligrams of protei
 In the following exercises, convert between U.S. and metric units. Round to the nearest tenth.
 
 
-Majid is \(69\) inches tall. Convert his height to centimeters.
+Majid is <span class="math-inline">69</span> inches tall. Convert his height to centimeters.
 
 
-A college basketball court is \(84\) feet long. Convert this length to meters.
+A college basketball court is <span class="math-inline">84</span> feet long. Convert this length to meters.
 
 
 25.6 meters
 
 
-Caroline walked \(2.5\) kilometers. Convert this length to miles.
+Caroline walked <span class="math-inline">2.5</span> kilometers. Convert this length to miles.
 
 
-Lucas weighs \(78\) kilograms. Convert his weight to pounds.
+Lucas weighs <span class="math-inline">78</span> kilograms. Convert his weight to pounds.
 
 
 171.6 pounds
 
 
-Steve’s car holds \(55\) liters of gas. Convert this to gallons.
+Steve’s car holds <span class="math-inline">55</span> liters of gas. Convert this to gallons.
 
 
-A box of books weighs \(25\) pounds. Convert this weight to kilograms.
+A box of books weighs <span class="math-inline">25</span> pounds. Convert this weight to kilograms.
 
 
 11.4 kilograms
@@ -1316,19 +1422,19 @@ A box of books weighs \(25\) pounds. Convert this weight to kilograms.
 In the following exercises, convert the Fahrenheit temperatures to degrees Celsius. Round to the nearest tenth.
 
 
-\(95°F\)
+<span class="math-inline">95°F</span>
 
 
-\(23°F\)
+<span class="math-inline">23°F</span>
 
 
 −5°C
 
 
-\(20°F\)
+<span class="math-inline">20°F</span>
 
 
-\(64°F\)
+<span class="math-inline">64°F</span>
 
 
 17.8°C
@@ -1337,19 +1443,67 @@ In the following exercises, convert the Fahrenheit temperatures to degrees Celsi
 In the following exercises, convert the Celsius temperatures to degrees Fahrenheit. Round to the nearest tenth.
 
 
-\(30°C\)
+<span class="math-inline">30°C</span>
 
 
-\(−5°C\)
+<span class="math-inline">−5°C</span>
 
 
 23°F
 
 
-\(−12°C\)
+<span class="math-inline">−12°C</span>
 
 
-\(24°C\)
+<span class="math-inline">24°C</span>
 
 
 75.2°F
+
+</div>
+
+</div>
+
+</div>
+
+</div>
+
+</div>
+
+</div>
+
+</div>
+
+</div>
+
+</div>
+
+</div>
+
+</div>
+
+</div>
+
+</div>
+
+</div>
+
+</div>
+
+</div>
+
+</div>
+
+</div>
+
+</div>
+
+</div>
+
+</div>
+
+</div>
+
+</div>
+
+</div>

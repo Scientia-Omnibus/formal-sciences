@@ -1,4 +1,74 @@
+<style>
+.math-inline {
+    font-style: italic;
+    padding: 2px 6px;
+    border-radius: 4px;
+    background: #f8f9fa;
+    font-family: Georgia, serif;
+}
+.math-display {
+    background: #f8f9fa;
+    border-left: 4px solid #4a90d9;
+    padding: 16px 20px;
+    margin: 16px 0;
+    border-radius: 6px;
+    font-size: 1.15em;
+    font-family: Georgia, serif;
+    text-align: center;
+    line-height: 2;
+    overflow-x: auto;
+}
+.example-box, .example {
+    background: #f0f8ff;
+    border-left: 4px solid #2e86de;
+    padding: 12px 20px;
+    margin: 16px 0;
+    border-radius: 6px;
+}
+.tryit-box, .tryit {
+    background: #f0fff4;
+    border-left: 4px solid #27ae60;
+    padding: 12px 20px;
+    margin: 16px 0;
+    border-radius: 6px;
+}
+.solution-box, .solution {
+    background: #fef9e7;
+    border-left: 4px solid #f39c12;
+    padding: 12px 20px;
+    margin: 12px 0;
+    border-radius: 6px;
+}
+.check-box, .check {
+    background: #fef9e7;
+    border-left: 4px solid #f39c12;
+    padding: 12px 20px;
+    margin: 12px 0;
+    border-radius: 6px;
+}
+.prep-quiz {
+    background: #fff3cd;
+    border: 1px solid #ffc107;
+    padding: 12px 20px;
+    margin: 16px 0;
+    border-radius: 6px;
+}
+.def-label, .definition-label {
+    font-weight: bold;
+    font-size: 1.1em;
+    margin: 20px 0 8px 0;
+    color: #2c3e50;
+    display: block;
+}
+.math-display sup, .math-inline sup { font-size: 0.75em; line-height: 0; }
+.math-display sub, .math-inline sub { font-size: 0.75em; line-height: 0; }
+</style>
+
+
+---
+
 ## Key Concepts
+
 
 - *Determine whether a number is a solution to an equation.*
   - Substitute the number for the variable in the equation.
@@ -8,19 +78,21 @@
 - *Addition, Subtraction, and Division Properties of Equality*
   - For any numbers a, b, and c,
 
-if \(a=b\), then \(a+c=b+c\). Addition Property of Equality
+if <span class="math-inline">a=b</span>, then <span class="math-inline">a+c=b+c</span>. Addition Property of Equality
 
   -
-if \(a=b\), then \(a-c=b-c\). Subtraction Property of Equality
+if <span class="math-inline">a=b</span>, then <span class="math-inline">a-c=b-c</span>. Subtraction Property of Equality
 
   -
-if \(a=b\), then \(\frac{a}{c}=\frac{b}{c}\), \(c\ne 0\). Division Property of Equality
+if <span class="math-inline">a=b</span>, then <span class="math-inline"><sup>a</sup>∕<sub>c</sub>=<sup>b</sup>∕<sub>c</sub></span>, <span class="math-inline">c≠ 0</span>. Division Property of Equality
 
 - *The Multiplication Property of Equality*
   -
-For any numbers \(ab\) and \(c,a=b\), then \(ac=bc\).
+For any numbers <span class="math-inline">ab</span> and <span class="math-inline">c,a=b</span>, then <span class="math-inline">ac=bc</span>.
   - If you multiply both sides of an equation by the same quantity, you still have equality.
 
+
+---
 
 ## Section Exercises
 
@@ -32,18 +104,18 @@ For any numbers \(ab\) and \(c,a=b\), then \(ac=bc\).
 In the following exercises, determine whether each number is a solution of the given equation.
 
 
-\(x-\frac{2}{5}=\frac{1}{10}\):
+<span class="math-inline">x-<sup>2</sup>∕<sub>5</sub>=<sup>1</sup>∕<sub>10</sub></span>:
 
-  - ⓐ \(x=1\)
-  - ⓑ \(x=\frac{1}{2}\)
-  - ⓒ \(x=-\frac{1}{2}\)
+  - ⓐ <span class="math-inline">x=1</span>
+  - ⓑ <span class="math-inline">x=<sup>1</sup>∕<sub>2</sub></span>
+  - ⓒ <span class="math-inline">x=-<sup>1</sup>∕<sub>2</sub></span>
 
 
-\(y-\frac{1}{3}=\frac{5}{12}\):
+<span class="math-inline">y-<sup>1</sup>∕<sub>3</sub>=<sup>5</sup>∕<sub>12</sub></span>:
 
-  - ⓐ \(y=1\)
-  - ⓑ \(y=\frac{3}{4}\)
-  - ⓒ \(y=-\frac{3}{4}\)
+  - ⓐ <span class="math-inline">y=1</span>
+  - ⓑ <span class="math-inline">y=<sup>3</sup>∕<sub>4</sub></span>
+  - ⓒ <span class="math-inline">y=-<sup>3</sup>∕<sub>4</sub></span>
 
 
   - ⓐ no
@@ -51,18 +123,18 @@ In the following exercises, determine whether each number is a solution of the g
   - ⓒ no
 
 
-\(h+\frac{3}{4}=\frac{2}{5}\):
+<span class="math-inline">h+<sup>3</sup>∕<sub>4</sub>=<sup>2</sup>∕<sub>5</sub></span>:
 
-  - ⓐ \(h=1\)
-  - ⓑ \(h=\frac{7}{20}\)
-  - ⓒ \(h=-\frac{7}{20}\)
+  - ⓐ <span class="math-inline">h=1</span>
+  - ⓑ <span class="math-inline">h=<sup>7</sup>∕<sub>20</sub></span>
+  - ⓒ <span class="math-inline">h=-<sup>7</sup>∕<sub>20</sub></span>
 
 
-\(k+\frac{2}{5}=\frac{5}{6}\):
+<span class="math-inline">k+<sup>2</sup>∕<sub>5</sub>=<sup>5</sup>∕<sub>6</sub></span>:
 
-  - ⓐ \(k=1\)
-  - ⓑ \(k=\frac{13}{30}\)
-  - ⓒ \(k=-\frac{13}{30}\)
+  - ⓐ <span class="math-inline">k=1</span>
+  - ⓑ <span class="math-inline">k=<sup>13</sup>∕<sub>30</sub></span>
+  - ⓒ <span class="math-inline">k=-<sup>13</sup>∕<sub>30</sub></span>
 
 
   - ⓐ no
@@ -74,76 +146,76 @@ In the following exercises, determine whether each number is a solution of the g
 In the following exercises, solve.
 
 
-\(y+\frac{1}{3}=\frac{4}{3}\)
+<span class="math-inline">y+<sup>1</sup>∕<sub>3</sub>=<sup>4</sup>∕<sub>3</sub></span>
 
 
-\(m+\frac{3}{8}=\frac{7}{8}\)
+<span class="math-inline">m+<sup>3</sup>∕<sub>8</sub>=<sup>7</sup>∕<sub>8</sub></span>
 
 
-\(m=\frac{1}{2}\)
+<span class="math-inline">m=<sup>1</sup>∕<sub>2</sub></span>
 
 
-\(f+\frac{9}{10}=\frac{2}{5}\)
+<span class="math-inline">f+<sup>9</sup>∕<sub>10</sub>=<sup>2</sup>∕<sub>5</sub></span>
 
 
-\(h+\frac{5}{6}=\frac{1}{6}\)
+<span class="math-inline">h+<sup>5</sup>∕<sub>6</sub>=<sup>1</sup>∕<sub>6</sub></span>
 
 
-\(h=-\frac{2}{3}\)
+<span class="math-inline">h=-<sup>2</sup>∕<sub>3</sub></span>
 
 
-\(a-\frac{5}{8}=-\frac{7}{8}\)
+<span class="math-inline">a-<sup>5</sup>∕<sub>8</sub>=-<sup>7</sup>∕<sub>8</sub></span>
 
 
-\(c-\frac{1}{4}=-\frac{5}{4}\)
+<span class="math-inline">c-<sup>1</sup>∕<sub>4</sub>=-<sup>5</sup>∕<sub>4</sub></span>
 
 
 *c* = −1
 
 
-\(x-(-\frac{3}{20})=-\frac{11}{20}\)
+<span class="math-inline">x-(-<sup>3</sup>∕<sub>20</sub>)=-<sup>11</sup>∕<sub>20</sub></span>
 
 
-\(z-(-\frac{5}{12})=-\frac{7}{12}\)
+<span class="math-inline">z-(-<sup>5</sup>∕<sub>12</sub>)=-<sup>7</sup>∕<sub>12</sub></span>
 
 
 *z* = −1
 
 
-\(n-\frac{1}{6}=\frac{3}{4}\)
+<span class="math-inline">n-<sup>1</sup>∕<sub>6</sub>=<sup>3</sup>∕<sub>4</sub></span>
 
 
-\(p-\frac{3}{10}=\frac{5}{8}\)
+<span class="math-inline">p-<sup>3</sup>∕<sub>10</sub>=<sup>5</sup>∕<sub>8</sub></span>
 
 
-\(p=\frac{37}{40}\)
+<span class="math-inline">p=<sup>37</sup>∕<sub>40</sub></span>
 
 
-\(s+(-\frac{1}{2})=-\frac{8}{9}\)
+<span class="math-inline">s+(-<sup>1</sup>∕<sub>2</sub>)=-<sup>8</sup>∕<sub>9</sub></span>
 
 
-\(k+(-\frac{1}{3})=-\frac{4}{5}\)
+<span class="math-inline">k+(-<sup>1</sup>∕<sub>3</sub>)=-<sup>4</sup>∕<sub>5</sub></span>
 
 
-\(k=-\frac{7}{15}\)
+<span class="math-inline">k=-<sup>7</sup>∕<sub>15</sub></span>
 
 
-\(5j=17\)
+<span class="math-inline">5j=17</span>
 
 
-\(7k=18\)
+<span class="math-inline">7k=18</span>
 
 
-\(k=\frac{18}{7}\)
+<span class="math-inline">k=<sup>18</sup>∕<sub>7</sub></span>
 
 
-\(−4w=26\)
+<span class="math-inline">−4w=26</span>
 
 
-\(−9v=33\)
+<span class="math-inline">−9v=33</span>
 
 
-\(v=-\frac{11}{3}\)
+<span class="math-inline">v=-<sup>11</sup>∕<sub>3</sub></span>
 
 
 *Solve Equations with Fractions Using the Multiplication Property of Equality*
@@ -151,91 +223,91 @@ In the following exercises, solve.
 In the following exercises, solve.
 
 
-\(\frac{f}{4}=−20\)
+<span class="math-inline"><sup>f</sup>∕<sub>4</sub>=−20</span>
 
 
-\(\frac{b}{3}=−9\)
+<span class="math-inline"><sup>b</sup>∕<sub>3</sub>=−9</span>
 
 
 *b* = −27
 
 
-\(\frac{y}{7}=−21\)
+<span class="math-inline"><sup>y</sup>∕<sub>7</sub>=−21</span>
 
 
-\(\frac{x}{8}=−32\)
+<span class="math-inline"><sup>x</sup>∕<sub>8</sub>=−32</span>
 
 
 *x* = −256
 
 
-\(\frac{p}{−5}=−40\)
+<span class="math-inline"><sup>p</sup>∕<sub>−5</sub>=−40</span>
 
 
-\(\frac{q}{−4}=−40\)
+<span class="math-inline"><sup>q</sup>∕<sub>−4</sub>=−40</span>
 
 
 *q* = 160
 
 
-\(\frac{r}{−12}=−6\)
+<span class="math-inline"><sup>r</sup>∕<sub>−12</sub>=−6</span>
 
 
-\(\frac{s}{−15}=−3\)
+<span class="math-inline"><sup>s</sup>∕<sub>−15</sub>=−3</span>
 
 
 *s* = 45
 
 
-\(-x=23\)
+<span class="math-inline">-x=23</span>
 
 
-\(-y=42\)
+<span class="math-inline">-y=42</span>
 
 
 *y* = −42
 
 
-\(-h=-\frac{5}{12}\)
+<span class="math-inline">-h=-<sup>5</sup>∕<sub>12</sub></span>
 
 
-\(-k=-\frac{17}{20}\)
+<span class="math-inline">-k=-<sup>17</sup>∕<sub>20</sub></span>
 
 
-\(k=\frac{17}{20}\)
+<span class="math-inline">k=<sup>17</sup>∕<sub>20</sub></span>
 
 
-\(\frac{4}{5}n=20\)
+<span class="math-inline"><sup>4</sup>∕<sub>5</sub>n=20</span>
 
 
-\(\frac{3}{10}p=30\)
+<span class="math-inline"><sup>3</sup>∕<sub>10</sub>p=30</span>
 
 
 *p* = 100
 
 
-\(\frac{3}{8}q=−48\)
+<span class="math-inline"><sup>3</sup>∕<sub>8</sub>q=−48</span>
 
 
-\(\frac{5}{2}m=−40\)
+<span class="math-inline"><sup>5</sup>∕<sub>2</sub>m=−40</span>
 
 
 *m* = −16
 
 
-\(-\frac{2}{9}a=16\)
+<span class="math-inline">-<sup>2</sup>∕<sub>9</sub>a=16</span>
 
 
-\(-\frac{3}{7}b=9\)
+<span class="math-inline">-<sup>3</sup>∕<sub>7</sub>b=9</span>
 
 
 *b* = −21
 
 
-\(-\frac{6}{11}u=−24\)
+<span class="math-inline">-<sup>6</sup>∕<sub>11</sub>u=−24</span>
 
 
-\(-\frac{5}{12}v=−15\)
+<span class="math-inline">-<sup>5</sup>∕<sub>12</sub>v=−15</span>
 
 
 *v* = 36
@@ -246,58 +318,58 @@ In the following exercises, solve.
 In the following exercises, solve.
 
 
-\(3x=0\)
+<span class="math-inline">3x=0</span>
 
 
-\(8y=0\)
+<span class="math-inline">8y=0</span>
 
 
 *y* = 0
 
 
-\(4f=\frac{4}{5}\)
+<span class="math-inline">4f=<sup>4</sup>∕<sub>5</sub></span>
 
 
-\(7g=\frac{7}{9}\)
+<span class="math-inline">7g=<sup>7</sup>∕<sub>9</sub></span>
 
 
-\(g=\frac{1}{9}\)
+<span class="math-inline">g=<sup>1</sup>∕<sub>9</sub></span>
 
 
-\(p+\frac{2}{3}=\frac{1}{12}\)
+<span class="math-inline">p+<sup>2</sup>∕<sub>3</sub>=<sup>1</sup>∕<sub>12</sub></span>
 
 
-\(q+\frac{5}{6}=\frac{1}{12}\)
+<span class="math-inline">q+<sup>5</sup>∕<sub>6</sub>=<sup>1</sup>∕<sub>12</sub></span>
 
 
-\(q=-\frac{3}{4}\)
+<span class="math-inline">q=-<sup>3</sup>∕<sub>4</sub></span>
 
 
-\(\frac{7}{8}m=\frac{1}{10}\)
+<span class="math-inline"><sup>7</sup>∕<sub>8</sub>m=<sup>1</sup>∕<sub>10</sub></span>
 
 
-\(\frac{1}{4}n=\frac{7}{10}\)
+<span class="math-inline"><sup>1</sup>∕<sub>4</sub>n=<sup>7</sup>∕<sub>10</sub></span>
 
 
-\(n=\frac{14}{5}\)
+<span class="math-inline">n=<sup>14</sup>∕<sub>5</sub></span>
 
 
-\(-\frac{2}{5}=x+\frac{3}{4}\)
+<span class="math-inline">-<sup>2</sup>∕<sub>5</sub>=x+<sup>3</sup>∕<sub>4</sub></span>
 
 
-\(-\frac{2}{3}=y+\frac{3}{8}\)
+<span class="math-inline">-<sup>2</sup>∕<sub>3</sub>=y+<sup>3</sup>∕<sub>8</sub></span>
 
 
-\(y=-\frac{25}{24}\)
+<span class="math-inline">y=-<sup>25</sup>∕<sub>24</sub></span>
 
 
-\(\frac{11}{20}=-f\)
+<span class="math-inline"><sup>11</sup>∕<sub>20</sub>=-f</span>
 
 
-\(\frac{8}{15}=-d\)
+<span class="math-inline"><sup>8</sup>∕<sub>15</sub>=-d</span>
 
 
-\(d=-\frac{8}{15}\)
+<span class="math-inline">d=-<sup>8</sup>∕<sub>15</sub></span>
 
 
 *Translate Sentences to Equations and Solve*
@@ -305,103 +377,103 @@ In the following exercises, solve.
 In the following exercises, translate to an algebraic equation and solve.
 
 
-\(n\) divided by eight is \(−16.\)
+<span class="math-inline">n</span> divided by eight is <span class="math-inline">−16.</span>
 
 
-\(n\) divided by six is \(−24.\)
+<span class="math-inline">n</span> divided by six is <span class="math-inline">−24.</span>
 
 
-\(\frac{n}{6}=−24;n=−144\)
+<span class="math-inline"><sup>n</sup>∕<sub>6</sub>=−24;n=−144</span>
 
 
-\(m\) divided by \(−9\) is \(−7.\)
+<span class="math-inline">m</span> divided by <span class="math-inline">−9</span> is <span class="math-inline">−7.</span>
 
 
-\(m\) divided by \(−7\) is \(−8.\)
+<span class="math-inline">m</span> divided by <span class="math-inline">−7</span> is <span class="math-inline">−8.</span>
 
 
-\(\frac{m}{−7}=−8;m=56\)
+<span class="math-inline"><sup>m</sup>∕<sub>−7</sub>=−8;m=56</span>
 
 
-The quotient of \(f\) and \(−3\) is \(−18.\)
+The quotient of <span class="math-inline">f</span> and <span class="math-inline">−3</span> is <span class="math-inline">−18.</span>
 
 
-The quotient of \(f\) and \(−4\) is \(−20.\)
+The quotient of <span class="math-inline">f</span> and <span class="math-inline">−4</span> is <span class="math-inline">−20.</span>
 
 
-\(\frac{f}{−4}=−20;f=80\)
+<span class="math-inline"><sup>f</sup>∕<sub>−4</sub>=−20;f=80</span>
 
 
-The quotient of \(g\) and twelve is \(8.\)
+The quotient of <span class="math-inline">g</span> and twelve is <span class="math-inline">8.</span>
 
 
-The quotient of \(g\) and nine is \(14.\)
+The quotient of <span class="math-inline">g</span> and nine is <span class="math-inline">14.</span>
 
 
-\(\frac{g}{9}=14;g=126\)
+<span class="math-inline"><sup>g</sup>∕<sub>9</sub>=14;g=126</span>
 
 
-Three-fourths of \(q\) is \(12.\)
+Three-fourths of <span class="math-inline">q</span> is <span class="math-inline">12.</span>
 
 
-Two-fifths of \(q\) is \(20.\)
+Two-fifths of <span class="math-inline">q</span> is <span class="math-inline">20.</span>
 
 
-\(\frac{2}{5}q=20;q=50\)
+<span class="math-inline"><sup>2</sup>∕<sub>5</sub>q=20;q=50</span>
 
 
-Seven-tenths of \(p\) is \(−63.\)
+Seven-tenths of <span class="math-inline">p</span> is <span class="math-inline">−63.</span>
 
 
-Four-ninths of \(p\) is \(−28.\)
+Four-ninths of <span class="math-inline">p</span> is <span class="math-inline">−28.</span>
 
 
-\(\frac{4}{9}p=−28;p=−63\)
+<span class="math-inline"><sup>4</sup>∕<sub>9</sub>p=−28;p=−63</span>
 
 
-\(m\) divided by \(4\) equals negative \(6.\)
+<span class="math-inline">m</span> divided by <span class="math-inline">4</span> equals negative <span class="math-inline">6.</span>
 
 
-The quotient of \(h\) and \(2\) is \(43.\)
+The quotient of <span class="math-inline">h</span> and <span class="math-inline">2</span> is <span class="math-inline">43.</span>
 
 
-\(\frac{h}{2}=43;h=86\)
+<span class="math-inline"><sup>h</sup>∕<sub>2</sub>=43;h=86</span>
 
 
-Three-fourths of \(z\) is \(15.\)
+Three-fourths of <span class="math-inline">z</span> is <span class="math-inline">15.</span>
 
 
-The quotient of \(a\) and \(\frac{2}{3}\) is \(\frac{3}{4}.\)
+The quotient of <span class="math-inline">a</span> and <span class="math-inline"><sup>2</sup>∕<sub>3</sub></span> is <span class="math-inline"><sup>3</sup>∕<sub>4</sub>.</span>
 
 
-\(\frac{ a }{\frac{2}{3}}=\frac{3}{4}; a=\frac{1}{2}\)
+<span class="math-inline"><sup> a </sup>∕<sub>\frac{2</sub>{3}=<sup>3</sup>∕<sub>4</sub>; a=<sup>1</sup>∕<sub>2</sub></span>
 
 
-The sum of five-sixths and \(x\) is \(\frac{1}{2}.\)
+The sum of five-sixths and <span class="math-inline">x</span> is <span class="math-inline"><sup>1</sup>∕<sub>2</sub>.</span>
 
 
-The sum of three-fourths and \(x\) is \(\frac{1}{8}.\)
+The sum of three-fourths and <span class="math-inline">x</span> is <span class="math-inline"><sup>1</sup>∕<sub>8</sub>.</span>
 
 
-\(\frac{3}{4}+x=\frac{1}{8};x=-\frac{5}{8}\)
+<span class="math-inline"><sup>3</sup>∕<sub>4</sub>+x=<sup>1</sup>∕<sub>8</sub>;x=-<sup>5</sup>∕<sub>8</sub></span>
 
 
-The difference of \(y\) and one-fourth is \(-\frac{1}{8}.\)
+The difference of <span class="math-inline">y</span> and one-fourth is <span class="math-inline">-<sup>1</sup>∕<sub>8</sub>.</span>
 
 
-The difference of \(y\) and one-third is \(-\frac{1}{6}.\)
+The difference of <span class="math-inline">y</span> and one-third is <span class="math-inline">-<sup>1</sup>∕<sub>6</sub>.</span>
 
 
-\(y-\frac{1}{3}=-\frac{1}{6};y=\frac{1}{6}\)
+<span class="math-inline">y-<sup>1</sup>∕<sub>3</sub>=-<sup>1</sup>∕<sub>6</sub>;y=<sup>1</sup>∕<sub>6</sub></span>
 
 
 ### Everyday Math
 
 
-*Shopping* Teresa bought a pair of shoes on sale for \($48\). The sale price was \(\frac{2}{3}\) of the regular price. Find the regular price of the shoes by solving the equation \(\frac{2}{3}p=48\)
+*Shopping* Teresa bought a pair of shoes on sale for <span class="math-inline">$48</span>. The sale price was <span class="math-inline"><sup>2</sup>∕<sub>3</sub></span> of the regular price. Find the regular price of the shoes by solving the equation <span class="math-inline"><sup>2</sup>∕<sub>3</sub>p=48</span>
 
 
-*Playhouse* The table in a child’s playhouse is \(\frac{3}{5}\) of an adult-size table. The playhouse table is \(18\) inches high. Find the height of an adult-size table by solving the equation \(\frac{3}{5}h=18.\)
+*Playhouse* The table in a child’s playhouse is <span class="math-inline"><sup>3</sup>∕<sub>5</sub></span> of an adult-size table. The playhouse table is <span class="math-inline">18</span> inches high. Find the height of an adult-size table by solving the equation <span class="math-inline"><sup>3</sup>∕<sub>5</sub>h=18.</span>
 
 
 30 inches
@@ -410,10 +482,10 @@ The difference of \(y\) and one-third is \(-\frac{1}{6}.\)
 ### Writing Exercises
 
 
- describes three methods to solve the equation \(-y=15.\) Which method do you prefer? Why?
+ describes three methods to solve the equation <span class="math-inline">-y=15.</span> Which method do you prefer? Why?
 
 
-Richard thinks the solution to the equation \(\frac{3}{4}x=24\) is \(16.\) Explain why Richard is wrong.
+Richard thinks the solution to the equation <span class="math-inline"><sup>3</sup>∕<sub>4</sub>x=24</span> is <span class="math-inline">16.</span> Explain why Richard is wrong.
 
 
 Answers will vary.
@@ -427,48 +499,51 @@ Answers will vary.
 ⓑ Overall, after looking at the checklist, do you think you are well-prepared for the next Chapter? Why or why not?
 
 
+---
+
 ## Chapter Review Exercises
+
 
 In the following exercises, name the fraction of each figure that is shaded.
 
 
-\(\frac{5}{9}\)
+<span class="math-inline"><sup>5</sup>∕<sub>9</sub></span>
 
 
 In the following exercises, name the improper fractions. Then write each improper fraction as a mixed number.
 
 
-\(\frac{3}{2}=1\frac{1}{2}\)
+<span class="math-inline"><sup>3</sup>∕<sub>2</sub>=1<sup>1</sup>∕<sub>2</sub></span>
 
 
 In the following exercises, convert the improper fraction to a mixed number.
 
 
-\(\frac{58}{15}\)
+<span class="math-inline"><sup>58</sup>∕<sub>15</sub></span>
 
 
-\(\frac{63}{11}\)
+<span class="math-inline"><sup>63</sup>∕<sub>11</sub></span>
 
 
-\(5\frac{8}{11}\)
+<span class="math-inline">5<sup>8</sup>∕<sub>11</sub></span>
 
 
 In the following exercises, convert the mixed number to an improper fraction.
 
 
-\(12\frac{1}{4}\)
+<span class="math-inline">12<sup>1</sup>∕<sub>4</sub></span>
 
 
-\(9\frac{4}{5}\)
+<span class="math-inline">9<sup>4</sup>∕<sub>5</sub></span>
 
 
-\(\frac{49}{5}\)
+<span class="math-inline"><sup>49</sup>∕<sub>5</sub></span>
 
 
-Find three fractions equivalent to \(\frac{2}{5}.\) Show your work, using figures or algebra.
+Find three fractions equivalent to <span class="math-inline"><sup>2</sup>∕<sub>5</sub>.</span> Show your work, using figures or algebra.
 
 
-Find three fractions equivalent to \(-\frac{4}{3}.\) Show your work, using figures or algebra.
+Find three fractions equivalent to <span class="math-inline">-<sup>4</sup>∕<sub>3</sub>.</span> Show your work, using figures or algebra.
 
 
 Answers may vary.
@@ -477,19 +552,19 @@ Answers may vary.
 In the following exercises, locate the numbers on a number line.
 
 
-\(\frac{5}{8},\frac{4}{3},3\frac{3}{4},4\)
+<span class="math-inline"><sup>5</sup>∕<sub>8</sub>,<sup>4</sup>∕<sub>3</sub>,3<sup>3</sup>∕<sub>4</sub>,4</span>
 
 
-\(\frac{1}{4},-\frac{1}{4},1\frac{1}{3},−1\frac{1}{3},\frac{7}{2},-\frac{7}{2}\)
+<span class="math-inline"><sup>1</sup>∕<sub>4</sub>,-<sup>1</sup>∕<sub>4</sub>,1<sup>1</sup>∕<sub>3</sub>,−1<sup>1</sup>∕<sub>3</sub>,<sup>7</sup>∕<sub>2</sub>,-<sup>7</sup>∕<sub>2</sub></span>
 
 
-In the following exercises, order each pair of numbers, using \(<\) or \(>.\)
+In the following exercises, order each pair of numbers, using <span class="math-inline"><</span> or <span class="math-inline">>.</span>
 
 
-\(−1___-\frac{2}{5}\)
+<span class="math-inline">−1___-<sup>2</sup>∕<sub>5</sub></span>
 
 
-\(−2\frac{1}{2}___−3\)
+<span class="math-inline">−2<sup>1</sup>∕<sub>2</sub>___−3</span>
 
 
 >
@@ -498,49 +573,49 @@ In the following exercises, order each pair of numbers, using \(<\) or \(>.\)
 In the following exercises, simplify.
 
 
-\(-\frac{63}{84}\)
+<span class="math-inline">-<sup>63</sup>∕<sub>84</sub></span>
 
 
-\(-\frac{90}{120}\)
+<span class="math-inline">-<sup>90</sup>∕<sub>120</sub></span>
 
 
-\(-\frac{3}{4}\)
+<span class="math-inline">-<sup>3</sup>∕<sub>4</sub></span>
 
 
-\(-\frac{14a}{14b}\)
+<span class="math-inline">-<sup>14a</sup>∕<sub>14b</sub></span>
 
 
-\(-\frac{8x}{8y}\)
+<span class="math-inline">-<sup>8x</sup>∕<sub>8y</sub></span>
 
 
-\(-\frac{x}{y}\)
+<span class="math-inline">-<sup>x</sup>∕<sub>y</sub></span>
 
 
 In the following exercises, multiply.
 
 
-\(\frac{2}{5}\cdot \frac{8}{13}\)
+<span class="math-inline"><sup>2</sup>∕<sub>5</sub>· <sup>8</sup>∕<sub>13</sub></span>
 
 
-\(-\frac{1}{3}\cdot \frac{12}{7}\)
+<span class="math-inline">-<sup>1</sup>∕<sub>3</sub>· <sup>12</sup>∕<sub>7</sub></span>
 
 
-\(-\frac{4}{7}\)
+<span class="math-inline">-<sup>4</sup>∕<sub>7</sub></span>
 
 
-\(\frac{2}{9}\cdot (-\frac{45}{32})\)
+<span class="math-inline"><sup>2</sup>∕<sub>9</sub>· (-<sup>45</sup>∕<sub>32</sub>)</span>
 
 
-\(6m\cdot \frac{4}{11}\)
+<span class="math-inline">6m· <sup>4</sup>∕<sub>11</sub></span>
 
 
-\(\frac{24m}{11}\)
+<span class="math-inline"><sup>24m</sup>∕<sub>11</sub></span>
 
 
-\(-\frac{1}{4}(−32)\)
+<span class="math-inline">-<sup>1</sup>∕<sub>4</sub>(−32)</span>
 
 
-\(\frac{16}{5}\cdot \frac{15}{8}\)
+<span class="math-inline"><sup>16</sup>∕<sub>5</sub>· <sup>15</sup>∕<sub>8</sub></span>
 
 
 6
@@ -549,19 +624,19 @@ In the following exercises, multiply.
 In the following exercises, find the reciprocal.
 
 
-\(\frac{2}{9}\)
+<span class="math-inline"><sup>2</sup>∕<sub>9</sub></span>
 
 
-\(\frac{15}{4}\)
+<span class="math-inline"><sup>15</sup>∕<sub>4</sub></span>
 
 
-\(\frac{4}{15}\)
+<span class="math-inline"><sup>4</sup>∕<sub>15</sub></span>
 
 
-\(3\)
+<span class="math-inline">3</span>
 
 
-\(-\frac{1}{4}\)
+<span class="math-inline">-<sup>1</sup>∕<sub>4</sub></span>
 
 
 −4
@@ -575,61 +650,61 @@ Absolute Value
 Reciprocal
 
 
-\(-\frac{5}{13}\)
+<span class="math-inline">-<sup>5</sup>∕<sub>13</sub></span>
 
 
-\(\frac{3}{10}\)
+<span class="math-inline"><sup>3</sup>∕<sub>10</sub></span>
 
 
-\(\frac{9}{4}\)
+<span class="math-inline"><sup>9</sup>∕<sub>4</sub></span>
 
 
-\(−12\)
+<span class="math-inline">−12</span>
 
 
 In the following exercises, divide.
 
 
-\(\frac{2}{3}\div \frac{1}{6}\)
+<span class="math-inline"><sup>2</sup>∕<sub>3</sub>÷ <sup>1</sup>∕<sub>6</sub></span>
 
 
 4
 
 
-\((-\frac{3x}{5})\div (-\frac{2y}{3})\)
+<span class="math-inline">(-<sup>3x</sup>∕<sub>5</sub>)÷ (-<sup>2y</sup>∕<sub>3</sub>)</span>
 
 
-\(\frac{4}{5}\div 3\)
+<span class="math-inline"><sup>4</sup>∕<sub>5</sub>÷ 3</span>
 
 
-\(\frac{4}{15}\)
+<span class="math-inline"><sup>4</sup>∕<sub>15</sub></span>
 
 
-\(8\div \frac{8}{3}\)
+<span class="math-inline">8÷ <sup>8</sup>∕<sub>3</sub></span>
 
 
-\(\frac{5}{18}\div (-\frac{b}{9})\)
+<span class="math-inline"><sup>5</sup>∕<sub>18</sub>÷ (-<sup>b</sup>∕<sub>9</sub>)</span>
 
 
-\(-\frac{5}{2b}\)
+<span class="math-inline">-<sup>5</sup>∕<sub>2b</sub></span>
 
 
 In the following exercises, perform the indicated operation.
 
 
-\(3\frac{1}{5}\cdot 1\frac{7}{8}\)
+<span class="math-inline">3<sup>1</sup>∕<sub>5</sub>· 1<sup>7</sup>∕<sub>8</sub></span>
 
 
-\(−5\frac{7}{12}\cdot 4\frac{4}{11}\)
+<span class="math-inline">−5<sup>7</sup>∕<sub>12</sub>· 4<sup>4</sup>∕<sub>11</sub></span>
 
 
-\(-\frac{268}{11}\)
+<span class="math-inline">-<sup>268</sup>∕<sub>11</sub></span>
 
 
-\(8\div 2\frac{2}{3}\)
+<span class="math-inline">8÷ 2<sup>2</sup>∕<sub>3</sub></span>
 
 
-\(8\frac{2}{3}\div 1\frac{1}{12}\)
+<span class="math-inline">8<sup>2</sup>∕<sub>3</sub>÷ 1<sup>1</sup>∕<sub>12</sub></span>
 
 
 8
@@ -638,31 +713,31 @@ In the following exercises, perform the indicated operation.
 In the following exercises, translate the English phrase into an algebraic expression.
 
 
-the quotient of \(8\) and \(y\)
+the quotient of <span class="math-inline">8</span> and <span class="math-inline">y</span>
 
 
-the quotient of \(V\) and the difference of \(h\) and \(6\)
+the quotient of <span class="math-inline">V</span> and the difference of <span class="math-inline">h</span> and <span class="math-inline">6</span>
 
 
-\(\frac{V}{h-6}\)
+<span class="math-inline"><sup>V</sup>∕<sub>h-6</sub></span>
 
 
 In the following exercises, simplify the complex fraction
 
 
-\(\frac{ \frac{5}{8} }{ \frac{4}{5} }\)
+<span class="math-inline"><sup> \frac{5</sup>∕<sub>8</sub>  <sup>4</sup>∕<sub>5</sub></span>
 
 
-\(\frac{\frac{8}{9}}{−4}\)
+<span class="math-inline"><sup>\frac{8</sup>∕<sub>9</sub>−4}</span>
 
 
-\(-\frac{2}{9}\)
+<span class="math-inline">-<sup>2</sup>∕<sub>9</sub></span>
 
 
-\(\frac{ \frac{n}{4} }{ \frac{3}{8} }\)
+<span class="math-inline"><sup> \frac{n</sup>∕<sub>4</sub>  <sup>3</sup>∕<sub>8</sub></span>
 
 
-\(\frac{−1\frac{5}{6}}{-\frac{1}{12}}\)
+<span class="math-inline"><sup>−1\frac{5</sup>∕<sub>6</sub>-<sup>1</sup>∕<sub>12</sub></span>
 
 
 22
@@ -671,91 +746,91 @@ In the following exercises, simplify the complex fraction
 In the following exercises, simplify.
 
 
-\(\frac{5+16}{5}\)
+<span class="math-inline"><sup>5+16</sup>∕<sub>5</sub></span>
 
 
-\(\frac{8\cdot 4-5^2}{3\cdot 12}\)
+<span class="math-inline"><sup>8· 4-5<sup>2</sup></sup>∕<sub>3· 12</sub></span>
 
 
-\(\frac{7}{36}\)
+<span class="math-inline"><sup>7</sup>∕<sub>36</sub></span>
 
 
-\(\frac{8\cdot 7+5(8-10)}{9\cdot 3-6\cdot 4}\)
+<span class="math-inline"><sup>8· 7+5(8-10)</sup>∕<sub>9· 3-6· 4</sub></span>
 
 
 In the following exercises, add.
 
 
-\(\frac{3}{8}+\frac{2}{8}\)
+<span class="math-inline"><sup>3</sup>∕<sub>8</sub>+<sup>2</sup>∕<sub>8</sub></span>
 
 
-\(\frac{5}{8}\)
+<span class="math-inline"><sup>5</sup>∕<sub>8</sub></span>
 
 
-\(\frac{4}{5}+\frac{1}{5}\)
+<span class="math-inline"><sup>4</sup>∕<sub>5</sub>+<sup>1</sup>∕<sub>5</sub></span>
 
 
-\(\frac{2}{5}+\frac{1}{5}\)
+<span class="math-inline"><sup>2</sup>∕<sub>5</sub>+<sup>1</sup>∕<sub>5</sub></span>
 
 
-\(\frac{3}{5}\)
+<span class="math-inline"><sup>3</sup>∕<sub>5</sub></span>
 
 
-\(\frac{15}{32}+\frac{9}{32}\)
+<span class="math-inline"><sup>15</sup>∕<sub>32</sub>+<sup>9</sup>∕<sub>32</sub></span>
 
 
-\(\frac{x}{10}+\frac{7}{10}\)
+<span class="math-inline"><sup>x</sup>∕<sub>10</sub>+<sup>7</sup>∕<sub>10</sub></span>
 
 
-\(\frac{x+7}{10}\)
+<span class="math-inline"><sup>x+7</sup>∕<sub>10</sub></span>
 
 
 In the following exercises, subtract.
 
 
-\(\frac{8}{11}-\frac{6}{11}\)
+<span class="math-inline"><sup>8</sup>∕<sub>11</sub>-<sup>6</sup>∕<sub>11</sub></span>
 
 
-\(\frac{11}{12}-\frac{5}{12}\)
+<span class="math-inline"><sup>11</sup>∕<sub>12</sub>-<sup>5</sup>∕<sub>12</sub></span>
 
 
-\(\frac{1}{2}\)
+<span class="math-inline"><sup>1</sup>∕<sub>2</sub></span>
 
 
-\(\frac{4}{5}-\frac{y}{5}\)
+<span class="math-inline"><sup>4</sup>∕<sub>5</sub>-<sup>y</sup>∕<sub>5</sub></span>
 
 
-\(-\frac{31}{30}-\frac{7}{30}\)
+<span class="math-inline">-<sup>31</sup>∕<sub>30</sub>-<sup>7</sup>∕<sub>30</sub></span>
 
 
-\(-\frac{19}{15}\)
+<span class="math-inline">-<sup>19</sup>∕<sub>15</sub></span>
 
 
-\(\frac{3}{2}-(\frac{3}{2})\)
+<span class="math-inline"><sup>3</sup>∕<sub>2</sub>-(<sup>3</sup>∕<sub>2</sub>)</span>
 
 
-\(\frac{11}{15}-\frac{5}{15}-(-\frac{2}{15})\)
+<span class="math-inline"><sup>11</sup>∕<sub>15</sub>-<sup>5</sup>∕<sub>15</sub>-(-<sup>2</sup>∕<sub>15</sub>)</span>
 
 
-\(\frac{8}{15}\)
+<span class="math-inline"><sup>8</sup>∕<sub>15</sub></span>
 
 
 In the following exercises, find the least common denominator.
 
 
-\(\frac{1}{3}\) and \(\frac{1}{12}\)
+<span class="math-inline"><sup>1</sup>∕<sub>3</sub></span> and <span class="math-inline"><sup>1</sup>∕<sub>12</sub></span>
 
 
-\(\frac{1}{3}\) and \(\frac{4}{5}\)
+<span class="math-inline"><sup>1</sup>∕<sub>3</sub></span> and <span class="math-inline"><sup>4</sup>∕<sub>5</sub></span>
 
 
 15
 
 
-\(\frac{8}{15}\) and \(\frac{11}{20}\)
+<span class="math-inline"><sup>8</sup>∕<sub>15</sub></span> and <span class="math-inline"><sup>11</sup>∕<sub>20</sub></span>
 
 
-\(\frac{3}{4},\frac{1}{6},\)and\(\frac{5}{10}\)
+<span class="math-inline"><sup>3</sup>∕<sub>4</sub>,<sup>1</sup>∕<sub>6</sub>,</span>and<span class="math-inline"><sup>5</sup>∕<sub>10</sub></span>
 
 
 60
@@ -764,138 +839,138 @@ In the following exercises, find the least common denominator.
 In the following exercises, change to equivalent fractions using the given LCD.
 
 
-\(\frac{1}{3}\) and \(\frac{1}{5},\) LCD \(=15\)
+<span class="math-inline"><sup>1</sup>∕<sub>3</sub></span> and <span class="math-inline"><sup>1</sup>∕<sub>5</sub>,</span> LCD <span class="math-inline">=15</span>
 
 
-\(\frac{3}{8}\) and \(\frac{5}{6},\) LCD \(=24\)
+<span class="math-inline"><sup>3</sup>∕<sub>8</sub></span> and <span class="math-inline"><sup>5</sup>∕<sub>6</sub>,</span> LCD <span class="math-inline">=24</span>
 
 
-\(\frac{9}{24}\) and \(\frac{20}{24}\)
+<span class="math-inline"><sup>9</sup>∕<sub>24</sub></span> and <span class="math-inline"><sup>20</sup>∕<sub>24</sub></span>
 
 
-\(-\frac{9}{16}\) and \(\frac{5}{12},\) LCD \(=48\)
+<span class="math-inline">-<sup>9</sup>∕<sub>16</sub></span> and <span class="math-inline"><sup>5</sup>∕<sub>12</sub>,</span> LCD <span class="math-inline">=48</span>
 
 
-\(\frac{1}{3},\frac{3}{4}\) and \(\frac{4}{5},\) LCD \(=60\)
+<span class="math-inline"><sup>1</sup>∕<sub>3</sub>,<sup>3</sup>∕<sub>4</sub></span> and <span class="math-inline"><sup>4</sup>∕<sub>5</sub>,</span> LCD <span class="math-inline">=60</span>
 
 
-\(\frac{20}{60},\frac{45}{60}\) and \(\frac{48}{60}\)
+<span class="math-inline"><sup>20</sup>∕<sub>60</sub>,<sup>45</sup>∕<sub>60</sub></span> and <span class="math-inline"><sup>48</sup>∕<sub>60</sub></span>
 
 
 In the following exercises, perform the indicated operations and simplify.
 
 
-\(\frac{1}{5}+\frac{2}{3}\)
+<span class="math-inline"><sup>1</sup>∕<sub>5</sub>+<sup>2</sup>∕<sub>3</sub></span>
 
 
-\(\frac{11}{12}-\frac{2}{3}\)
+<span class="math-inline"><sup>11</sup>∕<sub>12</sub>-<sup>2</sup>∕<sub>3</sub></span>
 
 
-\(\frac{1}{4}\)
+<span class="math-inline"><sup>1</sup>∕<sub>4</sub></span>
 
 
-\(-\frac{9}{10}-\frac{3}{4}\)
+<span class="math-inline">-<sup>9</sup>∕<sub>10</sub>-<sup>3</sup>∕<sub>4</sub></span>
 
 
-\(-\frac{11}{36}-\frac{11}{20}\)
+<span class="math-inline">-<sup>11</sup>∕<sub>36</sub>-<sup>11</sup>∕<sub>20</sub></span>
 
 
-\(-\frac{77}{90}\)
+<span class="math-inline">-<sup>77</sup>∕<sub>90</sub></span>
 
 
-\(-\frac{22}{25}+\frac{9}{40}\)
+<span class="math-inline">-<sup>22</sup>∕<sub>25</sub>+<sup>9</sup>∕<sub>40</sub></span>
 
 
-\(\frac{y}{10}-\frac{1}{3}\)
+<span class="math-inline"><sup>y</sup>∕<sub>10</sub>-<sup>1</sup>∕<sub>3</sub></span>
 
 
-\(\frac{3y-10}{30}\)
+<span class="math-inline"><sup>3y-10</sup>∕<sub>30</sub></span>
 
 
-\(\frac{2}{5}+(-\frac{5}{9})\)
+<span class="math-inline"><sup>2</sup>∕<sub>5</sub>+(-<sup>5</sup>∕<sub>9</sub>)</span>
 
 
-\(\frac{4}{11}\div \frac{2}{7d}\)
+<span class="math-inline"><sup>4</sup>∕<sub>11</sub>÷ <sup>2</sup>∕<sub>7d</sub></span>
 
 
-\(\frac{14d}{11}\)
+<span class="math-inline"><sup>14d</sup>∕<sub>11</sub></span>
 
 
-\(\frac{2}{5}+(-\frac{3n}{8})(-\frac{2}{9n})\)
+<span class="math-inline"><sup>2</sup>∕<sub>5</sub>+(-<sup>3n</sup>∕<sub>8</sub>)(-<sup>2</sup>∕<sub>9n</sub>)</span>
 
 
-\(\frac{(\frac{2}{3})^2}{(\frac{5}{8})^2}\)
+<span class="math-inline"><sup>(\frac{2</sup>∕<sub>3</sub>)<sup>2</sup>(<sup>5</sup>∕<sub>8</sub>)<sup>2</sup></span>
 
 
-\(\frac{256}{225}\)
+<span class="math-inline"><sup>256</sup>∕<sub>225</sub></span>
 
 
-\((\frac{11}{12}+\frac{3}{8})\div (\frac{5}{6}-\frac{1}{10})\)
+<span class="math-inline">(<sup>11</sup>∕<sub>12</sub>+<sup>3</sup>∕<sub>8</sub>)÷ (<sup>5</sup>∕<sub>6</sub>-<sup>1</sup>∕<sub>10</sub>)</span>
 
 
 In the following exercises, evaluate.
 
 
-\(y-\frac{4}{5}\) when
+<span class="math-inline">y-<sup>4</sup>∕<sub>5</sub></span> when
 
-  - ⓐ \(y=-\frac{4}{5}\)
-  - ⓑ \(y=\frac{1}{4}\)
-
-
-  - ⓐ \(-\frac{8}{5}\)
-  - ⓑ \(-\frac{11}{20}\)
+  - ⓐ <span class="math-inline">y=-<sup>4</sup>∕<sub>5</sub></span>
+  - ⓑ <span class="math-inline">y=<sup>1</sup>∕<sub>4</sub></span>
 
 
-\(6mn^2\) when \(m=\frac{3}{4}\) and \(n=-\frac{1}{3}\)
+  - ⓐ <span class="math-inline">-<sup>8</sup>∕<sub>5</sub></span>
+  - ⓑ <span class="math-inline">-<sup>11</sup>∕<sub>20</sub></span>
+
+
+<span class="math-inline">6mn<sup>2</sup></span> when <span class="math-inline">m=<sup>3</sup>∕<sub>4</sub></span> and <span class="math-inline">n=-<sup>1</sup>∕<sub>3</sub></span>
 
 
 In the following exercises, perform the indicated operation.
 
 
-\(4\frac{1}{3}+9\frac{1}{3}\)
+<span class="math-inline">4<sup>1</sup>∕<sub>3</sub>+9<sup>1</sup>∕<sub>3</sub></span>
 
 
-\(13\frac{2}{3}\)
+<span class="math-inline">13<sup>2</sup>∕<sub>3</sub></span>
 
 
-\(6\frac{2}{5}+7\frac{3}{5}\)
+<span class="math-inline">6<sup>2</sup>∕<sub>5</sub>+7<sup>3</sup>∕<sub>5</sub></span>
 
 
-\(5\frac{8}{11}+2\frac{4}{11}\)
+<span class="math-inline">5<sup>8</sup>∕<sub>11</sub>+2<sup>4</sup>∕<sub>11</sub></span>
 
 
-\(8\frac{1}{11}\)
+<span class="math-inline">8<sup>1</sup>∕<sub>11</sub></span>
 
 
-\(3\frac{5}{8}+3\frac{7}{8}\)
+<span class="math-inline">3<sup>5</sup>∕<sub>8</sub>+3<sup>7</sup>∕<sub>8</sub></span>
 
 
-\(9\frac{13}{20}-4\frac{11}{20}\)
+<span class="math-inline">9<sup>13</sup>∕<sub>20</sub>-4<sup>11</sup>∕<sub>20</sub></span>
 
 
-\(5\frac{1}{10}\)
+<span class="math-inline">5<sup>1</sup>∕<sub>10</sub></span>
 
 
-\(2\frac{3}{10}-1\frac{9}{10}\)
+<span class="math-inline">2<sup>3</sup>∕<sub>10</sub>-1<sup>9</sup>∕<sub>10</sub></span>
 
 
-\(2\frac{11}{12}-1\frac{7}{12}\)
+<span class="math-inline">2<sup>11</sup>∕<sub>12</sub>-1<sup>7</sup>∕<sub>12</sub></span>
 
 
-\(1\frac{1}{3}\)
+<span class="math-inline">1<sup>1</sup>∕<sub>3</sub></span>
 
 
-\(8\frac{6}{11}-2\frac{9}{11}\)
+<span class="math-inline">8<sup>6</sup>∕<sub>11</sub>-2<sup>9</sup>∕<sub>11</sub></span>
 
 
 In the following exercises, determine whether the each number is a solution of the given equation.
 
 
-\(x-\frac{1}{2}=\frac{1}{6}\):
+<span class="math-inline">x-<sup>1</sup>∕<sub>2</sub>=<sup>1</sup>∕<sub>6</sub></span>:
 
-  - ⓐ \(x=1\)
-  - ⓑ \(x=\frac{2}{3}\)
-  - ⓒ \(x=-\frac{1}{3}\)
+  - ⓐ <span class="math-inline">x=1</span>
+  - ⓑ <span class="math-inline">x=<sup>2</sup>∕<sub>3</sub></span>
+  - ⓒ <span class="math-inline">x=-<sup>1</sup>∕<sub>3</sub></span>
 
 
   - ⓐ no
@@ -903,34 +978,34 @@ In the following exercises, determine whether the each number is a solution of t
   - ⓒ no
 
 
-\(y+\frac{3}{5}=\frac{5}{9}\):
+<span class="math-inline">y+<sup>3</sup>∕<sub>5</sub>=<sup>5</sup>∕<sub>9</sub></span>:
 
-  - ⓐ \(y=\frac{1}{2}\)
-  - ⓑ \(y=\frac{52}{45}\)
-  - ⓒ \(y=-\frac{2}{45}\)
+  - ⓐ <span class="math-inline">y=<sup>1</sup>∕<sub>2</sub></span>
+  - ⓑ <span class="math-inline">y=<sup>52</sup>∕<sub>45</sub></span>
+  - ⓒ <span class="math-inline">y=-<sup>2</sup>∕<sub>45</sub></span>
 
 In the following exercises, solve the equation.
 
 
-\(n+\frac{9}{11}=\frac{4}{11}\)
+<span class="math-inline">n+<sup>9</sup>∕<sub>11</sub>=<sup>4</sup>∕<sub>11</sub></span>
 
 
-\(n=-\frac{5}{11}\)
+<span class="math-inline">n=-<sup>5</sup>∕<sub>11</sub></span>
 
 
-\(x-\frac{1}{6}=\frac{7}{6}\)
+<span class="math-inline">x-<sup>1</sup>∕<sub>6</sub>=<sup>7</sup>∕<sub>6</sub></span>
 
 
-\(h-(-\frac{7}{8})=-\frac{2}{5}\)
+<span class="math-inline">h-(-<sup>7</sup>∕<sub>8</sub>)=-<sup>2</sup>∕<sub>5</sub></span>
 
 
-\(h=-\frac{51}{40}\)
+<span class="math-inline">h=-<sup>51</sup>∕<sub>40</sub></span>
 
 
-\(\frac{x}{5}=−10\)
+<span class="math-inline"><sup>x</sup>∕<sub>5</sub>=−10</span>
 
 
-\(-z=23\)
+<span class="math-inline">-z=23</span>
 
 
 *z* = −23
@@ -939,150 +1014,153 @@ In the following exercises, solve the equation.
 In the following exercises, translate and solve.
 
 
-The sum of two-thirds and \(n\) is \(-\frac{3}{5}.\)
+The sum of two-thirds and <span class="math-inline">n</span> is <span class="math-inline">-<sup>3</sup>∕<sub>5</sub>.</span>
 
 
-The difference of \(q\) and one-tenth is \(\frac{1}{2}.\)
+The difference of <span class="math-inline">q</span> and one-tenth is <span class="math-inline"><sup>1</sup>∕<sub>2</sub>.</span>
 
 
-\(q-\frac{1}{10}=\frac{1}{2};q=\frac{3}{5}\)
+<span class="math-inline">q-<sup>1</sup>∕<sub>10</sub>=<sup>1</sup>∕<sub>2</sub>;q=<sup>3</sup>∕<sub>5</sub></span>
 
 
-The quotient of \(p\) and \(−4\) is \(−8.\)
+The quotient of <span class="math-inline">p</span> and <span class="math-inline">−4</span> is <span class="math-inline">−8.</span>
 
 
-Three-eighths of \(y\) is \(24.\)
+Three-eighths of <span class="math-inline">y</span> is <span class="math-inline">24.</span>
 
 
-\(\frac{3}{8}y=24;y=64\)
+<span class="math-inline"><sup>3</sup>∕<sub>8</sub>y=24;y=64</span>
 
+
+---
 
 ## Chapter Practice Test
+
 
 Convert the improper fraction to a mixed number.
 
 
-\(\frac{19}{5}\)
+<span class="math-inline"><sup>19</sup>∕<sub>5</sub></span>
 
 
 Convert the mixed number to an improper fraction.
 
 
-\(3\frac{2}{7}\)
+<span class="math-inline">3<sup>2</sup>∕<sub>7</sub></span>
 
 
-\(\frac{23}{7}\)
+<span class="math-inline"><sup>23</sup>∕<sub>7</sub></span>
 
 
 Locate the numbers on a number line.
 
 
-\(\frac{1}{2},1\frac{2}{3},−2\frac{3}{4},\) and \(\frac{9}{4}\)
+<span class="math-inline"><sup>1</sup>∕<sub>2</sub>,1<sup>2</sup>∕<sub>3</sub>,−2<sup>3</sup>∕<sub>4</sub>,</span> and <span class="math-inline"><sup>9</sup>∕<sub>4</sub></span>
 
 
 In the following exercises, simplify.
 
 
-\(\frac{5}{20}\)
+<span class="math-inline"><sup>5</sup>∕<sub>20</sub></span>
 
 
-\(\frac{1}{4}\)
+<span class="math-inline"><sup>1</sup>∕<sub>4</sub></span>
 
 
-\(\frac{18r}{27s}\)
+<span class="math-inline"><sup>18r</sup>∕<sub>27s</sub></span>
 
 
-\(\frac{1}{3}\cdot \frac{3}{4}\)
+<span class="math-inline"><sup>1</sup>∕<sub>3</sub>· <sup>3</sup>∕<sub>4</sub></span>
 
 
-\(\frac{1}{4}\)
+<span class="math-inline"><sup>1</sup>∕<sub>4</sub></span>
 
 
-\(\frac{3}{5}\cdot 15\)
+<span class="math-inline"><sup>3</sup>∕<sub>5</sub>· 15</span>
 
 
-\(−36u(-\frac{4}{9})\)
+<span class="math-inline">−36u(-<sup>4</sup>∕<sub>9</sub>)</span>
 
 
 16*u*
 
 
-\(−5\frac{7}{12}\cdot 4\frac{4}{11}\)
+<span class="math-inline">−5<sup>7</sup>∕<sub>12</sub>· 4<sup>4</sup>∕<sub>11</sub></span>
 
 
-\(-\frac{5}{6}\div \frac{5}{12}\)
+<span class="math-inline">-<sup>5</sup>∕<sub>6</sub>÷ <sup>5</sup>∕<sub>12</sub></span>
 
 
 −2
 
 
-\(\frac{7}{11}\div (-\frac{7}{11})\)
+<span class="math-inline"><sup>7</sup>∕<sub>11</sub>÷ (-<sup>7</sup>∕<sub>11</sub>)</span>
 
 
-\(\frac{9a}{10}\div \frac{15a}{8}\)
+<span class="math-inline"><sup>9a</sup>∕<sub>10</sub>÷ <sup>15a</sup>∕<sub>8</sub></span>
 
 
-\(\frac{12}{25}\)
+<span class="math-inline"><sup>12</sup>∕<sub>25</sub></span>
 
 
-\(−6\frac{2}{5}\div 4\)
+<span class="math-inline">−6<sup>2</sup>∕<sub>5</sub>÷ 4</span>
 
 
-\((−15\frac{5}{6})\div (−3\frac{1}{6})\)
+<span class="math-inline">(−15<sup>5</sup>∕<sub>6</sub>)÷ (−3<sup>1</sup>∕<sub>6</sub>)</span>
 
 
 5
 
 
-\(\frac{−6}{\frac{6}{11}}\)
+<span class="math-inline"><sup>−6</sup>∕<sub>\frac{6</sub>{11}</span>
 
 
-\(\frac{ \frac{p}{2} }{ \frac{q}{5} }\)
+<span class="math-inline"><sup> \frac{p</sup>∕<sub>2</sub>  <sup>q</sup>∕<sub>5</sub></span>
 
 
-\(\frac{5p}{2q}\)
+<span class="math-inline"><sup>5p</sup>∕<sub>2q</sub></span>
 
 
-\(\frac{-\frac{4}{15}}{−2\frac{2}{3}}\)
+<span class="math-inline"><sup>-\frac{4</sup>∕<sub>15</sub>−2<sup>2</sup>∕<sub>3</sub></span>
 
 
-\(\frac{9^2-4^2}{9-4}\)
+<span class="math-inline"><sup>9<sup>2</sup>-4<sup>2</sup></sup>∕<sub>9-4</sub></span>
 
 
 13
 
 
-\(\frac{2}{d}+\frac{9}{d}\)
+<span class="math-inline"><sup>2</sup>∕<sub>d</sub>+<sup>9</sup>∕<sub>d</sub></span>
 
 
-\(-\frac{3}{13}+(-\frac{4}{13})\)
+<span class="math-inline">-<sup>3</sup>∕<sub>13</sub>+(-<sup>4</sup>∕<sub>13</sub>)</span>
 
 
-\(-\frac{7}{13}\)
+<span class="math-inline">-<sup>7</sup>∕<sub>13</sub></span>
 
 
-\(-\frac{22}{25}+\frac{9}{40}\)
+<span class="math-inline">-<sup>22</sup>∕<sub>25</sub>+<sup>9</sup>∕<sub>40</sub></span>
 
 
-\(\frac{2}{5}+(-\frac{7}{5})\)
+<span class="math-inline"><sup>2</sup>∕<sub>5</sub>+(-<sup>7</sup>∕<sub>5</sub>)</span>
 
 
 −1
 
 
-\(-\frac{3}{10}+(-\frac{5}{8})\)
+<span class="math-inline">-<sup>3</sup>∕<sub>10</sub>+(-<sup>5</sup>∕<sub>8</sub>)</span>
 
 
-\(-\frac{3}{4}\div \frac{x}{3}\)
+<span class="math-inline">-<sup>3</sup>∕<sub>4</sub>÷ <sup>x</sup>∕<sub>3</sub></span>
 
 
-\(-\frac{9}{4x}\)
+<span class="math-inline">-<sup>9</sup>∕<sub>4x</sub></span>
 
 
-\(\frac{2^3-2^2}{(\frac{3}{4})^2}\)
+<span class="math-inline"><sup>2<sup>3</sup>-2<sup>2</sup></sup>∕<sub>(\frac{3</sub>{4})<sup>2</sup></span>
 
 
-\(\frac{\frac{5}{14}+\frac{1}{8}}{\frac{9}{56}}\)
+<span class="math-inline"><sup>\frac{5</sup>∕<sub>14</sub>+<sup>1</sup>∕<sub>8</sub><sup>9</sup>∕<sub>56</sub></span>
 
 
 3
@@ -1091,36 +1169,36 @@ In the following exercises, simplify.
 Evaluate.
 
 
-\(x+\frac{1}{3}\) when
+<span class="math-inline">x+<sup>1</sup>∕<sub>3</sub></span> when
 
-  - ⓐ \(x=\frac{2}{3}\)
-  - ⓑ \(x=-\frac{5}{6}\)
+  - ⓐ <span class="math-inline">x=<sup>2</sup>∕<sub>3</sub></span>
+  - ⓑ <span class="math-inline">x=-<sup>5</sup>∕<sub>6</sub></span>
 
 In the following exercises, solve the equation.
 
 
-\(y+\frac{3}{5}=\frac{7}{5}\)
+<span class="math-inline">y+<sup>3</sup>∕<sub>5</sub>=<sup>7</sup>∕<sub>5</sub></span>
 
 
-\(y=\frac{4}{5}\)
+<span class="math-inline">y=<sup>4</sup>∕<sub>5</sub></span>
 
 
-\(a-\frac{3}{10}=-\frac{9}{10}\)
+<span class="math-inline">a-<sup>3</sup>∕<sub>10</sub>=-<sup>9</sup>∕<sub>10</sub></span>
 
 
-\(f+(-\frac{2}{3})=\frac{5}{12}\)
+<span class="math-inline">f+(-<sup>2</sup>∕<sub>3</sub>)=<sup>5</sup>∕<sub>12</sub></span>
 
 
-\(f=\frac{13}{12}\)
+<span class="math-inline">f=<sup>13</sup>∕<sub>12</sub></span>
 
 
-\(\frac{m}{−2}=−16\)
+<span class="math-inline"><sup>m</sup>∕<sub>−2</sub>=−16</span>
 
 
-\(-\frac{2}{3}c=18\)
+<span class="math-inline">-<sup>2</sup>∕<sub>3</sub>c=18</span>
 
 
 *c* = −27
 
 
-Translate and solve: The quotient of \(p\) and \(−4\) is \(−8.\) Solve for \(p.\)
+Translate and solve: The quotient of <span class="math-inline">p</span> and <span class="math-inline">−4</span> is <span class="math-inline">−8.</span> Solve for <span class="math-inline">p.</span>

@@ -1,36 +1,113 @@
+<style>
+.math-inline {
+    font-style: italic;
+    padding: 2px 6px;
+    border-radius: 4px;
+    background: #f8f9fa;
+    font-family: Georgia, serif;
+}
+.math-display {
+    background: #f8f9fa;
+    border-left: 4px solid #4a90d9;
+    padding: 16px 20px;
+    margin: 16px 0;
+    border-radius: 6px;
+    font-size: 1.15em;
+    font-family: Georgia, serif;
+    text-align: center;
+    line-height: 2;
+    overflow-x: auto;
+}
+.example-box, .example {
+    background: #f0f8ff;
+    border-left: 4px solid #2e86de;
+    padding: 12px 20px;
+    margin: 16px 0;
+    border-radius: 6px;
+}
+.tryit-box, .tryit {
+    background: #f0fff4;
+    border-left: 4px solid #27ae60;
+    padding: 12px 20px;
+    margin: 16px 0;
+    border-radius: 6px;
+}
+.solution-box, .solution {
+    background: #fef9e7;
+    border-left: 4px solid #f39c12;
+    padding: 12px 20px;
+    margin: 12px 0;
+    border-radius: 6px;
+}
+.check-box, .check {
+    background: #fef9e7;
+    border-left: 4px solid #f39c12;
+    padding: 12px 20px;
+    margin: 12px 0;
+    border-radius: 6px;
+}
+.prep-quiz {
+    background: #fff3cd;
+    border: 1px solid #ffc107;
+    padding: 12px 20px;
+    margin: 16px 0;
+    border-radius: 6px;
+}
+.def-label, .definition-label {
+    font-weight: bold;
+    font-size: 1.1em;
+    margin: 20px 0 8px 0;
+    color: #2c3e50;
+    display: block;
+}
+.math-display sup, .math-inline sup { font-size: 0.75em; line-height: 0; }
+.math-display sub, .math-inline sub { font-size: 0.75em; line-height: 0; }
+</style>
+
+
+---
+
+
+---
+
 ## Simplify Fractions
+
 
 In working with equivalent fractions, you saw that there are many ways to write fractions that have the same value, or represent the same part of the whole. How do you know which one to use? Often, we’ll use the fraction that is in *simplified* form.
 
-A fraction is considered simplified if there are no common factors, other than \(1,\) in the **numerator** and **denominator**. If a fraction does have common factors in the numerator and denominator, we can reduce the fraction to its simplified form by removing the common factors.
+A fraction is considered simplified if there are no common factors, other than <span class="math-inline">1,</span> in the **numerator** and **denominator**. If a fraction does have common factors in the numerator and denominator, we can reduce the fraction to its simplified form by removing the common factors.
 
 
-**Simplified Fraction**
+<div class="definition-label">**Simplified Fraction**</div>
+
 
 A fraction is considered simplified if there are no common factors in the numerator and denominator.
 
 For example,
 
-- \(\frac{2}{3}\) is simplified because there are no common factors of \(2\) and \(3.\)
+- <span class="math-inline"><sup>2</sup>∕<sub>3</sub></span> is simplified because there are no common factors of <span class="math-inline">2</span> and <span class="math-inline">3.</span>
 
-- \(\frac{10}{15}\) is not simplified because \(5\) is a common factor of \(10\) and \(15.\)
+- <span class="math-inline"><sup>10</sup>∕<sub>15</sub></span> is not simplified because <span class="math-inline">5</span> is a common factor of <span class="math-inline">10</span> and <span class="math-inline">15.</span>
 
 The process of simplifying a fraction is often called *reducing the fraction*. In the previous section, we used the Equivalent Fractions Property to find equivalent fractions. We can also use the Equivalent Fractions Property in reverse to simplify fractions. We rewrite the property to show both forms together.
 
 
-**Equivalent Fractions Property**
-
-If \(a,b,c\) are numbers where \(b\ne 0,c\ne 0,\) then
+<div class="definition-label">**Equivalent Fractions Property**</div>
 
 
-$$
-\frac{a}{b}=\frac{a\cdot c}{b\cdot c} and \frac{a\cdot c}{b\cdot c}=\frac{a}{b}.
-$$
-
-Notice that \(c\) is a common factor in the **numerator** and **denominator**. Anytime we have a common factor in the numerator and denominator, it can be removed.
+If <span class="math-inline">a,b,c</span> are numbers where <span class="math-inline">b≠ 0,c≠ 0,</span> then
 
 
-**Simplify a fraction.**
+<div class="math-display">
+<sup>a</sup>∕<sub>b</sub>=<sup>a· c</sup>∕<sub>b· c</sub> and <sup>a· c</sup>∕<sub>b· c</sub>=<sup>a</sup>∕<sub>b</sub>.
+</div>
+
+
+Notice that <span class="math-inline">c</span> is a common factor in the **numerator** and **denominator**. Anytime we have a common factor in the numerator and denominator, it can be removed.
+
+
+<div class="definition-label">**Simplify a fraction.**</div>
+
 
 -  Rewrite the numerator and denominator to show the common factors. If needed, factor the numerator and denominator into prime numbers.
 
@@ -39,19 +116,22 @@ Notice that \(c\) is a common factor in the **numerator** and **denominator**. A
 -  Multiply any remaining factors.
 
 
+<div class="example">
 **Example**
 
 
-Simplify: \(\frac{10}{15}.\)
+Simplify: <span class="math-inline"><sup>10</sup>∕<sub>15</sub>.</span>
 
 
-Solution
+<div class="solution">
+<span class="def-label">Solution</span>
+
+
 To simplify the fraction, we look for any common factors in the numerator and the denominator.
 
 
-
    Notice that 5 is a factor of both 10 and 15.
-   \(\frac{10}{15}\)
+   <span class="math-inline"><sup>10</sup>∕<sub>15</sub></span>
 
    Factor the numerator and denominator.
 
@@ -60,42 +140,45 @@ To simplify the fraction, we look for any common factors in the numerator and th
 
 
    Simplify.
-   \(\frac{2}{3}\)
+   <span class="math-inline"><sup>2</sup>∕<sub>3</sub></span>
 
 
+<div class="tryit">
 **Try It**
 
 
-Simplify: \(\frac{8}{12}\).
+Simplify: <span class="math-inline"><sup>8</sup>∕<sub>12</sub></span>.
 
 
-\(\frac{2}{3}\)
+<span class="math-inline"><sup>2</sup>∕<sub>3</sub></span>
 
 
+<div class="tryit">
 **Try It**
 
 
-Simplify: \(\frac{12}{16}\).
+Simplify: <span class="math-inline"><sup>12</sup>∕<sub>16</sub></span>.
 
 
-\(\frac{3}{4}\)
+<span class="math-inline"><sup>3</sup>∕<sub>4</sub></span>
 
 
 To simplify a negative fraction, we use the same process as in . Remember to keep the negative sign.
 
 
+<div class="example">
 **Example**
 
 
-Simplify: \(-\frac{18}{24}.\)
+Simplify: <span class="math-inline">-<sup>18</sup>∕<sub>24</sub>.</span>
 
 
-Solution
-
+<div class="solution">
+<span class="def-label">Solution</span>
 
 
    We notice that 18 and 24 both have factors of 6.
-   \(-\frac{18}{24}\)
+   <span class="math-inline">-<sup>18</sup>∕<sub>24</sub></span>
 
    Rewrite the numerator and denominator showing the common factor.
 
@@ -104,25 +187,27 @@ Solution
 
 
    Simplify.
-   \(-\frac{3}{4}\)
+   <span class="math-inline">-<sup>3</sup>∕<sub>4</sub></span>
 
 
+<div class="tryit">
 **Try It**
 
 
-Simplify: \(-\frac{21}{28}.\)
+Simplify: <span class="math-inline">-<sup>21</sup>∕<sub>28</sub>.</span>
 
 
-\(-\frac{3}{4}\)
+<span class="math-inline">-<sup>3</sup>∕<sub>4</sub></span>
 
 
+<div class="tryit">
 **Try It**
 
 
-Simplify: \(-\frac{16}{24}.\)
+Simplify: <span class="math-inline">-<sup>16</sup>∕<sub>24</sub>.</span>
 
 
-\(-\frac{2}{3}\)
+<span class="math-inline">-<sup>2</sup>∕<sub>3</sub></span>
 
 
 After simplifying a fraction, it is always important to check the result to make sure that the numerator and denominator do not have any more factors in common. Remember, the definition of a simplified fraction: *a fraction is considered simplified if there are no common factors in the numerator and denominator*.
@@ -130,18 +215,18 @@ After simplifying a fraction, it is always important to check the result to make
 When we simplify an improper fraction, there is no need to change it to a mixed number.
 
 
+<div class="example">
 **Example**
 
 
-Simplify: \(-\frac{56}{32}.\)
+Simplify: <span class="math-inline">-<sup>56</sup>∕<sub>32</sub>.</span>
 
 
-Solution
+<div class="solution">
+<span class="def-label">Solution</span>
 
 
-
-
-   \(-\frac{56}{32}\)
+   <span class="math-inline">-<sup>56</sup>∕<sub>32</sub></span>
 
    Rewrite the numerator and denominator, showing the common factors, 8.
 
@@ -150,28 +235,31 @@ Solution
 
 
    Simplify.
-   \(-\frac{7}{4}\)
+   <span class="math-inline">-<sup>7</sup>∕<sub>4</sub></span>
 
 
+<div class="tryit">
 **Try It**
 
 
-Simplify: \(-\frac{54}{42}.\)
+Simplify: <span class="math-inline">-<sup>54</sup>∕<sub>42</sub>.</span>
 
 
-\(-\frac{9}{7}\)
+<span class="math-inline">-<sup>9</sup>∕<sub>7</sub></span>
 
 
+<div class="tryit">
 **Try It**
 
 
-Simplify: \(-\frac{81}{45}.\)
+Simplify: <span class="math-inline">-<sup>81</sup>∕<sub>45</sub>.</span>
 
 
-\(-\frac{9}{5}\)
+<span class="math-inline">-<sup>9</sup>∕<sub>5</sub></span>
 
 
-**Simplify a fraction.**
+<div class="definition-label">**Simplify a fraction.**</div>
+
 
 - Rewrite the numerator and denominator to show the common factors. If needed, factor the numerator and denominator into prime numbers.
 
@@ -182,284 +270,302 @@ Simplify: \(-\frac{81}{45}.\)
 Sometimes it may not be easy to find common factors of the numerator and denominator. A good idea, then, is to factor the numerator and the denominator into prime numbers. (You may want to use the factor tree method to identify the prime factors.) Then divide out the common factors using the Equivalent Fractions Property.
 
 
+<div class="example">
 **Example**
 
 
-Simplify: \(\frac{210}{385}.\)
+Simplify: <span class="math-inline"><sup>210</sup>∕<sub>385</sub>.</span>
 
 
-Solution
-
+<div class="solution">
+<span class="def-label">Solution</span>
 
 
   Use factor trees to factor the numerator and denominator.
-  \(\frac{210}{385}\)
+  <span class="math-inline"><sup>210</sup>∕<sub>385</sub></span>
 
 
   Rewrite the numerator and denominator as the product of the primes.
-  \(\frac{210}{385}=\frac{2\cdot 3\cdot 5\cdot 7}{5\cdot 7\cdot 11}\)
+  <span class="math-inline"><sup>210</sup>∕<sub>385</sub>=<sup>2· 3· 5· 7</sup>∕<sub>5· 7· 11</sub></span>
 
 
   Remove the common factors.
 
 
-
   Simplify.
-  \(\frac{2\cdot 3}{11}\)
+  <span class="math-inline"><sup>2· 3</sup>∕<sub>11</sub></span>
 
   Multiply any remaining factors.
-  \(\frac{6}{11}\)
+  <span class="math-inline"><sup>6</sup>∕<sub>11</sub></span>
 
 
+<div class="tryit">
 **Try It**
 
 
-Simplify: \(\frac{69}{120}.\)
+Simplify: <span class="math-inline"><sup>69</sup>∕<sub>120</sub>.</span>
 
 
-\(\frac{23}{40}\)
+<span class="math-inline"><sup>23</sup>∕<sub>40</sub></span>
 
 
+<div class="tryit">
 **Try It**
 
 
-Simplify: \(\frac{120}{192}.\)
+Simplify: <span class="math-inline"><sup>120</sup>∕<sub>192</sub>.</span>
 
 
-\(\frac{5}{8}\)
+<span class="math-inline"><sup>5</sup>∕<sub>8</sub></span>
 
 
 We can also simplify fractions containing variables. If a variable is a common factor in the **numerator** and **denominator**, we remove it just as we do with an integer factor.
 
 
+<div class="example">
 **Example**
 
 
-Simplify: \(\frac{5xy}{15x}.\)
+Simplify: <span class="math-inline"><sup>5xy</sup>∕<sub>15x</sub>.</span>
 
 
-Solution
+<div class="solution">
+<span class="def-label">Solution</span>
 
 
-
-
-  \(\frac{5xy}{15x}\)
+  <span class="math-inline"><sup>5xy</sup>∕<sub>15x</sub></span>
 
    Rewrite numerator and denominator showing common factors.
-   \(\frac{5\cdot x\cdot y}{3\cdot 5\cdot x}\)
+   <span class="math-inline"><sup>5· x· y</sup>∕<sub>3· 5· x</sub></span>
 
    Remove common factors.
-   \(\frac{\cdot \cdot y}{3\cdot \cdot }\)
+   <span class="math-inline"><sup>· · y</sup>∕<sub>3· · </sub></span>
 
    Simplify.
-   \(\frac{y}{3}\)
+   <span class="math-inline"><sup>y</sup>∕<sub>3</sub></span>
 
 
+<div class="tryit">
 **Try It**
 
 
-Simplify: \(\frac{7x}{7y}.\)
+Simplify: <span class="math-inline"><sup>7x</sup>∕<sub>7y</sub>.</span>
 
 
-\(\frac{x}{y}\)
+<span class="math-inline"><sup>x</sup>∕<sub>y</sub></span>
 
 
+<div class="tryit">
 **Try It**
 
 
-Simplify: \(\frac{9a}{9b}.\)
+Simplify: <span class="math-inline"><sup>9a</sup>∕<sub>9b</sub>.</span>
 
 
-\(\frac{a}{b}\)
+<span class="math-inline"><sup>a</sup>∕<sub>b</sub></span>
 
+
+---
+
+
+---
 
 ## Multiply Fractions
 
-A model may help you understand multiplication of fractions. We will use fraction tiles to model \(\frac{1}{2}\cdot \frac{3}{4}.\) To multiply \(\frac{1}{2}\) and \(\frac{3}{4},\) think \(\frac{1}{2}\) of \(\frac{3}{4}.\)
 
-Start with fraction tiles for three-fourths. To find one-half of three-fourths, we need to divide them into two equal groups. Since we cannot divide the three \(\frac{1}{4}\) tiles evenly into two parts, we exchange them for smaller tiles.
+A model may help you understand multiplication of fractions. We will use fraction tiles to model <span class="math-inline"><sup>1</sup>∕<sub>2</sub>· <sup>3</sup>∕<sub>4</sub>.</span> To multiply <span class="math-inline"><sup>1</sup>∕<sub>2</sub></span> and <span class="math-inline"><sup>3</sup>∕<sub>4</sub>,</span> think <span class="math-inline"><sup>1</sup>∕<sub>2</sub></span> of <span class="math-inline"><sup>3</sup>∕<sub>4</sub>.</span>
 
-We see \(\frac{6}{8}\) is equivalent to \(\frac{3}{4}.\) Taking half of the six \(\frac{1}{8}\) tiles gives us three \(\frac{1}{8}\) tiles, which is \(\frac{3}{8}.\)
+Start with fraction tiles for three-fourths. To find one-half of three-fourths, we need to divide them into two equal groups. Since we cannot divide the three <span class="math-inline"><sup>1</sup>∕<sub>4</sub></span> tiles evenly into two parts, we exchange them for smaller tiles.
+
+We see <span class="math-inline"><sup>6</sup>∕<sub>8</sub></span> is equivalent to <span class="math-inline"><sup>3</sup>∕<sub>4</sub>.</span> Taking half of the six <span class="math-inline"><sup>1</sup>∕<sub>8</sub></span> tiles gives us three <span class="math-inline"><sup>1</sup>∕<sub>8</sub></span> tiles, which is <span class="math-inline"><sup>3</sup>∕<sub>8</sub>.</span>
 
 Therefore,
 
 
-$$
-\frac{1}{2}\cdot \frac{3}{4}=\frac{3}{8}
-$$
+<div class="math-display">
+<sup>1</sup>∕<sub>2</sub>· <sup>3</sup>∕<sub>4</sub>=<sup>3</sup>∕<sub>8</sub>
+</div>
 
 
+<div class="example">
 **Example**
 
 
-Use a diagram to model \(\frac{1}{2}\cdot \frac{3}{4}.\)
+Use a diagram to model <span class="math-inline"><sup>1</sup>∕<sub>2</sub>· <sup>3</sup>∕<sub>4</sub>.</span>
 
 
-Solution
-First shade in \(\frac{3}{4}\) of the rectangle.
-
-We will take \(\frac{1}{2}\) of this \(\frac{3}{4},\) so we heavily shade \(\frac{1}{2}\) of the shaded region.
-Notice that \(3\) out of the \(8\) pieces are heavily shaded. This means that \(\frac{3}{8}\) of the rectangle is heavily shaded.Therefore, \(\frac{1}{2}\) of \(\frac{3}{4}\) is \(\frac{3}{8},\) or \(\frac{1}{2}\cdot \frac{3}{4}=\frac{3}{8}.\)
+<div class="solution">
+<span class="def-label">Solution</span>
 
 
+First shade in <span class="math-inline"><sup>3</sup>∕<sub>4</sub></span> of the rectangle.
+
+We will take <span class="math-inline"><sup>1</sup>∕<sub>2</sub></span> of this <span class="math-inline"><sup>3</sup>∕<sub>4</sub>,</span> so we heavily shade <span class="math-inline"><sup>1</sup>∕<sub>2</sub></span> of the shaded region.
+Notice that <span class="math-inline">3</span> out of the <span class="math-inline">8</span> pieces are heavily shaded. This means that <span class="math-inline"><sup>3</sup>∕<sub>8</sub></span> of the rectangle is heavily shaded.Therefore, <span class="math-inline"><sup>1</sup>∕<sub>2</sub></span> of <span class="math-inline"><sup>3</sup>∕<sub>4</sub></span> is <span class="math-inline"><sup>3</sup>∕<sub>8</sub>,</span> or <span class="math-inline"><sup>1</sup>∕<sub>2</sub>· <sup>3</sup>∕<sub>4</sub>=<sup>3</sup>∕<sub>8</sub>.</span>
+
+
+<div class="tryit">
 **Try It**
 
 
-Use a diagram to model: \(\frac{1}{2}\cdot \frac{3}{5}.\)
+Use a diagram to model: <span class="math-inline"><sup>1</sup>∕<sub>2</sub>· <sup>3</sup>∕<sub>5</sub>.</span>
 
 
-\(\frac{3}{10}\)
+<span class="math-inline"><sup>3</sup>∕<sub>10</sub></span>
 
 
+<div class="tryit">
 **Try It**
 
 
-Use a diagram to model: \(\frac{1}{2}\cdot \frac{5}{6}.\)
+Use a diagram to model: <span class="math-inline"><sup>1</sup>∕<sub>2</sub>· <sup>5</sup>∕<sub>6</sub>.</span>
 
 
-\(\frac{5}{12}\)
+<span class="math-inline"><sup>5</sup>∕<sub>12</sub></span>
 
 
-Look at the result we got from the model in . We found that \(\frac{1}{2}\cdot \frac{3}{4}=\frac{3}{8}.\) Do you notice that we could have gotten the same answer by multiplying the numerators and multiplying the denominators?
+Look at the result we got from the model in . We found that <span class="math-inline"><sup>1</sup>∕<sub>2</sub>· <sup>3</sup>∕<sub>4</sub>=<sup>3</sup>∕<sub>8</sub>.</span> Do you notice that we could have gotten the same answer by multiplying the numerators and multiplying the denominators?
 
 
 This leads to the definition of fraction multiplication. To multiply fractions, we multiply the numerators and multiply the denominators. Then we write the fraction in simplified form.
 
 
-**Fraction Multiplication**
-
-If \(a,b,c,\) and \(d\) are numbers where \(b\ne 0\) and \(d\ne 0,\) then
+<div class="definition-label">**Fraction Multiplication**</div>
 
 
-$$
-\frac{a}{b}\cdot \frac{c}{d}=\frac{ac}{bd}
-$$
+If <span class="math-inline">a,b,c,</span> and <span class="math-inline">d</span> are numbers where <span class="math-inline">b≠ 0</span> and <span class="math-inline">d≠ 0,</span> then
 
 
+<div class="math-display">
+<sup>a</sup>∕<sub>b</sub>· <sup>c</sup>∕<sub>d</sub>=<sup>ac</sup>∕<sub>bd</sub>
+</div>
+
+
+<div class="example">
 **Example**
 
 
-Multiply, and write the answer in simplified form: \(\frac{3}{4}\cdot \frac{1}{5}.\)
+Multiply, and write the answer in simplified form: <span class="math-inline"><sup>3</sup>∕<sub>4</sub>· <sup>1</sup>∕<sub>5</sub>.</span>
 
 
-Solution
+<div class="solution">
+<span class="def-label">Solution</span>
 
 
-
-
-  \(\frac{3}{4}\cdot \frac{1}{5}\)
+  <span class="math-inline"><sup>3</sup>∕<sub>4</sub>· <sup>1</sup>∕<sub>5</sub></span>
 
   Multiply the numerators; multiply the denominators.
-  \(\frac{3\cdot 1}{4\cdot 5}\)
+  <span class="math-inline"><sup>3· 1</sup>∕<sub>4· 5</sub></span>
 
   Simplify.
-  \(\frac{3}{20}\)
+  <span class="math-inline"><sup>3</sup>∕<sub>20</sub></span>
 
 
 There are no common factors, so the fraction is simplified.
 
 
+<div class="tryit">
 **Try It**
 
 
-Multiply, and write the answer in simplified form: \(\frac{1}{3}\cdot \frac{2}{5}.\)
+Multiply, and write the answer in simplified form: <span class="math-inline"><sup>1</sup>∕<sub>3</sub>· <sup>2</sup>∕<sub>5</sub>.</span>
 
 
-\(\frac{2}{15}\)
+<span class="math-inline"><sup>2</sup>∕<sub>15</sub></span>
 
 
+<div class="tryit">
 **Try It**
 
 
-Multiply, and write the answer in simplified form: \(\frac{3}{5}\cdot \frac{7}{8}.\)
+Multiply, and write the answer in simplified form: <span class="math-inline"><sup>3</sup>∕<sub>5</sub>· <sup>7</sup>∕<sub>8</sub>.</span>
 
 
-\(\frac{21}{40}\)
+<span class="math-inline"><sup>21</sup>∕<sub>40</sub></span>
 
 
 When multiplying fractions, the properties of positive and negative numbers still apply. It is a good idea to determine the sign of the product as the first step. In Example 4.26 we will multiply two negatives, so the product will be positive.
 
 
+<div class="example">
 **Example**
 
 
-Multiply, and write the answer in simplified form: \(-\frac{5}{8}(-\frac{2}{3}).\)
+Multiply, and write the answer in simplified form: <span class="math-inline">-<sup>5</sup>∕<sub>8</sub>(-<sup>2</sup>∕<sub>3</sub>).</span>
 
 
-Solution
+<div class="solution">
+<span class="def-label">Solution</span>
 
 
-
-
-  \(-\frac{5}{8}(-\frac{2}{3})\)
+  <span class="math-inline">-<sup>5</sup>∕<sub>8</sub>(-<sup>2</sup>∕<sub>3</sub>)</span>
 
   The signs are the same, so the product is positive. Multiply the numerators, multiply the denominators.
-  \(\frac{5\cdot 2}{8\cdot 3}\)
+  <span class="math-inline"><sup>5· 2</sup>∕<sub>8· 3</sub></span>
 
   Simplify.
-  \(\frac{10}{24}\)
+  <span class="math-inline"><sup>10</sup>∕<sub>24</sub></span>
 
   Look for common factors in the numerator and denominator. Rewrite showing common factors.
 
 
   Remove common factors.
-  \(\frac{5}{12}\)
+  <span class="math-inline"><sup>5</sup>∕<sub>12</sub></span>
 
 
 Another way to find this product involves removing common factors earlier.
 
 
-
-
-  \(-\frac{5}{8}(-\frac{2}{3})\)
+  <span class="math-inline">-<sup>5</sup>∕<sub>8</sub>(-<sup>2</sup>∕<sub>3</sub>)</span>
 
   Determine the sign of the product. Multiply.
-  \(\frac{5\cdot 2}{8\cdot 3}\)
+  <span class="math-inline"><sup>5· 2</sup>∕<sub>8· 3</sub></span>
 
   Show common factors and then remove them.
 
 
-
   Multiply remaining factors.
-  \(\frac{5}{12}\)
+  <span class="math-inline"><sup>5</sup>∕<sub>12</sub></span>
 
 
 We get the same result.
 
 
+<div class="tryit">
 **Try It**
 
 
-Multiply, and write the answer in simplified form: \(-\frac{4}{7}(-\frac{5}{8}).\)
+Multiply, and write the answer in simplified form: <span class="math-inline">-<sup>4</sup>∕<sub>7</sub>(-<sup>5</sup>∕<sub>8</sub>).</span>
 
 
-\(\frac{5}{14}\)
+<span class="math-inline"><sup>5</sup>∕<sub>14</sub></span>
 
 
+<div class="tryit">
 **Try It**
 
 
-Multiply, and write the answer in simplified form: \(-\frac{7}{12}(-\frac{8}{9}).\)
+Multiply, and write the answer in simplified form: <span class="math-inline">-<sup>7</sup>∕<sub>12</sub>(-<sup>8</sup>∕<sub>9</sub>).</span>
 
 
-\(\frac{14}{27}\)
+<span class="math-inline"><sup>14</sup>∕<sub>27</sub></span>
 
 
+<div class="example">
 **Example**
 
 
-Multiply, and write the answer in simplified form: \(-\frac{14}{15}\cdot \frac{20}{21}.\)
+Multiply, and write the answer in simplified form: <span class="math-inline">-<sup>14</sup>∕<sub>15</sub>· <sup>20</sup>∕<sub>21</sub>.</span>
 
 
-Solution
+<div class="solution">
+<span class="def-label">Solution</span>
 
 
-
-
-  \(-\frac{14}{15}\cdot \frac{20}{21}\)
+  <span class="math-inline">-<sup>14</sup>∕<sub>15</sub>· <sup>20</sup>∕<sub>21</sub></span>
 
   Determine the sign of the product; multiply.
-  \(-\frac{14}{15}\cdot \frac{20}{21}\)
+  <span class="math-inline">-<sup>14</sup>∕<sub>15</sub>· <sup>20</sup>∕<sub>21</sub></span>
 
   Are there any common factors in the numerator and the denominator?
 We know that 7 is a factor of 14 and 21, and 5 is a factor of 20 and 15.
@@ -469,72 +575,72 @@ We know that 7 is a factor of 14 and 21, and 5 is a factor of 20 and 15.
 
 
   Remove the common factors.
-  \(-\frac{2\cdot 4}{3\cdot 3}\)
+  <span class="math-inline">-<sup>2· 4</sup>∕<sub>3· 3</sub></span>
 
   Multiply the remaining factors.
-  \(-\frac{8}{9}\)
+  <span class="math-inline">-<sup>8</sup>∕<sub>9</sub></span>
 
 
+<div class="tryit">
 **Try It**
 
 
-Multiply, and write the answer in simplified form: \(-\frac{10}{28}\cdot \frac{8}{15}.\)
+Multiply, and write the answer in simplified form: <span class="math-inline">-<sup>10</sup>∕<sub>28</sub>· <sup>8</sup>∕<sub>15</sub>.</span>
 
 
-\(-\frac{4}{21}\)
+<span class="math-inline">-<sup>4</sup>∕<sub>21</sub></span>
 
 
+<div class="tryit">
 **Try It**
 
 
-Multiply, and write the answer in simplified form: \(-\frac{9}{20}\cdot \frac{5}{12}.\)
+Multiply, and write the answer in simplified form: <span class="math-inline">-<sup>9</sup>∕<sub>20</sub>· <sup>5</sup>∕<sub>12</sub>.</span>
 
 
-\(-\frac{3}{16}\)
+<span class="math-inline">-<sup>3</sup>∕<sub>16</sub></span>
 
 
-When multiplying a fraction by an integer, it may be helpful to write the integer as a fraction. Any integer, \(a,\) can be written as \(\frac{a}{1}.\) So, \(3=\frac{3}{1},\) for example.
+When multiplying a fraction by an integer, it may be helpful to write the integer as a fraction. Any integer, <span class="math-inline">a,</span> can be written as <span class="math-inline"><sup>a</sup>∕<sub>1</sub>.</span> So, <span class="math-inline">3=<sup>3</sup>∕<sub>1</sub>,</span> for example.
 
 
+<div class="example">
 **Example**
 
 
 Multiply, and write the answer in simplified form:
-ⓐ \(\frac{1}{7}\cdot 56\)ⓑ \(\frac{12}{5}(−20x)\)
+ⓐ <span class="math-inline"><sup>1</sup>∕<sub>7</sub>· 56</span>ⓑ <span class="math-inline"><sup>12</sup>∕<sub>5</sub>(−20x)</span>
 
 
-Solution
+<div class="solution">
+<span class="def-label">Solution</span>
 
 
   ⓐ
 
 
-
-
-  \(\frac{1}{7}\cdot 56\)
+  <span class="math-inline"><sup>1</sup>∕<sub>7</sub>· 56</span>
 
   Write 56 as a fraction.
-  \(\frac{1}{7}\cdot \frac{56}{1}\)
+  <span class="math-inline"><sup>1</sup>∕<sub>7</sub>· <sup>56</sup>∕<sub>1</sub></span>
 
   Determine the sign of the product; multiply.
-  \(\frac{56}{7}\)
+  <span class="math-inline"><sup>56</sup>∕<sub>7</sub></span>
 
   Simplify.
-  \(8\)
+  <span class="math-inline">8</span>
 
 
   ⓑ
 
 
-
-
-  \(\frac{12}{5}(−20x)\)
+  <span class="math-inline"><sup>12</sup>∕<sub>5</sub>(−20x)</span>
 
   Write −20x as a fraction.
-  \(\frac{12}{5}(\frac{−20x}{1})\)
+  <span class="math-inline"><sup>12</sup>∕<sub>5</sub>(<sup>−20x</sup>∕<sub>1</sub>)</span>
 
   Determine the sign of the product; multiply.
-  \(-\frac{12\cdot 20\cdot x}{5\cdot 1}\)
+  <span class="math-inline">-<sup>12· 20· x</sup>∕<sub>5· 1</sub></span>
 
   Show common factors and then remove them.
 
@@ -543,208 +649,220 @@ Solution
   −48x
 
 
+<div class="tryit">
 **Try It**
 
 
 Multiply, and write the answer in simplified form:
 
-  - ⓐ \(\frac{1}{8}\cdot 72\)
-  - ⓑ \(\frac{11}{3}(−9a)\)
+  - ⓐ <span class="math-inline"><sup>1</sup>∕<sub>8</sub>· 72</span>
+  - ⓑ <span class="math-inline"><sup>11</sup>∕<sub>3</sub>(−9a)</span>
 
 
   - ⓐ 9
   - ⓑ −33*a*
 
 
+<div class="tryit">
 **Try It**
 
 
 Multiply, and write the answer in simplified form:
 
-  - ⓐ \(\frac{3}{8}\cdot 64\)
-  - ⓑ \(16x\cdot \frac{11}{12}\)
+  - ⓐ <span class="math-inline"><sup>3</sup>∕<sub>8</sub>· 64</span>
+  - ⓑ <span class="math-inline">16x· <sup>11</sup>∕<sub>12</sub></span>
 
 
-  - ⓐ \(24\)
-  - ⓑ \(\frac{44x}{3}\)
+  - ⓐ <span class="math-inline">24</span>
+  - ⓑ <span class="math-inline"><sup>44x</sup>∕<sub>3</sub></span>
 
+
+---
+
+
+---
 
 ## Find Reciprocals
 
-The fractions \(\frac{2}{3}\) and \(\frac{3}{2}\) are related to each other in a special way. So are \(-\frac{10}{7}\) and \(-\frac{7}{10}.\) Do you see how? Besides looking like upside-down versions of one another, if we were to multiply these pairs of fractions, the product would be \(1.\)
+
+The fractions <span class="math-inline"><sup>2</sup>∕<sub>3</sub></span> and <span class="math-inline"><sup>3</sup>∕<sub>2</sub></span> are related to each other in a special way. So are <span class="math-inline">-<sup>10</sup>∕<sub>7</sub></span> and <span class="math-inline">-<sup>7</sup>∕<sub>10</sub>.</span> Do you see how? Besides looking like upside-down versions of one another, if we were to multiply these pairs of fractions, the product would be <span class="math-inline">1.</span>
 
 
-$$
-\frac{2}{3}\cdot \frac{3}{2}=1 and -\frac{10}{7}(-\frac{7}{10})=1
-$$
+<div class="math-display">
+<sup>2</sup>∕<sub>3</sub>· <sup>3</sup>∕<sub>2</sub>=1 and -<sup>10</sup>∕<sub>7</sub>(-<sup>7</sup>∕<sub>10</sub>)=1
+</div>
+
 
 Such pairs of numbers are called reciprocals.
 
 
-**Reciprocal**
-
-The **reciprocal** of the fraction \(\frac{a}{b}\) is \(\frac{b}{a},\) where \(a\ne 0\) and \(b\ne 0,\)
-
-A number and its reciprocal have a product of \(1.\)
+<div class="definition-label">**Reciprocal**</div>
 
 
-$$
-\frac{a}{b}\cdot \frac{b}{a}=1
-$$
+The **reciprocal** of the fraction <span class="math-inline"><sup>a</sup>∕<sub>b</sub></span> is <span class="math-inline"><sup>b</sup>∕<sub>a</sub>,</span> where <span class="math-inline">a≠ 0</span> and <span class="math-inline">b≠ 0,</span>
+
+A number and its reciprocal have a product of <span class="math-inline">1.</span>
+
+
+<div class="math-display">
+<sup>a</sup>∕<sub>b</sub>· <sup>b</sup>∕<sub>a</sub>=1
+</div>
+
 
 To find the reciprocal of a fraction, we invert the fraction. This means that we place the numerator in the denominator and the denominator in the numerator.
 
 To get a positive result when multiplying two numbers, the numbers must have the same sign. So reciprocals must have the same sign.
 
-To find the reciprocal, keep the same sign and invert the fraction. The number zero does not have a reciprocal. Why? A number and its reciprocal multiply to \(1.\) Is there any number \(r\) so that \(0\cdot r=1?\) No. So, the number \(0\) does not have a reciprocal.
+To find the reciprocal, keep the same sign and invert the fraction. The number zero does not have a reciprocal. Why? A number and its reciprocal multiply to <span class="math-inline">1.</span> Is there any number <span class="math-inline">r</span> so that <span class="math-inline">0· r=1?</span> No. So, the number <span class="math-inline">0</span> does not have a reciprocal.
 
 
+<div class="example">
 **Example**
 
 
-Find the reciprocal of each number. Then check that the product of each number and its reciprocal is \(1.\)
+Find the reciprocal of each number. Then check that the product of each number and its reciprocal is <span class="math-inline">1.</span>
 
 
-  - ⓐ \(\frac{4}{9}\)
-  - ⓑ \(-\frac{1}{6}\)
-  - ⓒ \(-\frac{14}{5}\)
-  - ⓓ \(7\)
+  - ⓐ <span class="math-inline"><sup>4</sup>∕<sub>9</sub></span>
+  - ⓑ <span class="math-inline">-<sup>1</sup>∕<sub>6</sub></span>
+  - ⓒ <span class="math-inline">-<sup>14</sup>∕<sub>5</sub></span>
+  - ⓓ <span class="math-inline">7</span>
 
 
-Solution
+<div class="solution">
+<span class="def-label">Solution</span>
+
+
 To find the reciprocals, we keep the sign and invert the fractions.
 
 
   ⓐ
 
 
+    Find the reciprocal of <span class="math-inline"><sup>4</sup>∕<sub>9</sub></span>.
+    The reciprocal of <span class="math-inline"><sup>4</sup>∕<sub>9</sub></span> is <span class="math-inline"><sup>9</sup>∕<sub>4</sub></span>.
 
-    Find the reciprocal of \(\frac{4}{9}\).
-    The reciprocal of \(\frac{4}{9}\) is \(\frac{9}{4}\).
 
-
-    Check:
-
+<div class="check">
+<span class="def-label">Check</span>
 
 
     Multiply the number and its reciprocal.
-    \(\frac{4}{9}\cdot \frac{9}{4}\)
+    <span class="math-inline"><sup>4</sup>∕<sub>9</sub>· <sup>9</sup>∕<sub>4</sub></span>
 
 
     Multiply numerators and denominators.
-    \(\frac{36}{36}\)
+    <span class="math-inline"><sup>36</sup>∕<sub>36</sub></span>
 
 
     Simplify.
-    \(1✓\)
-
-
+    <span class="math-inline">1✓</span>
 
 
     ⓑ
 
 
-
-    Find the reciprocal of \(-\frac{1}{6}\).
-    \(-\frac{6}{1}\)
+    Find the reciprocal of <span class="math-inline">-<sup>1</sup>∕<sub>6</sub></span>.
+    <span class="math-inline">-<sup>6</sup>∕<sub>1</sub></span>
 
 
     Simplify.
-    \(-6\)
+    <span class="math-inline">-6</span>
 
 
-    Check:
-    \(-\frac{1}{6}\cdot (-6)\)
+<div class="check">
+<span class="def-label">Check</span>
 
 
+    <span class="math-inline">-<sup>1</sup>∕<sub>6</sub>· (-6)</span>
 
-    \(1✓\)
 
-
+    <span class="math-inline">1✓</span>
 
 
     ⓒ
 
 
-
-    Find the reciprocal of \(-\frac{14}{5}\).
-    \(-\frac{5}{14}\)
-
-
-    Check:
-    \(-\frac{14}{5}\cdot (-\frac{5}{14})\)
+    Find the reciprocal of <span class="math-inline">-<sup>14</sup>∕<sub>5</sub></span>.
+    <span class="math-inline">-<sup>5</sup>∕<sub>14</sub></span>
 
 
-\(\frac{70}{70}\)
+<div class="check">
+<span class="def-label">Check</span>
 
 
-    \(1✓\)
+    <span class="math-inline">-<sup>14</sup>∕<sub>5</sub>· (-<sup>5</sup>∕<sub>14</sub>)</span>
 
 
+<span class="math-inline"><sup>70</sup>∕<sub>70</sub></span>
+
+
+    <span class="math-inline">1✓</span>
 
 
     ⓓ
 
 
-
-    Find the reciprocal of \(7\).
-
+    Find the reciprocal of <span class="math-inline">7</span>.
 
 
-
-    Write \(7\) as a fraction.
-    \(\frac{7}{1}\)
-
+    Write <span class="math-inline">7</span> as a fraction.
+    <span class="math-inline"><sup>7</sup>∕<sub>1</sub></span>
 
 
-Write the reciprocal of \(\frac{7}{1}\).
-\(\frac{1}{7}\)
+Write the reciprocal of <span class="math-inline"><sup>7</sup>∕<sub>1</sub></span>.
+<span class="math-inline"><sup>1</sup>∕<sub>7</sub></span>
 
 
-    Check:
-    \(7\cdot (\frac{1}{7})\)
+<div class="check">
+<span class="def-label">Check</span>
 
 
+    <span class="math-inline">7· (<sup>1</sup>∕<sub>7</sub>)</span>
 
-\(1✓\)
+
+<span class="math-inline">1✓</span>
 
 
+<div class="tryit">
 **Try It**
 
 
 Find the reciprocal:
 
-  - ⓐ \(\frac{5}{7}\)
-  - ⓑ \(-\frac{1}{8}\)
-  - ⓒ \(-\frac{11}{4}\)
-  - ⓓ \(14\)
+  - ⓐ <span class="math-inline"><sup>5</sup>∕<sub>7</sub></span>
+  - ⓑ <span class="math-inline">-<sup>1</sup>∕<sub>8</sub></span>
+  - ⓒ <span class="math-inline">-<sup>11</sup>∕<sub>4</sub></span>
+  - ⓓ <span class="math-inline">14</span>
 
 
-  - ⓐ \(\frac{7}{5}\)
-  - ⓑ \(−8\)
-  - ⓒ \(-\frac{4}{11}\)
-  - ⓓ \(\frac{1}{14}\)
+  - ⓐ <span class="math-inline"><sup>7</sup>∕<sub>5</sub></span>
+  - ⓑ <span class="math-inline">−8</span>
+  - ⓒ <span class="math-inline">-<sup>4</sup>∕<sub>11</sub></span>
+  - ⓓ <span class="math-inline"><sup>1</sup>∕<sub>14</sub></span>
 
 
+<div class="tryit">
 **Try It**
 
 
 Find the reciprocal:
 
-  - ⓐ \(\frac{3}{7}\)
-  - ⓑ \(-\frac{1}{12}\)
-  - ⓒ \(-\frac{14}{9}\)
-  - ⓓ \(21\)
+  - ⓐ <span class="math-inline"><sup>3</sup>∕<sub>7</sub></span>
+  - ⓑ <span class="math-inline">-<sup>1</sup>∕<sub>12</sub></span>
+  - ⓒ <span class="math-inline">-<sup>14</sup>∕<sub>9</sub></span>
+  - ⓓ <span class="math-inline">21</span>
 
 
-  - ⓐ \(\frac{7}{3}\)
-  - ⓑ \(-12\)
-  - ⓒ \(-\frac{9}{14}\)
-  - ⓓ \(\frac{1}{21}\)
+  - ⓐ <span class="math-inline"><sup>7</sup>∕<sub>3</sub></span>
+  - ⓑ <span class="math-inline">-12</span>
+  - ⓒ <span class="math-inline">-<sup>9</sup>∕<sub>14</sub></span>
+  - ⓓ <span class="math-inline"><sup>1</sup>∕<sub>21</sub></span>
 
 In a previous chapter, we worked with opposites and absolute values.  compares opposites, absolute values, and reciprocals.
 
 
+<div class="example">
 **Example**
 
 
@@ -757,19 +875,22 @@ Absolute Value
 Reciprocal
 
 
-\(-\frac{3}{8}\)
+<span class="math-inline">-<sup>3</sup>∕<sub>8</sub></span>
 
 
-\(\frac{1}{2}\)
+<span class="math-inline"><sup>1</sup>∕<sub>2</sub></span>
 
 
-\(\frac{9}{5}\)
+<span class="math-inline"><sup>9</sup>∕<sub>5</sub></span>
 
 
-\(−5\)
+<span class="math-inline">−5</span>
 
 
-Solution
+<div class="solution">
+<span class="def-label">Solution</span>
+
+
 To find the opposite, change the sign. To find the absolute value, leave the positive numbers the same, but take the opposite of the negative numbers. To find the reciprocal, keep the sign the same and **invert** the fraction.
 
 
@@ -779,30 +900,31 @@ Absolute Value
 Reciprocal
 
 
-\(-\frac{3}{8}\)
-\(\frac{3}{8}\)
-\(\frac{3}{8}\)
-\(-\frac{8}{3}\)
+<span class="math-inline">-<sup>3</sup>∕<sub>8</sub></span>
+<span class="math-inline"><sup>3</sup>∕<sub>8</sub></span>
+<span class="math-inline"><sup>3</sup>∕<sub>8</sub></span>
+<span class="math-inline">-<sup>8</sup>∕<sub>3</sub></span>
 
 
-\(\frac{1}{2}\)
-\(-\frac{1}{2}\)
-\(\frac{1}{2}\)
-\(2\)
+<span class="math-inline"><sup>1</sup>∕<sub>2</sub></span>
+<span class="math-inline">-<sup>1</sup>∕<sub>2</sub></span>
+<span class="math-inline"><sup>1</sup>∕<sub>2</sub></span>
+<span class="math-inline">2</span>
 
 
-\(\frac{9}{5}\)
-\(-\frac{9}{5}\)
-\(\frac{9}{5}\)
-\(\frac{5}{9}\)
+<span class="math-inline"><sup>9</sup>∕<sub>5</sub></span>
+<span class="math-inline">-<sup>9</sup>∕<sub>5</sub></span>
+<span class="math-inline"><sup>9</sup>∕<sub>5</sub></span>
+<span class="math-inline"><sup>5</sup>∕<sub>9</sub></span>
 
 
-\(−5\)
-\(5\)
-\(5\)
-\(-\frac{1}{5}\)
+<span class="math-inline">−5</span>
+<span class="math-inline">5</span>
+<span class="math-inline">5</span>
+<span class="math-inline">-<sup>1</sup>∕<sub>5</sub></span>
 
 
+<div class="tryit">
 **Try It**
 
 
@@ -815,18 +937,19 @@ Absolute Value
 Reciprocal
 
 
-\(-\frac{5}{8}\)
+<span class="math-inline">-<sup>5</sup>∕<sub>8</sub></span>
 
 
-\(\frac{1}{4}\)
+<span class="math-inline"><sup>1</sup>∕<sub>4</sub></span>
 
 
-\(\frac{8}{3}\)
+<span class="math-inline"><sup>8</sup>∕<sub>3</sub></span>
 
 
-\(−8\)
+<span class="math-inline">−8</span>
 
 
+<div class="tryit">
 **Try It**
 
 
@@ -839,274 +962,307 @@ Absolute Value
 Reciprocal
 
 
-\(-\frac{4}{7}\)
+<span class="math-inline">-<sup>4</sup>∕<sub>7</sub></span>
 
 
-\(\frac{1}{8}\)
+<span class="math-inline"><sup>1</sup>∕<sub>8</sub></span>
 
 
-\(\frac{9}{4}\)
+<span class="math-inline"><sup>9</sup>∕<sub>4</sub></span>
 
 
-\(−1\)
+<span class="math-inline">−1</span>
 
+
+---
+
+
+---
 
 ## Divide Fractions
 
-Why is \(12\div 3=4?\) We previously modeled this with counters. How many groups of \(3\) counters can be made from a group of \(12\) counters?
 
-There are \(4\) groups of \(3\) counters. In other words, there are four \(3\)s in \(12.\) So, \(12\div 3=4.\)
+Why is <span class="math-inline">12÷ 3=4?</span> We previously modeled this with counters. How many groups of <span class="math-inline">3</span> counters can be made from a group of <span class="math-inline">12</span> counters?
 
-What about dividing fractions? Suppose we want to find the quotient: \(\frac{1}{2}\div \frac{1}{6}.\) We need to figure out how many \(\frac{1}{6}\)s there are in \(\frac{1}{2}.\) We can use fraction tiles to model this division. We start by lining up the half and sixth fraction tiles as shown in . Notice, there are three \(\frac{1}{6}\) tiles in \(\frac{1}{2},\) so \(\frac{1}{2}\div \frac{1}{6}=3.\)
+There are <span class="math-inline">4</span> groups of <span class="math-inline">3</span> counters. In other words, there are four <span class="math-inline">3</span>s in <span class="math-inline">12.</span> So, <span class="math-inline">12÷ 3=4.</span>
+
+What about dividing fractions? Suppose we want to find the quotient: <span class="math-inline"><sup>1</sup>∕<sub>2</sub>÷ <sup>1</sup>∕<sub>6</sub>.</span> We need to figure out how many <span class="math-inline"><sup>1</sup>∕<sub>6</sub></span>s there are in <span class="math-inline"><sup>1</sup>∕<sub>2</sub>.</span> We can use fraction tiles to model this division. We start by lining up the half and sixth fraction tiles as shown in . Notice, there are three <span class="math-inline"><sup>1</sup>∕<sub>6</sub></span> tiles in <span class="math-inline"><sup>1</sup>∕<sub>2</sub>,</span> so <span class="math-inline"><sup>1</sup>∕<sub>2</sub>÷ <sup>1</sup>∕<sub>6</sub>=3.</span>
 
 
+<div class="example">
 **Example**
 
 
-Model: \(\frac{1}{4}\div \frac{1}{8}.\)
+Model: <span class="math-inline"><sup>1</sup>∕<sub>4</sub>÷ <sup>1</sup>∕<sub>8</sub>.</span>
 
 
-Solution
-We want to determine how many \(\frac{1}{8}\)s are in \(\frac{1}{4}.\) Start with one \(\frac{1}{4}\) tile. Line up \(\frac{1}{8}\) tiles underneath the \(\frac{1}{4}\) tile.
-
-There are two \(\frac{1}{8}\)s in \(\frac{1}{4}.\)
-So, \(\frac{1}{4}\div \frac{1}{8}=2.\)
+<div class="solution">
+<span class="def-label">Solution</span>
 
 
+We want to determine how many <span class="math-inline"><sup>1</sup>∕<sub>8</sub></span>s are in <span class="math-inline"><sup>1</sup>∕<sub>4</sub>.</span> Start with one <span class="math-inline"><sup>1</sup>∕<sub>4</sub></span> tile. Line up <span class="math-inline"><sup>1</sup>∕<sub>8</sub></span> tiles underneath the <span class="math-inline"><sup>1</sup>∕<sub>4</sub></span> tile.
+
+There are two <span class="math-inline"><sup>1</sup>∕<sub>8</sub></span>s in <span class="math-inline"><sup>1</sup>∕<sub>4</sub>.</span>
+So, <span class="math-inline"><sup>1</sup>∕<sub>4</sub>÷ <sup>1</sup>∕<sub>8</sub>=2.</span>
+
+
+<div class="tryit">
 **Try It**
 
 
-Model: \(\frac{1}{3}\div \frac{1}{6}.\)
+Model: <span class="math-inline"><sup>1</sup>∕<sub>3</sub>÷ <sup>1</sup>∕<sub>6</sub>.</span>
 
 
 2
 
 
+<div class="tryit">
 **Try It**
 
 
-Model: \(\frac{1}{2}\div \frac{1}{4}.\)
+Model: <span class="math-inline"><sup>1</sup>∕<sub>2</sub>÷ <sup>1</sup>∕<sub>4</sub>.</span>
 
 
 2
 
 
+<div class="example">
 **Example**
 
 
-Model: \(2\div \frac{1}{4}.\)
+Model: <span class="math-inline">2÷ <sup>1</sup>∕<sub>4</sub>.</span>
 
 
-Solution
-We are trying to determine how many \(\frac{1}{4}\)s there are in \(2.\) We can model this as shown.
-
-Because there are eight \(\frac{1}{4}\)s in \(2,2\div \frac{1}{4}=8.\)
+<div class="solution">
+<span class="def-label">Solution</span>
 
 
+We are trying to determine how many <span class="math-inline"><sup>1</sup>∕<sub>4</sub></span>s there are in <span class="math-inline">2.</span> We can model this as shown.
+
+Because there are eight <span class="math-inline"><sup>1</sup>∕<sub>4</sub></span>s in <span class="math-inline">2,2÷ <sup>1</sup>∕<sub>4</sub>=8.</span>
+
+
+<div class="tryit">
 **Try It**
 
 
-Model: \(2\div \frac{1}{3}\)
+Model: <span class="math-inline">2÷ <sup>1</sup>∕<sub>3</sub></span>
 
 
 6
 
 
+<div class="tryit">
 **Try It**
 
 
-Model: \(3\div \frac{1}{2}\)
+Model: <span class="math-inline">3÷ <sup>1</sup>∕<sub>2</sub></span>
 
 
 6
 
 
-Let’s use money to model \(2\div \frac{1}{4}\) in another way. We often read \(\frac{1}{4}\) as a ‘quarter’, and we know that a quarter is one-fourth of a dollar as shown in . So we can think of \(2\div \frac{1}{4}\) as, “How many quarters are there in two dollars?” One dollar is \(4\) quarters, so \(2\) dollars would be \(8\) quarters. So again, \(2\div \frac{1}{4}=8.\)
+Let’s use money to model <span class="math-inline">2÷ <sup>1</sup>∕<sub>4</sub></span> in another way. We often read <span class="math-inline"><sup>1</sup>∕<sub>4</sub></span> as a ‘quarter’, and we know that a quarter is one-fourth of a dollar as shown in . So we can think of <span class="math-inline">2÷ <sup>1</sup>∕<sub>4</sub></span> as, “How many quarters are there in two dollars?” One dollar is <span class="math-inline">4</span> quarters, so <span class="math-inline">2</span> dollars would be <span class="math-inline">8</span> quarters. So again, <span class="math-inline">2÷ <sup>1</sup>∕<sub>4</sub>=8.</span>
 
 
 *The U.S. coin called a quarter is worth one-fourth of a dollar.*
 
-Using fraction tiles, we showed that \(\frac{1}{2}\div \frac{1}{6}=3.\) Notice that \(\frac{1}{2}\cdot \frac{6}{1}=3\) also. How are \(\frac{1}{6}\) and \(\frac{6}{1}\) related? They are reciprocals. This leads us to the procedure for fraction division.
+Using fraction tiles, we showed that <span class="math-inline"><sup>1</sup>∕<sub>2</sub>÷ <sup>1</sup>∕<sub>6</sub>=3.</span> Notice that <span class="math-inline"><sup>1</sup>∕<sub>2</sub>· <sup>6</sup>∕<sub>1</sub>=3</span> also. How are <span class="math-inline"><sup>1</sup>∕<sub>6</sub></span> and <span class="math-inline"><sup>6</sup>∕<sub>1</sub></span> related? They are reciprocals. This leads us to the procedure for fraction division.
 
 
-**Fraction Division**
-
-If \(a,b,c,\) and \(d\) are numbers where \(b\ne 0,c\ne 0,\) and \(d\ne 0,\) then
+<div class="definition-label">**Fraction Division**</div>
 
 
-$$
-\frac{a}{b}\div \frac{c}{d}=\frac{a}{b}\cdot \frac{d}{c}
-$$
+If <span class="math-inline">a,b,c,</span> and <span class="math-inline">d</span> are numbers where <span class="math-inline">b≠ 0,c≠ 0,</span> and <span class="math-inline">d≠ 0,</span> then
+
+
+<div class="math-display">
+<sup>a</sup>∕<sub>b</sub>÷ <sup>c</sup>∕<sub>d</sub>=<sup>a</sup>∕<sub>b</sub>· <sup>d</sup>∕<sub>c</sub>
+</div>
+
 
 To divide fractions, multiply the first fraction by the reciprocal of the second.
 
-We need to say \(b\ne 0,c\ne 0\) and \(d\ne 0\) to be sure we don’t divide by zero.
+We need to say <span class="math-inline">b≠ 0,c≠ 0</span> and <span class="math-inline">d≠ 0</span> to be sure we don’t divide by zero.
 
 
+<div class="example">
 **Example**
 
 
-Divide, and write the answer in simplified form: \(\frac{2}{5}\div (-\frac{3}{7}).\)
+Divide, and write the answer in simplified form: <span class="math-inline"><sup>2</sup>∕<sub>5</sub>÷ (-<sup>3</sup>∕<sub>7</sub>).</span>
 
 
-Solution
+<div class="solution">
+<span class="def-label">Solution</span>
 
 
-
-  \(\frac{2}{5}\div (-\frac{3}{7})\)
+  <span class="math-inline"><sup>2</sup>∕<sub>5</sub>÷ (-<sup>3</sup>∕<sub>7</sub>)</span>
 
   Multiply the first fraction by the reciprocal of the second.
-  \(\frac{2}{5}(-\frac{7}{3})\)
+  <span class="math-inline"><sup>2</sup>∕<sub>5</sub>(-<sup>7</sup>∕<sub>3</sub>)</span>
 
   Multiply. The product is negative.
-  \(-\frac{14}{15}\)
+  <span class="math-inline">-<sup>14</sup>∕<sub>15</sub></span>
 
 
+<div class="tryit">
 **Try It**
 
 
-Divide, and write the answer in simplified form: \(\frac{3}{7}\div (-\frac{2}{3}).\)
+Divide, and write the answer in simplified form: <span class="math-inline"><sup>3</sup>∕<sub>7</sub>÷ (-<sup>2</sup>∕<sub>3</sub>).</span>
 
 
-\(-\frac{9}{14}\)
+<span class="math-inline">-<sup>9</sup>∕<sub>14</sub></span>
 
 
+<div class="tryit">
 **Try It**
 
 
-Divide, and write the answer in simplified form: \(\frac{2}{3}\div (-\frac{7}{5}).\)
+Divide, and write the answer in simplified form: <span class="math-inline"><sup>2</sup>∕<sub>3</sub>÷ (-<sup>7</sup>∕<sub>5</sub>).</span>
 
 
-\(-\frac{10}{21}\)
+<span class="math-inline">-<sup>10</sup>∕<sub>21</sub></span>
 
 
+<div class="example">
 **Example**
 
 
-Divide, and write the answer in simplified form: \(\frac{2}{3}\div \frac{n}{5}.\)
+Divide, and write the answer in simplified form: <span class="math-inline"><sup>2</sup>∕<sub>3</sub>÷ <sup>n</sup>∕<sub>5</sub>.</span>
 
 
-Solution
+<div class="solution">
+<span class="def-label">Solution</span>
 
 
-
-  \(\frac{2}{3}\div \frac{n}{5}\)
+  <span class="math-inline"><sup>2</sup>∕<sub>3</sub>÷ <sup>n</sup>∕<sub>5</sub></span>
 
   Multiply the first fraction by the reciprocal of the second.
-  \(\frac{2}{3}\cdot \frac{5}{n}\)
+  <span class="math-inline"><sup>2</sup>∕<sub>3</sub>· <sup>5</sup>∕<sub>n</sub></span>
 
   Multiply.
-  \(\frac{10}{3n}\)
+  <span class="math-inline"><sup>10</sup>∕<sub>3n</sub></span>
 
 
+<div class="tryit">
 **Try It**
 
 
-Divide, and write the answer in simplified form: \(\frac{3}{5}\div \frac{p}{7}.\)
+Divide, and write the answer in simplified form: <span class="math-inline"><sup>3</sup>∕<sub>5</sub>÷ <sup>p</sup>∕<sub>7</sub>.</span>
 
 
-\(\frac{21}{5p}\)
+<span class="math-inline"><sup>21</sup>∕<sub>5p</sub></span>
 
 
+<div class="tryit">
 **Try It**
 
 
-Divide, and write the answer in simplified form: \(\frac{5}{8}\div \frac{q}{3}.\)
+Divide, and write the answer in simplified form: <span class="math-inline"><sup>5</sup>∕<sub>8</sub>÷ <sup>q</sup>∕<sub>3</sub>.</span>
 
 
-\(\frac{15}{8q}\)
+<span class="math-inline"><sup>15</sup>∕<sub>8q</sub></span>
 
 
+<div class="example">
 **Example**
 
 
-Divide, and write the answer in simplified form: \(-\frac{3}{4}\div (-\frac{7}{8}).\)
+Divide, and write the answer in simplified form: <span class="math-inline">-<sup>3</sup>∕<sub>4</sub>÷ (-<sup>7</sup>∕<sub>8</sub>).</span>
 
 
-Solution
+<div class="solution">
+<span class="def-label">Solution</span>
 
 
-
-  \(-\frac{3}{4}\div (-\frac{7}{8})\)
+  <span class="math-inline">-<sup>3</sup>∕<sub>4</sub>÷ (-<sup>7</sup>∕<sub>8</sub>)</span>
 
   Multiply the first fraction by the reciprocal of the second.
-  \(-\frac{3}{4}\cdot (-\frac{8}{7})\)
+  <span class="math-inline">-<sup>3</sup>∕<sub>4</sub>· (-<sup>8</sup>∕<sub>7</sub>)</span>
 
   Multiply. Remember to determine the sign first.
-  \(\frac{3\cdot 8}{4\cdot 7}\)
+  <span class="math-inline"><sup>3· 8</sup>∕<sub>4· 7</sub></span>
 
   Rewrite to show common factors.
-  \(\frac{3\cdot \cdot 2}{\cdot 7}\)
+  <span class="math-inline"><sup>3· · 2</sup>∕<sub>· 7</sub></span>
 
   Remove common factors and simplify.
-  \(\frac{6}{7}\)
+  <span class="math-inline"><sup>6</sup>∕<sub>7</sub></span>
 
 
+<div class="tryit">
 **Try It**
 
 
-Divide, and write the answer in simplified form: \(-\frac{2}{3}\div (-\frac{5}{6}).\)
+Divide, and write the answer in simplified form: <span class="math-inline">-<sup>2</sup>∕<sub>3</sub>÷ (-<sup>5</sup>∕<sub>6</sub>).</span>
 
 
-\(\frac{4}{5}\)
+<span class="math-inline"><sup>4</sup>∕<sub>5</sub></span>
 
 
+<div class="tryit">
 **Try It**
 
 
-Divide, and write the answer in simplified form: \(-\frac{5}{6}\div (-\frac{2}{3}).\)
+Divide, and write the answer in simplified form: <span class="math-inline">-<sup>5</sup>∕<sub>6</sub>÷ (-<sup>2</sup>∕<sub>3</sub>).</span>
 
 
-\(\frac{5}{4}\)
+<span class="math-inline"><sup>5</sup>∕<sub>4</sub></span>
 
 
+<div class="example">
 **Example**
 
 
-Divide, and write the answer in simplified form: \(\frac{7}{18}\div \frac{14}{27}.\)
+Divide, and write the answer in simplified form: <span class="math-inline"><sup>7</sup>∕<sub>18</sub>÷ <sup>14</sup>∕<sub>27</sub>.</span>
 
 
-Solution
+<div class="solution">
+<span class="def-label">Solution</span>
 
 
-
-  \(\frac{7}{18}\div \frac{14}{27}\)
+  <span class="math-inline"><sup>7</sup>∕<sub>18</sub>÷ <sup>14</sup>∕<sub>27</sub></span>
 
   Multiply the first fraction by the reciprocal of the second.
-  \(\frac{7}{18}\cdot \frac{27}{14}\)
+  <span class="math-inline"><sup>7</sup>∕<sub>18</sub>· <sup>27</sup>∕<sub>14</sub></span>
 
   Multiply.
-  \(\frac{7\cdot 27}{18\cdot 14}\)
+  <span class="math-inline"><sup>7· 27</sup>∕<sub>18· 14</sub></span>
 
   Rewrite showing common factors.
 
 
   Remove common factors.
-  \(\frac{3}{2\cdot 2}\)
+  <span class="math-inline"><sup>3</sup>∕<sub>2· 2</sub></span>
 
   Simplify.
-  \(\frac{3}{4}\)
+  <span class="math-inline"><sup>3</sup>∕<sub>4</sub></span>
 
 
+<div class="tryit">
 **Try It**
 
 
-Divide, and write the answer in simplified form: \(\frac{7}{27}\div \frac{35}{36}.\)
+Divide, and write the answer in simplified form: <span class="math-inline"><sup>7</sup>∕<sub>27</sub>÷ <sup>35</sup>∕<sub>36</sub>.</span>
 
 
-\(\frac{4}{15}\)
+<span class="math-inline"><sup>4</sup>∕<sub>15</sub></span>
 
 
+<div class="tryit">
 **Try It**
 
 
-Divide, and write the answer in simplified form: \(\frac{5}{14}\div \frac{15}{28}.\)
+Divide, and write the answer in simplified form: <span class="math-inline"><sup>5</sup>∕<sub>14</sub>÷ <sup>15</sup>∕<sub>28</sub>.</span>
 
 
-\(\frac{2}{3}\)
+<span class="math-inline"><sup>2</sup>∕<sub>3</sub></span>
 
 
-**ACCESS ADDITIONAL ONLINE RESOURCES**
+<div class="definition-label">**ACCESS ADDITIONAL ONLINE RESOURCES**</div>
+
 
 - Simplifying Fractions
 
@@ -1117,3 +1273,155 @@ Divide, and write the answer in simplified form: \(\frac{5}{14}\div \frac{15}{28
 - Dividing Fractions (Positive Only)
 
 - Dividing Signed Fractions
+
+</div>
+
+</div>
+
+</div>
+
+</div>
+
+</div>
+
+</div>
+
+</div>
+
+</div>
+
+</div>
+
+</div>
+
+</div>
+
+</div>
+
+</div>
+
+</div>
+
+</div>
+
+</div>
+
+</div>
+
+</div>
+
+</div>
+
+</div>
+
+</div>
+
+</div>
+
+</div>
+
+</div>
+
+</div>
+
+</div>
+
+</div>
+
+</div>
+
+</div>
+
+</div>
+
+</div>
+
+</div>
+
+</div>
+
+</div>
+
+</div>
+
+</div>
+
+</div>
+
+</div>
+
+</div>
+
+</div>
+
+</div>
+
+</div>
+
+</div>
+
+</div>
+
+</div>
+
+</div>
+
+</div>
+
+</div>
+
+</div>
+
+</div>
+
+</div>
+
+</div>
+
+</div>
+
+</div>
+
+</div>
+
+</div>
+
+</div>
+
+</div>
+
+</div>
+
+</div>
+
+</div>
+
+</div>
+
+</div>
+
+</div>
+
+</div>
+
+</div>
+
+</div>
+
+</div>
+
+</div>
+
+</div>
+
+</div>
+
+</div>
+
+</div>
+
+</div>
+
+</div>
+
+</div>

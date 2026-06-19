@@ -1,11 +1,85 @@
+<style>
+.math-inline {
+    font-style: italic;
+    padding: 2px 6px;
+    border-radius: 4px;
+    background: #f8f9fa;
+    font-family: Georgia, serif;
+}
+.math-display {
+    background: #f8f9fa;
+    border-left: 4px solid #4a90d9;
+    padding: 16px 20px;
+    margin: 16px 0;
+    border-radius: 6px;
+    font-size: 1.15em;
+    font-family: Georgia, serif;
+    text-align: center;
+    line-height: 2;
+    overflow-x: auto;
+}
+.example-box, .example {
+    background: #f0f8ff;
+    border-left: 4px solid #2e86de;
+    padding: 12px 20px;
+    margin: 16px 0;
+    border-radius: 6px;
+}
+.tryit-box, .tryit {
+    background: #f0fff4;
+    border-left: 4px solid #27ae60;
+    padding: 12px 20px;
+    margin: 16px 0;
+    border-radius: 6px;
+}
+.solution-box, .solution {
+    background: #fef9e7;
+    border-left: 4px solid #f39c12;
+    padding: 12px 20px;
+    margin: 12px 0;
+    border-radius: 6px;
+}
+.check-box, .check {
+    background: #fef9e7;
+    border-left: 4px solid #f39c12;
+    padding: 12px 20px;
+    margin: 12px 0;
+    border-radius: 6px;
+}
+.prep-quiz {
+    background: #fff3cd;
+    border: 1px solid #ffc107;
+    padding: 12px 20px;
+    margin: 16px 0;
+    border-radius: 6px;
+}
+.def-label, .definition-label {
+    font-weight: bold;
+    font-size: 1.1em;
+    margin: 20px 0 8px 0;
+    color: #2c3e50;
+    display: block;
+}
+.math-display sup, .math-inline sup { font-size: 0.75em; line-height: 0; }
+.math-display sub, .math-inline sub { font-size: 0.75em; line-height: 0; }
+</style>
+
+
+---
+
+
+---
+
 ## Add and Subtract Decimals
+
 
 Let’s take one more look at the lunch order from the start of Decimals, this time noticing how the numbers were added together.
 
 All three items (sandwich, water, tax) were priced in dollars and cents, so we lined up the dollars under the dollars and the cents under the cents, with the **decimal point**s lined up between them. Then we just added each column, as if we were adding whole numbers. By lining up **decimal**s this way, we can add or subtract the corresponding place values just as we did with whole numbers.
 
 
-**Add or subtract decimals.**
+<div class="definition-label">**Add or subtract decimals.**</div>
+
 
 - Write the numbers vertically so the decimal points line up.
 
@@ -14,18 +88,18 @@ All three items (sandwich, water, tax) were priced in dollars and cents, so we l
 - Add or subtract the numbers as if they were whole numbers. Then place the decimal in the answer under the decimal points in the given numbers.
 
 
+<div class="example">
 **Example**
 
 
-Add: \(3.7+12.4.\)
+Add: <span class="math-inline">3.7+12.4.</span>
 
 
-Solution
+<div class="solution">
+<span class="def-label">Solution</span>
 
 
-
-
- \(3.7+12.4\)
+ <span class="math-inline">3.7+12.4</span>
 
 
    Write the numbers vertically so the decimal points line up.
@@ -36,178 +110,180 @@ Solution
    Place holders are not needed since both numbers have the same number of decimal places.
 
 
-
    Add the numbers as if they were whole numbers. Then place the decimal in the answer under the decimal points in the given numbers.
    \(\overset{1}{3} \\
 \underset{_____}{+12.4} \\
 16.1\)
 
 
-
+<div class="tryit">
 **Try It**
 
 
-Add: \(5.7+11.9.\)
+Add: <span class="math-inline">5.7+11.9.</span>
 
 
 17.6
 
 
+<div class="tryit">
 **Try It**
 
 
-Add: \(18.32+14.79.\)
+Add: <span class="math-inline">18.32+14.79.</span>
 
 
 33.11
 
 
+<div class="example">
 **Example**
 
 
-Add: \(23.5+41.38.\)
+Add: <span class="math-inline">23.5+41.38.</span>
 
 
-Solution
+<div class="solution">
+<span class="def-label">Solution</span>
 
 
-
-
- \(23.5+41.38\)
+ <span class="math-inline">23.5+41.38</span>
 
 
    Write the numbers vertically so the decimal points line up.
-
 
 
    Place 0 as a place holder after the 5 in 23.5, so that both numbers have two decimal places.
 
 
-
    Add the numbers as if they were whole numbers. Then place the decimal in the answer under the decimal points in the given numbers.
 
 
-
-
+<div class="tryit">
 **Try It**
 
 
-Add: \(4.8+11.69.\)
+Add: <span class="math-inline">4.8+11.69.</span>
 
 
 16.49
 
 
+<div class="tryit">
 **Try It**
 
 
-Add: \(5.123+18.47.\)
+Add: <span class="math-inline">5.123+18.47.</span>
 
 
 23.593
 
 
-How much change would you get if you handed the cashier a \($20\) bill for a \($14.65\) purchase? We will show the steps to calculate this in the next example.
+How much change would you get if you handed the cashier a <span class="math-inline">$20</span> bill for a <span class="math-inline">$14.65</span> purchase? We will show the steps to calculate this in the next example.
 
 
+<div class="example">
 **Example**
 
 
-Subtract: \(20-14.65.\)
+Subtract: <span class="math-inline">20-14.65.</span>
 
 
-Solution
+<div class="solution">
+<span class="def-label">Solution</span>
 
 
-
-
- \(20-14.65\)
+ <span class="math-inline">20-14.65</span>
 
 
    Write the numbers vertically so the decimal points line up. Remember 20 is a whole number, so place the decimal point after the 0.
 
 
-
    Place two zeros after the decimal point in 20, as place holders so that both numbers have two decimal places.
-
 
 
    Subtract the numbers as if they were whole numbers. Then place the decimal in the answer under the decimal points in the given numbers.
 
 
-
-
+<div class="tryit">
 **Try It**
 
 
 Subtract:
-\(10-9.58.\)
+<span class="math-inline">10-9.58.</span>
 
 
 0.42
 
 
+<div class="tryit">
 **Try It**
 
 
 Subtract:
-\(50-37.42.\)
+<span class="math-inline">50-37.42.</span>
 
 
 12.58
 
 
+<div class="example">
 **Example**
 
 
-Subtract: \(2.51-7.4.\)
+Subtract: <span class="math-inline">2.51-7.4.</span>
 
 
-Solution
-If we subtract \(7.4\) from \(2.51,\) the answer will be negative since \(7.4>2.51.\) To subtract easily, we can subtract \(2.51\) from \(7.4.\) Then we will place the negative sign in the result.
+<div class="solution">
+<span class="def-label">Solution</span>
 
 
+If we subtract <span class="math-inline">7.4</span> from <span class="math-inline">2.51,</span> the answer will be negative since <span class="math-inline">7.4>2.51.</span> To subtract easily, we can subtract <span class="math-inline">2.51</span> from <span class="math-inline">7.4.</span> Then we will place the negative sign in the result.
 
 
- \(2.51-7.4\)
+ <span class="math-inline">2.51-7.4</span>
 
 
    Write the numbers vertically so the decimal points line up.
 
 
-
    Place zero after the 4 in 7.4 as a place holder, so that both numbers have two decimal places.
-
 
 
    Subtract and place the decimal in the answer.
 
 
-
- Remember that we are really subtracting \(2.51-7.4\) so the answer is negative.
- \(2.51-7.4=-4.89\)
-
+ Remember that we are really subtracting <span class="math-inline">2.51-7.4</span> so the answer is negative.
+ <span class="math-inline">2.51-7.4=-4.89</span>
 
 
+<div class="tryit">
 **Try It**
 
 
-Subtract: \(4.77-6.3.\)
+Subtract: <span class="math-inline">4.77-6.3.</span>
 
 
 −1.53
 
 
+<div class="tryit">
 **Try It**
 
 
-Subtract: \(8.12-11.7.\)
+Subtract: <span class="math-inline">8.12-11.7.</span>
 
 
 −3.58
 
 
+---
+
+
+---
+
 ## Multiply Decimals
+
 
 Multiplying decimals is very much like multiplying whole numbers—we just have to determine where to place the **decimal point**. The procedure for multiplying decimals will make sense if we first review multiplying fractions.
 
@@ -218,14 +294,15 @@ So let’s see what we would get as the product of **decimal**s by converting th
 
 There is a pattern that we can use. In A, we multiplied two numbers that each had one decimal place, and the product had two decimal places. In B, we multiplied a number with one decimal place by a number with two decimal places, and the product had three decimal places.
 
-How many decimal places would you expect for the product of \((0.01)(0.004)?\) If you said “five”, you recognized the pattern. When we multiply two numbers with decimals, we count all the decimal places in the factors—in this case two plus three—to get the number of decimal places in the product—in this case five.
+How many decimal places would you expect for the product of <span class="math-inline">(0.01)(0.004)?</span> If you said “five”, you recognized the pattern. When we multiply two numbers with decimals, we count all the decimal places in the factors—in this case two plus three—to get the number of decimal places in the product—in this case five.
 
 Once we know how to determine the number of digits after the **decimal point**, we can multiply decimal numbers without converting them to fractions first. The number of decimal places in the product is the sum of the number of decimal places in the factors.
 
 The rules for multiplying positive and negative numbers apply to **decimal**s, too, of course.
 
 
-**Multiplying Two Numbers**
+<div class="definition-label">**Multiplying Two Numbers**</div>
+
 
 - if their signs are the same, the product is positive.
 
@@ -234,7 +311,8 @@ The rules for multiplying positive and negative numbers apply to **decimal**s, t
 When you multiply signed decimals, first determine the sign of the product and then multiply as if the numbers were both positive. Finally, write the product with the appropriate sign.
 
 
-**Multiply decimal numbers.**
+<div class="definition-label">**Multiply decimal numbers.**</div>
+
 
 - Determine the sign of the product.
 
@@ -247,18 +325,18 @@ When you multiply signed decimals, first determine the sign of the product and t
 - Write the product with the appropriate sign.
 
 
+<div class="example">
 **Example**
 
 
-Multiply: \((3.9)(4.075).\)
+Multiply: <span class="math-inline">(3.9)(4.075).</span>
 
 
-Solution
+<div class="solution">
+<span class="def-label">Solution</span>
 
 
-
-
- \((3.9)(4.075)\)
+ <span class="math-inline">(3.9)(4.075)</span>
 
 
    Determine the sign of the product. The signs are the same.
@@ -268,51 +346,48 @@ Solution
    Write the numbers in vertical format, lining up the numbers on the right.
 
 
-
    Multiply the numbers as if they were whole numbers, temporarily ignoring the decimal points.
 
 
-
-
- Place the decimal point. Add the number of decimal places in the factors \((1+3).\) Place the decimal point 4 places from the right.
-
+ Place the decimal point. Add the number of decimal places in the factors <span class="math-inline">(1+3).</span> Place the decimal point 4 places from the right.
 
 
  The product is positive.
- \((3.9)(4.075)=15.8925\)
+ <span class="math-inline">(3.9)(4.075)=15.8925</span>
 
 
-
+<div class="tryit">
 **Try It**
 
 
-Multiply: \(4.5(6.107).\)
+Multiply: <span class="math-inline">4.5(6.107).</span>
 
 
 27.4815
 
 
+<div class="tryit">
 **Try It**
 
 
-Multiply: \(10.79(8.12).\)
+Multiply: <span class="math-inline">10.79(8.12).</span>
 
 
 87.6148
 
 
+<div class="example">
 **Example**
 
 
-Multiply: \((−8.2)(5.19).\)
+Multiply: <span class="math-inline">(−8.2)(5.19).</span>
 
 
-Solution
+<div class="solution">
+<span class="def-label">Solution</span>
 
 
-
-
- \((−8.2)(5.19)\)
+ <span class="math-inline">(−8.2)(5.19)</span>
 
 
    The signs are different.
@@ -332,8 +407,6 @@ Solution
 42558\)
 
 
-
-
  \(5.19 \\
 \underset{_____}{\times 8.2} \\
 1038 \\
@@ -342,23 +415,24 @@ Solution
 
 
  The product is negative.
- \((−8.2)(5.19)=−42.558\)
+ <span class="math-inline">(−8.2)(5.19)=−42.558</span>
 
 
-
+<div class="tryit">
 **Try It**
 
 
-Multiply: \((4.63)(−2.9).\)
+Multiply: <span class="math-inline">(4.63)(−2.9).</span>
 
 
 −13.427
 
 
+<div class="tryit">
 **Try It**
 
 
-Multiply: \((−7.78)(4.9).\)
+Multiply: <span class="math-inline">(−7.78)(4.9).</span>
 
 
 −38.122
@@ -367,56 +441,51 @@ Multiply: \((−7.78)(4.9).\)
 In the next example, we’ll need to add several placeholder zeros to properly place the **decimal point**.
 
 
+<div class="example">
 **Example**
 
 
-Multiply: \((0.03)(0.045).\)
+Multiply: <span class="math-inline">(0.03)(0.045).</span>
 
 
-Solution
+<div class="solution">
+<span class="def-label">Solution</span>
 
 
-
-
- \((0.03)(0.045)\)
+ <span class="math-inline">(0.03)(0.045)</span>
 
 
    The product is positive.
 
 
-
    Write in vertical format, lining up the numbers on the right.
-
-
 
 
    Multiply.
 
 
-
-
 Add zeros as needed to get the 5 places.
 
 
-
  The product is positive.
- \((0.03)(0.045)=0.00135\)
+ <span class="math-inline">(0.03)(0.045)=0.00135</span>
 
 
-
+<div class="tryit">
 **Try It**
 
 
-Multiply: \((0.04)(0.087).\)
+Multiply: <span class="math-inline">(0.04)(0.087).</span>
 
 
 0.00348
 
 
+<div class="tryit">
 **Try It**
 
 
-Multiply: \((0.09)(0.067).\)
+Multiply: <span class="math-inline">(0.09)(0.067).</span>
 
 
 0.00603
@@ -424,7 +493,7 @@ Multiply: \((0.09)(0.067).\)
 
 ### Multiply by Powers of
 
-In many fields, especially in the sciences, it is common to multiply **decimal**s by powers of \(10.\) Let’s see what happens when we multiply \(1.9436\) by some powers of \(10.\)
+In many fields, especially in the sciences, it is common to multiply **decimal**s by powers of <span class="math-inline">10.</span> Let’s see what happens when we multiply <span class="math-inline">1.9436</span> by some powers of <span class="math-inline">10.</span>
 
 Look at the results without the final zeros. Do you notice a pattern?
 
@@ -436,90 +505,77 @@ Look at the results without the final zeros. Do you notice a pattern?
 The number of places that the **decimal point** moved is the same as the number of zeros in the power of ten.  summarizes the results.
 
 
-We can use this pattern as a shortcut to multiply by powers of ten instead of multiplying using the vertical format. We can count the zeros in the power of \(10\) and then move the decimal point that same of places to the right.
+We can use this pattern as a shortcut to multiply by powers of ten instead of multiplying using the vertical format. We can count the zeros in the power of <span class="math-inline">10</span> and then move the decimal point that same of places to the right.
 
-So, for example, to multiply \(45.86\) by \(100,\) move the decimal point \(2\) places to the right.
+So, for example, to multiply <span class="math-inline">45.86</span> by <span class="math-inline">100,</span> move the decimal point <span class="math-inline">2</span> places to the right.
 
-Sometimes when we need to move the decimal point, there are not enough decimal places. In that case, we use zeros as placeholders. For example, let’s multiply \(2.4\) by \(100.\) We need to move the decimal point \(2\) places to the right. Since there is only one digit to the right of the decimal point, we must write a \(0\) in the hundredths place.
+Sometimes when we need to move the decimal point, there are not enough decimal places. In that case, we use zeros as placeholders. For example, let’s multiply <span class="math-inline">2.4</span> by <span class="math-inline">100.</span> We need to move the decimal point <span class="math-inline">2</span> places to the right. Since there is only one digit to the right of the decimal point, we must write a <span class="math-inline">0</span> in the hundredths place.
 
 
-**Multiply a decimal by a power of 10.**
+<div class="definition-label">**Multiply a decimal by a power of 10.**</div>
 
-- Move the decimal point to the right the same number of places as the number of zeros in the power of \(10.\)
+
+- Move the decimal point to the right the same number of places as the number of zeros in the power of <span class="math-inline">10.</span>
 
 - Write zeros at the end of the number as placeholders if needed.
 
 
+<div class="example">
 **Example**
 
 
-Multiply \(5.63\) by factors of ⓐ \(10\) ⓑ \(100\)ⓒ \(1000.\)
+Multiply <span class="math-inline">5.63</span> by factors of ⓐ <span class="math-inline">10</span> ⓑ <span class="math-inline">100</span>ⓒ <span class="math-inline">1000.</span>
 
 
-Solution
+<div class="solution">
+<span class="def-label">Solution</span>
+
+
 By looking at the number of zeros in the multiple of ten, we see the number of places we need to move the **decimal** to the right.
-
-
 
 
 ⓐ
 
 
-
-  \(56.3(10)\)
+  <span class="math-inline">56.3(10)</span>
 
 
    There is 1 zero in 10, so move the decimal point 1 place to the right.
 
 
-
-
-  \(56.3\)
-
-
+  <span class="math-inline">56.3</span>
 
 
  ⓑ
 
 
-
-
-
- \(5.63(100)\)
+ <span class="math-inline">5.63(100)</span>
 
 
    There are 2 zeros in 100, so move the decimal point 2 places to the right.
 
 
-
-
- \(563\)
-
-
+ <span class="math-inline">563</span>
 
 
    ⓒ
 
 
-
-
-
-\(5.63(1000)\)
+<span class="math-inline">5.63(1000)</span>
 
 
    There are 3 zeros in 1000, so move the decimal point 3 places to the right.
 
 
-
    A zero must be added at the end.
-   \(5,630\)
+   <span class="math-inline">5,630</span>
 
 
-
+<div class="tryit">
 **Try It**
 
 
-Multiply \(2.58\) by factors of ⓐ \(10\) ⓑ \(100\) ⓒ \(1000.\)
+Multiply <span class="math-inline">2.58</span> by factors of ⓐ <span class="math-inline">10</span> ⓑ <span class="math-inline">100</span> ⓒ <span class="math-inline">1000.</span>
 
 
   - ⓐ 25.8
@@ -527,10 +583,11 @@ Multiply \(2.58\) by factors of ⓐ \(10\) ⓑ \(100\) ⓒ \(1000.\)
   - ⓒ 2,580
 
 
+<div class="tryit">
 **Try It**
 
 
-Multiply \(14.2\) by factors of ⓐ \(10\) ⓑ \(100\) ⓒ \(1000.\)
+Multiply <span class="math-inline">14.2</span> by factors of ⓐ <span class="math-inline">10</span> ⓑ <span class="math-inline">100</span> ⓒ <span class="math-inline">1000.</span>
 
 
   - ⓐ 142
@@ -538,25 +595,33 @@ Multiply \(14.2\) by factors of ⓐ \(10\) ⓑ \(100\) ⓒ \(1000.\)
   - ⓒ 14,200
 
 
+---
+
+
+---
+
 ## Divide Decimals
+
 
 Just as with multiplication, division of decimals is very much like dividing whole numbers. We just have to figure out where the **decimal point** must be placed.
 
 To understand **decimal** division, let’s consider the multiplication problem
 
 
-$$
+<div class="math-display">
 (0.2)(4)=0.8
-$$
+</div>
+
 
 Remember, a multiplication problem can be rephrased as a division problem. So we can write
 
 
-$$
-0.8\div 4=0.2
-$$
+<div class="math-display">
+0.8÷ 4=0.2
+</div>
 
-We can think of this as “If we divide 8 tenths into four groups, how many are in each group?”  shows that there are four groups of two-tenths in eight-tenths. So \(0.8\div 4=0.2.\)
+
+We can think of this as “If we divide 8 tenths into four groups, how many are in each group?”  shows that there are four groups of two-tenths in eight-tenths. So <span class="math-inline">0.8÷ 4=0.2.</span>
 
 Using long division notation, we would write
 
@@ -565,75 +630,72 @@ Notice that the decimal point in the quotient is directly above the decimal poin
 To divide a decimal by a whole number, we place the decimal point in the quotient above the decimal point in the dividend and then divide as usual. Sometimes we need to use extra zeros at the end of the dividend to keep dividing until there is no remainder.
 
 
-**Divide a decimal by a whole number.**
+<div class="definition-label">**Divide a decimal by a whole number.**</div>
+
 
 - Write as long division, placing the decimal point in the quotient above the decimal point in the dividend.
 
 - Divide as usual.
 
 
+<div class="example">
 **Example**
 
 
-Divide: \(0.12\div 3.\)
+Divide: <span class="math-inline">0.12÷ 3.</span>
 
 
-Solution
+<div class="solution">
+<span class="def-label">Solution</span>
 
 
-
-
- \(0.12\div 3\)
+ <span class="math-inline">0.12÷ 3</span>
 
 
    Write as long division, placing the decimal point in the quotient above the decimal point in the dividend.
 
 
-
-
 Divide as usual. Since 3 does not go into 0 or 1 we use zeros as placeholders.
 
 
+   <span class="math-inline">0.12÷ 3=0.04</span>
 
 
-
-
-   \(0.12\div 3=0.04\)
-
-
-
-
+<div class="tryit">
 **Try It**
 
 
-Divide: \(0.28\div 4.\)
+Divide: <span class="math-inline">0.28÷ 4.</span>
 
 
 0.07
 
 
+<div class="tryit">
 **Try It**
 
 
-Divide: \(0.56\div 7.\)
+Divide: <span class="math-inline">0.56÷ 7.</span>
 
 
 0.08
 
 
-In everyday life, we divide whole numbers into decimals—money—to find the price of one item. For example, suppose a case of \(24\) water bottles cost \($3.99.\) To find the price per water bottle, we would divide \($3.99\) by \(24,\) and round the answer to the nearest cent (hundredth).
+In everyday life, we divide whole numbers into decimals—money—to find the price of one item. For example, suppose a case of <span class="math-inline">24</span> water bottles cost <span class="math-inline">$3.99.</span> To find the price per water bottle, we would divide <span class="math-inline">$3.99</span> by <span class="math-inline">24,</span> and round the answer to the nearest cent (hundredth).
 
 
+<div class="example">
 **Example**
 
 
-Divide: \($3.99\div 24.\)
+Divide: <span class="math-inline">$3.99÷ 24.</span>
 
 
-Solution
+<div class="solution">
+<span class="def-label">Solution</span>
 
 
-\($3.99\div 24\)
+<span class="math-inline">$3.99÷ 24</span>
 
 
 Place the decimal point in the quotient above the decimal point in the dividend.
@@ -643,28 +705,30 @@ Divide as usual. When do we stop? Since this division involves money, we round i
 
 
 Round to the nearest cent.
-\($0.166\approx $0.17\)
+<span class="math-inline">$0.166≈ $0.17</span>
 
 
-\($3.99\div 24\approx $0.17\)
+<span class="math-inline">$3.99÷ 24≈ $0.17</span>
 
 
-This means the price per bottle is \(17\) cents.
+This means the price per bottle is <span class="math-inline">17</span> cents.
 
 
+<div class="tryit">
 **Try It**
 
 
-Divide: \($6.99\div 36.\)
+Divide: <span class="math-inline">$6.99÷ 36.</span>
 
 
 $0.19
 
 
+<div class="tryit">
 **Try It**
 
 
-Divide: \($4.99\div 12.\)
+Divide: <span class="math-inline">$4.99÷ 12.</span>
 
 
 $0.42
@@ -675,38 +739,42 @@ $0.42
 So far, we have divided a **decimal** by a whole number. What happens when we divide a decimal by another decimal? Let’s look at the same multiplication problem we looked at earlier, but in a different way.
 
 
-$$
+<div class="math-display">
 (0.2)(4)=0.8
-$$
-
-Remember, again, that a multiplication problem can be rephrased as a division problem. This time we ask, “How many times does \(0.2\) go into \(0.8?”\) Because \((0.2)(4)=0.8,\) we can say that \(0.2\) goes into \(0.8\) four times. This means that \(0.8\) divided by \(0.2\) is \(4.\)
+</div>
 
 
-$$
-0.8\div 0.2=4
-$$
-
-We would get the same answer, \(4,\) if we divide \(8\) by \(2,\) both whole numbers. Why is this so? Let’s think about the division problem as a fraction.
+Remember, again, that a multiplication problem can be rephrased as a division problem. This time we ask, “How many times does <span class="math-inline">0.2</span> go into <span class="math-inline">0.8?”</span> Because <span class="math-inline">(0.2)(4)=0.8,</span> we can say that <span class="math-inline">0.2</span> goes into <span class="math-inline">0.8</span> four times. This means that <span class="math-inline">0.8</span> divided by <span class="math-inline">0.2</span> is <span class="math-inline">4.</span>
 
 
-$$
-\frac{0.8}{0.2} \\
+<div class="math-display">
+0.8÷ 0.2=4
+</div>
+
+
+We would get the same answer, <span class="math-inline">4,</span> if we divide <span class="math-inline">8</span> by <span class="math-inline">2,</span> both whole numbers. Why is this so? Let’s think about the division problem as a fraction.
+
+
+<div class="math-display">
+<sup>0.8</sup>∕<sub>0.2</sub> \\
  \\
-\frac{(0.8)10}{(0.2)10} \\
+<sup>(0.8)10</sup>∕<sub>(0.2)10</sub> \\
  \\
-\frac{8}{2} \\
+<sup>8</sup>∕<sub>2</sub> \\
  \\
 4
-$$
+</div>
 
-We multiplied the numerator and denominator by \(10\) and ended up just dividing \(8\) by \(2.\) To divide decimals, we multiply both the numerator and denominator by the same power of \(10\) to make the denominator a whole number. Because of the Equivalent Fractions Property, we haven’t changed the value of the fraction. The effect is to move the decimal points in the numerator and denominator the same number of places to the right.
+
+We multiplied the numerator and denominator by <span class="math-inline">10</span> and ended up just dividing <span class="math-inline">8</span> by <span class="math-inline">2.</span> To divide decimals, we multiply both the numerator and denominator by the same power of <span class="math-inline">10</span> to make the denominator a whole number. Because of the Equivalent Fractions Property, we haven’t changed the value of the fraction. The effect is to move the decimal points in the numerator and denominator the same number of places to the right.
 
 We use the rules for dividing positive and negative numbers with decimals, too. When dividing signed decimals, first determine the sign of the quotient and then divide as if the numbers were both positive. Finally, write the quotient with the appropriate sign.
 
 It may help to review the vocabulary for division:
 
 
-**Divide decimal numbers.**
+<div class="definition-label">**Divide decimal numbers.**</div>
+
 
 - Determine the sign of the quotient.
 
@@ -717,13 +785,15 @@ It may help to review the vocabulary for division:
 - Write the quotient with the appropriate sign.
 
 
+<div class="example">
 **Example**
 
 
-Divide: \(−2.89\div (3.4).\)
+Divide: <span class="math-inline">−2.89÷ (3.4).</span>
 
 
-Solution
+<div class="solution">
+<span class="def-label">Solution</span>
 
 
 Determine the sign of the quotient.
@@ -737,37 +807,41 @@ Divide. Place the decimal point in the quotient above the decimal point in the d
 
 
 Write the quotient with the appropriate sign.
-\(−2.89\div (3.4)=−0.85\)
+<span class="math-inline">−2.89÷ (3.4)=−0.85</span>
 
 
+<div class="tryit">
 **Try It**
 
 
-Divide: \(−1.989\div 5.1.\)
+Divide: <span class="math-inline">−1.989÷ 5.1.</span>
 
 
 −0.39
 
 
+<div class="tryit">
 **Try It**
 
 
-Divide: \(−2.04\div 5.1.\)
+Divide: <span class="math-inline">−2.04÷ 5.1.</span>
 
 
 −0.4
 
 
+<div class="example">
 **Example**
 
 
-Divide: \(−25.65\div (−0.06).\)
+Divide: <span class="math-inline">−25.65÷ (−0.06).</span>
 
 
-Solution
+<div class="solution">
+<span class="def-label">Solution</span>
 
 
-\(−25.65\div (−0.06)\)
+<span class="math-inline">−25.65÷ (−0.06)</span>
 
 
 The signs are the same.
@@ -783,22 +857,24 @@ Divide.
 
 
 Write the quotient with the appropriate sign.
-\(−25.65\div (−0.06)=427.5\)
+<span class="math-inline">−25.65÷ (−0.06)=427.5</span>
 
 
+<div class="tryit">
 **Try It**
 
 
-Divide: \(−23.492\div (−0.04).\)
+Divide: <span class="math-inline">−23.492÷ (−0.04).</span>
 
 
 587.3
 
 
+<div class="tryit">
 **Try It**
 
 
-Divide: \(−4.11\div (−0.12).\)
+Divide: <span class="math-inline">−4.11÷ (−0.12).</span>
 
 
 34.25
@@ -807,16 +883,18 @@ Divide: \(−4.11\div (−0.12).\)
 Now we will divide a whole number by a **decimal** number.
 
 
+<div class="example">
 **Example**
 
 
-Divide: \(4\div 0.05.\)
+Divide: <span class="math-inline">4÷ 0.05.</span>
 
 
-Solution
+<div class="solution">
+<span class="def-label">Solution</span>
 
 
-\(4\div 0.05\)
+<span class="math-inline">4÷ 0.05</span>
 
 
 The signs are the same.
@@ -832,36 +910,45 @@ Divide.
 
 
 Write the quotient with the appropriate sign.
-\(4\div 0.05=80\)
+<span class="math-inline">4÷ 0.05=80</span>
 
 
-We can relate this example to money. How many nickels are there in four dollars? Because \(4\div 0.05=80,\) there are \(80\) nickels in \($4.\)
+We can relate this example to money. How many nickels are there in four dollars? Because <span class="math-inline">4÷ 0.05=80,</span> there are <span class="math-inline">80</span> nickels in <span class="math-inline">$4.</span>
 
 
+<div class="tryit">
 **Try It**
 
 
-Divide: \(6\div 0.03.\)
+Divide: <span class="math-inline">6÷ 0.03.</span>
 
 
 200
 
 
+<div class="tryit">
 **Try It**
 
 
-Divide: \(7\div 0.02.\)
+Divide: <span class="math-inline">7÷ 0.02.</span>
 
 
 350
 
 
+---
+
+
+---
+
 ## Use Decimals in Money Applications
+
 
 We often apply decimals in real life, and most of the applications involving money. The Strategy for Applications we used in The Language of Algebra gives us a plan to follow to help find the answer. Take a moment to review that strategy now.
 
 
-**Strategy for Applications**
+<div class="definition-label">**Strategy for Applications**</div>
+
 
 - Identify what you are asked to find.
 
@@ -874,13 +961,15 @@ We often apply decimals in real life, and most of the applications involving mon
 - Answer the question with a complete sentence.
 
 
+<div class="example">
 **Example**
 
 
-Paul received \($50\) for his birthday. He spent \($31.64\) on a video game. How much of Paul’s birthday money was left?
+Paul received <span class="math-inline">$50</span> for his birthday. He spent <span class="math-inline">$31.64</span> on a video game. How much of Paul’s birthday money was left?
 
 
-Solution
+<div class="solution">
+<span class="def-label">Solution</span>
 
 
 What are you asked to find?
@@ -892,7 +981,7 @@ $50 less $31.64
 
 
 Translate.
-\(50-31.64\)
+<span class="math-inline">50-31.64</span>
 
 
 Simplify.
@@ -903,31 +992,35 @@ Write a sentence.
 Paul has $18.36 left.
 
 
+<div class="tryit">
 **Try It**
 
 
-Nicole earned \($35\) for babysitting her cousins, then went to the bookstore and spent \($18.48\) on books and coffee. How much of her babysitting money was left?
+Nicole earned <span class="math-inline">$35</span> for babysitting her cousins, then went to the bookstore and spent <span class="math-inline">$18.48</span> on books and coffee. How much of her babysitting money was left?
 
 
 $16.52
 
 
+<div class="tryit">
 **Try It**
 
 
-Amber bought a pair of shoes for \($24.75\) and a purse for \($36.90.\) The sales tax was \($4.32.\) How much did Amber spend?
+Amber bought a pair of shoes for <span class="math-inline">$24.75</span> and a purse for <span class="math-inline">$36.90.</span> The sales tax was <span class="math-inline">$4.32.</span> How much did Amber spend?
 
 
 $65.97
 
 
+<div class="example">
 **Example**
 
 
-Jessie put \(8\) gallons of gas in her car. One gallon of gas costs \($3.529.\) How much does Jessie owe for the gas? (Round the answer to the nearest cent.)
+Jessie put <span class="math-inline">8</span> gallons of gas in her car. One gallon of gas costs <span class="math-inline">$3.529.</span> How much does Jessie owe for the gas? (Round the answer to the nearest cent.)
 
 
-Solution
+<div class="solution">
+<span class="def-label">Solution</span>
 
 
 What are you asked to find?
@@ -939,7 +1032,7 @@ Write a phrase.
 
 
 Translate.
-\(8($3.529)\)
+<span class="math-inline">8($3.529)</span>
 
 
 Simplify.
@@ -954,31 +1047,35 @@ Write a sentence.
 Jessie owes $28.23 for her gas purchase.
 
 
+<div class="tryit">
 **Try It**
 
 
-Hector put \(13\) gallons of gas into his car. One gallon of gas costs \($3.175.\) How much did Hector owe for the gas? Round to the nearest cent.
+Hector put <span class="math-inline">13</span> gallons of gas into his car. One gallon of gas costs <span class="math-inline">$3.175.</span> How much did Hector owe for the gas? Round to the nearest cent.
 
 
 $41.28
 
 
+<div class="tryit">
 **Try It**
 
 
-Christopher bought \(5\) pizzas for the team. Each pizza cost \($9.75.\) How much did all the pizzas cost?
+Christopher bought <span class="math-inline">5</span> pizzas for the team. Each pizza cost <span class="math-inline">$9.75.</span> How much did all the pizzas cost?
 
 
 $48.75
 
 
+<div class="example">
 **Example**
 
 
-Four friends went out for dinner. They shared a large pizza and a pitcher of soda. The total cost of their dinner was \($31.76.\) If they divide the cost equally, how much should each friend pay?
+Four friends went out for dinner. They shared a large pizza and a pitcher of soda. The total cost of their dinner was <span class="math-inline">$31.76.</span> If they divide the cost equally, how much should each friend pay?
 
 
-Solution
+<div class="solution">
+<span class="def-label">Solution</span>
 
 
 What are you asked to find?
@@ -990,7 +1087,7 @@ $31.76 divided equally among the four friends.
 
 
 Translate to an expression.
-\($31.76\div 4\)
+<span class="math-inline">$31.76÷ 4</span>
 
 
 Simplify.
@@ -1001,19 +1098,21 @@ Write a sentence.
 Each friend should pay $7.94 for his share of the dinner.
 
 
+<div class="tryit">
 **Try It**
 
 
-Six friends went out for dinner. The total cost of their dinner was \($92.82.\) If they divide the bill equally, how much should each friend pay?
+Six friends went out for dinner. The total cost of their dinner was <span class="math-inline">$92.82.</span> If they divide the bill equally, how much should each friend pay?
 
 
 $15.47
 
 
+<div class="tryit">
 **Try It**
 
 
-Chad worked \(40\) hours last week and his paycheck was \($570.\) How much does he earn per hour?
+Chad worked <span class="math-inline">40</span> hours last week and his paycheck was <span class="math-inline">$570.</span> How much does he earn per hour?
 
 
 $14.25
@@ -1022,13 +1121,15 @@ $14.25
 Be careful to follow the order of operations in the next example. Remember to multiply before you add.
 
 
+<div class="example">
 **Example**
 
 
-Marla buys \(6\) bananas that cost \($0.22\) each and \(4\) oranges that cost \($0.49\) each. How much is the total cost of the fruit?
+Marla buys <span class="math-inline">6</span> bananas that cost <span class="math-inline">$0.22</span> each and <span class="math-inline">4</span> oranges that cost <span class="math-inline">$0.49</span> each. How much is the total cost of the fruit?
 
 
-Solution
+<div class="solution">
+<span class="def-label">Solution</span>
 
 
 What are you asked to find?
@@ -1040,11 +1141,11 @@ Write a phrase.
 
 
 Translate to an expression.
-\(6($0.22)+4($0.49)\)
+<span class="math-inline">6($0.22)+4($0.49)</span>
 
 
 Simplify.
-\($1.32+$1.96\)
+<span class="math-inline">$1.32+$1.96</span>
 
 
 Add.
@@ -1055,25 +1156,28 @@ Write a sentence.
 Marla's total cost for the fruit is $3.28.
 
 
+<div class="tryit">
 **Try It**
 
 
-Suzanne buys \(3\) cans of beans that cost \($0.75\) each and \(6\) cans of corn that cost \($0.62\) each. How much is the total cost of these groceries?
+Suzanne buys <span class="math-inline">3</span> cans of beans that cost <span class="math-inline">$0.75</span> each and <span class="math-inline">6</span> cans of corn that cost <span class="math-inline">$0.62</span> each. How much is the total cost of these groceries?
 
 
 $5.97
 
 
+<div class="tryit">
 **Try It**
 
 
-Lydia bought movie tickets for the family. She bought two adult tickets for \($9.50\) each and four children’s tickets for \($6.00\) each. How much did the tickets cost Lydia in all?
+Lydia bought movie tickets for the family. She bought two adult tickets for <span class="math-inline">$9.50</span> each and four children’s tickets for <span class="math-inline">$6.00</span> each. How much did the tickets cost Lydia in all?
 
 
 $43.00
 
 
-**ACCESS ADDITIONAL ONLINE RESOURCES**
+<div class="definition-label">**ACCESS ADDITIONAL ONLINE RESOURCES**</div>
+
 
 - Adding and Subtracting Decimals
 
@@ -1084,3 +1188,139 @@ $43.00
 - Dividing Decimals
 
 - Dividing by Powers of Ten
+
+</div>
+
+</div>
+
+</div>
+
+</div>
+
+</div>
+
+</div>
+
+</div>
+
+</div>
+
+</div>
+
+</div>
+
+</div>
+
+</div>
+
+</div>
+
+</div>
+
+</div>
+
+</div>
+
+</div>
+
+</div>
+
+</div>
+
+</div>
+
+</div>
+
+</div>
+
+</div>
+
+</div>
+
+</div>
+
+</div>
+
+</div>
+
+</div>
+
+</div>
+
+</div>
+
+</div>
+
+</div>
+
+</div>
+
+</div>
+
+</div>
+
+</div>
+
+</div>
+
+</div>
+
+</div>
+
+</div>
+
+</div>
+
+</div>
+
+</div>
+
+</div>
+
+</div>
+
+</div>
+
+</div>
+
+</div>
+
+</div>
+
+</div>
+
+</div>
+
+</div>
+
+</div>
+
+</div>
+
+</div>
+
+</div>
+
+</div>
+
+</div>
+
+</div>
+
+</div>
+
+</div>
+
+</div>
+
+</div>
+
+</div>
+
+</div>
+
+</div>
+
+</div>
+
+</div>

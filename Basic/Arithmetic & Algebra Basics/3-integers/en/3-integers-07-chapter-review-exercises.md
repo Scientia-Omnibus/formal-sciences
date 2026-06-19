@@ -1,58 +1,128 @@
+<style>
+.math-inline {
+    font-style: italic;
+    padding: 2px 6px;
+    border-radius: 4px;
+    background: #f8f9fa;
+    font-family: Georgia, serif;
+}
+.math-display {
+    background: #f8f9fa;
+    border-left: 4px solid #4a90d9;
+    padding: 16px 20px;
+    margin: 16px 0;
+    border-radius: 6px;
+    font-size: 1.15em;
+    font-family: Georgia, serif;
+    text-align: center;
+    line-height: 2;
+    overflow-x: auto;
+}
+.example-box, .example {
+    background: #f0f8ff;
+    border-left: 4px solid #2e86de;
+    padding: 12px 20px;
+    margin: 16px 0;
+    border-radius: 6px;
+}
+.tryit-box, .tryit {
+    background: #f0fff4;
+    border-left: 4px solid #27ae60;
+    padding: 12px 20px;
+    margin: 16px 0;
+    border-radius: 6px;
+}
+.solution-box, .solution {
+    background: #fef9e7;
+    border-left: 4px solid #f39c12;
+    padding: 12px 20px;
+    margin: 12px 0;
+    border-radius: 6px;
+}
+.check-box, .check {
+    background: #fef9e7;
+    border-left: 4px solid #f39c12;
+    padding: 12px 20px;
+    margin: 12px 0;
+    border-radius: 6px;
+}
+.prep-quiz {
+    background: #fff3cd;
+    border: 1px solid #ffc107;
+    padding: 12px 20px;
+    margin: 16px 0;
+    border-radius: 6px;
+}
+.def-label, .definition-label {
+    font-weight: bold;
+    font-size: 1.1em;
+    margin: 20px 0 8px 0;
+    color: #2c3e50;
+    display: block;
+}
+.math-display sup, .math-inline sup { font-size: 0.75em; line-height: 0; }
+.math-display sub, .math-inline sub { font-size: 0.75em; line-height: 0; }
+</style>
+
+
+---
+
 ## Chapter Review Exercises
+
 
 *Locate Positive and Negative Numbers on the Number Line*
 
 In the following exercises, locate and label the integer on the number line.
 
 
-\(5\)
+<span class="math-inline">5</span>
 
 
-\(−5\)
+<span class="math-inline">−5</span>
 
 
-\(−3\)
+<span class="math-inline">−3</span>
 
 
-\(3\)
+<span class="math-inline">3</span>
 
 
-\(−8\)
+<span class="math-inline">−8</span>
 
 
-\(−7\)
+<span class="math-inline">−7</span>
 
 
 *Order Positive and Negative Numbers*
 
-In the following exercises, order each of the following pairs of numbers, using \(<\) or \(>.\)
+In the following exercises, order each of the following pairs of numbers, using <span class="math-inline"><</span> or <span class="math-inline">>.</span>
 
 
-\(4__8\)
+<span class="math-inline">4_<sub>8</sub></span>
 
 
 <
 
 
-\(−6__3\)
+<span class="math-inline">−6_<sub>3</sub></span>
 
 
-\(−5__−10\)
-
-
->
-
-
-\(−9__−4\)
-
-
-\(2__−7\)
+<span class="math-inline">−5__−10</span>
 
 
 >
 
 
-\(−3__1\)
+<span class="math-inline">−9__−4</span>
+
+
+<span class="math-inline">2__−7</span>
+
+
+>
+
+
+<span class="math-inline">−3_<sub>1</sub></span>
 
 
 *Find Opposites*
@@ -60,167 +130,167 @@ In the following exercises, order each of the following pairs of numbers, using 
 In the following exercises, find the opposite of each number.
 
 
-\(6\)
+<span class="math-inline">6</span>
 
 
 −6
 
 
-\(−2\)
+<span class="math-inline">−2</span>
 
 
-\(−4\)
+<span class="math-inline">−4</span>
 
 
 4
 
 
-\(3\)
+<span class="math-inline">3</span>
 
 
 In the following exercises, simplify.
 
 
-  - ⓐ \(-(8)\)
-  - ⓑ \(-(−8)\)
+  - ⓐ <span class="math-inline">-(8)</span>
+  - ⓑ <span class="math-inline">-(−8)</span>
 
 
   - ⓐ −8
   - ⓑ 8
 
 
-  - ⓐ \(-(9)\)
-  - ⓑ \(-(−9)\)
+  - ⓐ <span class="math-inline">-(9)</span>
+  - ⓑ <span class="math-inline">-(−9)</span>
 
 In the following exercises, evaluate.
 
 
-\(-x, when\)
+<span class="math-inline">-x, when</span>
 
-  - ⓐ \(x=32\)
-  - ⓑ \(x=−32\)
+  - ⓐ <span class="math-inline">x=32</span>
+  - ⓑ <span class="math-inline">x=−32</span>
 
 
   - ⓐ −32
   - ⓑ 32
 
 
-\(-n, when\)
+<span class="math-inline">-n, when</span>
 
-  - ⓐ \(n=20\)
-  - ⓐ \(n=−20\)
+  - ⓐ <span class="math-inline">n=20</span>
+  - ⓐ <span class="math-inline">n=−20</span>
 
 *Simplify Absolute Values*
 
 In the following exercises, simplify.
 
 
-\(|−21|\)
+<span class="math-inline">|−21|</span>
 
 
 21
 
 
-\(|−42|\)
+<span class="math-inline">|−42|</span>
 
 
-\(|36|\)
+<span class="math-inline">|36|</span>
 
 
 36
 
 
-\(-|15|\)
+<span class="math-inline">-|15|</span>
 
 
-\(|0|\)
+<span class="math-inline">|0|</span>
 
 
 0
 
 
-\(-|−75|\)
+<span class="math-inline">-|−75|</span>
 
 
 In the following exercises, evaluate.
 
 
-\(|x| when x=−14\)
+<span class="math-inline">|x| when x=−14</span>
 
 
 14
 
 
-\(-|r| when r=27\)
+<span class="math-inline">-|r| when r=27</span>
 
 
-\(-|-y| when y=33\)
+<span class="math-inline">-|-y| when y=33</span>
 
 
 −33
 
 
-\(|−n| when n=−4\)
+<span class="math-inline">|−n| when n=−4</span>
 
 
-In the following exercises, fill in \(<,>,or=\) for each of the following pairs of numbers.
+In the following exercises, fill in <span class="math-inline"><,>,or=</span> for each of the following pairs of numbers.
 
 
-\(-|−4|__4\)
+<span class="math-inline">-|−4|_<sub>4</sub></span>
 
 
 <
 
 
-\(−2__|−2|\)
+<span class="math-inline">−2__|−2|</span>
 
 
-\(-|−6|__−6\)
+<span class="math-inline">-|−6|__−6</span>
 
 
 =
 
 
-\(-|−9|__|−9|\)
+<span class="math-inline">-|−9|__|−9|</span>
 
 
 In the following exercises, simplify.
 
 
-\(-(−55) and -|−55|\)
+<span class="math-inline">-(−55) and -|−55|</span>
 
 
 55; −55
 
 
-\(-(−48) and -|−48|\)
+<span class="math-inline">-(−48) and -|−48|</span>
 
 
-\(|12-5|\)
+<span class="math-inline">|12-5|</span>
 
 
 7
 
 
-\(|9+7|\)
+<span class="math-inline">|9+7|</span>
 
 
-\(6|−9|\)
+<span class="math-inline">6|−9|</span>
 
 
 54
 
 
-\(|14−8|-|−2|\)
+<span class="math-inline">|14−8|-|−2|</span>
 
 
-\(|9-3|-|5-12|\)
+<span class="math-inline">|9-3|-|5-12|</span>
 
 
 −1
 
 
-\(5+4|15-3|\)
+<span class="math-inline">5+4|15-3|</span>
 
 
 *Translate Phrases to Expressions with Integers*
@@ -228,31 +298,31 @@ In the following exercises, simplify.
 In the following exercises, translate each of the following phrases into expressions with positive or negative numbers.
 
 
-the opposite of \(16\)
+the opposite of <span class="math-inline">16</span>
 
 
 −16
 
 
-the opposite of \(−8\)
+the opposite of <span class="math-inline">−8</span>
 
 
-negative \(3\)
+negative <span class="math-inline">3</span>
 
 
 −3
 
 
-\(19\) minus negative \(12\)
+<span class="math-inline">19</span> minus negative <span class="math-inline">12</span>
 
 
-a temperature of \(10\) below zero
+a temperature of <span class="math-inline">10</span> below zero
 
 
 −10°
 
 
-an elevation of \(85 feet\) below sea level
+an elevation of <span class="math-inline">85 feet</span> below sea level
 
 
 *Model Addition of Integers*
@@ -260,22 +330,22 @@ an elevation of \(85 feet\) below sea level
 In the following exercises, model the following to find the sum.
 
 
-\(3+7\)
+<span class="math-inline">3+7</span>
 
 
 10
 
 
-\(−2+6\)
+<span class="math-inline">−2+6</span>
 
 
-\(5+(−4)\)
+<span class="math-inline">5+(−4)</span>
 
 
 1
 
 
-\(−3+(−6)\)
+<span class="math-inline">−3+(−6)</span>
 
 
 *Simplify Expressions with Integers*
@@ -283,40 +353,40 @@ In the following exercises, model the following to find the sum.
 In the following exercises, simplify each expression.
 
 
-\(14+82\)
+<span class="math-inline">14+82</span>
 
 
 96
 
 
-\(−33+(−67)\)
+<span class="math-inline">−33+(−67)</span>
 
 
-\(−75+25\)
+<span class="math-inline">−75+25</span>
 
 
 −50
 
 
-\(54+(−28)\)
+<span class="math-inline">54+(−28)</span>
 
 
-\(11+(−15)+3\)
+<span class="math-inline">11+(−15)+3</span>
 
 
 −1
 
 
-\(−19+(−42)+12\)
+<span class="math-inline">−19+(−42)+12</span>
 
 
-\(−3+6(−1+5)\)
+<span class="math-inline">−3+6(−1+5)</span>
 
 
 21
 
 
-\(10+4(−3+7)\)
+<span class="math-inline">10+4(−3+7)</span>
 
 
 *Evaluate Variable Expressions with Integers*
@@ -324,30 +394,30 @@ In the following exercises, simplify each expression.
 In the following exercises, evaluate each expression.
 
 
-\(n+4 when\)
+<span class="math-inline">n+4 when</span>
 
 
-  - ⓐ \(n=−1\)
-  - ⓑ \(n=−20\)
+  - ⓐ <span class="math-inline">n=−1</span>
+  - ⓑ <span class="math-inline">n=−20</span>
 
 
   - ⓐ 3
   - ⓑ −16
 
 
-\(x+(−9) when\)
+<span class="math-inline">x+(−9) when</span>
 
-  - ⓐ \(x=3\)
-  - ⓑ \(x=−3\)
+  - ⓐ <span class="math-inline">x=3</span>
+  - ⓑ <span class="math-inline">x=−3</span>
 
 
-\((x+y)^3 when x=−4,y=1\)
+<span class="math-inline">(x+y)<sup>3</sup> when x=−4,y=1</span>
 
 
 −27
 
 
-\((u+v)^2 when u=−4,v=11\)
+<span class="math-inline">(u+v)<sup>2</sup> when u=−4,v=11</span>
 
 
 *Translate Word Phrases to Algebraic Expressions*
@@ -355,22 +425,22 @@ In the following exercises, evaluate each expression.
 In the following exercises, translate each phrase into an algebraic expression and then simplify.
 
 
-\(the sum of −8 and 2\)
+<span class="math-inline">the sum of −8 and 2</span>
 
 
 −8 + 2 = −6
 
 
-\(4 more than −12\)
+<span class="math-inline">4 more than −12</span>
 
 
-\(10 more than the sum of −5 and −6\)
+<span class="math-inline">10 more than the sum of −5 and −6</span>
 
 
 10 + [−5 + (−6)] = −1
 
 
-\(the sum of 3 and −5, increased by 18\)
+<span class="math-inline">the sum of 3 and −5, increased by 18</span>
 
 
 *Add Integers in Applications*
@@ -378,13 +448,13 @@ In the following exercises, translate each phrase into an algebraic expression a
 In the following exercises, solve.
 
 
-*Temperature* On Monday, the high temperature in Denver was \(−4 degrees.\) Tuesday’s high temperature was \(20 degrees\) more. What was the high temperature on Tuesday?
+*Temperature* On Monday, the high temperature in Denver was <span class="math-inline">−4 degrees.</span> Tuesday’s high temperature was <span class="math-inline">20 degrees</span> more. What was the high temperature on Tuesday?
 
 
 16 degrees
 
 
-*Credit* Frida owed \($75\) on her credit card. Then she charged \($21\) more. What was her new balance?
+*Credit* Frida owed <span class="math-inline">$75</span> on her credit card. Then she charged <span class="math-inline">$21</span> more. What was her new balance?
 
 
 *Model Subtraction of Integers*
@@ -392,22 +462,22 @@ In the following exercises, solve.
 In the following exercises, model the following.
 
 
-\(6-1\)
+<span class="math-inline">6-1</span>
 
 
 5
 
 
-\(−4-(−3)\)
+<span class="math-inline">−4-(−3)</span>
 
 
-\(2-(−5)\)
+<span class="math-inline">2-(−5)</span>
 
 
 7
 
 
-\(−1-4\)
+<span class="math-inline">−1-4</span>
 
 
 *Simplify Expressions with Integers*
@@ -415,40 +485,40 @@ In the following exercises, model the following.
 In the following exercises, simplify each expression.
 
 
-\(24-16\)
+<span class="math-inline">24-16</span>
 
 
 8
 
 
-\(19-(−9)\)
+<span class="math-inline">19-(−9)</span>
 
 
-\(−31-7\)
+<span class="math-inline">−31-7</span>
 
 
 −38
 
 
-\(−40-(−11)\)
+<span class="math-inline">−40-(−11)</span>
 
 
-\(−52-(−17)-23\)
+<span class="math-inline">−52-(−17)-23</span>
 
 
 −58
 
 
-\(25-(−3-9)\)
+<span class="math-inline">25-(−3-9)</span>
 
 
-\((1-7)-(3-8)\)
+<span class="math-inline">(1-7)-(3-8)</span>
 
 
 −1
 
 
-\(3^2-7^2\)
+<span class="math-inline">3<sup>2</sup>-7<sup>2</sup></span>
 
 
 *Evaluate Variable Expressions with Integers*
@@ -456,31 +526,31 @@ In the following exercises, simplify each expression.
 In the following exercises, evaluate each expression.
 
 
-\(x-7 when\)
+<span class="math-inline">x-7 when</span>
 
 
-  - ⓐ \(x=5\)
-  - ⓑ \(x=−4\)
+  - ⓐ <span class="math-inline">x=5</span>
+  - ⓑ <span class="math-inline">x=−4</span>
 
 
   - ⓐ −2
   - ⓑ −11
 
 
-\(10-y when\)
+<span class="math-inline">10-y when</span>
 
 
-  - ⓐ \(y=15\)
-  - ⓑ \(y=−16\)
+  - ⓐ <span class="math-inline">y=15</span>
+  - ⓑ <span class="math-inline">y=−16</span>
 
 
-\(2n^2-n+5 when n=−4\)
+<span class="math-inline">2n<sup>2</sup>-n+5 when n=−4</span>
 
 
 41
 
 
-\(−15-3u^2 when u=−5\)
+<span class="math-inline">−15-3u<sup>2</sup> when u=−5</span>
 
 
 *Translate Phrases to Algebraic Expressions*
@@ -488,13 +558,13 @@ In the following exercises, evaluate each expression.
 In the following exercises, translate each phrase into an algebraic expression and then simplify.
 
 
-the difference of \(−12 and 5\)
+the difference of <span class="math-inline">−12 and 5</span>
 
 
 −12 − 5 = −17
 
 
-subtract \(23\) from \(−50\)
+subtract <span class="math-inline">23</span> from <span class="math-inline">−50</span>
 
 
 *Subtract Integers in Applications*
@@ -502,13 +572,13 @@ subtract \(23\) from \(−50\)
 In the following exercises, solve the given applications.
 
 
-*Temperature* One morning the temperature in Bangor, Maine was \(18 degrees.\) By afternoon, it had dropped \(20 degrees.\) What was the afternoon temperature?
+*Temperature* One morning the temperature in Bangor, Maine was <span class="math-inline">18 degrees.</span> By afternoon, it had dropped <span class="math-inline">20 degrees.</span> What was the afternoon temperature?
 
 
 −2 degrees
 
 
-*Temperature* On January 4, the high temperature in Laredo, Texas was \(78 degrees,\) and the high in Houlton, Maine was \(−28 degrees.\) What was the difference in temperature of Laredo and Houlton?
+*Temperature* On January 4, the high temperature in Laredo, Texas was <span class="math-inline">78 degrees,</span> and the high in Houlton, Maine was <span class="math-inline">−28 degrees.</span> What was the difference in temperature of Laredo and Houlton?
 
 
 *Multiply Integers*
@@ -516,22 +586,22 @@ In the following exercises, solve the given applications.
 In the following exercises, multiply.
 
 
-\(−9\cdot 4\)
+<span class="math-inline">−9· 4</span>
 
 
 −36
 
 
-\(5(−7)\)
+<span class="math-inline">5(−7)</span>
 
 
-\((−11)(−11)\)
+<span class="math-inline">(−11)(−11)</span>
 
 
 121
 
 
-\(−1\cdot 6\)
+<span class="math-inline">−1· 6</span>
 
 
 *Divide Integers*
@@ -539,31 +609,31 @@ In the following exercises, multiply.
 In the following exercises, divide.
 
 
-\(56\div (−8)\)
+<span class="math-inline">56÷ (−8)</span>
 
 
 −7
 
 
-\(−120\div (−6)\)
+<span class="math-inline">−120÷ (−6)</span>
 
 
-\(−96\div 12\)
+<span class="math-inline">−96÷ 12</span>
 
 
 −8
 
 
-\(96\div (−16)\)
+<span class="math-inline">96÷ (−16)</span>
 
 
-\(45\div (−1)\)
+<span class="math-inline">45÷ (−1)</span>
 
 
 −45
 
 
-\(−162\div (−1)\)
+<span class="math-inline">−162÷ (−1)</span>
 
 
 *Simplify Expressions with Integers*
@@ -571,40 +641,40 @@ In the following exercises, divide.
 In the following exercises, simplify each expression.
 
 
-\(5(−9)-3(−12)\)
+<span class="math-inline">5(−9)-3(−12)</span>
 
 
 −9
 
 
-\((−2)^5\)
+<span class="math-inline">(−2)<sup>5</sup></span>
 
 
-\(-3^4\)
+<span class="math-inline">-3<sup>4</sup></span>
 
 
 −81
 
 
-\((−3)(4)(−5)(−6)\)
+<span class="math-inline">(−3)(4)(−5)(−6)</span>
 
 
-\(42-4(6-9)\)
+<span class="math-inline">42-4(6-9)</span>
 
 
 54
 
 
-\((8-15)(9-3)\)
+<span class="math-inline">(8-15)(9-3)</span>
 
 
-\(−2(−18)\div 9\)
+<span class="math-inline">−2(−18)÷ 9</span>
 
 
 4
 
 
-\(45\div (−3)-12\)
+<span class="math-inline">45÷ (−3)-12</span>
 
 
 *Evaluate Variable Expressions with Integers*
@@ -612,22 +682,22 @@ In the following exercises, simplify each expression.
 In the following exercises, evaluate each expression.
 
 
-\(7x-3 when x=−9\)
+<span class="math-inline">7x-3 when x=−9</span>
 
 
 −66
 
 
-\(16-2n when n=−8\)
+<span class="math-inline">16-2n when n=−8</span>
 
 
-\(5a+8b when a=−2,b=−6\)
+<span class="math-inline">5a+8b when a=−2,b=−6</span>
 
 
 −58
 
 
-\(x^2+5x+4 when x=−3\)
+<span class="math-inline">x<sup>2</sup>+5x+4 when x=−3</span>
 
 
 *Translate Word Phrases to Algebraic Expressions*
@@ -635,13 +705,13 @@ In the following exercises, evaluate each expression.
 In the following exercises, translate to an algebraic expression and simplify if possible.
 
 
-the product of \(−12\) and \(6\)
+the product of <span class="math-inline">−12</span> and <span class="math-inline">6</span>
 
 
 −12(6) = −72
 
 
-the quotient of \(3\) and the sum of \(−7\) and \(s\)
+the quotient of <span class="math-inline">3</span> and the sum of <span class="math-inline">−7</span> and <span class="math-inline">s</span>
 
 
 *Determine Whether a Number is a Solution of an Equation*
@@ -649,11 +719,11 @@ the quotient of \(3\) and the sum of \(−7\) and \(s\)
 In the following exercises, determine whether each number is a solution of the given equation.
 
 
-\(5x-10=−35\)
+<span class="math-inline">5x-10=−35</span>
 
-  - ⓐ \(x=−9\)
-  - ⓑ \(x=−5\)
-  - ⓒ \(x=5\)
+  - ⓐ <span class="math-inline">x=−9</span>
+  - ⓑ <span class="math-inline">x=−5</span>
+  - ⓒ <span class="math-inline">x=5</span>
 
 
   - ⓐ no
@@ -661,12 +731,12 @@ In the following exercises, determine whether each number is a solution of the g
   - ⓒ no
 
 
-\(8u+24=−32\)
+<span class="math-inline">8u+24=−32</span>
 
 
-  - ⓐ \(u=−7\)
-  - ⓑ \(u=−1\)
-  - ⓒ \(u=7\)
+  - ⓐ <span class="math-inline">u=−7</span>
+  - ⓑ <span class="math-inline">u=−1</span>
+  - ⓒ <span class="math-inline">u=7</span>
 
 
 *Using the Addition and Subtraction Properties of Equality*
@@ -674,22 +744,22 @@ In the following exercises, determine whether each number is a solution of the g
 In the following exercises, solve.
 
 
-\(a+14=2\)
+<span class="math-inline">a+14=2</span>
 
 
 −12
 
 
-\(b-9=−15\)
+<span class="math-inline">b-9=−15</span>
 
 
-\(c+(−10)=−17\)
+<span class="math-inline">c+(−10)=−17</span>
 
 
 −7
 
 
-\(d-(−6)=−26\)
+<span class="math-inline">d-(−6)=−26</span>
 
 
 *Model the Division Property of Equality*
@@ -705,22 +775,22 @@ In the following exercises, write the equation modeled by the envelopes and coun
 In the following exercises, solve each equation using the division property of equality and check the solution.
 
 
-\(8p=72\)
+<span class="math-inline">8p=72</span>
 
 
 9
 
 
-\(−12q=48\)
+<span class="math-inline">−12q=48</span>
 
 
-\(−16r=−64\)
+<span class="math-inline">−16r=−64</span>
 
 
 4
 
 
-\(−5s=−100\)
+<span class="math-inline">−5s=−100</span>
 
 
 *Translate to an Equation and Solve.*
@@ -728,22 +798,22 @@ In the following exercises, solve each equation using the division property of e
 In the following exercises, translate and solve.
 
 
-\(The product of −6 and y is −42\)
+<span class="math-inline">The product of −6 and y is −42</span>
 
 
 −6*y* = −42; *y* = 7
 
 
-\(The difference of z and −13 is −18.\)
+<span class="math-inline">The difference of z and −13 is −18.</span>
 
 
-Four more than \(m\) is \(−48.\)
+Four more than <span class="math-inline">m</span> is <span class="math-inline">−48.</span>
 
 
 *m* + 4 = −48; *m* = −52
 
 
-\(The product of −21 and n is 63.\)
+<span class="math-inline">The product of −21 and n is 63.</span>
 
 
 ### Everyday Math
@@ -755,31 +825,33 @@ Describe how you have used two topics from this chapter in your life outside of 
 Answers will vary.
 
 
+---
+
 ## Chapter Practice Test
 
 
-Locate and label \(0,2,−4,\) and \(−1\) on a number line.
+Locate and label <span class="math-inline">0,2,−4,</span> and <span class="math-inline">−1</span> on a number line.
 
 
-In the following exercises, compare the numbers, using \(< or > or =.\)
+In the following exercises, compare the numbers, using <span class="math-inline">< or > or =.</span>
 
 
-  - ⓐ \(−6__3\)
-  - ⓑ \(−1__−4\)
+  - ⓐ <span class="math-inline">−6_<sub>3</sub></span>
+  - ⓑ <span class="math-inline">−1__−4</span>
 
 
   - ⓐ <
   - ⓑ >
 
 
-  - ⓐ \(−5__|−5|\)
-  - ⓑ \(-|−2|__−2\)
+  - ⓐ <span class="math-inline">−5__|−5|</span>
+  - ⓑ <span class="math-inline">-|−2|__−2</span>
 
 In the following exercises, find the opposite of each number.
 
 
-  - ⓐ \(−7\)
-  - ⓑ \(8\)
+  - ⓐ <span class="math-inline">−7</span>
+  - ⓑ <span class="math-inline">8</span>
 
 
   - ⓐ 7
@@ -788,82 +860,82 @@ In the following exercises, find the opposite of each number.
 In the following exercises, simplify.
 
 
-\(-(−22)\)
+<span class="math-inline">-(−22)</span>
 
 
-\(|4-9|\)
+<span class="math-inline">|4-9|</span>
 
 
 5
 
 
-\(−8+6\)
+<span class="math-inline">−8+6</span>
 
 
-\(−15+(−12)\)
+<span class="math-inline">−15+(−12)</span>
 
 
 −27
 
 
-\(−7-(−3)\)
+<span class="math-inline">−7-(−3)</span>
 
 
-\(10-(5-6)\)
+<span class="math-inline">10-(5-6)</span>
 
 
 11
 
 
-\(−3\cdot 8\)
+<span class="math-inline">−3· 8</span>
 
 
-\(−6(−9)\)
+<span class="math-inline">−6(−9)</span>
 
 
 54
 
 
-\(70\div (−7)\)
+<span class="math-inline">70÷ (−7)</span>
 
 
-\((−2)^3\)
+<span class="math-inline">(−2)<sup>3</sup></span>
 
 
 −8
 
 
-\(-4^2\)
+<span class="math-inline">-4<sup>2</sup></span>
 
 
-\(16−3(5−7)\)
+<span class="math-inline">16−3(5−7)</span>
 
 
 22
 
 
-\(|21-6|-|−8|\)
+<span class="math-inline">|21-6|-|−8|</span>
 
 
 In the following exercises, evaluate.
 
 
-\(35-a when a=−4\)
+<span class="math-inline">35-a when a=−4</span>
 
 
 39
 
 
-\((−2r)^2 when r=3\)
+<span class="math-inline">(−2r)<sup>2</sup> when r=3</span>
 
 
-\(3m-2n when m=6, n=−8\)
+<span class="math-inline">3m-2n when m=6, n=−8</span>
 
 
 34
 
 
-\(-|-y| when y=17\)
+<span class="math-inline">-|-y| when y=17</span>
 
 
 In the following exercises, translate each phrase into an algebraic expression and then simplify, if possible.
@@ -875,34 +947,34 @@ the difference of −7 and −4
 −7 − (−4) = −3
 
 
-the quotient of \(25\) and the sum of \(m\) and \(n.\)
+the quotient of <span class="math-inline">25</span> and the sum of <span class="math-inline">m</span> and <span class="math-inline">n.</span>
 
 
 In the following exercises, solve.
 
 
-Early one morning, the temperature in Syracuse was \(−8°F.\) By noon, it had risen \(12°.\) What was the temperature at noon?
+Early one morning, the temperature in Syracuse was <span class="math-inline">−8°F.</span> By noon, it had risen <span class="math-inline">12°.</span> What was the temperature at noon?
 
 
 4°F
 
 
-Collette owed \($128\) on her credit card. Then she charged \($65.\) What was her new balance?
+Collette owed <span class="math-inline">$128</span> on her credit card. Then she charged <span class="math-inline">$65.</span> What was her new balance?
 
 
 In the following exercises, solve.
 
 
-\(n+6=5\)
+<span class="math-inline">n+6=5</span>
 
 
 *n* = −1
 
 
-\(p-11=−4\)
+<span class="math-inline">p-11=−4</span>
 
 
-\(−9r=−54\)
+<span class="math-inline">−9r=−54</span>
 
 
 *r* = 6
@@ -911,10 +983,10 @@ In the following exercises, solve.
 In the following exercises, translate and solve.
 
 
-\(The product of 15 and x is 75.\)
+<span class="math-inline">The product of 15 and x is 75.</span>
 
 
-\(Eight less than y is −32.\)
+<span class="math-inline">Eight less than y is −32.</span>
 
 
 *y* − 8 = −32; *y* = −24

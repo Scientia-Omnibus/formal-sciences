@@ -1,54 +1,126 @@
 # Integers
 
+<style>
+.math-inline {
+    font-style: italic;
+    padding: 2px 6px;
+    border-radius: 4px;
+    background: #f8f9fa;
+    font-family: Georgia, serif;
+}
+.math-display {
+    background: #f8f9fa;
+    border-left: 4px solid #4a90d9;
+    padding: 16px 20px;
+    margin: 16px 0;
+    border-radius: 6px;
+    font-size: 1.15em;
+    font-family: Georgia, serif;
+    text-align: center;
+    line-height: 2;
+    overflow-x: auto;
+}
+.example-box, .example {
+    background: #f0f8ff;
+    border-left: 4px solid #2e86de;
+    padding: 12px 20px;
+    margin: 16px 0;
+    border-radius: 6px;
+}
+.tryit-box, .tryit {
+    background: #f0fff4;
+    border-left: 4px solid #27ae60;
+    padding: 12px 20px;
+    margin: 16px 0;
+    border-radius: 6px;
+}
+.solution-box, .solution {
+    background: #fef9e7;
+    border-left: 4px solid #f39c12;
+    padding: 12px 20px;
+    margin: 12px 0;
+    border-radius: 6px;
+}
+.check-box, .check {
+    background: #fef9e7;
+    border-left: 4px solid #f39c12;
+    padding: 12px 20px;
+    margin: 12px 0;
+    border-radius: 6px;
+}
+.prep-quiz {
+    background: #fff3cd;
+    border: 1px solid #ffc107;
+    padding: 12px 20px;
+    margin: 16px 0;
+    border-radius: 6px;
+}
+.def-label, .definition-label {
+    font-weight: bold;
+    font-size: 1.1em;
+    margin: 20px 0 8px 0;
+    color: #2c3e50;
+    display: block;
+}
+.math-display sup, .math-inline sup { font-size: 0.75em; line-height: 0; }
+.math-display sub, .math-inline sub { font-size: 0.75em; line-height: 0; }
+</style>
+
 
 *The peak of Mount Everest. (credit: Gunther Hagleitner, Flickr)*
 
 At over 29,000 feet, Mount Everest stands as the tallest peak on land. Located along the border of Nepal and China, Mount Everest is also known for its extreme climate. Near the summit, temperatures never rise above freezing. Every year, climbers from around the world brave the extreme conditions in an effort to scale the tremendous height. Only some are successful. Describing the drastic change in elevation the climbers experience and the change in temperatures requires using numbers that extend both above and below zero. In this chapter, we will describe these kinds of numbers and operations using them.
 
 
+<div class="prep-quiz">
 **Be Prepared!**
+
 
 Before you get started, take this readiness quiz.
 
 
-Plot \(0,1,and 3\) on a number line.
+Plot <span class="math-inline">0,1,and 3</span> on a number line.
 
 If you missed this problem, review .
 
 
+<div class="prep-quiz">
 **Be Prepared!**
 
 
-Fill in the appropriate symbol: \((=, <, or >): 2___4\)
+Fill in the appropriate symbol: <span class="math-inline">(=, <, or >): 2__<sub>4</sub></span>
 
 If you missed this problem, review .
 
 
-\(<\)
+<span class="math-inline"><</span>
 
+
+---
 
 ## Locate Positive and Negative Numbers on the Number Line
 
-Do you live in a place that has very cold winters? Have you ever experienced a temperature below zero? If so, you are already familiar with negative numbers. A **negative number** is a number that is less than \(0.\) Very cold temperatures are measured in degrees below zero and can be described by **negative numbers**. For example, \(−1°F\) (read as “negative one degree Fahrenheit”) is \(1 degree\) below \(0.\) A minus sign is shown before a number to indicate that it is negative.  shows \(−20°F,\) which is \(20 degrees\) below \(0.\)
+
+Do you live in a place that has very cold winters? Have you ever experienced a temperature below zero? If so, you are already familiar with negative numbers. A **negative number** is a number that is less than <span class="math-inline">0.</span> Very cold temperatures are measured in degrees below zero and can be described by **negative numbers**. For example, <span class="math-inline">−1°F</span> (read as “negative one degree Fahrenheit”) is <span class="math-inline">1 degree</span> below <span class="math-inline">0.</span> A minus sign is shown before a number to indicate that it is negative.  shows <span class="math-inline">−20°F,</span> which is <span class="math-inline">20 degrees</span> below <span class="math-inline">0.</span>
 
 
 *Temperatures below zero are described by negative numbers.*
 
 Temperatures are not the only negative numbers. A bank **overdraft** is another example of a negative number. If a person writes a check for more than he has in his account, his balance will be negative.
 
-Elevations can also be represented by **negative numbers**. The **elevation** at sea level is \(0 feet.\) Elevations above sea level are positive and elevations below sea level are negative. The elevation of the Dead Sea, which borders Israel and Jordan, is about \(1,302 feet\) below sea level, so the elevation of the Dead Sea can be represented as \(−1,302 feet.\) See .
+Elevations can also be represented by **negative numbers**. The **elevation** at sea level is <span class="math-inline">0 feet.</span> Elevations above sea level are positive and elevations below sea level are negative. The elevation of the Dead Sea, which borders Israel and Jordan, is about <span class="math-inline">1,302 feet</span> below sea level, so the elevation of the Dead Sea can be represented as <span class="math-inline">−1,302 feet.</span> See .
 
 
-*The surface of the Mediterranean Sea has an elevation of \(0 ft.\) The diagram shows that nearby mountains have higher (positive) elevations whereas the Dead Sea has a lower (negative) elevation.*
+*The surface of the Mediterranean Sea has an elevation of <span class="math-inline">0 ft.</span> The diagram shows that nearby mountains have higher (positive) elevations whereas the Dead Sea has a lower (negative) elevation.*
 
-Depths below the ocean surface are also described by negative numbers. A submarine, for example, might descend to a depth of \(500 feet.\) Its position would then be \(−500 feet\) as labeled in .
+Depths below the ocean surface are also described by negative numbers. A submarine, for example, might descend to a depth of <span class="math-inline">500 feet.</span> Its position would then be <span class="math-inline">−500 feet</span> as labeled in .
 
 
-*Depths below sea level are described by negative numbers. A submarine \(500 ft\) below sea level is at \(−500 ft.\)*
+*Depths below sea level are described by negative numbers. A submarine <span class="math-inline">500 ft</span> below sea level is at <span class="math-inline">−500 ft.</span>*
 
-Both positive and **negative numbers** can be represented on a **number line**. Recall that the number line created in Add Whole Numbers started at \(0\) and showed the **counting numbers** increasing to the right as shown in . The counting numbers \((1, 2, 3, \dots)\) on the number line are all positive. We could write a plus sign, \(+,\) before a positive number such as \(+2\) or \(+3,\) but it is customary to omit the plus sign and write only the number. If there is no sign, the number is assumed to be positive.
+Both positive and **negative numbers** can be represented on a **number line**. Recall that the number line created in Add Whole Numbers started at <span class="math-inline">0</span> and showed the **counting numbers** increasing to the right as shown in . The counting numbers <span class="math-inline">(1, 2, 3, …)</span> on the number line are all positive. We could write a plus sign, <span class="math-inline">+,</span> before a positive number such as <span class="math-inline">+2</span> or <span class="math-inline">+3,</span> but it is customary to omit the plus sign and write only the number. If there is no sign, the number is assumed to be positive.
 
-Now we need to extend the number line to include **negative numbers**. We mark several units to the left of zero, keeping the intervals the same width as those on the positive side. We label the marks with negative numbers, starting with \(−1\) at the first mark to the left of \(0,−2\) at the next mark, and so on. See .
+Now we need to extend the number line to include **negative numbers**. We mark several units to the left of zero, keeping the intervals the same width as those on the positive side. We label the marks with negative numbers, starting with <span class="math-inline">−1</span> at the first mark to the left of <span class="math-inline">0,−2</span> at the next mark, and so on. See .
 
 
 *On a number line, positive numbers are to the right of zero. Negative numbers are to the left of zero. What about zero? Zero is neither positive nor negative.*
@@ -58,145 +130,153 @@ The arrows at either end of the line indicate that the number line extends forev
 Doing the Manipulative Mathematics activity "Number Line-part 2" will help you develop a better understanding of integers.
 
 
+<div class="example">
 **Example**
 
 
 Plot the numbers on a number line:
 
 
-  - ⓐ \(3\)
-  - ⓑ \(−3\)
-  - ⓒ \(−2\)
+  - ⓐ <span class="math-inline">3</span>
+  - ⓑ <span class="math-inline">−3</span>
+  - ⓒ <span class="math-inline">−2</span>
 
 
-Solution
-Draw a number line. Mark \(0\) in the center and label several units to the left and right.
-
-  - ⓐ To plot \(3,\) start at \(0\) and count three units to the right. Place a point as shown in .
+<div class="solution">
+**Solution**
 
 
-  - ⓑ To plot \(−3,\) start at \(0\) and count three units to the left. Place a point as shown in .
+Draw a number line. Mark <span class="math-inline">0</span> in the center and label several units to the left and right.
+
+  - ⓐ To plot <span class="math-inline">3,</span> start at <span class="math-inline">0</span> and count three units to the right. Place a point as shown in .
 
 
-  - ⓒ To plot \(−2,\) start at \(0\) and count two units to the left. Place a point as shown in .
+  - ⓑ To plot <span class="math-inline">−3,</span> start at <span class="math-inline">0</span> and count three units to the left. Place a point as shown in .
 
 
+  - ⓒ To plot <span class="math-inline">−2,</span> start at <span class="math-inline">0</span> and count two units to the left. Place a point as shown in .
+
+
+<div class="tryit">
 **Try It**
 
 
 Plot the numbers on a number line.
 
-  - ⓐ \(1\)
-  - ⓑ \(−1\)
-  - ⓒ \(−4\)
+  - ⓐ <span class="math-inline">1</span>
+  - ⓑ <span class="math-inline">−1</span>
+  - ⓒ <span class="math-inline">−4</span>
 
 
+<div class="tryit">
 **Try It**
 
 
 Plot the numbers on a number line.
 
-  - ⓐ \(−4\)
-  - ⓑ \(4\)
-  - ⓐ \(−1\)
+  - ⓐ <span class="math-inline">−4</span>
+  - ⓑ <span class="math-inline">4</span>
+  - ⓐ <span class="math-inline">−1</span>
 
+
+---
 
 ## Order Positive and Negative Numbers
 
+
 We can use the **number line** to compare and order positive and negative numbers. Going from left to right, numbers increase in value. Going from right to left, numbers decrease in value. See .
 
-Just as we did with positive numbers, we can use inequality symbols to show the ordering of positive and **negative numbers**. Remember that we use the notation \(a<b\) (read \(a\) *is less than* \(b\)) when \(a\) is to the left of \(b\) on the number line. We write \(a>b\) (read \(a\) *is greater than* \(b\)) when \(a\) is to the right of \(b\) on the number line. This is shown for the numbers \(3\) and \(5\) in .
+Just as we did with positive numbers, we can use inequality symbols to show the ordering of positive and **negative numbers**. Remember that we use the notation <span class="math-inline">a<b</span> (read <span class="math-inline">a</span> *is less than* <span class="math-inline">b</span>) when <span class="math-inline">a</span> is to the left of <span class="math-inline">b</span> on the number line. We write <span class="math-inline">a>b</span> (read <span class="math-inline">a</span> *is greater than* <span class="math-inline">b</span>) when <span class="math-inline">a</span> is to the right of <span class="math-inline">b</span> on the number line. This is shown for the numbers <span class="math-inline">3</span> and <span class="math-inline">5</span> in .
 
 
-*The number \(3\) is to the left of \(5\) on the number line. So \(3\) is less than \(5,\) and \(5\) is greater than \(3.\)*
+*The number <span class="math-inline">3</span> is to the left of <span class="math-inline">5</span> on the number line. So <span class="math-inline">3</span> is less than <span class="math-inline">5,</span> and <span class="math-inline">5</span> is greater than <span class="math-inline">3.</span>*
 
 The numbers lines to follow show a few more examples.
 
 ⓐ
 
 
-\(4\) is to the right of \(1\) on the number line, so \(4>1.\)
+<span class="math-inline">4</span> is to the right of <span class="math-inline">1</span> on the number line, so <span class="math-inline">4>1.</span>
 
-\(1\) is to the left of \(4\) on the number line, so \(1<4.\)
+<span class="math-inline">1</span> is to the left of <span class="math-inline">4</span> on the number line, so <span class="math-inline">1<4.</span>
 
 ⓑ
 
 
-\(−2\) is to the left of \(1\) on the number line, so \(−2<1.\)
+<span class="math-inline">−2</span> is to the left of <span class="math-inline">1</span> on the number line, so <span class="math-inline">−2<1.</span>
 
-\(1\) is to the right of \(−2\) on the number line, so \(1>−2.\)
+<span class="math-inline">1</span> is to the right of <span class="math-inline">−2</span> on the number line, so <span class="math-inline">1>−2.</span>
 
 ⓒ
 
 
-\(−1\) is to the right of \(−3\) on the number line, so \(−1>−3.\)
+<span class="math-inline">−1</span> is to the right of <span class="math-inline">−3</span> on the number line, so <span class="math-inline">−1>−3.</span>
 
-\(−3\) is to the left of \(−1\) on the number line, so \(−3<-1.\)
+<span class="math-inline">−3</span> is to the left of <span class="math-inline">−1</span> on the number line, so <span class="math-inline">−3<-1.</span>
 
 
+<div class="example">
 **Example**
 
 
-Order each of the following pairs of numbers using \(<\) or \(>:\)
+Order each of the following pairs of numbers using <span class="math-inline"><</span> or <span class="math-inline">>:</span>
 
 
-  - ⓐ \(14___6\)
-  - ⓑ \(−1___9\)
-  - ⓒ \(−1___−4\)
-  - ⓓ \(2___−20\)
+  - ⓐ <span class="math-inline">14__<sub>6</sub></span>
+  - ⓑ <span class="math-inline">−1__<sub>9</sub></span>
+  - ⓒ <span class="math-inline">−1___−4</span>
+  - ⓓ <span class="math-inline">2___−20</span>
 
 
-Solution
+<div class="solution">
+**Solution**
+
+
 Begin by plotting the numbers on a number line as shown in .
 
 
 ⓐ Compare 14 and 6.
-\(14___6\)
+<span class="math-inline">14__<sub>6</sub></span>
 
 
    14 is to the right of 6 on the number line.
-   \(14>6\)
-
+   <span class="math-inline">14>6</span>
 
 
 ⓑ Compare −1 and 9.
-\(−1___9\)
-
+<span class="math-inline">−1__<sub>9</sub></span>
 
 
    −1 is to the left of 9 on the number line.
-   \(−1<9\)
-
+   <span class="math-inline">−1<9</span>
 
 
 ⓒ Compare −1 and −4.
-\(−1___−4\)
+<span class="math-inline">−1___−4</span>
 
 
    −1 is to the right of −4 on the number line.
-   \(−1>−4\)
-
+   <span class="math-inline">−1>−4</span>
 
 
 ⓓ Compare 2 and −20.
-\(2___−20\)
-
+<span class="math-inline">2___−20</span>
 
 
    2 is to the right of −20 on the number line.
-   \(2>−20\)
+   <span class="math-inline">2>−20</span>
 
 
-
+<div class="tryit">
 **Try It**
 
 
-Order each of the following pairs of numbers using \(<\) or \(>.\)
+Order each of the following pairs of numbers using <span class="math-inline"><</span> or <span class="math-inline">>.</span>
 
-  - ⓐ \(15___7\)
-  - ⓑ \(−2___5\)
-  - ⓒ \(−3___−7\)
-  - ⓓ \(5___−17\)
+  - ⓐ <span class="math-inline">15__<sub>7</sub></span>
+  - ⓑ <span class="math-inline">−2__<sub>5</sub></span>
+  - ⓒ <span class="math-inline">−3___−7</span>
+  - ⓓ <span class="math-inline">5___−17</span>
 
 
   - ⓐ >
@@ -205,15 +285,16 @@ Order each of the following pairs of numbers using \(<\) or \(>.\)
   - ⓓ >
 
 
+<div class="tryit">
 **Try It**
 
 
-Order each of the following pairs of numbers using \(<\) or \(>.\)
+Order each of the following pairs of numbers using <span class="math-inline"><</span> or <span class="math-inline">>.</span>
 
-  - ⓐ \(8___13\)
-  - ⓑ \(3___−4\)
-  - ⓒ \(−5___−2\)
-  - ⓓ \(9___−21\)
+  - ⓐ <span class="math-inline">8__<sub>1</sub>3</span>
+  - ⓑ <span class="math-inline">3___−4</span>
+  - ⓒ <span class="math-inline">−5___−2</span>
+  - ⓓ <span class="math-inline">9___−21</span>
 
 
   - ⓐ <
@@ -222,56 +303,65 @@ Order each of the following pairs of numbers using \(<\) or \(>.\)
   - ⓓ >
 
 
+---
+
 ## Find Opposites
 
-On the number line, the negative numbers are a mirror image of the positive numbers with zero in the middle. Because the numbers \(2\) and \(−2\) are the same distance from zero, they are called **opposites**. The opposite of \(2\) is \(−2,\) and the opposite of \(−2\) is \(2\) as shown in (a). Similarly, \(3\) and \(−3\) are opposites as shown in (b).
+
+On the number line, the negative numbers are a mirror image of the positive numbers with zero in the middle. Because the numbers <span class="math-inline">2</span> and <span class="math-inline">−2</span> are the same distance from zero, they are called **opposites**. The opposite of <span class="math-inline">2</span> is <span class="math-inline">−2,</span> and the opposite of <span class="math-inline">−2</span> is <span class="math-inline">2</span> as shown in (a). Similarly, <span class="math-inline">3</span> and <span class="math-inline">−3</span> are opposites as shown in (b).
 
 
-**Opposite**
+<div class="definition-label">**Opposite**</div>
+
 
 The opposite of a number is the number that is the same distance from zero on the number line, but on the opposite side of zero.
 
 
+<div class="example">
 **Example**
 
 
 Find the opposite of each number:
 
 
-  - ⓐ \(7\)
-  - ⓑ \(−10\)
+  - ⓐ <span class="math-inline">7</span>
+  - ⓑ <span class="math-inline">−10</span>
 
 
-Solution
-
-  -  ⓐ The number \(−7\) is the same distance from \(0\) as \(7,\) but on the opposite side of \(0.\) So \(−7\) is the opposite of \(7\) as shown in .
-
-
-  - ⓑ The number \(10\) is the same distance from \(0\) as \(−10\), but on the opposite side of \(0.\) So \(10\) is the opposite of \(−10\) as shown in .
+<div class="solution">
+**Solution**
 
 
+  -  ⓐ The number <span class="math-inline">−7</span> is the same distance from <span class="math-inline">0</span> as <span class="math-inline">7,</span> but on the opposite side of <span class="math-inline">0.</span> So <span class="math-inline">−7</span> is the opposite of <span class="math-inline">7</span> as shown in .
+
+
+  - ⓑ The number <span class="math-inline">10</span> is the same distance from <span class="math-inline">0</span> as <span class="math-inline">−10</span>, but on the opposite side of <span class="math-inline">0.</span> So <span class="math-inline">10</span> is the opposite of <span class="math-inline">−10</span> as shown in .
+
+
+<div class="tryit">
 **Try It**
 
 
 Find the opposite of each number:
 
 
-  - ⓐ \(4\)
-  - ⓑ \(−3\)
+  - ⓐ <span class="math-inline">4</span>
+  - ⓑ <span class="math-inline">−3</span>
 
 
   - ⓐ −4
   -  ⓑ 3
 
 
+<div class="tryit">
 **Try It**
 
 
 Find the opposite of each number:
 
 
-  - ⓐ \(8\)
-  - ⓑ \(−5\)
+  - ⓐ <span class="math-inline">8</span>
+  - ⓑ <span class="math-inline">−5</span>
 
 
   -  ⓐ −8
@@ -280,70 +370,75 @@ Find the opposite of each number:
 
 ### Opposite Notation
 
-Just as the same word in English can have different meanings, the same symbol in algebra can have different meanings. The specific meaning becomes clear by looking at how it is used. You have seen the symbol \(“−”,\) in three different ways.
+Just as the same word in English can have different meanings, the same symbol in algebra can have different meanings. The specific meaning becomes clear by looking at how it is used. You have seen the symbol <span class="math-inline">“−”,</span> in three different ways.
 
 
-\(10-4\)
+<span class="math-inline">10-4</span>
 Between two numbers, the symbol indicates the operation of subtraction.
 
-We read \(10-4\) as 10 *minus* \(4\).
+We read <span class="math-inline">10-4</span> as 10 *minus* <span class="math-inline">4</span>.
 
 
-\(−8\)
+<span class="math-inline">−8</span>
 In front of a number, the symbol indicates a negative number.
 
-We read \(−8\) as *negative eight*.
+We read <span class="math-inline">−8</span> as *negative eight*.
 
 
-\(-x\)
+<span class="math-inline">-x</span>
 In front of a variable or a number, it indicates the opposite.
-We read\(−x\) as *the opposite of* \(x\).
+We read<span class="math-inline">−x</span> as *the opposite of* <span class="math-inline">x</span>.
 
 
-\(-(−2)\)
+<span class="math-inline">-(−2)</span>
 Here we have two signs. The sign in the parentheses indicates that the number is negative 2.
 
-The sign outside the parentheses indicates the opposite. We read \(-(−2)\) as *the opposite of* \(−2.\)
+The sign outside the parentheses indicates the opposite. We read <span class="math-inline">-(−2)</span> as *the opposite of* <span class="math-inline">−2.</span>
 
 
-**Opposite Notation**
-
-\(-a\) means the opposite of the number \(a\)
-
-The notation \(-a\) is read *the opposite of* \(a.\)
+<div class="definition-label">**Opposite Notation**</div>
 
 
+<span class="math-inline">-a</span> means the opposite of the number <span class="math-inline">a</span>
+
+The notation <span class="math-inline">-a</span> is read *the opposite of* <span class="math-inline">a.</span>
+
+
+<div class="example">
 **Example**
 
 
-Simplify: \(-(−6).\)
+Simplify: <span class="math-inline">-(−6).</span>
 
 
-Solution
+<div class="solution">
+**Solution**
 
 
- \(-(−6)\)
+ <span class="math-inline">-(−6)</span>
 
-The opposite of  \(-6\) is
- \(6.\)
-\(6\)
+The opposite of  <span class="math-inline">-6</span> is
+ <span class="math-inline">6.</span>
+<span class="math-inline">6</span>
 
 
+<div class="tryit">
 **Try It**
 
 
 Simplify:
-\(-(−1)\)
+<span class="math-inline">-(−1)</span>
 
 
 1
 
 
+<div class="tryit">
 **Try It**
 
 
 Simplify:
-\(-(−5)\)
+<span class="math-inline">-(−5)</span>
 
 
 5
@@ -351,169 +446,166 @@ Simplify:
 
 ### Integers
 
-The set of counting numbers, their opposites, and \(0\) is the set of **integers**.
+The set of counting numbers, their opposites, and <span class="math-inline">0</span> is the set of **integers**.
 
 
-**Integers**
+<div class="definition-label">**Integers**</div>
+
 
 *Integers* are counting numbers, their **opposites**, and zero.
 
 
-$$
-\dots −3,−2,−1,0,1,2,3…
-$$
+<div class="math-display">
+… −3,−2,−1,0,1,2,3…
+</div>
+
 
 We must be very careful with the signs when evaluating the opposite of a variable.
 
 
+<div class="example">
 **Example**
 
 
-Evaluate \(-x:\)
+Evaluate <span class="math-inline">-x:</span>
 
-  -  ⓐ when \(x=8\)
-  - ⓑ when \(x=−8.\)
-
-
-  To evaluate \(-x\) when \(x=8\), substitute \(8\) for \(x\).
+  -  ⓐ when <span class="math-inline">x=8</span>
+  - ⓑ when <span class="math-inline">x=−8.</span>
 
 
+  To evaluate <span class="math-inline">-x</span> when <span class="math-inline">x=8</span>, substitute <span class="math-inline">8</span> for <span class="math-inline">x</span>.
 
 
-   \(-x\)
-
-
-
-
+   <span class="math-inline">-x</span>
 
 
    Simplify.
-   \(−8\)
+   <span class="math-inline">−8</span>
 
 
+ ⓑ To evaluate <span class="math-inline">-x</span> when <span class="math-inline">x=−8</span>, substitute <span class="math-inline">−8</span> for <span class="math-inline">x</span>.
 
 
- ⓑ To evaluate \(-x\) when \(x=−8\), substitute \(−8\) for \(x\).
-
-
-
-
-   \(-x\)
-
-
-
-
+   <span class="math-inline">-x</span>
 
 
    Simplify.
-   \(8\)
+   <span class="math-inline">8</span>
 
 
-
+<div class="tryit">
 **Try It**
 
 
-Evaluate \(-n:\)
+Evaluate <span class="math-inline">-n:</span>
 
-  - ⓐ \(when n=4\)
-  - ⓑ \(when n=−4\)
+  - ⓐ <span class="math-inline">when n=4</span>
+  - ⓑ <span class="math-inline">when n=−4</span>
 
 
   -  ⓐ −4
   -  ⓑ 4
 
 
+<div class="tryit">
 **Try It**
 
 
 Evaluate:
-\(-m:\)
+<span class="math-inline">-m:</span>
 
 
-  - ⓐ \(when m=11\)
-  - ⓑ \(when m=−11\)
+  - ⓐ <span class="math-inline">when m=11</span>
+  - ⓑ <span class="math-inline">when m=−11</span>
 
 
   - ⓐ −11
   - ⓑ 11
 
 
+---
+
 ## Simplify Expressions with Absolute Value
 
-We saw that numbers such as \(5\) and \(−5\) are **opposites** because they are the same distance from \(0\) on the number line. They are both five units from \(0.\) The distance between \(0\) and any number on the number line is called the **absolute value** of that number. Because distance is never negative, the **absolute value** of any number is never negative.
 
-The symbol for absolute value is two vertical lines on either side of a number. So the absolute value of \(5\) is written as \(|5|,\) and the absolute value of \(−5\) is written as \(|−5|\) as shown in .
+We saw that numbers such as <span class="math-inline">5</span> and <span class="math-inline">−5</span> are **opposites** because they are the same distance from <span class="math-inline">0</span> on the number line. They are both five units from <span class="math-inline">0.</span> The distance between <span class="math-inline">0</span> and any number on the number line is called the **absolute value** of that number. Because distance is never negative, the **absolute value** of any number is never negative.
 
-
-**Absolute Value**
-
-The **absolute value** of a number is its distance from \(0\) on the number line.
-
-The absolute value of a number \(n\) is written as \(|n|.\)
+The symbol for absolute value is two vertical lines on either side of a number. So the absolute value of <span class="math-inline">5</span> is written as <span class="math-inline">|5|,</span> and the absolute value of <span class="math-inline">−5</span> is written as <span class="math-inline">|−5|</span> as shown in .
 
 
-$$
-|n|\ge 0 for all numbers
-$$
+<div class="definition-label">**Absolute Value**</div>
 
 
+The **absolute value** of a number is its distance from <span class="math-inline">0</span> on the number line.
+
+The absolute value of a number <span class="math-inline">n</span> is written as <span class="math-inline">|n|.</span>
+
+
+<div class="math-display">
+|n|≥ 0 for all numbers
+</div>
+
+
+<div class="example">
 **Example**
 
 
 Simplify:
 
-  - ⓐ \(|3|\)
-  - ⓑ \(|−44|\)
-  - ⓒ \(|0|\)
+  - ⓐ <span class="math-inline">|3|</span>
+  - ⓑ <span class="math-inline">|−44|</span>
+  - ⓒ <span class="math-inline">|0|</span>
 
 
-Solution
+<div class="solution">
+**Solution**
 
 
 ⓐ
 
- \(|3|\)
+ <span class="math-inline">|3|</span>
 
 3 is 3 units from zero.
- \(3\)
-
+ <span class="math-inline">3</span>
 
 
 ⓑ
- \(|−44|\)
+ <span class="math-inline">|−44|</span>
 
 −44 is 44 units from zero.
- \(44\)
+ <span class="math-inline">44</span>
 
 
 ⓒ
 
- \(|0|\)
+ <span class="math-inline">|0|</span>
 
 0 is already at zero.
- \(0\)
+ <span class="math-inline">0</span>
 
 
+<div class="tryit">
 **Try It**
 
 
 Simplify:
 
-  - ⓐ \(|12|\)
-  - ⓑ \(-|−28|\)
+  - ⓐ <span class="math-inline">|12|</span>
+  - ⓑ <span class="math-inline">-|−28|</span>
 
 
   - ⓐ  12
   -  ⓑ −28
 
 
+<div class="tryit">
 **Try It**
 
 
 Simplify:
 
-  - ⓐ \(|9|\)
-  - ⓑ \(-|37|\)
+  - ⓐ <span class="math-inline">|9|</span>
+  - ⓑ <span class="math-inline">-|37|</span>
 
 
   - ⓐ 9
@@ -522,101 +614,79 @@ Simplify:
 We treat absolute value bars just like we treat parentheses in the order of operations. We simplify the expression inside first.
 
 
+<div class="example">
 **Example**
 
 
 Evaluate:
 
-  - ⓐ \(|x| when x=−35\)
-  - ⓑ \(|−y| when y=−20\)
-  - ⓒ \(-|u| when u=12\)
-  - ⓓ \(-|p| when p=−14\)
+  - ⓐ <span class="math-inline">|x| when x=−35</span>
+  - ⓑ <span class="math-inline">|−y| when y=−20</span>
+  - ⓒ <span class="math-inline">-|u| when u=12</span>
+  - ⓓ <span class="math-inline">-|p| when p=−14</span>
 
 
-Solution
+<div class="solution">
+**Solution**
 
 
-
-   ⓐ To find \(|x|\) when \(x=−35:\)
-
-
-   \(|x|\)
+   ⓐ To find <span class="math-inline">|x|</span> when <span class="math-inline">x=−35:</span>
 
 
-
-
+   <span class="math-inline">|x|</span>
 
 
    Take the absolute value.
-   \(35\)
+   <span class="math-inline">35</span>
 
 
+   ⓑ To find <span class="math-inline">|-y|</span> when <span class="math-inline">y=−20:</span>
 
 
-   ⓑ To find \(|-y|\) when \(y=−20:\)
-
-
-
-\(|-y|\)
-
-
-
-
+<span class="math-inline">|-y|</span>
 
 
    Simplify.
-   \(|20|\)
+   <span class="math-inline">|20|</span>
 
 
  Take the absolute value.
- \(20\)
+ <span class="math-inline">20</span>
 
 
+   ⓒ To find <span class="math-inline">-|u|</span> when <span class="math-inline">u=12:</span>
 
 
-   ⓒ To find \(-|u|\) when \(u=12:\)
-
-
-   \(-|u|\)
-
-
-
-
+   <span class="math-inline">-|u|</span>
 
 
    Take the absolute value.
-   \(−12\)
+   <span class="math-inline">−12</span>
 
 
+   ⓓ To find <span class="math-inline">-|p|</span> when <span class="math-inline">p=−14:</span>
 
 
-   ⓓ To find \(-|p|\) when \(p=−14:\)
-
-
-   \(-|p|\)
-
-
-
-
+   <span class="math-inline">-|p|</span>
 
 
    Take the absolute value.
-   \(−14\)
-
+   <span class="math-inline">−14</span>
 
 
 Notice that the result is negative only when there is a negative sign outside the absolute value symbol.
 
 
+<div class="tryit">
 **Try It**
 
 
 Evaluate:
 
-  - ⓐ \(|x| when x=−17\)
-  - ⓑ \(|−y| when y=−39\)
-  - ⓒ \(-|m| when m=22\)
-  - ⓓ \(-|p| when p=−11\)
+  - ⓐ <span class="math-inline">|x| when x=−17</span>
+  - ⓑ <span class="math-inline">|−y| when y=−39</span>
+  - ⓒ <span class="math-inline">-|m| when m=22</span>
+  - ⓓ <span class="math-inline">-|p| when p=−11</span>
 
 
   - ⓐ 17
@@ -625,13 +695,14 @@ Evaluate:
   - ⓓ −11
 
 
+<div class="tryit">
 **Try It**
 
 
-  - ⓐ \(|y| when y=−23\)
-  - ⓑ \(|-y| when y=−21\)
-  - ⓒ \(-|n| when n=37\)
-  - ⓓ \(-|q| when q=−49\)
+  - ⓐ <span class="math-inline">|y| when y=−23</span>
+  - ⓑ <span class="math-inline">|-y| when y=−21</span>
+  - ⓒ <span class="math-inline">-|n| when n=37</span>
+  - ⓓ <span class="math-inline">-|q| when q=−49</span>
 
 
   - ⓐ 23
@@ -640,100 +711,97 @@ Evaluate:
   - ⓓ −49
 
 
+<div class="example">
 **Example**
 
 
-Fill in \(<,>,or=\) for each of the following:
+Fill in <span class="math-inline"><,>,or=</span> for each of the following:
 
-  - ⓐ \(|−5|___-|−5|\)
-  - ⓑ \(8___-|−8|\)
-  - ⓒ \(−9___-|−9|\)
-  - ⓓ \(-|−7|___−7\)
+  - ⓐ <span class="math-inline">|−5|___-|−5|</span>
+  - ⓑ <span class="math-inline">8___-|−8|</span>
+  - ⓒ <span class="math-inline">−9___-|−9|</span>
+  - ⓓ <span class="math-inline">-|−7|___−7</span>
 
 
-Solution
+<div class="solution">
+**Solution**
+
+
 To compare two expressions, simplify each one first. Then compare.
 
 ⓐ
 
 
-
-\(|−5|___-|−5|\)
+<span class="math-inline">|−5|___-|−5|</span>
 
 
     Simplify.
 
-\(5___−5\)
+<span class="math-inline">5___−5</span>
 
 
     Order.
-    \(5>−5\)
-
-
+    <span class="math-inline">5>−5</span>
 
 
 ⓑ
 
 
-
-
-\(8___-|−8|\)
+<span class="math-inline">8___-|−8|</span>
 
 
     Simplify.
 
-\(8___-8\)
+<span class="math-inline">8___-8</span>
 
 
     Order.
-    \(8>-8\)
-
+    <span class="math-inline">8>-8</span>
 
 
 ⓒ
 
 
-  \(−9___-|−9|\)
+  <span class="math-inline">−9___-|−9|</span>
 
 
     Simplify.
 
 
-\(−9___-9\)
+<span class="math-inline">−9___-9</span>
 
 
     Order.
 
-\(−9=−9\)
-
+<span class="math-inline">−9=−9</span>
 
 
 ⓓ
 
 
-   \(-|−7|___−7\)
+   <span class="math-inline">-|−7|___−7</span>
 
 
     Simplify.
 
-\(−7___-7\)
+<span class="math-inline">−7___-7</span>
 
 
     Order.
-    \(−7=-7\)
+    <span class="math-inline">−7=-7</span>
 
 
-
+<div class="tryit">
 **Try It**
 
 
-Fill in \(<,>,or= for each of the following:\)
+Fill in <span class="math-inline"><,>,or= for each of the following:</span>
 
 
-  - ⓐ \(|−9| ___-|−9|\)
-  - ⓑ \(2___-|−2|\)
-  - ⓒ \(−8___|−8|\)
-  - ⓓ \(-|−5|___−5\)
+  - ⓐ <span class="math-inline">|−9| ___-|−9|</span>
+  - ⓑ <span class="math-inline">2___-|−2|</span>
+  - ⓒ <span class="math-inline">−8___|−8|</span>
+  - ⓓ <span class="math-inline">-|−5|___−5</span>
 
 
   - ⓐ >
@@ -742,16 +810,17 @@ Fill in \(<,>,or= for each of the following:\)
   - ⓓ =
 
 
+<div class="tryit">
 **Try It**
 
 
-Fill in \(<,>,or=\) for each of the following:
+Fill in <span class="math-inline"><,>,or=</span> for each of the following:
 
 
-  - ⓐ \(7___-|−7|\)
-  - ⓑ \(-|−11|___−11\)
-  - ⓒ \(|−4|___-|−4|\)
-  - ⓓ \(−1___|−1|\)
+  - ⓐ <span class="math-inline">7___-|−7|</span>
+  - ⓑ <span class="math-inline">-|−11|___−11</span>
+  - ⓒ <span class="math-inline">|−4|___-|−4|</span>
+  - ⓓ <span class="math-inline">−1___|−1|</span>
 
 
   - ⓐ >
@@ -762,18 +831,21 @@ Fill in \(<,>,or=\) for each of the following:
 **Absolute value** bars act like grouping symbols. First simplify inside the absolute value bars as much as possible. Then take the absolute value of the resulting number, and continue with any operations outside the absolute value symbols.
 
 
+<div class="example">
 **Example**
 
 
 Simplify:
 
-  - ⓐ \(|9−3|\)
-  - ⓑ \(4|−2|\)
+  - ⓐ <span class="math-inline">|9−3|</span>
+  - ⓑ <span class="math-inline">4|−2|</span>
 
 
-Solution
+<div class="solution">
+**Solution**
+
+
 For each expression, follow the order of operations. Begin inside the absolute value symbols just as with parentheses.
-
 
 
    ⓐ
@@ -790,8 +862,6 @@ For each expression, follow the order of operations. Begin inside the absolute v
    6
 
 
-
-
    ⓑ
 
 
@@ -806,44 +876,47 @@ For each expression, follow the order of operations. Begin inside the absolute v
    8
 
 
-
+<div class="tryit">
 **Try It**
 
 
 Simplify:
 
 
-  - ⓐ \(|12-9|\)
-  - ⓑ \(3|−6|\)
+  - ⓐ <span class="math-inline">|12-9|</span>
+  - ⓑ <span class="math-inline">3|−6|</span>
 
 
   - ⓐ 3
   - ⓑ 18
 
 
+<div class="tryit">
 **Try It**
 
 
 Simplify:
 
-  - ⓐ \(|27-16|\)
-  - ⓑ \(9|−7|\)
+  - ⓐ <span class="math-inline">|27-16|</span>
+  - ⓑ <span class="math-inline">9|−7|</span>
 
 
   - ⓐ 11
   - ⓑ 63
 
 
+<div class="example">
 **Example**
 
 
-Simplify: \(|8+7|-|5+6|.\)
+Simplify: <span class="math-inline">|8+7|-|5+6|.</span>
 
 
-Solution
+<div class="solution">
+**Solution**
+
+
 For each expression, follow the order of operations. Begin inside the **absolute value symbols** just as with parentheses.
-
-
 
 
    |8+7|−|5+6|
@@ -857,118 +930,129 @@ For each expression, follow the order of operations. Begin inside the **absolute
    4
 
 
-
+<div class="tryit">
 **Try It**
 
 
-Simplify: \(|1+8|-|2+5|\)
+Simplify: <span class="math-inline">|1+8|-|2+5|</span>
 
 
 2
 
 
+<div class="tryit">
 **Try It**
 
 
-Simplify: \(|9−5|-|7-6|\)
+Simplify: <span class="math-inline">|9−5|-|7-6|</span>
 
 
 3
 
 
+<div class="example">
 **Example**
 
 
-Simplify: \(24-|19-3(6-2)|.\)
+Simplify: <span class="math-inline">24-|19-3(6-2)|.</span>
 
 
-Solution
+<div class="solution">
+**Solution**
+
+
 We use the **order of operations**. Remember to simplify grouping symbols first, so parentheses inside absolute value symbols would be first.
 
 
-
-
-   \(24-|19-3(6-2)|\)
+   <span class="math-inline">24-|19-3(6-2)|</span>
 
 
    Simplify in the parentheses first.
-   \(24-|19-3(4)|\)
+   <span class="math-inline">24-|19-3(4)|</span>
 
 
-   Multiply \(3(4)\).
-   \(24-|19-12|\)
+   Multiply <span class="math-inline">3(4)</span>.
+   <span class="math-inline">24-|19-12|</span>
 
 
  Subtract inside the absolute value sign.
- \(24-|7|\)
+ <span class="math-inline">24-|7|</span>
 
 
  Take the absolute value.
-\(24-7\)
+<span class="math-inline">24-7</span>
 
 
  Subtract.
- \(17\)
+ <span class="math-inline">17</span>
 
 
-
+<div class="tryit">
 **Try It**
 
 
-Simplify: \(19-|11-4(3-1)|\)
+Simplify: <span class="math-inline">19-|11-4(3-1)|</span>
 
 
 16
 
 
+<div class="tryit">
 **Try It**
 
 
-Simplify: \(9-|8-4(7-5)|\)
+Simplify: <span class="math-inline">9-|8-4(7-5)|</span>
 
 
 9
 
 
+---
+
 ## Translate Word Phrases into Expressions with Integers
 
-Now we can translate word phrases into expressions with **integers**. Look for words that indicate a negative sign. For example, the word *negative* in “negative twenty” indicates \(−20.\) So does the word *opposite* in “the opposite of \(20.”\)
+
+Now we can translate word phrases into expressions with **integers**. Look for words that indicate a negative sign. For example, the word *negative* in “negative twenty” indicates <span class="math-inline">−20.</span> So does the word *opposite* in “the opposite of <span class="math-inline">20.”</span>
 
 
+<div class="example">
 **Example**
 
 
 Translate each phrase into an expression with integers:
 
   - ⓐ the opposite of positive fourteen
-  - ⓑ the opposite of \(−11\)
+  - ⓑ the opposite of <span class="math-inline">−11</span>
   - ⓒ negative sixteen
   - ⓓ two minus negative seven
 
 
-Solution
+<div class="solution">
+**Solution**
+
 
   - ⓐ the opposite of fourteen
 
- \(−14\)
+ <span class="math-inline">−14</span>
   - ⓑ the opposite of −11
 
- \(-(−11)=11\)
+ <span class="math-inline">-(−11)=11</span>
   - ⓒ negative sixteen
 
-\(−16\)
+<span class="math-inline">−16</span>
   - ⓓ two minus negative seven
 
-\(2-(−7)\)
+<span class="math-inline">2-(−7)</span>
 
 
+<div class="tryit">
 **Try It**
 
 
 Translate each phrase into an expression with integers:
 
   - ⓐ the opposite of positive nine
-  - ⓑ the opposite of \(−15\)
+  - ⓑ the opposite of <span class="math-inline">−15</span>
   - ⓒ negative twenty
   - ⓓ eleven minus negative four
 
@@ -979,6 +1063,7 @@ Translate each phrase into an expression with integers:
   - ⓓ 11−(−4)
 
 
+<div class="tryit">
 **Try It**
 
 
@@ -999,21 +1084,24 @@ Translate each phrase into an expression with integers:
 As we saw at the start of this section, negative numbers are needed to describe many real-world situations. We’ll look at some more applications of negative numbers in the next example.
 
 
+<div class="example">
 **Example**
 
 
 Translate into an expression with integers:
 
 
-  - ⓐ The temperature is \(12 degrees Fahrenheit\) below zero.
-  - ⓑ The football team had a gain of \(3 yards.\)
-  - ⓒ The elevation of the Dead Sea is \(1,302 feet\) below sea level.
-  - ⓓ A checking account is overdrawn by \($40.\)
+  - ⓐ The temperature is <span class="math-inline">12 degrees Fahrenheit</span> below zero.
+  - ⓑ The football team had a gain of <span class="math-inline">3 yards.</span>
+  - ⓒ The elevation of the Dead Sea is <span class="math-inline">1,302 feet</span> below sea level.
+  - ⓓ A checking account is overdrawn by <span class="math-inline">$40.</span>
 
 
-Solution
+<div class="solution">
+**Solution**
+
+
 Look for key phrases in each sentence. Then look for words that indicate negative signs. Don’t forget to include units of measurement described in the sentence.
-
 
 
     ⓐ
@@ -1024,10 +1112,7 @@ Look for key phrases in each sentence. Then look for words that indicate negativ
     *Below zero* tells us that 12 is a negative number.
 
 
-\(-12ºF\)
-
-
-
+<span class="math-inline">-12ºF</span>
 
 
     ⓑ
@@ -1038,10 +1123,7 @@ Look for key phrases in each sentence. Then look for words that indicate negativ
     A *gain* tells us that 3 is a positive number.
 
 
-\(3\) yards
-
-
-
+<span class="math-inline">3</span> yards
 
 
     ⓒ
@@ -1051,10 +1133,7 @@ Look for key phrases in each sentence. Then look for words that indicate negativ
     *Below sea level* tells us that 1,302 is a negative number.
 
 
-\(-1,302\) feet
-
-
-
+<span class="math-inline">-1,302</span> feet
 
 
     ⓓ
@@ -1063,32 +1142,33 @@ Look for key phrases in each sentence. Then look for words that indicate negativ
 
     *Overdrawn* tells us that 40 is a negative number.
 
-\(-$40\)
+<span class="math-inline">-$40</span>
 
 
-
-
+<div class="tryit">
 **Try It**
 
 
 Translate into an expression with integers:
-The football team had a gain of \(5 yards.\)
+The football team had a gain of <span class="math-inline">5 yards.</span>
 
 
 5 yards
 
 
+<div class="tryit">
 **Try It**
 
 
 Translate into an expression with integers:
-The scuba diver was \(30 feet\) below the surface of the water.
+The scuba diver was <span class="math-inline">30 feet</span> below the surface of the water.
 
 
 −30 feet
 
 
-**ACCESS ADDITIONAL ONLINE RESOURCES**
+<div class="definition-label">**ACCESS ADDITIONAL ONLINE RESOURCES**</div>
+
 
 - Introduction to Integers
 
@@ -1097,3 +1177,109 @@ The scuba diver was \(30 feet\) below the surface of the water.
 - Comparing Absolute Value of Integers
 
 - Comparing Integers Using Inequalities
+
+</div>
+
+</div>
+
+</div>
+
+</div>
+
+</div>
+
+</div>
+
+</div>
+
+</div>
+
+</div>
+
+</div>
+
+</div>
+
+</div>
+
+</div>
+
+</div>
+
+</div>
+
+</div>
+
+</div>
+
+</div>
+
+</div>
+
+</div>
+
+</div>
+
+</div>
+
+</div>
+
+</div>
+
+</div>
+
+</div>
+
+</div>
+
+</div>
+
+</div>
+
+</div>
+
+</div>
+
+</div>
+
+</div>
+
+</div>
+
+</div>
+
+</div>
+
+</div>
+
+</div>
+
+</div>
+
+</div>
+
+</div>
+
+</div>
+
+</div>
+
+</div>
+
+</div>
+
+</div>
+
+</div>
+
+</div>
+
+</div>
+
+</div>
+
+</div>
+
+</div>
+
+</div>

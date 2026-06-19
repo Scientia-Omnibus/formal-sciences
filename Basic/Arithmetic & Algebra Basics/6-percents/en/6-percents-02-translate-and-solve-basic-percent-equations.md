@@ -1,99 +1,170 @@
+<style>
+.math-inline {
+    font-style: italic;
+    padding: 2px 6px;
+    border-radius: 4px;
+    background: #f8f9fa;
+    font-family: Georgia, serif;
+}
+.math-display {
+    background: #f8f9fa;
+    border-left: 4px solid #4a90d9;
+    padding: 16px 20px;
+    margin: 16px 0;
+    border-radius: 6px;
+    font-size: 1.15em;
+    font-family: Georgia, serif;
+    text-align: center;
+    line-height: 2;
+    overflow-x: auto;
+}
+.example-box, .example {
+    background: #f0f8ff;
+    border-left: 4px solid #2e86de;
+    padding: 12px 20px;
+    margin: 16px 0;
+    border-radius: 6px;
+}
+.tryit-box, .tryit {
+    background: #f0fff4;
+    border-left: 4px solid #27ae60;
+    padding: 12px 20px;
+    margin: 16px 0;
+    border-radius: 6px;
+}
+.solution-box, .solution {
+    background: #fef9e7;
+    border-left: 4px solid #f39c12;
+    padding: 12px 20px;
+    margin: 12px 0;
+    border-radius: 6px;
+}
+.check-box, .check {
+    background: #fef9e7;
+    border-left: 4px solid #f39c12;
+    padding: 12px 20px;
+    margin: 12px 0;
+    border-radius: 6px;
+}
+.prep-quiz {
+    background: #fff3cd;
+    border: 1px solid #ffc107;
+    padding: 12px 20px;
+    margin: 16px 0;
+    border-radius: 6px;
+}
+.def-label, .definition-label {
+    font-weight: bold;
+    font-size: 1.1em;
+    margin: 20px 0 8px 0;
+    color: #2c3e50;
+    display: block;
+}
+.math-display sup, .math-inline sup { font-size: 0.75em; line-height: 0; }
+.math-display sub, .math-inline sub { font-size: 0.75em; line-height: 0; }
+</style>
+
+
+---
+
+
+---
+
 ## Translate and Solve Basic Percent Equations
+
 
 We will solve percent equations by using the methods we used to solve equations with fractions or decimals. In the past, you may have solved percent problems by setting them up as proportions. That was the best method available when you did not have the tools of algebra. Now as a prealgebra student, you can translate word sentences into algebraic equations, and then solve the equations.
 
 We'll look at a common application of percent—tips to a server at a restaurant—to see how to set up a basic percent application.
 
-When Aolani and her friends ate dinner at a restaurant, the bill came to \($80.\) They wanted to leave a \(20%\) tip. What amount would the tip be?
+When Aolani and her friends ate dinner at a restaurant, the bill came to <span class="math-inline">$80.</span> They wanted to leave a <span class="math-inline">20%</span> tip. What amount would the tip be?
 
-To solve this, we want to find what *amount* is \(20%\) of \($80.\) The \($80\) is called the *base*. The amount of the tip would be \(0.20(80),\) or \($16\) See . To find the amount of the tip, we multiplied the percent by the base.
+To solve this, we want to find what *amount* is <span class="math-inline">20%</span> of <span class="math-inline">$80.</span> The <span class="math-inline">$80</span> is called the *base*. The amount of the tip would be <span class="math-inline">0.20(80),</span> or <span class="math-inline">$16</span> See . To find the amount of the tip, we multiplied the percent by the base.
 
 
-*A \(20%\) tip for an \($80\) restaurant bill comes out to \($16.\)*
+*A <span class="math-inline">20%</span> tip for an <span class="math-inline">$80</span> restaurant bill comes out to <span class="math-inline">$16.</span>*
 
 In the next examples, we will find the amount. We must be sure to change the given percent to a decimal when we translate the words into an equation.
 
 
+<div class="example">
 **Example**
 
 
-What number is \(35%\) of \(90?\)
+What number is <span class="math-inline">35%</span> of <span class="math-inline">90?</span>
 
 
-Solution
+<div class="solution">
+<span class="def-label">Solution</span>
 
 
-
-   Translate into algebra. Let \(n=\)the number.
-
+   Translate into algebra. Let <span class="math-inline">n=</span>the number.
 
 
    Multiply.
 
 
+   <span class="math-inline">31.5</span> is <span class="math-inline">35%</span> of <span class="math-inline">90</span>
 
 
-   \(31.5\) is \(35%\) of \(90\)
-
-
-
+<div class="tryit">
 **Try It**
 
 
-What number is \(45%\) of \(80?\)
+What number is <span class="math-inline">45%</span> of <span class="math-inline">80?</span>
 
 
 36
 
 
+<div class="tryit">
 **Try It**
 
 
-What number is \(55%\) of \(60?\)
+What number is <span class="math-inline">55%</span> of <span class="math-inline">60?</span>
 
 
 33
 
 
+<div class="example">
 **Example**
 
 
-\(125%\) of \(28\) is what number?
+<span class="math-inline">125%</span> of <span class="math-inline">28</span> is what number?
 
 
-Solution
+<div class="solution">
+<span class="def-label">Solution</span>
 
 
-
-   Translate into algebra. Let \(a =\)the number.
-
+   Translate into algebra. Let <span class="math-inline">a =</span>the number.
 
 
    Multiply.
 
 
+   <span class="math-inline">125%</span> of <span class="math-inline">28</span> is <span class="math-inline">35</span>.
 
 
-   \(125%\) of \(28\) is \(35\).
+Remember that a percent over <span class="math-inline">100</span> is a number greater than <span class="math-inline">1.</span> We found that <span class="math-inline">125%</span> of <span class="math-inline">28</span> is <span class="math-inline">35,</span> which is greater than <span class="math-inline">28.</span>
 
 
-
-Remember that a percent over \(100\) is a number greater than \(1.\) We found that \(125%\) of \(28\) is \(35,\) which is greater than \(28.\)
-
-
+<div class="tryit">
 **Try It**
 
 
-\(150%\) of \(78\) is what number?
+<span class="math-inline">150%</span> of <span class="math-inline">78</span> is what number?
 
 
 117
 
 
+<div class="tryit">
 **Try It**
 
 
-\(175%\) of \(72\) is what number?
+<span class="math-inline">175%</span> of <span class="math-inline">72</span> is what number?
 
 
 126
@@ -102,85 +173,81 @@ Remember that a percent over \(100\) is a number greater than \(1.\) We found th
 In the next examples, we are asked to find the base.
 
 
+<div class="example">
 **Example**
 
 
-Translate and solve: \(36\) is \(75%\) of what number?
+Translate and solve: <span class="math-inline">36</span> is <span class="math-inline">75%</span> of what number?
 
 
-Solution
+<div class="solution">
+<span class="def-label">Solution</span>
 
 
-
-   Translate. Let \(b=\) the number.
-
+   Translate. Let <span class="math-inline">b=</span> the number.
 
 
  Divide both sides by 0.75.
 
 
-
    Simplify.
 
 
-
-
+<div class="tryit">
 **Try It**
 
 
-\(17\) is \(25%\) of what number?
+<span class="math-inline">17</span> is <span class="math-inline">25%</span> of what number?
 
 
 68
 
 
+<div class="tryit">
 **Try It**
 
 
-\(40\) is \(62.5%\) of what number?
+<span class="math-inline">40</span> is <span class="math-inline">62.5%</span> of what number?
 
 
 64
 
 
+<div class="example">
 **Example**
 
 
-\(6.5%\) of what number is \($1.17?\)
+<span class="math-inline">6.5%</span> of what number is <span class="math-inline">$1.17?</span>
 
 
-Solution
+<div class="solution">
+<span class="def-label">Solution</span>
 
 
-
-   Translate. Let \(b=\) the number.
-
-
+   Translate. Let <span class="math-inline">b=</span> the number.
 
 
  Divide both sides by 0.065.
 
 
-
-
    Simplify.
 
 
-
-
+<div class="tryit">
 **Try It**
 
 
-\(7.5%\) of what number is \($1.95?\)
+<span class="math-inline">7.5%</span> of what number is <span class="math-inline">$1.95?</span>
 
 
 $26
 
 
+<div class="tryit">
 **Try It**
 
 
-\(8.5%\) of what number is \($3.06?\)
+<span class="math-inline">8.5%</span> of what number is <span class="math-inline">$3.06?</span>
 
 
 $36
@@ -189,114 +256,110 @@ $36
 In the next examples, we will solve for the percent.
 
 
+<div class="example">
 **Example**
 
 
-What percent of \(36\) is \(9?\)
+What percent of <span class="math-inline">36</span> is <span class="math-inline">9?</span>
 
 
-Solution
+<div class="solution">
+<span class="def-label">Solution</span>
 
 
-
-   Translate into algebra. Let \(p=\) the percent.
-
-
+   Translate into algebra. Let <span class="math-inline">p=</span> the percent.
 
 
  Divide by 36.
 
 
-
-
    Simplify.
-
-
 
 
    Convert to decimal form.
 
 
-
    Convert to percent.
 
 
-
-
+<div class="tryit">
 **Try It**
 
 
-What percent of \(76\) is \(57?\)
+What percent of <span class="math-inline">76</span> is <span class="math-inline">57?</span>
 
 
 75%
 
 
+<div class="tryit">
 **Try It**
 
 
-What percent of \(120\) is \(96?\)
+What percent of <span class="math-inline">120</span> is <span class="math-inline">96?</span>
 
 
 80%
 
 
+<div class="example">
 **Example**
 
 
-\(144\) is what percent of \(96?\)
+<span class="math-inline">144</span> is what percent of <span class="math-inline">96?</span>
 
 
-Solution
+<div class="solution">
+<span class="def-label">Solution</span>
 
 
-
-   Translate into algebra. Let \(p=\) the percent.
-
-
+   Translate into algebra. Let <span class="math-inline">p=</span> the percent.
 
 
  Divide by 96.
 
 
-
-
    Simplify.
-
-
 
 
    Convert to percent.
 
 
-
-
+<div class="tryit">
 **Try It**
 
 
-\(110\) is what percent of \(88?\)
+<span class="math-inline">110</span> is what percent of <span class="math-inline">88?</span>
 
 
 125%
 
 
+<div class="tryit">
 **Try It**
 
 
-\(126\) is what percent of \(72?\)
+<span class="math-inline">126</span> is what percent of <span class="math-inline">72?</span>
 
 
 175%
 
 
+---
+
+
+---
+
 ## Solve Applications of Percent
+
 
 Many applications of percent occur in our daily lives, such as tips, sales tax, discount, and interest. To solve these applications we'll translate to a basic percent equation, just like those we solved in the previous examples in this section. Once you translate the sentence into a percent equation, you know how to solve it.
 
 We will update the strategy we used in our earlier applications to include equations now. Notice that we will translate a sentence into an equation.
 
 
-**Solve an application**
+<div class="definition-label">**Solve an application**</div>
+
 
 - Identify what you are asked to find and choose a variable to represent it.
 
@@ -313,187 +376,163 @@ We will update the strategy we used in our earlier applications to include equat
 Now that we have the strategy to refer to, and have practiced solving basic percent equations, we are ready to solve percent applications. Be sure to ask yourself if your final answer makes sense—since many of the applications we'll solve involve everyday situations, you can rely on your own experience.
 
 
+<div class="example">
 **Example**
 
 
-Dezohn and his girlfriend enjoyed a dinner at a restaurant, and the bill was \($68.50.\) They want to leave an \(18%\) tip. If the tip will be \(18%\) of the total bill, how much should the tip be?
+Dezohn and his girlfriend enjoyed a dinner at a restaurant, and the bill was <span class="math-inline">$68.50.</span> They want to leave an <span class="math-inline">18%</span> tip. If the tip will be <span class="math-inline">18%</span> of the total bill, how much should the tip be?
 
 
-Solution
-
+<div class="solution">
+<span class="def-label">Solution</span>
 
 
    What are you asked to find?
    the amount of the tip
 
 
-
  Choose a variable to represent it.
- Let \(t=\) amount of tip.
-
+ Let <span class="math-inline">t=</span> amount of tip.
 
 
    Write a sentence that give the information to find it.
    The tip is 18% of the total bill.
 
 
-
    Translate the sentence into an equation.
-
-
-
 
 
    Multiply.
 
 
-
-
-
-   Check. Is this answer reasonable?
+<div class="check-box">
+<span class="def-label">Check. Is this answer reasonable?</span>
 
 
    If we approximate the bill to $70 and the percent to 20%, we would have a tip of $14.
  So a tip of $12.33 seems reasonable.
 
 
-
-
    Write a complete  sentence that answers the question.
    The couple should leave a tip of $12.33.
 
 
-
+<div class="tryit">
 **Try It**
 
 
-Cierra and her sister enjoyed a special dinner in a restaurant, and the bill was \($81.50.\) If she wants to leave \(18%\) of the total bill as her tip, how much should she leave?
+Cierra and her sister enjoyed a special dinner in a restaurant, and the bill was <span class="math-inline">$81.50.</span> If she wants to leave <span class="math-inline">18%</span> of the total bill as her tip, how much should she leave?
 
 
 $14.67
 
 
+<div class="tryit">
 **Try It**
 
 
-Kimngoc had lunch at her favorite restaurant. She wants to leave \(15%\) of the total bill as her tip. If her bill was \($14.40,\) how much will she leave for the tip?
+Kimngoc had lunch at her favorite restaurant. She wants to leave <span class="math-inline">15%</span> of the total bill as her tip. If her bill was <span class="math-inline">$14.40,</span> how much will she leave for the tip?
 
 
 $2.16
 
 
+<div class="example">
 **Example**
 
 
-The label on Masao's breakfast cereal said that one serving of cereal provides \(85\) milligrams (mg) of potassium, which is \(2%\) of the recommended daily amount. What is the total recommended daily amount of potassium?
+The label on Masao's breakfast cereal said that one serving of cereal provides <span class="math-inline">85</span> milligrams (mg) of potassium, which is <span class="math-inline">2%</span> of the recommended daily amount. What is the total recommended daily amount of potassium?
 
 
-Solution
-
+<div class="solution">
+<span class="def-label">Solution</span>
 
 
    What are you asked to find?
    the total amount of potassium recommended
 
 
-
  Choose a variable to represent it.
- Let \(a=\) total amount of potassium.
-
+ Let <span class="math-inline">a=</span> total amount of potassium.
 
 
    Write a sentence that gives the information to find it.
    85 mg is 2% of the total amount.
 
 
-
    Translate the sentence into an equation.
-
-
 
 
    Divide both sides by 0.02.
 
 
-
-
    Simplify.
 
 
-
-Check: Is this answer reasonable?
+<div class="check">
+<span class="def-label">Check</span>
 
 
 Yes. 2% is a small percent and 85 is a small part of 4,250.
-
 
 
    Write a complete  sentence that answers the question.
    The amount of potassium that is recommended is 4250 mg.
 
 
-
+<div class="tryit">
 **Try It**
 
 
-One serving of wheat square cereal has \(7\) grams of fiber, which is \(29%\) of the recommended daily amount. What is the total recommended daily amount of fiber?
+One serving of wheat square cereal has <span class="math-inline">7</span> grams of fiber, which is <span class="math-inline">29%</span> of the recommended daily amount. What is the total recommended daily amount of fiber?
 
 
 24.1 grams
 
 
+<div class="tryit">
 **Try It**
 
 
-One serving of rice cereal has \(190\) mg of sodium, which is \(8%\) of the recommended daily amount. What is the total recommended daily amount of sodium?
+One serving of rice cereal has <span class="math-inline">190</span> mg of sodium, which is <span class="math-inline">8%</span> of the recommended daily amount. What is the total recommended daily amount of sodium?
 
 
 2,375 mg
 
 
+<div class="example">
 **Example**
 
 
-Mitzi received some gourmet brownies as a gift. The wrapper said each brownie was \(480\) calories, and had \(240\) calories of fat. What percent of the total calories in each brownie comes from fat?
+Mitzi received some gourmet brownies as a gift. The wrapper said each brownie was <span class="math-inline">480</span> calories, and had <span class="math-inline">240</span> calories of fat. What percent of the total calories in each brownie comes from fat?
 
 
-Solution
-
+<div class="solution">
+<span class="def-label">Solution</span>
 
 
    What are you asked to find?
    the percent of the total calories from fat
 
 
-
  Choose a variable to represent it.
- Let \(p=\) percent from fat.
-
+ Let <span class="math-inline">p=</span> percent from fat.
 
 
    Write a sentence that gives the information to find it.
    What percent of 480 is 240?
 
 
-
    Translate the sentence into an equation.
-
-
 
 
    Divide both sides by 480.
 
 
-
-
    Simplify.
 
 
-
-
    Convert to percent form.
-
-
 
 
    Check. Is this answer reasonable?
@@ -502,114 +541,111 @@ Solution
 Yes. 240 is half of 480, so 50% makes sense.
 
 
-
-
    Write a complete  sentence that answers the question.
    Of the total calories in each brownie, 50% is fat.
 
 
-
+<div class="tryit">
 **Try It**
 
 
-Veronica is planning to make muffins from a mix. The package says each muffin will be \(230\) calories and \(60\) calories will be from fat. What percent of the total calories is from fat? (Round to the nearest whole percent.)
+Veronica is planning to make muffins from a mix. The package says each muffin will be <span class="math-inline">230</span> calories and <span class="math-inline">60</span> calories will be from fat. What percent of the total calories is from fat? (Round to the nearest whole percent.)
 
 
 26%
 
 
+<div class="tryit">
 **Try It**
 
 
-The brownie mix Ricardo plans to use says that each brownie will be \(190\) calories, and \(70\) calories are from fat. What percent of the total calories are from fat?
+The brownie mix Ricardo plans to use says that each brownie will be <span class="math-inline">190</span> calories, and <span class="math-inline">70</span> calories are from fat. What percent of the total calories are from fat?
 
 
 37%
 
 
+---
+
+
+---
+
 ## Find Percent Increase and Percent Decrease
+
 
 People in the media often talk about how much an amount has increased or decreased over a certain period of time. They usually express this increase or decrease as a **percent**.
 
 To find the **percent increase**, first we find the amount of increase, which is the difference between the new amount and the original amount. Then we find what percent the amount of increase is of the original amount.
 
 
-**Find Percent Increase.**
+<div class="definition-label">**Find Percent Increase.**</div>
+
 
 Step 1. Find the amount of increase.
 
 
-- \(increase=new amount-original amount\)
+- <span class="math-inline">increase=new amount-original amount</span>
 
 Step 2. Find the percent increase as a percent of the original amount.
 
 
+<div class="example">
 **Example**
 
 
-In \(2011,\) the California governor proposed raising community college fees from \($26\) per unit to \($36\) per unit. Find the percent increase. (Round to the nearest tenth of a percent.)
+In <span class="math-inline">2011,</span> the California governor proposed raising community college fees from <span class="math-inline">$26</span> per unit to <span class="math-inline">$36</span> per unit. Find the percent increase. (Round to the nearest tenth of a percent.)
 
 
-Solution
-
+<div class="solution">
+<span class="def-label">Solution</span>
 
 
    What are you asked to find?
    the percent increase
 
 
-
  Choose a variable to represent it.
- Let \(p=\) percent.
-
+ Let <span class="math-inline">p=</span> percent.
 
 
    Find the amount of increase.
-
-
 
 
    Find the percent increase.
    The increase is what percent of the original amount?
 
 
-
    Translate to an equation.
-
-
 
 
    Divide both sides by 26.
 
 
-
-
    Round to the nearest thousandth.
 
 
-
 Convert to percent form.
-
 
 
    Write a complete  sentence.
    The new fees represent a 38.5% increase over the old fees.
 
 
-
+<div class="tryit">
 **Try It**
 
 
-In \(2011,\) the IRS increased the deductible mileage cost to \(55.5\) cents from \(51\) cents. Find the percent increase. (Round to the nearest tenth of a percent.)
+In <span class="math-inline">2011,</span> the IRS increased the deductible mileage cost to <span class="math-inline">55.5</span> cents from <span class="math-inline">51</span> cents. Find the percent increase. (Round to the nearest tenth of a percent.)
 
 
 8.8%
 
 
+<div class="tryit">
 **Try It**
 
 
-In \(1995,\) the standard bus fare in Chicago was \($1.50.\) In \(2008,\) the standard bus fare was \($2.25.\) Find the percent increase. (Round to the nearest tenth of a percent.)
+In <span class="math-inline">1995,</span> the standard bus fare in Chicago was <span class="math-inline">$1.50.</span> In <span class="math-inline">2008,</span> the standard bus fare was <span class="math-inline">$2.25.</span> Find the percent increase. (Round to the nearest tenth of a percent.)
 
 
 50%
@@ -618,93 +654,90 @@ In \(1995,\) the standard bus fare in Chicago was \($1.50.\) In \(2008,\) the st
 Finding the **percent decrease** is very similar to finding the percent increase, but now the amount of decrease is the difference between the original amount and the final amount. Then we find what percent the amount of decrease is of the original amount.
 
 
-**Find percent decrease.**
+<div class="definition-label">**Find percent decrease.**</div>
+
 
 - Find the amount of decrease.
-  - \(decrease=original amount-new amount\)
+  - <span class="math-inline">decrease=original amount-new amount</span>
 
 - Find the percent decrease as a percent of the original amount.
 
 
+<div class="example">
 **Example**
 
 
-The average price of a gallon of gas in one city in June \(2014\) was \($3.71.\) The average price in that city in July was \($3.64.\) Find the percent decrease.
+The average price of a gallon of gas in one city in June <span class="math-inline">2014</span> was <span class="math-inline">$3.71.</span> The average price in that city in July was <span class="math-inline">$3.64.</span> Find the percent decrease.
 
 
-Solution
-
+<div class="solution">
+<span class="def-label">Solution</span>
 
 
    What are you asked to find?
    the percent decrease
 
 
-
  Choose a variable to represent it.
- Let \(p=\) percent.
-
+ Let <span class="math-inline">p=</span> percent.
 
 
    Find the amount of decrease.
-
-
 
 
    Find the percent of decrease.
    The decrease is what percent of the original amount?
 
 
-
    Translate to an equation.
-
-
 
 
    Divide both sides by 3.71.
 
 
-
-
    Round to the nearest thousandth.
 
 
-
-
    Convert to percent form.
-
-
 
 
    Write a complete sentence.
    The price of gas decreased 1.9%.
 
 
-
+<div class="tryit">
 **Try It**
 
 
-The population of one city was about \(672,000\) in \(2010.\) The population of the city is projected to be about \(630,000\) in \(2020.\) Find the percent decrease. (Round to the nearest tenth of a percent.)
+The population of one city was about <span class="math-inline">672,000</span> in <span class="math-inline">2010.</span> The population of the city is projected to be about <span class="math-inline">630,000</span> in <span class="math-inline">2020.</span> Find the percent decrease. (Round to the nearest tenth of a percent.)
 
 
 6.3%
 
 
+<div class="tryit">
 **Try It**
 
 
-Last year Sheila's salary was \($42,000.\) Because of furlough days, this year her salary was \($37,800.\) Find the percent decrease. (Round to the nearest tenth of a percent.)
+Last year Sheila's salary was <span class="math-inline">$42,000.</span> Because of furlough days, this year her salary was <span class="math-inline">$37,800.</span> Find the percent decrease. (Round to the nearest tenth of a percent.)
 
 
 10%
 
 
-**ACCESS ADDITIONAL ONLINE RESOURCES**
+<div class="definition-label">**ACCESS ADDITIONAL ONLINE RESOURCES**</div>
+
 
 - Percent Increase and Percent Decrease Visualization
 
 
+---
+
+
+---
+
 ## Key Concepts
+
 
 - *Solve an application.*
 
@@ -719,14 +752,14 @@ Last year Sheila's salary was \($42,000.\) Because of furlough days, this year h
 
   - Find the amount of increase:
 
-\(increase=new amount-original amount\)
+<span class="math-inline">increase=new amount-original amount</span>
   - Find the percent increase as a percent of the original amount.
 
 - *Find percent decrease.*
 
   - Find the amount of decrease.
 
-\(decrease=original amount-new amount\)
+<span class="math-inline">decrease=original amount-new amount</span>
   - Find the percent decrease as a percent of the original amount.
 
 
@@ -737,112 +770,112 @@ Last year Sheila's salary was \($42,000.\) Because of furlough days, this year h
 In the following exercises, translate and solve.
 
 
-What number is \(45%\) of \(120?\)
+What number is <span class="math-inline">45%</span> of <span class="math-inline">120?</span>
 
 
 54
 
 
-What number is \(65%\) of \(100?\)
+What number is <span class="math-inline">65%</span> of <span class="math-inline">100?</span>
 
 
-What number is \(24%\) of \(112?\)
+What number is <span class="math-inline">24%</span> of <span class="math-inline">112?</span>
 
 
 26.88
 
 
-What number is \(36%\) of \(124?\)
+What number is <span class="math-inline">36%</span> of <span class="math-inline">124?</span>
 
 
-\(250%\) of \(65\) is what number?
+<span class="math-inline">250%</span> of <span class="math-inline">65</span> is what number?
 
 
 162.5
 
 
-\(150%\) of \(90\) is what number?
+<span class="math-inline">150%</span> of <span class="math-inline">90</span> is what number?
 
 
-\(800%\) of \(2,250\) is what number?
+<span class="math-inline">800%</span> of <span class="math-inline">2,250</span> is what number?
 
 
 18,000
 
 
-\(600%\) of \(1,740\) is what number?
+<span class="math-inline">600%</span> of <span class="math-inline">1,740</span> is what number?
 
 
-\(28\) is \(25%\) of what number?
+<span class="math-inline">28</span> is <span class="math-inline">25%</span> of what number?
 
 
 112
 
 
-\(36\) is \(25%\) of what number?
+<span class="math-inline">36</span> is <span class="math-inline">25%</span> of what number?
 
 
-\(81\) is \(75%\) of what number?
+<span class="math-inline">81</span> is <span class="math-inline">75%</span> of what number?
 
 
 108
 
 
-\(93\) is \(75%\) of what number?
+<span class="math-inline">93</span> is <span class="math-inline">75%</span> of what number?
 
 
-\(8.2%\) of what number is \($2.87?\)
+<span class="math-inline">8.2%</span> of what number is <span class="math-inline">$2.87?</span>
 
 
 $35
 
 
-\(6.4%\) of what number is \($2.88?\)
+<span class="math-inline">6.4%</span> of what number is <span class="math-inline">$2.88?</span>
 
 
-\(11.5%\) of what number is \($108.10?\)
+<span class="math-inline">11.5%</span> of what number is <span class="math-inline">$108.10?</span>
 
 
 $940
 
 
-\(12.3%\) of what number is \($92.25?\)
+<span class="math-inline">12.3%</span> of what number is <span class="math-inline">$92.25?</span>
 
 
-What percent of \(260\) is \(78?\)
+What percent of <span class="math-inline">260</span> is <span class="math-inline">78?</span>
 
 
 30%
 
 
-What percent of \(215\) is \(86?\)
+What percent of <span class="math-inline">215</span> is <span class="math-inline">86?</span>
 
 
-What percent of \(1,500\) is \(540?\)
+What percent of <span class="math-inline">1,500</span> is <span class="math-inline">540?</span>
 
 
 36%
 
 
-What percent of \(1,800\) is \(846?\)
+What percent of <span class="math-inline">1,800</span> is <span class="math-inline">846?</span>
 
 
-\(30\) is what percent of \(20?\)
+<span class="math-inline">30</span> is what percent of <span class="math-inline">20?</span>
 
 
 150%
 
 
-\(50\) is what percent of \(40?\)
+<span class="math-inline">50</span> is what percent of <span class="math-inline">40?</span>
 
 
-\(840\) is what percent of \(480?\)
+<span class="math-inline">840</span> is what percent of <span class="math-inline">480?</span>
 
 
 175%
 
 
-\(790\) is what percent of \(395?\)
+<span class="math-inline">790</span> is what percent of <span class="math-inline">395?</span>
 
 
 *Solve Applications of Percents*
@@ -850,58 +883,58 @@ What percent of \(1,800\) is \(846?\)
 In the following exercises, solve the applications of percents.
 
 
-Geneva treated her parents to dinner at their favorite restaurant. The bill was \($74.25.\) She wants to leave \(16%\) of the total bill as a tip. How much should the tip be?
+Geneva treated her parents to dinner at their favorite restaurant. The bill was <span class="math-inline">$74.25.</span> She wants to leave <span class="math-inline">16%</span> of the total bill as a tip. How much should the tip be?
 
 
 $11.88
 
 
-When Hiro and his co-workers had lunch at a restaurant the bill was \($90.50.\) They want to leave \(18%\) of the total bill as a tip. How much should the tip be?
+When Hiro and his co-workers had lunch at a restaurant the bill was <span class="math-inline">$90.50.</span> They want to leave <span class="math-inline">18%</span> of the total bill as a tip. How much should the tip be?
 
 
-Trong has \(12%\) of each paycheck automatically deposited to his savings account. His last paycheck was \($2,165.\) How much money was deposited to Trong's savings account?
+Trong has <span class="math-inline">12%</span> of each paycheck automatically deposited to his savings account. His last paycheck was <span class="math-inline">$2,165.</span> How much money was deposited to Trong's savings account?
 
 
 $259.80
 
 
-Cherise deposits \(8%\) of each paycheck into her retirement account. Her last paycheck was \($1,485.\) How much did Cherise deposit into her retirement account?
+Cherise deposits <span class="math-inline">8%</span> of each paycheck into her retirement account. Her last paycheck was <span class="math-inline">$1,485.</span> How much did Cherise deposit into her retirement account?
 
 
-One serving of oatmeal has \(8\) grams of fiber, which is \(33%\) of the recommended daily amount. What is the total recommended daily amount of fiber?
+One serving of oatmeal has <span class="math-inline">8</span> grams of fiber, which is <span class="math-inline">33%</span> of the recommended daily amount. What is the total recommended daily amount of fiber?
 
 
 24.2 grams
 
 
-One serving of trail mix has \(67\) grams of carbohydrates, which is \(22%\) of the recommended daily amount. What is the total recommended daily amount of carbohydrates?
+One serving of trail mix has <span class="math-inline">67</span> grams of carbohydrates, which is <span class="math-inline">22%</span> of the recommended daily amount. What is the total recommended daily amount of carbohydrates?
 
 
-A bacon cheeseburger at a popular fast food restaurant contains \(2,070\) milligrams (mg) of sodium, which is \(86%\) of the recommended daily amount. What is the total recommended daily amount of sodium?
+A bacon cheeseburger at a popular fast food restaurant contains <span class="math-inline">2,070</span> milligrams (mg) of sodium, which is <span class="math-inline">86%</span> of the recommended daily amount. What is the total recommended daily amount of sodium?
 
 
 2,407 mg
 
 
-A grilled chicken salad at a popular fast food restaurant contains \(650\) milligrams (mg) of sodium, which is \(27%\) of the recommended daily amount. What is the total recommended daily amount of sodium?
+A grilled chicken salad at a popular fast food restaurant contains <span class="math-inline">650</span> milligrams (mg) of sodium, which is <span class="math-inline">27%</span> of the recommended daily amount. What is the total recommended daily amount of sodium?
 
 
-The nutrition fact sheet at a fast food restaurant says the fish sandwich has \(380\) calories, and \(171\) calories are from fat. What percent of the total calories is from fat?
+The nutrition fact sheet at a fast food restaurant says the fish sandwich has <span class="math-inline">380</span> calories, and <span class="math-inline">171</span> calories are from fat. What percent of the total calories is from fat?
 
 
 45%
 
 
-The nutrition fact sheet at a fast food restaurant says a small portion of chicken nuggets has \(190\) calories, and \(114\) calories are from fat. What percent of the total calories is from fat?
+The nutrition fact sheet at a fast food restaurant says a small portion of chicken nuggets has <span class="math-inline">190</span> calories, and <span class="math-inline">114</span> calories are from fat. What percent of the total calories is from fat?
 
 
-Emma gets paid \($3,000\) per month. She pays \($750\) a month for rent. What percent of her monthly pay goes to rent?
+Emma gets paid <span class="math-inline">$3,000</span> per month. She pays <span class="math-inline">$750</span> a month for rent. What percent of her monthly pay goes to rent?
 
 
 25%
 
 
-Dimple gets paid \($3,200\) per month. She pays \($960\) a month for rent. What percent of her monthly pay goes to rent?
+Dimple gets paid <span class="math-inline">$3,200</span> per month. She pays <span class="math-inline">$960</span> a month for rent. What percent of her monthly pay goes to rent?
 
 
 *Find Percent Increase and Percent Decrease*
@@ -909,91 +942,91 @@ Dimple gets paid \($3,200\) per month. She pays \($960\) a month for rent. What 
 In the following exercises, find the percent increase or percent decrease.
 
 
-Tamanika got a raise in her hourly pay, from \($15.50\) to \($17.55.\) Find the percent increase.
+Tamanika got a raise in her hourly pay, from <span class="math-inline">$15.50</span> to <span class="math-inline">$17.55.</span> Find the percent increase.
 
 
 13.2%
 
 
-Ayodele got a raise in her hourly pay, from \($24.50\) to \($25.48.\) Find the percent increase.
+Ayodele got a raise in her hourly pay, from <span class="math-inline">$24.50</span> to <span class="math-inline">$25.48.</span> Find the percent increase.
 
 
-Annual student fees at the University of California rose from about \($4,000\) in \(2000\) to about \($9,000\) in \(2014.\) Find the percent increase.
+Annual student fees at the University of California rose from about <span class="math-inline">$4,000</span> in <span class="math-inline">2000</span> to about <span class="math-inline">$9,000</span> in <span class="math-inline">2014.</span> Find the percent increase.
 
 
 125%
 
 
-The price of a share of one stock rose from \($12.50\) to \($50.\) Find the percent increase.
+The price of a share of one stock rose from <span class="math-inline">$12.50</span> to <span class="math-inline">$50.</span> Find the percent increase.
 
 
-According to Time magazine \((7/19/2011)\) annual global seafood consumption rose from \(22\) pounds per person in \(1960\) to \(38\) pounds per person today. Find the percent increase. (Round to the nearest tenth of a percent.)
+According to Time magazine <span class="math-inline">(7/19/2011)</span> annual global seafood consumption rose from <span class="math-inline">22</span> pounds per person in <span class="math-inline">1960</span> to <span class="math-inline">38</span> pounds per person today. Find the percent increase. (Round to the nearest tenth of a percent.)
 
 
 72.7%
 
 
-In one month, the median home price in the Northeast rose from \($225,400\) to \($241,500.\) Find the percent increase. (Round to the nearest tenth of a percent.)
+In one month, the median home price in the Northeast rose from <span class="math-inline">$225,400</span> to <span class="math-inline">$241,500.</span> Find the percent increase. (Round to the nearest tenth of a percent.)
 
 
-A grocery store reduced the price of a loaf of bread from \($2.80\) to \($2.73.\) Find the percent decrease.
+A grocery store reduced the price of a loaf of bread from <span class="math-inline">$2.80</span> to <span class="math-inline">$2.73.</span> Find the percent decrease.
 
 
 2.5%
 
 
-The price of a share of one stock fell from \($8.75\) to \($8.54.\) Find the percent decrease.
+The price of a share of one stock fell from <span class="math-inline">$8.75</span> to <span class="math-inline">$8.54.</span> Find the percent decrease.
 
 
-Hernando's salary was \($49,500\) last year. This year his salary was cut to \($44,055.\) Find the percent decrease.
+Hernando's salary was <span class="math-inline">$49,500</span> last year. This year his salary was cut to <span class="math-inline">$44,055.</span> Find the percent decrease.
 
 
 11%
 
 
-From \(2000\) to \(2010,\) the population of Detroit fell from about \(951,000\) to about \(714,000.\) Find the percent decrease. (Round to the nearest tenth of a percent.)
+From <span class="math-inline">2000</span> to <span class="math-inline">2010,</span> the population of Detroit fell from about <span class="math-inline">951,000</span> to about <span class="math-inline">714,000.</span> Find the percent decrease. (Round to the nearest tenth of a percent.)
 
 
-In one month, the median home price in the West fell from \($203,400\) to \($192,300.\) Find the percent decrease. (Round to the nearest tenth of a percent.)
+In one month, the median home price in the West fell from <span class="math-inline">$203,400</span> to <span class="math-inline">$192,300.</span> Find the percent decrease. (Round to the nearest tenth of a percent.)
 
 
 5.5%
 
 
-Sales of video games and consoles fell from \($1,150\) million to \($1,030\) million in one year. Find the percent decrease. (Round to the nearest tenth of a percent.)
+Sales of video games and consoles fell from <span class="math-inline">$1,150</span> million to <span class="math-inline">$1,030</span> million in one year. Find the percent decrease. (Round to the nearest tenth of a percent.)
 
 
 ### Everyday Math
 
 
-*Tipping* At the campus coffee cart, a medium coffee costs \($1.65.\) MaryAnne brings \($2.00\) with her when she buys a cup of coffee and leaves the change as a tip. What percent tip does she leave?
+*Tipping* At the campus coffee cart, a medium coffee costs <span class="math-inline">$1.65.</span> MaryAnne brings <span class="math-inline">$2.00</span> with her when she buys a cup of coffee and leaves the change as a tip. What percent tip does she leave?
 
 
 21.2%
 
 
-*Late Fees* Alison was late paying her credit card bill of \($249.\) She was charged a \(5%\) late fee. What was the amount of the late fee?
+*Late Fees* Alison was late paying her credit card bill of <span class="math-inline">$249.</span> She was charged a <span class="math-inline">5%</span> late fee. What was the amount of the late fee?
 
 
 ### Writing Exercises
 
 
-Without solving the problem \(“44\) is \(80%\) of what number”, think about what the solution might be. Should it be a number that is greater than \(44\) or less than \(44?\) Explain your reasoning.
+Without solving the problem <span class="math-inline">“44</span> is <span class="math-inline">80%</span> of what number”, think about what the solution might be. Should it be a number that is greater than <span class="math-inline">44</span> or less than <span class="math-inline">44?</span> Explain your reasoning.
 
 
 The original number should be greater than 44.80% is less than 100%, so when 80% is converted to a decimal and multiplied to the base in the percent equation, the resulting amount of 44 is less. 44 is only the larger number in cases where the percent is greater than 100%.
 
 
-Without solving the problem “What is \(20%\) of \(300?”\) think about what the solution might be. Should it be a number that is greater than \(300\) or less than \(300?\) Explain your reasoning.
+Without solving the problem “What is <span class="math-inline">20%</span> of <span class="math-inline">300?”</span> think about what the solution might be. Should it be a number that is greater than <span class="math-inline">300</span> or less than <span class="math-inline">300?</span> Explain your reasoning.
 
 
-After returning from vacation, Alex said he should have packed \(50%\) fewer shorts and \(200%\) more shirts. Explain what Alex meant.
+After returning from vacation, Alex said he should have packed <span class="math-inline">50%</span> fewer shorts and <span class="math-inline">200%</span> more shirts. Explain what Alex meant.
 
 
 Alex should have packed half as many shorts and twice as many shirts.
 
 
-Because of road construction in one city, commuters were advised to plan their Monday morning commute to take \(150%\) of their usual commuting time. Explain what this means.
+Because of road construction in one city, commuters were advised to plan their Monday morning commute to take <span class="math-inline">150%</span> of their usual commuting time. Explain what this means.
 
 
 ### Self Check
@@ -1004,25 +1037,124 @@ Because of road construction in one city, commuters were advised to plan their M
 ⓑ After reviewing this checklist, what will you do to become confident for all objectives?
 
 
+<div class="prep-quiz">
 **Be Prepared!**
+
 
 Before you get started, take this readiness quiz.
 
 
-Solve \(0.0875(720)\) through multiplication.
+Solve <span class="math-inline">0.0875(720)</span> through multiplication.
 
 If you missed this problem, review .
 
 
-\(63\)
+<span class="math-inline">63</span>
 
 
+<div class="prep-quiz">
 **Be Prepared!**
 
 
-Solve \(12.96\div 0.04\) through division.
+Solve <span class="math-inline">12.96÷ 0.04</span> through division.
 
 If you missed this problem, review .
 
 
-\(324\)
+<span class="math-inline">324</span>
+
+</div>
+
+</div>
+
+</div>
+
+</div>
+
+</div>
+
+</div>
+
+</div>
+
+</div>
+
+</div>
+
+</div>
+
+</div>
+
+</div>
+
+</div>
+
+</div>
+
+</div>
+
+</div>
+
+</div>
+
+</div>
+
+</div>
+
+</div>
+
+</div>
+
+</div>
+
+</div>
+
+</div>
+
+</div>
+
+</div>
+
+</div>
+
+</div>
+
+</div>
+
+</div>
+
+</div>
+
+</div>
+
+</div>
+
+</div>
+
+</div>
+
+</div>
+
+</div>
+
+</div>
+
+</div>
+
+</div>
+
+</div>
+
+</div>
+
+</div>
+
+</div>
+
+</div>
+
+</div>
+
+</div>
+
+</div>

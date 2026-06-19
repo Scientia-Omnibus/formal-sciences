@@ -1,39 +1,117 @@
+<style>
+.math-inline {
+    font-style: italic;
+    padding: 2px 6px;
+    border-radius: 4px;
+    background: #f8f9fa;
+    font-family: Georgia, serif;
+}
+.math-display {
+    background: #f8f9fa;
+    border-left: 4px solid #4a90d9;
+    padding: 16px 20px;
+    margin: 16px 0;
+    border-radius: 6px;
+    font-size: 1.15em;
+    font-family: Georgia, serif;
+    text-align: center;
+    line-height: 2;
+    overflow-x: auto;
+}
+.example-box, .example {
+    background: #f0f8ff;
+    border-left: 4px solid #2e86de;
+    padding: 12px 20px;
+    margin: 16px 0;
+    border-radius: 6px;
+}
+.tryit-box, .tryit {
+    background: #f0fff4;
+    border-left: 4px solid #27ae60;
+    padding: 12px 20px;
+    margin: 16px 0;
+    border-radius: 6px;
+}
+.solution-box, .solution {
+    background: #fef9e7;
+    border-left: 4px solid #f39c12;
+    padding: 12px 20px;
+    margin: 12px 0;
+    border-radius: 6px;
+}
+.check-box, .check {
+    background: #fef9e7;
+    border-left: 4px solid #f39c12;
+    padding: 12px 20px;
+    margin: 12px 0;
+    border-radius: 6px;
+}
+.prep-quiz {
+    background: #fff3cd;
+    border: 1px solid #ffc107;
+    padding: 12px 20px;
+    margin: 16px 0;
+    border-radius: 6px;
+}
+.def-label, .definition-label {
+    font-weight: bold;
+    font-size: 1.1em;
+    margin: 20px 0 8px 0;
+    color: #2c3e50;
+    display: block;
+}
+.math-display sup, .math-inline sup { font-size: 0.75em; line-height: 0; }
+.math-display sub, .math-inline sub { font-size: 0.75em; line-height: 0; }
+</style>
+
+
+---
+
+
+---
+
 ## Identify and Use Fraction Operations
+
 
 By now in this chapter, you have practiced multiplying, dividing, adding, and subtracting fractions. The following table summarizes these four fraction operations. Remember: You need a common denominator to add or subtract fractions, but not to multiply or divide fractions
 
 
-**Summary of Fraction Operations**
+<div class="definition-label">**Summary of Fraction Operations**</div>
+
 
 *Fraction multiplication:* Multiply the numerators and multiply the denominators.
 
 
-$$
-\frac{a}{b}\cdot \frac{c}{d}=\frac{ac}{bd}
-$$
+<div class="math-display">
+<sup>a</sup>∕<sub>b</sub>· <sup>c</sup>∕<sub>d</sub>=<sup>ac</sup>∕<sub>bd</sub>
+</div>
+
 
 *Fraction division:* Multiply the first fraction by the reciprocal of the second.
 
 
-$$
-\frac{a}{b}\div \frac{c}{d}=\frac{a}{b}\cdot \frac{d}{c}
-$$
+<div class="math-display">
+<sup>a</sup>∕<sub>b</sub>÷ <sup>c</sup>∕<sub>d</sub>=<sup>a</sup>∕<sub>b</sub>· <sup>d</sup>∕<sub>c</sub>
+</div>
+
 
 *Fraction addition:* Add the numerators and place the sum over the common denominator. If the fractions have different denominators, first convert them to equivalent forms with the LCD.
 
 
-$$
-\frac{a}{c}+\frac{b}{c}=\frac{a+b}{c}
-$$
+<div class="math-display">
+<sup>a</sup>∕<sub>c</sub>+<sup>b</sup>∕<sub>c</sub>=<sup>a+b</sup>∕<sub>c</sub>
+</div>
+
 
 *Fraction subtraction:* Subtract the numerators and place the difference over the common denominator. If the fractions have different denominators, first convert them to equivalent forms with the LCD.
 
 
-$$
-\frac{a}{c}-\frac{b}{c}=\frac{a-b}{c}
-$$
+<div class="math-display">
+<sup>a</sup>∕<sub>c</sub>-<sup>b</sup>∕<sub>c</sub>=<sup>a-b</sup>∕<sub>c</sub>
+</div>
 
 
+<div class="example">
 **Example**
 
 
@@ -41,184 +119,187 @@ Simplify:
 
 
   -
-ⓐ \(-\frac{1}{4}+\frac{1}{6}\)
-  - ⓑ \(-\frac{1}{4}\div \frac{1}{6}\)
+ⓐ <span class="math-inline">-<sup>1</sup>∕<sub>4</sub>+<sup>1</sup>∕<sub>6</sub></span>
+  - ⓑ <span class="math-inline">-<sup>1</sup>∕<sub>4</sub>÷ <sup>1</sup>∕<sub>6</sub></span>
 
 
-Solution
+<div class="solution">
+<span class="def-label">Solution</span>
+
+
 First we ask ourselves, “What is the operation?”
 ⓐ The operation is addition.Do the fractions have a common denominator? No.
 
 
-
-
-   \(-\frac{1}{4}+\frac{1}{6}\)
+   <span class="math-inline">-<sup>1</sup>∕<sub>4</sub>+<sup>1</sup>∕<sub>6</sub></span>
 
 
    Find the LCD.
 
 
-
-
    Rewrite each fraction as an equivalent fraction with the LCD.
 
 
-
    Simplify the numerators and denominators.
-   \(-\frac{3}{12}+\frac{2}{12}\)
+   <span class="math-inline">-<sup>3</sup>∕<sub>12</sub>+<sup>2</sup>∕<sub>12</sub></span>
 
 
    Add the numerators and place the sum over the common denominator.
-   \(-\frac{1}{12}\)
+   <span class="math-inline">-<sup>1</sup>∕<sub>12</sub></span>
 
 
-   Check to see if the answer can be simplified. It cannot.
-
-
+<div class="check-box">
+<span class="def-label">Check to see if the answer can be simplified. It cannot.</span>
 
 
 ⓑ The operation is division. We do not need a common denominator.
 
 
-
-
-   \(-\frac{1}{4}\div \frac{1}{6}\)
+   <span class="math-inline">-<sup>1</sup>∕<sub>4</sub>÷ <sup>1</sup>∕<sub>6</sub></span>
 
 
    To divide fractions, multiply the first fraction by the reciprocal of the second.
-   \(-\frac{1}{4}\cdot \frac{6}{1}\)
+   <span class="math-inline">-<sup>1</sup>∕<sub>4</sub>· <sup>6</sup>∕<sub>1</sub></span>
 
 
    Multiply.
-   \(-\frac{6}{4}\)
+   <span class="math-inline">-<sup>6</sup>∕<sub>4</sub></span>
 
 
    Simplify.
-   \(-\frac{3}{2}\)
+   <span class="math-inline">-<sup>3</sup>∕<sub>2</sub></span>
 
 
-
+<div class="tryit">
 **Try It**
 
 
 Simplify each expression:
 
   -
-ⓐ \(-\frac{3}{4}-\frac{1}{6}\)
-  - ⓑ \(-\frac{3}{4}\cdot \frac{1}{6}\)
+ⓐ <span class="math-inline">-<sup>3</sup>∕<sub>4</sub>-<sup>1</sup>∕<sub>6</sub></span>
+  - ⓑ <span class="math-inline">-<sup>3</sup>∕<sub>4</sub>· <sup>1</sup>∕<sub>6</sub></span>
 
 
-  - ⓐ \(-\frac{11}{12}\)
-  - ⓑ \(-\frac{1}{8}\)
+  - ⓐ <span class="math-inline">-<sup>11</sup>∕<sub>12</sub></span>
+  - ⓑ <span class="math-inline">-<sup>1</sup>∕<sub>8</sub></span>
 
 
+<div class="tryit">
 **Try It**
 
 
 Simplify each expression:
 
-  - ⓐ \(\frac{5}{6}\div (-\frac{1}{4})\)
-  - ⓑ \(\frac{5}{6}-(-\frac{1}{4})\)
+  - ⓐ <span class="math-inline"><sup>5</sup>∕<sub>6</sub>÷ (-<sup>1</sup>∕<sub>4</sub>)</span>
+  - ⓑ <span class="math-inline"><sup>5</sup>∕<sub>6</sub>-(-<sup>1</sup>∕<sub>4</sub>)</span>
 
 
-  - ⓐ \(-\frac{10}{3}\)
-  - ⓑ \(\frac{13}{12}\)
+  - ⓐ <span class="math-inline">-<sup>10</sup>∕<sub>3</sub></span>
+  - ⓑ <span class="math-inline"><sup>13</sup>∕<sub>12</sub></span>
 
 
+<div class="example">
 **Example**
 
 
 Simplify:
 
 
-  - ⓐ \(\frac{5x}{6}-\frac{3}{10}\)
-  - ⓑ \(\frac{5x}{6}\cdot \frac{3}{10}\)
+  - ⓐ <span class="math-inline"><sup>5x</sup>∕<sub>6</sub>-<sup>3</sup>∕<sub>10</sub></span>
+  - ⓑ <span class="math-inline"><sup>5x</sup>∕<sub>6</sub>· <sup>3</sup>∕<sub>10</sub></span>
 
 
-Solution
+<div class="solution">
+<span class="def-label">Solution</span>
+
+
 ⓐ The operation is subtraction. The fractions do not have a common denominator.
 
 
-
-
-   \(\frac{5x}{6}-\frac{3}{10}\)
+   <span class="math-inline"><sup>5x</sup>∕<sub>6</sub>-<sup>3</sup>∕<sub>10</sub></span>
 
 
    Rewrite each fraction as an equivalent fraction with the LCD, 30.
-   \(\frac{5x\cdot 5}{6\cdot 5}-\frac{3\cdot 3}{10\cdot 3}\)
+   <span class="math-inline"><sup>5x· 5</sup>∕<sub>6· 5</sub>-<sup>3· 3</sup>∕<sub>10· 3</sub></span>
 
 
-
-   \(\frac{25x}{30}-\frac{9}{30}\)
+   <span class="math-inline"><sup>25x</sup>∕<sub>30</sub>-<sup>9</sup>∕<sub>30</sub></span>
 
 
    Subtract the numerators and place the difference over the common denominator.
-   \(\frac{25x-9}{30}\)
-
+   <span class="math-inline"><sup>25x-9</sup>∕<sub>30</sub></span>
 
 
 ⓑ The operation is multiplication; no need for a common denominator.
 
 
-
-
-   \(\frac{5x}{6}\cdot \frac{3}{10}\)
+   <span class="math-inline"><sup>5x</sup>∕<sub>6</sub>· <sup>3</sup>∕<sub>10</sub></span>
 
 
    To multiply fractions, multiply the numerators and multiply the denominators.
-   \(\frac{5x\cdot 3}{6\cdot 10}\)
+   <span class="math-inline"><sup>5x· 3</sup>∕<sub>6· 10</sub></span>
 
 
    Rewrite, showing common factors.
-   \(\frac{\cdot x\cdot }{2\cdot \cdot 2\cdot }\)
+   <span class="math-inline"><sup>· x· </sup>∕<sub>2· · 2· </sub></span>
 
 
    Remove common factors to simplify.
-   \(\frac{x}{4}\)
+   <span class="math-inline"><sup>x</sup>∕<sub>4</sub></span>
 
 
-
+<div class="tryit">
 **Try It**
 
 
 Simplify:
 
 
-  - ⓐ \(\frac{(27a-32)}{36}\)
-  - ⓑ \(\frac{2a}{3}\)
+  - ⓐ <span class="math-inline"><sup>(27a-32)</sup>∕<sub>36</sub></span>
+  - ⓑ <span class="math-inline"><sup>2a</sup>∕<sub>3</sub></span>
 
 
-  - ⓐ \(\frac{(27a-32)}{36}\)
-  - ⓑ \(\frac{2a}{3}\)
+  - ⓐ <span class="math-inline"><sup>(27a-32)</sup>∕<sub>36</sub></span>
+  - ⓑ <span class="math-inline"><sup>2a</sup>∕<sub>3</sub></span>
 
 
+<div class="tryit">
 **Try It**
 
 
 Simplify:
 
 
-  - ⓐ \(\frac{(24k+25)}{30}\)
-  - ⓑ \(\frac{24k}{5}\)
+  - ⓐ <span class="math-inline"><sup>(24k+25)</sup>∕<sub>30</sub></span>
+  - ⓑ <span class="math-inline"><sup>24k</sup>∕<sub>5</sub></span>
 
 
-  - ⓐ \(\frac{(24k+25)}{30}\)
-  - ⓑ \(\frac{24k}{5}\)
+  - ⓐ <span class="math-inline"><sup>(24k+25)</sup>∕<sub>30</sub></span>
+  - ⓑ <span class="math-inline"><sup>24k</sup>∕<sub>5</sub></span>
 
+
+---
+
+
+---
 
 ## Use the Order of Operations to Simplify Complex Fractions
+
 
 In Multiply and Divide Mixed Numbers and Complex Fractions, we saw that a complex fraction is a fraction in which the numerator or denominator contains a fraction. We simplified complex fractions by rewriting them as division problems. For example,
 
 
-$$
-\frac{ \frac{3}{4} }{ \frac{5}{8} }=\frac{3}{4}\div \frac{5}{8}
-$$
+<div class="math-display">
+<sup> \frac{3</sup>∕<sub>4</sub>  <sup>5</sup>∕<sub>8</sub> =<sup>3</sup>∕<sub>4</sub>÷ <sup>5</sup>∕<sub>8</sub>
+</div>
+
 
 Now we will look at complex fractions in which the numerator or denominator can be simplified. To follow the order of operations, we simplify the numerator and denominator separately first. Then we divide the numerator by the denominator.
 
 
-**Simplify complex fractions.**
+<div class="definition-label">**Simplify complex fractions.**</div>
+
 
 -  Simplify the numerator.
 
@@ -229,360 +310,356 @@ Now we will look at complex fractions in which the numerator or denominator can 
 -  Simplify if possible.
 
 
+<div class="example">
 **Example**
 
 
-Simplify: \(\frac{(\frac{1}{2})^2}{4+3^2}.\)
+Simplify: <span class="math-inline"><sup>(\frac{1</sup>∕<sub>2</sub>)<sup>2</sup>{4+3<sup>2</sup>.</span>
 
 
-Solution
+<div class="solution">
+<span class="def-label">Solution</span>
 
 
-
-
-   \(\frac{(\frac{1}{2})^2}{4+3^2}\)
+   <span class="math-inline"><sup>(\frac{1</sup>∕<sub>2</sub>)<sup>2</sup>{4+3<sup>2</sup></span>
 
 
    Simplify the numerator.
-   \(\frac{\frac{1}{4}}{4+3^2}\)
+   <span class="math-inline"><sup>\frac{1</sup>∕<sub>4</sub>{4+3<sup>2</sup></span>
 
 
    Simplify the term with the exponent in the denominator.
-   \(\frac{\frac{1}{4}}{4+9}\)
+   <span class="math-inline"><sup>\frac{1</sup>∕<sub>4</sub>{4+9}</span>
 
 
    Add the terms in the denominator.
-   \(\frac{\frac{1}{4}}{13}\)
+   <span class="math-inline"><sup>\frac{1</sup>∕<sub>4</sub>{13}</span>
 
 
    Divide the numerator by the denominator.
-   \(\frac{1}{4}\div 13\)
+   <span class="math-inline"><sup>1</sup>∕<sub>4</sub>÷ 13</span>
 
 
    Rewrite as multiplication by the reciprocal.
-   \(\frac{1}{4}\cdot \frac{1}{13}\)
+   <span class="math-inline"><sup>1</sup>∕<sub>4</sub>· <sup>1</sup>∕<sub>13</sub></span>
 
 
    Multiply.
-   \(\frac{1}{52}\)
+   <span class="math-inline"><sup>1</sup>∕<sub>52</sub></span>
 
 
-
+<div class="tryit">
 **Try It**
 
 
-Simplify: \(\frac{(\frac{1}{3})^2}{2^3+2}\).
+Simplify: <span class="math-inline"><sup>(\frac{1</sup>∕<sub>3</sub>)<sup>2</sup>{2<sup>3</sup>+2}</span>.
 
 
-\(\frac{1}{90}\)
+<span class="math-inline"><sup>1</sup>∕<sub>90</sub></span>
 
 
+<div class="tryit">
 **Try It**
 
 
-Simplify: \(\frac{1+4^2}{(\frac{1}{4})^2}\).
+Simplify: <span class="math-inline"><sup>1+4<sup>2</sup></sup>∕<sub>(\frac{1</sub>{4})<sup>2</sup></span>.
 
 
 272
 
 
+<div class="example">
 **Example**
 
 
-Simplify: \(\frac{\frac{1}{2}+\frac{2}{3}}{\frac{3}{4}-\frac{1}{6}}.\)
+Simplify: <span class="math-inline"><sup>\frac{1</sup>∕<sub>2</sub>+<sup>2</sup>∕<sub>3</sub><sup>3</sup>∕<sub>4</sub>-<sup>1</sup>∕<sub>6</sub>.</span>
 
 
-Solution
+<div class="solution">
+<span class="def-label">Solution</span>
 
 
-
-
-   \(\frac{\frac{1}{2}+\frac{2}{3}}{\frac{3}{4}-\frac{1}{6}}\)
+   <span class="math-inline"><sup>\frac{1</sup>∕<sub>2</sub>+<sup>2</sup>∕<sub>3</sub><sup>3</sup>∕<sub>4</sub>-<sup>1</sup>∕<sub>6</sub></span>
 
 
    Rewrite numerator with the LCD of 6 and denominator with LCD of 12.
-   \(\frac{\frac{3}{6}+\frac{4}{6}}{\frac{9}{12}-\frac{2}{12}}\)
+   <span class="math-inline"><sup>\frac{3</sup>∕<sub>6</sub>+<sup>4</sup>∕<sub>6</sub><sup>9</sup>∕<sub>12</sub>-<sup>2</sup>∕<sub>12</sub></span>
 
 
    Add in the numerator. Subtract in the denominator.
-   \(\frac{ \frac{7}{6} }{ \frac{7}{12} }\)
+   <span class="math-inline"><sup> \frac{7</sup>∕<sub>6</sub>  <sup>7</sup>∕<sub>12</sub></span>
 
 
    Divide the numerator by the denominator.
-   \(\frac{7}{6}\div \frac{7}{12}\)
+   <span class="math-inline"><sup>7</sup>∕<sub>6</sub>÷ <sup>7</sup>∕<sub>12</sub></span>
 
 
    Rewrite as multiplication by the reciprocal.
-   \(\frac{7}{6}\cdot \frac{12}{7}\)
+   <span class="math-inline"><sup>7</sup>∕<sub>6</sub>· <sup>12</sup>∕<sub>7</sub></span>
 
 
    Rewrite, showing common factors.
-   \(\frac{\cdot \cdot 2}{\cdot \cdot 1}\)
+   <span class="math-inline"><sup>· · 2</sup>∕<sub>· · 1</sub></span>
 
 
    Simplify.
    2
 
 
-
+<div class="tryit">
 **Try It**
 
 
-Simplify: \(\frac{\frac{1}{3}+\frac{1}{2}}{\frac{3}{4}-\frac{1}{3}}\).
+Simplify: <span class="math-inline"><sup>\frac{1</sup>∕<sub>3</sub>+<sup>1</sup>∕<sub>2</sub><sup>3</sup>∕<sub>4</sub>-<sup>1</sup>∕<sub>3</sub></span>.
 
 
 2
 
 
+<div class="tryit">
 **Try It**
 
 
-Simplify: \(\frac{\frac{2}{3}-\frac{1}{2}}{\frac{1}{4}+\frac{1}{3}}\).
+Simplify: <span class="math-inline"><sup>\frac{2</sup>∕<sub>3</sub>-<sup>1</sup>∕<sub>2</sub><sup>1</sup>∕<sub>4</sub>+<sup>1</sup>∕<sub>3</sub></span>.
 
 
-\(\frac{2}{7}\)
+<span class="math-inline"><sup>2</sup>∕<sub>7</sub></span>
 
+
+---
+
+
+---
 
 ## Evaluate Variable Expressions with Fractions
+
 
 We have evaluated expressions before, but now we can also evaluate expressions with fractions. Remember, to evaluate an expression, we substitute the value of the variable into the expression and then simplify.
 
 
+<div class="example">
 **Example**
 
 
-Evaluate \(x+\frac{1}{3}\) when
+Evaluate <span class="math-inline">x+<sup>1</sup>∕<sub>3</sub></span> when
 
 
-  - ⓐ \(x=-\frac{1}{3}\)
-  - ⓑ \(x=-\frac{3}{4}.\)
+  - ⓐ <span class="math-inline">x=-<sup>1</sup>∕<sub>3</sub></span>
+  - ⓑ <span class="math-inline">x=-<sup>3</sup>∕<sub>4</sub>.</span>
 
 
-Solution
-ⓐ To evaluate \(x+\frac{1}{3}\) when \(x=-\frac{1}{3},\) substitute \(-\frac{1}{3}\) for \(x\) in the expression.
+<div class="solution">
+<span class="def-label">Solution</span>
 
 
+ⓐ To evaluate <span class="math-inline">x+<sup>1</sup>∕<sub>3</sub></span> when <span class="math-inline">x=-<sup>1</sup>∕<sub>3</sub>,</span> substitute <span class="math-inline">-<sup>1</sup>∕<sub>3</sub></span> for <span class="math-inline">x</span> in the expression.
 
 
-   \(x+\frac{1}{3}\)
-
-
-
-
+   <span class="math-inline">x+<sup>1</sup>∕<sub>3</sub></span>
 
 
    Simplify.
-   \(0\)
+   <span class="math-inline">0</span>
 
 
-
-ⓑ To evaluate \(x+\frac{1}{3}\) when \(x=-\frac{3}{4},\) we substitute \(-\frac{3}{4}\) for \(x\) in the expression.
-
+ⓑ To evaluate <span class="math-inline">x+<sup>1</sup>∕<sub>3</sub></span> when <span class="math-inline">x=-<sup>3</sup>∕<sub>4</sub>,</span> we substitute <span class="math-inline">-<sup>3</sup>∕<sub>4</sub></span> for <span class="math-inline">x</span> in the expression.
 
 
-   \(x+\frac{1}{3}\)
-
-
-
-
+   <span class="math-inline">x+<sup>1</sup>∕<sub>3</sub></span>
 
 
    Rewrite as equivalent fractions with the LCD, 12.
-   \(-\frac{3\cdot 3}{4\cdot 3}+\frac{1\cdot 4}{3\cdot 4}\)
+   <span class="math-inline">-<sup>3· 3</sup>∕<sub>4· 3</sub>+<sup>1· 4</sup>∕<sub>3· 4</sub></span>
 
 
    Simplify the numerators and denominators.
-   \(-\frac{9}{12}+\frac{4}{12}\)
+   <span class="math-inline">-<sup>9</sup>∕<sub>12</sub>+<sup>4</sup>∕<sub>12</sub></span>
 
 
    Add.
-   \(-\frac{5}{12}\)
+   <span class="math-inline">-<sup>5</sup>∕<sub>12</sub></span>
 
 
-
+<div class="tryit">
 **Try It**
 
 
-Evaluate: \(x+\frac{3}{4}\) when
+Evaluate: <span class="math-inline">x+<sup>3</sup>∕<sub>4</sub></span> when
 
 
-  - ⓐ \(x=-\frac{7}{4}\)
-  - ⓑ \(x=-\frac{5}{4}\)
+  - ⓐ <span class="math-inline">x=-<sup>7</sup>∕<sub>4</sub></span>
+  - ⓑ <span class="math-inline">x=-<sup>5</sup>∕<sub>4</sub></span>
 
 
-  - ⓐ \(−1\)
-  - ⓑ \(-\frac{1}{2}\)
+  - ⓐ <span class="math-inline">−1</span>
+  - ⓑ <span class="math-inline">-<sup>1</sup>∕<sub>2</sub></span>
 
 
+<div class="tryit">
 **Try It**
 
 
-Evaluate: \(y+\frac{1}{2}\) when
+Evaluate: <span class="math-inline">y+<sup>1</sup>∕<sub>2</sub></span> when
 
 
-  - ⓐ \(y=\frac{2}{3}\)
-  - ⓑ \(y=-\frac{3}{4}\)
+  - ⓐ <span class="math-inline">y=<sup>2</sup>∕<sub>3</sub></span>
+  - ⓑ <span class="math-inline">y=-<sup>3</sup>∕<sub>4</sub></span>
 
 
-  - ⓐ \(\frac{7}{6}\)
-  - ⓑ \(-\frac{1}{4}\)
+  - ⓐ <span class="math-inline"><sup>7</sup>∕<sub>6</sub></span>
+  - ⓑ <span class="math-inline">-<sup>1</sup>∕<sub>4</sub></span>
 
 
+<div class="example">
 **Example**
 
 
-Evaluate \(y-\frac{5}{6}\) when \(y=-\frac{2}{3}.\)
+Evaluate <span class="math-inline">y-<sup>5</sup>∕<sub>6</sub></span> when <span class="math-inline">y=-<sup>2</sup>∕<sub>3</sub>.</span>
 
 
-Solution
-We substitute \(-\frac{2}{3}\) for \(y\) in the expression.
+<div class="solution">
+<span class="def-label">Solution</span>
 
 
+We substitute <span class="math-inline">-<sup>2</sup>∕<sub>3</sub></span> for <span class="math-inline">y</span> in the expression.
 
 
-   \(y-\frac{5}{6}\)
-
-
-
-
+   <span class="math-inline">y-<sup>5</sup>∕<sub>6</sub></span>
 
 
    Rewrite as equivalent fractions with the LCD, 6.
-   \(-\frac{4}{6}-\frac{5}{6}\)
+   <span class="math-inline">-<sup>4</sup>∕<sub>6</sub>-<sup>5</sup>∕<sub>6</sub></span>
 
 
    Subtract.
-   \(-\frac{9}{6}\)
+   <span class="math-inline">-<sup>9</sup>∕<sub>6</sub></span>
 
 
    Simplify.
-   \(-\frac{3}{2}\)
+   <span class="math-inline">-<sup>3</sup>∕<sub>2</sub></span>
 
 
-
+<div class="tryit">
 **Try It**
 
 
-Evaluate: \(y-\frac{1}{2}\) when \(y=-\frac{1}{4}.\)
+Evaluate: <span class="math-inline">y-<sup>1</sup>∕<sub>2</sub></span> when <span class="math-inline">y=-<sup>1</sup>∕<sub>4</sub>.</span>
 
 
-\(-\frac{3}{4}\)
+<span class="math-inline">-<sup>3</sup>∕<sub>4</sub></span>
 
 
+<div class="tryit">
 **Try It**
 
 
-Evaluate: \(x-\frac{3}{8}\) when \(x=-\frac{5}{2}.\)
+Evaluate: <span class="math-inline">x-<sup>3</sup>∕<sub>8</sub></span> when <span class="math-inline">x=-<sup>5</sup>∕<sub>2</sub>.</span>
 
 
-\(-\frac{23}{8}\)
+<span class="math-inline">-<sup>23</sup>∕<sub>8</sub></span>
 
 
+<div class="example">
 **Example**
 
 
-Evaluate \(2x^2y\) when \(x=\frac{1}{4}\) and \(y=-\frac{2}{3}.\)
+Evaluate <span class="math-inline">2x<sup>2</sup>y</span> when <span class="math-inline">x=<sup>1</sup>∕<sub>4</sub></span> and <span class="math-inline">y=-<sup>2</sup>∕<sub>3</sub>.</span>
 
 
-Solution
-Substitute the values into the expression. In \(2x^2y,\) the exponent applies only to \(x.\)
+<div class="solution">
+<span class="def-label">Solution</span>
 
 
-
-
-
-
-
-
-
+Substitute the values into the expression. In <span class="math-inline">2x<sup>2</sup>y,</span> the exponent applies only to <span class="math-inline">x.</span>
 
 
    Simplify exponents first.
 
 
-
    Multiply. The product will be negative.
 
 
-
    Simplify.
-
 
 
    Remove the common factors.
 
 
-
    Simplify.
 
 
-
-
+<div class="tryit">
 **Try It**
 
 
-Evaluate. \(3ab^2\) when \(a=-\frac{2}{3}\) and \(b=-\frac{1}{2}.\)
+Evaluate. <span class="math-inline">3ab<sup>2</sup></span> when <span class="math-inline">a=-<sup>2</sup>∕<sub>3</sub></span> and <span class="math-inline">b=-<sup>1</sup>∕<sub>2</sub>.</span>
 
 
-\(-\frac{1}{2}\)
+<span class="math-inline">-<sup>1</sup>∕<sub>2</sub></span>
 
 
+<div class="tryit">
 **Try It**
 
 
-Evaluate. \(4c^3d\) when \(c=-\frac{1}{2}\) and \(d=-\frac{4}{3}.\)
+Evaluate. <span class="math-inline">4c<sup>3</sup>d</span> when <span class="math-inline">c=-<sup>1</sup>∕<sub>2</sub></span> and <span class="math-inline">d=-<sup>4</sup>∕<sub>3</sub>.</span>
 
 
-\(\frac{2}{3}\)
+<span class="math-inline"><sup>2</sup>∕<sub>3</sub></span>
 
 
+<div class="example">
 **Example**
 
 
-Evaluate \(\frac{p+q}{r}\) when \(p=−4,q=−2,\) and \(r=8.\)
+Evaluate <span class="math-inline"><sup>p+q</sup>∕<sub>r</sub></span> when <span class="math-inline">p=−4,q=−2,</span> and <span class="math-inline">r=8.</span>
 
 
-Solution
+<div class="solution">
+<span class="def-label">Solution</span>
+
+
 We substitute the values into the expression and simplify.
 
 
-
-
-   \(\frac{p+q}{r}\)
-
-
-
-
+   <span class="math-inline"><sup>p+q</sup>∕<sub>r</sub></span>
 
 
    Add in the numerator first.
-   \(-\frac{6}{8}\)
+   <span class="math-inline">-<sup>6</sup>∕<sub>8</sub></span>
 
 
    Simplify.
-   \(-\frac{3}{4}\)
+   <span class="math-inline">-<sup>3</sup>∕<sub>4</sub></span>
 
 
-
+<div class="tryit">
 **Try It**
 
 
-Evaluate: \(\frac{a+b}{c}\) when \(a=−8,b=−7,\) and \(c=6.\)
+Evaluate: <span class="math-inline"><sup>a+b</sup>∕<sub>c</sub></span> when <span class="math-inline">a=−8,b=−7,</span> and <span class="math-inline">c=6.</span>
 
 
-\(-\frac{5}{2}\)
+<span class="math-inline">-<sup>5</sup>∕<sub>2</sub></span>
 
 
+<div class="tryit">
 **Try It**
 
 
-Evaluate: \(\frac{x+y}{z}\) when \(x=9,y=−18,\) and \(z=−6.\)
+Evaluate: <span class="math-inline"><sup>x+y</sup>∕<sub>z</sub></span> when <span class="math-inline">x=9,y=−18,</span> and <span class="math-inline">z=−6.</span>
 
 
-\(\frac{3}{2}\)
+<span class="math-inline"><sup>3</sup>∕<sub>2</sub></span>
 
+
+---
+
+
+---
 
 ## Key Concepts
+
 
 - *Find the least common denominator (LCD) of two fractions.*
   - Factor each denominator into its primes.
@@ -592,11 +669,11 @@ Evaluate: \(\frac{x+y}{z}\) when \(x=9,y=−18,\) and \(z=−6.\)
   - The LCM of the denominators is the LCD of the fractions.
 
 - *Equivalent Fractions Property*
-  - If \(a,b\), and \(c\) are whole numbers where \(b\ne 0\), \(c\ne 0\) then
+  - If <span class="math-inline">a,b</span>, and <span class="math-inline">c</span> are whole numbers where <span class="math-inline">b≠ 0</span>, <span class="math-inline">c≠ 0</span> then
 
 
-\(\frac{a}{b}=\frac{a\cdot c}{b\cdot c}\)
- and \(\frac{a\cdot c}{b\cdot c}=\frac{a}{b}\)
+<span class="math-inline"><sup>a</sup>∕<sub>b</sub>=<sup>a· c</sup>∕<sub>b· c</sub></span>
+ and <span class="math-inline"><sup>a· c</sup>∕<sub>b· c</sub>=<sup>a</sup>∕<sub>b</sub></span>
 
 - *Convert two fractions to equivalent fractions with their LCD as the common denominator.*
   - Find the LCD.
@@ -611,10 +688,10 @@ Evaluate: \(\frac{x+y}{z}\) when \(x=9,y=−18,\) and \(z=−6.\)
   - Write the result in simplified form.
 
 - *Summary of Fraction Operations*
-  - *Fraction multiplication:* Multiply the numerators and multiply the denominators. \(\frac{a}{b}\cdot \frac{c}{d}=\frac{ac}{bd}\)
-  - *Fraction division:* Multiply the first fraction by the reciprocal of the second.\(\frac{a}{b}+\frac{c}{d}=\frac{a}{b}\cdot \frac{d}{c}\)
-  - *Fraction addition:* Add the numerators and place the sum over the common denominator. If the fractions have different denominators, first convert them to equivalent forms with the LCD.\(\frac{a}{c}+\frac{b}{c}=\frac{a+b}{c}\)
-  - *Fraction subtraction:* Subtract the numerators and place the difference over the common denominator. If the fractions have different denominators, first convert them to equivalent forms with the LCD.\(\frac{a}{c}-\frac{b}{c}=\frac{a-b}{c}\)
+  - *Fraction multiplication:* Multiply the numerators and multiply the denominators. <span class="math-inline"><sup>a</sup>∕<sub>b</sub>· <sup>c</sup>∕<sub>d</sub>=<sup>ac</sup>∕<sub>bd</sub></span>
+  - *Fraction division:* Multiply the first fraction by the reciprocal of the second.<span class="math-inline"><sup>a</sup>∕<sub>b</sub>+<sup>c</sup>∕<sub>d</sub>=<sup>a</sup>∕<sub>b</sub>· <sup>d</sup>∕<sub>c</sub></span>
+  - *Fraction addition:* Add the numerators and place the sum over the common denominator. If the fractions have different denominators, first convert them to equivalent forms with the LCD.<span class="math-inline"><sup>a</sup>∕<sub>c</sub>+<sup>b</sup>∕<sub>c</sub>=<sup>a+b</sup>∕<sub>c</sub></span>
+  - *Fraction subtraction:* Subtract the numerators and place the difference over the common denominator. If the fractions have different denominators, first convert them to equivalent forms with the LCD.<span class="math-inline"><sup>a</sup>∕<sub>c</sub>-<sup>b</sup>∕<sub>c</sub>=<sup>a-b</sup>∕<sub>c</sub></span>
 
 - *Simplify complex fractions.*
   - Simplify the numerator.
@@ -630,46 +707,46 @@ Evaluate: \(\frac{x+y}{z}\) when \(x=9,y=−18,\) and \(z=−6.\)
 In the following exercises, find the least common denominator (LCD) for each set of fractions.
 
 
-\(\frac{2}{3}\) and \(\frac{3}{4}\)
+<span class="math-inline"><sup>2</sup>∕<sub>3</sub></span> and <span class="math-inline"><sup>3</sup>∕<sub>4</sub></span>
 
 
-\(\frac{3}{4}\) and \(\frac{2}{5}\)
+<span class="math-inline"><sup>3</sup>∕<sub>4</sub></span> and <span class="math-inline"><sup>2</sup>∕<sub>5</sub></span>
 
 
 20
 
 
-\(\frac{7}{12}\) and \(\frac{5}{8}\)
+<span class="math-inline"><sup>7</sup>∕<sub>12</sub></span> and <span class="math-inline"><sup>5</sup>∕<sub>8</sub></span>
 
 
-\(\frac{9}{16}\) and \(\frac{7}{12}\)
+<span class="math-inline"><sup>9</sup>∕<sub>16</sub></span> and <span class="math-inline"><sup>7</sup>∕<sub>12</sub></span>
 
 
 48
 
 
-\(\frac{13}{30}\) and \(\frac{25}{42}\)
+<span class="math-inline"><sup>13</sup>∕<sub>30</sub></span> and <span class="math-inline"><sup>25</sup>∕<sub>42</sub></span>
 
 
-\(\frac{23}{30}\) and \(\frac{5}{48}\)
+<span class="math-inline"><sup>23</sup>∕<sub>30</sub></span> and <span class="math-inline"><sup>5</sup>∕<sub>48</sub></span>
 
 
 240
 
 
-\(\frac{21}{35}\) and \(\frac{39}{56}\)
+<span class="math-inline"><sup>21</sup>∕<sub>35</sub></span> and <span class="math-inline"><sup>39</sup>∕<sub>56</sub></span>
 
 
-\(\frac{18}{35}\) and \(\frac{33}{49}\)
+<span class="math-inline"><sup>18</sup>∕<sub>35</sub></span> and <span class="math-inline"><sup>33</sup>∕<sub>49</sub></span>
 
 
 245
 
 
-\(\frac{2}{3},\frac{1}{6},\) and \(\frac{3}{4}\)
+<span class="math-inline"><sup>2</sup>∕<sub>3</sub>,<sup>1</sup>∕<sub>6</sub>,</span> and <span class="math-inline"><sup>3</sup>∕<sub>4</sub></span>
 
 
-\(\frac{2}{3},\frac{1}{4},\) and \(\frac{3}{5}\)
+<span class="math-inline"><sup>2</sup>∕<sub>3</sub>,<sup>1</sup>∕<sub>4</sub>,</span> and <span class="math-inline"><sup>3</sup>∕<sub>5</sub></span>
 
 
 60
@@ -680,40 +757,40 @@ In the following exercises, find the least common denominator (LCD) for each set
 In the following exercises, convert to equivalent fractions using the LCD.
 
 
-\(\frac{1}{3}\) and \(\frac{1}{4},\) LCD \(=12\)
+<span class="math-inline"><sup>1</sup>∕<sub>3</sub></span> and <span class="math-inline"><sup>1</sup>∕<sub>4</sub>,</span> LCD <span class="math-inline">=12</span>
 
 
-\(\frac{1}{4}\) and \(\frac{1}{5},\) LCD \(=20\)
+<span class="math-inline"><sup>1</sup>∕<sub>4</sub></span> and <span class="math-inline"><sup>1</sup>∕<sub>5</sub>,</span> LCD <span class="math-inline">=20</span>
 
 
-\(\frac{5}{20},\frac{4}{20}\)
+<span class="math-inline"><sup>5</sup>∕<sub>20</sub>,<sup>4</sup>∕<sub>20</sub></span>
 
 
-\(\frac{5}{12}\) and \(\frac{7}{8},\) LCD \(=24\)
+<span class="math-inline"><sup>5</sup>∕<sub>12</sub></span> and <span class="math-inline"><sup>7</sup>∕<sub>8</sub>,</span> LCD <span class="math-inline">=24</span>
 
 
-\(\frac{7}{12}\) and \(\frac{5}{8},\) LCD \(=24\)
+<span class="math-inline"><sup>7</sup>∕<sub>12</sub></span> and <span class="math-inline"><sup>5</sup>∕<sub>8</sub>,</span> LCD <span class="math-inline">=24</span>
 
 
-\(\frac{14}{24},\frac{15}{24}\)
+<span class="math-inline"><sup>14</sup>∕<sub>24</sub>,<sup>15</sup>∕<sub>24</sub></span>
 
 
-\(\frac{13}{16}\) and \(-\frac{11}{12},\) LCD \(=48\)
+<span class="math-inline"><sup>13</sup>∕<sub>16</sub></span> and <span class="math-inline">-<sup>11</sup>∕<sub>12</sub>,</span> LCD <span class="math-inline">=48</span>
 
 
-\(\frac{11}{16}\) and \(-\frac{5}{12},\) LCD \(=48\)
+<span class="math-inline"><sup>11</sup>∕<sub>16</sub></span> and <span class="math-inline">-<sup>5</sup>∕<sub>12</sub>,</span> LCD <span class="math-inline">=48</span>
 
 
-\(\frac{33}{48},-\frac{20}{48}\)
+<span class="math-inline"><sup>33</sup>∕<sub>48</sub>,-<sup>20</sup>∕<sub>48</sub></span>
 
 
-\(\frac{1}{3},\frac{5}{6},\) and \(\frac{3}{4},\) LCD \(=12\)
+<span class="math-inline"><sup>1</sup>∕<sub>3</sub>,<sup>5</sup>∕<sub>6</sub>,</span> and <span class="math-inline"><sup>3</sup>∕<sub>4</sub>,</span> LCD <span class="math-inline">=12</span>
 
 
-\(\frac{1}{3},\frac{3}{4},\) and \(\frac{3}{5},\) LCD \(=60\)
+<span class="math-inline"><sup>1</sup>∕<sub>3</sub>,<sup>3</sup>∕<sub>4</sub>,</span> and <span class="math-inline"><sup>3</sup>∕<sub>5</sub>,</span> LCD <span class="math-inline">=60</span>
 
 
-\(\frac{20}{60},\frac{45}{60},\frac{36}{60}\)
+<span class="math-inline"><sup>20</sup>∕<sub>60</sub>,<sup>45</sup>∕<sub>60</sub>,<sup>36</sup>∕<sub>60</sub></span>
 
 
 *Add and Subtract Fractions with Different Denominators*
@@ -721,166 +798,166 @@ In the following exercises, convert to equivalent fractions using the LCD.
 In the following exercises, add or subtract. Write the result in simplified form.
 
 
-\(\frac{1}{3}+\frac{1}{5}\)
+<span class="math-inline"><sup>1</sup>∕<sub>3</sub>+<sup>1</sup>∕<sub>5</sub></span>
 
 
-\(\frac{1}{4}+\frac{1}{5}\)
+<span class="math-inline"><sup>1</sup>∕<sub>4</sub>+<sup>1</sup>∕<sub>5</sub></span>
 
 
-\(\frac{9}{20}\)
+<span class="math-inline"><sup>9</sup>∕<sub>20</sub></span>
 
 
-\(\frac{1}{2}+\frac{1}{7}\)
+<span class="math-inline"><sup>1</sup>∕<sub>2</sub>+<sup>1</sup>∕<sub>7</sub></span>
 
 
-\(\frac{1}{3}+\frac{1}{8}\)
+<span class="math-inline"><sup>1</sup>∕<sub>3</sub>+<sup>1</sup>∕<sub>8</sub></span>
 
 
-\(\frac{11}{24}\)
+<span class="math-inline"><sup>11</sup>∕<sub>24</sub></span>
 
 
-\(\frac{1}{3}-(-\frac{1}{9})\)
+<span class="math-inline"><sup>1</sup>∕<sub>3</sub>-(-<sup>1</sup>∕<sub>9</sub>)</span>
 
 
-\(\frac{1}{4}-(-\frac{1}{8})\)
+<span class="math-inline"><sup>1</sup>∕<sub>4</sub>-(-<sup>1</sup>∕<sub>8</sub>)</span>
 
 
-\(\frac{3}{8}\)
+<span class="math-inline"><sup>3</sup>∕<sub>8</sub></span>
 
 
-\(\frac{1}{5}-(-\frac{1}{10})\)
+<span class="math-inline"><sup>1</sup>∕<sub>5</sub>-(-<sup>1</sup>∕<sub>10</sub>)</span>
 
 
-\(\frac{1}{2}-(-\frac{1}{6})\)
+<span class="math-inline"><sup>1</sup>∕<sub>2</sub>-(-<sup>1</sup>∕<sub>6</sub>)</span>
 
 
-\(\frac{2}{3}\)
+<span class="math-inline"><sup>2</sup>∕<sub>3</sub></span>
 
 
-\(\frac{2}{3}+\frac{3}{4}\)
+<span class="math-inline"><sup>2</sup>∕<sub>3</sub>+<sup>3</sup>∕<sub>4</sub></span>
 
 
-\(\frac{3}{4}+\frac{2}{5}\)
+<span class="math-inline"><sup>3</sup>∕<sub>4</sub>+<sup>2</sup>∕<sub>5</sub></span>
 
 
-\(\frac{23}{20}\)
+<span class="math-inline"><sup>23</sup>∕<sub>20</sub></span>
 
 
-\(\frac{7}{12}+\frac{5}{8}\)
+<span class="math-inline"><sup>7</sup>∕<sub>12</sub>+<sup>5</sup>∕<sub>8</sub></span>
 
 
-\(\frac{5}{12}+\frac{3}{8}\)
+<span class="math-inline"><sup>5</sup>∕<sub>12</sub>+<sup>3</sup>∕<sub>8</sub></span>
 
 
-\(\frac{19}{24}\)
+<span class="math-inline"><sup>19</sup>∕<sub>24</sub></span>
 
 
-\(\frac{7}{12}-\frac{9}{16}\)
+<span class="math-inline"><sup>7</sup>∕<sub>12</sub>-<sup>9</sup>∕<sub>16</sub></span>
 
 
-\(\frac{7}{16}-\frac{5}{12}\)
+<span class="math-inline"><sup>7</sup>∕<sub>16</sub>-<sup>5</sup>∕<sub>12</sub></span>
 
 
-\(\frac{1}{48}\)
+<span class="math-inline"><sup>1</sup>∕<sub>48</sub></span>
 
 
-\(\frac{11}{12}-\frac{3}{8}\)
+<span class="math-inline"><sup>11</sup>∕<sub>12</sub>-<sup>3</sup>∕<sub>8</sub></span>
 
 
-\(\frac{5}{8}-\frac{7}{12}\)
+<span class="math-inline"><sup>5</sup>∕<sub>8</sub>-<sup>7</sup>∕<sub>12</sub></span>
 
 
-\(\frac{1}{24}\)
+<span class="math-inline"><sup>1</sup>∕<sub>24</sub></span>
 
 
-\(\frac{2}{3}-\frac{3}{8}\)
+<span class="math-inline"><sup>2</sup>∕<sub>3</sub>-<sup>3</sup>∕<sub>8</sub></span>
 
 
-\(\frac{5}{6}-\frac{3}{4}\)
+<span class="math-inline"><sup>5</sup>∕<sub>6</sub>-<sup>3</sup>∕<sub>4</sub></span>
 
 
-\(\frac{1}{12}\)
+<span class="math-inline"><sup>1</sup>∕<sub>12</sub></span>
 
 
-\(-\frac{11}{30}+\frac{27}{40}\)
+<span class="math-inline">-<sup>11</sup>∕<sub>30</sub>+<sup>27</sup>∕<sub>40</sub></span>
 
 
-\(-\frac{9}{20}+\frac{17}{30}\)
+<span class="math-inline">-<sup>9</sup>∕<sub>20</sub>+<sup>17</sup>∕<sub>30</sub></span>
 
 
-\(\frac{7}{60}\)
+<span class="math-inline"><sup>7</sup>∕<sub>60</sub></span>
 
 
-\(-\frac{13}{30}+\frac{25}{42}\)
+<span class="math-inline">-<sup>13</sup>∕<sub>30</sub>+<sup>25</sup>∕<sub>42</sub></span>
 
 
-\(-\frac{23}{30}+\frac{5}{48}\)
+<span class="math-inline">-<sup>23</sup>∕<sub>30</sub>+<sup>5</sup>∕<sub>48</sub></span>
 
 
-\(-\frac{53}{80}\)
+<span class="math-inline">-<sup>53</sup>∕<sub>80</sub></span>
 
 
-\(-\frac{39}{56}-\frac{22}{35}\)
+<span class="math-inline">-<sup>39</sup>∕<sub>56</sub>-<sup>22</sup>∕<sub>35</sub></span>
 
 
-\(-\frac{33}{49}-\frac{18}{35}\)
+<span class="math-inline">-<sup>33</sup>∕<sub>49</sub>-<sup>18</sup>∕<sub>35</sub></span>
 
 
-\(-\frac{291}{245}\)
+<span class="math-inline">-<sup>291</sup>∕<sub>245</sub></span>
 
 
-\(-\frac{2}{3}-(-\frac{3}{4})\)
+<span class="math-inline">-<sup>2</sup>∕<sub>3</sub>-(-<sup>3</sup>∕<sub>4</sub>)</span>
 
 
-\(-\frac{3}{4}-(-\frac{4}{5})\)
+<span class="math-inline">-<sup>3</sup>∕<sub>4</sub>-(-<sup>4</sup>∕<sub>5</sub>)</span>
 
 
-\(\frac{1}{20}\)
+<span class="math-inline"><sup>1</sup>∕<sub>20</sub></span>
 
 
-\(-\frac{9}{16}-(-\frac{4}{5})\)
+<span class="math-inline">-<sup>9</sup>∕<sub>16</sub>-(-<sup>4</sup>∕<sub>5</sub>)</span>
 
 
-\(-\frac{7}{20}-(-\frac{5}{8})\)
+<span class="math-inline">-<sup>7</sup>∕<sub>20</sub>-(-<sup>5</sup>∕<sub>8</sub>)</span>
 
 
-\(\frac{11}{40}\)
+<span class="math-inline"><sup>11</sup>∕<sub>40</sub></span>
 
 
-\(1+\frac{7}{8}\)
+<span class="math-inline">1+<sup>7</sup>∕<sub>8</sub></span>
 
 
-\(1+\frac{5}{6}\)
+<span class="math-inline">1+<sup>5</sup>∕<sub>6</sub></span>
 
 
-\(\frac{11}{6}\)
+<span class="math-inline"><sup>11</sup>∕<sub>6</sub></span>
 
 
-\(1-\frac{5}{9}\)
+<span class="math-inline">1-<sup>5</sup>∕<sub>9</sub></span>
 
 
-\(1-\frac{3}{10}\)
+<span class="math-inline">1-<sup>3</sup>∕<sub>10</sub></span>
 
 
-\(\frac{7}{10}\)
+<span class="math-inline"><sup>7</sup>∕<sub>10</sub></span>
 
 
-\(\frac{x}{3}+\frac{1}{4}\)
+<span class="math-inline"><sup>x</sup>∕<sub>3</sub>+<sup>1</sup>∕<sub>4</sub></span>
 
 
-\(\frac{y}{2}+\frac{2}{3}\)
+<span class="math-inline"><sup>y</sup>∕<sub>2</sub>+<sup>2</sup>∕<sub>3</sub></span>
 
 
-\(\frac{3y+4}{6}\)
+<span class="math-inline"><sup>3y+4</sup>∕<sub>6</sub></span>
 
 
-\(\frac{y}{4}-\frac{3}{5}\)
+<span class="math-inline"><sup>y</sup>∕<sub>4</sub>-<sup>3</sup>∕<sub>5</sub></span>
 
 
-\(\frac{x}{5}-\frac{1}{4}\)
+<span class="math-inline"><sup>x</sup>∕<sub>5</sub>-<sup>1</sup>∕<sub>4</sub></span>
 
 
-\(\frac{4x-5}{20}\)
+<span class="math-inline"><sup>4x-5</sup>∕<sub>20</sub></span>
 
 
 *Identify and Use Fraction Operations*
@@ -888,106 +965,106 @@ In the following exercises, add or subtract. Write the result in simplified form
 In the following exercises, perform the indicated operations. Write your answers in simplified form.
 
 
-  - ⓐ \(\frac{3}{4}+\frac{1}{6}\)
-  - ⓑ \(\frac{3}{4}\div \frac{1}{6}\)
+  - ⓐ <span class="math-inline"><sup>3</sup>∕<sub>4</sub>+<sup>1</sup>∕<sub>6</sub></span>
+  - ⓑ <span class="math-inline"><sup>3</sup>∕<sub>4</sub>÷ <sup>1</sup>∕<sub>6</sub></span>
 
 
-  - ⓐ \(\frac{2}{3}+\frac{1}{6}\)
-  - ⓑ \(\frac{2}{3}\div \frac{1}{6}\)
+  - ⓐ <span class="math-inline"><sup>2</sup>∕<sub>3</sub>+<sup>1</sup>∕<sub>6</sub></span>
+  - ⓑ <span class="math-inline"><sup>2</sup>∕<sub>3</sub>÷ <sup>1</sup>∕<sub>6</sub></span>
 
 
-  - ⓐ \(\frac{5}{6}\)
-  - ⓑ \(4\)
+  - ⓐ <span class="math-inline"><sup>5</sup>∕<sub>6</sub></span>
+  - ⓑ <span class="math-inline">4</span>
 
 
-  - ⓐ \(-\frac{2}{5}-\frac{1}{8}\)
-  - ⓑ \(-\frac{2}{5}\cdot \frac{1}{8}\)
+  - ⓐ <span class="math-inline">-<sup>2</sup>∕<sub>5</sub>-<sup>1</sup>∕<sub>8</sub></span>
+  - ⓑ <span class="math-inline">-<sup>2</sup>∕<sub>5</sub>· <sup>1</sup>∕<sub>8</sub></span>
 
 
-  - ⓐ \(-\frac{4}{5}-\frac{1}{8}\)
-  - ⓑ \(-\frac{4}{5}\cdot \frac{1}{8}\)
+  - ⓐ <span class="math-inline">-<sup>4</sup>∕<sub>5</sub>-<sup>1</sup>∕<sub>8</sub></span>
+  - ⓑ <span class="math-inline">-<sup>4</sup>∕<sub>5</sub>· <sup>1</sup>∕<sub>8</sub></span>
 
 
-  - ⓐ \(-\frac{37}{40}\)
-  - ⓑ \(-\frac{1}{10}\)
+  - ⓐ <span class="math-inline">-<sup>37</sup>∕<sub>40</sub></span>
+  - ⓑ <span class="math-inline">-<sup>1</sup>∕<sub>10</sub></span>
 
 
-  - ⓐ \(\frac{5n}{6}\div \frac{8}{15}\)
-  - ⓑ \(\frac{5n}{6}-\frac{8}{15}\)
+  - ⓐ <span class="math-inline"><sup>5n</sup>∕<sub>6</sub>÷ <sup>8</sup>∕<sub>15</sub></span>
+  - ⓑ <span class="math-inline"><sup>5n</sup>∕<sub>6</sub>-<sup>8</sup>∕<sub>15</sub></span>
 
 
-  - ⓐ \(\frac{3a}{8}\div \frac{7}{12}\)
-  - ⓑ \(\frac{3a}{8}-\frac{7}{12}\)
+  - ⓐ <span class="math-inline"><sup>3a</sup>∕<sub>8</sub>÷ <sup>7</sup>∕<sub>12</sub></span>
+  - ⓑ <span class="math-inline"><sup>3a</sup>∕<sub>8</sub>-<sup>7</sup>∕<sub>12</sub></span>
 
 
-  - ⓐ \(\frac{9a}{14}\)
-  - ⓑ \(\frac{9a-14}{24}\)
+  - ⓐ <span class="math-inline"><sup>9a</sup>∕<sub>14</sub></span>
+  - ⓑ <span class="math-inline"><sup>9a-14</sup>∕<sub>24</sub></span>
 
 
-  - ⓐ \(\frac{9}{10}\cdot (-\frac{11d}{12})\)
-  - ⓑ \(\frac{9}{10}+(-\frac{11d}{12})\)
+  - ⓐ <span class="math-inline"><sup>9</sup>∕<sub>10</sub>· (-<sup>11d</sup>∕<sub>12</sub>)</span>
+  - ⓑ <span class="math-inline"><sup>9</sup>∕<sub>10</sub>+(-<sup>11d</sup>∕<sub>12</sub>)</span>
 
 
-  - ⓐ \(\frac{4}{15}\cdot (-\frac{5q}{9})\)
-  - ⓑ \(\frac{4}{15}+(-\frac{5q}{9})\)
+  - ⓐ <span class="math-inline"><sup>4</sup>∕<sub>15</sub>· (-<sup>5q</sup>∕<sub>9</sub>)</span>
+  - ⓑ <span class="math-inline"><sup>4</sup>∕<sub>15</sub>+(-<sup>5q</sup>∕<sub>9</sub>)</span>
 
 
-  - ⓐ \(-\frac{4q}{27}\)
-  - ⓑ \(\frac{12-25q}{45}\)
+  - ⓐ <span class="math-inline">-<sup>4q</sup>∕<sub>27</sub></span>
+  - ⓑ <span class="math-inline"><sup>12-25q</sup>∕<sub>45</sub></span>
 
 
-\(-\frac{3}{8}\div (-\frac{3}{10})\)
+<span class="math-inline">-<sup>3</sup>∕<sub>8</sub>÷ (-<sup>3</sup>∕<sub>10</sub>)</span>
 
 
-\(-\frac{5}{12}\div (-\frac{5}{9})\)
+<span class="math-inline">-<sup>5</sup>∕<sub>12</sub>÷ (-<sup>5</sup>∕<sub>9</sub>)</span>
 
 
-  \(\frac{3}{4}\)
+  <span class="math-inline"><sup>3</sup>∕<sub>4</sub></span>
 
 
-\(-\frac{3}{8}+\frac{5}{12}\)
+<span class="math-inline">-<sup>3</sup>∕<sub>8</sub>+<sup>5</sup>∕<sub>12</sub></span>
 
 
-\(-\frac{1}{8}+\frac{7}{12}\)
+<span class="math-inline">-<sup>1</sup>∕<sub>8</sub>+<sup>7</sup>∕<sub>12</sub></span>
 
 
-\(\frac{11}{24}\)
+<span class="math-inline"><sup>11</sup>∕<sub>24</sub></span>
 
 
-\(\frac{5}{6}-\frac{1}{9}\)
+<span class="math-inline"><sup>5</sup>∕<sub>6</sub>-<sup>1</sup>∕<sub>9</sub></span>
 
 
-\(\frac{5}{9}-\frac{1}{6}\)
+<span class="math-inline"><sup>5</sup>∕<sub>9</sub>-<sup>1</sup>∕<sub>6</sub></span>
 
 
-\(\frac{7}{18}\)
+<span class="math-inline"><sup>7</sup>∕<sub>18</sub></span>
 
 
-\(\frac{3}{8}\cdot (-\frac{10}{21})\)
+<span class="math-inline"><sup>3</sup>∕<sub>8</sub>· (-<sup>10</sup>∕<sub>21</sub>)</span>
 
 
-\(\frac{7}{12}\cdot (-\frac{8}{35})\)
+<span class="math-inline"><sup>7</sup>∕<sub>12</sub>· (-<sup>8</sup>∕<sub>35</sub>)</span>
 
 
-\(-\frac{2}{15}\)
+<span class="math-inline">-<sup>2</sup>∕<sub>15</sub></span>
 
 
-\(-\frac{7}{15}-\frac{y}{4}\)
+<span class="math-inline">-<sup>7</sup>∕<sub>15</sub>-<sup>y</sup>∕<sub>4</sub></span>
 
 
-\(-\frac{3}{8}-\frac{x}{11}\)
+<span class="math-inline">-<sup>3</sup>∕<sub>8</sub>-<sup>x</sup>∕<sub>11</sub></span>
 
 
-\(\frac{−33-8x}{88}\)
+<span class="math-inline"><sup>−33-8x</sup>∕<sub>88</sub></span>
 
 
-\(\frac{11}{12a}\cdot \frac{9a}{16}\)
+<span class="math-inline"><sup>11</sup>∕<sub>12a</sub>· <sup>9a</sup>∕<sub>16</sub></span>
 
 
-\(\frac{10y}{13}\cdot \frac{8}{15y}\)
+<span class="math-inline"><sup>10y</sup>∕<sub>13</sub>· <sup>8</sup>∕<sub>15y</sub></span>
 
 
-\(\frac{16}{39}\)
+<span class="math-inline"><sup>16</sup>∕<sub>39</sub></span>
 
 
 *Use the Order of Operations to Simplify Complex Fractions*
@@ -995,58 +1072,58 @@ In the following exercises, perform the indicated operations. Write your answers
 In the following exercises, simplify.
 
 
-\(\frac{(\frac{1}{5})^2}{2+3^2}\)
+<span class="math-inline"><sup>(\frac{1</sup>∕<sub>5</sub>)<sup>2</sup>{2+3<sup>2</sup></span>
 
 
-\(\frac{(\frac{1}{3})^2}{5+2^2}\)
+<span class="math-inline"><sup>(\frac{1</sup>∕<sub>3</sub>)<sup>2</sup>{5+2<sup>2</sup></span>
 
 
-\(\frac{1}{81}\)
+<span class="math-inline"><sup>1</sup>∕<sub>81</sub></span>
 
 
-\(\frac{2^3+4^2}{(\frac{2}{3})^2}\)
+<span class="math-inline"><sup>2<sup>3</sup>+4<sup>2</sup></sup>∕<sub>(\frac{2</sub>{3})<sup>2</sup></span>
 
 
-\(\frac{3^3-3^2}{(\frac{3}{4})^2}\)
+<span class="math-inline"><sup>3<sup>3</sup>-3<sup>2</sup></sup>∕<sub>(\frac{3</sub>{4})<sup>2</sup></span>
 
 
 32
 
 
-\(\frac{(\frac{3}{5})^2}{(\frac{3}{7})^2}\)
+<span class="math-inline"><sup>(\frac{3</sup>∕<sub>5</sub>)<sup>2</sup>(<sup>3</sup>∕<sub>7</sub>)<sup>2</sup></span>
 
 
-\(\frac{(\frac{3}{4})^2}{(\frac{5}{8})^2}\)
+<span class="math-inline"><sup>(\frac{3</sup>∕<sub>4</sub>)<sup>2</sup>(<sup>5</sup>∕<sub>8</sub>)<sup>2</sup></span>
 
 
-\(\frac{36}{25}\)
+<span class="math-inline"><sup>36</sup>∕<sub>25</sub></span>
 
 
-\(\frac{2}{\frac{1}{3}+\frac{1}{5}}\)
+<span class="math-inline"><sup>2</sup>∕<sub>\frac{1</sub>{3}+<sup>1</sup>∕<sub>5</sub></span>
 
 
-\(\frac{5}{\frac{1}{4}+\frac{1}{3}}\)
+<span class="math-inline"><sup>5</sup>∕<sub>\frac{1</sub>{4}+<sup>1</sup>∕<sub>3</sub></span>
 
 
-\(\frac{60}{7}\)
+<span class="math-inline"><sup>60</sup>∕<sub>7</sub></span>
 
 
-\(\frac{\frac{2}{3}+\frac{1}{2}}{\frac{3}{4}-\frac{2}{3}}\)
+<span class="math-inline"><sup>\frac{2</sup>∕<sub>3</sub>+<sup>1</sup>∕<sub>2</sub><sup>3</sup>∕<sub>4</sub>-<sup>2</sup>∕<sub>3</sub></span>
 
 
-\(\frac{\frac{3}{4}+\frac{1}{2}}{\frac{5}{6}-\frac{2}{3}}\)
+<span class="math-inline"><sup>\frac{3</sup>∕<sub>4</sub>+<sup>1</sup>∕<sub>2</sub><sup>5</sup>∕<sub>6</sub>-<sup>2</sup>∕<sub>3</sub></span>
 
 
-\(\frac{15}{2}\)
+<span class="math-inline"><sup>15</sup>∕<sub>2</sub></span>
 
 
-\(\frac{\frac{7}{8}-\frac{2}{3}}{\frac{1}{2}+\frac{3}{8}}\)
+<span class="math-inline"><sup>\frac{7</sup>∕<sub>8</sub>-<sup>2</sup>∕<sub>3</sub><sup>1</sup>∕<sub>2</sub>+<sup>3</sup>∕<sub>8</sub></span>
 
 
-\(\frac{\frac{3}{4}-\frac{3}{5}}{\frac{1}{4}+\frac{2}{5}}\)
+<span class="math-inline"><sup>\frac{3</sup>∕<sub>4</sub>-<sup>3</sup>∕<sub>5</sub><sup>1</sup>∕<sub>4</sub>+<sup>2</sup>∕<sub>5</sub></span>
 
 
-\(\frac{3}{13}\)
+<span class="math-inline"><sup>3</sup>∕<sub>13</sub></span>
 
 
 *Mixed Practice*
@@ -1054,171 +1131,171 @@ In the following exercises, simplify.
 In the following exercises, simplify.
 
 
-\(\frac{1}{2}+\frac{2}{3}\cdot \frac{5}{12}\)
+<span class="math-inline"><sup>1</sup>∕<sub>2</sub>+<sup>2</sup>∕<sub>3</sub>· <sup>5</sup>∕<sub>12</sub></span>
 
 
-\(\frac{1}{3}+\frac{2}{5}\cdot \frac{3}{4}\)
+<span class="math-inline"><sup>1</sup>∕<sub>3</sub>+<sup>2</sup>∕<sub>5</sub>· <sup>3</sup>∕<sub>4</sub></span>
 
 
-\(\frac{19}{30}\)
+<span class="math-inline"><sup>19</sup>∕<sub>30</sub></span>
 
 
-\(1-\frac{3}{5}\div \frac{1}{10}\)
+<span class="math-inline">1-<sup>3</sup>∕<sub>5</sub>÷ <sup>1</sup>∕<sub>10</sub></span>
 
 
-\(1-\frac{5}{6}\div \frac{1}{12}\)
+<span class="math-inline">1-<sup>5</sup>∕<sub>6</sub>÷ <sup>1</sup>∕<sub>12</sub></span>
 
 
 −9
 
 
-\(\frac{2}{3}+\frac{1}{6}+\frac{3}{4}\)
+<span class="math-inline"><sup>2</sup>∕<sub>3</sub>+<sup>1</sup>∕<sub>6</sub>+<sup>3</sup>∕<sub>4</sub></span>
 
 
-\(\frac{2}{3}+\frac{1}{4}+\frac{3}{5}\)
+<span class="math-inline"><sup>2</sup>∕<sub>3</sub>+<sup>1</sup>∕<sub>4</sub>+<sup>3</sup>∕<sub>5</sub></span>
 
 
-\(\frac{91}{60}\)
+<span class="math-inline"><sup>91</sup>∕<sub>60</sub></span>
 
 
-\(\frac{3}{8}-\frac{1}{6}+\frac{3}{4}\)
+<span class="math-inline"><sup>3</sup>∕<sub>8</sub>-<sup>1</sup>∕<sub>6</sub>+<sup>3</sup>∕<sub>4</sub></span>
 
 
-\(\frac{2}{5}+\frac{5}{8}-\frac{3}{4}\)
+<span class="math-inline"><sup>2</sup>∕<sub>5</sub>+<sup>5</sup>∕<sub>8</sub>-<sup>3</sup>∕<sub>4</sub></span>
 
 
-\(\frac{11}{40}\)
+<span class="math-inline"><sup>11</sup>∕<sub>40</sub></span>
 
 
-\(12(\frac{9}{20}-\frac{4}{15})\)
+<span class="math-inline">12(<sup>9</sup>∕<sub>20</sub>-<sup>4</sup>∕<sub>15</sub>)</span>
 
 
-\(8(\frac{15}{16}-\frac{5}{6})\)
+<span class="math-inline">8(<sup>15</sup>∕<sub>16</sub>-<sup>5</sup>∕<sub>6</sub>)</span>
 
 
-\(\frac{5}{6}\)
+<span class="math-inline"><sup>5</sup>∕<sub>6</sub></span>
 
 
-\(\frac{\frac{5}{8}+\frac{1}{6}}{\frac{19}{24}}\)
+<span class="math-inline"><sup>\frac{5</sup>∕<sub>8</sub>+<sup>1</sup>∕<sub>6</sub><sup>19</sup>∕<sub>24</sub></span>
 
 
-\(\frac{\frac{1}{6}+\frac{3}{10}}{\frac{14}{30}}\)
+<span class="math-inline"><sup>\frac{1</sup>∕<sub>6</sub>+<sup>3</sup>∕<sub>10</sub><sup>14</sup>∕<sub>30</sub></span>
 
 
 1
 
 
-\((\frac{5}{9}+\frac{1}{6})\div (\frac{2}{3}-\frac{1}{2})\)
+<span class="math-inline">(<sup>5</sup>∕<sub>9</sub>+<sup>1</sup>∕<sub>6</sub>)÷ (<sup>2</sup>∕<sub>3</sub>-<sup>1</sup>∕<sub>2</sub>)</span>
 
 
-\((\frac{3}{4}+\frac{1}{6})\div (\frac{5}{8}-\frac{1}{3})\)
+<span class="math-inline">(<sup>3</sup>∕<sub>4</sub>+<sup>1</sup>∕<sub>6</sub>)÷ (<sup>5</sup>∕<sub>8</sub>-<sup>1</sup>∕<sub>3</sub>)</span>
 
 
-\(\frac{22}{7}\)
+<span class="math-inline"><sup>22</sup>∕<sub>7</sub></span>
 
 
 In the following exercises, evaluate the given expression. Express your answers in simplified form, using improper fractions if necessary.
 
 
-\(x+\frac{1}{2}\) when
+<span class="math-inline">x+<sup>1</sup>∕<sub>2</sub></span> when
 
 
-  - ⓐ \(x=-\frac{1}{8}\)
-  - ⓑ \(x=-\frac{1}{2}\)
+  - ⓐ <span class="math-inline">x=-<sup>1</sup>∕<sub>8</sub></span>
+  - ⓑ <span class="math-inline">x=-<sup>1</sup>∕<sub>2</sub></span>
 
 
-\(x+\frac{2}{3}\) when
+<span class="math-inline">x+<sup>2</sup>∕<sub>3</sub></span> when
 
 
-  - ⓐ \(x=-\frac{1}{6}\)
-  - ⓑ \(x=-\frac{5}{3}\)
+  - ⓐ <span class="math-inline">x=-<sup>1</sup>∕<sub>6</sub></span>
+  - ⓑ <span class="math-inline">x=-<sup>5</sup>∕<sub>3</sub></span>
 
 
-  - ⓐ \(\frac{1}{2}\)
-  - ⓑ \(−1\)
+  - ⓐ <span class="math-inline"><sup>1</sup>∕<sub>2</sub></span>
+  - ⓑ <span class="math-inline">−1</span>
 
 
-\(x+(-\frac{5}{6})\) when
+<span class="math-inline">x+(-<sup>5</sup>∕<sub>6</sub>)</span> when
 
 
-  - ⓐ \(x=\frac{1}{3}\)
-  - ⓑ \(x=-\frac{1}{6}\)
+  - ⓐ <span class="math-inline">x=<sup>1</sup>∕<sub>3</sub></span>
+  - ⓑ <span class="math-inline">x=-<sup>1</sup>∕<sub>6</sub></span>
 
 
-\(x+(-\frac{11}{12})\) when
+<span class="math-inline">x+(-<sup>11</sup>∕<sub>12</sub>)</span> when
 
 
-  - ⓐ \(x=\frac{11}{12}\)
-  - ⓑ \(x=\frac{3}{4}\)
+  - ⓐ <span class="math-inline">x=<sup>11</sup>∕<sub>12</sub></span>
+  - ⓑ <span class="math-inline">x=<sup>3</sup>∕<sub>4</sub></span>
 
 
-  - ⓐ \(0\)
-  - ⓑ \(-\frac{1}{6}\)
+  - ⓐ <span class="math-inline">0</span>
+  - ⓑ <span class="math-inline">-<sup>1</sup>∕<sub>6</sub></span>
 
 
-\(x-\frac{2}{5}\) when
+<span class="math-inline">x-<sup>2</sup>∕<sub>5</sub></span> when
 
-  - ⓐ \(x=\frac{3}{5}\)
-  - ⓑ \(x=-\frac{3}{5}\)
-
-
-\(x-\frac{1}{3}\) when
-
-  - ⓐ \(x=\frac{2}{3}\)
-  - ⓑ \(x=-\frac{2}{3}\)
+  - ⓐ <span class="math-inline">x=<sup>3</sup>∕<sub>5</sub></span>
+  - ⓑ <span class="math-inline">x=-<sup>3</sup>∕<sub>5</sub></span>
 
 
-  - ⓐ \(\frac{1}{3}\)
-  - ⓑ \(−1\)
+<span class="math-inline">x-<sup>1</sup>∕<sub>3</sub></span> when
+
+  - ⓐ <span class="math-inline">x=<sup>2</sup>∕<sub>3</sub></span>
+  - ⓑ <span class="math-inline">x=-<sup>2</sup>∕<sub>3</sub></span>
 
 
-\(\frac{7}{10}-w\) when
-
-  - ⓐ \(w=\frac{1}{2}\)
-  - ⓑ \(w=-\frac{1}{2}\)
+  - ⓐ <span class="math-inline"><sup>1</sup>∕<sub>3</sub></span>
+  - ⓑ <span class="math-inline">−1</span>
 
 
-\(\frac{5}{12}-w\) when
+<span class="math-inline"><sup>7</sup>∕<sub>10</sub>-w</span> when
 
-  - ⓐ \(w=\frac{1}{4}\)
-  - ⓑ \(w=-\frac{1}{4}\)
-
-
-  - ⓐ \(\frac{1}{6}\)
-  - ⓑ \(\frac{2}{3}\)
+  - ⓐ <span class="math-inline">w=<sup>1</sup>∕<sub>2</sub></span>
+  - ⓑ <span class="math-inline">w=-<sup>1</sup>∕<sub>2</sub></span>
 
 
-\(4p^2q\) when \(p=-\frac{1}{2}\) and \(q=\frac{5}{9}\)
+<span class="math-inline"><sup>5</sup>∕<sub>12</sub>-w</span> when
+
+  - ⓐ <span class="math-inline">w=<sup>1</sup>∕<sub>4</sub></span>
+  - ⓑ <span class="math-inline">w=-<sup>1</sup>∕<sub>4</sub></span>
 
 
-\(5m^2n\) when \(m=-\frac{2}{5}\) and \(n=\frac{1}{3}\)
+  - ⓐ <span class="math-inline"><sup>1</sup>∕<sub>6</sub></span>
+  - ⓑ <span class="math-inline"><sup>2</sup>∕<sub>3</sub></span>
 
 
-\(\frac{4}{15}\)
+<span class="math-inline">4p<sup>2</sup>q</span> when <span class="math-inline">p=-<sup>1</sup>∕<sub>2</sub></span> and <span class="math-inline">q=<sup>5</sup>∕<sub>9</sub></span>
 
 
-\(2x^2y^3\) when \(x=-\frac{2}{3}\) and \(y=-\frac{1}{2}\)
+<span class="math-inline">5m<sup>2</sup>n</span> when <span class="math-inline">m=-<sup>2</sup>∕<sub>5</sub></span> and <span class="math-inline">n=<sup>1</sup>∕<sub>3</sub></span>
 
 
-\(8u^2v^3\) when \(u=-\frac{3}{4}\) and \(v=-\frac{1}{2}\)
+<span class="math-inline"><sup>4</sup>∕<sub>15</sub></span>
 
 
-\(-\frac{9}{16}\)
+<span class="math-inline">2x<sup>2</sup>y<sup>3</sup></span> when <span class="math-inline">x=-<sup>2</sup>∕<sub>3</sub></span> and <span class="math-inline">y=-<sup>1</sup>∕<sub>2</sub></span>
 
 
-\(\frac{u+v}{w}\) when \(u=−4,v=−8,w=2\)
+<span class="math-inline">8u<sup>2</sup>v<sup>3</sup></span> when <span class="math-inline">u=-<sup>3</sup>∕<sub>4</sub></span> and <span class="math-inline">v=-<sup>1</sup>∕<sub>2</sub></span>
 
 
-\(\frac{m+n}{p}\) when \(m=−6,n=−2,p=4\)
+<span class="math-inline">-<sup>9</sup>∕<sub>16</sub></span>
+
+
+<span class="math-inline"><sup>u+v</sup>∕<sub>w</sub></span> when <span class="math-inline">u=−4,v=−8,w=2</span>
+
+
+<span class="math-inline"><sup>m+n</sup>∕<sub>p</sub></span> when <span class="math-inline">m=−6,n=−2,p=4</span>
 
 
 −2
 
 
-\(\frac{a+b}{a-b}\) when \(a=−3,b=8\)
+<span class="math-inline"><sup>a+b</sup>∕<sub>a-b</sub></span> when <span class="math-inline">a=−3,b=8</span>
 
 
-\(\frac{r-s}{r+s}\) when \(r=10,s=−5\)
+<span class="math-inline"><sup>r-s</sup>∕<sub>r+s</sub></span> when <span class="math-inline">r=10,s=−5</span>
 
 
 3
@@ -1227,13 +1304,13 @@ In the following exercises, evaluate the given expression. Express your answers 
 ### Everyday Math
 
 
-*Decorating* Laronda is making covers for the throw pillows on her sofa. For each pillow cover, she needs \(\frac{3}{16}\) yard of print fabric and \(\frac{3}{8}\) yard of solid fabric. What is the total amount of fabric Laronda needs for each pillow cover?
+*Decorating* Laronda is making covers for the throw pillows on her sofa. For each pillow cover, she needs <span class="math-inline"><sup>3</sup>∕<sub>16</sub></span> yard of print fabric and <span class="math-inline"><sup>3</sup>∕<sub>8</sub></span> yard of solid fabric. What is the total amount of fabric Laronda needs for each pillow cover?
 
 
-*Baking* Vanessa is baking chocolate chip cookies and oatmeal cookies. She needs \(1\frac{1}{4}\) cups of sugar for the chocolate chip cookies, and \(1\frac{1}{8}\) cups for the oatmeal cookies How much sugar does she need altogether?
+*Baking* Vanessa is baking chocolate chip cookies and oatmeal cookies. She needs <span class="math-inline">1<sup>1</sup>∕<sub>4</sub></span> cups of sugar for the chocolate chip cookies, and <span class="math-inline">1<sup>1</sup>∕<sub>8</sub></span> cups for the oatmeal cookies How much sugar does she need altogether?
 
 
-She needs \(2\frac{3}{8}\) cups
+She needs <span class="math-inline">2<sup>3</sup>∕<sub>8</sub></span> cups
 
 
 ### Writing Exercises
@@ -1256,33 +1333,109 @@ Answers will vary.
 ⓑ After looking at the checklist, do you think you are well prepared for the next section? Why or why not?
 
 
+<div class="prep-quiz">
 **Be Prepared!**
+
 
 Before you get started, take this readiness quiz.
 
 
-Draw a model of the fraction \(\frac{7}{3}.\)
+Draw a model of the fraction <span class="math-inline"><sup>7</sup>∕<sub>3</sub>.</span>
 
 If you missed this problem, review .
 
 
+<div class="prep-quiz">
 **Be Prepared!**
 
 
-Change \(\frac{11}{4}\) to a mixed number.
+Change <span class="math-inline"><sup>11</sup>∕<sub>4</sub></span> to a mixed number.
 
 If you missed this problem, review .
 
 
-\(2\frac{3}{4}\)
+<span class="math-inline">2<sup>3</sup>∕<sub>4</sub></span>
 
 
+<div class="prep-quiz">
 **Be Prepared!**
 
 
-Change \(3\frac{1}{2}\) to an improper fraction.
+Change <span class="math-inline">3<sup>1</sup>∕<sub>2</sub></span> to an improper fraction.
 
 If you missed this problem, review .
 
 
-\(\frac{7}{2}\)
+<span class="math-inline"><sup>7</sup>∕<sub>2</sub></span>
+
+</div>
+
+</div>
+
+</div>
+
+</div>
+
+</div>
+
+</div>
+
+</div>
+
+</div>
+
+</div>
+
+</div>
+
+</div>
+
+</div>
+
+</div>
+
+</div>
+
+</div>
+
+</div>
+
+</div>
+
+</div>
+
+</div>
+
+</div>
+
+</div>
+
+</div>
+
+</div>
+
+</div>
+
+</div>
+
+</div>
+
+</div>
+
+</div>
+
+</div>
+
+</div>
+
+</div>
+
+</div>
+
+</div>
+
+</div>
+
+</div>
+
+</div>

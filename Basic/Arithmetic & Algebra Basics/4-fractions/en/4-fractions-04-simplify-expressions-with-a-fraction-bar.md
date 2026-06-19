@@ -1,64 +1,145 @@
+<style>
+.math-inline {
+    font-style: italic;
+    padding: 2px 6px;
+    border-radius: 4px;
+    background: #f8f9fa;
+    font-family: Georgia, serif;
+}
+.math-display {
+    background: #f8f9fa;
+    border-left: 4px solid #4a90d9;
+    padding: 16px 20px;
+    margin: 16px 0;
+    border-radius: 6px;
+    font-size: 1.15em;
+    font-family: Georgia, serif;
+    text-align: center;
+    line-height: 2;
+    overflow-x: auto;
+}
+.example-box, .example {
+    background: #f0f8ff;
+    border-left: 4px solid #2e86de;
+    padding: 12px 20px;
+    margin: 16px 0;
+    border-radius: 6px;
+}
+.tryit-box, .tryit {
+    background: #f0fff4;
+    border-left: 4px solid #27ae60;
+    padding: 12px 20px;
+    margin: 16px 0;
+    border-radius: 6px;
+}
+.solution-box, .solution {
+    background: #fef9e7;
+    border-left: 4px solid #f39c12;
+    padding: 12px 20px;
+    margin: 12px 0;
+    border-radius: 6px;
+}
+.check-box, .check {
+    background: #fef9e7;
+    border-left: 4px solid #f39c12;
+    padding: 12px 20px;
+    margin: 12px 0;
+    border-radius: 6px;
+}
+.prep-quiz {
+    background: #fff3cd;
+    border: 1px solid #ffc107;
+    padding: 12px 20px;
+    margin: 16px 0;
+    border-radius: 6px;
+}
+.def-label, .definition-label {
+    font-weight: bold;
+    font-size: 1.1em;
+    margin: 20px 0 8px 0;
+    color: #2c3e50;
+    display: block;
+}
+.math-display sup, .math-inline sup { font-size: 0.75em; line-height: 0; }
+.math-display sub, .math-inline sub { font-size: 0.75em; line-height: 0; }
+</style>
+
+
+---
+
+
+---
+
 ## Simplify Expressions with a Fraction Bar
 
-Where does the negative sign go in a fraction? Usually, the negative sign is placed in front of the fraction, but you will sometimes see a fraction with a negative numerator or denominator. Remember that fractions represent division. The fraction \(-\frac{1}{3}\) could be the result of dividing \(\frac{−1}{3},\) a negative by a positive, or of dividing \(\frac{1}{−3},\) a positive by a negative. When the **numerator** and **denominator** have different signs, the quotient is negative.
+
+Where does the negative sign go in a fraction? Usually, the negative sign is placed in front of the fraction, but you will sometimes see a fraction with a negative numerator or denominator. Remember that fractions represent division. The fraction <span class="math-inline">-<sup>1</sup>∕<sub>3</sub></span> could be the result of dividing <span class="math-inline"><sup>−1</sup>∕<sub>3</sub>,</span> a negative by a positive, or of dividing <span class="math-inline"><sup>1</sup>∕<sub>−3</sub>,</span> a positive by a negative. When the **numerator** and **denominator** have different signs, the quotient is negative.
 
 If *both* the numerator and denominator are negative, then the fraction itself is positive because we are dividing a negative by a negative.
 
 
-$$
-\frac{−1}{−3}=\frac{1}{3} \frac{negative}{negative}=positive
-$$
+<div class="math-display">
+<sup>−1</sup>∕<sub>−3</sub>=<sup>1</sup>∕<sub>3</sub> <sup>negative</sup>∕<sub>negative</sub>=positive
+</div>
 
 
-**Placement of Negative Sign in a Fraction**
-
-For any positive numbers \(a\) and \(b,\)
+<div class="definition-label">**Placement of Negative Sign in a Fraction**</div>
 
 
-$$
-\frac{-a}{b}=\frac{a}{-b}=-\frac{a}{b}
-$$
+For any positive numbers <span class="math-inline">a</span> and <span class="math-inline">b,</span>
 
 
+<div class="math-display">
+<sup>-a</sup>∕<sub>b</sub>=<sup>a</sup>∕<sub>-b</sub>=-<sup>a</sup>∕<sub>b</sub>
+</div>
+
+
+<div class="example">
 **Example**
 
 
-Which of the following fractions are equivalent to \(\frac{7}{−8}?\)\(\frac{−7}{−8},\frac{−7}{8},\frac{7}{8},-\frac{7}{8}\)
+Which of the following fractions are equivalent to <span class="math-inline"><sup>7</sup>∕<sub>−8</sub>?</span><span class="math-inline"><sup>−7</sup>∕<sub>−8</sub>,<sup>−7</sup>∕<sub>8</sub>,<sup>7</sup>∕<sub>8</sub>,-<sup>7</sup>∕<sub>8</sub></span>
 
 
-Solution
-The quotient of a positive and a negative is a negative, so \(\frac{7}{−8}\) is negative. Of the fractions listed, \(\frac{−7}{8}\) and \(-\frac{7}{8}\) are also negative.
+<div class="solution">
+<span class="def-label">Solution</span>
 
 
+The quotient of a positive and a negative is a negative, so <span class="math-inline"><sup>7</sup>∕<sub>−8</sub></span> is negative. Of the fractions listed, <span class="math-inline"><sup>−7</sup>∕<sub>8</sub></span> and <span class="math-inline">-<sup>7</sup>∕<sub>8</sub></span> are also negative.
+
+
+<div class="tryit">
 **Try It**
 
 
-Which of the following fractions are equivalent to \(\frac{−3}{ 5}?\)
-\(\frac{−3}{−5}, \frac{3}{5},-\frac{3}{5},\frac{ 3}{−5}\)
+Which of the following fractions are equivalent to <span class="math-inline"><sup>−3</sup>∕<sub> 5</sub>?</span>
+<span class="math-inline"><sup>−3</sup>∕<sub>−5</sub>, <sup>3</sup>∕<sub>5</sub>,-<sup>3</sup>∕<sub>5</sub>,<sup> 3</sup>∕<sub>−5</sub></span>
 
 
-\(-\frac{3}{5},\frac{ 3}{−5}\)
+<span class="math-inline">-<sup>3</sup>∕<sub>5</sub>,<sup> 3</sup>∕<sub>−5</sub></span>
 
 
+<div class="tryit">
 **Try It**
 
 
-Which of the following fractions are equivalent to \(-\frac{2}{7}?\)
-\(\frac{−2}{−7},\frac{−2}{7},\frac{2}{7},\frac{2}{−7}\)
+Which of the following fractions are equivalent to <span class="math-inline">-<sup>2</sup>∕<sub>7</sub>?</span>
+<span class="math-inline"><sup>−2</sup>∕<sub>−7</sub>,<sup>−2</sup>∕<sub>7</sub>,<sup>2</sup>∕<sub>7</sub>,<sup>2</sup>∕<sub>−7</sub></span>
 
 
-\(\frac{−2}{7},\frac{2}{−7}\)
+<span class="math-inline"><sup>−2</sup>∕<sub>7</sub>,<sup>2</sup>∕<sub>−7</sub></span>
 
 
-Fraction bars act as grouping symbols. The expressions above and below the fraction bar should be treated as if they were in parentheses. For example, \(\frac{4+8}{5-3}\) means \((4+8)\div (5-3).\) The order of operations tells us to simplify the numerator and the denominator first—as if there were parentheses—before we divide.
+Fraction bars act as grouping symbols. The expressions above and below the fraction bar should be treated as if they were in parentheses. For example, <span class="math-inline"><sup>4+8</sup>∕<sub>5-3</sub></span> means <span class="math-inline">(4+8)÷ (5-3).</span> The order of operations tells us to simplify the numerator and the denominator first—as if there were parentheses—before we divide.
 
 We’ll add fraction bars to our set of grouping symbols from Use the Language of Algebra to have a more complete set here.
 
 
-**Grouping Symbols**
+<div class="definition-label">**Grouping Symbols**</div>
 
 
-**Simplify an expression with a fraction bar.**
+<div class="definition-label">**Simplify an expression with a fraction bar.**</div>
+
 
 - Simplify the numerator.
 
@@ -67,174 +148,193 @@ We’ll add fraction bars to our set of grouping symbols from Use the Language o
 - Simplify the fraction.
 
 
+<div class="example">
 **Example**
 
 
-Simplify: \(\frac{4+8}{5-3}.\)
+Simplify: <span class="math-inline"><sup>4+8</sup>∕<sub>5-3</sub>.</span>
 
 
-Solution
+<div class="solution">
+<span class="def-label">Solution</span>
 
 
-
-  \(\frac{4+8}{5-3}\)
+  <span class="math-inline"><sup>4+8</sup>∕<sub>5-3</sub></span>
 
   Simplify the expression in the numerator.
-  \(\frac{12}{5-3}\)
+  <span class="math-inline"><sup>12</sup>∕<sub>5-3</sub></span>
 
   Simplify the expression in the denominator.
-  \(\frac{12}{2}\)
+  <span class="math-inline"><sup>12</sup>∕<sub>2</sub></span>
 
   Simplify the fraction.
   6
 
 
+<div class="tryit">
 **Try It**
 
 
-Simplify: \(\frac{4+6}{11-2}.\)
+Simplify: <span class="math-inline"><sup>4+6</sup>∕<sub>11-2</sub>.</span>
 
 
-\(\frac{10}{9}\)
+<span class="math-inline"><sup>10</sup>∕<sub>9</sub></span>
 
 
+<div class="tryit">
 **Try It**
 
 
-Simplify: \(\frac{3+5}{18-2}.\)
+Simplify: <span class="math-inline"><sup>3+5</sup>∕<sub>18-2</sub>.</span>
 
 
-\(\frac{1}{2}\)
+<span class="math-inline"><sup>1</sup>∕<sub>2</sub></span>
 
 
+<div class="example">
 **Example**
 
 
-Simplify: \(\frac{4-2(3)}{2^2+2}.\)
+Simplify: <span class="math-inline"><sup>4-2(3)</sup>∕<sub>2<sup>2</sup>+2</sub>.</span>
 
 
-Solution
+<div class="solution">
+<span class="def-label">Solution</span>
 
 
-
- \(\frac{4-2(3)}{2^2+2}\)
+ <span class="math-inline"><sup>4-2(3)</sup>∕<sub>2<sup>2</sup>+2</sub></span>
 
   Use the order of operations. Multiply in the numerator and use the exponent in the denominator.
-  \(\frac{4-6}{4+2}\)
+  <span class="math-inline"><sup>4-6</sup>∕<sub>4+2</sub></span>
 
   Simplify the numerator and the denominator.
-  \(\frac{−2}{6}\)
+  <span class="math-inline"><sup>−2</sup>∕<sub>6</sub></span>
 
   Simplify the fraction.
-  \(-\frac{1}{3}\)
+  <span class="math-inline">-<sup>1</sup>∕<sub>3</sub></span>
 
 
+<div class="tryit">
 **Try It**
 
 
-Simplify: \(\frac{6-3(5)}{3^2+3}.\)
+Simplify: <span class="math-inline"><sup>6-3(5)</sup>∕<sub>3<sup>2</sup>+3</sub>.</span>
 
 
-\(\frac{−3}{4}\)
+<span class="math-inline"><sup>−3</sup>∕<sub>4</sub></span>
 
 
+<div class="tryit">
 **Try It**
 
 
-Simplify: \(\frac{4-4(6)}{3^3+3}.\)
+Simplify: <span class="math-inline"><sup>4-4(6)</sup>∕<sub>3<sup>3</sup>+3</sub>.</span>
 
 
-\(-\frac{2}{3}\)
+<span class="math-inline">-<sup>2</sup>∕<sub>3</sub></span>
 
 
+<div class="example">
 **Example**
 
 
-Simplify: \(\frac{(8-4)^2}{8^2-4^2}.\)
+Simplify: <span class="math-inline"><sup>(8-4)<sup>2</sup></sup>∕<sub>8<sup>2</sup>-4<sup>2</sup></sub>.</span>
 
 
-Solution
+<div class="solution">
+<span class="def-label">Solution</span>
 
 
-
- \(\frac{(8-4)^2}{8^2-4^2}\)
+ <span class="math-inline"><sup>(8-4)<sup>2</sup></sup>∕<sub>8<sup>2</sup>-4<sup>2</sup></sub></span>
 
  Use the order of operations (parentheses first, then exponents).
- \(\frac{(4)^2}{64-16}\)
+ <span class="math-inline"><sup>(4)<sup>2</sup></sup>∕<sub>64-16</sub></span>
 
  Simplify the numerator and denominator.
- \(\frac{16}{48}\)
+ <span class="math-inline"><sup>16</sup>∕<sub>48</sub></span>
 
  Simplify the fraction.
- \(\frac{1}{3}\)
+ <span class="math-inline"><sup>1</sup>∕<sub>3</sub></span>
 
 
+<div class="tryit">
 **Try It**
 
 
-Simplify: \(\frac{(11-7)^2}{11^2-7^2}.\)
+Simplify: <span class="math-inline"><sup>(11-7)<sup>2</sup></sup>∕<sub>11<sup>2</sup>-7<sup>2</sup></sub>.</span>
 
 
-\(\frac{2}{9}\)
+<span class="math-inline"><sup>2</sup>∕<sub>9</sub></span>
 
 
+<div class="tryit">
 **Try It**
 
 
-Simplify: \(\frac{(6+2)^2}{6^2+2^2}.\)
+Simplify: <span class="math-inline"><sup>(6+2)<sup>2</sup></sup>∕<sub>6<sup>2</sup>+2<sup>2</sup></sub>.</span>
 
 
-\(\frac{8}{5}\)
+<span class="math-inline"><sup>8</sup>∕<sub>5</sub></span>
 
 
+<div class="example">
 **Example**
 
 
-Simplify: \(\frac{4(−3)+6(−2)}{−3(2)−2}.\)
+Simplify: <span class="math-inline"><sup>4(−3)+6(−2)</sup>∕<sub>−3(2)−2</sub>.</span>
 
 
-Solution
+<div class="solution">
+<span class="def-label">Solution</span>
 
 
-
- \(\frac{4(−3)+6(−2)}{−3(2)−2}\)
+ <span class="math-inline"><sup>4(−3)+6(−2)</sup>∕<sub>−3(2)−2</sub></span>
 
  Multiply.
- \(\frac{−12+(−12)}{−6-2}\)
+ <span class="math-inline"><sup>−12+(−12)</sup>∕<sub>−6-2</sub></span>
 
  Simplify.
- \(\frac{−24}{−8}\)
+ <span class="math-inline"><sup>−24</sup>∕<sub>−8</sub></span>
 
  Divide.
- \(3\)
+ <span class="math-inline">3</span>
 
 
+<div class="tryit">
 **Try It**
 
 
-Simplify: \(\frac{8(−2)+4(−3)}{−5(2)+3}.\)
+Simplify: <span class="math-inline"><sup>8(−2)+4(−3)</sup>∕<sub>−5(2)+3</sub>.</span>
 
 
 4
 
 
+<div class="tryit">
 **Try It**
 
 
-Simplify: \(\frac{7(−1)+9(−3)}{−5(3)−2}.\)
+Simplify: <span class="math-inline"><sup>7(−1)+9(−3)</sup>∕<sub>−5(3)−2</sub>.</span>
 
 
 2
 
 
-**ACCESS ADDITIONAL ONLINE RESOURCES**
+<div class="definition-label">**ACCESS ADDITIONAL ONLINE RESOURCES**</div>
+
 
 - Division Involving Mixed Numbers
 
 - Evaluate a Complex Fraction
 
 
+---
+
+
+---
+
 ## Key Concepts
+
 
 - *Multiply or divide mixed numbers.*
   - Convert the mixed numbers to improper fractions.
@@ -247,7 +347,7 @@ Simplify: \(\frac{7(−1)+9(−3)}{−5(3)−2}.\)
   - Simplify if possible.
 
 - *Placement of negative sign in a fraction.*
-  - For any positive numbers \(a\) and \(b\), \(\frac{-a}{b}=\frac{a}{-b}=-\frac{a}{b}\).
+  - For any positive numbers <span class="math-inline">a</span> and <span class="math-inline">b</span>, <span class="math-inline"><sup>-a</sup>∕<sub>b</sub>=<sup>a</sup>∕<sub>-b</sub>=-<sup>a</sup>∕<sub>b</sub></span>.
 
 - *Simplify an expression with a fraction bar.*
   - Simplify the numerator.
@@ -262,76 +362,76 @@ Simplify: \(\frac{7(−1)+9(−3)}{−5(3)−2}.\)
 In the following exercises, multiply and write the answer in simplified form.
 
 
-\(4\frac{3}{8}\cdot \frac{7}{10}\)
+<span class="math-inline">4<sup>3</sup>∕<sub>8</sub>· <sup>7</sup>∕<sub>10</sub></span>
 
 
-\(2\frac{4}{9}\cdot \frac{6}{7}\)
+<span class="math-inline">2<sup>4</sup>∕<sub>9</sub>· <sup>6</sup>∕<sub>7</sub></span>
 
 
-\(\frac{44}{21}\)
+<span class="math-inline"><sup>44</sup>∕<sub>21</sub></span>
 
 
-\(\frac{15}{22}\cdot 3\frac{3}{5}\)
+<span class="math-inline"><sup>15</sup>∕<sub>22</sub>· 3<sup>3</sup>∕<sub>5</sub></span>
 
 
-\(\frac{25}{36}\cdot 6\frac{3}{10}\)
+<span class="math-inline"><sup>25</sup>∕<sub>36</sub>· 6<sup>3</sup>∕<sub>10</sub></span>
 
 
-\(\frac{35}{8}\)
+<span class="math-inline"><sup>35</sup>∕<sub>8</sub></span>
 
 
-\(4\frac{2}{3} (−1\frac{1}{8})\)
+<span class="math-inline">4<sup>2</sup>∕<sub>3</sub> (−1<sup>1</sup>∕<sub>8</sub>)</span>
 
 
-\(2\frac{2}{5} (−2\frac{2}{9})\)
+<span class="math-inline">2<sup>2</sup>∕<sub>5</sub> (−2<sup>2</sup>∕<sub>9</sub>)</span>
 
 
-\(-\frac{16}{3}\)
+<span class="math-inline">-<sup>16</sup>∕<sub>3</sub></span>
 
 
-\(−4\frac{4}{9}\cdot 5\frac{13}{16}\)
+<span class="math-inline">−4<sup>4</sup>∕<sub>9</sub>· 5<sup>13</sup>∕<sub>16</sub></span>
 
 
-\(−1\frac{7}{20}\cdot 2\frac{11}{12}\)
+<span class="math-inline">−1<sup>7</sup>∕<sub>20</sub>· 2<sup>11</sup>∕<sub>12</sub></span>
 
 
-\(-\frac{63}{16}\)
+<span class="math-inline">-<sup>63</sup>∕<sub>16</sub></span>
 
 
 In the following exercises, divide, and write your answer in simplified form.
 
 
-\(5\frac{1}{3}\div  4\)
+<span class="math-inline">5<sup>1</sup>∕<sub>3</sub>÷  4</span>
 
 
-\(13\frac{1}{2}\div  9\)
+<span class="math-inline">13<sup>1</sup>∕<sub>2</sub>÷  9</span>
 
 
-\(\frac{3}{2}\)
+<span class="math-inline"><sup>3</sup>∕<sub>2</sub></span>
 
 
-\(−12\div  3\frac{3}{11}\)
+<span class="math-inline">−12÷  3<sup>3</sup>∕<sub>11</sub></span>
 
 
-\(−7\div  5\frac{1}{4}\)
+<span class="math-inline">−7÷  5<sup>1</sup>∕<sub>4</sub></span>
 
 
-\(-\frac{4}{3}\)
+<span class="math-inline">-<sup>4</sup>∕<sub>3</sub></span>
 
 
-\(6\frac{3}{8}\div  2\frac{1}{8}\)
+<span class="math-inline">6<sup>3</sup>∕<sub>8</sub>÷  2<sup>1</sup>∕<sub>8</sub></span>
 
 
-\(2\frac{1}{5}\div  1\frac{1}{10}\)
+<span class="math-inline">2<sup>1</sup>∕<sub>5</sub>÷  1<sup>1</sup>∕<sub>10</sub></span>
 
 
 2
 
 
-\(−9\frac{3}{5}\div  (−1\frac{3}{5})\)
+<span class="math-inline">−9<sup>3</sup>∕<sub>5</sub>÷  (−1<sup>3</sup>∕<sub>5</sub>)</span>
 
 
-\(−18\frac{3}{4}\div  (−3\frac{3}{4})\)
+<span class="math-inline">−18<sup>3</sup>∕<sub>4</sub>÷  (−3<sup>3</sup>∕<sub>4</sub>)</span>
 
 
 5
@@ -342,31 +442,31 @@ In the following exercises, divide, and write your answer in simplified form.
 In the following exercises, translate each English phrase into an algebraic expression.
 
 
-the quotient of \(5u\) and \(11\)
+the quotient of <span class="math-inline">5u</span> and <span class="math-inline">11</span>
 
 
-the quotient of \(7v\) and \(13\)
+the quotient of <span class="math-inline">7v</span> and <span class="math-inline">13</span>
 
 
-\(\frac{7v}{13}\)
+<span class="math-inline"><sup>7v</sup>∕<sub>13</sub></span>
 
 
-the quotient of \(p\) and \(q\)
+the quotient of <span class="math-inline">p</span> and <span class="math-inline">q</span>
 
 
-the quotient of \(a\) and \(b\)
+the quotient of <span class="math-inline">a</span> and <span class="math-inline">b</span>
 
 
-\(\frac{a}{b}\)
+<span class="math-inline"><sup>a</sup>∕<sub>b</sub></span>
 
 
-the quotient of \(r\) and the sum of \(s\) and \(10\)
+the quotient of <span class="math-inline">r</span> and the sum of <span class="math-inline">s</span> and <span class="math-inline">10</span>
 
 
-the quotient of \(A\) and the difference of \(3\) and \(B\)
+the quotient of <span class="math-inline">A</span> and the difference of <span class="math-inline">3</span> and <span class="math-inline">B</span>
 
 
-\(\frac{A}{3-B}\)
+<span class="math-inline"><sup>A</sup>∕<sub>3-B</sub></span>
 
 
 *Simplify Complex Fractions*
@@ -374,76 +474,76 @@ the quotient of \(A\) and the difference of \(3\) and \(B\)
 In the following exercises, simplify the complex fraction.
 
 
-\(\frac{ \frac{2}{3} }{ \frac{8}{9} }\)
+<span class="math-inline"><sup> \frac{2</sup>∕<sub>3</sub>  <sup>8</sup>∕<sub>9</sub></span>
 
 
-\(\frac{ \frac{4}{5} }{ \frac{8}{15} }\)
+<span class="math-inline"><sup> \frac{4</sup>∕<sub>5</sub>  <sup>8</sup>∕<sub>15</sub></span>
 
 
-\(\frac{3}{2}\)
+<span class="math-inline"><sup>3</sup>∕<sub>2</sub></span>
 
 
-\(\frac{-\frac{8}{21}}{\frac{12}{35}}\)
+<span class="math-inline"><sup>-\frac{8</sup>∕<sub>21</sub><sup>12</sup>∕<sub>35</sub></span>
 
 
-\(\frac{-\frac{9}{16}}{\frac{33}{40}}\)
+<span class="math-inline"><sup>-\frac{9</sup>∕<sub>16</sub><sup>33</sup>∕<sub>40</sub></span>
 
 
-\(-\frac{15}{22}\)
+<span class="math-inline">-<sup>15</sup>∕<sub>22</sub></span>
 
 
-\(\frac{-\frac{4}{5}}{2}\)
+<span class="math-inline"><sup>-\frac{4</sup>∕<sub>5</sub>{2}</span>
 
 
-\(\frac{-\frac{9}{10}}{3}\)
+<span class="math-inline"><sup>-\frac{9</sup>∕<sub>10</sub>{3}</span>
 
 
-\(-\frac{3}{10}\)
+<span class="math-inline">-<sup>3</sup>∕<sub>10</sub></span>
 
 
-\(\frac{ \frac{2}{5} }{ 8 }\)
+<span class="math-inline"><sup> \frac{2</sup>∕<sub>5</sub>  8</span>
 
 
-\(\frac{ \frac{5}{3} }{ 10 }\)
+<span class="math-inline"><sup> \frac{5</sup>∕<sub>3</sub>  10</span>
 
 
-\(\frac{1}{6}\)
+<span class="math-inline"><sup>1</sup>∕<sub>6</sub></span>
 
 
-\(\frac{ \frac{m}{3} }{ \frac{n}{2} }\)
+<span class="math-inline"><sup> \frac{m</sup>∕<sub>3</sub>  <sup>n</sup>∕<sub>2</sub></span>
 
 
-\(\frac{ \frac{r}{5} }{ \frac{s}{3} }\)
+<span class="math-inline"><sup> \frac{r</sup>∕<sub>5</sub>  <sup>s</sup>∕<sub>3</sub></span>
 
 
-\(\frac{3r}{5s}\)
+<span class="math-inline"><sup>3r</sup>∕<sub>5s</sub></span>
 
 
-\(\frac{-\frac{x}{6}}{-\frac{8}{9}}\)
+<span class="math-inline"><sup>-\frac{x</sup>∕<sub>6</sub>-<sup>8</sup>∕<sub>9</sub></span>
 
 
-\(\frac{-\frac{3}{8}}{-\frac{y}{12}}\)
+<span class="math-inline"><sup>-\frac{3</sup>∕<sub>8</sub>-<sup>y</sup>∕<sub>12</sub></span>
 
 
-\(\frac{9}{2y}\)
+<span class="math-inline"><sup>9</sup>∕<sub>2y</sub></span>
 
 
-\(\frac{2\frac{4}{5}}{\frac{1}{10}}\)
+<span class="math-inline"><sup>2\frac{4</sup>∕<sub>5</sub><sup>1</sup>∕<sub>10</sub></span>
 
 
-\(\frac{4\frac{2}{3}}{\frac{1}{6}}\)
+<span class="math-inline"><sup>4\frac{2</sup>∕<sub>3</sub><sup>1</sup>∕<sub>6</sub></span>
 
 
 28
 
 
-\(\frac{\frac{7}{9}}{−2\frac{4}{5}}\)
+<span class="math-inline"><sup>\frac{7</sup>∕<sub>9</sub>−2<sup>4</sup>∕<sub>5</sub></span>
 
 
-\(\frac{\frac{3}{8}}{−6\frac{3}{4}}\)
+<span class="math-inline"><sup>\frac{3</sup>∕<sub>8</sub>−6<sup>3</sup>∕<sub>4</sub></span>
 
 
-\(-\frac{1}{18}\)
+<span class="math-inline">-<sup>1</sup>∕<sub>18</sub></span>
 
 
 *Simplify Expressions with a Fraction Bar*
@@ -451,184 +551,184 @@ In the following exercises, simplify the complex fraction.
 In the following exercises, identify the equivalent fractions.
 
 
-Which of the following fractions are equivalent to \(\frac{5}{−11}?\)
-\(\frac{−5}{−11},\frac{−5}{11},\frac{5}{11},-\frac{5}{11}\)
+Which of the following fractions are equivalent to <span class="math-inline"><sup>5</sup>∕<sub>−11</sub>?</span>
+<span class="math-inline"><sup>−5</sup>∕<sub>−11</sub>,<sup>−5</sup>∕<sub>11</sub>,<sup>5</sup>∕<sub>11</sub>,-<sup>5</sup>∕<sub>11</sub></span>
 
 
-Which of the following fractions are equivalent to \(\frac{−4}{9}?\)
+Which of the following fractions are equivalent to <span class="math-inline"><sup>−4</sup>∕<sub>9</sub>?</span>
 
-\(\frac{−4}{−9},\frac{−4}{9},\frac{4}{9},-\frac{4}{9}\)
-
-
-\(\frac{−4}{9}, -\frac{4}{9}\)
+<span class="math-inline"><sup>−4</sup>∕<sub>−9</sub>,<sup>−4</sup>∕<sub>9</sub>,<sup>4</sup>∕<sub>9</sub>,-<sup>4</sup>∕<sub>9</sub></span>
 
 
-Which of the following fractions are equivalent to \(-\frac{11}{3}?\)
-\(\frac{−11}{3},\frac{11}{3},\frac{−11}{−3}, \frac{11}{−3}\)
+<span class="math-inline"><sup>−4</sup>∕<sub>9</sub>, -<sup>4</sup>∕<sub>9</sub></span>
 
 
-Which of the following fractions are equivalent to \(-\frac{13}{6}?\)
-\(\frac{13}{6},\frac{13}{−6},\frac{−13}{−6},\frac{−13}{6}\)
+Which of the following fractions are equivalent to <span class="math-inline">-<sup>11</sup>∕<sub>3</sub>?</span>
+<span class="math-inline"><sup>−11</sup>∕<sub>3</sub>,<sup>11</sup>∕<sub>3</sub>,<sup>−11</sup>∕<sub>−3</sub>, <sup>11</sup>∕<sub>−3</sub></span>
 
 
-\(\frac{13}{−6},\frac{−13}{6}\)
+Which of the following fractions are equivalent to <span class="math-inline">-<sup>13</sup>∕<sub>6</sub>?</span>
+<span class="math-inline"><sup>13</sup>∕<sub>6</sub>,<sup>13</sup>∕<sub>−6</sub>,<sup>−13</sup>∕<sub>−6</sub>,<sup>−13</sup>∕<sub>6</sub></span>
+
+
+<span class="math-inline"><sup>13</sup>∕<sub>−6</sub>,<sup>−13</sup>∕<sub>6</sub></span>
 
 
 In the following exercises, simplify.
 
 
-\(\frac{4+11}{8}\)
+<span class="math-inline"><sup>4+11</sup>∕<sub>8</sub></span>
 
 
-\(\frac{9+3}{7}\)
+<span class="math-inline"><sup>9+3</sup>∕<sub>7</sub></span>
 
 
-\(\frac{12}{7}\)
+<span class="math-inline"><sup>12</sup>∕<sub>7</sub></span>
 
 
-\(\frac{22+3}{10}\)
+<span class="math-inline"><sup>22+3</sup>∕<sub>10</sub></span>
 
 
-\(\frac{19-4}{6}\)
+<span class="math-inline"><sup>19-4</sup>∕<sub>6</sub></span>
 
 
-\(\frac{5}{2}\)
+<span class="math-inline"><sup>5</sup>∕<sub>2</sub></span>
 
 
-\(\frac{48}{24-15}\)
+<span class="math-inline"><sup>48</sup>∕<sub>24-15</sub></span>
 
 
-\(\frac{46}{4+4}\)
+<span class="math-inline"><sup>46</sup>∕<sub>4+4</sub></span>
 
 
-\(\frac{23}{4}\)
+<span class="math-inline"><sup>23</sup>∕<sub>4</sub></span>
 
 
-\(\frac{−6+6}{8+4}\)
+<span class="math-inline"><sup>−6+6</sup>∕<sub>8+4</sub></span>
 
 
-\(\frac{−6+3}{17-8}\)
+<span class="math-inline"><sup>−6+3</sup>∕<sub>17-8</sub></span>
 
 
-\(-\frac{1}{3}\)
+<span class="math-inline">-<sup>1</sup>∕<sub>3</sub></span>
 
 
-\(\frac{22-14}{19-13}\)
+<span class="math-inline"><sup>22-14</sup>∕<sub>19-13</sub></span>
 
 
-\(\frac{15+9}{18+12}\)
+<span class="math-inline"><sup>15+9</sup>∕<sub>18+12</sub></span>
 
 
-\(\frac{4}{5}\)
+<span class="math-inline"><sup>4</sup>∕<sub>5</sub></span>
 
 
-\(\frac{5\cdot 8}{−10}\)
+<span class="math-inline"><sup>5· 8</sup>∕<sub>−10</sub></span>
 
 
-\(\frac{3\cdot 4}{−24}\)
+<span class="math-inline"><sup>3· 4</sup>∕<sub>−24</sub></span>
 
 
-\(-\frac{1}{2}\)
+<span class="math-inline">-<sup>1</sup>∕<sub>2</sub></span>
 
 
-\(\frac{4\cdot 3}{6\cdot 6}\)
+<span class="math-inline"><sup>4· 3</sup>∕<sub>6· 6</sub></span>
 
 
-\(\frac{6\cdot 6}{9\cdot 2}\)
+<span class="math-inline"><sup>6· 6</sup>∕<sub>9· 2</sub></span>
 
 
 2
 
 
-\(\frac{4^2-1}{25}\)
+<span class="math-inline"><sup>4<sup>2</sup>-1</sup>∕<sub>25</sub></span>
 
 
-\(\frac{7^2+1}{60}\)
+<span class="math-inline"><sup>7<sup>2</sup>+1</sup>∕<sub>60</sub></span>
 
 
-\(\frac{5}{6}\)
+<span class="math-inline"><sup>5</sup>∕<sub>6</sub></span>
 
 
-\(\frac{8\cdot 3+2\cdot 9}{14+3}\)
+<span class="math-inline"><sup>8· 3+2· 9</sup>∕<sub>14+3</sub></span>
 
 
-\(\frac{9\cdot 6-4\cdot 7}{22+3}\)
+<span class="math-inline"><sup>9· 6-4· 7</sup>∕<sub>22+3</sub></span>
 
 
-\(\frac{26}{25}\)
+<span class="math-inline"><sup>26</sup>∕<sub>25</sub></span>
 
 
-\(\frac{15\cdot 5-5^2}{2\cdot 10}\)
+<span class="math-inline"><sup>15· 5-5<sup>2</sup></sup>∕<sub>2· 10</sub></span>
 
 
-\(\frac{12\cdot 9-3^2}{3\cdot 18}\)
+<span class="math-inline"><sup>12· 9-3<sup>2</sup></sup>∕<sub>3· 18</sub></span>
 
 
-\(\frac{11}{6}\)
+<span class="math-inline"><sup>11</sup>∕<sub>6</sub></span>
 
 
-\(\frac{5\cdot 6-3\cdot 4}{4\cdot 5-2\cdot 3}\)
+<span class="math-inline"><sup>5· 6-3· 4</sup>∕<sub>4· 5-2· 3</sub></span>
 
 
-\(\frac{8\cdot 9-7\cdot 6}{5\cdot 6-9\cdot 2}\)
+<span class="math-inline"><sup>8· 9-7· 6</sup>∕<sub>5· 6-9· 2</sub></span>
 
 
-\(\frac{5}{2}\)
+<span class="math-inline"><sup>5</sup>∕<sub>2</sub></span>
 
 
-\(\frac{5^2-3^2}{3-5}\)
+<span class="math-inline"><sup>5<sup>2</sup>-3<sup>2</sup></sup>∕<sub>3-5</sub></span>
 
 
-\(\frac{6^2-4^2}{4-6}\)
+<span class="math-inline"><sup>6<sup>2</sup>-4<sup>2</sup></sup>∕<sub>4-6</sub></span>
 
 
 −10
 
 
-\(\frac{2+4(3)}{−3-2^2}\)
+<span class="math-inline"><sup>2+4(3)</sup>∕<sub>−3-2<sup>2</sup></sub></span>
 
 
-\(\frac{7+3(5)}{−2-3^2}\)
+<span class="math-inline"><sup>7+3(5)</sup>∕<sub>−2-3<sup>2</sup></sub></span>
 
 
 −2
 
 
-\(\frac{7\cdot 4-2(8-5)}{9\cdot 3-3\cdot 5}\)
+<span class="math-inline"><sup>7· 4-2(8-5)</sup>∕<sub>9· 3-3· 5</sub></span>
 
 
-\(\frac{9\cdot 7-3(12-8)}{8\cdot 7-6\cdot 6}\)
+<span class="math-inline"><sup>9· 7-3(12-8)</sup>∕<sub>8· 7-6· 6</sub></span>
 
 
-\(\frac{51}{20}\)
+<span class="math-inline"><sup>51</sup>∕<sub>20</sub></span>
 
 
-\(\frac{9(8-2)−3(15-7)}{6(7-1)−3(17-9)}\)
+<span class="math-inline"><sup>9(8-2)−3(15-7)</sup>∕<sub>6(7-1)−3(17-9)</sub></span>
 
 
-\(\frac{8(9-2)−4(14-9)}{7(8-3)−3(16-9)}\)
+<span class="math-inline"><sup>8(9-2)−4(14-9)</sup>∕<sub>7(8-3)−3(16-9)</sub></span>
 
 
-\(\frac{18}{7}\)
+<span class="math-inline"><sup>18</sup>∕<sub>7</sub></span>
 
 
 ### Everyday Math
 
 
-*Baking* A recipe for chocolate chip cookies calls for \(2\frac{1}{4}\) cups of flour. Graciela wants to double the recipe.
+*Baking* A recipe for chocolate chip cookies calls for <span class="math-inline">2<sup>1</sup>∕<sub>4</sub></span> cups of flour. Graciela wants to double the recipe.
 
   - ⓐ How much flour will Graciela need? Show your calculation. Write your result as an improper fraction and as a mixed number.
-  - ⓑ Measuring cups usually come in sets with cups for \(\frac{1}{8},\frac{1}{4},\frac{1}{3},\frac{1}{2},\) and \(1\) cup. Draw a diagram to show two different ways that Graciela could measure out the flour needed to double the recipe.
+  - ⓑ Measuring cups usually come in sets with cups for <span class="math-inline"><sup>1</sup>∕<sub>8</sub>,<sup>1</sup>∕<sub>4</sub>,<sup>1</sup>∕<sub>3</sub>,<sup>1</sup>∕<sub>2</sub>,</span> and <span class="math-inline">1</span> cup. Draw a diagram to show two different ways that Graciela could measure out the flour needed to double the recipe.
 
 
-*Baking* A booth at the county fair sells fudge by the pound. Their award winning “Chocolate Overdose” fudge contains \(2\frac{2}{3}\) cups of chocolate chips per pound.
+*Baking* A booth at the county fair sells fudge by the pound. Their award winning “Chocolate Overdose” fudge contains <span class="math-inline">2<sup>2</sup>∕<sub>3</sub></span> cups of chocolate chips per pound.
 
   - ⓐ How many cups of chocolate chips are in a half-pound of the fudge?
-  - ⓑ The owners of the booth make the fudge in \(10\)-pound batches. How many chocolate chips do they need to make a \(10\)-pound batch? Write your results as improper fractions and as a mixed numbers.
+  - ⓑ The owners of the booth make the fudge in <span class="math-inline">10</span>-pound batches. How many chocolate chips do they need to make a <span class="math-inline">10</span>-pound batch? Write your results as improper fractions and as a mixed numbers.
 
 
-  - ⓐ \(\frac{4}{3}=1\frac{1}{3}\) cups
-  - ⓑ \(\frac{80}{3}=26\frac{2}{3}\) cups
+  - ⓐ <span class="math-inline"><sup>4</sup>∕<sub>3</sub>=1<sup>1</sup>∕<sub>3</sub></span> cups
+  - ⓑ <span class="math-inline"><sup>80</sup>∕<sub>3</sub>=26<sup>2</sup>∕<sub>3</sub></span> cups
 
 
 ### Writing Exercises
@@ -643,10 +743,10 @@ Explain how to multiply mixed numbers.
 Answers will vary.
 
 
-Randy thinks that \(3\frac{1}{2}\cdot 5\frac{1}{4}\) is \(15\frac{1}{8}.\) Explain what is wrong with Randy’s thinking.
+Randy thinks that <span class="math-inline">3<sup>1</sup>∕<sub>2</sub>· 5<sup>1</sup>∕<sub>4</sub></span> is <span class="math-inline">15<sup>1</sup>∕<sub>8</sub>.</span> Explain what is wrong with Randy’s thinking.
 
 
-Explain why \(-\frac{1}{2},\frac{−1}{2},\) and \(\frac{1}{−2}\) are equivalent.
+Explain why <span class="math-inline">-<sup>1</sup>∕<sub>2</sub>,<sup>−1</sup>∕<sub>2</sub>,</span> and <span class="math-inline"><sup>1</sup>∕<sub>−2</sub></span> are equivalent.
 
 
 Answers will vary.
@@ -660,384 +760,523 @@ Answers will vary.
 ⓑ What does this checklist tell you about your mastery of this section? What steps will you take to improve?
 
 
+<div class="prep-quiz">
 **Be Prepared!**
+
 
 Before you get started, take this readiness quiz.
 
 
-Simplify: \(2x+9+3x-4.\)
+Simplify: <span class="math-inline">2x+9+3x-4.</span>
 
 If you missed this problem, review .
 
 
-\(5x+5\)
+<span class="math-inline">5x+5</span>
 
 
+<div class="prep-quiz">
 **Be Prepared!**
 
 
-Draw a model of the fraction \(\frac{3}{4}.\)
+Draw a model of the fraction <span class="math-inline"><sup>3</sup>∕<sub>4</sub>.</span>
 
 If you missed this problem, review .
 
 
+<div class="prep-quiz">
 **Be Prepared!**
 
 
-Simplify: \(\frac{3+2}{6}.\)
+Simplify: <span class="math-inline"><sup>3+2</sup>∕<sub>6</sub>.</span>
 
 If you missed this problem, review .
 
 
-\(\frac{5}{6}\)
+<span class="math-inline"><sup>5</sup>∕<sub>6</sub></span>
 
+
+---
+
+
+---
 
 ## Model Fraction Addition
 
-How many quarters are pictured? One quarter plus \(2\) quarters equals \(3\) quarters.
+
+How many quarters are pictured? One quarter plus <span class="math-inline">2</span> quarters equals <span class="math-inline">3</span> quarters.
 
 Remember, quarters are really fractions of a dollar. Quarters are another way to say fourths. So the picture of the coins shows that
 
 
-$$
-\frac{1}{4} &  & \frac{2}{4} &  & \frac{3}{4} \\
+<div class="math-display">
+<sup>1</sup>∕<sub>4</sub> &  & <sup>2</sup>∕<sub>4</sub> &  & <sup>3</sup>∕<sub>4</sub> \\
 one quarter & + & two quarters & = & three quarters
-$$
+</div>
 
-Let’s use fraction circles to model the same example, \(\frac{1}{4}+\frac{2}{4}.\)
+
+Let’s use fraction circles to model the same example, <span class="math-inline"><sup>1</sup>∕<sub>4</sub>+<sup>2</sup>∕<sub>4</sub>.</span>
 
 
 So again, we see that
 
 
-$$
-\frac{1}{4}+\frac{2}{4}=\frac{3}{4}
-$$
+<div class="math-display">
+<sup>1</sup>∕<sub>4</sub>+<sup>2</sup>∕<sub>4</sub>=<sup>3</sup>∕<sub>4</sub>
+</div>
 
 
+<div class="example">
 **Example**
 
 
-Use a model to find the sum \(\frac{3}{8}+\frac{2}{8}.\)
+Use a model to find the sum <span class="math-inline"><sup>3</sup>∕<sub>8</sub>+<sup>2</sup>∕<sub>8</sub>.</span>
 
 
-Solution
+<div class="solution">
+<span class="def-label">Solution</span>
 
 
-
-   Start with three \(\frac{1}{8}\) pieces.
-
+   Start with three <span class="math-inline"><sup>1</sup>∕<sub>8</sub></span> pieces.
 
 
-
-   Add two \(\frac{1}{8}\)pieces.
-
+   Add two <span class="math-inline"><sup>1</sup>∕<sub>8</sub></span>pieces.
 
 
-
-   How many \(\frac{1}{8}\)pieces are there?
-
+   How many <span class="math-inline"><sup>1</sup>∕<sub>8</sub></span>pieces are there?
 
 
+There are five <span class="math-inline"><sup>1</sup>∕<sub>8</sub></span> pieces, or five-eighths. The model shows that <span class="math-inline"><sup>3</sup>∕<sub>8</sub>+<sup>2</sup>∕<sub>8</sub>=<sup>5</sup>∕<sub>8</sub>.</span>
 
 
-There are five \(\frac{1}{8}\) pieces, or five-eighths. The model shows that \(\frac{3}{8}+\frac{2}{8}=\frac{5}{8}.\)
-
-
+<div class="tryit">
 **Try It**
 
 
 Use a model to find each sum. Show a diagram to illustrate your model.
-\(\frac{1}{8}+\frac{4}{8}\)
+<span class="math-inline"><sup>1</sup>∕<sub>8</sub>+<sup>4</sup>∕<sub>8</sub></span>
 
 
-\(\frac{5}{8}\)
+<span class="math-inline"><sup>5</sup>∕<sub>8</sub></span>
 
 
+<div class="tryit">
 **Try It**
 
 
 Use a model to find each sum. Show a diagram to illustrate your model.
-\(\frac{1}{6}+\frac{4}{6}\)
+<span class="math-inline"><sup>1</sup>∕<sub>6</sub>+<sup>4</sup>∕<sub>6</sub></span>
 
 
-\(\frac{5}{6}\)
+<span class="math-inline"><sup>5</sup>∕<sub>6</sub></span>
 
+
+---
+
+
+---
 
 ## Add Fractions with a Common Denominator
+
 
  shows that to add the same-size pieces—meaning that the fractions have the same **denominator**—we just add the number of pieces.
 
 
-**Fraction Addition**
-
-If \(a,b,\) and \(c\) are numbers where \(c\ne 0,\) then
+<div class="definition-label">**Fraction Addition**</div>
 
 
-$$
-\frac{a}{c}+\frac{b}{c}=\frac{a+b}{c}
-$$
+If <span class="math-inline">a,b,</span> and <span class="math-inline">c</span> are numbers where <span class="math-inline">c≠ 0,</span> then
+
+
+<div class="math-display">
+<sup>a</sup>∕<sub>c</sub>+<sup>b</sup>∕<sub>c</sub>=<sup>a+b</sup>∕<sub>c</sub>
+</div>
+
 
 To add fractions with a common denominator, add the numerators and place the sum over the common denominator.
 
 
+<div class="example">
 **Example**
 
 
-Find the sum: \(\frac{3}{5}+\frac{1}{5}.\)
+Find the sum: <span class="math-inline"><sup>3</sup>∕<sub>5</sub>+<sup>1</sup>∕<sub>5</sub>.</span>
 
 
-Solution
+<div class="solution">
+<span class="def-label">Solution</span>
 
 
-
-
-   \(\frac{3}{5}+\frac{1}{5}\)
+   <span class="math-inline"><sup>3</sup>∕<sub>5</sub>+<sup>1</sup>∕<sub>5</sub></span>
 
 
    Add the numerators and place the sum over the common denominator.
-   \(\frac{3+1}{5}\)
+   <span class="math-inline"><sup>3+1</sup>∕<sub>5</sub></span>
 
 
    Simplify.
-   \(\frac{4}{5}\)
+   <span class="math-inline"><sup>4</sup>∕<sub>5</sub></span>
 
 
-
+<div class="tryit">
 **Try It**
 
 
-Find each sum: \(\frac{3}{6}+\frac{2}{6}.\)
+Find each sum: <span class="math-inline"><sup>3</sup>∕<sub>6</sub>+<sup>2</sup>∕<sub>6</sub>.</span>
 
 
-\(\frac{5}{6}\)
+<span class="math-inline"><sup>5</sup>∕<sub>6</sub></span>
 
 
+<div class="tryit">
 **Try It**
 
 
-Find each sum: \(\frac{3}{10}+\frac{7}{10}.\)
+Find each sum: <span class="math-inline"><sup>3</sup>∕<sub>10</sub>+<sup>7</sup>∕<sub>10</sub>.</span>
 
 
 1
 
 
+<div class="example">
 **Example**
 
 
-Find the sum: \(\frac{x}{3}+\frac{2}{3}.\)
+Find the sum: <span class="math-inline"><sup>x</sup>∕<sub>3</sub>+<sup>2</sup>∕<sub>3</sub>.</span>
 
 
-Solution
+<div class="solution">
+<span class="def-label">Solution</span>
 
 
-
-
-   \(\frac{x}{3}+\frac{2}{3}\)
+   <span class="math-inline"><sup>x</sup>∕<sub>3</sub>+<sup>2</sup>∕<sub>3</sub></span>
 
 
    Add the numerators and place the sum over the common denominator.
-   \(\frac{x+2}{3}\)
+   <span class="math-inline"><sup>x+2</sup>∕<sub>3</sub></span>
 
 
+Note that we cannot simplify this fraction any more. Since <span class="math-inline">x</span> and <span class="math-inline">2</span> are not like terms, we cannot combine them.
 
-Note that we cannot simplify this fraction any more. Since \(x\) and \(2\) are not like terms, we cannot combine them.
 
-
+<div class="tryit">
 **Try It**
 
 
-Find the sum: \(\frac{x}{4}+\frac{3}{4}.\)
+Find the sum: <span class="math-inline"><sup>x</sup>∕<sub>4</sub>+<sup>3</sup>∕<sub>4</sub>.</span>
 
 
-\(\frac{x+3}{4}\)
+<span class="math-inline"><sup>x+3</sup>∕<sub>4</sub></span>
 
 
+<div class="tryit">
 **Try It**
 
 
-Find the sum: \(\frac{y}{8}+\frac{5}{8}.\)
+Find the sum: <span class="math-inline"><sup>y</sup>∕<sub>8</sub>+<sup>5</sup>∕<sub>8</sub>.</span>
 
 
-\(\frac{y+5}{8}\)
+<span class="math-inline"><sup>y+5</sup>∕<sub>8</sub></span>
 
 
+<div class="example">
 **Example**
 
 
-Find the sum: \(-\frac{9}{d}+\frac{3}{d}.\)
+Find the sum: <span class="math-inline">-<sup>9</sup>∕<sub>d</sub>+<sup>3</sup>∕<sub>d</sub>.</span>
 
 
-Solution
+<div class="solution">
+<span class="def-label">Solution</span>
+
+
 We will begin by rewriting the first fraction with the negative sign in the numerator.
-\(-\frac{a}{b}=\frac{-a}{b}\)
+<span class="math-inline">-<sup>a</sup>∕<sub>b</sub>=<sup>-a</sup>∕<sub>b</sub></span>
 
 
-
-
-   \(-\frac{9}{d}+\frac{3}{d}\)
+   <span class="math-inline">-<sup>9</sup>∕<sub>d</sub>+<sup>3</sup>∕<sub>d</sub></span>
 
 
    Rewrite the first fraction with the negative in the numerator.
-   \(\frac{−9}{d}+\frac{3}{d}\)
+   <span class="math-inline"><sup>−9</sup>∕<sub>d</sub>+<sup>3</sup>∕<sub>d</sub></span>
 
 
    Add the numerators and place the sum over the common denominator.
-   \(\frac{−9+3}{d}\)
+   <span class="math-inline"><sup>−9+3</sup>∕<sub>d</sub></span>
 
 
    Simplify the numerator.
-   \(\frac{−6}{d}\)
+   <span class="math-inline"><sup>−6</sup>∕<sub>d</sub></span>
 
 
    Rewrite with negative sign in front of the fraction.
-   \(-\frac{6}{d}\)
+   <span class="math-inline">-<sup>6</sup>∕<sub>d</sub></span>
 
 
-
+<div class="tryit">
 **Try It**
 
 
-Find the sum: \(-\frac{7}{d}+\frac{8}{d}.\)
+Find the sum: <span class="math-inline">-<sup>7</sup>∕<sub>d</sub>+<sup>8</sup>∕<sub>d</sub>.</span>
 
 
-\(\frac{1}{d}\)
+<span class="math-inline"><sup>1</sup>∕<sub>d</sub></span>
 
 
+<div class="tryit">
 **Try It**
 
 
-Find the sum: \(-\frac{6}{m}+\frac{9}{m}.\)
+Find the sum: <span class="math-inline">-<sup>6</sup>∕<sub>m</sub>+<sup>9</sup>∕<sub>m</sub>.</span>
 
 
-\(\frac{3}{m}\)
+<span class="math-inline"><sup>3</sup>∕<sub>m</sub></span>
 
 
+<div class="example">
 **Example**
 
 
-Find the sum: \(\frac{2n}{11}+\frac{5n}{11}.\)
+Find the sum: <span class="math-inline"><sup>2n</sup>∕<sub>11</sub>+<sup>5n</sup>∕<sub>11</sub>.</span>
 
 
-Solution
+<div class="solution">
+<span class="def-label">Solution</span>
 
 
-
-
-   \(\frac{2n}{11}+\frac{5n}{11}\)
+   <span class="math-inline"><sup>2n</sup>∕<sub>11</sub>+<sup>5n</sup>∕<sub>11</sub></span>
 
 
    Add the numerators and place the sum over the common denominator.
-   \(\frac{2n+5n}{11}\)
+   <span class="math-inline"><sup>2n+5n</sup>∕<sub>11</sub></span>
 
 
    Combine like terms.
-   \(\frac{7n}{11}\)
+   <span class="math-inline"><sup>7n</sup>∕<sub>11</sub></span>
 
 
+<div class="tryit">
 **Try It**
 
 
-Find the sum: \(\frac{3p}{8}+\frac{6p}{8}.\)
+Find the sum: <span class="math-inline"><sup>3p</sup>∕<sub>8</sub>+<sup>6p</sup>∕<sub>8</sub>.</span>
 
 
-\(\frac{9p}{8}\)
+<span class="math-inline"><sup>9p</sup>∕<sub>8</sub></span>
 
 
+<div class="tryit">
 **Try It**
 
 
-Find the sum: \(\frac{2q}{5}+\frac{7q}{5}.\)
+Find the sum: <span class="math-inline"><sup>2q</sup>∕<sub>5</sub>+<sup>7q</sup>∕<sub>5</sub>.</span>
 
 
-\(\frac{9q}{5}\)
+<span class="math-inline"><sup>9q</sup>∕<sub>5</sub></span>
 
 
+<div class="example">
 **Example**
 
 
-Find the sum: \(-\frac{3}{12}+(-\frac{5}{12}).\)
+Find the sum: <span class="math-inline">-<sup>3</sup>∕<sub>12</sub>+(-<sup>5</sup>∕<sub>12</sub>).</span>
 
 
-Solution
+<div class="solution">
+<span class="def-label">Solution</span>
 
 
-
-
-   \(-\frac{3}{12}+(-\frac{5}{12})\)
+   <span class="math-inline">-<sup>3</sup>∕<sub>12</sub>+(-<sup>5</sup>∕<sub>12</sub>)</span>
 
 
    Add the numerators and place the sum over the common denominator.
-   \(\frac{−3+(−5)}{12}\)
+   <span class="math-inline"><sup>−3+(−5)</sup>∕<sub>12</sub></span>
 
 
    Add.
-   \(\frac{−8}{12}\)
+   <span class="math-inline"><sup>−8</sup>∕<sub>12</sub></span>
 
 
    Simplify the fraction.
-   \(-\frac{2}{3}\)
+   <span class="math-inline">-<sup>2</sup>∕<sub>3</sub></span>
 
 
+<div class="tryit">
 **Try It**
 
 
-Find each sum: \(-\frac{4}{15}+(-\frac{6}{15}).\)
+Find each sum: <span class="math-inline">-<sup>4</sup>∕<sub>15</sub>+(-<sup>6</sup>∕<sub>15</sub>).</span>
 
 
-\(-\frac{2}{3}\)
+<span class="math-inline">-<sup>2</sup>∕<sub>3</sub></span>
 
 
+<div class="tryit">
 **Try It**
 
 
-Find each sum: \(-\frac{5}{21}+(-\frac{9}{21}).\)
+Find each sum: <span class="math-inline">-<sup>5</sup>∕<sub>21</sub>+(-<sup>9</sup>∕<sub>21</sub>).</span>
 
 
-\(-\frac{2}{3}\)
+<span class="math-inline">-<sup>2</sup>∕<sub>3</sub></span>
 
+
+---
+
+
+---
 
 ## Model Fraction Subtraction
 
-Subtracting two fractions with common denominators is much like adding fractions. Think of a pizza that was cut into \(12\) slices. Suppose five pieces are eaten for dinner. This means that, after dinner, there are seven pieces (or \(\frac{7}{12}\) of the pizza) left in the box. If Leonardo eats \(2\) of these remaining pieces (or \(\frac{2}{12}\) of the pizza), how much is left? There would be \(5\) pieces left (or \(\frac{5}{12}\) of the pizza).
+
+Subtracting two fractions with common denominators is much like adding fractions. Think of a pizza that was cut into <span class="math-inline">12</span> slices. Suppose five pieces are eaten for dinner. This means that, after dinner, there are seven pieces (or <span class="math-inline"><sup>7</sup>∕<sub>12</sub></span> of the pizza) left in the box. If Leonardo eats <span class="math-inline">2</span> of these remaining pieces (or <span class="math-inline"><sup>2</sup>∕<sub>12</sub></span> of the pizza), how much is left? There would be <span class="math-inline">5</span> pieces left (or <span class="math-inline"><sup>5</sup>∕<sub>12</sub></span> of the pizza).
 
 
-$$
-\frac{7}{12}-\frac{2}{12}=\frac{5}{12}
-$$
-
-Let’s use fraction circles to model the same example, \(\frac{7}{12}-\frac{2}{12}.\)
-
-Start with seven \(\frac{1}{12}\) pieces. Take away two \(\frac{1}{12}\) pieces. How many twelfths are left?
-
-Again, we have five twelfths, \(\frac{5}{12}.\)
+<div class="math-display">
+<sup>7</sup>∕<sub>12</sub>-<sup>2</sup>∕<sub>12</sub>=<sup>5</sup>∕<sub>12</sub>
+</div>
 
 
+Let’s use fraction circles to model the same example, <span class="math-inline"><sup>7</sup>∕<sub>12</sub>-<sup>2</sup>∕<sub>12</sub>.</span>
+
+Start with seven <span class="math-inline"><sup>1</sup>∕<sub>12</sub></span> pieces. Take away two <span class="math-inline"><sup>1</sup>∕<sub>12</sub></span> pieces. How many twelfths are left?
+
+Again, we have five twelfths, <span class="math-inline"><sup>5</sup>∕<sub>12</sub>.</span>
+
+
+<div class="example">
 **Example**
 
 
-Use fraction circles to find the difference: \(\frac{4}{5}-\frac{1}{5}.\)
+Use fraction circles to find the difference: <span class="math-inline"><sup>4</sup>∕<sub>5</sub>-<sup>1</sup>∕<sub>5</sub>.</span>
 
 
-Solution
-Start with four \(\frac{1}{5}\) pieces. Take away one \(\frac{1}{5}\) piece. Count how many fifths are left. There are three \(\frac{1}{5}\) pieces left.
+<div class="solution">
+<span class="def-label">Solution</span>
 
 
+Start with four <span class="math-inline"><sup>1</sup>∕<sub>5</sub></span> pieces. Take away one <span class="math-inline"><sup>1</sup>∕<sub>5</sub></span> piece. Count how many fifths are left. There are three <span class="math-inline"><sup>1</sup>∕<sub>5</sub></span> pieces left.
+
+
+<div class="tryit">
 **Try It**
 
 
 Use a model to find each difference. Show a diagram to illustrate your model.
-\(\frac{7}{8}-\frac{4}{8}\)
+<span class="math-inline"><sup>7</sup>∕<sub>8</sub>-<sup>4</sup>∕<sub>8</sub></span>
 
 
-\(\frac{3}{8}\), models may differ.
+<span class="math-inline"><sup>3</sup>∕<sub>8</sub></span>, models may differ.
 
 
+<div class="tryit">
 **Try It**
 
 
 Use a model to find each difference. Show a diagram to illustrate your model.
-\(\frac{5}{6}-\frac{4}{6}\)
+<span class="math-inline"><sup>5</sup>∕<sub>6</sub>-<sup>4</sup>∕<sub>6</sub></span>
 
 
-\(\frac{1}{6}\), models may differ
+<span class="math-inline"><sup>1</sup>∕<sub>6</sub></span>, models may differ
+
+</div>
+
+</div>
+
+</div>
+
+</div>
+
+</div>
+
+</div>
+
+</div>
+
+</div>
+
+</div>
+
+</div>
+
+</div>
+
+</div>
+
+</div>
+
+</div>
+
+</div>
+
+</div>
+
+</div>
+
+</div>
+
+</div>
+
+</div>
+
+</div>
+
+</div>
+
+</div>
+
+</div>
+
+</div>
+
+</div>
+
+</div>
+
+</div>
+
+</div>
+
+</div>
+
+</div>
+
+</div>
+
+</div>
+
+</div>
+
+</div>
+
+</div>
+
+</div>
+
+</div>
+
+</div>
+
+</div>
+
+</div>
+
+</div>
+
+</div>
+
+</div>
+
+</div>
+
+</div>
+
+</div>
+
+</div>
+
+</div>
+
+</div>
+
+</div>

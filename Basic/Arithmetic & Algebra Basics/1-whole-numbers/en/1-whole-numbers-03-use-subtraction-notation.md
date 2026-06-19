@@ -1,256 +1,351 @@
+<style>
+.math-inline {
+    font-style: italic;
+    padding: 2px 6px;
+    border-radius: 4px;
+    background: #f8f9fa;
+    font-family: Georgia, serif;
+}
+.math-display {
+    background: #f8f9fa;
+    border-left: 4px solid #4a90d9;
+    padding: 16px 20px;
+    margin: 16px 0;
+    border-radius: 6px;
+    font-size: 1.15em;
+    font-family: Georgia, serif;
+    text-align: center;
+    line-height: 2;
+    overflow-x: auto;
+}
+.example-box, .example {
+    background: #f0f8ff;
+    border-left: 4px solid #2e86de;
+    padding: 12px 20px;
+    margin: 16px 0;
+    border-radius: 6px;
+}
+.tryit-box, .tryit {
+    background: #f0fff4;
+    border-left: 4px solid #27ae60;
+    padding: 12px 20px;
+    margin: 16px 0;
+    border-radius: 6px;
+}
+.solution-box, .solution {
+    background: #fef9e7;
+    border-left: 4px solid #f39c12;
+    padding: 12px 20px;
+    margin: 12px 0;
+    border-radius: 6px;
+}
+.check-box, .check {
+    background: #fef9e7;
+    border-left: 4px solid #f39c12;
+    padding: 12px 20px;
+    margin: 12px 0;
+    border-radius: 6px;
+}
+.prep-quiz {
+    background: #fff3cd;
+    border: 1px solid #ffc107;
+    padding: 12px 20px;
+    margin: 16px 0;
+    border-radius: 6px;
+}
+.def-label, .definition-label {
+    font-weight: bold;
+    font-size: 1.1em;
+    margin: 20px 0 8px 0;
+    color: #2c3e50;
+    display: block;
+}
+.math-display sup, .math-inline sup { font-size: 0.75em; line-height: 0; }
+.math-display sub, .math-inline sub { font-size: 0.75em; line-height: 0; }
+</style>
+
+
+---
+
+
+---
+
 ## Use Subtraction Notation
 
-Suppose there are seven bananas in a bowl. Elana uses three of them to make a smoothie. How many bananas are left in the bowl? To answer the question, we subtract three from seven. When we subtract, we take one number away from another to find the **difference**. The notation we use to subtract \(3\) from \(7\) is
+
+Suppose there are seven bananas in a bowl. Elana uses three of them to make a smoothie. How many bananas are left in the bowl? To answer the question, we subtract three from seven. When we subtract, we take one number away from another to find the **difference**. The notation we use to subtract <span class="math-inline">3</span> from <span class="math-inline">7</span> is
 
 
-$$
+<div class="math-display">
 7-3
-$$
-
-We read \(7-3\) as *seven minus three* and the result is *the difference of seven and three*.
+</div>
 
 
-**Subtraction Notation**
+We read <span class="math-inline">7-3</span> as *seven minus three* and the result is *the difference of seven and three*.
+
+
+<div class="definition-label">**Subtraction Notation**</div>
+
 
 To describe subtraction, we can use symbols and words.
 
 
+<div class="example">
 **Example**
 
 
-Translate from math notation to words: ⓐ \(8-1\) ⓑ \(26-14\).
+Translate from math notation to words: ⓐ <span class="math-inline">8-1</span> ⓑ <span class="math-inline">26-14</span>.
 
 
-Solution
+<div class="solution">
+<span class="def-label">Solution</span>
+
 
   - ⓐ We read this as *eight minus one*. The result is *the difference of eight and one*.
   - ⓑ We read this as *twenty-six minus fourteen*. The result is *the difference of twenty-six and fourteen*.
 
 
+<div class="tryit">
 **Try It**
+
 
 Translate from math notation to words:
 
 
-  - ⓐ \(12-4\)
-  - ⓑ \(29-11\)
+  - ⓐ <span class="math-inline">12-4</span>
+  - ⓑ <span class="math-inline">29-11</span>
 
 
   - ⓐ twelve minus four; the difference of twelve and four
   - ⓑ twenty-nine minus eleven; the difference of twenty-nine and eleven
 
 
+<div class="tryit">
 **Try It**
+
 
 Translate from math notation to words:
 
 
-  - ⓐ \(11-2\)
-  - ⓑ \(29-12\)
+  - ⓐ <span class="math-inline">11-2</span>
+  - ⓑ <span class="math-inline">29-12</span>
 
 
   - ⓐ eleven minus two; the difference of eleven and two
   - ⓑ twenty-nine minus twelve; the difference of twenty-nine and twelve
 
 
+---
+
+
+---
+
 ## Model Subtraction of Whole Numbers
 
-A model can help us visualize the process of subtraction much as it did with addition. Again, we will use \(base-10\) blocks. Remember a block represents 1 and a rod represents 10. Let’s start by modeling the subtraction expression we just considered, \(7-3.\)
+
+A model can help us visualize the process of subtraction much as it did with addition. Again, we will use <span class="math-inline">base-10</span> blocks. Remember a block represents 1 and a rod represents 10. Let’s start by modeling the subtraction expression we just considered, <span class="math-inline">7-3.</span>
 
 
+<div class="example">
 **Example**
 
 
-Model the subtraction: \(8-2.\)
+Model the subtraction: <span class="math-inline">8-2.</span>
 
 
-Solution
+<div class="solution">
+<span class="def-label">Solution</span>
 
 
-    \(8-2\) means the difference of 8 and 2.
-
-
+    <span class="math-inline">8-2</span> means the difference of 8 and 2.
 
 
     Model the first, 8.
 
 
-
-
     Take away the second number, 2.
-
-
 
 
     Count the number of blocks remaining.
 
 
-
-
     There are 6 ones blocks left.
 
-    We have shown that \(8-2=6\).
+    We have shown that <span class="math-inline">8-2=6</span>.
 
 
-
+<div class="tryit">
 **Try It**
 
 
-Model: \(9-6.\)
+Model: <span class="math-inline">9-6.</span>
 
 
+<div class="tryit">
 **Try It**
 
 
-Model: \(6-1.\)
+Model: <span class="math-inline">6-1.</span>
 
 
+<div class="example">
 **Example**
 
 
-Model the subtraction: \(13-8.\)
+Model the subtraction: <span class="math-inline">13-8.</span>
 
 
-Solution
-
+<div class="solution">
+<span class="def-label">Solution</span>
 
 
     Model the first number, 13. We use 1 ten and 3 ones.
 
 
-
-
     Take away the second number, 8. However, there are not 8 ones, so we will exchange the 1 ten for 10 ones.
-
-
 
 
     Now we can take away 8 ones.
 
 
-
-
     Count the blocks remaining.
-
-
 
 
     There are five ones left.
 
-    We have shown that \(13-8=5\).
-
+    We have shown that <span class="math-inline">13-8=5</span>.
 
 
 As we did with addition, we can describe the models as ones blocks and tens rods, or we can simply say ones and tens.
 
 
+<div class="tryit">
 **Try It**
 
 
-Model the subtraction: \(12-7.\)
+Model the subtraction: <span class="math-inline">12-7.</span>
 
 
+<div class="tryit">
 **Try It**
 
 
-Model the subtraction: \(14-8.\)
+Model the subtraction: <span class="math-inline">14-8.</span>
 
 
+<div class="example">
 **Example**
 
 
-Model the subtraction: \(43-26.\)
+Model the subtraction: <span class="math-inline">43-26.</span>
 
 
-Solution
-Because \(43-26\) means \(43\) take away \(26,\) we begin by modeling the \(43.\)
-
-Now, we need to take away \(26,\) which is \(2\) tens and \(6\) ones. We cannot take away \(6\) ones from \(3\) ones. So, we exchange \(1\) ten for \(10\) ones.
-
-Now we can take away \(2\) tens and \(6\) ones.
-
-Count the number of blocks remaining. There is \(1\) ten and \(7\) ones, which is \(17.\)
-\(43-26=17\)
+<div class="solution">
+<span class="def-label">Solution</span>
 
 
+Because <span class="math-inline">43-26</span> means <span class="math-inline">43</span> take away <span class="math-inline">26,</span> we begin by modeling the <span class="math-inline">43.</span>
+
+Now, we need to take away <span class="math-inline">26,</span> which is <span class="math-inline">2</span> tens and <span class="math-inline">6</span> ones. We cannot take away <span class="math-inline">6</span> ones from <span class="math-inline">3</span> ones. So, we exchange <span class="math-inline">1</span> ten for <span class="math-inline">10</span> ones.
+
+Now we can take away <span class="math-inline">2</span> tens and <span class="math-inline">6</span> ones.
+
+Count the number of blocks remaining. There is <span class="math-inline">1</span> ten and <span class="math-inline">7</span> ones, which is <span class="math-inline">17.</span>
+<span class="math-inline">43-26=17</span>
+
+
+<div class="tryit">
 **Try It**
 
 
-Model the subtraction: \(42-27.\)
+Model the subtraction: <span class="math-inline">42-27.</span>
 
 
+<div class="tryit">
 **Try It**
 
 
-Model the subtraction: \(45-29.\)
+Model the subtraction: <span class="math-inline">45-29.</span>
 
+
+---
+
+
+---
 
 ## Subtract Whole Numbers
 
+
 Addition and subtraction are inverse operations. Addition undoes subtraction, and subtraction undoes addition.
 
-We know \(7-3=4\) because \(4+3=7.\) Knowing all the addition number facts will help with subtraction. Then we can check subtraction by adding. In the examples above, our subtractions can be checked by addition.
+We know <span class="math-inline">7-3=4</span> because <span class="math-inline">4+3=7.</span> Knowing all the addition number facts will help with subtraction. Then we can check subtraction by adding. In the examples above, our subtractions can be checked by addition.
 
 
-$$
+<div class="math-display">
 &  &  & because &  &  &  \\
  &  &  & because &  &  &  \\
 43 &  &  & because &  &  & 17
-$$
+</div>
 
 
+<div class="example">
 **Example**
 
 
 Subtract and then check by adding:
-  - ⓐ \(9-7\)
-  - ⓑ \(8-3.\)
+  - ⓐ <span class="math-inline">9-7</span>
+  - ⓑ <span class="math-inline">8-3.</span>
 
 
-Solution
+<div class="solution">
+<span class="def-label">Solution</span>
+
 
   ⓐ
 
 
-    \(9-7\)
+    <span class="math-inline">9-7</span>
 
 
     Subtract 7 from 9.
-    \(2\)
+    <span class="math-inline">2</span>
 
-Check with addition.
-\(2+7=9✓\)
+<div class="check-box">
+**Check with addition.
+<span class="math-inline">2+7=9✓</span>**
 
 
 ⓑ
 
 
-    \(8-3\)
+    <span class="math-inline">8-3</span>
 
 
     Subtract 3 from 8.
 
-    \(5\)
+    <span class="math-inline">5</span>
 
 Check with addition.
-\(5+3=8✓\)
+<span class="math-inline">5+3=8✓</span>
 
 
+<div class="tryit">
 **Try It**
 
 
 Subtract and then check by adding:
-\(7-0\)
+<span class="math-inline">7-0</span>
 
 
 7 − 0 = 7; 7 + 0 = 7
 
 
+<div class="tryit">
 **Try It**
 
 
 Subtract and then check by adding:
-\(6-2\)
+<span class="math-inline">6-2</span>
 
 
 6 − 2 = 4; 2 + 4 = 6
@@ -259,13 +354,15 @@ Subtract and then check by adding:
 To subtract numbers with more than one digit, it is usually easier to write the numbers vertically in columns just as we did for addition. Align the digits by place value, and then subtract each column starting with the ones and then working to the left.
 
 
+<div class="example">
 **Example**
 
 
-Subtract and then check by adding: \(89-61.\)
+Subtract and then check by adding: <span class="math-inline">89-61.</span>
 
 
-Solution
+<div class="solution">
+<span class="def-label">Solution</span>
 
 
     Write the numbers so the ones and tens digits line up vertically.
@@ -276,13 +373,12 @@ Solution
 
     Subtract the digits in each place value.
 
-Subtract the ones: \(9-1=8\)
-Subtract the tens: \(8-6=2\)
+Subtract the ones: <span class="math-inline">9-1=8</span>
+Subtract the tens: <span class="math-inline">8-6=2</span>
 
     \(89 \\
 \underset{____}{-61} \\
 28\)
-
 
 
 Check using addition.
@@ -294,28 +390,31 @@ Check using addition.
 Our answer is correct.
 
 
+<div class="tryit">
 **Try It**
 
 
-Subtract and then check by adding: \(86-54.\)
+Subtract and then check by adding: <span class="math-inline">86-54.</span>
 
 
 86 − 54 = 32 because 54 + 32 = 86
 
 
+<div class="tryit">
 **Try It**
 
 
-Subtract and then check by adding: \(99-74.\)
+Subtract and then check by adding: <span class="math-inline">99-74.</span>
 
 
 99 − 74 = 25 because 74 + 25 = 99
 
 
-When we modeled subtracting \(26\) from \(43,\) we exchanged \(1\) ten for \(10\) ones. When we do this without the model, we say we borrow \(1\) from the tens place and add \(10\) to the ones place.
+When we modeled subtracting <span class="math-inline">26</span> from <span class="math-inline">43,</span> we exchanged <span class="math-inline">1</span> ten for <span class="math-inline">10</span> ones. When we do this without the model, we say we borrow <span class="math-inline">1</span> from the tens place and add <span class="math-inline">10</span> to the ones place.
 
 
-**Find the difference of whole numbers.**
+<div class="definition-label">**Find the difference of whole numbers.**</div>
+
 
 - Write the numbers so each place value lines up vertically.
 
@@ -326,30 +425,27 @@ When we modeled subtracting \(26\) from \(43,\) we exchanged \(1\) ten for \(10\
 - Check by adding.
 
 
+<div class="example">
 **Example**
 
 
-Subtract: \(43-26.\)
+Subtract: <span class="math-inline">43-26.</span>
 
 
-Solution
-
+<div class="solution">
+<span class="def-label">Solution</span>
 
 
       Write the numbers so each place value lines up vertically.
 
 
-
       Subtract the ones. We cannot subtract 6 from 3, so we borrow 1 ten. This makes 3 tens and 13 ones. We write these numbers above each place and cross out the original digits.
 
 
-
-      Now we can subtract the ones. \(13-6=7.\) We write the 7 in the ones place in the difference.
-
+      Now we can subtract the ones. <span class="math-inline">13-6=7.</span> We write the 7 in the ones place in the difference.
 
 
-      Now we subtract the tens. \(3-2=1.\) We write the 1 in the tens place in the difference.
-
+      Now we subtract the tens. <span class="math-inline">3-2=1.</span> We write the 1 in the tens place in the difference.
 
 
       Check by adding.
@@ -358,52 +454,51 @@ Solution
  Our answer is correct.
 
 
-
-
-
+<div class="tryit">
 **Try It**
 
 
-Subtract and then check by adding: \(93-58.\)
+Subtract and then check by adding: <span class="math-inline">93-58.</span>
 
 
 93 − 58 = 35 because 58 + 35 = 93
 
 
+<div class="tryit">
 **Try It**
 
 
-Subtract and then check by adding: \(81-39.\)
+Subtract and then check by adding: <span class="math-inline">81-39.</span>
 
 
 81 − 39 = 42 because 42 + 39 = 81
 
 
+<div class="example">
 **Example**
 
 
-Subtract and then check by adding: \(207-64.\)
+Subtract and then check by adding: <span class="math-inline">207-64.</span>
 
 
-Solution
+<div class="solution">
+<span class="def-label">Solution</span>
 
 
     Write the numbers so each place value lines up vertically.
 
 
-
-
-Subtract the ones. \(7-4=3.\)
+Subtract the ones. <span class="math-inline">7-4=3.</span>
  Write the 3 in the ones place in the difference.
 
 
 Subtract the tens. We cannot subtract 6 from 0 so we borrow 1 hundred and add 10 tens to the 0 tens we had. This makes a total of 10 tens. We write 10 above the tens place and cross out the 0. Then we cross out the 2 in the hundreds place and write 1 above it.
 
 
-Now we subtract the tens. \(10-6=4.\) We write the 4 in the tens place in the difference.
+Now we subtract the tens. <span class="math-inline">10-6=4.</span> We write the 4 in the tens place in the difference.
 
 
-Finally, subtract the hundreds. There is  no digit in the hundreds place in the bottom number so we can imagine a 0 in that place. Since \(1-0=1,\) we write 1 in the hundreds place in the difference.
+Finally, subtract the hundreds. There is  no digit in the hundreds place in the bottom number so we can imagine a 0 in that place. Since <span class="math-inline">1-0=1,</span> we write 1 in the hundreds place in the difference.
 
 Check by adding.
 
@@ -411,57 +506,53 @@ Check by adding.
 Our answer is correct.
 
 
+<div class="tryit">
 **Try It**
 
 
-Subtract and then check by adding: \(439-52.\)
+Subtract and then check by adding: <span class="math-inline">439-52.</span>
 
 
 439 − 52 = 387 because 387 + 52 = 439
 
 
+<div class="tryit">
 **Try It**
 
 
-Subtract and then check by adding: \(318-75.\)
+Subtract and then check by adding: <span class="math-inline">318-75.</span>
 
 
 318 − 75 = 243 because 243 + 75 = 318
 
 
+<div class="example">
 **Example**
 
 
-Subtract and then check by adding: \(910-586.\)
+Subtract and then check by adding: <span class="math-inline">910-586.</span>
 
 
-Solution
+<div class="solution">
+<span class="def-label">Solution</span>
 
 
     Write the numbers so each place value lines up vertically.
 
 
-
-Subtract the ones. We cannot subtract 6 from 0, so we borrow 1 ten and add 10 ones to the 0 ones we had. This makes 10 ones. We write a 0 above the tens place and cross out the 1. We write the 10 above the ones place and cross out the 0. Now we can subtract the ones. \(10-6=4.\)
+Subtract the ones. We cannot subtract 6 from 0, so we borrow 1 ten and add 10 ones to the 0 ones we had. This makes 10 ones. We write a 0 above the tens place and cross out the 1. We write the 10 above the ones place and cross out the 0. Now we can subtract the ones. <span class="math-inline">10-6=4.</span>
 
 
     Write the 4 in the ones place of the difference.
 
 
-
-
     Subtract the tens. We cannot subtract 8 from 0, so we borrow 1 hundred and add 10 tens to the 0 tens we had, which gives us 10 tens. Write 8 above the hundreds place and cross out the 9. Write 10 above the tens place.
 
 
+    Now we can subtract the tens. <span class="math-inline">10-8=2</span>.
 
 
-    Now we can subtract the tens. \(10-8=2\).
-
-
-
-
-    Subtract the hundreds place. \(8-5=3\) Write the 3 in the hundreds place in the difference.
-
+    Subtract the hundreds place. <span class="math-inline">8-5=3</span> Write the 3 in the hundreds place in the difference.
 
 
     Check by adding.
@@ -470,60 +561,58 @@ Subtract the ones. We cannot subtract 6 from 0, so we borrow 1 ten and add 10 on
 Our answer is correct.
 
 
-
+<div class="tryit">
 **Try It**
 
 
-Subtract and then check by adding: \(832-376.\)
+Subtract and then check by adding: <span class="math-inline">832-376.</span>
 
 
 832 − 376 = 456 because 456 + 376 = 832
 
 
+<div class="tryit">
 **Try It**
 
 
-Subtract and then check by adding: \(847-578.\)
+Subtract and then check by adding: <span class="math-inline">847-578.</span>
 
 
 847 − 578 = 269 because 269 + 578 = 847
 
 
+<div class="example">
 **Example**
 
 
-Subtract and then check by adding: \(2,162-479.\)
+Subtract and then check by adding: <span class="math-inline">2,162-479.</span>
 
 
-Solution
+<div class="solution">
+<span class="def-label">Solution</span>
 
 
     Write the numbers so each place value lines up vertically.
 
 
-
-
     Subtract the ones. Since we cannot subtract 9 from 2, borrow 1 ten and add 10 ones to the 2 ones to make 12 ones. Write 5 above the tens place and cross out the 6. Write 12 above the ones place and cross out the 2.
 
 
-
-
     Now we can subtract the ones.
-    \(12-9=3\)
+    <span class="math-inline">12-9=3</span>
 
 
     Write 3 in the ones place in the difference.
 
 
-
 Subtract the tens. Since we cannot subtract 7 from 5, borrow 1 hundred and add 10 tens to the 5 tens to make 15 tens. Write 0 above the hundreds place and cross out the 1. Write 15 above the tens place.
-Now we can subtract the tens.\(15-7=8\)
+Now we can subtract the tens.<span class="math-inline">15-7=8</span>
 
 Write 8 in the tens place in the difference.
 
 Now we can subtract the hundreds.
 Write 6 in the hundreds place in the difference.
-Subtract the thousands. There is no digit in the thousands place of the bottom number, so we imagine a 0. \(1-0=1.\) Write 1 in the thousands place of the difference.
+Subtract the thousands. There is no digit in the thousands place of the bottom number, so we imagine a 0. <span class="math-inline">1-0=1.</span> Write 1 in the thousands place of the difference.
 Check by adding.
 
 \(\\
@@ -534,43 +623,52 @@ Check by adding.
 Our answer is correct.
 
 
+<div class="tryit">
 **Try It**
 
 
-Subtract and then check by adding: \(4,585-697.\)
+Subtract and then check by adding: <span class="math-inline">4,585-697.</span>
 
 
 4,585 − 697 = 3,888 because 3,888 + 697 = 4,585
 
 
+<div class="tryit">
 **Try It**
 
 
-Subtract and then check by adding: \(5,637-899.\)
+Subtract and then check by adding: <span class="math-inline">5,637-899.</span>
 
 
 5,637 − 899 = 4,738 because 4,738 + 899 = 5,637
 
 
+---
+
+
+---
+
 ## Translate Word Phrases to Math Notation
+
 
 As with addition, **word phrases** can tell us to operate on two numbers using subtraction. To translate from a word phrase to math notation, we look for key words that indicate subtraction. Some of the words that indicate subtraction are listed in .
 
 
+<div class="example">
 **Example**
 
 
 Translate and then simplify:
 
-  - ⓐ the difference of \(13\) and \(8\)
-  - ⓑ subtract \(24\) from \(43\)
+  - ⓐ the difference of <span class="math-inline">13</span> and <span class="math-inline">8</span>
+  - ⓑ subtract <span class="math-inline">24</span> from <span class="math-inline">43</span>
 
 
-Solution
+<div class="solution">
+<span class="def-label">Solution</span>
+
 
   - ⓐ The word *difference* tells us to subtract the two numbers. The numbers stay in the same order as in the phrase.
-
-
 
 
     the difference of 13 and 8
@@ -578,7 +676,7 @@ Solution
 
     Translate.
 
-    \(13-8\)
+    <span class="math-inline">13-8</span>
 
 
     Simplify.
@@ -586,10 +684,7 @@ Solution
     5
 
 
-
   - ⓑ The words *subtract* *from* tells us to take the first number away from the second. We must be careful to get the order correct.
-
-
 
 
     subtract 24 from 43
@@ -597,7 +692,7 @@ Solution
 
     Translate.
 
-    \(43-24\)
+    <span class="math-inline">43-24</span>
 
 
     Simplify.
@@ -605,45 +700,56 @@ Solution
     19
 
 
-
+<div class="tryit">
 **Try It**
 
 
 Translate and simplify:
 
-  - ⓐ the difference of \(14\) and \(9\)
-  - ⓑ subtract \(21\) from \(37\)
+  - ⓐ the difference of <span class="math-inline">14</span> and <span class="math-inline">9</span>
+  - ⓑ subtract <span class="math-inline">21</span> from <span class="math-inline">37</span>
 
 
   - ⓐ 14 − 9 = 5
   - ⓑ 37 − 21 = 16
 
 
+<div class="tryit">
 **Try It**
 
 
 Translate and simplify:
 
-  - ⓐ \(11\) decreased by \(6\)
-  - ⓑ \(18\) less than \(67\)
+  - ⓐ <span class="math-inline">11</span> decreased by <span class="math-inline">6</span>
+  - ⓑ <span class="math-inline">18</span> less than <span class="math-inline">67</span>
 
 
   - ⓐ 11 − 6 = 5
   - ⓑ 67 − 18 = 49
 
 
+---
+
+
+---
+
 ## Subtract Whole Numbers in Applications
+
 
 To solve **applications** with subtraction, we will use the same plan that we used with addition. First, we need to determine what we are asked to find. Then we write a phrase that gives the information to find it. We translate the phrase into math notation and then simplify to get the answer. Finally, we write a sentence to answer the question, using the appropriate units.
 
 
+<div class="example">
 **Example**
 
 
-The temperature in Chicago one morning was \(73\) degrees Fahrenheit. A cold front arrived and by noon the temperature was \(27\) degrees Fahrenheit. What was the difference between the temperature in the morning and the temperature at noon?
+The temperature in Chicago one morning was <span class="math-inline">73</span> degrees Fahrenheit. A cold front arrived and by noon the temperature was <span class="math-inline">27</span> degrees Fahrenheit. What was the difference between the temperature in the morning and the temperature at noon?
 
 
-Solution
+<div class="solution">
+<span class="def-label">Solution</span>
+
+
 We are asked to find the difference between the morning temperature and the noon temperature.
 
 
@@ -654,12 +760,10 @@ We are asked to find the difference between the morning temperature and the noon
 
     Translate to math notation. *Difference* tells us to subtract.
 
-    \(73-27\)
+    <span class="math-inline">73-27</span>
 
 
     Then we do the subtraction.
-
-
 
 
     Write a sentence to answer the question.
@@ -667,32 +771,37 @@ We are asked to find the difference between the morning temperature and the noon
     The difference in temperatures was 46 degrees Fahrenheit.
 
 
-
+<div class="tryit">
 **Try It**
 
 
-The high temperature on \(June 1^{st}\) in Boston was \(77\) degrees Fahrenheit, and the low temperature was \(58\) degrees Fahrenheit. What was the difference between the high and low temperatures?
+The high temperature on <span class="math-inline">June 1<sup>st</sup></span> in Boston was <span class="math-inline">77</span> degrees Fahrenheit, and the low temperature was <span class="math-inline">58</span> degrees Fahrenheit. What was the difference between the high and low temperatures?
 
 
 The difference is 19 degrees Fahrenheit.
 
 
+<div class="tryit">
 **Try It**
 
 
-The weather forecast for June \(2\) in St Louis predicts a high temperature of \(90\) degrees Fahrenheit and a low of \(73\) degrees Fahrenheit. What is the difference between the predicted high and low temperatures?
+The weather forecast for June <span class="math-inline">2</span> in St Louis predicts a high temperature of <span class="math-inline">90</span> degrees Fahrenheit and a low of <span class="math-inline">73</span> degrees Fahrenheit. What is the difference between the predicted high and low temperatures?
 
 
 The difference is 17 degrees Fahrenheit.
 
 
+<div class="example">
 **Example**
 
 
-A washing machine is on sale for \($399.\) Its regular price is \($588.\) What is the difference between the regular price and the sale price?
+A washing machine is on sale for <span class="math-inline">$399.</span> Its regular price is <span class="math-inline">$588.</span> What is the difference between the regular price and the sale price?
 
 
-Solution
+<div class="solution">
+<span class="def-label">Solution</span>
+
+
 We are asked to find the difference between the regular price and the sale price.
 
 
@@ -703,12 +812,10 @@ We are asked to find the difference between the regular price and the sale price
 
     Translate to math notation.
 
-    \(588-399\)
+    <span class="math-inline">588-399</span>
 
 
     Subtract.
-
-
 
 
     Write a sentence to answer the question.
@@ -716,26 +823,28 @@ We are asked to find the difference between the regular price and the sale price
     The difference between the regular price and the sale price is $189.
 
 
-
+<div class="tryit">
 **Try It**
 
 
-A television set is on sale for \($499.\) Its regular price is \($648.\) What is the difference between the regular price and the sale price?
+A television set is on sale for <span class="math-inline">$499.</span> Its regular price is <span class="math-inline">$648.</span> What is the difference between the regular price and the sale price?
 
 
 The difference is $149.
 
 
+<div class="tryit">
 **Try It**
 
 
-A patio set is on sale for \($149.\) Its regular price is \($285.\) What is the difference between the regular price and the sale price?
+A patio set is on sale for <span class="math-inline">$149.</span> Its regular price is <span class="math-inline">$285.</span> What is the difference between the regular price and the sale price?
 
 
 The difference is $136.
 
 
-**ACCESS ADDITIONAL ONLINE RESOURCES**
+<div class="definition-label">**ACCESS ADDITIONAL ONLINE RESOURCES**</div>
+
 
 - Model subtraction of two-digit whole numbers
 
@@ -743,6 +852,11 @@ The difference is $136.
 
 - Subtract Whole Numbers
 
+
+---
+
+
+---
 
 ## Key Concepts
 
@@ -762,31 +876,31 @@ The difference is $136.
 In the following exercises, translate from math notation to words.
 
 
-\(15-9\)
+<span class="math-inline">15-9</span>
 
 
 fifteen minus nine; the difference of fifteen and nine
 
 
-\(18-16\)
+<span class="math-inline">18-16</span>
 
 
-\(42-35\)
+<span class="math-inline">42-35</span>
 
 
 forty-two minus thirty-five; the difference of forty-two and thirty-five
 
 
-\(83-64\)
+<span class="math-inline">83-64</span>
 
 
-\(675-350\)
+<span class="math-inline">675-350</span>
 
 
 six hundred seventy-five minus three hundred fifty; the difference of six hundred seventy-five and three hundred fifty
 
 
-\(790-525\)
+<span class="math-inline">790-525</span>
 
 
 *Model Subtraction of Whole Numbers*
@@ -794,40 +908,40 @@ six hundred seventy-five minus three hundred fifty; the difference of six hundre
 In the following exercises, model the subtraction.
 
 
-\(5-2\)
+<span class="math-inline">5-2</span>
 
 
-\(8-4\)
+<span class="math-inline">8-4</span>
 
 
-\(6-3\)
+<span class="math-inline">6-3</span>
 
 
-\(7-5\)
+<span class="math-inline">7-5</span>
 
 
-\(18-5\)
+<span class="math-inline">18-5</span>
 
 
-\(19-8\)
+<span class="math-inline">19-8</span>
 
 
-\(17-8\)
+<span class="math-inline">17-8</span>
 
 
-\(17-9\)
+<span class="math-inline">17-9</span>
 
 
-\(35-13\)
+<span class="math-inline">35-13</span>
 
 
-\(32-11\)
+<span class="math-inline">32-11</span>
 
 
-\(61-47\)
+<span class="math-inline">61-47</span>
 
 
-\(55-36\)
+<span class="math-inline">55-36</span>
 
 
 *Subtract Whole Numbers*
@@ -835,112 +949,112 @@ In the following exercises, model the subtraction.
 In the following exercises, subtract and then check by adding.
 
 
-\(9-4\)
+<span class="math-inline">9-4</span>
 
 
 5
 
 
-\(9-3\)
+<span class="math-inline">9-3</span>
 
 
-\(8-0\)
+<span class="math-inline">8-0</span>
 
 
 8
 
 
-\(2-0\)
+<span class="math-inline">2-0</span>
 
 
-\(38-16\)
+<span class="math-inline">38-16</span>
 
 
 22
 
 
-\(45-21\)
+<span class="math-inline">45-21</span>
 
 
-\(85-52\)
+<span class="math-inline">85-52</span>
 
 
 33
 
 
-\(99-47\)
+<span class="math-inline">99-47</span>
 
 
-\(493-370\)
+<span class="math-inline">493-370</span>
 
 
 123
 
 
-\(268-106\)
+<span class="math-inline">268-106</span>
 
 
-\(5,946-4,625\)
+<span class="math-inline">5,946-4,625</span>
 
 
 1,321
 
 
-\(7,775-3,251\)
+<span class="math-inline">7,775-3,251</span>
 
 
-\(75-47\)
+<span class="math-inline">75-47</span>
 
 
 28
 
 
-\(63-59\)
+<span class="math-inline">63-59</span>
 
 
-\(461-239\)
+<span class="math-inline">461-239</span>
 
 
 222
 
 
-\(486-257\)
+<span class="math-inline">486-257</span>
 
 
-\(525-179\)
+<span class="math-inline">525-179</span>
 
 
 346
 
 
-\(542-288\)
+<span class="math-inline">542-288</span>
 
 
-\(6,318-2,799\)
+<span class="math-inline">6,318-2,799</span>
 
 
 3,519
 
 
-\(8,153-3,978\)
+<span class="math-inline">8,153-3,978</span>
 
 
-\(2,150-964\)
+<span class="math-inline">2,150-964</span>
 
 
 1,186
 
 
-\(4,245-899\)
+<span class="math-inline">4,245-899</span>
 
 
-\(43,650-8,982\)
+<span class="math-inline">43,650-8,982</span>
 
 
 34,668
 
 
-\(35,162-7,885\)
+<span class="math-inline">35,162-7,885</span>
 
 
 *Translate Word Phrases to Algebraic Expressions*
@@ -948,76 +1062,76 @@ In the following exercises, subtract and then check by adding.
 In the following exercises, translate and simplify.
 
 
-The difference of \(10\) and \(3\)
+The difference of <span class="math-inline">10</span> and <span class="math-inline">3</span>
 
 
 10 − 3; 7
 
 
-The difference of \(12\) and \(8\)
+The difference of <span class="math-inline">12</span> and <span class="math-inline">8</span>
 
 
-The difference of \(15\) and \(4\)
+The difference of <span class="math-inline">15</span> and <span class="math-inline">4</span>
 
 
 15 − 4; 11
 
 
-The difference of \(18\) and \(7\)
+The difference of <span class="math-inline">18</span> and <span class="math-inline">7</span>
 
 
-Subtract \(6\) from \(9\)
+Subtract <span class="math-inline">6</span> from <span class="math-inline">9</span>
 
 
 9 − 6; 3
 
 
-Subtract \(8\) from \(9\)
+Subtract <span class="math-inline">8</span> from <span class="math-inline">9</span>
 
 
-Subtract \(28\) from \(75\)
+Subtract <span class="math-inline">28</span> from <span class="math-inline">75</span>
 
 
 75 − 28; 47
 
 
-Subtract \(59\) from \(81\)
+Subtract <span class="math-inline">59</span> from <span class="math-inline">81</span>
 
 
-\(45\) decreased by \(20\)
+<span class="math-inline">45</span> decreased by <span class="math-inline">20</span>
 
 
 45 − 20; 25
 
 
-\(37\) decreased by \(24\)
+<span class="math-inline">37</span> decreased by <span class="math-inline">24</span>
 
 
-\(92\) decreased by \(67\)
+<span class="math-inline">92</span> decreased by <span class="math-inline">67</span>
 
 
 92 − 67; 25
 
 
-\(75\) decreased by \(49\)
+<span class="math-inline">75</span> decreased by <span class="math-inline">49</span>
 
 
-\(12\) less than \(16\)
+<span class="math-inline">12</span> less than <span class="math-inline">16</span>
 
 
 16 − 12; 4
 
 
-\(15\) less than \(19\)
+<span class="math-inline">15</span> less than <span class="math-inline">19</span>
 
 
-\(38\) less than \(61\)
+<span class="math-inline">38</span> less than <span class="math-inline">61</span>
 
 
 61 − 38; 23
 
 
-\(47\) less than \(62\)
+<span class="math-inline">47</span> less than <span class="math-inline">62</span>
 
 
 *Mixed Practice*
@@ -1025,40 +1139,40 @@ Subtract \(59\) from \(81\)
 In the following exercises, simplify.
 
 
-\(76-47\)
+<span class="math-inline">76-47</span>
 
 
 29
 
 
-\(91-53\)
+<span class="math-inline">91-53</span>
 
 
-\(256-184\)
+<span class="math-inline">256-184</span>
 
 
 72
 
 
-\(305-262\)
+<span class="math-inline">305-262</span>
 
 
-\(719+341\)
+<span class="math-inline">719+341</span>
 
 
 1,060
 
 
-\(647+528\)
+<span class="math-inline">647+528</span>
 
 
-\(2,015-1,993\)
+<span class="math-inline">2,015-1,993</span>
 
 
 22
 
 
-\(2,020-1,984\)
+<span class="math-inline">2,020-1,984</span>
 
 In the following exercises, translate and simplify.
 
@@ -1072,22 +1186,22 @@ Seventy-five more than thirty-five
 Sixty more than ninety-three
 
 
-\(13\) less than \(41\)
+<span class="math-inline">13</span> less than <span class="math-inline">41</span>
 
 
 41 − 13; 28
 
 
-\(28\) less than \(36\)
+<span class="math-inline">28</span> less than <span class="math-inline">36</span>
 
 
-The difference of \(100\) and \(76\)
+The difference of <span class="math-inline">100</span> and <span class="math-inline">76</span>
 
 
 100 − 76; 24
 
 
-The difference of \(1,000\) and \(945\)
+The difference of <span class="math-inline">1,000</span> and <span class="math-inline">945</span>
 
 
 *Subtract Whole Numbers in Applications*
@@ -1095,52 +1209,52 @@ The difference of \(1,000\) and \(945\)
 In the following exercises, solve.
 
 
-*Temperature* The high temperature on June \(2\) in Las Vegas was \(80\) degrees and the low temperature was \(63\) degrees. What was the difference between the high and low temperatures?
+*Temperature* The high temperature on June <span class="math-inline">2</span> in Las Vegas was <span class="math-inline">80</span> degrees and the low temperature was <span class="math-inline">63</span> degrees. What was the difference between the high and low temperatures?
 
 
 The difference between the high and low temperature was 17 degrees
 
 
-*Temperature* The high temperature on June \(1\) in Phoenix was \(97\) degrees and the low was \(73\) degrees. What was the difference between the high and low temperatures?
+*Temperature* The high temperature on June <span class="math-inline">1</span> in Phoenix was <span class="math-inline">97</span> degrees and the low was <span class="math-inline">73</span> degrees. What was the difference between the high and low temperatures?
 
 
-*Class size* Olivia’s third grade class has \(35\) children. Last year, her second grade class had \(22\) children. What is the difference between the number of children in Olivia’s third grade class and her second grade class?
+*Class size* Olivia’s third grade class has <span class="math-inline">35</span> children. Last year, her second grade class had <span class="math-inline">22</span> children. What is the difference between the number of children in Olivia’s third grade class and her second grade class?
 
 
 The difference between the third grade and second grade was 13 children.
 
 
-*Class size* There are \(82\) students in the school band and \(46\) in the school orchestra. What is the difference between the number of students in the band and the orchestra?
+*Class size* There are <span class="math-inline">82</span> students in the school band and <span class="math-inline">46</span> in the school orchestra. What is the difference between the number of students in the band and the orchestra?
 
 
-*Shopping* A mountain bike is on sale for \($399.\) Its regular price is \($650.\) What is the difference between the regular price and the sale price?
+*Shopping* A mountain bike is on sale for <span class="math-inline">$399.</span> Its regular price is <span class="math-inline">$650.</span> What is the difference between the regular price and the sale price?
 
 
 The difference between the regular price and sale price is $251.
 
 
-*Shopping* A mattress set is on sale for \($755.\) Its regular price is \($1,600.\) What is the difference between the regular price and the sale price?
+*Shopping* A mattress set is on sale for <span class="math-inline">$755.</span> Its regular price is <span class="math-inline">$1,600.</span> What is the difference between the regular price and the sale price?
 
 
-*Savings* John wants to buy a laptop that costs \($840.\) He has \($685\) in his savings account. How much more does he need to save in order to buy the laptop?
+*Savings* John wants to buy a laptop that costs <span class="math-inline">$840.</span> He has <span class="math-inline">$685</span> in his savings account. How much more does he need to save in order to buy the laptop?
 
 
 John needs to save $155 more.
 
 
-*Banking* Mason had \($1,125\) in his checking account. He spent \($892.\) How much money does he have left?
+*Banking* Mason had <span class="math-inline">$1,125</span> in his checking account. He spent <span class="math-inline">$892.</span> How much money does he have left?
 
 
 ### Everyday Math
 
 
-*Road trip* Noah was driving from Philadelphia to Cincinnati, a distance of \(502\) miles. He drove \(115\) miles, stopped for gas, and then drove another \(230\) miles before lunch. How many more miles did he have to travel?
+*Road trip* Noah was driving from Philadelphia to Cincinnati, a distance of <span class="math-inline">502</span> miles. He drove <span class="math-inline">115</span> miles, stopped for gas, and then drove another <span class="math-inline">230</span> miles before lunch. How many more miles did he have to travel?
 
 
 157 miles
 
 
-*Test Scores* Sara needs \(350\) points to pass her course. She scored \(75,50,70, and 80\) on her first four tests. How many more points does Sara need to pass the course?
+*Test Scores* Sara needs <span class="math-inline">350</span> points to pass her course. She scored <span class="math-inline">75,50,70, and 80</span> on her first four tests. How many more points does Sara need to pass the course?
 
 
 ### Writing Exercises
@@ -1163,25 +1277,138 @@ How does knowing addition facts help you to subtract numbers?
 ⓑ What does this checklist tell you about your mastery of this section? What steps will you take to improve?
 
 
+<div class="prep-quiz">
 **Be Prepared!**
+
 
 Before you get started, take this readiness quiz.
 
 
-Add: \(1,683+479.\)
+Add: <span class="math-inline">1,683+479.</span>
 
 If you missed this problem, review .
 
 
-\(2,162\)
+<span class="math-inline">2,162</span>
 
 
+<div class="prep-quiz">
 **Be Prepared!**
 
 
-Subtract: \(605-321.\)
+Subtract: <span class="math-inline">605-321.</span>
 
 If you missed this problem, review .
 
 
-\(284\)
+<span class="math-inline">284</span>
+
+</div>
+
+</div>
+
+</div>
+
+</div>
+
+</div>
+
+</div>
+
+</div>
+
+</div>
+
+</div>
+
+</div>
+
+</div>
+
+</div>
+
+</div>
+
+</div>
+
+</div>
+
+</div>
+
+</div>
+
+</div>
+
+</div>
+
+</div>
+
+</div>
+
+</div>
+
+</div>
+
+</div>
+
+</div>
+
+</div>
+
+</div>
+
+</div>
+
+</div>
+
+</div>
+
+</div>
+
+</div>
+
+</div>
+
+</div>
+
+</div>
+
+</div>
+
+</div>
+
+</div>
+
+</div>
+
+</div>
+
+</div>
+
+</div>
+
+</div>
+
+</div>
+
+</div>
+
+</div>
+
+</div>
+
+</div>
+
+</div>
+
+</div>
+
+</div>
+
+</div>
+
+</div>
+
+</div>
+
+</div>

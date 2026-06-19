@@ -1,17 +1,85 @@
 # Decimals
 
+<style>
+.math-inline {
+    font-style: italic;
+    padding: 2px 6px;
+    border-radius: 4px;
+    background: #f8f9fa;
+    font-family: Georgia, serif;
+}
+.math-display {
+    background: #f8f9fa;
+    border-left: 4px solid #4a90d9;
+    padding: 16px 20px;
+    margin: 16px 0;
+    border-radius: 6px;
+    font-size: 1.15em;
+    font-family: Georgia, serif;
+    text-align: center;
+    line-height: 2;
+    overflow-x: auto;
+}
+.example-box, .example {
+    background: #f0f8ff;
+    border-left: 4px solid #2e86de;
+    padding: 12px 20px;
+    margin: 16px 0;
+    border-radius: 6px;
+}
+.tryit-box, .tryit {
+    background: #f0fff4;
+    border-left: 4px solid #27ae60;
+    padding: 12px 20px;
+    margin: 16px 0;
+    border-radius: 6px;
+}
+.solution-box, .solution {
+    background: #fef9e7;
+    border-left: 4px solid #f39c12;
+    padding: 12px 20px;
+    margin: 12px 0;
+    border-radius: 6px;
+}
+.check-box, .check {
+    background: #fef9e7;
+    border-left: 4px solid #f39c12;
+    padding: 12px 20px;
+    margin: 12px 0;
+    border-radius: 6px;
+}
+.prep-quiz {
+    background: #fff3cd;
+    border: 1px solid #ffc107;
+    padding: 12px 20px;
+    margin: 16px 0;
+    border-radius: 6px;
+}
+.def-label, .definition-label {
+    font-weight: bold;
+    font-size: 1.1em;
+    margin: 20px 0 8px 0;
+    color: #2c3e50;
+    display: block;
+}
+.math-display sup, .math-inline sup { font-size: 0.75em; line-height: 0; }
+.math-display sub, .math-inline sub { font-size: 0.75em; line-height: 0; }
+</style>
+
 
 *The price of a gallon of gasoline is written as a decimal number. (credit: Mark Turnauckus, Flickr)*
 
 Gasoline price changes all the time. They might go down for a period of time, but then they usually rise again. One thing that stays the same is that the price is not usually a whole number. Instead, it is shown using a decimal point to describe the cost in dollars and cents. We use decimal numbers all the time, especially when dealing with money. In this chapter, we will explore decimal numbers and how to perform operations using them.
 
 
+<div class="prep-quiz">
 **Be Prepared!**
+
 
 Before you get started, take this readiness quiz.
 
 
-Name the number \(4,926,015\) in words.
+Name the number <span class="math-inline">4,926,015</span> in words.
 
 If you missed this problem, review .
 
@@ -19,32 +87,37 @@ If you missed this problem, review .
 Four million, nine hundred twenty-six thousand, fifteen
 
 
+<div class="prep-quiz">
 **Be Prepared!**
 
 
-Round \(748\) to the nearest ten.
+Round <span class="math-inline">748</span> to the nearest ten.
 
 If you missed this problem, review .
 
 
-\(750\)
+<span class="math-inline">750</span>
 
 
+<div class="prep-quiz">
 **Be Prepared!**
 
 
-Locate \(\frac{3}{10}\) on a number line.
+Locate <span class="math-inline"><sup>3</sup>∕<sub>10</sub></span> on a number line.
 
 If you missed this problem, review .
 
+
+---
 
 ## Name Decimals
 
-You probably already know quite a bit about decimals based on your experience with money. Suppose you buy a sandwich and a bottle of water for lunch. If the sandwich costs \($3.45\), the bottle of water costs \($1.25\), and the total sales tax is \($0.33\), what is the total cost of your lunch?
 
-The total is \($5.03.\) Suppose you pay with a \($5\) bill and \(3\) pennies. Should you wait for change? No, \($5\) and \(3\) pennies is the same as \($5.03.\)
+You probably already know quite a bit about decimals based on your experience with money. Suppose you buy a sandwich and a bottle of water for lunch. If the sandwich costs <span class="math-inline">$3.45</span>, the bottle of water costs <span class="math-inline">$1.25</span>, and the total sales tax is <span class="math-inline">$0.33</span>, what is the total cost of your lunch?
 
-Because \(100 pennies=$1,\) each penny is worth \(\frac{1}{100}\) of a dollar. We write the value of one penny as \($0.01,\) since \(0.01=\frac{1}{100}.\)
+The total is <span class="math-inline">$5.03.</span> Suppose you pay with a <span class="math-inline">$5</span> bill and <span class="math-inline">3</span> pennies. Should you wait for change? No, <span class="math-inline">$5</span> and <span class="math-inline">3</span> pennies is the same as <span class="math-inline">$5.03.</span>
+
+Because <span class="math-inline">100 pennies=$1,</span> each penny is worth <span class="math-inline"><sup>1</sup>∕<sub>100</sub></span> of a dollar. We write the value of one penny as <span class="math-inline">$0.01,</span> since <span class="math-inline">0.01=<sup>1</sup>∕<sub>100</sub>.</span>
 
 Writing a number with a decimal is known as decimal notation. It is a way of showing parts of a whole when the whole is a power of ten. In other words, decimals are another way of writing fractions whose denominators are powers of ten. Just as the counting numbers are based on powers of ten, decimals are based on powers of ten.  shows the counting numbers.
 
@@ -52,7 +125,7 @@ Writing a number with a decimal is known as decimal notation. It is a way of sho
 How are decimals related to fractions?  shows the relation.
 
 
-When we name a whole number, the name corresponds to the place value based on the powers of ten. In Whole Numbers, we learned to read \(10,000\) as *ten thousand*. Likewise, the names of the decimal places correspond to their **fraction** values. Notice how the place value names in  relate to the names of the fractions from .
+When we name a whole number, the name corresponds to the place value based on the powers of ten. In Whole Numbers, we learned to read <span class="math-inline">10,000</span> as *ten thousand*. Likewise, the names of the decimal places correspond to their **fraction** values. Notice how the place value names in  relate to the names of the fractions from .
 
 
 *This chart illustrates place values to the left and right of the decimal point.*
@@ -63,7 +136,7 @@ Notice two important facts shown in .
 
 - The tenths place is the first place to the right of the decimal, but the tens place is two places to the left of the decimal.
 
-Remember that \($5.03\) lunch? We read \($5.03\) as *five dollars and three cents*. Naming decimals (those that don’t represent money) is done in a similar way. We read the number \(5.03\) as *five and three hundredths*.
+Remember that <span class="math-inline">$5.03</span> lunch? We read <span class="math-inline">$5.03</span> as *five dollars and three cents*. Naming decimals (those that don’t represent money) is done in a similar way. We read the number <span class="math-inline">5.03</span> as *five and three hundredths*.
 
 We sometimes need to translate a number written in **decimal notation** into words. As shown in , we write the amount on a check in both words and numbers.
 
@@ -71,10 +144,11 @@ We sometimes need to translate a number written in **decimal notation** into wor
 *When we write a check, we write the amount as a decimal number as well as in words. The bank looks at the check to make sure both numbers match. This helps prevent errors.*
 
 
-The number \(15.68\) is read *fifteen and sixty-eight hundredths*.
+The number <span class="math-inline">15.68</span> is read *fifteen and sixty-eight hundredths*.
 
 
-**Name a decimal number.**
+<div class="definition-label">**Name a decimal number.**</div>
+
 
 -  Name the number to the left of the decimal point.
 
@@ -85,15 +159,15 @@ The number \(15.68\) is read *fifteen and sixty-eight hundredths*.
 -  Name the decimal place of the last digit.
 
 
+<div class="example">
 **Example**
 
 
-Name each decimal: ⓐ \(4.3\) ⓑ \(2.45\) ⓒ \(0.009\) ⓓ \(−15.571.\)
+Name each decimal: ⓐ <span class="math-inline">4.3</span> ⓑ <span class="math-inline">2.45</span> ⓒ <span class="math-inline">0.009</span> ⓓ <span class="math-inline">−15.571.</span>
 
 
-Solution
-
-
+<div class="solution">
+**Solution**
 
 
 ⓐ
@@ -118,8 +192,6 @@ Name the decimal place of the last digit.
 four and three tenths
 
 
-
-
 ⓑ
 
 
@@ -142,8 +214,6 @@ Name the decimal place of the last digit.
 two and forty-five hundredths
 
 
-
-
 ⓒ
 
 
@@ -162,12 +232,10 @@ Name the decimal place of the last digit.
 nine thousandths
 
 
-
-
 ⓓ
 
 
-\(-15.571\)
+<span class="math-inline">-15.571</span>
 
 
 Name the number to the left of the decimal point.
@@ -186,11 +254,12 @@ Name the decimal place of the last digit.
 negative fifteen and five hundred seventy-one thousandths
 
 
+<div class="tryit">
 **Try It**
 
 
 Name each decimal:
-ⓐ \(6.7\) ⓑ \(19.58\) ⓒ \(0.018\) ⓓ \(−2.053\)
+ⓐ <span class="math-inline">6.7</span> ⓑ <span class="math-inline">19.58</span> ⓒ <span class="math-inline">0.018</span> ⓓ <span class="math-inline">−2.053</span>
 
 
   - ⓐ six and seven tenths
@@ -199,11 +268,12 @@ Name each decimal:
   - ⓓ negative two and fifty-three thousandths
 
 
+<div class="tryit">
 **Try It**
 
 
 Name each decimal:
-ⓐ \(5.8\) ⓑ \(3.57\) ⓒ \(0.005\) ⓓ \(−13.461\)
+ⓐ <span class="math-inline">5.8</span> ⓑ <span class="math-inline">3.57</span> ⓒ <span class="math-inline">0.005</span> ⓓ <span class="math-inline">−13.461</span>
 
 
   -  ⓐ five and eight tenths
@@ -212,22 +282,25 @@ Name each decimal:
   - ⓓ negative thirteen and four hundred sixty-one thousandths
 
 
+---
+
 ## Write Decimals
+
 
 Now we will translate the name of a decimal number into decimal notation. We will reverse the procedure we just used.
 
 Let’s start by writing the number six and seventeen hundredths:
 
 
+<div class="example">
 **Example**
 
 
 Write fourteen and thirty-seven hundredths as a decimal.
 
 
-Solution
-
-
+<div class="solution">
+**Solution**
 
 
     fourteen and thirty-seven hundredths
@@ -249,11 +322,10 @@ Solution
     14.37
 
 
-
     Fourteen and thirty-seven hundredths is written 14.37.
 
 
-
+<div class="tryit">
 **Try It**
 
 
@@ -263,6 +335,7 @@ Write as a decimal: thirteen and sixty-eight hundredths.
 13.68
 
 
+<div class="tryit">
 **Try It**
 
 
@@ -272,7 +345,8 @@ Write as a decimal: five and eight hundred ninety-four thousandths.
 5.894
 
 
-**Write a decimal number from its name.**
+<div class="definition-label">**Write a decimal number from its name.**</div>
+
 
 - Look for the word “and”—it locates the decimal point.
 
@@ -289,13 +363,15 @@ Write as a decimal: five and eight hundred ninety-four thousandths.
 The second bullet in Step 2 is needed for decimals that have no whole number part, like ‘nine thousandths’. We recognize them by the words that indicate the place value after the decimal – such as ‘tenths’ or ‘hundredths.’  Since there is no whole number, there is no ‘and.’ We start by placing a zero to the left of the decimal and continue by filling in the numbers to the right, as we did above.
 
 
+<div class="example">
 **Example**
 
 
 Write twenty-four thousandths as a decimal.
 
 
-Solution
+<div class="solution">
+**Solution**
 
 
 twenty-four thousandths
@@ -319,6 +395,7 @@ Put zeros as placeholders in the remaining decimal places.
 So, twenty-four thousandths is written 0.024
 
 
+<div class="tryit">
 **Try It**
 
 
@@ -328,6 +405,7 @@ Write as a decimal: fifty-eight thousandths.
 0.058
 
 
+<div class="tryit">
 **Try It**
 
 
@@ -337,43 +415,46 @@ Write as a decimal: sixty-seven thousandths.
 0.067
 
 
-Before we move on to our next objective, think about money again. We know that \($1\) is the same as \($1.00.\) The way we write \($1 (or $1.00)\) depends on the context. In the same way, integers can be written as decimals with as many zeros as needed to the right of the decimal.
+Before we move on to our next objective, think about money again. We know that <span class="math-inline">$1</span> is the same as <span class="math-inline">$1.00.</span> The way we write <span class="math-inline">$1 (or $1.00)</span> depends on the context. In the same way, integers can be written as decimals with as many zeros as needed to the right of the decimal.
 
 
-$$
+<div class="math-display">
 5 &  &  & −2 \\
 5 &  &  & −2 \\
 5 &  &  & −2
-$$
+</div>
 
 
-$$
-and so on\dots
-$$
-
+<div class="math-display">
+and so on…
+---
 
 ## Convert Decimals to Fractions or Mixed Numbers
 
-We often need to rewrite decimals as fractions or mixed numbers. Let’s go back to our lunch order to see how we can convert decimal numbers to fractions. We know that \($5.03\) means \(5\) dollars and \(3\) cents. Since there are \(100\) cents in one dollar, \(3\) cents means \(\frac{3}{100}\) of a dollar, so \(0.03=\frac{3}{100}.\)
 
-We convert decimals to fractions by identifying the place value of the farthest right digit. In the decimal \(0.03,\) the \(3\) is in the hundredths place, so \(100\) is the denominator of the fraction equivalent to \(0.03.\)
+We often need to rewrite decimals as fractions or mixed numbers. Let’s go back to our lunch order to see how we can convert decimal numbers to fractions. We know that <span class="math-inline">$5.03</span> means <span class="math-inline">5</span> dollars and <span class="math-inline">3</span> cents. Since there are <span class="math-inline">100</span> cents in one dollar, <span class="math-inline">3</span> cents means <span class="math-inline"><sup>3</sup>∕<sub>100</sub></span> of a dollar, so <span class="math-inline">0.03=<sup>3</sup>∕<sub>100</sub>.</span>
 
-
-$$
-0.03=\frac{3}{100}
-$$
-
-For our \($5.03\) lunch, we can write the decimal \(5.03\) as a mixed number.
+We convert decimals to fractions by identifying the place value of the farthest right digit. In the decimal <span class="math-inline">0.03,</span> the <span class="math-inline">3</span> is in the hundredths place, so <span class="math-inline">100</span> is the denominator of the fraction equivalent to <span class="math-inline">0.03.</span>
 
 
-$$
-5.03=5\frac{3}{100}
-$$
+<div class="math-display">
+0.03=<sup>3</sup>∕<sub>100</sub>
+</div>
+
+
+For our <span class="math-inline">$5.03</span> lunch, we can write the decimal <span class="math-inline">5.03</span> as a mixed number.
+
+
+<div class="math-display">
+5.03=5<sup>3</sup>∕<sub>100</sub>
+</div>
+
 
 Notice that when the number to the left of the decimal is zero, we get a proper fraction. When the number to the left of the decimal is not zero, we get a mixed number.
 
 
-**Convert a decimal number to a fraction or mixed number.**
+<div class="definition-label">**Convert a decimal number to a fraction or mixed number.**</div>
+
 
 -  Look at the number to the left of the decimal.
 
@@ -394,14 +475,16 @@ Notice that when the number to the left of the decimal is zero, we get a proper 
 -  Simplify the fraction, if possible.
 
 
+<div class="example">
 **Example**
 
 
 Write each of the following decimal numbers as a fraction or a mixed number:
-ⓐ \(4.09\) ⓑ \(3.7\) ⓒ \(−0.286\)
+ⓐ <span class="math-inline">4.09</span> ⓑ <span class="math-inline">3.7</span> ⓒ <span class="math-inline">−0.286</span>
 
 
-Solution
+<div class="solution">
+**Solution**
 
 
 ⓐ
@@ -474,134 +557,160 @@ Write 1,000 in the denominator as the place value of the final digit, 6, is thou
 We remove a common factor of 2 to simplify the fraction.
 
 
+<div class="tryit">
 **Try It**
 
 
 Write as a fraction or mixed number. Simplify the answer if possible.
-ⓐ \(5.3\) ⓑ \(6.07\) ⓒ \(−0.234\)
+ⓐ <span class="math-inline">5.3</span> ⓑ <span class="math-inline">6.07</span> ⓒ <span class="math-inline">−0.234</span>
 
 
-  - ⓐ \(5\frac{3}{10}\)
-  - ⓑ \(6\frac{7}{100}\)
-  - ⓒ \(-\frac{117}{500}\)
+  - ⓐ <span class="math-inline">5<sup>3</sup>∕<sub>10</sub></span>
+  - ⓑ <span class="math-inline">6<sup>7</sup>∕<sub>100</sub></span>
+  - ⓒ <span class="math-inline">-<sup>117</sup>∕<sub>500</sub></span>
 
 
+<div class="tryit">
 **Try It**
 
 
 Write as a fraction or mixed number. Simplify the answer if possible.
-ⓐ \(8.7\) ⓑ \(1.03\) ⓒ \(−0.024\)
+ⓐ <span class="math-inline">8.7</span> ⓑ <span class="math-inline">1.03</span> ⓒ <span class="math-inline">−0.024</span>
 
 
-  - ⓐ \(8\frac{7}{10}\)
-  - ⓑ \(1\frac{3}{100}\)
-  - ⓒ \(-\frac{3}{125}\)
+  - ⓐ <span class="math-inline">8<sup>7</sup>∕<sub>10</sub></span>
+  - ⓑ <span class="math-inline">1<sup>3</sup>∕<sub>100</sub></span>
+  - ⓒ <span class="math-inline">-<sup>3</sup>∕<sub>125</sub></span>
 
+
+---
 
 ## Locate Decimals on the Number Line
+
 
 Since decimals are forms of fractions, locating decimals on the number line is similar to locating fractions on the number line.
 
 
+<div class="example">
 **Example**
 
 
-Locate \(0.4\) on a number line.
+Locate <span class="math-inline">0.4</span> on a number line.
 
 
-Solution
-The decimal \(0.4\) is equivalent to \(\frac{4}{10},\) so \(0.4\) is located between \(0\) and \(1.\) On a number line, divide the interval between \(0\) and \(1\) into \(10\) equal parts and place marks to separate the parts.
-Label the marks \(0.1,0.2,0.3,0.4,0.5,0.6,0.7,0.8,0.9,1.0.\) We write \(0\) as \(0.0\) and \(1\) as \(1.0,\) so that the numbers are consistently in tenths. Finally, mark \(0.4\) on the number line.
+<div class="solution">
+**Solution**
 
 
+The decimal <span class="math-inline">0.4</span> is equivalent to <span class="math-inline"><sup>4</sup>∕<sub>10</sub>,</span> so <span class="math-inline">0.4</span> is located between <span class="math-inline">0</span> and <span class="math-inline">1.</span> On a number line, divide the interval between <span class="math-inline">0</span> and <span class="math-inline">1</span> into <span class="math-inline">10</span> equal parts and place marks to separate the parts.
+Label the marks <span class="math-inline">0.1,0.2,0.3,0.4,0.5,0.6,0.7,0.8,0.9,1.0.</span> We write <span class="math-inline">0</span> as <span class="math-inline">0.0</span> and <span class="math-inline">1</span> as <span class="math-inline">1.0,</span> so that the numbers are consistently in tenths. Finally, mark <span class="math-inline">0.4</span> on the number line.
+
+
+<div class="tryit">
 **Try It**
 
 
-Locate \(0.6\) on a number line.
+Locate <span class="math-inline">0.6</span> on a number line.
 
 
+<div class="tryit">
 **Try It**
 
 
-Locate \(0.9\) on a number line.
+Locate <span class="math-inline">0.9</span> on a number line.
 
 
+<div class="example">
 **Example**
 
 
-Locate \(−0.74\) on a number line.
+Locate <span class="math-inline">−0.74</span> on a number line.
 
 
-Solution
-The decimal \(−0.74\) is equivalent to \(-\frac{74}{100},\) so it is located between \(0\) and \(−1.\) On a number line, mark off and label the multiples of \(-0.10\) in the interval between \(0\) and \(−1\) (\(−0.10\), \(−0.20\), etc.) and mark  \(−0.74\) between \(−0.70\) and \(−0.80,\) a little closer to \(−0.70\).
+<div class="solution">
+**Solution**
 
 
+The decimal <span class="math-inline">−0.74</span> is equivalent to <span class="math-inline">-<sup>74</sup>∕<sub>100</sub>,</span> so it is located between <span class="math-inline">0</span> and <span class="math-inline">−1.</span> On a number line, mark off and label the multiples of <span class="math-inline">-0.10</span> in the interval between <span class="math-inline">0</span> and <span class="math-inline">−1</span> (<span class="math-inline">−0.10</span>, <span class="math-inline">−0.20</span>, etc.) and mark  <span class="math-inline">−0.74</span> between <span class="math-inline">−0.70</span> and <span class="math-inline">−0.80,</span> a little closer to <span class="math-inline">−0.70</span>.
+
+
+<div class="tryit">
 **Try It**
 
 
-Locate \(−0.63\) on a number line.
+Locate <span class="math-inline">−0.63</span> on a number line.
 
 
+<div class="tryit">
 **Try It**
 
 
-Locate \(−0.25\) on a number line.
+Locate <span class="math-inline">−0.25</span> on a number line.
 
+
+---
 
 ## Order Decimals
 
-Which is larger, \(0.04\) or \(0.40?\)
 
-If you think of this as money, you know that \($0.40\) (forty cents) is greater than \($0.04\) (four cents). So,
+Which is larger, <span class="math-inline">0.04</span> or <span class="math-inline">0.40?</span>
+
+If you think of this as money, you know that <span class="math-inline">$0.40</span> (forty cents) is greater than <span class="math-inline">$0.04</span> (four cents). So,
 
 
-$$
+<div class="math-display">
 0.40>0.04
-$$
+</div>
+
 
 In previous chapters, we used the number line to order numbers.
 
 
-$$
+<div class="math-display">
 \\
 a \\
 a
-$$
-
-Where are \(0.04\) and \(0.40\) located on the number line?
-
-We see that \(0.40\) is to the right of \(0.04.\) So we know \(0.40>0.04.\)
-
-How does \(0.31\) compare to \(0.308?\) This doesn’t translate into money to make the comparison easy. But if we convert \(0.31\) and \(0.308\) to fractions, we can tell which is larger.
+</div>
 
 
-Because \(310>308,\) we know that \(\frac{310}{1000}>\frac{308}{1000}.\) Therefore, \(0.31>0.308.\)
+Where are <span class="math-inline">0.04</span> and <span class="math-inline">0.40</span> located on the number line?
 
-Notice what we did in converting \(0.31\) to a fraction—we started with the fraction \(\frac{31}{100}\) and ended with the equivalent fraction \(\frac{310}{1000}.\) Converting \(\frac{310}{1000}\) back to a decimal gives \(0.310.\) So \(0.31\) is equivalent to \(0.310.\) Writing zeros at the end of a decimal does not change its value.
+We see that <span class="math-inline">0.40</span> is to the right of <span class="math-inline">0.04.</span> So we know <span class="math-inline">0.40>0.04.</span>
+
+How does <span class="math-inline">0.31</span> compare to <span class="math-inline">0.308?</span> This doesn’t translate into money to make the comparison easy. But if we convert <span class="math-inline">0.31</span> and <span class="math-inline">0.308</span> to fractions, we can tell which is larger.
 
 
-$$
-\frac{31}{100}=\frac{310}{1000} and 0.31=0.310
-$$
+Because <span class="math-inline">310>308,</span> we know that <span class="math-inline"><sup>310</sup>∕<sub>1000</sub>><sup>308</sup>∕<sub>1000</sub>.</span> Therefore, <span class="math-inline">0.31>0.308.</span>
+
+Notice what we did in converting <span class="math-inline">0.31</span> to a fraction—we started with the fraction <span class="math-inline"><sup>31</sup>∕<sub>100</sub></span> and ended with the equivalent fraction <span class="math-inline"><sup>310</sup>∕<sub>1000</sub>.</span> Converting <span class="math-inline"><sup>310</sup>∕<sub>1000</sub></span> back to a decimal gives <span class="math-inline">0.310.</span> So <span class="math-inline">0.31</span> is equivalent to <span class="math-inline">0.310.</span> Writing zeros at the end of a decimal does not change its value.
+
+
+<div class="math-display">
+<sup>31</sup>∕<sub>100</sub>=<sup>310</sup>∕<sub>1000</sub> and 0.31=0.310
+</div>
+
 
 If two decimals have the same value, they are said to be equivalent decimals.
 
 
-$$
+<div class="math-display">
 0.31=0.310
-$$
-
-We say \(0.31\) and \(0.310\) are equivalent decimals.
+</div>
 
 
-**Equivalent Decimals**
+We say <span class="math-inline">0.31</span> and <span class="math-inline">0.310</span> are equivalent decimals.
+
+
+<div class="definition-label">**Equivalent Decimals**</div>
+
 
 Two decimals are **equivalent decimals** if they convert to equivalent fractions.
 
 Remember, writing zeros at the end of a decimal does not change its value.
 
 
-**Order decimals.**
+<div class="definition-label">**Order decimals.**</div>
+
 
 - Check to see if both numbers have the same number of decimal places. If not, write zeros at the end of the one with fewer digits to make them match.
 
@@ -610,164 +719,178 @@ Remember, writing zeros at the end of a decimal does not change its value.
 - Order the numbers using the appropriate inequality sign.
 
 
+<div class="example">
 **Example**
 
 
-Order the following decimals using \(< or >:\)
+Order the following decimals using <span class="math-inline">< or >:</span>
 
   -
-ⓐ \(0.64 __0.6\)
+ⓐ <span class="math-inline">0.64 _<sub>0</sub>.6</span>
 
   -
-ⓑ \(0.83 __0.803\)
+ⓑ <span class="math-inline">0.83 _<sub>0</sub>.803</span>
 
 
-Solution
+<div class="solution">
+**Solution**
 
 
 ⓐ
 
 
-\(0.64 __0.6\)
+<span class="math-inline">0.64 _<sub>0</sub>.6</span>
 
 
 Check to see if both numbers have the same number of decimal places. They do not, so write one zero at the right of 0.6.
-\(0.64 __0.60\)
+<span class="math-inline">0.64 _<sub>0</sub>.60</span>
 
 
 Compare the numbers to the right of the decimal point as if they were whole numbers.
-\(64>60\)
+<span class="math-inline">64>60</span>
 
 
 Order the numbers using the appropriate inequality sign.
-\(0.64>0.60\)
+<span class="math-inline">0.64>0.60</span>
 
-\(0.64>0.6\)
+<span class="math-inline">0.64>0.6</span>
 
 
 ⓑ
 
 
-\(0.83 __0.803\)
+<span class="math-inline">0.83 _<sub>0</sub>.803</span>
 
 
 Check to see if both numbers have the same number of decimal places. They do not, so write one zero at the right of 0.83.
-\(0.830 __0.803\)
+<span class="math-inline">0.830 _<sub>0</sub>.803</span>
 
 
 Compare the numbers to the right of the decimal point as if they were whole numbers.
-\(830>803\)
+<span class="math-inline">830>803</span>
 
 
 Order the numbers using the appropriate inequality sign.
-\(0.830>0.803\)
+<span class="math-inline">0.830>0.803</span>
 
-\(0.83>0.803\)
+<span class="math-inline">0.83>0.803</span>
 
 
+<div class="tryit">
 **Try It**
 
 
-Order each of the following pairs of numbers, using \(< or >:\)
-ⓐ \(0.42__0.4\) ⓑ \(0.76__0.706\)
+Order each of the following pairs of numbers, using <span class="math-inline">< or >:</span>
+ⓐ <span class="math-inline">0.42_<sub>0</sub>.4</span> ⓑ <span class="math-inline">0.76_<sub>0</sub>.706</span>
 
 
   - ⓐ >
   - ⓑ >
 
 
+<div class="tryit">
 **Try It**
 
 
-Order each of the following pairs of numbers, using \(< or >:\)
-ⓐ \(0.1__0.18\) ⓑ \(0.305__0.35\)
+Order each of the following pairs of numbers, using <span class="math-inline">< or >:</span>
+ⓐ <span class="math-inline">0.1_<sub>0</sub>.18</span> ⓑ <span class="math-inline">0.305_<sub>0</sub>.35</span>
 
 
   - ⓐ <
   - ⓑ <
 
-When we order negative decimals, it is important to remember how to order negative integers. Recall that larger numbers are to the right on the number line. For example, because \(−2\) lies to the right of \(−3\) on the number line, we know that \(−2>−3.\) Similarly, smaller numbers lie to the left on the number line. For example, because \(−9\) lies to the left of \(−6\) on the number line, we know that \(−9<−6.\)
+When we order negative decimals, it is important to remember how to order negative integers. Recall that larger numbers are to the right on the number line. For example, because <span class="math-inline">−2</span> lies to the right of <span class="math-inline">−3</span> on the number line, we know that <span class="math-inline">−2>−3.</span> Similarly, smaller numbers lie to the left on the number line. For example, because <span class="math-inline">−9</span> lies to the left of <span class="math-inline">−6</span> on the number line, we know that <span class="math-inline">−9<−6.</span>
 
-If we zoomed in on the interval between \(0\) and \(−1,\) we would see in the same way that \(−0.2>−0.3 and −0.9<−0.6.\)
+If we zoomed in on the interval between <span class="math-inline">0</span> and <span class="math-inline">−1,</span> we would see in the same way that <span class="math-inline">−0.2>−0.3 and −0.9<−0.6.</span>
 
 
+<div class="example">
 **Example**
 
 
-Use \(< or >\) to order. \(−0.1__−0.8.\)
+Use <span class="math-inline">< or ></span> to order. <span class="math-inline">−0.1__−0.8.</span>
 
 
-Solution
+<div class="solution">
+**Solution**
 
 
-\(−0.1 __−0.8\)
+<span class="math-inline">−0.1 __−0.8</span>
 
 
 Write the numbers one under the other, lining up the decimal points.
-\(−0.1\)
+<span class="math-inline">−0.1</span>
 
-\(−0.8\)
+<span class="math-inline">−0.8</span>
 
 
 They have the same number of digits.
 
 
-Since \(−1>−8,−1\) tenth is greater than \(−8\) tenths.
-\(−0.1>−0.8\)
+Since <span class="math-inline">−1>−8,−1</span> tenth is greater than <span class="math-inline">−8</span> tenths.
+<span class="math-inline">−0.1>−0.8</span>
 
 
+<div class="tryit">
 **Try It**
 
 
-Order each of the following pairs of numbers, using \(< or >:\)
-\(−0.3___−0.5\)
+Order each of the following pairs of numbers, using <span class="math-inline">< or >:</span>
+<span class="math-inline">−0.3___−0.5</span>
 
 
 >
 
 
+<div class="tryit">
 **Try It**
 
 
-Order each of the following pairs of numbers, using \(< or >:\)
-\(−0.6___−0.7\)
+Order each of the following pairs of numbers, using <span class="math-inline">< or >:</span>
+<span class="math-inline">−0.6___−0.7</span>
 
 
 >
 
+
+---
 
 ## Round Decimals
 
-In the United States, gasoline prices are usually written with the decimal part as thousandths of a dollar. For example, a gas station might post the price of unleaded gas at \($3.279\) per gallon. But if you were to buy exactly one gallon of gas at this price, you would pay \($3.28\), because the final price would be rounded to the nearest cent. In Whole Numbers, we saw that we round numbers to get an approximate value when the exact value is not needed. Suppose we wanted to round \($2.72\) to the nearest dollar. Is it closer to \($2\) or to \($3?\) What if we wanted to round \($2.72\) to the nearest ten cents; is it closer to \($2.70\) or to \($2.80?\) The number lines in  can help us answer those questions.
+
+In the United States, gasoline prices are usually written with the decimal part as thousandths of a dollar. For example, a gas station might post the price of unleaded gas at <span class="math-inline">$3.279</span> per gallon. But if you were to buy exactly one gallon of gas at this price, you would pay <span class="math-inline">$3.28</span>, because the final price would be rounded to the nearest cent. In Whole Numbers, we saw that we round numbers to get an approximate value when the exact value is not needed. Suppose we wanted to round <span class="math-inline">$2.72</span> to the nearest dollar. Is it closer to <span class="math-inline">$2</span> or to <span class="math-inline">$3?</span> What if we wanted to round <span class="math-inline">$2.72</span> to the nearest ten cents; is it closer to <span class="math-inline">$2.70</span> or to <span class="math-inline">$2.80?</span> The number lines in  can help us answer those questions.
 
 
-*ⓐ We see that \(2.72\) is closer to \(3\) than to \(2.\) So, \(2.72\) rounded to the nearest whole number is \(3.\)
-ⓑ We see that \(2.72\) is closer to \(2.70\) than \(2.80.\) So we say that \(2.72\) rounded to the nearest tenth is \(2.7.\)*
+*ⓐ We see that <span class="math-inline">2.72</span> is closer to <span class="math-inline">3</span> than to <span class="math-inline">2.</span> So, <span class="math-inline">2.72</span> rounded to the nearest whole number is <span class="math-inline">3.</span>
+ⓑ We see that <span class="math-inline">2.72</span> is closer to <span class="math-inline">2.70</span> than <span class="math-inline">2.80.</span> So we say that <span class="math-inline">2.72</span> rounded to the nearest tenth is <span class="math-inline">2.7.</span>*
 
 Can we round decimals without number lines? Yes! We use a method based on the one we used to round whole numbers.
 
 
-**Round a decimal.**
+<div class="definition-label">**Round a decimal.**</div>
+
 
 -  Locate the given place value and mark it with an arrow.
 
 -  Underline the digit to the right of the given place value.
 
--  Is this digit greater than or equal to \(5?\)
+-  Is this digit greater than or equal to <span class="math-inline">5?</span>
 
-  - Yes - add \(1\) to the digit in the given place value.
+  - Yes - add <span class="math-inline">1</span> to the digit in the given place value.
   - No - do not change the digit in the given place value
 
 -  Rewrite the number, removing all digits to the right of the given place value.
 
 
+<div class="example">
 **Example**
 
 
-Round \(18.379\) to the nearest hundredth.
+Round <span class="math-inline">18.379</span> to the nearest hundredth.
 
 
-Solution
+<div class="solution">
+**Solution**
 
 
 Locate the hundredths place and mark it with an arrow.
@@ -785,31 +908,35 @@ Rewrite the number, deleting all digits to the right of the hundredths place.
 18.38 is 18.379 rounded to the nearest hundredth.
 
 
+<div class="tryit">
 **Try It**
 
 
-Round to the nearest hundredth: \(1.047.\)
+Round to the nearest hundredth: <span class="math-inline">1.047.</span>
 
 
 1.05
 
 
+<div class="tryit">
 **Try It**
 
 
-Round to the nearest hundredth: \(9.173.\)
+Round to the nearest hundredth: <span class="math-inline">9.173.</span>
 
 
 9.17
 
 
+<div class="example">
 **Example**
 
 
-Round \(18.379\) to the nearest ⓐ tenth ⓑ whole number.
+Round <span class="math-inline">18.379</span> to the nearest ⓐ tenth ⓑ whole number.
 
 
-Solution
+<div class="solution">
+**Solution**
 
 
 ⓐ Round 18.379 to the nearest tenth.
@@ -848,10 +975,11 @@ Rewrite the number, deleting all digits to the right of the ones place.
 So 18.379 rounded to the nearest whole number is 18.
 
 
+<div class="tryit">
 **Try It**
 
 
-Round \(6.582\) to the nearest ⓐ hundredth ⓑ tenth ⓒ whole number.
+Round <span class="math-inline">6.582</span> to the nearest ⓐ hundredth ⓑ tenth ⓒ whole number.
 
 
   - ⓐ 6.58
@@ -859,10 +987,11 @@ Round \(6.582\) to the nearest ⓐ hundredth ⓑ tenth ⓒ whole number.
   - ⓒ 7
 
 
+<div class="tryit">
 **Try It**
 
 
-Round \(15.2175\) to the nearest ⓐ thousandth ⓑ hundredth ⓒ tenth.
+Round <span class="math-inline">15.2175</span> to the nearest ⓐ thousandth ⓑ hundredth ⓒ tenth.
 
 
   - ⓐ 15.218
@@ -870,7 +999,8 @@ Round \(15.2175\) to the nearest ⓐ thousandth ⓑ hundredth ⓒ tenth.
   - ⓒ 15.2
 
 
-**ACCESS ADDITIONAL ONLINE RESOURCES**
+<div class="definition-label">**ACCESS ADDITIONAL ONLINE RESOURCES**</div>
+
 
 - Introduction to Decimal Notation
 
@@ -883,7 +1013,10 @@ Round \(15.2175\) to the nearest ⓐ thousandth ⓑ hundredth ⓒ tenth.
 - Writing a Decimal as a Simplified Fraction
 
 
+---
+
 ## Key Concepts
+
 
 - *Name a decimal number.*
 
@@ -943,58 +1076,58 @@ No - do not change the digit in the given place value
 In the following exercises, name each decimal.
 
 
-\(5.5\)
+<span class="math-inline">5.5</span>
 
 
 five and five tenths
 
 
-\(7.8\)
+<span class="math-inline">7.8</span>
 
 
-\(5.01\)
+<span class="math-inline">5.01</span>
 
 
 five and one hundredth
 
 
-\(14.02\)
+<span class="math-inline">14.02</span>
 
 
-\(8.71\)
+<span class="math-inline">8.71</span>
 
 
 eight and seventy-one hundredths
 
 
-\(2.64\)
+<span class="math-inline">2.64</span>
 
 
-\(0.002\)
+<span class="math-inline">0.002</span>
 
 
 two thousandths
 
 
-\(0.005\)
+<span class="math-inline">0.005</span>
 
 
-\(0.381\)
+<span class="math-inline">0.381</span>
 
 
 three hundred eighty-one thousandths
 
 
-\(0.479\)
+<span class="math-inline">0.479</span>
 
 
-\(−17.9\)
+<span class="math-inline">−17.9</span>
 
 
 negative seventeen and nine tenths
 
 
-\(−31.4\)
+<span class="math-inline">−31.4</span>
 
 
 *Write Decimals*
@@ -1070,112 +1203,112 @@ Thirty and two hundred seventy-nine thousandths
 In the following exercises, convert each decimal to a fraction or mixed number.
 
 
-\(1.99\)
+<span class="math-inline">1.99</span>
 
 
-\(1\frac{99}{100}\)
+<span class="math-inline">1<sup>99</sup>∕<sub>100</sub></span>
 
 
-\(5.83\)
+<span class="math-inline">5.83</span>
 
 
-\(15.7\)
+<span class="math-inline">15.7</span>
 
 
-\(15\frac{7}{10}\)
+<span class="math-inline">15<sup>7</sup>∕<sub>10</sub></span>
 
 
-\(18.1\)
+<span class="math-inline">18.1</span>
 
 
-\(0.239\)
+<span class="math-inline">0.239</span>
 
 
-\(\frac{239}{1000}\)
+<span class="math-inline"><sup>239</sup>∕<sub>1000</sub></span>
 
 
-\(0.373\)
+<span class="math-inline">0.373</span>
 
 
-\(0.13\)
+<span class="math-inline">0.13</span>
 
 
-\(\frac{13}{100}\)
+<span class="math-inline"><sup>13</sup>∕<sub>100</sub></span>
 
 
-\(0.19\)
+<span class="math-inline">0.19</span>
 
 
-\(0.011\)
+<span class="math-inline">0.011</span>
 
 
-\(\frac{11}{1000}\)
+<span class="math-inline"><sup>11</sup>∕<sub>1000</sub></span>
 
 
-\(0.049\)
+<span class="math-inline">0.049</span>
 
 
-\(−0.00007\)
+<span class="math-inline">−0.00007</span>
 
 
-\(-\frac{7}{100000}\)
+<span class="math-inline">-<sup>7</sup>∕<sub>100000</sub></span>
 
 
-\(−0.00003\)
+<span class="math-inline">−0.00003</span>
 
 
-\(6.4\)
+<span class="math-inline">6.4</span>
 
 
-\(6\frac{2}{5}\)
+<span class="math-inline">6<sup>2</sup>∕<sub>5</sub></span>
 
 
-\(5.2\)
+<span class="math-inline">5.2</span>
 
 
-\(7.05\)
+<span class="math-inline">7.05</span>
 
 
-\(7\frac{1}{20}\)
+<span class="math-inline">7<sup>1</sup>∕<sub>20</sub></span>
 
 
-\(9.04\)
+<span class="math-inline">9.04</span>
 
 
-\(4.006\)
+<span class="math-inline">4.006</span>
 
 
-\(4\frac{3}{500}\)
+<span class="math-inline">4<sup>3</sup>∕<sub>500</sub></span>
 
 
-\(2.008\)
+<span class="math-inline">2.008</span>
 
 
-\(10.25\)
+<span class="math-inline">10.25</span>
 
 
-\(10\frac{1}{4}\)
+<span class="math-inline">10<sup>1</sup>∕<sub>4</sub></span>
 
 
-\(12.75\)
+<span class="math-inline">12.75</span>
 
 
-\(1.324\)
+<span class="math-inline">1.324</span>
 
 
-\(1\frac{81}{250}\)
+<span class="math-inline">1<sup>81</sup>∕<sub>250</sub></span>
 
 
-\(2.482\)
+<span class="math-inline">2.482</span>
 
 
-\(14.125\)
+<span class="math-inline">14.125</span>
 
 
-\(14\frac{1}{8}\)
+<span class="math-inline">14<sup>1</sup>∕<sub>8</sub></span>
 
 
-\(20.375\)
+<span class="math-inline">20.375</span>
 
 
 *Locate Decimals on the Number Line*
@@ -1183,87 +1316,87 @@ In the following exercises, convert each decimal to a fraction or mixed number.
 In the following exercises, locate each number on a number line.
 
 
-\(0.8\)
+<span class="math-inline">0.8</span>
 
 
-\(0.3\)
+<span class="math-inline">0.3</span>
 
 
-\(−0.2\)
+<span class="math-inline">−0.2</span>
 
 
-\(−0.9\)
+<span class="math-inline">−0.9</span>
 
 
-\(3.1\)
+<span class="math-inline">3.1</span>
 
 
-\(2.7\)
+<span class="math-inline">2.7</span>
 
 
-\(−2.5\)
+<span class="math-inline">−2.5</span>
 
 
-\(−1.6\)
+<span class="math-inline">−1.6</span>
 
 
 *Order Decimals*
 
-In the following exercises, order each of the following pairs of numbers, using \(< or >.\)
+In the following exercises, order each of the following pairs of numbers, using <span class="math-inline">< or >.</span>
 
 
-\(0.9__0.6\)
-
-
->
-
-
-\(0.7__0.8\)
-
-
-\(0.37__0.63\)
-
-
-<
-
-
-\(0.86__0.69\)
-
-
-\(0.6__0.59\)
+<span class="math-inline">0.9_<sub>0</sub>.6</span>
 
 
 >
 
 
-\(0.27__0.3\)
+<span class="math-inline">0.7_<sub>0</sub>.8</span>
 
 
-\(0.91__0.901\)
+<span class="math-inline">0.37_<sub>0</sub>.63</span>
+
+
+<
+
+
+<span class="math-inline">0.86_<sub>0</sub>.69</span>
+
+
+<span class="math-inline">0.6_<sub>0</sub>.59</span>
 
 
 >
 
 
-\(0.415__0.41\)
+<span class="math-inline">0.27_<sub>0</sub>.3</span>
 
 
-\(−0.5__−0.3\)
+<span class="math-inline">0.91_<sub>0</sub>.901</span>
+
+
+>
+
+
+<span class="math-inline">0.415_<sub>0</sub>.41</span>
+
+
+<span class="math-inline">−0.5__−0.3</span>
 
 
 <
 
 
-\(−0.1_−0.4\)
+<span class="math-inline">−0.1_−0.4</span>
 
 
-\(−0.62_−0.619\)
+<span class="math-inline">−0.62_−0.619</span>
 
 
 <
 
 
-\(−7.31_−7.3\)
+<span class="math-inline">−7.31_−7.3</span>
 
 
 *Round Decimals*
@@ -1271,67 +1404,67 @@ In the following exercises, order each of the following pairs of numbers, using 
 In the following exercises, round each number to the nearest tenth.
 
 
-\(0.67\)
+<span class="math-inline">0.67</span>
 
 
 0.7
 
 
-\(0.49\)
+<span class="math-inline">0.49</span>
 
 
-\(2.84\)
+<span class="math-inline">2.84</span>
 
 
 2.8
 
 
-\(4.63\)
+<span class="math-inline">4.63</span>
 
 
 In the following exercises, round each number to the nearest hundredth.
 
 
-\(0.845\)
+<span class="math-inline">0.845</span>
 
 
 0.85
 
 
-\(0.761\)
+<span class="math-inline">0.761</span>
 
 
-\(5.7932\)
+<span class="math-inline">5.7932</span>
 
 
 5.79
 
 
-\(3.6284\)
+<span class="math-inline">3.6284</span>
 
 
-\(0.299\)
+<span class="math-inline">0.299</span>
 
 
 0.30
 
 
-\(0.697\)
+<span class="math-inline">0.697</span>
 
 
-\(4.098\)
+<span class="math-inline">4.098</span>
 
 
 4.10
 
 
-\(7.096\)
+<span class="math-inline">7.096</span>
 
 
 In the following exercises, round each number to the nearest ⓐ hundredth ⓑ tenth ⓒ whole number.
 
 
-\(5.781\)
+<span class="math-inline">5.781</span>
 
 
   - ⓐ 5.78
@@ -1339,10 +1472,10 @@ In the following exercises, round each number to the nearest ⓐ hundredth ⓑ t
   - ⓒ 6
 
 
-\(1.638\)
+<span class="math-inline">1.638</span>
 
 
-\(63.479\)
+<span class="math-inline">63.479</span>
 
 
   - ⓐ 63.48
@@ -1350,13 +1483,13 @@ In the following exercises, round each number to the nearest ⓐ hundredth ⓑ t
   - ⓒ 63
 
 
-\(84.281\)
+<span class="math-inline">84.281</span>
 
 
 ### Everyday Math
 
 
-*Salary Increase* Danny got a raise and now makes \($58,965.95\) a year. Round this number to the nearest:
+*Salary Increase* Danny got a raise and now makes <span class="math-inline">$58,965.95</span> a year. Round this number to the nearest:
 ⓐ dollar ⓑ thousand dollars ⓒ ten thousand dollars.
 
 
@@ -1365,18 +1498,18 @@ In the following exercises, round each number to the nearest ⓐ hundredth ⓑ t
   - ⓒ $60,000
 
 
-*New Car Purchase* Selena’s new car cost \($23,795.95.\) Round this number to the nearest:
+*New Car Purchase* Selena’s new car cost <span class="math-inline">$23,795.95.</span> Round this number to the nearest:
 ⓐ dollar ⓑ thousand dollars ⓒ ten thousand dollars.
 
 
-*Sales Tax* Hyo Jin lives in San Diego. She bought a refrigerator for \($1624.99\) and when the clerk calculated the sales tax it came out to exactly \($142.186625.\) Round the sales tax to the nearest ⓐ penny ⓑ dollar.
+*Sales Tax* Hyo Jin lives in San Diego. She bought a refrigerator for <span class="math-inline">$1624.99</span> and when the clerk calculated the sales tax it came out to exactly <span class="math-inline">$142.186625.</span> Round the sales tax to the nearest ⓐ penny ⓑ dollar.
 
 
   - ⓐ $142.19
   - ⓑ $142
 
 
-*Sales Tax* Jennifer bought a \($1,038.99\) dining room set for her home in Cincinnati. She calculated the sales tax to be exactly \($67.53435.\) Round the sales tax to the nearest ⓐ penny ⓑ dollar.
+*Sales Tax* Jennifer bought a <span class="math-inline">$1,038.99</span> dining room set for her home in Cincinnati. She calculated the sales tax to be exactly <span class="math-inline">$67.53435.</span> Round the sales tax to the nearest ⓐ penny ⓑ dollar.
 
 
 ### Writing Exercises
@@ -1391,13 +1524,13 @@ Answers will vary.
 Explain how you write “three and nine hundredths” as a decimal.
 
 
-Jim ran a \(100-meter\) race in \(12.32 seconds.\) Tim ran the same race in \(12.3 seconds.\) Who had the faster time, Jim or Tim? How do you know?
+Jim ran a <span class="math-inline">100-meter</span> race in <span class="math-inline">12.32 seconds.</span> Tim ran the same race in <span class="math-inline">12.3 seconds.</span> Who had the faster time, Jim or Tim? How do you know?
 
 
 Tim had the faster time. 12.3 is less than 12.32, so Tim had the faster time.
 
 
-Gerry saw a sign advertising postcards marked for sale at \(“10 for 0.99¢.”\) What is wrong with the advertised price?
+Gerry saw a sign advertising postcards marked for sale at <span class="math-inline">“10 for 0.99¢.”</span> What is wrong with the advertised price?
 
 
 ### Self Check
@@ -1415,36 +1548,134 @@ Gerry saw a sign advertising postcards marked for sale at \(“10 for 0.99¢.”
 …no—I don’t get it! This is a warning sign and you must not ignore it. You should get help right away or you will quickly be overwhelmed. See your instructor as soon as you can to discuss your situation. Together you can come up with a plan to get you the help you need.
 
 
+<div class="prep-quiz">
 **Be Prepared!**
+
 
 Before you get started, take this readiness quiz.
 
 
-Simplify \(\frac{70}{100}.\)
+Simplify <span class="math-inline"><sup>70</sup>∕<sub>100</sub>.</span>
 
 If you missed this problem, review .
 
 
-\(\frac{7}{10}\)
+<span class="math-inline"><sup>7</sup>∕<sub>10</sub></span>
 
 
+<div class="prep-quiz">
 **Be Prepared!**
 
 
-Multiply \(\frac{3}{10}\cdot \frac{9}{10}.\)
+Multiply <span class="math-inline"><sup>3</sup>∕<sub>10</sub>· <sup>9</sup>∕<sub>10</sub>.</span>
 
 If you missed this problem, review .
 
 
-\(\frac{27}{100}\)
+<span class="math-inline"><sup>27</sup>∕<sub>100</sub></span>
 
 
+<div class="prep-quiz">
 **Be Prepared!**
 
 
-Divide \(-36\div (−9).\)
+Divide <span class="math-inline">-36÷ (−9).</span>
 
 If you missed this problem, review .
 
 
-\(4\)
+<span class="math-inline">4</span>
+
+</div>
+
+</div>
+
+</div>
+
+</div>
+
+</div>
+
+</div>
+
+</div>
+
+</div>
+
+</div>
+
+</div>
+
+</div>
+
+</div>
+
+</div>
+
+</div>
+
+</div>
+
+</div>
+
+</div>
+
+</div>
+
+</div>
+
+</div>
+
+</div>
+
+</div>
+
+</div>
+
+</div>
+
+</div>
+
+</div>
+
+</div>
+
+</div>
+
+</div>
+
+</div>
+
+</div>
+
+</div>
+
+</div>
+
+</div>
+
+</div>
+
+</div>
+
+</div>
+
+</div>
+
+</div>
+
+</div>
+
+</div>
+
+</div>
+
+</div>
+
+</div>
+
+</div>
+
+</div>
+
+</div>

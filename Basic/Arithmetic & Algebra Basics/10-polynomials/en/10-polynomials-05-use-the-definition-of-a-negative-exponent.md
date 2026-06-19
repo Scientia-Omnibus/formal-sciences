@@ -1,24 +1,97 @@
+<style>
+.math-inline {
+    font-style: italic;
+    padding: 2px 6px;
+    border-radius: 4px;
+    background: #f8f9fa;
+    font-family: Georgia, serif;
+}
+.math-display {
+    background: #f8f9fa;
+    border-left: 4px solid #4a90d9;
+    padding: 16px 20px;
+    margin: 16px 0;
+    border-radius: 6px;
+    font-size: 1.15em;
+    font-family: Georgia, serif;
+    text-align: center;
+    line-height: 2;
+    overflow-x: auto;
+}
+.example-box, .example {
+    background: #f0f8ff;
+    border-left: 4px solid #2e86de;
+    padding: 12px 20px;
+    margin: 16px 0;
+    border-radius: 6px;
+}
+.tryit-box, .tryit {
+    background: #f0fff4;
+    border-left: 4px solid #27ae60;
+    padding: 12px 20px;
+    margin: 16px 0;
+    border-radius: 6px;
+}
+.solution-box, .solution {
+    background: #fef9e7;
+    border-left: 4px solid #f39c12;
+    padding: 12px 20px;
+    margin: 12px 0;
+    border-radius: 6px;
+}
+.check-box, .check {
+    background: #fef9e7;
+    border-left: 4px solid #f39c12;
+    padding: 12px 20px;
+    margin: 12px 0;
+    border-radius: 6px;
+}
+.prep-quiz {
+    background: #fff3cd;
+    border: 1px solid #ffc107;
+    padding: 12px 20px;
+    margin: 16px 0;
+    border-radius: 6px;
+}
+.def-label, .definition-label {
+    font-weight: bold;
+    font-size: 1.1em;
+    margin: 20px 0 8px 0;
+    color: #2c3e50;
+    display: block;
+}
+.math-display sup, .math-inline sup { font-size: 0.75em; line-height: 0; }
+.math-display sub, .math-inline sub { font-size: 0.75em; line-height: 0; }
+</style>
+
+
+---
+
+
+---
+
 ## Key Concepts
+
 
 - *Equivalent Fractions Property*
 
-  - If \(a, b, c\) are whole numbers where \(b\ne 0, c\ne 0,\) then
-\(\frac{a}{b}=\frac{a \cdot  c}{b \cdot  c} and \frac{a \cdot  c}{b \cdot  c}=\frac{a}{b}\)
+  - If <span class="math-inline">a, b, c</span> are whole numbers where <span class="math-inline">b≠ 0, c≠ 0,</span> then
+<span class="math-inline"><sup>a</sup>∕<sub>b</sub>=<sup>a ·  c</sup>∕<sub>b ·  c</sub> and <sup>a ·  c</sup>∕<sub>b ·  c</sub>=<sup>a</sup>∕<sub>b</sub></span>
 
 - *Zero Exponent*
 
-  - If \(a\) is a non-zero number, then \(a^0=1.\)
-  - Any nonzero number raised to the zero power is \(1.\)
+  - If <span class="math-inline">a</span> is a non-zero number, then <span class="math-inline">a<sup>0</sup>=1.</span>
+  - Any nonzero number raised to the zero power is <span class="math-inline">1.</span>
 
 
 - *Quotient Property for Exponents*
 
-  - If \(a\) is a real number, \(a\ne 0,\) and \(m, n\) are whole numbers, then \(\frac{a^m}{a^n}=a^{m-n}, m>n and \frac{a^m}{a^n}=\frac{1}{a^{n-m}}, n>m\)
+  - If <span class="math-inline">a</span> is a real number, <span class="math-inline">a≠ 0,</span> and <span class="math-inline">m, n</span> are whole numbers, then <span class="math-inline"><sup>a<sup>m</sup></sup>∕<sub>a<sup>n</sup></sub>=a<sup>m-n</sup>, m>n and <sup>a<sup>m</sup></sup>∕<sub>a<sup>n</sup></sub>=<sup>1</sup>∕<sub>a<sup>n-m</sub></sup>, n>m</span>
 
 
 - *Quotient to a Power Property for Exponents*
 
-  - If \(a\) and \(b\) are real numbers, \(b\ne 0,\) and \(m\) is a counting number, then \((\frac{a}{b})^m= \frac{a^m}{b^m}\)
+  - If <span class="math-inline">a</span> and <span class="math-inline">b</span> are real numbers, <span class="math-inline">b≠ 0,</span> and <span class="math-inline">m</span> is a counting number, then <span class="math-inline">(<sup>a</sup>∕<sub>b</sub>)<sup>m</sup>= <sup>a<sup>m</sup></sup>∕<sub>b<sup>m</sup></sub></span>
   - To raise a fraction to a power, raise the numerator and denominator to that power.
 
 
@@ -29,58 +102,58 @@
 In the following exercises, simplify.
 
 
-\(\frac{4^8}{4^2}\)
+<span class="math-inline"><sup>4<sup>8</sup></sup>∕<sub>4<sup>2</sup></sub></span>
 
 
 46
 
 
-\(\frac{3^{12}}{3^4}\)
+<span class="math-inline">\frac{3<sup>12</sup>{3<sup>4</sup></span>
 
 
-\(\frac{x^{12}}{x^3}\)
+<span class="math-inline">\frac{x<sup>12</sup>{x<sup>3</sup></span>
 
 
 *x*9
 
 
-\(\frac{u^9}{u^3}\)
+<span class="math-inline"><sup>u<sup>9</sup></sup>∕<sub>u<sup>3</sup></sub></span>
 
 
-\(\frac{r^5}{r}\)
+<span class="math-inline"><sup>r<sup>5</sup></sup>∕<sub>r</sub></span>
 
 
 *r*4
 
 
-\(\frac{y^4}{y}\)
+<span class="math-inline"><sup>y<sup>4</sup></sup>∕<sub>y</sub></span>
 
 
-\(\frac{y^4}{y^{20}}\)
+<span class="math-inline"><sup>y<sup>4</sup></sup>∕<sub>y<sup>20</sub></sup></span>
 
 
-\(\frac{1}{y^{16}}\)
+<span class="math-inline"><sup>1</sup>∕<sub>y<sup>16</sub></sup></span>
 
 
-\(\frac{x^{10}}{x^{30}}\)
+<span class="math-inline">\frac{x<sup>10</sup>{x<sup>30</sup></span>
 
 
-\(\frac{10^3}{10^{15}}\)
+<span class="math-inline"><sup>10<sup>3</sup></sup>∕<sub>10<sup>15</sub></sup></span>
 
 
-\(\frac{1}{10^{12}}\)
+<span class="math-inline"><sup>1</sup>∕<sub>10<sup>12</sub></sup></span>
 
 
-\(\frac{r^2}{r^8}\)
+<span class="math-inline"><sup>r<sup>2</sup></sup>∕<sub>r<sup>8</sup></sub></span>
 
 
-\(\frac{a}{a^9}\)
+<span class="math-inline"><sup>a</sup>∕<sub>a<sup>9</sup></sub></span>
 
 
-\(\frac{1}{a^8}\)
+<span class="math-inline"><sup>1</sup>∕<sub>a<sup>8</sup></sub></span>
 
 
-\(\frac{2}{2^5}\)
+<span class="math-inline"><sup>2</sup>∕<sub>2<sup>5</sup></sub></span>
 
 
 *Simplify Expressions with Zero Exponents*
@@ -88,76 +161,76 @@ In the following exercises, simplify.
 In the following exercises, simplify.
 
 
-\(5^0\)
+<span class="math-inline">5<sup>0</sup></span>
 
 
 1
 
 
-\(10^0\)
+<span class="math-inline">10<sup>0</sup></span>
 
 
-\(a^0\)
+<span class="math-inline">a<sup>0</sup></span>
 
 
 1
 
 
-\(x^0\)
+<span class="math-inline">x<sup>0</sup></span>
 
 
-\(-7^0\)
+<span class="math-inline">-7<sup>0</sup></span>
 
 
 −1
 
 
-\(-4^0\)
+<span class="math-inline">-4<sup>0</sup></span>
 
 
-  - ⓐ \((10p)^0\)
-  - ⓑ \(10p^0\)
+  - ⓐ <span class="math-inline">(10p)<sup>0</sup></span>
+  - ⓑ <span class="math-inline">10p<sup>0</sup></span>
 
 
   - ⓐ 1
   - ⓑ 10
 
 
-  - ⓐ \((3a)^0\)
-  - ⓑ \(3a^0\)
+  - ⓐ <span class="math-inline">(3a)<sup>0</sup></span>
+  - ⓑ <span class="math-inline">3a<sup>0</sup></span>
 
 
-  - ⓐ \((−27x^5y)^0\)
-  - ⓑ \(−27x^5y^0\)
+  - ⓐ <span class="math-inline">(−27x<sup>5</sup>y)<sup>0</sup></span>
+  - ⓑ <span class="math-inline">−27x<sup>5</sup>y<sup>0</sup></span>
 
 
   - ⓐ 1
   - ⓑ −27*x*5
 
 
-  - ⓐ \((−92y^8z)^0\)
-  - ⓑ \(−92y^8z^0\)
+  - ⓐ <span class="math-inline">(−92y<sup>8</sup>z)<sup>0</sup></span>
+  - ⓑ <span class="math-inline">−92y<sup>8</sup>z<sup>0</sup></span>
 
 
-  - ⓐ \(15^0\)
-  - ⓑ \(15^1\)
+  - ⓐ <span class="math-inline">15<sup>0</sup></span>
+  - ⓑ <span class="math-inline">15<sup>1</sup></span>
 
 
   - ⓐ 1
   - ⓑ 15
 
 
-  - ⓐ \(-6^0\)
-  - ⓑ \(-6^1\)
+  - ⓐ <span class="math-inline">-6<sup>0</sup></span>
+  - ⓑ <span class="math-inline">-6<sup>1</sup></span>
 
 
-\(2 \cdot  x^0+5 \cdot  y^0\)
+<span class="math-inline">2 ·  x<sup>0</sup>+5 ·  y<sup>0</sup></span>
 
 
 7
 
 
-\(8 \cdot  m^0-4 \cdot  n^0\)
+<span class="math-inline">8 ·  m<sup>0</sup>-4 ·  n<sup>0</sup></span>
 
 
 *Simplify Expressions Using the Quotient to a Power Property*
@@ -165,40 +238,40 @@ In the following exercises, simplify.
 In the following exercises, simplify.
 
 
-\((\frac{3}{2})^5\)
+<span class="math-inline">(<sup>3</sup>∕<sub>2</sub>)<sup>5</sup></span>
 
 
-\(\frac{243}{32}\)
+<span class="math-inline"><sup>243</sup>∕<sub>32</sub></span>
 
 
-\((\frac{4}{5})^3\)
+<span class="math-inline">(<sup>4</sup>∕<sub>5</sub>)<sup>3</sup></span>
 
 
-\((\frac{m}{6})^3\)
+<span class="math-inline">(<sup>m</sup>∕<sub>6</sub>)<sup>3</sup></span>
 
 
-\(\frac{m^3}{216}\)
+<span class="math-inline"><sup>m<sup>3</sup></sup>∕<sub>216</sub></span>
 
 
-\((\frac{p}{2})^5\)
+<span class="math-inline">(<sup>p</sup>∕<sub>2</sub>)<sup>5</sup></span>
 
 
-\((\frac{x}{y})^{10}\)
+<span class="math-inline">(<sup>x</sup>∕<sub>y</sub>)<sup>10</sup></span>
 
 
-\(\frac{x^{10}}{y^{10}}\)
+<span class="math-inline">\frac{x<sup>10</sup>{y<sup>10</sup></span>
 
 
-\((\frac{a}{b})^8\)
+<span class="math-inline">(<sup>a</sup>∕<sub>b</sub>)<sup>8</sup></span>
 
 
-\((\frac{a}{3b})^2\)
+<span class="math-inline">(<sup>a</sup>∕<sub>3b</sub>)<sup>2</sup></span>
 
 
-\(\frac{a^2}{9b^2}\)
+<span class="math-inline"><sup>a<sup>2</sup></sup>∕<sub>9b<sup>2</sup></sub></span>
 
 
-\((\frac{2x}{y})^4\)
+<span class="math-inline">(<sup>2x</sup>∕<sub>y</sub>)<sup>4</sup></span>
 
 
 *Simplify Expressions by Applying Several Properties*
@@ -206,112 +279,112 @@ In the following exercises, simplify.
 In the following exercises, simplify.
 
 
-\(\frac{(x^2)^4}{x^5}\)
+<span class="math-inline"><sup>(x<sup>2</sup>)<sup>4</sup></sup>∕<sub>x<sup>5</sup></sub></span>
 
 
 *x*3
 
 
-\(\frac{(y^4)^3}{y^7}\)
+<span class="math-inline"><sup>(y<sup>4</sup>)<sup>3</sup></sup>∕<sub>y<sup>7</sup></sub></span>
 
 
-\(\frac{(u^3)^4}{u^{10}}\)
+<span class="math-inline"><sup>(u<sup>3</sup>)<sup>4</sup></sup>∕<sub>u<sup>10</sub></sup></span>
 
 
 *u*2
 
 
-\(\frac{(y^2)^5}{y^6}\)
+<span class="math-inline"><sup>(y<sup>2</sup>)<sup>5</sup></sup>∕<sub>y<sup>6</sup></sub></span>
 
 
-\(\frac{y^8}{(y^5)^2}\)
+<span class="math-inline"><sup>y<sup>8</sup></sup>∕<sub>(y<sup>5</sup>)<sup>2</sup></sub></span>
 
 
-\(\frac{1}{y^2}\)
+<span class="math-inline"><sup>1</sup>∕<sub>y<sup>2</sup></sub></span>
 
 
-\(\frac{p^{11}}{(p^5)^3}\)
+<span class="math-inline">\frac{p<sup>11</sup>(p<sup>5</sup>)<sup>3</sup></span>
 
 
-\(\frac{r^5}{r^4 \cdot  r}\)
+<span class="math-inline"><sup>r<sup>5</sup></sup>∕<sub>r<sup>4</sup> ·  r</sub></span>
 
 
 1
 
 
-\(\frac{a^3 \cdot  a^4}{a^7}\)
+<span class="math-inline"><sup>a<sup>3</sup> ·  a<sup>4</sup></sup>∕<sub>a<sup>7</sup></sub></span>
 
 
-\((\frac{x^2}{x^8})^3\)
+<span class="math-inline">(<sup>x<sup>2</sup></sup>∕<sub>x<sup>8</sup></sub>)<sup>3</sup></span>
 
 
-\(\frac{1}{x^{18}}\)
+<span class="math-inline"><sup>1</sup>∕<sub>x<sup>18</sub></sup></span>
 
 
-\((\frac{u}{u^{10}})^2\)
+<span class="math-inline">(<sup>u</sup>∕<sub>u<sup>10</sub></sup>)<sup>2</sup></span>
 
 
-\((\frac{a^4 \cdot  a^6}{a^3})^2\)
+<span class="math-inline">(<sup>a<sup>4</sup> ·  a<sup>6</sup></sup>∕<sub>a<sup>3</sup></sub>)<sup>2</sup></span>
 
 
 *a*14
 
 
-\((\frac{x^3 \cdot  x^8}{x^4})^3\)
+<span class="math-inline">(<sup>x<sup>3</sup> ·  x<sup>8</sup></sup>∕<sub>x<sup>4</sup></sub>)<sup>3</sup></span>
 
 
-\(\frac{(y^3)^5}{(y^4)^3}\)
+<span class="math-inline"><sup>(y<sup>3</sup>)<sup>5</sup></sup>∕<sub>(y<sup>4</sup>)<sup>3</sup></sub></span>
 
 
 *y*3
 
 
-\(\frac{(z^6)^2}{(z^2)^4}\)
+<span class="math-inline"><sup>(z<sup>6</sup>)<sup>2</sup></sup>∕<sub>(z<sup>2</sup>)<sup>4</sup></sub></span>
 
 
-\(\frac{(x^3)^6}{(x^4)^7}\)
+<span class="math-inline"><sup>(x<sup>3</sup>)<sup>6</sup></sup>∕<sub>(x<sup>4</sup>)<sup>7</sup></sub></span>
 
 
-\(\frac{1}{x^{10}}\)
+<span class="math-inline"><sup>1</sup>∕<sub>x<sup>10</sub></sup></span>
 
 
-\(\frac{(x^4)^8}{(x^5)^7}\)
+<span class="math-inline"><sup>(x<sup>4</sup>)<sup>8</sup></sup>∕<sub>(x<sup>5</sup>)<sup>7</sup></sub></span>
 
 
-\((\frac{2r^3}{5s})^4\)
+<span class="math-inline">(<sup>2r<sup>3</sup></sup>∕<sub>5s</sub>)<sup>4</sup></span>
 
 
-\(\frac{16r^{12}}{625s^4}\)
+<span class="math-inline">\frac{16r<sup>12</sup>{625s<sup>4</sup></span>
 
 
-\((\frac{3m^2}{4n})^3\)
+<span class="math-inline">(<sup>3m<sup>2</sup></sup>∕<sub>4n</sub>)<sup>3</sup></span>
 
 
-\((\frac{3y^2 \cdot  y^5}{y^{15} \cdot  y^8})^0\)
+<span class="math-inline">(<sup>3y<sup>2</sup> ·  y<sup>5</sup></sup>∕<sub>y<sup>15</sub> ·  y<sup>8</sup></sup>)<sup>0</sup></span>
 
 
 1
 
 
-\((\frac{15z^4 \cdot  z^9}{0.3z^2})^0\)
+<span class="math-inline">(<sup>15z<sup>4</sup> ·  z<sup>9</sup></sup>∕<sub>0.3z<sup>2</sup></sub>)<sup>0</sup></span>
 
 
-\(\frac{(r^2)^5 (r^4)^2}{(r^3)^7}\)
+<span class="math-inline"><sup>(r<sup>2</sup>)<sup>5</sup> (r<sup>4</sup>)<sup>2</sup></sup>∕<sub>(r<sup>3</sup>)<sup>7</sup></sub></span>
 
 
-\(\frac{1}{r^3}\)
+<span class="math-inline"><sup>1</sup>∕<sub>r<sup>3</sup></sub></span>
 
 
-\(\frac{(p^4)^2 (p^3)^5}{(p^2)^9}\)
+<span class="math-inline"><sup>(p<sup>4</sup>)<sup>2</sup> (p<sup>3</sup>)<sup>5</sup></sup>∕<sub>(p<sup>2</sup>)<sup>9</sup></sub></span>
 
 
-\(\frac{(3x^4)^3 (2x^3)^2}{(6x^5)^2}\)
+<span class="math-inline"><sup>(3x<sup>4</sup>)<sup>3</sup> (2x<sup>3</sup>)<sup>2</sup></sup>∕<sub>(6x<sup>5</sup>)<sup>2</sup></sub></span>
 
 
 3*x*8
 
 
-\(\frac{(−2y^3)^4 (3y^4)^2}{(−6y^3)^2}\)
+<span class="math-inline"><sup>(−2y<sup>3</sup>)<sup>4</sup> (3y<sup>4</sup>)<sup>2</sup></sup>∕<sub>(−6y<sup>3</sup>)<sup>2</sup></sub></span>
 
 
 *Divide Monomials*
@@ -319,88 +392,88 @@ In the following exercises, simplify.
 In the following exercises, divide the monomials.
 
 
-\(48b^8\div 6b^2\)
+<span class="math-inline">48b<sup>8</sup>÷ 6b<sup>2</sup></span>
 
 
 8*b*6
 
 
-\(42a^{14}\div 6a^2\)
+<span class="math-inline">42a<sup>14</sup>÷ 6a<sup>2</sup></span>
 
 
-\(36x^3\div (−2x^9)\)
+<span class="math-inline">36x<sup>3</sup>÷ (−2x<sup>9</sup>)</span>
 
 
-\(\frac{−18}{x^6}\)
+<span class="math-inline"><sup>−18</sup>∕<sub>x<sup>6</sup></sub></span>
 
 
-\(20u^8\div (−4u^6)\)
+<span class="math-inline">20u<sup>8</sup>÷ (−4u<sup>6</sup>)</span>
 
 
-\(\frac{18x^3}{9x^2}\)
+<span class="math-inline"><sup>18x<sup>3</sup></sup>∕<sub>9x<sup>2</sup></sub></span>
 
 
 2*x*
 
 
-\(\frac{36y^9}{4y^7}\)
+<span class="math-inline"><sup>36y<sup>9</sup></sup>∕<sub>4y<sup>7</sup></sub></span>
 
 
-\(\frac{−35x^7}{−42x^{13}}\)
+<span class="math-inline"><sup>−35x<sup>7</sup></sup>∕<sub>−42x<sup>13</sub></sup></span>
 
 
-\(\frac{5}{6x^6}\)
+<span class="math-inline"><sup>5</sup>∕<sub>6x<sup>6</sup></sub></span>
 
 
-\(\frac{18x^5}{−27x^9}\)
+<span class="math-inline"><sup>18x<sup>5</sup></sup>∕<sub>−27x<sup>9</sup></sub></span>
 
 
-\(\frac{18r^5s}{3r^3s^9}\)
+<span class="math-inline"><sup>18r<sup>5</sup>s</sup>∕<sub>3r<sup>3</sup>s<sup>9</sup></sub></span>
 
 
-\(\frac{6r^2}{s^8}\)
+<span class="math-inline"><sup>6r<sup>2</sup></sup>∕<sub>s<sup>8</sup></sub></span>
 
 
-\(\frac{24p^7q}{6p^2q^5}\)
+<span class="math-inline"><sup>24p<sup>7</sup>q</sup>∕<sub>6p<sup>2</sup>q<sup>5</sup></sub></span>
 
 
-\(\frac{8mn^{10}}{64mn^4}\)
+<span class="math-inline">\frac{8mn<sup>10</sup>{64mn<sup>4</sup></span>
 
 
-\(\frac{n^6}{8}\)
+<span class="math-inline"><sup>n<sup>6</sup></sup>∕<sub>8</sub></span>
 
 
-\(\frac{10a^4b}{50a^2b^6}\)
+<span class="math-inline"><sup>10a<sup>4</sup>b</sup>∕<sub>50a<sup>2</sup>b<sup>6</sup></sub></span>
 
 
-\(\frac{−12x^4y^9}{15x^6y^3}\)
+<span class="math-inline"><sup>−12x<sup>4</sup>y<sup>9</sup></sup>∕<sub>15x<sup>6</sup>y<sup>3</sup></sub></span>
 
 
-\(-\frac{4y^6}{5x^2}\)
+<span class="math-inline">-<sup>4y<sup>6</sup></sup>∕<sub>5x<sup>2</sup></sub></span>
 
 
-\(\frac{48x^{11}y^9z^3}{36x^6y^8z^5}\)
+<span class="math-inline">\frac{48x<sup>11</sup>y<sup>9</sup>z<sup>3</sup>{36x<sup>6</sup>y<sup>8</sup>z<sup>5</sup></span>
 
 
-\(\frac{64x^5y^9z^7}{48x^7y^{12}z^6}\)
+<span class="math-inline"><sup>64x<sup>5</sup>y<sup>9</sup>z<sup>7</sup></sup>∕<sub>48x<sup>7</sup>y<sup>12</sub>z<sup>6</sup></sup></span>
 
 
-\(\frac{4z}{3x^2y^3}\)
+<span class="math-inline"><sup>4z</sup>∕<sub>3x<sup>2</sup>y<sup>3</sup></sub></span>
 
 
-\(\frac{(10u^2v)(4u^3v^6)}{5u^9v^2}\)
+<span class="math-inline"><sup>(10u<sup>2</sup>v)(4u<sup>3</sup>v<sup>6</sup>)</sup>∕<sub>5u<sup>9</sup>v<sup>2</sup></sub></span>
 
 
-\(\frac{(6m^2n)(5m^4n^3)}{3m^{10}n^2}\)
+<span class="math-inline"><sup>(6m<sup>2</sup>n)(5m<sup>4</sup>n<sup>3</sup>)</sup>∕<sub>3m<sup>10</sub>n<sup>2</sup></sup></span>
 
 
-\(\frac{10n^2}{m^4}\)
+<span class="math-inline"><sup>10n<sup>2</sup></sup>∕<sub>m<sup>4</sup></sub></span>
 
 
-\(\frac{(6a^4b^3)(4ab^5)}{(12a^8b)(a^3b)}\)
+<span class="math-inline"><sup>(6a<sup>4</sup>b<sup>3</sup>)(4ab<sup>5</sup>)</sup>∕<sub>(12a<sup>8</sup>b)(a<sup>3</sup>b)</sub></span>
 
 
-\(\frac{(4u^5v^4)(15u^8v)}{(12u^3v)(u^6v)}\)
+<span class="math-inline"><sup>(4u<sup>5</sup>v<sup>4</sup>)(15u<sup>8</sup>v)</sup>∕<sub>(12u<sup>3</sup>v)(u<sup>6</sup>v)</sub></span>
 
 
 5*u*4*v*3
@@ -409,130 +482,100 @@ In the following exercises, divide the monomials.
 ### Mixed Practice
 
 
+  - ⓐ <span class="math-inline">24a<sup>5</sup>+2a<sup>5</sup></span>
+  - ⓑ <span class="math-inline">24a<sup>5</sup>-2a<sup>5</sup></span>
+  - ⓒ <span class="math-inline">24a<sup>5</sup>· 2a<sup>5</sup></span>
+  - ⓓ <span class="math-inline">24a<sup>5</sup>÷ 2a<sup>5</sup></span>
 
-  - ⓐ \(24a^5+2a^5\)
-  - ⓑ \(24a^5-2a^5\)
-  - ⓒ \(24a^5\cdot 2a^5\)
-  - ⓓ \(24a^5\div 2a^5\)
 
+  - ⓐ <span class="math-inline">15n<sup>10</sup>+3n<sup>10</sup></span>
+  - ⓑ <span class="math-inline">15n<sup>10</sup>-3n<sup>10</sup></span>
+  - ⓒ <span class="math-inline">15n<sup>10</sup>· 3n<sup>10</sup></span>
+  - ⓓ <span class="math-inline">15n<sup>10</sup>÷ 3n<sup>10</sup></span>
 
 
-  - ⓐ \(15n^{10}+3n^{10}\)
-  - ⓑ \(15n^{10}-3n^{10}\)
-  - ⓒ \(15n^{10}\cdot 3n^{10}\)
-  - ⓓ \(15n^{10}\div 3n^{10}\)
+  - ⓐ <span class="math-inline">18n<sup>10</sup></span>
 
+  - ⓑ <span class="math-inline">12n<sup>10</sup></span>
 
+  - ⓒ <span class="math-inline">45n<sup>20</sup></span>
 
-  - ⓐ \(18n^{10}\)
+  - ⓓ <span class="math-inline">5</span>
 
-  - ⓑ \(12n^{10}\)
 
-  - ⓒ \(45n^{20}\)
+  - ⓐ <span class="math-inline">p<sup>4</sup>· p<sup>6</sup></span>
 
-  - ⓓ \(5\)
+  - ⓑ <span class="math-inline">(p<sup>4</sup>)<sup>6</sup></span>
 
 
+  - ⓐ <span class="math-inline">q<sup>5</sup>· q<sup>3</sup></span>
 
-  - ⓐ \(p^4\cdot p^6\)
+  - ⓑ <span class="math-inline">(q<sup>5</sup>)<sup>3</sup></span>
 
-  - ⓑ \((p^4)^6\)
 
+  - ⓐ <span class="math-inline">q<sup>8</sup></span>
 
+  - ⓑ <span class="math-inline">q<sup>15</sup></span>
 
-  - ⓐ \(q^5\cdot q^3\)
 
-  - ⓑ \((q^5)^3\)
+  - ⓐ <span class="math-inline"><sup>y<sup>3</sup></sup>∕<sub>y</sub></span>
 
 
+  - ⓑ <span class="math-inline"><sup>y</sup>∕<sub>y<sup>3</sup></sub></span>
 
-  - ⓐ \(q^8\)
 
-  - ⓑ \(q^{15}\)
+  - ⓐ <span class="math-inline"><sup>z<sup>6</sup></sup>∕<sub>z<sup>5</sup></sub></span>
 
+  - ⓑ <span class="math-inline"><sup>z<sup>5</sup></sup>∕<sub>z<sup>6</sup></sub></span>
 
 
-  - ⓐ \(\frac{y^3}{y}\)
+  - ⓐ <span class="math-inline">z</span>
+  - ⓑ <span class="math-inline"><sup>1</sup>∕<sub>z</sub></span>
 
 
-  - ⓑ \(\frac{y}{y^3}\)
+<span class="math-inline">(8x<sup>5</sup>)(9x)÷ 6x<sup>3</sup></span>
 
 
+<span class="math-inline">(4y)(12y<sup>7</sup>)÷ 8y<sup>2</sup></span>
 
-  - ⓐ \(\frac{z^6}{z^5}\)
 
-  - ⓑ \(\frac{z^5}{z^6}\)
+  <span class="math-inline">6y<sup>6</sup></span>
 
 
+  <span class="math-inline"><sup>27a<sup>7</sup></sup>∕<sub>3a<sup>3</sup></sub>+<sup>54a<sup>9</sup></sup>∕<sub>9a<sup>5</sup></sub></span>
 
-  - ⓐ \(z\)
-  - ⓑ \(\frac{1}{z}\)
 
+  <span class="math-inline">\frac{32c<sup>11</sup>{4c<sup>5</sup>+<sup>42c<sup>9</sup></sup>∕<sub>6c<sup>3</sup></sub></span>
 
 
-\((8x^5)(9x)\div 6x^3\)
+  <span class="math-inline">15c<sup>6</sup></span>
 
 
+  <span class="math-inline"><sup>32y<sup>5</sup></sup>∕<sub>8y<sup>2</sup></sub>-\frac{60y<sup>10</sup>{5y<sup>7</sup></span>
 
 
-\((4y)(12y^7)\div 8y^2\)
+ <span class="math-inline"><sup>48x<sup>6</sup></sup>∕<sub>6x<sup>4</sup></sub>-<sup>35x<sup>9</sup></sup>∕<sub>7x<sup>7</sup></sub></span>
 
 
+  <span class="math-inline">3x<sup>2</sup></span>
 
 
-  \(6y^6\)
+   <span class="math-inline"><sup>63r<sup>6</sup>s<sup>3</sup></sup>∕<sub>9r<sup>4</sup>s<sup>2</sup></sub>-<sup>72r<sup>2</sup>s<sup>2</sup></sup>∕<sub>6s</sub></span>
 
 
+ <span class="math-inline"><sup>56y<sup>4</sup>z<sup>5</sup></sup>∕<sub>7y<sup>3</sup>z<sup>3</sup></sub>-<sup>45y<sup>2</sup>z<sup>2</sup></sup>∕<sub>5y</sub></span>
 
-  \(\frac{27a^7}{3a^3}+\frac{54a^9}{9a^5}\)
 
-
-  \(\frac{32c^{11}}{4c^5}+\frac{42c^9}{6c^3}\)
-
-
-
-  \(15c^6\)
-
-
-  \(\frac{32y^5}{8y^2}-\frac{60y^{10}}{5y^7}\)
-
-
-
-
- \(\frac{48x^6}{6x^4}-\frac{35x^9}{7x^7}\)
-
-
-
-
-
-  \(3x^2\)
-
-
-
-
-   \(\frac{63r^6s^3}{9r^4s^2}-\frac{72r^2s^2}{6s}\)
-
-
-
-
-
-
- \(\frac{56y^4z^5}{7y^3z^3}-\frac{45y^2z^2}{5y}\)
-
-
-
-
-\(-yz^2\)
-
+<span class="math-inline">-yz<sup>2</sup></span>
 
 
 ### Everyday Math
 
 
-*Memory* One megabyte is approximately \(10^6\) bytes. One gigabyte is approximately \(10^9\) bytes. How many megabytes are in one gigabyte?
+*Memory* One megabyte is approximately <span class="math-inline">10<sup>6</sup></span> bytes. One gigabyte is approximately <span class="math-inline">10<sup>9</sup></span> bytes. How many megabytes are in one gigabyte?
 
 
-*Memory* One megabyte is approximately \(10^6\) bytes. One terabyte is approximately \(10^{12}\) bytes. How many megabytes are in one terabyte?
+*Memory* One megabyte is approximately <span class="math-inline">10<sup>6</sup></span> bytes. One terabyte is approximately <span class="math-inline">10<sup>12</sup></span> bytes. How many megabytes are in one terabyte?
 
 
 1,000,000
@@ -541,19 +584,19 @@ In the following exercises, divide the monomials.
 ### Writing Exercises
 
 
-Vic thinks the quotient \(\frac{x^{20}}{x^4}\) simplifies to \(x^5.\) What is wrong with his reasoning?
+Vic thinks the quotient <span class="math-inline">\frac{x<sup>20</sup>{x<sup>4</sup></span> simplifies to <span class="math-inline">x<sup>5</sup>.</span> What is wrong with his reasoning?
 
 
-Mai simplifies the quotient \(\frac{y^3}{y}\) by writing \(\frac{^3}{}=3.\) What is wrong with her reasoning?
+Mai simplifies the quotient <span class="math-inline"><sup>y<sup>3</sup></sup>∕<sub>y</sub></span> by writing <span class="math-inline"><sup><sup>3</sup></sup>∕<sub></sub>=3.</span> What is wrong with her reasoning?
 
 
 Answers will vary.
 
 
-When Dimple simplified \(-3^0\) and \((−3)^0\) she got the same answer. Explain how using the Order of Operations correctly gives different answers.
+When Dimple simplified <span class="math-inline">-3<sup>0</sup></span> and <span class="math-inline">(−3)<sup>0</sup></span> she got the same answer. Explain how using the Order of Operations correctly gives different answers.
 
 
-Roxie thinks \(n^0\) simplifies to \(0.\) What would you say to convince Roxie she is wrong?
+Roxie thinks <span class="math-inline">n<sup>0</sup></span> simplifies to <span class="math-inline">0.</span> What would you say to convince Roxie she is wrong?
 
 
 Answers will vary.
@@ -567,12 +610,14 @@ Answers will vary.
 ⓑ On a scale of 1–10, how would you rate your mastery of this section in light of your responses on the checklist? How can you improve this?
 
 
+<div class="prep-quiz">
 **Be Prepared!**
+
 
 Before you get started, take this readiness quiz.
 
 
-What is the place value of the \(6\) in the number \(64,891?\)
+What is the place value of the <span class="math-inline">6</span> in the number <span class="math-inline">64,891?</span>
 
 If you missed this problem, review .
 
@@ -580,10 +625,11 @@ If you missed this problem, review .
 ten thousand
 
 
+<div class="prep-quiz">
 **Be Prepared!**
 
 
-Name the decimal \(0.0012.\)
+Name the decimal <span class="math-inline">0.0012.</span>
 
 If you missed this problem, review .
 
@@ -591,747 +637,894 @@ If you missed this problem, review .
 twelve ten-thousandths
 
 
+<div class="prep-quiz">
 **Be Prepared!**
 
 
-Subtract: \(5-(−3).\)
+Subtract: <span class="math-inline">5-(−3).</span>
 
 If you missed this problem, review .
 
 
-\(8\)
+<span class="math-inline">8</span>
 
+
+---
+
+
+---
 
 ## Use the Definition of a Negative Exponent
+
 
 The **Quotient Property of Exponents**, introduced in Divide Monomials, had two forms depending on whether the exponent in the numerator or denominator was larger.
 
 
-**Quotient Property of Exponents**
-
-If \(a\) is a real number, \(a\ne 0,\) and \(m, n\) are whole numbers, then
+<div class="definition-label">**Quotient Property of Exponents**</div>
 
 
-$$
-\frac{a^m}{a^n}=a^{m-n}, m>n and \frac{a^m}{a^n}=\frac{1}{a^{n-m}}, n>m
-$$
+If <span class="math-inline">a</span> is a real number, <span class="math-inline">a≠ 0,</span> and <span class="math-inline">m, n</span> are whole numbers, then
 
-What if we just subtract exponents, regardless of which is larger? Let’s consider \(\frac{x^2}{x^5}.\)
+
+<div class="math-display">
+<sup>a<sup>m</sup></sup>∕<sub>a<sup>n</sup></sub>=a<sup>m-n</sup>, m>n and <sup>a<sup>m</sup></sup>∕<sub>a<sup>n</sup></sub>=<sup>1</sup>∕<sub>a<sup>n-m</sub></sup>, n>m
+</div>
+
+
+What if we just subtract exponents, regardless of which is larger? Let’s consider <span class="math-inline"><sup>x<sup>2</sup></sup>∕<sub>x<sup>5</sup></sub>.</span>
 
 We subtract the exponent in the denominator from the exponent in the numerator.
 
 
-$$
-\frac{x^2}{x^5}
-$$
+<div class="math-display">
+<sup>x<sup>2</sup></sup>∕<sub>x<sup>5</sup></sub>
+</div>
 
 
-$$
-x^{2-5}
-$$
+<div class="math-display">
+x<sup>2-5</sup>
+</div>
 
 
-$$
-x^{−3}
-$$
-
-We can also simplify \(\frac{x^2}{x^5}\) by dividing out common factors: \(\frac{x^2}{x^5}.\)
-
-This implies that \(x^{−3}=\frac{1}{x^3}\) and it leads us to the definition of a **negative exponent**.
+<div class="math-display">
+x<sup>−3</sup>
+</div>
 
 
-**Negative Exponent**
+We can also simplify <span class="math-inline"><sup>x<sup>2</sup></sup>∕<sub>x<sup>5</sup></sub></span> by dividing out common factors: <span class="math-inline"><sup>x<sup>2</sup></sup>∕<sub>x<sup>5</sup></sub>.</span>
 
-If \(n\) is a positive integer and \(a\ne 0,\) then \(a^{-n}=\frac{1}{a^n}.\)
+This implies that <span class="math-inline">x<sup>−3</sup>=<sup>1</sup>∕<sub>x<sup>3</sup></sub></span> and it leads us to the definition of a **negative exponent**.
+
+
+<div class="definition-label">**Negative Exponent**</div>
+
+
+If <span class="math-inline">n</span> is a positive integer and <span class="math-inline">a≠ 0,</span> then <span class="math-inline">a<sup>-n</sup>=<sup>1</sup>∕<sub>a<sup>n</sup></sub>.</span>
 
 The negative exponent tells us to re-write the expression by taking the **reciprocal** of the base and then changing the sign of the exponent. Any expression that has negative exponents is not considered to be in simplest form. We will use the definition of a negative exponent and other properties of exponents to write an expression with only positive exponents.
 
 
+<div class="example">
 **Example**
 
 
 Simplify:
-  - ⓐ \(4^{−2}\)
-  - ⓑ \(10^{−3}\)
+  - ⓐ <span class="math-inline">4<sup>−2</sup></span>
+  - ⓑ <span class="math-inline">10<sup>−3</sup></span>
 
 
-Solution
+<div class="solution">
+<span class="def-label">Solution</span>
 
 
 ⓐ
 
 
-\(4^{−2}\)
+<span class="math-inline">4<sup>−2</sup></span>
 
 
-Use the definition of a negative exponent, \(a^{-n}=\frac{1}{a^n}.\)
-\(\frac{1}{4^2}\)
+Use the definition of a negative exponent, <span class="math-inline">a<sup>-n</sup>=<sup>1</sup>∕<sub>a<sup>n</sup></sub>.</span>
+<span class="math-inline"><sup>1</sup>∕<sub>4<sup>2</sup></sub></span>
 
 
 Simplify.
-\(\frac{1}{16}\)
+<span class="math-inline"><sup>1</sup>∕<sub>16</sub></span>
 
 
 ⓑ
 
 
-\(10^{−3}\)
+<span class="math-inline">10<sup>−3</sup></span>
 
 
-Use the definition of a negative exponent, \(a^{-n}=\frac{1}{a^n}.\)
-\(\frac{1}{10^3}\)
+Use the definition of a negative exponent, <span class="math-inline">a<sup>-n</sup>=<sup>1</sup>∕<sub>a<sup>n</sup></sub>.</span>
+<span class="math-inline"><sup>1</sup>∕<sub>10<sup>3</sup></sub></span>
 
 
 Simplify.
-\(\frac{1}{1000}\)
+<span class="math-inline"><sup>1</sup>∕<sub>1000</sub></span>
 
 
+<div class="tryit">
 **Try It**
 
 
 Simplify:
-  - ⓐ \(2^{−3}\)
-  - ⓑ \(10^{−2}\)
+  - ⓐ <span class="math-inline">2<sup>−3</sup></span>
+  - ⓑ <span class="math-inline">10<sup>−2</sup></span>
 
 
-  - ⓐ \(\frac{1}{8}\)
-  - ⓑ \(\frac{1}{100}\)
+  - ⓐ <span class="math-inline"><sup>1</sup>∕<sub>8</sub></span>
+  - ⓑ <span class="math-inline"><sup>1</sup>∕<sub>100</sub></span>
 
 
+<div class="tryit">
 **Try It**
 
 
 Simplify:
-  - ⓐ \(3^{−2}\)
-  - ⓑ \(10^{−4}\)
+  - ⓐ <span class="math-inline">3<sup>−2</sup></span>
+  - ⓑ <span class="math-inline">10<sup>−4</sup></span>
 
 
-  - ⓐ \(\frac{1}{9}\)
-  - ⓑ \(\frac{1}{10,000}\)
+  - ⓐ <span class="math-inline"><sup>1</sup>∕<sub>9</sub></span>
+  - ⓑ <span class="math-inline"><sup>1</sup>∕<sub>10,000</sub></span>
 
 When simplifying any expression with exponents, we must be careful to correctly identify the base that is raised to each exponent.
 
 
+<div class="example">
 **Example**
 
 
 Simplify:
-  - ⓐ \((−3)^{−2}\)
-  - ⓑ \(−3^{−2}\)
+  - ⓐ <span class="math-inline">(−3)<sup>−2</sup></span>
+  - ⓑ <span class="math-inline">−3<sup>−2</sup></span>
 
 
-Solution
+<div class="solution">
+<span class="def-label">Solution</span>
+
+
 The negative in the exponent does not affect the sign of the base.
 
 
 ⓐ
 
 
-
-The exponent applies to the base, \(-3\).
-\((−3)^{−2}\)
+The exponent applies to the base, <span class="math-inline">-3</span>.
+<span class="math-inline">(−3)<sup>−2</sup></span>
 
 
 Take the reciprocal of the base and change the sign of the exponent.
-\(\frac{1}{(−3)^2}\)
+<span class="math-inline"><sup>1</sup>∕<sub>(−3)<sup>2</sup></sub></span>
 
 
 Simplify.
-\(\frac{1}{9}\)
+<span class="math-inline"><sup>1</sup>∕<sub>9</sub></span>
 
 
 ⓑ
 
 
-
-The expression \(-3^{−2}\) means "find the opposite of \(3^{−2}\)".
+The expression <span class="math-inline">-3<sup>−2</sup></span> means "find the opposite of <span class="math-inline">3<sup>−2</sup></span>".
  The exponent applies only to the base, 3.
-\(-3^{−2}\)
+<span class="math-inline">-3<sup>−2</sup></span>
 
 
 Rewrite as a product with −1.
-\(−1\cdot 3^{−2}\)
+<span class="math-inline">−1· 3<sup>−2</sup></span>
 
 
 Take the reciprocal of the base and change the sign of the exponent.
-\(−1\cdot \frac{1}{3^2}\)
+<span class="math-inline">−1· <sup>1</sup>∕<sub>3<sup>2</sup></sub></span>
 
 
 Simplify.
-\(-\frac{1}{9}\)
+<span class="math-inline">-<sup>1</sup>∕<sub>9</sub></span>
 
 
+<div class="tryit">
 **Try It**
 
 
 Simplify:
-  - ⓐ \((−5)^{−2}\)
-  - ⓑ \(-5^{−2}\)
+  - ⓐ <span class="math-inline">(−5)<sup>−2</sup></span>
+  - ⓑ <span class="math-inline">-5<sup>−2</sup></span>
 
 
-  - ⓐ \(\frac{1}{25}\)
-  - ⓑ \(-\frac{1}{25}\)
+  - ⓐ <span class="math-inline"><sup>1</sup>∕<sub>25</sub></span>
+  - ⓑ <span class="math-inline">-<sup>1</sup>∕<sub>25</sub></span>
 
 
+<div class="tryit">
 **Try It**
 
 
 Simplify:
-  - ⓐ \((−2)^{−2}\)
-  - ⓑ \(−2^{−2}\)
+  - ⓐ <span class="math-inline">(−2)<sup>−2</sup></span>
+  - ⓑ <span class="math-inline">−2<sup>−2</sup></span>
 
 
-  - ⓐ \(\frac{1}{4}\)
-  - ⓑ \(-\frac{1}{4}\)
+  - ⓐ <span class="math-inline"><sup>1</sup>∕<sub>4</sub></span>
+  - ⓑ <span class="math-inline">-<sup>1</sup>∕<sub>4</sub></span>
 
 We must be careful to follow the **order of operations**. In the next example, parts ⓐ and ⓑ look similar, but we get different results.
 
 
+<div class="example">
 **Example**
 
 
 Simplify:
-  - ⓐ \(4\cdot 2^{−1}\)
-  - ⓑ \((4\cdot 2)^{−1}\)
+  - ⓐ <span class="math-inline">4· 2<sup>−1</sup></span>
+  - ⓑ <span class="math-inline">(4· 2)<sup>−1</sup></span>
 
 
-Solution
+<div class="solution">
+<span class="def-label">Solution</span>
+
+
 Remember to always follow the order of operations.
 
 
 ⓐ
 
 
-
 Do exponents before multiplication.
-\(4\cdot 2^{−1}\)
+<span class="math-inline">4· 2<sup>−1</sup></span>
 
 
-Use \(a^{-n}=\frac{1}{a^n}.\)
-\(4\cdot \frac{1}{2^1}\)
+Use <span class="math-inline">a<sup>-n</sup>=<sup>1</sup>∕<sub>a<sup>n</sup></sub>.</span>
+<span class="math-inline">4· <sup>1</sup>∕<sub>2<sup>1</sup></sub></span>
 
 
 Simplify.
-\(2\)
+<span class="math-inline">2</span>
 
 
 ⓑ
-\((4\cdot 2)^{−1}\)
+<span class="math-inline">(4· 2)<sup>−1</sup></span>
 
 
 Simplify inside the parentheses first.
-\((8)^{−1}\)
+<span class="math-inline">(8)<sup>−1</sup></span>
 
 
-Use \(a^{-n}=\frac{1}{a^n}.\)
-\(\frac{1}{8^1}\)
+Use <span class="math-inline">a<sup>-n</sup>=<sup>1</sup>∕<sub>a<sup>n</sup></sub>.</span>
+<span class="math-inline"><sup>1</sup>∕<sub>8<sup>1</sup></sub></span>
 
 
 Simplify.
-\(\frac{1}{8}\)
+<span class="math-inline"><sup>1</sup>∕<sub>8</sub></span>
 
 
+<div class="tryit">
 **Try It**
 
 
 Simplify:
-  - ⓐ \(6\cdot 3^{−1}\)
-  - ⓑ \((6\cdot 3)^{−1}\)
+  - ⓐ <span class="math-inline">6· 3<sup>−1</sup></span>
+  - ⓑ <span class="math-inline">(6· 3)<sup>−1</sup></span>
 
 
-  - ⓐ \(2\)
-  - ⓑ \(\frac{1}{18}\)
+  - ⓐ <span class="math-inline">2</span>
+  - ⓑ <span class="math-inline"><sup>1</sup>∕<sub>18</sub></span>
 
 
+<div class="tryit">
 **Try It**
 
 
 Simplify:
-  - ⓐ \(8\cdot 2^{−2}\)
-  - ⓑ \((8\cdot 2)^{−2}\)
+  - ⓐ <span class="math-inline">8· 2<sup>−2</sup></span>
+  - ⓑ <span class="math-inline">(8· 2)<sup>−2</sup></span>
 
 
-  - ⓐ \(2\)
-  - ⓑ \(\frac{1}{256}\)
+  - ⓐ <span class="math-inline">2</span>
+  - ⓑ <span class="math-inline"><sup>1</sup>∕<sub>256</sub></span>
 
 When a variable is raised to a negative exponent, we apply the definition the same way we did with numbers.
 
 
+<div class="example">
 **Example**
 
 
-Simplify: \(x^{−6}.\)
+Simplify: <span class="math-inline">x<sup>−6</sup>.</span>
 
 
-Solution
+<div class="solution">
+<span class="def-label">Solution</span>
 
 
-
-\(x^{−6}\)
-
-
-Use the definition of a negative exponent, \(a^{-n}=\frac{1}{a^n}.\)
-\(\frac{1}{x^6}\)
+<span class="math-inline">x<sup>−6</sup></span>
 
 
+Use the definition of a negative exponent, <span class="math-inline">a<sup>-n</sup>=<sup>1</sup>∕<sub>a<sup>n</sup></sub>.</span>
+<span class="math-inline"><sup>1</sup>∕<sub>x<sup>6</sup></sub></span>
+
+
+<div class="tryit">
 **Try It**
 
 
-Simplify: \(y^{−7}.\)
+Simplify: <span class="math-inline">y<sup>−7</sup>.</span>
 
 
-\(\frac{1}{y^7}\)
+<span class="math-inline"><sup>1</sup>∕<sub>y<sup>7</sup></sub></span>
 
 
+<div class="tryit">
 **Try It**
 
 
-Simplify: \(z^{−8}.\)
+Simplify: <span class="math-inline">z<sup>−8</sup>.</span>
 
 
-\(\frac{1}{z^8}\)
+<span class="math-inline"><sup>1</sup>∕<sub>z<sup>8</sup></sub></span>
 
 
 When there is a product and an exponent we have to be careful to apply the exponent to the correct quantity. According to the **order of operations**, expressions in parentheses are simplified before exponents are applied. We’ll see how this works in the next example.
 
 
+<div class="example">
 **Example**
 
 
 Simplify:
-  - ⓐ \(5y^{−1}\)
-  - ⓑ \((5y)^{−1}\)
-  - ⓒ \((−5y)^{−1}\)
+  - ⓐ <span class="math-inline">5y<sup>−1</sup></span>
+  - ⓑ <span class="math-inline">(5y)<sup>−1</sup></span>
+  - ⓒ <span class="math-inline">(−5y)<sup>−1</sup></span>
 
 
-Solution
+<div class="solution">
+<span class="def-label">Solution</span>
 
 
 ⓐ
 
 
-Notice the exponent applies to just the base \(y\).
-\(5y^{−1}\)
+Notice the exponent applies to just the base <span class="math-inline">y</span>.
+<span class="math-inline">5y<sup>−1</sup></span>
 
 
-Take the reciprocal of \(y\) and change the sign of the exponent.
-\(5\cdot \frac{1}{y^1}\)
+Take the reciprocal of <span class="math-inline">y</span> and change the sign of the exponent.
+<span class="math-inline">5· <sup>1</sup>∕<sub>y<sup>1</sup></sub></span>
 
 
 Simplify.
-\(\frac{5}{y}\)
+<span class="math-inline"><sup>5</sup>∕<sub>y</sub></span>
 
 
 ⓑ
 
 
+Here the parentheses make the exponent apply to the base <span class="math-inline">5y</span>.
+<span class="math-inline">(5y)<sup>−1</sup></span>
 
-Here the parentheses make the exponent apply to the base \(5y\).
-\((5y)^{−1}\)
 
-
-Take the reciprocal of \(5y\) and change the sign of the exponent.
-\(\frac{1}{(5y)^1}\)
+Take the reciprocal of <span class="math-inline">5y</span> and change the sign of the exponent.
+<span class="math-inline"><sup>1</sup>∕<sub>(5y)<sup>1</sup></sub></span>
 
 
 Simplify.
-\(\frac{1}{5y}\)
+<span class="math-inline"><sup>1</sup>∕<sub>5y</sub></span>
 
 
 ⓒ
 
 
+<span class="math-inline">(−5y)<sup>−1</sup></span>
 
-\((−5y)^{−1}\)
 
-
-The base is \(-5y\). Take the reciprocal of \(-5y\) and change the sign of the exponent.
-\(\frac{1}{(−5y)^1}\)
+The base is <span class="math-inline">-5y</span>. Take the reciprocal of <span class="math-inline">-5y</span> and change the sign of the exponent.
+<span class="math-inline"><sup>1</sup>∕<sub>(−5y)<sup>1</sup></sub></span>
 
 
 Simplify.
-\(\frac{1}{−5y}\)
+<span class="math-inline"><sup>1</sup>∕<sub>−5y</sub></span>
 
 
-Use \(\frac{a}{-b}=-\frac{a}{b}.\)
-\(-\frac{1}{5y}\)
+Use <span class="math-inline"><sup>a</sup>∕<sub>-b</sub>=-<sup>a</sup>∕<sub>b</sub>.</span>
+<span class="math-inline">-<sup>1</sup>∕<sub>5y</sub></span>
 
 
+<div class="tryit">
 **Try It**
 
 
 Simplify:
-  - ⓐ \(8p^{−1}\)
-  - ⓑ \((8p)^{−1}\)
-  - ⓒ \((−8p)^{−1}\)
+  - ⓐ <span class="math-inline">8p<sup>−1</sup></span>
+  - ⓑ <span class="math-inline">(8p)<sup>−1</sup></span>
+  - ⓒ <span class="math-inline">(−8p)<sup>−1</sup></span>
 
 
-  - ⓐ \(\frac{8}{p}\)
-  - ⓑ \(\frac{1}{8p}\)
-  - ⓒ \(-\frac{1}{8p}\)
+  - ⓐ <span class="math-inline"><sup>8</sup>∕<sub>p</sub></span>
+  - ⓑ <span class="math-inline"><sup>1</sup>∕<sub>8p</sub></span>
+  - ⓒ <span class="math-inline">-<sup>1</sup>∕<sub>8p</sub></span>
 
 
+<div class="tryit">
 **Try It**
 
 
 Simplify:
-  - ⓐ \(11q^{−1}\)
-  - ⓑ \((11q)^{−1}\)
-  - ⓒ \((−11q)^{−1}\)
+  - ⓐ <span class="math-inline">11q<sup>−1</sup></span>
+  - ⓑ <span class="math-inline">(11q)<sup>−1</sup></span>
+  - ⓒ <span class="math-inline">(−11q)<sup>−1</sup></span>
 
 
-  - ⓐ \(\frac{11}{q}\)
-  - ⓑ \(\frac{1}{11q}\)
-  - ⓒ \(-\frac{1}{11q}\)
+  - ⓐ <span class="math-inline"><sup>11</sup>∕<sub>q</sub></span>
+  - ⓑ <span class="math-inline"><sup>1</sup>∕<sub>11q</sub></span>
+  - ⓒ <span class="math-inline">-<sup>1</sup>∕<sub>11q</sub></span>
 
-Now that we have defined negative exponents, the **Quotient Property of Exponents** needs only one form, \(\frac{a^m}{a^n}=a^{m-n},\) where \(a\ne 0\) and *m* and *n* are integers.
+Now that we have defined negative exponents, the **Quotient Property of Exponents** needs only one form, <span class="math-inline"><sup>a<sup>m</sup></sup>∕<sub>a<sup>n</sup></sub>=a<sup>m-n</sup>,</span> where <span class="math-inline">a≠ 0</span> and *m* and *n* are integers.
 
-When the exponent in the denominator is larger than the exponent in the numerator, the exponent of the quotient will be negative. If the result gives us a negative exponent, we will rewrite it by using the definition of negative exponents, \(a^{-n}=\frac{1}{a^n}.\)
+When the exponent in the denominator is larger than the exponent in the numerator, the exponent of the quotient will be negative. If the result gives us a negative exponent, we will rewrite it by using the definition of negative exponents, <span class="math-inline">a<sup>-n</sup>=<sup>1</sup>∕<sub>a<sup>n</sup></sub>.</span>
 
+
+---
+
+
+---
 
 ## Simplify Expressions with Integer Exponents
+
 
 All the exponent properties we developed earlier in this chapter with whole number exponents apply to integer exponents, too. We restate them here for reference.
 
 
-**Summary of Exponent Properties**
-
-If \(a,b\) are real numbers and \(m,n\) are integers, then
+<div class="definition-label">**Summary of Exponent Properties**</div>
 
 
-$$
-Product Property &  &  & a^m\cdot a^n=a^{m+n} \\
-Power Property &  &  & (a^m)^n=a^{m\cdot n} \\
-Product to a Power Property &  &  & (ab)^m=a^mb^m \\
-Quotient Property &  &  & \frac{a^m}{a^n}=a^{m-n}, a\ne 0 \\
-Zero Exponent Property &  &  & a^0=1, \\
-Quotient to a Power Property &  &  & (\frac{a}{b})^m=\frac{a^m}{b^m}, b\ne 0 \\
-Definition of Negative Exponent &  &  & a^{-n}=\frac{1}{a^n}
-$$
+If <span class="math-inline">a,b</span> are real numbers and <span class="math-inline">m,n</span> are integers, then
 
 
+<div class="math-display">
+Product Property &  &  & a<sup>m</sup>· a<sup>n</sup>=a<sup>m+n</sup> \\
+Power Property &  &  & (a<sup>m</sup>)<sup>n</sup>=a<sup>m· n</sup> \\
+Product to a Power Property &  &  & (ab)<sup>m</sup>=a<sup>m</sup>b<sup>m</sup> \\
+Quotient Property &  &  & <sup>a<sup>m</sup></sup>∕<sub>a<sup>n</sup></sub>=a<sup>m-n</sup>, a≠ 0 \\
+Zero Exponent Property &  &  & a<sup>0</sup>=1, \\
+Quotient to a Power Property &  &  & (<sup>a</sup>∕<sub>b</sub>)<sup>m</sup>=<sup>a<sup>m</sup></sup>∕<sub>b<sup>m</sup></sub>, b≠ 0 \\
+Definition of Negative Exponent &  &  & a<sup>-n</sup>=<sup>1</sup>∕<sub>a<sup>n</sup></sub>
+</div>
+
+
+<div class="example">
 **Example**
 
 
 Simplify:
-  - ⓐ \(x^{−4}\cdot x^6\)
-  - ⓑ \(y^{−6}\cdot y^4\)
-  - ⓒ \(z^{−5}\cdot z^{−3}\)
+  - ⓐ <span class="math-inline">x<sup>−4</sup>· x<sup>6</sup></span>
+  - ⓑ <span class="math-inline">y<sup>−6</sup>· y<sup>4</sup></span>
+  - ⓒ <span class="math-inline">z<sup>−5</sup>· z<sup>−3</sup></span>
 
 
-Solution
+<div class="solution">
+<span class="def-label">Solution</span>
 
 
 ⓐ
 
 
-\(x^{−4}\cdot x^6\)
+<span class="math-inline">x<sup>−4</sup>· x<sup>6</sup></span>
 
 
-Use the Product Property, \(a^m\cdot a^n=a^{m+n}.\)
-\(x^{−4+6}\)
+Use the Product Property, <span class="math-inline">a<sup>m</sup>· a<sup>n</sup>=a<sup>m+n</sup>.</span>
+<span class="math-inline">x<sup>−4+6</sup></span>
 
 
 Simplify.
-\(x^2\)
+<span class="math-inline">x<sup>2</sup></span>
 
 
 ⓑ
 
 
-\(y^{−6}\cdot y^4\)
+<span class="math-inline">y<sup>−6</sup>· y<sup>4</sup></span>
 
 
 The bases are the same, so add the exponents.
-\(y^{−6+4}\)
+<span class="math-inline">y<sup>−6+4</sup></span>
 
 
 Simplify.
-\(y^{−2}\)
+<span class="math-inline">y<sup>−2</sup></span>
 
 
-Use the definition of a negative exponent, \(a^{-n}=\frac{1}{a^n}.\)
-\(\frac{1}{y^2}\)
+Use the definition of a negative exponent, <span class="math-inline">a<sup>-n</sup>=<sup>1</sup>∕<sub>a<sup>n</sup></sub>.</span>
+<span class="math-inline"><sup>1</sup>∕<sub>y<sup>2</sup></sub></span>
 
 
 ⓒ
 
 
-\(z^{−5}\cdot z^{−3}\)
+<span class="math-inline">z<sup>−5</sup>· z<sup>−3</sup></span>
 
 
 The bases are the same, so add the exponents.
-\(z^{−5−3}\)
+<span class="math-inline">z<sup>−5−3</sup></span>
 
 
 Simplify.
-\(z^{−8}\)
+<span class="math-inline">z<sup>−8</sup></span>
 
 
-Use the definition of a negative exponent, \(a^{-n}=\frac{1}{a^n}.\)
-\(\frac{1}{z^8}\)
+Use the definition of a negative exponent, <span class="math-inline">a<sup>-n</sup>=<sup>1</sup>∕<sub>a<sup>n</sup></sub>.</span>
+<span class="math-inline"><sup>1</sup>∕<sub>z<sup>8</sup></sub></span>
 
 
+<div class="tryit">
 **Try It**
 
 
 Simplify:
-  - ⓐ \(x^{−3}\cdot x^7\)
-  - ⓑ \(y^{−7}\cdot y^2\)
-  - ⓒ \(z^{−4}\cdot z^{−5}\)
+  - ⓐ <span class="math-inline">x<sup>−3</sup>· x<sup>7</sup></span>
+  - ⓑ <span class="math-inline">y<sup>−7</sup>· y<sup>2</sup></span>
+  - ⓒ <span class="math-inline">z<sup>−4</sup>· z<sup>−5</sup></span>
 
 
-  - ⓐ \(x^4\)
-  - ⓑ \(\frac{1}{y^5}\)
-  - ⓒ \(\frac{1}{z^9}\)
+  - ⓐ <span class="math-inline">x<sup>4</sup></span>
+  - ⓑ <span class="math-inline"><sup>1</sup>∕<sub>y<sup>5</sup></sub></span>
+  - ⓒ <span class="math-inline"><sup>1</sup>∕<sub>z<sup>9</sup></sub></span>
 
 
+<div class="tryit">
 **Try It**
 
 
 Simplify:
-  - ⓐ \(a^{−1}\cdot a^6\)
-  - ⓑ \(b^{−8}\cdot b^4\)
-  - ⓒ \(c^{−8}\cdot c^{−7}\)
+  - ⓐ <span class="math-inline">a<sup>−1</sup>· a<sup>6</sup></span>
+  - ⓑ <span class="math-inline">b<sup>−8</sup>· b<sup>4</sup></span>
+  - ⓒ <span class="math-inline">c<sup>−8</sup>· c<sup>−7</sup></span>
 
 
-  - ⓐ \(a^5\)
-  - ⓑ \(\frac{1}{b^4}\)
-  - ⓒ \(\frac{1}{c^{15}}\)
+  - ⓐ <span class="math-inline">a<sup>5</sup></span>
+  - ⓑ <span class="math-inline"><sup>1</sup>∕<sub>b<sup>4</sup></sub></span>
+  - ⓒ <span class="math-inline"><sup>1</sup>∕<sub>c<sup>15</sub></sup></span>
 
 In the next two examples, we’ll start by using the **Commutative Property** to group the same variables together. This makes it easier to identify the like bases before using the **Product Property of Exponents**.
 
 
+<div class="example">
 **Example**
 
 
-Simplify: \((m^4n^{−3})(m^{−5}n^{−2}).\)
+Simplify: <span class="math-inline">(m<sup>4</sup>n<sup>−3</sup>)(m<sup>−5</sup>n<sup>−2</sup>).</span>
 
 
-Solution
+<div class="solution">
+<span class="def-label">Solution</span>
 
 
-
-\((m^4n^{−3})(m^{−5}n^{−2})\)
+<span class="math-inline">(m<sup>4</sup>n<sup>−3</sup>)(m<sup>−5</sup>n<sup>−2</sup>)</span>
 
 
 Use the Commutative Property to get like bases together.
-\(m^4m^{−5}\cdot n^{−2}n^{−3}\)
+<span class="math-inline">m<sup>4</sup>m<sup>−5</sup>· n<sup>−2</sup>n<sup>−3</sup></span>
 
 
 Add the exponents for each base.
-\(m^{−1}\cdot n^{−5}\)
+<span class="math-inline">m<sup>−1</sup>· n<sup>−5</sup></span>
 
 
 Take reciprocals and change the signs of the exponents.
-\(\frac{1}{m^1}\cdot \frac{1}{n^5}\)
+<span class="math-inline"><sup>1</sup>∕<sub>m<sup>1</sup></sub>· <sup>1</sup>∕<sub>n<sup>5</sup></sub></span>
 
 
 Simplify.
-\(\frac{1}{mn^5}\)
+<span class="math-inline"><sup>1</sup>∕<sub>mn<sup>5</sup></sub></span>
 
 
+<div class="tryit">
 **Try It**
 
 
-Simplify: \((p^6q^{−2})(p^{−9}q^{−1}).\)
+Simplify: <span class="math-inline">(p<sup>6</sup>q<sup>−2</sup>)(p<sup>−9</sup>q<sup>−1</sup>).</span>
 
 
-\(\frac{1}{p^3q^3}\)
+<span class="math-inline"><sup>1</sup>∕<sub>p<sup>3</sup>q<sup>3</sup></sub></span>
 
 
+<div class="tryit">
 **Try It**
 
 
-Simplify: \((r^5s^{−3})(r^{−7}s^{−5}).\)
+Simplify: <span class="math-inline">(r<sup>5</sup>s<sup>−3</sup>)(r<sup>−7</sup>s<sup>−5</sup>).</span>
 
 
-\(\frac{1}{r^2s^8}\)
+<span class="math-inline"><sup>1</sup>∕<sub>r<sup>2</sup>s<sup>8</sup></sub></span>
 
 
 If the monomials have numerical coefficients, we multiply the coefficients, just as we did in Use Multiplication Properties of Exponents.
 
 
+<div class="example">
 **Example**
 
 
-Simplify: \((2x^{−6}y^8)(−5x^5y^{−3}).\)
+Simplify: <span class="math-inline">(2x<sup>−6</sup>y<sup>8</sup>)(−5x<sup>5</sup>y<sup>−3</sup>).</span>
 
 
-Solution
+<div class="solution">
+<span class="def-label">Solution</span>
 
 
-
-\((2x^{−6}y^8)(−5x^5y^{−3})\)
+<span class="math-inline">(2x<sup>−6</sup>y<sup>8</sup>)(−5x<sup>5</sup>y<sup>−3</sup>)</span>
 
 
 Rewrite with the like bases together.
-\(2(−5)\cdot (x^{−6}x^5)\cdot (y^8y^{−3})\)
+<span class="math-inline">2(−5)· (x<sup>−6</sup>x<sup>5</sup>)· (y<sup>8</sup>y<sup>−3</sup>)</span>
 
 
 Simplify.
-\(−10\cdot x^{−1}\cdot y^5\)
+<span class="math-inline">−10· x<sup>−1</sup>· y<sup>5</sup></span>
 
 
-Use the definition of a negative exponent, \(a^{-n}=\frac{1}{a^n}.\)
-\(−10\cdot \frac{1}{x^1}\cdot y^5\)
+Use the definition of a negative exponent, <span class="math-inline">a<sup>-n</sup>=<sup>1</sup>∕<sub>a<sup>n</sup></sub>.</span>
+<span class="math-inline">−10· <sup>1</sup>∕<sub>x<sup>1</sup></sub>· y<sup>5</sup></span>
 
 
 Simplify.
-\(\frac{−10y^5}{x}\)
+<span class="math-inline"><sup>−10y<sup>5</sup></sup>∕<sub>x</sub></span>
 
 
+<div class="tryit">
 **Try It**
 
 
-Simplify: \((3u^{−5}v^7)(−4u^4v^{−2}).\)
+Simplify: <span class="math-inline">(3u<sup>−5</sup>v<sup>7</sup>)(−4u<sup>4</sup>v<sup>−2</sup>).</span>
 
 
-\(-\frac{12v^5}{u}\)
+<span class="math-inline">-<sup>12v<sup>5</sup></sup>∕<sub>u</sub></span>
 
 
+<div class="tryit">
 **Try It**
 
 
-Simplify: \((−6c^{−6}d^4)(−5c^{−2}d^{−1}).\)
+Simplify: <span class="math-inline">(−6c<sup>−6</sup>d<sup>4</sup>)(−5c<sup>−2</sup>d<sup>−1</sup>).</span>
 
 
-\(\frac{30d^3}{c^8}\)
+<span class="math-inline"><sup>30d<sup>3</sup></sup>∕<sub>c<sup>8</sup></sub></span>
 
 
 In the next two examples, we’ll use the **Power Property** and the **Product to a Power Property**.
 
 
+<div class="example">
 **Example**
 
 
-Simplify: \((k^3)^{−2}.\)
+Simplify: <span class="math-inline">(k<sup>3</sup>)<sup>−2</sup>.</span>
 
 
-Solution
+<div class="solution">
+<span class="def-label">Solution</span>
 
 
+<span class="math-inline">(k<sup>3</sup>)<sup>−2</sup></span>
 
-\((k^3)^{−2}\)
 
+Use the Product to a Power Property, <span class="math-inline">(ab)<sup>m</sup>=a<sup>m</sup>b<sup>m</sup>.</span>
 
-Use the Product to a Power Property, \((ab)^m=a^mb^m.\)
-
-\(k^{3(−2)}\)
+<span class="math-inline">k<sup>3(−2)</sup></span>
 
 
 Simplify.
-\(k^{−6}\)
+<span class="math-inline">k<sup>−6</sup></span>
 
 
 Rewrite with a positive exponent.
-\(\frac{1}{k^6}\)
+<span class="math-inline"><sup>1</sup>∕<sub>k<sup>6</sup></sub></span>
 
 
+<div class="tryit">
 **Try It**
 
 
-Simplify: \((x^4)^{−1}.\)
+Simplify: <span class="math-inline">(x<sup>4</sup>)<sup>−1</sup>.</span>
 
 
-\(\frac{1}{x^4}\)
+<span class="math-inline"><sup>1</sup>∕<sub>x<sup>4</sup></sub></span>
 
 
+<div class="tryit">
 **Try It**
 
 
-Simplify: \((y^2)^{−2}.\)
+Simplify: <span class="math-inline">(y<sup>2</sup>)<sup>−2</sup>.</span>
 
 
-\(\frac{1}{y^4}\)
+<span class="math-inline"><sup>1</sup>∕<sub>y<sup>4</sup></sub></span>
 
 
+<div class="example">
 **Example**
 
 
-Simplify: \((5x^{−3})^2.\)
+Simplify: <span class="math-inline">(5x<sup>−3</sup>)<sup>2</sup>.</span>
 
 
-Solution
+<div class="solution">
+<span class="def-label">Solution</span>
 
 
-
-\((5x^{−3})^2\)
-
-
-Use the Product to a Power Property, \((ab)^m=a^mb^m.\)
-
-\(5^2(x^{−3})^2\)
+<span class="math-inline">(5x<sup>−3</sup>)<sup>2</sup></span>
 
 
-Simplify \(5^2\) and multiply the exponents of \(x\) using the
- Power Property, \((a^m)^n=a^{m\cdot n}.\)
+Use the Product to a Power Property, <span class="math-inline">(ab)<sup>m</sup>=a<sup>m</sup>b<sup>m</sup>.</span>
 
-\(25x^{−6}\)
+<span class="math-inline">5<sup>2</sup>(x<sup>−3</sup>)<sup>2</sup></span>
 
 
-Rewrite \(x^{−6}\) by using the definition of a negative
- exponent, \(a^{-n}=\frac{1}{a^n}.\)
+Simplify <span class="math-inline">5<sup>2</sup></span> and multiply the exponents of <span class="math-inline">x</span> using the
+ Power Property, <span class="math-inline">(a<sup>m</sup>)<sup>n</sup>=a<sup>m· n</sup>.</span>
 
-\(25\cdot \frac{1}{x^6}\)
+<span class="math-inline">25x<sup>−6</sup></span>
+
+
+Rewrite <span class="math-inline">x<sup>−6</sup></span> by using the definition of a negative
+ exponent, <span class="math-inline">a<sup>-n</sup>=<sup>1</sup>∕<sub>a<sup>n</sup></sub>.</span>
+
+<span class="math-inline">25· <sup>1</sup>∕<sub>x<sup>6</sup></sub></span>
 
 
 Simplify
-\(\frac{25}{x^6}\)
+<span class="math-inline"><sup>25</sup>∕<sub>x<sup>6</sup></sub></span>
 
 
+<div class="tryit">
 **Try It**
 
 
-Simplify: \((8a^{−4})^2.\)
+Simplify: <span class="math-inline">(8a<sup>−4</sup>)<sup>2</sup>.</span>
 
 
-\(\frac{64}{a^8}\)
+<span class="math-inline"><sup>64</sup>∕<sub>a<sup>8</sup></sub></span>
 
 
+<div class="tryit">
 **Try It**
 
 
-Simplify: \((2c^{−4})^3.\)
+Simplify: <span class="math-inline">(2c<sup>−4</sup>)<sup>3</sup>.</span>
 
 
-\(\frac{8}{c^{12}}\)
+<span class="math-inline"><sup>8</sup>∕<sub>c<sup>12</sub></sup></span>
 
 
 To simplify a fraction, we use the **Quotient Property**.
 
 
+<div class="example">
 **Example**
 
 
-Simplify: \(\frac{r^5}{r^{−4}}.\)
+Simplify: <span class="math-inline"><sup>r<sup>5</sup></sup>∕<sub>r<sup>−4</sub></sup>.</span>
 
 
-Solution
+<div class="solution">
+<span class="def-label">Solution</span>
 
 
-
-
-
-Use the Quotient Property, \(\frac{a^m}{a^n}=a^{m-n}\).
+Use the Quotient Property, <span class="math-inline"><sup>a<sup>m</sup></sup>∕<sub>a<sup>n</sup></sub>=a<sup>m-n</sup></span>.
 
 
 Simplify.
 
 
+<div class="tryit">
 **Try It**
 
 
-Simplify: \(\frac{x^8}{x^{−3}}.\)
+Simplify: <span class="math-inline"><sup>x<sup>8</sup></sup>∕<sub>x<sup>−3</sub></sup>.</span>
 
 
 *x*11
 
 
+<div class="tryit">
 **Try It**
 
 
-Simplify: \(\frac{y^7}{y^{−6}}.\)
+Simplify: <span class="math-inline"><sup>y<sup>7</sup></sup>∕<sub>y<sup>−6</sub></sup>.</span>
 
 
 *y*13
+
+</div>
+
+</div>
+
+</div>
+
+</div>
+
+</div>
+
+</div>
+
+</div>
+
+</div>
+
+</div>
+
+</div>
+
+</div>
+
+</div>
+
+</div>
+
+</div>
+
+</div>
+
+</div>
+
+</div>
+
+</div>
+
+</div>
+
+</div>
+
+</div>
+
+</div>
+
+</div>
+
+</div>
+
+</div>
+
+</div>
+
+</div>
+
+</div>
+
+</div>
+
+</div>
+
+</div>
+
+</div>
+
+</div>
+
+</div>
+
+</div>
+
+</div>
+
+</div>
+
+</div>
+
+</div>
+
+</div>
+
+</div>
+
+</div>
+
+</div>
+
+</div>
+
+</div>
+
+</div>
+
+</div>

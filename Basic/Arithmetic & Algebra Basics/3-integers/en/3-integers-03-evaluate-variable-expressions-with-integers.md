@@ -1,150 +1,190 @@
+<style>
+.math-inline {
+    font-style: italic;
+    padding: 2px 6px;
+    border-radius: 4px;
+    background: #f8f9fa;
+    font-family: Georgia, serif;
+}
+.math-display {
+    background: #f8f9fa;
+    border-left: 4px solid #4a90d9;
+    padding: 16px 20px;
+    margin: 16px 0;
+    border-radius: 6px;
+    font-size: 1.15em;
+    font-family: Georgia, serif;
+    text-align: center;
+    line-height: 2;
+    overflow-x: auto;
+}
+.example-box, .example {
+    background: #f0f8ff;
+    border-left: 4px solid #2e86de;
+    padding: 12px 20px;
+    margin: 16px 0;
+    border-radius: 6px;
+}
+.tryit-box, .tryit {
+    background: #f0fff4;
+    border-left: 4px solid #27ae60;
+    padding: 12px 20px;
+    margin: 16px 0;
+    border-radius: 6px;
+}
+.solution-box, .solution {
+    background: #fef9e7;
+    border-left: 4px solid #f39c12;
+    padding: 12px 20px;
+    margin: 12px 0;
+    border-radius: 6px;
+}
+.check-box, .check {
+    background: #fef9e7;
+    border-left: 4px solid #f39c12;
+    padding: 12px 20px;
+    margin: 12px 0;
+    border-radius: 6px;
+}
+.prep-quiz {
+    background: #fff3cd;
+    border: 1px solid #ffc107;
+    padding: 12px 20px;
+    margin: 16px 0;
+    border-radius: 6px;
+}
+.def-label, .definition-label {
+    font-weight: bold;
+    font-size: 1.1em;
+    margin: 20px 0 8px 0;
+    color: #2c3e50;
+    display: block;
+}
+.math-display sup, .math-inline sup { font-size: 0.75em; line-height: 0; }
+.math-display sub, .math-inline sub { font-size: 0.75em; line-height: 0; }
+</style>
+
+
+---
+
+
+---
+
 ## Evaluate Variable Expressions with Integers
+
 
 Remember that to evaluate an expression means to substitute a number for the **variable** in the expression. Now we can use negative numbers as well as positive numbers when evaluating **expressions**.
 
 
+<div class="example">
 **Example**
 
 
-Evaluate \(x+7 when\)
+Evaluate <span class="math-inline">x+7 when</span>
 
 
-  - ⓐ \(x=−2\)
-  - ⓑ \(x=−11.\)
+  - ⓐ <span class="math-inline">x=−2</span>
+  - ⓑ <span class="math-inline">x=−11.</span>
 
 
-Solution
+<div class="solution">
+<span class="def-label">Solution</span>
 
 
-
-   ⓐ Evaluate \(x+7\) when \(x=−2\)
-
-
-
-
-
-
-
+   ⓐ Evaluate <span class="math-inline">x+7</span> when <span class="math-inline">x=−2</span>
 
 
    Simplify.
 
 
-
-
-
-   ⓑ Evaluate \(x+7\) when \(x=−11\)
-
-
-
-
-
-
-
+   ⓑ Evaluate <span class="math-inline">x+7</span> when <span class="math-inline">x=−11</span>
 
 
    Simplify.
 
 
-
-
+<div class="tryit">
 **Try It**
 
 
-Evaluate each expression for the given values:\(x+5 when\)
+Evaluate each expression for the given values:<span class="math-inline">x+5 when</span>
 
-  -  ⓐ \(x=−3 and\)
-  -  ⓑ \(x=−17\)
+  -  ⓐ <span class="math-inline">x=−3 and</span>
+  -  ⓑ <span class="math-inline">x=−17</span>
 
 
   -  ⓐ 2
   - ⓑ −12
 
 
+<div class="tryit">
 **Try It**
 
 
-Evaluate each expression for the given values: \(y+7\) when
+Evaluate each expression for the given values: <span class="math-inline">y+7</span> when
 
-  - ⓐ \(y=−5\)
-  - ⓑ \(y=−8\)
+  - ⓐ <span class="math-inline">y=−5</span>
+  - ⓑ <span class="math-inline">y=−8</span>
 
 
   - ⓐ 2
   - ⓑ −1
 
 
+<div class="example">
 **Example**
 
 
-When \(n=−5,\) evaluate
+When <span class="math-inline">n=−5,</span> evaluate
 
 
-  - ⓐ \(n+1\)
-  - ⓑ \(-n+1.\)
+  - ⓐ <span class="math-inline">n+1</span>
+  - ⓑ <span class="math-inline">-n+1.</span>
 
 
-Solution
+<div class="solution">
+<span class="def-label">Solution</span>
 
 
-
-   ⓐ Evaluate \(n+1\) when \(n=−5\)
-
-
-
-
-
-
-
+   ⓐ Evaluate <span class="math-inline">n+1</span> when <span class="math-inline">n=−5</span>
 
 
    Simplify.
 
 
-
-
-
-   ⓑ Evaluate \(-n+1\) when \(n=−5\)
-
-
-
-
-
-
-
+   ⓑ Evaluate <span class="math-inline">-n+1</span> when <span class="math-inline">n=−5</span>
 
 
    Simplify.
-
 
 
  	Add.
 
 
-
-
+<div class="tryit">
 **Try It**
 
 
-When \(n=−8,\) evaluate
+When <span class="math-inline">n=−8,</span> evaluate
 
 
-  - ⓐ \(n+2\)
-  - ⓑ \(-n+2\)
+  - ⓐ <span class="math-inline">n+2</span>
+  - ⓑ <span class="math-inline">-n+2</span>
 
 
   -  ⓐ −6
   -  ⓑ 10
 
 
+<div class="tryit">
 **Try It**
 
 
-\(When y=−9, evaluate\)
+<span class="math-inline">When y=−9, evaluate</span>
 
 
-  - ⓐ \(y+8\)
-  - ⓑ \(-y+8.\)
+  - ⓐ <span class="math-inline">y+8</span>
+  - ⓑ <span class="math-inline">-y+8.</span>
 
 
   - ⓐ −1
@@ -153,212 +193,227 @@ When \(n=−8,\) evaluate
 Next we'll evaluate an expression with two variables.
 
 
+<div class="example">
 **Example**
 
 
-Evaluate \(3a+b\) when \(a=12\) and \(b=−30.\)
+Evaluate <span class="math-inline">3a+b</span> when <span class="math-inline">a=12</span> and <span class="math-inline">b=−30.</span>
 
 
-Solution
-
-
-
-
-
-
-
-
-
+<div class="solution">
+<span class="def-label">Solution</span>
 
 
    Multiply.
 
 
-
  	Add.
 
 
-
-
+<div class="tryit">
 **Try It**
 
 
 Evaluate the expression:
-\(a+2b when a=−19 and b=14.\)
+<span class="math-inline">a+2b when a=−19 and b=14.</span>
 
 
 9
 
 
+<div class="tryit">
 **Try It**
 
 
 Evaluate the expression:
-\(5p+q when p=4 and q=−7.\)
+<span class="math-inline">5p+q when p=4 and q=−7.</span>
 
 
 13
 
 
+<div class="example">
 **Example**
 
 
-Evaluate \((x+y)^2\) when \(x=−18\) and \(y=24.\)
+Evaluate <span class="math-inline">(x+y)<sup>2</sup></span> when <span class="math-inline">x=−18</span> and <span class="math-inline">y=24.</span>
 
 
-Solution
-This expression has two variables. Substitute \(−18\) for \(x\) and \(24\) for \(y.\)
+<div class="solution">
+<span class="def-label">Solution</span>
 
 
+This expression has two variables. Substitute <span class="math-inline">−18</span> for <span class="math-inline">x</span> and <span class="math-inline">24</span> for <span class="math-inline">y.</span>
 
 
-   \((x+y)^2\)
+   <span class="math-inline">(x+y)<sup>2</sup></span>
 
 
-
-   \((−18+24)^2\)
+   <span class="math-inline">(−18+24)<sup>2</sup></span>
 
 
    Add inside the parentheses.
-   \((6)^2\)
+   <span class="math-inline">(6)<sup>2</sup></span>
 
 
  	Simplify
- 	\(36\)
+ 	<span class="math-inline">36</span>
 
 
-
+<div class="tryit">
 **Try It**
 
 
 Evaluate:
-\((x+y)^2\) when \(x=−15\) and \(y=29.\)
+<span class="math-inline">(x+y)<sup>2</sup></span> when <span class="math-inline">x=−15</span> and <span class="math-inline">y=29.</span>
 
 
 196
 
 
+<div class="tryit">
 **Try It**
 
 
 Evaluate:
-\((x+y)^3\) when \(x=−8\) and \(y=10.\)
+<span class="math-inline">(x+y)<sup>3</sup></span> when <span class="math-inline">x=−8</span> and <span class="math-inline">y=10.</span>
 
 
 8
 
 
+---
+
+
+---
+
 ## Translate Word Phrases to Algebraic Expressions
+
 
 All our earlier work translating word phrases to algebra also applies to expressions that include both positive and negative numbers. Remember that the phrase *the sum* indicates addition.
 
 
+<div class="example">
 **Example**
 
 
-Translate and simplify: the sum of \(−9\) and \(5.\)
+Translate and simplify: the sum of <span class="math-inline">−9</span> and <span class="math-inline">5.</span>
 
 
-Solution
-
+<div class="solution">
+<span class="def-label">Solution</span>
 
 
    The sum of −9 and 5 indicates addition.
-   the sum of \(−9\) and \(5\)
+   the sum of <span class="math-inline">−9</span> and <span class="math-inline">5</span>
 
 
    Translate.
-   \(−9+5\)
+   <span class="math-inline">−9+5</span>
 
 
    Simplify.
-   \(−4\)
+   <span class="math-inline">−4</span>
 
 
-
+<div class="tryit">
 **Try It**
 
 
 Translate and simplify the expression:
-the sum of \(−7\) and \(4\)
+the sum of <span class="math-inline">−7</span> and <span class="math-inline">4</span>
 
 
 −7 + 4 = −3
 
 
+<div class="tryit">
 **Try It**
 
 
 Translate and simplify the expression:
-the sum of \(−8\) and \(−6\)
+the sum of <span class="math-inline">−8</span> and <span class="math-inline">−6</span>
 
 
 −8 + (−6) = −14
 
 
+<div class="example">
 **Example**
 
 
-Translate and simplify: the sum of \(8\) and \(−12,\) increased by \(3.\)
+Translate and simplify: the sum of <span class="math-inline">8</span> and <span class="math-inline">−12,</span> increased by <span class="math-inline">3.</span>
 
 
-Solution
+<div class="solution">
+<span class="def-label">Solution</span>
+
+
 The phrase *increased by* indicates addition.
 
 
-
-
-   The sum of \(8\) and \(−12\), increased by \(3\)
+   The sum of <span class="math-inline">8</span> and <span class="math-inline">−12</span>, increased by <span class="math-inline">3</span>
 
 
    Translate.
-   \([8+(−12)]+3\)
+   <span class="math-inline">[8+(−12)]+3</span>
 
 
    Simplify.
-   \(−4+3\)
+   <span class="math-inline">−4+3</span>
 
 
 Add.
-\(−1\)
+<span class="math-inline">−1</span>
 
 
+<div class="tryit">
 **Try It**
 
 
 Translate and simplify:
-the sum of \(9\) and \(−16,\) increased by \(4.\)
+the sum of <span class="math-inline">9</span> and <span class="math-inline">−16,</span> increased by <span class="math-inline">4.</span>
 
 
 [9 + (−16)] + 4 = −3
 
 
+<div class="tryit">
 **Try It**
 
 
 Translate and simplify:
-the sum of \(−8\) and \(−12,\) increased by \(7.\)
+the sum of <span class="math-inline">−8</span> and <span class="math-inline">−12,</span> increased by <span class="math-inline">7.</span>
 
 
 [−8 + (−12)] + 7 = −13
 
 
+---
+
+
+---
+
 ## Add Integers in Applications
 
-Recall that we were introduced to some situations in everyday life that use positive and negative numbers, such as temperatures, banking, and sports. For example, a debt of \($5\) could be represented as \(−$5.\) Let’s practice translating and solving a few applications.
+
+Recall that we were introduced to some situations in everyday life that use positive and negative numbers, such as temperatures, banking, and sports. For example, a debt of <span class="math-inline">$5</span> could be represented as <span class="math-inline">−$5.</span> Let’s practice translating and solving a few applications.
 
 Solving applications is easy if we have a plan. First, we determine what we are looking for. Then we write a phrase that gives the information to find it. We translate the phrase into math notation and then simplify to get the answer. Finally, we write a sentence to answer the question.
 
 
+<div class="example">
 **Example**
 
 
-The temperature in Buffalo, NY, one morning started at \(7 degrees\) below zero Fahrenheit. By noon, it had warmed up \(12 degrees.\) What was the temperature at noon?
+The temperature in Buffalo, NY, one morning started at <span class="math-inline">7 degrees</span> below zero Fahrenheit. By noon, it had warmed up <span class="math-inline">12 degrees.</span> What was the temperature at noon?
 
 
-Solution
+<div class="solution">
+<span class="def-label">Solution</span>
+
+
 We are asked to find the temperature at noon.
-
 
 
     Write a phrase for the temperature.
@@ -373,39 +428,42 @@ We are asked to find the temperature at noon.
     5
 
 
-
     Write a sentence to answer the question.
     The temperature at noon was 5 degrees Fahrenheit.
 
 
-
+<div class="tryit">
 **Try It**
 
 
-The temperature in Chicago at 5 A.M. was \(10 degrees\) below zero Celsius. Six hours later, it had warmed up \(14 degrees Celsius.\) What is the temperature at 11 A.M.?
+The temperature in Chicago at 5 A.M. was <span class="math-inline">10 degrees</span> below zero Celsius. Six hours later, it had warmed up <span class="math-inline">14 degrees Celsius.</span> What is the temperature at 11 A.M.?
 
 
 4 degrees Celsius
 
 
+<div class="tryit">
 **Try It**
 
 
-A scuba diver was swimming \(16 feet\) below the surface and then dove down another \(17 feet.\) What is her new depth?
+A scuba diver was swimming <span class="math-inline">16 feet</span> below the surface and then dove down another <span class="math-inline">17 feet.</span> What is her new depth?
 
 
 −33 feet
 
 
+<div class="example">
 **Example**
 
 
-A football team took possession of the football on their \(42-yard line.\) In the next three plays, they lost \(6 yards,\) gained \(4 yards,\) and then lost \(8 yards.\) On what yard line was the ball at the end of those three plays?
+A football team took possession of the football on their <span class="math-inline">42-yard line.</span> In the next three plays, they lost <span class="math-inline">6 yards,</span> gained <span class="math-inline">4 yards,</span> and then lost <span class="math-inline">8 yards.</span> On what yard line was the ball at the end of those three plays?
 
 
-Solution
+<div class="solution">
+<span class="def-label">Solution</span>
+
+
 We are asked to find the yard line the ball was on at the end of three plays.
-
 
 
     Write a word phrase for the position of the ball.
@@ -420,31 +478,32 @@ We are asked to find the yard line the ball was on at the end of three plays.
     32
 
 
-
     Write a sentence to answer the question.
     At the end of the three plays, the ball is on the 32-yard line.
 
 
-
+<div class="tryit">
 **Try It**
 
 
-The Bears took possession of the football on their \(20-yard line.\) In the next three plays, they lost \(9 yards,\) gained \(7 yards,\) then lost \(4 yards.\) On what yard line was the ball at the end of those three plays?
+The Bears took possession of the football on their <span class="math-inline">20-yard line.</span> In the next three plays, they lost <span class="math-inline">9 yards,</span> gained <span class="math-inline">7 yards,</span> then lost <span class="math-inline">4 yards.</span> On what yard line was the ball at the end of those three plays?
 
 
 14-yard line
 
 
+<div class="tryit">
 **Try It**
 
 
-The Chargers began with the football on their \(25-yard line.\) They gained \(5 yards,\) lost \(8 yards\) and then gained \(15 yards\) on the next three plays. Where was the ball at the end of these plays?
+The Chargers began with the football on their <span class="math-inline">25-yard line.</span> They gained <span class="math-inline">5 yards,</span> lost <span class="math-inline">8 yards</span> and then gained <span class="math-inline">15 yards</span> on the next three plays. Where was the ball at the end of these plays?
 
 
 37-yard line
 
 
-**ACCESS ADDITIONAL ONLINE RESOURCES**
+<div class="definition-label">**ACCESS ADDITIONAL ONLINE RESOURCES**</div>
+
 
 - Adding Integers with Same Sign Using Color Counters
 
@@ -455,15 +514,19 @@ The Chargers began with the football on their \(25-yard line.\) They gained \(5 
 - Ex2: Adding Integers
 
 
+---
+
+
+---
+
 ## Key Concepts
+
 
 - *Addition of Positive and Negative Integers*
 
 
-
-
-    \(5+3\)
-    \(−5+(−3)\)
+    <span class="math-inline">5+3</span>
+    <span class="math-inline">−5+(−3)</span>
 
 
     both positive, sum positive
@@ -473,8 +536,8 @@ The Chargers began with the football on their \(25-yard line.\) They gained \(5 
 When the signs are the same, the counters would be all the same color, so add them.
 
 
- \(−5+3\)
-    \(5+(−3)\)
+ <span class="math-inline">−5+3</span>
+    <span class="math-inline">5+(−3)</span>
 
 
 different signs, more negatives
@@ -493,40 +556,40 @@ When the signs are different, some counters would make neutral pairs; subtract t
 In the following exercises, model the expression to simplify.
 
 
-\(7+4\)
+<span class="math-inline">7+4</span>
 
 
 11
 
 
-\(8+5\)
+<span class="math-inline">8+5</span>
 
 
-\(−6+(−3)\)
+<span class="math-inline">−6+(−3)</span>
 
 
 −9
 
 
-\(−5+(−5)\)
+<span class="math-inline">−5+(−5)</span>
 
 
-\(−7+5\)
+<span class="math-inline">−7+5</span>
 
 
 −2
 
 
-\(−9+6\)
+<span class="math-inline">−9+6</span>
 
 
-\(8+(−7)\)
+<span class="math-inline">8+(−7)</span>
 
 
 1
 
 
-\(9+(−4)\)
+<span class="math-inline">9+(−4)</span>
 
 
 *Simplify Expressions with Integers*
@@ -534,76 +597,76 @@ In the following exercises, model the expression to simplify.
 In the following exercises, simplify each expression.
 
 
-\(−21+(−59)\)
+<span class="math-inline">−21+(−59)</span>
 
 
 −80
 
 
-\(−35+(−47)\)
+<span class="math-inline">−35+(−47)</span>
 
 
-\(48+(−16)\)
+<span class="math-inline">48+(−16)</span>
 
 
 32
 
 
-\(34+(−19)\)
+<span class="math-inline">34+(−19)</span>
 
 
-\(−200+65\)
+<span class="math-inline">−200+65</span>
 
 
 −135
 
 
-\(−150+45\)
+<span class="math-inline">−150+45</span>
 
 
-\(2+(−8)+6\)
+<span class="math-inline">2+(−8)+6</span>
 
 
 0
 
 
-\(4+(−9)+7\)
+<span class="math-inline">4+(−9)+7</span>
 
 
-\(−14+(−12)+4\)
+<span class="math-inline">−14+(−12)+4</span>
 
 
 −22
 
 
-\(−17+(−18)+6\)
+<span class="math-inline">−17+(−18)+6</span>
 
 
-\(135+(−110)+83\)
+<span class="math-inline">135+(−110)+83</span>
 
 
 108
 
 
-\(140+(−75)+67\)
+<span class="math-inline">140+(−75)+67</span>
 
 
-\(−32+24+(−6)+10\)
+<span class="math-inline">−32+24+(−6)+10</span>
 
 
 −4
 
 
-\(−38+27+(−8)+12\)
+<span class="math-inline">−38+27+(−8)+12</span>
 
 
-\(19+2(−3+8)\)
+<span class="math-inline">19+2(−3+8)</span>
 
 
 29
 
 
-\(24+3(−5+9)\)
+<span class="math-inline">24+3(−5+9)</span>
 
 
 *Evaluate Variable Expressions with Integers*
@@ -611,157 +674,157 @@ In the following exercises, simplify each expression.
 In the following exercises, evaluate each expression.
 
 
-\(x+8\) when
+<span class="math-inline">x+8</span> when
 
 
-  - ⓐ \(x=−26\)
-  - ⓑ \(x=−95\)
+  - ⓐ <span class="math-inline">x=−26</span>
+  - ⓑ <span class="math-inline">x=−95</span>
 
 
   - ⓐ −18
   - ⓑ −87
 
 
-\(y+9\) when
+<span class="math-inline">y+9</span> when
 
-  - ⓐ \(y=−29\)
-  - ⓑ \(y=−84\)
+  - ⓐ <span class="math-inline">y=−29</span>
+  - ⓑ <span class="math-inline">y=−84</span>
 
 
-\(y+(−14)\) when
+<span class="math-inline">y+(−14)</span> when
 
-  -  ⓐ \(y=−33\)
-  -  ⓑ \(y=30\)
+  -  ⓐ <span class="math-inline">y=−33</span>
+  -  ⓑ <span class="math-inline">y=30</span>
 
 
   - ⓐ −47
   - ⓑ 16
 
 
-\(x+(−21)\) when
+<span class="math-inline">x+(−21)</span> when
 
 
-  - ⓐ \(x=−27\)
-  - ⓑ \(x=44\)
+  - ⓐ <span class="math-inline">x=−27</span>
+  - ⓑ <span class="math-inline">x=44</span>
 
 
-When \(a=−7,\) evaluate:
+When <span class="math-inline">a=−7,</span> evaluate:
 
-  - ⓐ \(a+3\)
-  - ⓑ \(-a+3\)
+  - ⓐ <span class="math-inline">a+3</span>
+  - ⓑ <span class="math-inline">-a+3</span>
 
 
   - ⓐ −4
   - ⓑ 10
 
 
-When \(b=−11,\) evaluate:
+When <span class="math-inline">b=−11,</span> evaluate:
 
-  - ⓐ \(b+6\)
-  - ⓑ \(-b+6\)
-
-
-When \(c=−9,\) evaluate:
+  - ⓐ <span class="math-inline">b+6</span>
+  - ⓑ <span class="math-inline">-b+6</span>
 
 
-  - ⓐ \(c+(−4)\)
-  - ⓑ \(-c+(−4)\)
+When <span class="math-inline">c=−9,</span> evaluate:
+
+
+  - ⓐ <span class="math-inline">c+(−4)</span>
+  - ⓑ <span class="math-inline">-c+(−4)</span>
 
 
   - ⓐ −13
   - ⓑ 5
 
 
-When \(d=−8,\) evaluate:
+When <span class="math-inline">d=−8,</span> evaluate:
 
 
-  - ⓐ \(d+(−9)\)
-  - ⓑ \(-d+(−9)\)
+  - ⓐ <span class="math-inline">d+(−9)</span>
+  - ⓑ <span class="math-inline">-d+(−9)</span>
 
 
-\(m+n\) when, \(m=−15\), \(n=7\)
+<span class="math-inline">m+n</span> when, <span class="math-inline">m=−15</span>, <span class="math-inline">n=7</span>
 
 
 −8
 
 
-\(p+q\) when, \(p=−9\), \(q=17\)
+<span class="math-inline">p+q</span> when, <span class="math-inline">p=−9</span>, <span class="math-inline">q=17</span>
 
 
-\(r−3s\) when, \(r=16\), \(s=2\)
+<span class="math-inline">r−3s</span> when, <span class="math-inline">r=16</span>, <span class="math-inline">s=2</span>
 
 
 10
 
 
-\(2t+u\) when, \(t=−6\), \(u=−5\)
+<span class="math-inline">2t+u</span> when, <span class="math-inline">t=−6</span>, <span class="math-inline">u=−5</span>
 
 
-\((a+b)^2\) when, \(a=−7\), \(b=15\)
+<span class="math-inline">(a+b)<sup>2</sup></span> when, <span class="math-inline">a=−7</span>, <span class="math-inline">b=15</span>
 
 
 64
 
 
-\((c+d)^2\) when, \(c=−5\), \(d=14\)
+<span class="math-inline">(c+d)<sup>2</sup></span> when, <span class="math-inline">c=−5</span>, <span class="math-inline">d=14</span>
 
 
-\((x+y)^2\) when, \(x=−3\), \(y=14\)
+<span class="math-inline">(x+y)<sup>2</sup></span> when, <span class="math-inline">x=−3</span>, <span class="math-inline">y=14</span>
 
 
 121
 
 
-\((y+z)^2\) when, \(y=−3\), \(z=15\)
+<span class="math-inline">(y+z)<sup>2</sup></span> when, <span class="math-inline">y=−3</span>, <span class="math-inline">z=15</span>
 
 *Translate Word Phrases to Algebraic Expressions*
 
 In the following exercises, translate each phrase into an algebraic expression and then simplify.
 
 
-The sum of \(−14\) and \(5\)
+The sum of <span class="math-inline">−14</span> and <span class="math-inline">5</span>
 
 
 −14 + 5 = −9
 
 
-The sum of \(−22\) and \(9\)
+The sum of <span class="math-inline">−22</span> and <span class="math-inline">9</span>
 
 
-\(8\) more than \(−2\)
+<span class="math-inline">8</span> more than <span class="math-inline">−2</span>
 
 
 −2 + 8 = 6
 
 
-\(5\) more than \(−1\)
+<span class="math-inline">5</span> more than <span class="math-inline">−1</span>
 
 
-\(−10\) added to \(−15\)
+<span class="math-inline">−10</span> added to <span class="math-inline">−15</span>
 
 
 −15 + (−10) = −25
 
 
-\(−6\) added to \(−20\)
+<span class="math-inline">−6</span> added to <span class="math-inline">−20</span>
 
 
-\(6\) more than the sum of \(−1\) and \(−12\)
+<span class="math-inline">6</span> more than the sum of <span class="math-inline">−1</span> and <span class="math-inline">−12</span>
 
 
 [−1 + (−12)] + 6 = −7
 
 
-\(3\) more than the sum of \(−2\) and \(−8\)
+<span class="math-inline">3</span> more than the sum of <span class="math-inline">−2</span> and <span class="math-inline">−8</span>
 
 
-the sum of \(10\) and \(−19,\) increased by \(4\)
+the sum of <span class="math-inline">10</span> and <span class="math-inline">−19,</span> increased by <span class="math-inline">4</span>
 
 
 [10 + (−19)] + 4 = −5
 
 
-the sum of \(12\) and \(−15,\) increased by \(1\)
+the sum of <span class="math-inline">12</span> and <span class="math-inline">−15,</span> increased by <span class="math-inline">1</span>
 
 
 *Add Integers in Applications*
@@ -769,49 +832,49 @@ the sum of \(12\) and \(−15,\) increased by \(1\)
 In the following exercises, solve.
 
 
-*Temperature* The temperature in St. Paul, Minnesota was \(−19°F\) at sunrise. By noon the temperature had risen \(26°F.\) What was the temperature at noon?
+*Temperature* The temperature in St. Paul, Minnesota was <span class="math-inline">−19°F</span> at sunrise. By noon the temperature had risen <span class="math-inline">26°F.</span> What was the temperature at noon?
 
 
 7°F
 
 
-*Temperature* The temperature in Chicago was \(−15°F\) at 6 am. By afternoon the temperature had risen \(28°F.\) What was the afternoon temperature?
+*Temperature* The temperature in Chicago was <span class="math-inline">−15°F</span> at 6 am. By afternoon the temperature had risen <span class="math-inline">28°F.</span> What was the afternoon temperature?
 
 
-*Credit Cards* Lupe owes \($73\) on her credit card. Then she charges \($45\) more. What is the new balance?
+*Credit Cards* Lupe owes <span class="math-inline">$73</span> on her credit card. Then she charges <span class="math-inline">$45</span> more. What is the new balance?
 
 
 −$118
 
 
-*Credit Cards* Frank owes \($212\) on his credit card. Then he charges \($105\) more. What is the new balance?
+*Credit Cards* Frank owes <span class="math-inline">$212</span> on his credit card. Then he charges <span class="math-inline">$105</span> more. What is the new balance?
 
 
-*Football* A team lost \(3 yards\) the first play. Then they lost \(2 yards,\) gained \(1 yard,\) and then lost \(4 yards.\) What was the change in overall yardage over the four plays?
+*Football* A team lost <span class="math-inline">3 yards</span> the first play. Then they lost <span class="math-inline">2 yards,</span> gained <span class="math-inline">1 yard,</span> and then lost <span class="math-inline">4 yards.</span> What was the change in overall yardage over the four plays?
 
 
 −8 yards
 
 
-*Card Games* April lost \(5 cards\) the first turn. Over the next three turns, she lost \(3 cards,\) gained \(2 cards,\) and then lost \(1 card.\) What was the change in cards over the four turns?
+*Card Games* April lost <span class="math-inline">5 cards</span> the first turn. Over the next three turns, she lost <span class="math-inline">3 cards,</span> gained <span class="math-inline">2 cards,</span> and then lost <span class="math-inline">1 card.</span> What was the change in cards over the four turns?
 
 
-*Football* The Rams took possession of the football on their own \(35-yard line.\) In the next three plays, they lost \(12 yards,\) gained \(8 yards,\) then lost \(6 yards.\) On what yard line was the ball at the end of those three plays?
+*Football* The Rams took possession of the football on their own <span class="math-inline">35-yard line.</span> In the next three plays, they lost <span class="math-inline">12 yards,</span> gained <span class="math-inline">8 yards,</span> then lost <span class="math-inline">6 yards.</span> On what yard line was the ball at the end of those three plays?
 
 
 25-yard line
 
 
-*Football* The Cowboys began with the ball on their own \(20-yard line.\) They gained \(15 yards,\) lost \(3 yards\) and then gained \(6 yards\) on the next three plays. Where was the ball at the end of these plays?
+*Football* The Cowboys began with the ball on their own <span class="math-inline">20-yard line.</span> They gained <span class="math-inline">15 yards,</span> lost <span class="math-inline">3 yards</span> and then gained <span class="math-inline">6 yards</span> on the next three plays. Where was the ball at the end of these plays?
 
 
-*Scuba Diving* A scuba diver swimming \(8 feet\) below the surface dove \(17 feet\) deeper; the pressure got to them and they rose five feet. What is their new depth?
+*Scuba Diving* A scuba diver swimming <span class="math-inline">8 feet</span> below the surface dove <span class="math-inline">17 feet</span> deeper; the pressure got to them and they rose five feet. What is their new depth?
 
 
 20 feet
 
 
-*Gas Consumption:* Ozzie rode their motorcycle for \(30 minutes,\) using \(168 fluid ounces of gas.\) Then they stopped and got \(140-fluid ounces of gas.\) Represent the change in gas amount as an integer.
+*Gas Consumption:* Ozzie rode their motorcycle for <span class="math-inline">30 minutes,</span> using <span class="math-inline">168 fluid ounces of gas.</span> Then they stopped and got <span class="math-inline">140-fluid ounces of gas.</span> Represent the change in gas amount as an integer.
 
 
 ### Everyday Math
@@ -835,7 +898,7 @@ What was the overall change for the week?
 ### Writing Exercises
 
 
-Explain why the sum of \(−8\) and \(2\) is negative, but the sum of \(8\) and \(−2\) and is positive.
+Explain why the sum of <span class="math-inline">−8</span> and <span class="math-inline">2</span> is negative, but the sum of <span class="math-inline">8</span> and <span class="math-inline">−2</span> and is positive.
 
 
 Sample answer: In the first case, there are more negatives so the sum is negative. In the second case, there are more positives so the sum is positive.
@@ -852,152 +915,158 @@ Give an example from your life experience of adding two negative numbers.
 ⓑ After reviewing this checklist, what will you do to become confident for all objectives?
 
 
+<div class="prep-quiz">
 **Be Prepared!**
+
 
 Before you get started, take this readiness quiz.
 
 
-Simplify: \(12-(8−1).\)
+Simplify: <span class="math-inline">12-(8−1).</span>
 
 If you missed this problem, review .
 
 
-\(5\)
+<span class="math-inline">5</span>
 
 
+<div class="prep-quiz">
 **Be Prepared!**
 
 
-Translate *the difference of* \(20\) *and* \(−15\) into an algebraic expression.
+Translate *the difference of* <span class="math-inline">20</span> *and* <span class="math-inline">−15</span> into an algebraic expression.
 
 If you missed this problem, review .
 
 
-\(20-(-15)\)
+<span class="math-inline">20-(-15)</span>
 
 
+<div class="prep-quiz">
 **Be Prepared!**
 
 
-Add: \(−18+7.\)
+Add: <span class="math-inline">−18+7.</span>
 
 If you missed this problem, review .
 
 
-\(-11\)
+<span class="math-inline">-11</span>
 
+
+---
+
+
+---
 
 ## Model Subtraction of Integers
+
 
 Remember the story in the last section about the toddler and the cookies? Children learn how to subtract numbers through their everyday experiences. Real-life experiences serve as models for subtracting positive numbers, and in some cases, such as temperature, for adding negative as well as positive numbers. But it is difficult to relate subtracting negative numbers to common life experiences. Most people do not have an intuitive understanding of subtraction when negative numbers are involved. Math teachers use several different models to explain subtracting negative numbers.
 
 We will continue to use counters to model subtraction. Remember, the blue counters represent positive numbers and the red counters represent negative numbers.
 
-Perhaps when you were younger, you read \(5-3\) as *five take away three*. When we use counters, we can think of subtraction the same way.
+Perhaps when you were younger, you read <span class="math-inline">5-3</span> as *five take away three*. When we use counters, we can think of subtraction the same way.
 
-We will model four subtraction facts using the numbers \(5\) and \(3.\)
+We will model four subtraction facts using the numbers <span class="math-inline">5</span> and <span class="math-inline">3.</span>
 
 
-$$
+<div class="math-display">
 5-3 −5-(−3) −5-3 5-(−3)
-$$
+</div>
 
 
+<div class="example">
 **Example**
 
 
-Model: \(5-3.\)
+Model: <span class="math-inline">5-3.</span>
 
 
-Solution
-
+<div class="solution">
+<span class="def-label">Solution</span>
 
 
    Interpret the expression.
-   \(5-3\) means \(5\) take away \(3\).
+   <span class="math-inline">5-3</span> means <span class="math-inline">5</span> take away <span class="math-inline">3</span>.
 
 
  Model the first number. Start with 5 positives.
 
 
-
  Take away the second number. So take away 3 positives.
-
 
 
  Find the counters that are left.
 
 
+  <span class="math-inline">5-3=2</span>.
+The difference between <span class="math-inline">5</span> and <span class="math-inline">3</span> is <span class="math-inline">2</span>.
 
 
-  \(5-3=2\).
-The difference between \(5\) and \(3\) is \(2\).
-
-
-
+<div class="tryit">
 **Try It**
 
 
-Model the expression:\(6-4\)
+Model the expression:<span class="math-inline">6-4</span>
 
 
 2
 
 
+<div class="tryit">
 **Try It**
 
 
-Model the expression:\(7-4\)
+Model the expression:<span class="math-inline">7-4</span>
 
 
 3
 
 
+<div class="example">
 **Example**
 
 
-Model: \(−5-(−3).\)
+Model: <span class="math-inline">−5-(−3).</span>
 
 
-Solution
-
+<div class="solution">
+<span class="def-label">Solution</span>
 
 
    Interpret the expression.
-   \(−5-(−3)\) means \(−5\) take away \(−3\).
+   <span class="math-inline">−5-(−3)</span> means <span class="math-inline">−5</span> take away <span class="math-inline">−3</span>.
 
 
  Model the first number. Start with 5 negatives.
 
 
-
  Take away the second number. So take away 3 negatives.
-
 
 
  Find the number of counters that are left.
 
 
+  <span class="math-inline">−5-(−3)=−2</span>.
+The difference between <span class="math-inline">−5</span> and <span class="math-inline">−3</span> is <span class="math-inline">−2</span>.
 
 
-  \(−5-(−3)=−2\).
-The difference between \(−5\) and \(−3\) is \(−2\).
-
-
-
+<div class="tryit">
 **Try It**
 
 
-Model the expression:\(−6-(−4)\)
+Model the expression:<span class="math-inline">−6-(−4)</span>
 
 
 −2
 
 
+<div class="tryit">
 **Try It**
 
 
-Model the expression:\(−7-(−4)\)
+Model the expression:<span class="math-inline">−7-(−4)</span>
 
 
 −3
@@ -1005,31 +1074,31 @@ Model the expression:\(−7-(−4)\)
 
 Notice that  and  are very much alike.
 
-- First, we subtracted \(3\) positives from \(5\) positives to get \(2\) positives.
+- First, we subtracted <span class="math-inline">3</span> positives from <span class="math-inline">5</span> positives to get <span class="math-inline">2</span> positives.
 
-- Then we subtracted \(3\) negatives from \(5\) negatives to get \(2\) negatives.
+- Then we subtracted <span class="math-inline">3</span> negatives from <span class="math-inline">5</span> negatives to get <span class="math-inline">2</span> negatives.
 
 Each example used counters of only one color, and the “take away” model of subtraction was easy to apply.
 
 Now let’s see what happens when we subtract one positive and one negative number. We will need to use both positive and negative counters and sometimes some neutral pairs, too. Adding a **neutral pair** does not change the value.
 
 
+<div class="example">
 **Example**
 
 
-Model: \(−5-3.\)
+Model: <span class="math-inline">−5-3.</span>
 
 
-Solution
-
+<div class="solution">
+<span class="def-label">Solution</span>
 
 
    Interpret the expression.
-   \(−5-3\) means \(−5\) take away \(3\).
+   <span class="math-inline">−5-3</span> means <span class="math-inline">−5</span> take away <span class="math-inline">3</span>.
 
 
  Model the first number. Start with 5 negatives.
-
 
 
  Take away the second number.
@@ -1040,98 +1109,92 @@ But there are no positives to take away.
 Add neutral pairs until you have 3 positives.
 
 
-
  Now take away 3 positives.
-
 
 
  Count the number of counters that are left.
 
 
+  <span class="math-inline">−5-3=−8</span>.
+The difference of <span class="math-inline">−5</span> and <span class="math-inline">3</span> is <span class="math-inline">−8</span>.
 
 
-  \(−5-3=−8\).
-The difference of \(−5\) and \(3\) is \(−8\).
-
-
-
+<div class="tryit">
 **Try It**
 
 
-Model the expression:\(−6-4\)
+Model the expression:<span class="math-inline">−6-4</span>
 
 
 −10
 
 
+<div class="tryit">
 **Try It**
 
 
-Model the expression:\(−7-4\)
+Model the expression:<span class="math-inline">−7-4</span>
 
 
 −11
 
 
+<div class="example">
 **Example**
 
 
-Model: \(5-(−3).\)
+Model: <span class="math-inline">5-(−3).</span>
 
 
-Solution
-
+<div class="solution">
+<span class="def-label">Solution</span>
 
 
    Interpret the expression.
-   \(5-(−3)\) means \(5\) take away \(−3\).
+   <span class="math-inline">5-(−3)</span> means <span class="math-inline">5</span> take away <span class="math-inline">−3</span>.
 
 
  Model the first number. Start with 5 positives.
 
 
-
  Take away the second number, so take away 3 negatives.
-
 
 
  But there are no negatives to take away.
 Add neutral pairs until you have 3 negatives.
 
 
-
  Then take away 3 negatives.
-
 
 
  Count the number of counters that are left.
 
 
+ The difference of <span class="math-inline">5</span> and <span class="math-inline">−3</span> is <span class="math-inline">8</span>.
+<span class="math-inline">5-(−3)=8</span>
 
 
- The difference of \(5\) and \(−3\) is \(8\).
-\(5-(−3)=8\)
-
-
-
+<div class="tryit">
 **Try It**
 
 
-Model the expression:\(6-(−4)\)
+Model the expression:<span class="math-inline">6-(−4)</span>
 
 
 10
 
 
+<div class="tryit">
 **Try It**
 
 
-Model the expression:\(7-(−4)\)
+Model the expression:<span class="math-inline">7-(−4)</span>
 
 
 11
 
 
+<div class="example">
 **Example**
 
 
@@ -1144,32 +1207,28 @@ Model the expression:\(7-(−4)\)
   - ⓓ −8 − (−3)
 
 
-  \(8-2\)
-This means \(8\) take away \(2\).
+  <span class="math-inline">8-2</span>
+This means <span class="math-inline">8</span> take away <span class="math-inline">2</span>.
 
 
  Start with 8 positives.
 
 
-
  Take away 2 positives.
 
 
-
  How many are left?
- \(6\)
+ <span class="math-inline">6</span>
 
 
-\(8-2=6\)
-
-
+<span class="math-inline">8-2=6</span>
 
 
    ⓑ
 
 
-   \(−5-4\)
-This means \(−5\) take away \(4\).
+   <span class="math-inline">−5-4</span>
+This means <span class="math-inline">−5</span> take away <span class="math-inline">4</span>.
 
 
  Start with 5 negatives.
@@ -1179,85 +1238,66 @@ You need to take away 4 positives.
 Add 4 neutral pairs to get 4 positives.
 
 
-
  Take away 4 positives.
-
 
 
  How many are left?
 
 
+ <span class="math-inline">−9</span>
 
 
- \(−9\)
-
-
-
- \(−5-4=−9\)
-
-
+ <span class="math-inline">−5-4=−9</span>
 
 
    ⓒ
 
 
-   \(6-(−6)\)
-This means \(6\) take away \(−6\).
+   <span class="math-inline">6-(−6)</span>
+This means <span class="math-inline">6</span> take away <span class="math-inline">−6</span>.
 
 
  Start with 6 positives.
 
 
-
 Add 6 neutrals to get 6 negatives to take away.
-
 
 
  Remove 6 negatives.
 
 
-
  How many are left?
 
 
+<span class="math-inline">12</span>
 
 
-\(12\)
-
-
-
- \(6-(−6)=12\)
-
-
+ <span class="math-inline">6-(−6)=12</span>
 
 
    ⓓ
 
 
-   \(−8-(−3)\)
-This means \(−8\) take away \(−3\).
+   <span class="math-inline">−8-(−3)</span>
+This means <span class="math-inline">−8</span> take away <span class="math-inline">−3</span>.
 
 
  Start with 8 negatives.
 
 
-
  Take away 3 negatives.
-
 
 
  How many are left?
 
 
-
-\(−5\)
-
+<span class="math-inline">−5</span>
 
 
-\(−8-(−3)=−5\)
+<span class="math-inline">−8-(−3)=−5</span>
 
 
-
+<div class="tryit">
 **Try It**
 
 
@@ -1279,6 +1319,7 @@ Model each subtraction.
 ⓓ
 
 
+<div class="tryit">
 **Try It**
 
 
@@ -1300,22 +1341,22 @@ Model each subtraction.
 ⓓ
 
 
+<div class="example">
 **Example**
 
 
 Model each subtraction expression:
 
-  - ⓐ \(2-8\)
-  - ⓑ \(−3-(−8)\)
+  - ⓐ <span class="math-inline">2-8</span>
+  - ⓑ <span class="math-inline">−3-(−8)</span>
 
 
-Solution
-
+<div class="solution">
+<span class="def-label">Solution</span>
 
 
    ⓐ
 We start with 2 positives.
-
 
 
  We need to take away 8 positives, but we have only 2.
@@ -1324,55 +1365,44 @@ We start with 2 positives.
 Add neutral pairs until there are 8 positives to take away.
 
 
-
  Then take away eight positives.
-
 
 
  Find the number of counters that are left.
 There are 6 negatives.
 
 
-
-
-\(2-8=−6\)
-
-
+<span class="math-inline">2-8=−6</span>
 
 
    ⓑ
 We start with 3 negatives.
 
 
-
  We need to take away 8 negatives, but we have only 3.
-
 
 
  Add neutral pairs until there are 8 negatives to take away.
 
 
-
  Then take away the 8 negatives.
-
 
 
  Find the number of counters that are left.
 There are 5 positives.
 
 
-
-\(−3-(−8)=5\)
-
+<span class="math-inline">−3-(−8)=5</span>
 
 
+<div class="tryit">
 **Try It**
 
 
 Model each subtraction expression.
 
-  - ⓐ \(7-9\)
-  - ⓑ \(−5-(−9)\)
+  - ⓐ <span class="math-inline">7-9</span>
+  - ⓑ <span class="math-inline">−5-(−9)</span>
 
 
   −2
@@ -1382,13 +1412,14 @@ Model each subtraction expression.
 4
 
 
+<div class="tryit">
 **Try It**
 
 
 Model each subtraction expression.
 
-  - ⓐ \(4-7\)
-  - ⓑ \(−7-(−10)\)
+  - ⓐ <span class="math-inline">4-7</span>
+  - ⓑ <span class="math-inline">−7-(−10)</span>
 
 
   −3
@@ -1397,3 +1428,119 @@ Model each subtraction expression.
 
 
 3
+
+</div>
+
+</div>
+
+</div>
+
+</div>
+
+</div>
+
+</div>
+
+</div>
+
+</div>
+
+</div>
+
+</div>
+
+</div>
+
+</div>
+
+</div>
+
+</div>
+
+</div>
+
+</div>
+
+</div>
+
+</div>
+
+</div>
+
+</div>
+
+</div>
+
+</div>
+
+</div>
+
+</div>
+
+</div>
+
+</div>
+
+</div>
+
+</div>
+
+</div>
+
+</div>
+
+</div>
+
+</div>
+
+</div>
+
+</div>
+
+</div>
+
+</div>
+
+</div>
+
+</div>
+
+</div>
+
+</div>
+
+</div>
+
+</div>
+
+</div>
+
+</div>
+
+</div>
+
+</div>
+
+</div>
+
+</div>
+
+</div>
+
+</div>
+
+</div>
+
+</div>
+
+</div>
+
+</div>
+
+</div>
+
+</div>
+
+</div>
+
+</div>

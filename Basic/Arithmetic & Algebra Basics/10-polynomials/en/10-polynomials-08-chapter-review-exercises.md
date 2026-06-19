@@ -1,26 +1,96 @@
+<style>
+.math-inline {
+    font-style: italic;
+    padding: 2px 6px;
+    border-radius: 4px;
+    background: #f8f9fa;
+    font-family: Georgia, serif;
+}
+.math-display {
+    background: #f8f9fa;
+    border-left: 4px solid #4a90d9;
+    padding: 16px 20px;
+    margin: 16px 0;
+    border-radius: 6px;
+    font-size: 1.15em;
+    font-family: Georgia, serif;
+    text-align: center;
+    line-height: 2;
+    overflow-x: auto;
+}
+.example-box, .example {
+    background: #f0f8ff;
+    border-left: 4px solid #2e86de;
+    padding: 12px 20px;
+    margin: 16px 0;
+    border-radius: 6px;
+}
+.tryit-box, .tryit {
+    background: #f0fff4;
+    border-left: 4px solid #27ae60;
+    padding: 12px 20px;
+    margin: 16px 0;
+    border-radius: 6px;
+}
+.solution-box, .solution {
+    background: #fef9e7;
+    border-left: 4px solid #f39c12;
+    padding: 12px 20px;
+    margin: 12px 0;
+    border-radius: 6px;
+}
+.check-box, .check {
+    background: #fef9e7;
+    border-left: 4px solid #f39c12;
+    padding: 12px 20px;
+    margin: 12px 0;
+    border-radius: 6px;
+}
+.prep-quiz {
+    background: #fff3cd;
+    border: 1px solid #ffc107;
+    padding: 12px 20px;
+    margin: 16px 0;
+    border-radius: 6px;
+}
+.def-label, .definition-label {
+    font-weight: bold;
+    font-size: 1.1em;
+    margin: 20px 0 8px 0;
+    color: #2c3e50;
+    display: block;
+}
+.math-display sup, .math-inline sup { font-size: 0.75em; line-height: 0; }
+.math-display sub, .math-inline sub { font-size: 0.75em; line-height: 0; }
+</style>
+
+
+---
+
 ## Chapter Review Exercises
+
 
 *Identify Polynomials, Monomials, Binomials and Trinomials*
 
 In the following exercises, determine if each of the following polynomials is a monomial, binomial, trinomial, or other polynomial.
 
 
-\(y^2+8y-20\)
+<span class="math-inline">y<sup>2</sup>+8y-20</span>
 
 
 trinomial
 
 
-\(−6a^4\)
+<span class="math-inline">−6a<sup>4</sup></span>
 
 
-\(9x^3-1\)
+<span class="math-inline">9x<sup>3</sup>-1</span>
 
 
 binomial
 
 
-\(n^3-3n^2+3n-1\)
+<span class="math-inline">n<sup>3</sup>-3n<sup>2</sup>+3n-1</span>
 
 
 *Determine the Degree of Polynomials*
@@ -28,22 +98,22 @@ binomial
 In the following exercises, determine the degree of each polynomial.
 
 
-\(16x^2-40x-25\)
+<span class="math-inline">16x<sup>2</sup>-40x-25</span>
 
 
 2
 
 
-\(5m+9\)
+<span class="math-inline">5m+9</span>
 
 
-\(−15\)
+<span class="math-inline">−15</span>
 
 
 0
 
 
-\(y^2+6y^3+9y^4\)
+<span class="math-inline">y<sup>2</sup>+6y<sup>3</sup>+9y<sup>4</sup></span>
 
 
 *Add and Subtract Monomials*
@@ -51,22 +121,22 @@ In the following exercises, determine the degree of each polynomial.
 In the following exercises, add or subtract the monomials.
 
 
-\(4p+11p\)
+<span class="math-inline">4p+11p</span>
 
 
 15*p*
 
 
-\(−8y^3-5y^3\)
+<span class="math-inline">−8y<sup>3</sup>-5y<sup>3</sup></span>
 
 
-Add \(4n^5, −n^5, −6n^5\)
+Add <span class="math-inline">4n<sup>5</sup>, −n<sup>5</sup>, −6n<sup>5</sup></span>
 
 
 −3*n*5
 
 
-Subtract \(10x^2\) from \(3x^2\)
+Subtract <span class="math-inline">10x<sup>2</sup></span> from <span class="math-inline">3x<sup>2</sup></span>
 
 
 *Add and Subtract Polynomials*
@@ -74,31 +144,31 @@ Subtract \(10x^2\) from \(3x^2\)
 In the following exercises, add or subtract the polynomials.
 
 
-\((4a^2+9a-11)+(6a^2-5a+10)\)
+<span class="math-inline">(4a<sup>2</sup>+9a-11)+(6a<sup>2</sup>-5a+10)</span>
 
 
 10*a*2 + 4*a* − 1
 
 
-\((8m^2+12m-5)-(2m^2-7m-1)\)
+<span class="math-inline">(8m<sup>2</sup>+12m-5)-(2m<sup>2</sup>-7m-1)</span>
 
 
-\((y^2-3y+12)+(5y^2-9)\)
+<span class="math-inline">(y<sup>2</sup>-3y+12)+(5y<sup>2</sup>-9)</span>
 
 
 6*y*2 − 3*y* + 3
 
 
-\((5u^2+8u)-(4u-7)\)
+<span class="math-inline">(5u<sup>2</sup>+8u)-(4u-7)</span>
 
 
-Find the sum of \(8q^3-27\) and \(q^2+6q-2\)
+Find the sum of <span class="math-inline">8q<sup>3</sup>-27</span> and <span class="math-inline">q<sup>2</sup>+6q-2</span>
 
 
 8*q*3 + *q*2 + 6*q* − 29
 
 
-Find the difference of \(x^2+6x+8\) and \(x^2-8x+15\)
+Find the difference of <span class="math-inline">x<sup>2</sup>+6x+8</span> and <span class="math-inline">x<sup>2</sup>-8x+15</span>
 
 
 *Evaluate a Polynomial for a Given Value of the Variable*
@@ -106,40 +176,40 @@ Find the difference of \(x^2+6x+8\) and \(x^2-8x+15\)
 In the following exercises, evaluate each polynomial for the given value.
 
 
-\(200x-\frac{1}{5} x^2\) when \(x=5\)
+<span class="math-inline">200x-<sup>1</sup>∕<sub>5</sub> x<sup>2</sup></span> when <span class="math-inline">x=5</span>
 
 
 995
 
 
-\(200x-\frac{1}{5} x^2\) when \(x=0\)
+<span class="math-inline">200x-<sup>1</sup>∕<sub>5</sub> x<sup>2</sup></span> when <span class="math-inline">x=0</span>
 
 
-\(200x-\frac{1}{5} x^2\) when \(x=15\)
+<span class="math-inline">200x-<sup>1</sup>∕<sub>5</sub> x<sup>2</sup></span> when <span class="math-inline">x=15</span>
 
 
 2,955
 
 
-\(5+40x-\frac{1}{2} x^2\) when \(x=10\)
+<span class="math-inline">5+40x-<sup>1</sup>∕<sub>2</sub> x<sup>2</sup></span> when <span class="math-inline">x=10</span>
 
 
-\(5+40x-\frac{1}{2} x^2\) when \(x=−4\)
+<span class="math-inline">5+40x-<sup>1</sup>∕<sub>2</sub> x<sup>2</sup></span> when <span class="math-inline">x=−4</span>
 
 
 −163
 
 
-\(5+40x-\frac{1}{2} x^2\) when \(x=0\)
+<span class="math-inline">5+40x-<sup>1</sup>∕<sub>2</sub> x<sup>2</sup></span> when <span class="math-inline">x=0</span>
 
 
-A pair of glasses is dropped off a bridge \(640\) feet above a river. The polynomial \(−16t^2+640\) gives the height of the glasses \(t\) seconds after they were dropped. Find the height of the glasses when \(t=6.\)
+A pair of glasses is dropped off a bridge <span class="math-inline">640</span> feet above a river. The polynomial <span class="math-inline">−16t<sup>2</sup>+640</span> gives the height of the glasses <span class="math-inline">t</span> seconds after they were dropped. Find the height of the glasses when <span class="math-inline">t=6.</span>
 
 
 64 feet
 
 
-The fuel efficiency (in miles per gallon) of a bus going at a speed of \(x\) miles per hour is given by the polynomial \(-\frac{1}{160} x^2+\frac{1}{2} x.\) Find the fuel efficiency when \(x=20\) mph.
+The fuel efficiency (in miles per gallon) of a bus going at a speed of <span class="math-inline">x</span> miles per hour is given by the polynomial <span class="math-inline">-<sup>1</sup>∕<sub>160</sub> x<sup>2</sup>+<sup>1</sup>∕<sub>2</sub> x.</span> Find the fuel efficiency when <span class="math-inline">x=20</span> mph.
 
 
 *Simplify Expressions with Exponents*
@@ -147,22 +217,22 @@ The fuel efficiency (in miles per gallon) of a bus going at a speed of \(x\) mil
 In the following exercises, simplify.
 
 
-\(6^3\)
+<span class="math-inline">6<sup>3</sup></span>
 
 
 216
 
 
-\((\frac{1}{2})^4\)
+<span class="math-inline">(<sup>1</sup>∕<sub>2</sub>)<sup>4</sup></span>
 
 
-\((−0.5)^2\)
+<span class="math-inline">(−0.5)<sup>2</sup></span>
 
 
 0.25
 
 
-\(-3^2\)
+<span class="math-inline">-3<sup>2</sup></span>
 
 
 *Simplify Expressions Using the Product Property of Exponents*
@@ -170,22 +240,22 @@ In the following exercises, simplify.
 In the following exercises, simplify each expression.
 
 
-\(p^3\cdot p^{10}\)
+<span class="math-inline">p<sup>3</sup>· p<sup>10</sup></span>
 
 
 *p*13
 
 
-\(2\cdot 2^6\)
+<span class="math-inline">2· 2<sup>6</sup></span>
 
 
-\(a\cdot a^2\cdot a^3\)
+<span class="math-inline">a· a<sup>2</sup>· a<sup>3</sup></span>
 
 
 *a*6
 
 
-\(x\cdot x^8\)
+<span class="math-inline">x· x<sup>8</sup></span>
 
 
 *Simplify Expressions Using the Power Property of Exponents*
@@ -193,22 +263,22 @@ In the following exercises, simplify each expression.
 In the following exercises, simplify each expression.
 
 
-\((y^4)^3\)
+<span class="math-inline">(y<sup>4</sup>)<sup>3</sup></span>
 
 
 *y*12
 
 
-\((r^3)^2\)
+<span class="math-inline">(r<sup>3</sup>)<sup>2</sup></span>
 
 
-\((3^2)^5\)
+<span class="math-inline">(3<sup>2</sup>)<sup>5</sup></span>
 
 
 310
 
 
-\((a^{10})^y\)
+<span class="math-inline">(a<sup>10</sup>)<sup>y</sup></span>
 
 
 *Simplify Expressions Using the Product to a Power Property*
@@ -216,22 +286,22 @@ In the following exercises, simplify each expression.
 In the following exercises, simplify each expression.
 
 
-\((8n)^2\)
+<span class="math-inline">(8n)<sup>2</sup></span>
 
 
 64*n*2
 
 
-\((−5x)^3\)
+<span class="math-inline">(−5x)<sup>3</sup></span>
 
 
-\((2ab)^8\)
+<span class="math-inline">(2ab)<sup>8</sup></span>
 
 
 256*a*8*b*8
 
 
-\((−10mnp)^4\)
+<span class="math-inline">(−10mnp)<sup>4</sup></span>
 
 
 *Simplify Expressions by Applying Several Properties*
@@ -239,22 +309,22 @@ In the following exercises, simplify each expression.
 In the following exercises, simplify each expression.
 
 
-\((3a^5)^3\)
+<span class="math-inline">(3a<sup>5</sup>)<sup>3</sup></span>
 
 
 27*a*15
 
 
-\((4y)^2(8y)\)
+<span class="math-inline">(4y)<sup>2</sup>(8y)</span>
 
 
-\((x^3)^5(x^2)^3\)
+<span class="math-inline">(x<sup>3</sup>)<sup>5</sup>(x<sup>2</sup>)<sup>3</sup></span>
 
 
 *x*21
 
 
-\((5st^2)^3(2s^3t^4)^2\)
+<span class="math-inline">(5st<sup>2</sup>)<sup>3</sup>(2s<sup>3</sup>t<sup>4</sup>)<sup>2</sup></span>
 
 
 *Multiply Monomials*
@@ -262,22 +332,22 @@ In the following exercises, simplify each expression.
 In the following exercises, multiply the monomials.
 
 
-\((−6p^4)(9p)\)
+<span class="math-inline">(−6p<sup>4</sup>)(9p)</span>
 
 
 −54*p*5
 
 
-\((\frac{1}{3} c^2)(30c^8)\)
+<span class="math-inline">(<sup>1</sup>∕<sub>3</sub> c<sup>2</sup>)(30c<sup>8</sup>)</span>
 
 
-\((8x^2y^5)(7xy^6)\)
+<span class="math-inline">(8x<sup>2</sup>y<sup>5</sup>)(7xy<sup>6</sup>)</span>
 
 
 56*x*3*y*11
 
 
-\((\frac{2}{3} m^3n^6)(\frac{1}{6} m^4n^4)\)
+<span class="math-inline">(<sup>2</sup>∕<sub>3</sub> m<sup>3</sup>n<sup>6</sup>)(<sup>1</sup>∕<sub>6</sub> m<sup>4</sup>n<sup>4</sup>)</span>
 
 
 *Multiply a Polynomial by a Monomial*
@@ -285,22 +355,22 @@ In the following exercises, multiply the monomials.
 In the following exercises, multiply.
 
 
-\(7(10-x)\)
+<span class="math-inline">7(10-x)</span>
 
 
 70 − 7*x*
 
 
-\(a^2(a^2-9a-36)\)
+<span class="math-inline">a<sup>2</sup>(a<sup>2</sup>-9a-36)</span>
 
 
-\(−5y(125y^3-1)\)
+<span class="math-inline">−5y(125y<sup>3</sup>-1)</span>
 
 
 −625*y*4 + 5*y*
 
 
-\((4n-5)(2n^3)\)
+<span class="math-inline">(4n-5)(2n<sup>3</sup>)</span>
 
 
 *Multiply a Binomial by a Binomial*
@@ -308,58 +378,58 @@ In the following exercises, multiply.
 In the following exercises, multiply the binomials using various methods.
 
 
-\((a+5)(a+2)\)
+<span class="math-inline">(a+5)(a+2)</span>
 
 
 *a*2 + 7*a* + 10
 
 
-\((y-4)(y+12)\)
+<span class="math-inline">(y-4)(y+12)</span>
 
 
-\((3x+1)(2x-7)\)
+<span class="math-inline">(3x+1)(2x-7)</span>
 
 
 6*x*2 − 19*x* − 7
 
 
-\((6p-11)(3p-10)\)
+<span class="math-inline">(6p-11)(3p-10)</span>
 
 
-\((n+8)(n+1)\)
+<span class="math-inline">(n+8)(n+1)</span>
 
 
 *n*2 + 9*n* + 8
 
 
-\((k+6)(k-9)\)
+<span class="math-inline">(k+6)(k-9)</span>
 
 
-\((5u-3)(u+8)\)
+<span class="math-inline">(5u-3)(u+8)</span>
 
 
 5*u*2 + 37*u* − 24
 
 
-\((2y-9)(5y-7)\)
+<span class="math-inline">(2y-9)(5y-7)</span>
 
 
-\((p+4)(p+7)\)
+<span class="math-inline">(p+4)(p+7)</span>
 
 
 *p*2 + 11*p* + 28
 
 
-\((x-8)(x+9)\)
+<span class="math-inline">(x-8)(x+9)</span>
 
 
-\((3c+1)(9c-4)\)
+<span class="math-inline">(3c+1)(9c-4)</span>
 
 
 27*c*2 − 3*c* − 4
 
 
-\((10a-1)(3a-3)\)
+<span class="math-inline">(10a-1)(3a-3)</span>
 
 
 *Multiply a Trinomial by a Binomial*
@@ -367,22 +437,22 @@ In the following exercises, multiply the binomials using various methods.
 In the following exercises, multiply using any method.
 
 
-\((x+1)(x^2-3x-21)\)
+<span class="math-inline">(x+1)(x<sup>2</sup>-3x-21)</span>
 
 
 *x*3 − 2*x*2 − 24*x* − 21
 
 
-\((5b-2)(3b^2+b-9)\)
+<span class="math-inline">(5b-2)(3b<sup>2</sup>+b-9)</span>
 
 
-\((m+6)(m^2-7m-30)\)
+<span class="math-inline">(m+6)(m<sup>2</sup>-7m-30)</span>
 
 
 *m*3 − *m*2 − 72*m* − 180
 
 
-\((4y-1)(6y^2-12y+5)\)
+<span class="math-inline">(4y-1)(6y<sup>2</sup>-12y+5)</span>
 
 
 *Simplify Expressions Using the Quotient Property of Exponents*
@@ -390,22 +460,22 @@ In the following exercises, multiply using any method.
 In the following exercises, simplify.
 
 
-\(\frac{2^8}{2^2}\)
+<span class="math-inline"><sup>2<sup>8</sup></sup>∕<sub>2<sup>2</sup></sub></span>
 
 
 26 *or* 64
 
 
-\(\frac{ a^6}{a}\)
+<span class="math-inline"><sup> a<sup>6</sup></sup>∕<sub>a</sub></span>
 
 
-\(\frac{n^3}{n^{12}}\)
+<span class="math-inline"><sup>n<sup>3</sup></sup>∕<sub>n<sup>12</sub></sup></span>
 
 
-\(\frac{1}{n^9}\)
+<span class="math-inline"><sup>1</sup>∕<sub>n<sup>9</sup></sub></span>
 
 
-\(\frac{x}{ x^5}\)
+<span class="math-inline"><sup>x</sup>∕<sub> x<sup>5</sup></sub></span>
 
 
 *Simplify Expressions with Zero Exponents*
@@ -413,22 +483,22 @@ In the following exercises, simplify.
 In the following exercises, simplify.
 
 
-\(3^0\)
+<span class="math-inline">3<sup>0</sup></span>
 
 
 1
 
 
-\(y^0\)
+<span class="math-inline">y<sup>0</sup></span>
 
 
-\((14t)^0\)
+<span class="math-inline">(14t)<sup>0</sup></span>
 
 
 1
 
 
-\(12a^0-15b^0\)
+<span class="math-inline">12a<sup>0</sup>-15b<sup>0</sup></span>
 
 
 *Simplify Expressions Using the Quotient to a Power Property*
@@ -436,22 +506,22 @@ In the following exercises, simplify.
 In the following exercises, simplify.
 
 
-\((\frac{3}{5})^2\)
+<span class="math-inline">(<sup>3</sup>∕<sub>5</sub>)<sup>2</sup></span>
 
 
-\(\frac{9}{25}\)
+<span class="math-inline"><sup>9</sup>∕<sub>25</sub></span>
 
 
-\((\frac{x}{2})^5\)
+<span class="math-inline">(<sup>x</sup>∕<sub>2</sub>)<sup>5</sup></span>
 
 
-\((\frac{5m}{n})^3\)
+<span class="math-inline">(<sup>5m</sup>∕<sub>n</sub>)<sup>3</sup></span>
 
 
-\(\frac{125m^3}{n^3}\)
+<span class="math-inline"><sup>125m<sup>3</sup></sup>∕<sub>n<sup>3</sup></sub></span>
 
 
-\((\frac{s}{10t})^2\)
+<span class="math-inline">(<sup>s</sup>∕<sub>10t</sub>)<sup>2</sup></span>
 
 
 *Simplify Expressions by Applying Several Properties*
@@ -459,31 +529,31 @@ In the following exercises, simplify.
 In the following exercises, simplify.
 
 
-\(\frac{(a^3)^2}{a^4}\)
+<span class="math-inline"><sup>(a<sup>3</sup>)<sup>2</sup></sup>∕<sub>a<sup>4</sup></sub></span>
 
 
 *a*2
 
 
-\(\frac{ u^3}{u^2\cdot u^4}\)
+<span class="math-inline"><sup> u<sup>3</sup></sup>∕<sub>u<sup>2</sup>· u<sup>4</sup></sub></span>
 
 
-\((\frac{x}{x^9})^5\)
+<span class="math-inline">(<sup>x</sup>∕<sub>x<sup>9</sup></sub>)<sup>5</sup></span>
 
 
-\(\frac{1}{x^{40}}\)
+<span class="math-inline"><sup>1</sup>∕<sub>x<sup>40</sub></sup></span>
 
 
-\((\frac{p^4\cdot p^5}{p^3})^2\)
+<span class="math-inline">(<sup>p<sup>4</sup>· p<sup>5</sup></sup>∕<sub>p<sup>3</sup></sub>)<sup>2</sup></span>
 
 
-\(\frac{(n^5)^3}{(n^2)^8}\)
+<span class="math-inline"><sup>(n<sup>5</sup>)<sup>3</sup></sup>∕<sub>(n<sup>2</sup>)<sup>8</sup></sub></span>
 
 
-\(\frac{1}{n}\)
+<span class="math-inline"><sup>1</sup>∕<sub>n</sub></span>
 
 
-\((\frac{5s^2}{4t})^3\)
+<span class="math-inline">(<sup>5s<sup>2</sup></sup>∕<sub>4t</sub>)<sup>3</sup></span>
 
 
 *Divide Monomials*
@@ -491,40 +561,40 @@ In the following exercises, simplify.
 In the following exercises, divide the monomials.
 
 
-\(72p^{12}\div 8p^3\)
+<span class="math-inline">72p<sup>12</sup>÷ 8p<sup>3</sup></span>
 
 
 9*p*9
 
 
-\(−26a^8\div (2a^2)\)
+<span class="math-inline">−26a<sup>8</sup>÷ (2a<sup>2</sup>)</span>
 
 
-\(\frac{ 45y^6}{−15y^{10}}\)
+<span class="math-inline"><sup> 45y<sup>6</sup></sup>∕<sub>−15y<sup>10</sub></sup></span>
 
 
-\(-\frac{3}{y^4}\)
+<span class="math-inline">-<sup>3</sup>∕<sub>y<sup>4</sup></sub></span>
 
 
-\(\frac{−30x^8}{−36x^9}\)
+<span class="math-inline"><sup>−30x<sup>8</sup></sup>∕<sub>−36x<sup>9</sup></sub></span>
 
 
-\(\frac{28a^9b}{7a^4b^3}\)
+<span class="math-inline"><sup>28a<sup>9</sup>b</sup>∕<sub>7a<sup>4</sup>b<sup>3</sup></sub></span>
 
 
-\(\frac{4a^5}{b^2}\)
+<span class="math-inline"><sup>4a<sup>5</sup></sup>∕<sub>b<sup>2</sup></sub></span>
 
 
-\(\frac{ 11u^6v^3}{55u^2v^8}\)
+<span class="math-inline"><sup> 11u<sup>6</sup>v<sup>3</sup></sup>∕<sub>55u<sup>2</sup>v<sup>8</sup></sub></span>
 
 
-\(\frac{(5m^9n^3)(8m^3n^2)}{(10mn^4)(m^2n^5)}\)
+<span class="math-inline"><sup>(5m<sup>9</sup>n<sup>3</sup>)(8m<sup>3</sup>n<sup>2</sup>)</sup>∕<sub>(10mn<sup>4</sup>)(m<sup>2</sup>n<sup>5</sup>)</sub></span>
 
 
-\(\frac{4m^9}{n^4}\)
+<span class="math-inline"><sup>4m<sup>9</sup></sup>∕<sub>n<sup>4</sup></sub></span>
 
 
-\(\frac{42r^2s^4}{6rs^3}-\frac{54rs^2}{9s}\)
+<span class="math-inline"><sup>42r<sup>2</sup>s<sup>4</sup></sup>∕<sub>6rs<sup>3</sup></sub>-<sup>54rs<sup>2</sup></sup>∕<sub>9s</sub></span>
 
 
 *Use the Definition of a Negative Exponent*
@@ -532,22 +602,22 @@ In the following exercises, divide the monomials.
 In the following exercises, simplify.
 
 
-\(6^{−2}\)
+<span class="math-inline">6<sup>−2</sup></span>
 
 
-\(\frac{1}{36}\)
+<span class="math-inline"><sup>1</sup>∕<sub>36</sub></span>
 
 
-\((−10)^{−3}\)
+<span class="math-inline">(−10)<sup>−3</sup></span>
 
 
-\(5\cdot 2^{−4}\)
+<span class="math-inline">5· 2<sup>−4</sup></span>
 
 
-\(\frac{5}{16}\)
+<span class="math-inline"><sup>5</sup>∕<sub>16</sub></span>
 
 
-\((8n)^{−1}\)
+<span class="math-inline">(8n)<sup>−1</sup></span>
 
 
 *Simplify Expressions with Integer Exponents*
@@ -555,40 +625,40 @@ In the following exercises, simplify.
 In the following exercises, simplify.
 
 
-\(x^{−3}\cdot x^9\)
+<span class="math-inline">x<sup>−3</sup>· x<sup>9</sup></span>
 
 
 *x*6
 
 
-\(r^{−5}\cdot r^{−4}\)
+<span class="math-inline">r<sup>−5</sup>· r<sup>−4</sup></span>
 
 
-\((uv^{−3})(u^{−4}v^{−2})\)
+<span class="math-inline">(uv<sup>−3</sup>)(u<sup>−4</sup>v<sup>−2</sup>)</span>
 
 
-\(\frac{1}{u^3v^5}\)
+<span class="math-inline"><sup>1</sup>∕<sub>u<sup>3</sup>v<sup>5</sup></sub></span>
 
 
-\((m^5)^{−1}\)
+<span class="math-inline">(m<sup>5</sup>)<sup>−1</sup></span>
 
 
-\((k^{−2})^{−3}\)
+<span class="math-inline">(k<sup>−2</sup>)<sup>−3</sup></span>
 
 
 *k*6
 
 
-\(\frac{q^4}{q^{20}}\)
+<span class="math-inline"><sup>q<sup>4</sup></sup>∕<sub>q<sup>20</sub></sup></span>
 
 
-\(\frac{b^8}{ b^{−2}}\)
+<span class="math-inline"><sup>b<sup>8</sup></sup>∕<sub> b<sup>−2</sub></sup></span>
 
 
 *b*10
 
 
-\(\frac{n^{−3}}{n^{−5}}\)
+<span class="math-inline">\frac{n<sup>−3</sup>{n<sup>−5</sup></span>
 
 
 *Convert from Decimal Notation to Scientific Notation*
@@ -596,22 +666,22 @@ In the following exercises, simplify.
 In the following exercises, write each number in scientific notation.
 
 
-\(5,300,000\)
+<span class="math-inline">5,300,000</span>
 
 
 5.3 × 106
 
 
-\(0.00814\)
+<span class="math-inline">0.00814</span>
 
 
-The thickness of a piece of paper is about \(0.097\) millimeter.
+The thickness of a piece of paper is about <span class="math-inline">0.097</span> millimeter.
 
 
 9.7 × 10−2 millimeter
 
 
-According to www.cleanair.com, U.S. businesses use about \(21,000,000\) tons of paper per year.
+According to www.cleanair.com, U.S. businesses use about <span class="math-inline">21,000,000</span> tons of paper per year.
 
 
 *Convert Scientific Notation to Decimal Form*
@@ -619,22 +689,22 @@ According to www.cleanair.com, U.S. businesses use about \(21,000,000\) tons of 
 In the following exercises, convert each number to decimal form.
 
 
-\(2.9 \times  10^4\)
+<span class="math-inline">2.9 ×  10<sup>4</sup></span>
 
 
 29,000
 
 
-\(1.5 \times  10^8\)
+<span class="math-inline">1.5 ×  10<sup>8</sup></span>
 
 
-\(3.75 \times  10^{−1}\)
+<span class="math-inline">3.75 ×  10<sup>−1</sup></span>
 
 
 0.375
 
 
-\(9.413 \times  10^{−5}\)
+<span class="math-inline">9.413 ×  10<sup>−5</sup></span>
 
 
 *Multiply and Divide Using Scientific Notation*
@@ -642,22 +712,22 @@ In the following exercises, convert each number to decimal form.
 In the following exercises, multiply and write your answer in decimal form.
 
 
-\((3 \times  10^7)(2 \times  10^{−4})\)
+<span class="math-inline">(3 ×  10<sup>7</sup>)(2 ×  10<sup>−4</sup>)</span>
 
 
 6,000
 
 
-\((1.5 \times  10^{−3})(4.8 \times  10^{−1})\)
+<span class="math-inline">(1.5 ×  10<sup>−3</sup>)(4.8 ×  10<sup>−1</sup>)</span>
 
 
-\(\frac{6 \times  10^9}{2 \times  10^{−1}}\)
+<span class="math-inline"><sup>6 ×  10<sup>9</sup></sup>∕<sub>2 ×  10<sup>−1</sub></sup></span>
 
 
 30,000,000,000
 
 
-\(\frac{9 \times  10^{−3}}{1 \times  10^{−6}}\)
+<span class="math-inline">\frac{9 ×  10<sup>−3</sup>{1 ×  10<sup>−6</sup></span>
 
 
 *Find the Greatest Common Factor of Two or More Expressions*
@@ -665,22 +735,22 @@ In the following exercises, multiply and write your answer in decimal form.
 In the following exercises, find the greatest common factor.
 
 
-\(5n, 45\)
+<span class="math-inline">5n, 45</span>
 
 
 5
 
 
-\(8a, 72\)
+<span class="math-inline">8a, 72</span>
 
 
-\(12x^2, 20x^3, 36x^4\)
+<span class="math-inline">12x<sup>2</sup>, 20x<sup>3</sup>, 36x<sup>4</sup></span>
 
 
 4*x*2
 
 
-\(9y^4, 21y^5, 15y^6\)
+<span class="math-inline">9y<sup>4</sup>, 21y<sup>5</sup>, 15y<sup>6</sup></span>
 
 
 *Factor the Greatest Common Factor from a Polynomial*
@@ -688,46 +758,48 @@ In the following exercises, find the greatest common factor.
 In the following exercises, factor the greatest common factor from each polynomial.
 
 
-\(16u-24\)
+<span class="math-inline">16u-24</span>
 
 
 8(2*u* − 3)
 
 
-\(15r+35\)
+<span class="math-inline">15r+35</span>
 
 
-\(6p^2+6p\)
+<span class="math-inline">6p<sup>2</sup>+6p</span>
 
 
 6*p*(*p* + 1)
 
 
-\(10c^2-10c\)
+<span class="math-inline">10c<sup>2</sup>-10c</span>
 
 
-\(−9a^5-9a^3\)
+<span class="math-inline">−9a<sup>5</sup>-9a<sup>3</sup></span>
 
 
 −9*a*3(*a*2 + 1)
 
 
-\(−7x^8-28x^3\)
+<span class="math-inline">−7x<sup>8</sup>-28x<sup>3</sup></span>
 
 
-\(5y^2-55y+45\)
+<span class="math-inline">5y<sup>2</sup>-55y+45</span>
 
 
 5(*y*2 − 11*y* + 9)
 
 
-\(2q^5-16q^3+30q^2\)
+<span class="math-inline">2q<sup>5</sup>-16q<sup>3</sup>+30q<sup>2</sup></span>
 
+
+---
 
 ## Chapter Practice Test
 
 
-For the polynomial \(8y^4-3y^2+1\)
+For the polynomial <span class="math-inline">8y<sup>4</sup>-3y<sup>2</sup>+1</span>
 
   - ⓐ Is it a monomial, binomial, or trinomial?
   - ⓑ What is its degree?
@@ -739,100 +811,100 @@ For the polynomial \(8y^4-3y^2+1\)
 In the following exercises, simplify each expression.
 
 
-\((5a^2+2a-12)+(9a^2+8a-4)\)
+<span class="math-inline">(5a<sup>2</sup>+2a-12)+(9a<sup>2</sup>+8a-4)</span>
 
 
-\((10x^2-3x+5)-(4x^2-6)\)
+<span class="math-inline">(10x<sup>2</sup>-3x+5)-(4x<sup>2</sup>-6)</span>
 
 
 6*x*2 − 3*x* + 11
 
 
-\((-\frac{3}{4})^3\)
+<span class="math-inline">(-<sup>3</sup>∕<sub>4</sub>)<sup>3</sup></span>
 
 
-\(n\cdot n^4\)
+<span class="math-inline">n· n<sup>4</sup></span>
 
 
 *n*5
 
 
-\((10p^3q^5)^2\)
+<span class="math-inline">(10p<sup>3</sup>q<sup>5</sup>)<sup>2</sup></span>
 
 
-\((8xy^3)(−6x^4y^6)\)
+<span class="math-inline">(8xy<sup>3</sup>)(−6x<sup>4</sup>y<sup>6</sup>)</span>
 
 
 −48*x*5*y*9
 
 
-\(4u(u^2-9u+1)\)
+<span class="math-inline">4u(u<sup>2</sup>-9u+1)</span>
 
 
-\((s+8)(s+9)\)
+<span class="math-inline">(s+8)(s+9)</span>
 
 
 *s*2 + 17*s* + 72
 
 
-\((m+3)(7m-2)\)
+<span class="math-inline">(m+3)(7m-2)</span>
 
 
-\((11a-6)(5a-1)\)
+<span class="math-inline">(11a-6)(5a-1)</span>
 
 
 55*a*2 − 41*a* + 6
 
 
-\((n-8)(n^2-4n+11)\)
+<span class="math-inline">(n-8)(n<sup>2</sup>-4n+11)</span>
 
 
-\((4a+9b)(6a-5b)\)
+<span class="math-inline">(4a+9b)(6a-5b)</span>
 
 
 24*a*2 + 34*ab* − 45*b*2
 
 
-\(\frac{5^6}{5^8}\)
+<span class="math-inline"><sup>5<sup>6</sup></sup>∕<sub>5<sup>8</sup></sub></span>
 
 
-\((\frac{x^3\cdot x^9}{x^5})^2\)
+<span class="math-inline">(<sup>x<sup>3</sup>· x<sup>9</sup></sup>∕<sub>x<sup>5</sup></sub>)<sup>2</sup></span>
 
 
 *x*14
 
 
-\((47a^{18}b^{23}c^5)^0\)
+<span class="math-inline">(47a<sup>18</sup>b<sup>23</sup>c<sup>5</sup>)<sup>0</sup></span>
 
 
-\(\frac{24r^3s}{ 6r^2s^7}\)
+<span class="math-inline"><sup>24r<sup>3</sup>s</sup>∕<sub> 6r<sup>2</sup>s<sup>7</sup></sub></span>
 
 
-\(\frac{4r}{s^6}\)
+<span class="math-inline"><sup>4r</sup>∕<sub>s<sup>6</sup></sub></span>
 
 
-\(\frac{8y^2-16y+20}{4y}\)
+<span class="math-inline"><sup>8y<sup>2</sup>-16y+20</sup>∕<sub>4y</sub></span>
 
 
-\((15xy^3-35x^2y)\div 5xy\)
+<span class="math-inline">(15xy<sup>3</sup>-35x<sup>2</sup>y)÷ 5xy</span>
 
 
 3*y*2 − 7*x*
 
 
-\(4^{−1}\)
+<span class="math-inline">4<sup>−1</sup></span>
 
 
-\((2y)^{−3}\)
+<span class="math-inline">(2y)<sup>−3</sup></span>
 
 
-\(\frac{1}{8y^3}\)
+<span class="math-inline"><sup>1</sup>∕<sub>8y<sup>3</sup></sub></span>
 
 
-\(p^{−3}\cdot p^{−8}\)
+<span class="math-inline">p<sup>−3</sup>· p<sup>−8</sup></span>
 
 
-\(\frac{x^4}{ x^{−5}}\)
+<span class="math-inline"><sup>x<sup>4</sup></sup>∕<sub> x<sup>−5</sub></sup></span>
 
 
 *x*9
@@ -841,19 +913,19 @@ In the following exercises, simplify each expression.
 In the following exercises, factor the greatest common factor from each polynomial.
 
 
-\(80a^3+120a^2+40a\)
+<span class="math-inline">80a<sup>3</sup>+120a<sup>2</sup>+40a</span>
 
 
-\(−6x^2-30x\)
+<span class="math-inline">−6x<sup>2</sup>-30x</span>
 
 
 −6*x*(*x* + 5)
 
 
-According to www.cleanair.org, the amount of trash generated in the US in one year averages out to \(112,000\) pounds of trash per person. Write this number in scientific notation.
+According to www.cleanair.org, the amount of trash generated in the US in one year averages out to <span class="math-inline">112,000</span> pounds of trash per person. Write this number in scientific notation.
 
 
-Convert \(5.25 \times  10^{−4}\) to decimal form.
+Convert <span class="math-inline">5.25 ×  10<sup>−4</sup></span> to decimal form.
 
 
 0.000525
@@ -862,13 +934,13 @@ Convert \(5.25 \times  10^{−4}\) to decimal form.
 In the following exercises, simplify, and write your answer in decimal form.
 
 
-\((2.4 \times  10^8)(2 \times  10^{−5})\)
+<span class="math-inline">(2.4 ×  10<sup>8</sup>)(2 ×  10<sup>−5</sup>)</span>
 
 
-\(\frac{9 \times  10^4}{3 \times  10^{−1}}\)
+<span class="math-inline"><sup>9 ×  10<sup>4</sup></sup>∕<sub>3 ×  10<sup>−1</sub></sup></span>
 
 
-\(300,000\)
+<span class="math-inline">300,000</span>
 
 
-A hiker drops a pebble from a bridge \(240\) feet above a canyon. The polynomial \(−16t^2+240\) gives the height of the pebble \(t\) seconds a after it was dropped. Find the height when \(t=3.\)
+A hiker drops a pebble from a bridge <span class="math-inline">240</span> feet above a canyon. The polynomial <span class="math-inline">−16t<sup>2</sup>+240</span> gives the height of the pebble <span class="math-inline">t</span> seconds a after it was dropped. Find the height when <span class="math-inline">t=3.</span>

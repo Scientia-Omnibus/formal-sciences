@@ -1,23 +1,93 @@
+<style>
+.math-inline {
+    font-style: italic;
+    padding: 2px 6px;
+    border-radius: 4px;
+    background: #f8f9fa;
+    font-family: Georgia, serif;
+}
+.math-display {
+    background: #f8f9fa;
+    border-left: 4px solid #4a90d9;
+    padding: 16px 20px;
+    margin: 16px 0;
+    border-radius: 6px;
+    font-size: 1.15em;
+    font-family: Georgia, serif;
+    text-align: center;
+    line-height: 2;
+    overflow-x: auto;
+}
+.example-box, .example {
+    background: #f0f8ff;
+    border-left: 4px solid #2e86de;
+    padding: 12px 20px;
+    margin: 16px 0;
+    border-radius: 6px;
+}
+.tryit-box, .tryit {
+    background: #f0fff4;
+    border-left: 4px solid #27ae60;
+    padding: 12px 20px;
+    margin: 16px 0;
+    border-radius: 6px;
+}
+.solution-box, .solution {
+    background: #fef9e7;
+    border-left: 4px solid #f39c12;
+    padding: 12px 20px;
+    margin: 12px 0;
+    border-radius: 6px;
+}
+.check-box, .check {
+    background: #fef9e7;
+    border-left: 4px solid #f39c12;
+    padding: 12px 20px;
+    margin: 12px 0;
+    border-radius: 6px;
+}
+.prep-quiz {
+    background: #fff3cd;
+    border: 1px solid #ffc107;
+    padding: 12px 20px;
+    margin: 16px 0;
+    border-radius: 6px;
+}
+.def-label, .definition-label {
+    font-weight: bold;
+    font-size: 1.1em;
+    margin: 20px 0 8px 0;
+    color: #2c3e50;
+    display: block;
+}
+.math-display sup, .math-inline sup { font-size: 0.75em; line-height: 0; }
+.math-display sub, .math-inline sub { font-size: 0.75em; line-height: 0; }
+</style>
+
+
+---
+
 ## Chapter Review Exercises
+
 
 *Plot Points in a Rectangular Coordinate System*
 
 In the following exercises, plot each point in a rectangular coordinate system.
 
 
-\((1,3),(3,1)\)
+<span class="math-inline">(1,3),(3,1)</span>
 
 
-\((2,5),(5,2)\)
+<span class="math-inline">(2,5),(5,2)</span>
 
 
 In the following exercises, plot each point in a rectangular coordinate system and identify the quadrant in which the point is located.
 
 
-  - ⓐ \((−1,−5)\)
-  - ⓑ \((−3,4)\)
-  - ⓒ \((2,−3)\)
-  - ⓓ \((1,\frac{5}{2})\)
+  - ⓐ <span class="math-inline">(−1,−5)</span>
+  - ⓑ <span class="math-inline">(−3,4)</span>
+  - ⓒ <span class="math-inline">(2,−3)</span>
+  - ⓓ <span class="math-inline">(1,<sup>5</sup>∕<sub>2</sub>)</span>
 
 
   - ⓐ III
@@ -26,10 +96,10 @@ In the following exercises, plot each point in a rectangular coordinate system a
   - ⓐ I
 
 
-  - ⓐ \((3,−2)\)
-  - ⓑ \((−4,−1)\)
-  - ⓒ \((−5,4)\)
-  - ⓓ \((2,\frac{10}{3})\)
+  - ⓐ <span class="math-inline">(3,−2)</span>
+  - ⓑ <span class="math-inline">(−4,−1)</span>
+  - ⓒ <span class="math-inline">(−5,4)</span>
+  - ⓓ <span class="math-inline">(2,<sup>10</sup>∕<sub>3</sub>)</span>
 
 *Identify Points on a Graph*
 
@@ -52,133 +122,133 @@ In the following exercises, name the ordered pair of each point shown in the rec
 In the following exercises, find the ordered pairs that are solutions to the given equation.
 
 
-\(5x+y=10\)
+<span class="math-inline">5x+y=10</span>
 
-  - ⓐ \((5,1)\)
-  - ⓑ \((2,0)\)
-  - ⓒ \((4,−10)\)
+  - ⓐ <span class="math-inline">(5,1)</span>
+  - ⓑ <span class="math-inline">(2,0)</span>
+  - ⓒ <span class="math-inline">(4,−10)</span>
 
 
   ,ⓒ
 
 
-\(y=6x-2\)
+<span class="math-inline">y=6x-2</span>
 
-  - ⓐ \((1,4)\)
-  - ⓑ \((\frac{1}{3},0)\)
-  - ⓒ \((6,−2)\)
+  - ⓐ <span class="math-inline">(1,4)</span>
+  - ⓑ <span class="math-inline">(<sup>1</sup>∕<sub>3</sub>,0)</span>
+  - ⓒ <span class="math-inline">(6,−2)</span>
 
 *Complete a Table of Solutions to a Linear Equation in Two Variables*
 
 In the following exercises, complete the table to find solutions to each linear equation.
 
 
-\(y=4x-1\)
+<span class="math-inline">y=4x-1</span>
 
 
-\(x\)
-\(y\)
-\((x,y)\)
+<span class="math-inline">x</span>
+<span class="math-inline">y</span>
+<span class="math-inline">(x,y)</span>
 
 
-\(0\)
+<span class="math-inline">0</span>
 
 
-\(1\)
+<span class="math-inline">1</span>
 
 
-\(−2\)
+<span class="math-inline">−2</span>
 
 
-\(x\)
-\(y\)
-\((x,y)\)
+<span class="math-inline">x</span>
+<span class="math-inline">y</span>
+<span class="math-inline">(x,y)</span>
 
 
-\(0\)
-\(−1\)
-\((0,−1)\)
+<span class="math-inline">0</span>
+<span class="math-inline">−1</span>
+<span class="math-inline">(0,−1)</span>
 
 
-\(1\)
-\(3\)
-\((1,3)\)
+<span class="math-inline">1</span>
+<span class="math-inline">3</span>
+<span class="math-inline">(1,3)</span>
 
 
-\(−2\)
-\(−9\)
-\((−2,−9)\)
+<span class="math-inline">−2</span>
+<span class="math-inline">−9</span>
+<span class="math-inline">(−2,−9)</span>
 
 
-\(y=-\frac{1}{2}x+3\)
+<span class="math-inline">y=-<sup>1</sup>∕<sub>2</sub>x+3</span>
 
 
-\(x\)
-\(y\)
-\((x,y)\)
+<span class="math-inline">x</span>
+<span class="math-inline">y</span>
+<span class="math-inline">(x,y)</span>
 
 
-\(0\)
+<span class="math-inline">0</span>
 
 
-\(1\)
+<span class="math-inline">1</span>
 
 
-\(−2\)
+<span class="math-inline">−2</span>
 
 
-\(x+2y=5\)
+<span class="math-inline">x+2y=5</span>
 
 
-\(x\)
-\(y\)
-\((x,y)\)
+<span class="math-inline">x</span>
+<span class="math-inline">y</span>
+<span class="math-inline">(x,y)</span>
 
 
-\(0\)
+<span class="math-inline">0</span>
 
 
-\(1\)
+<span class="math-inline">1</span>
 
 
-\(−1\)
+<span class="math-inline">−1</span>
 
 
-\(x\)
-\(y\)
-\((x,y)\)
+<span class="math-inline">x</span>
+<span class="math-inline">y</span>
+<span class="math-inline">(x,y)</span>
 
 
-\(5\)
-\(0\)
-\((5,0)\)
+<span class="math-inline">5</span>
+<span class="math-inline">0</span>
+<span class="math-inline">(5,0)</span>
 
 
-\(1\)
-\(2\)
-\((1,2)\)
+<span class="math-inline">1</span>
+<span class="math-inline">2</span>
+<span class="math-inline">(1,2)</span>
 
 
-\(−1\)
-\(3\)
-\((−1,3)\)
+<span class="math-inline">−1</span>
+<span class="math-inline">3</span>
+<span class="math-inline">(−1,3)</span>
 
 
-\(3x-2y=6\)
+<span class="math-inline">3x-2y=6</span>
 
 
-\(x\)
-\(y\)
-\((x,y)\)
+<span class="math-inline">x</span>
+<span class="math-inline">y</span>
+<span class="math-inline">(x,y)</span>
 
 
-\(0\)
+<span class="math-inline">0</span>
 
 
-\(0\)
+<span class="math-inline">0</span>
 
 
-\(−2\)
+<span class="math-inline">−2</span>
 
 
 *Find Solutions to a Linear Equation in Two Variables*
@@ -186,22 +256,22 @@ In the following exercises, complete the table to find solutions to each linear 
 In the following exercises, find three solutions to each linear equation.
 
 
-\(x+y=3\)
+<span class="math-inline">x+y=3</span>
 
 
 Answers will vary.
 
 
-\(x+y=−4\)
+<span class="math-inline">x+y=−4</span>
 
 
-\(y=3x+1\)
+<span class="math-inline">y=3x+1</span>
 
 
 Answers will vary.
 
 
-\(y=-x-1\)
+<span class="math-inline">y=-x-1</span>
 
 
 *Recognize the Relation Between the Solutions of an Equation and its Graph*
@@ -213,13 +283,13 @@ In each of the following exercises, an equation and its graph is shown. For each
   - ⓑ if the point is on the line.
 
 
-\(y=-x+4\)
+<span class="math-inline">y=-x+4</span>
 
 
-  - \((0,4)\)
-  - \((−1,3)\)
-  - \((2,2)\)
-  - \((−2,6)\)
+  - <span class="math-inline">(0,4)</span>
+  - <span class="math-inline">(−1,3)</span>
+  - <span class="math-inline">(2,2)</span>
+  - <span class="math-inline">(−2,6)</span>
 
 
   - ⓐ yes ⓑ yes
@@ -228,13 +298,13 @@ In each of the following exercises, an equation and its graph is shown. For each
   - ⓐ yes ⓑ yes
 
 
-\(y=\frac{2}{3}x-1\)
+<span class="math-inline">y=<sup>2</sup>∕<sub>3</sub>x-1</span>
 
 
-  - \((0,−1)\)
-  - \((3,1)\)
-  - \((−3,−3)\)
-  - \((6,4)\)
+  - <span class="math-inline">(0,−1)</span>
+  - <span class="math-inline">(3,1)</span>
+  - <span class="math-inline">(−3,−3)</span>
+  - <span class="math-inline">(6,4)</span>
 
 
 *Graph a Linear Equation by Plotting Points*
@@ -242,13 +312,13 @@ In each of the following exercises, an equation and its graph is shown. For each
 In the following exercises, graph by plotting points.
 
 
-\(y=4x-3\)
+<span class="math-inline">y=4x-3</span>
 
 
-\(y=−3x\)
+<span class="math-inline">y=−3x</span>
 
 
-\(2x+y=7\)
+<span class="math-inline">2x+y=7</span>
 
 
 *Graph Vertical and Horizontal lines*
@@ -256,15 +326,15 @@ In the following exercises, graph by plotting points.
 In the following exercises, graph the vertical or horizontal lines.
 
 
-\(y=−2\)
+<span class="math-inline">y=−2</span>
 
 
-\(x=3\)
+<span class="math-inline">x=3</span>
 
 
 *Identify the Intercepts on a Graph*
 
-In the following exercises, find the \(x-\) and \(y-intercepts.\)
+In the following exercises, find the <span class="math-inline">x-</span> and <span class="math-inline">y-intercepts.</span>
 
 
 (0,3) (3,0)
@@ -275,19 +345,19 @@ In the following exercises, find the \(x-\) and \(y-intercepts.\)
 In the following exercises, find the intercepts.
 
 
-\(x+y=5\)
+<span class="math-inline">x+y=5</span>
 
 
-\(x-y=−1\)
+<span class="math-inline">x-y=−1</span>
 
 
 (−1,0) (0,1)
 
 
-\(y=\frac{3}{4}x-12\)
+<span class="math-inline">y=<sup>3</sup>∕<sub>4</sub>x-12</span>
 
 
-\(y=3x\)
+<span class="math-inline">y=3x</span>
 
 
 (0,0)
@@ -298,10 +368,10 @@ In the following exercises, find the intercepts.
 In the following exercises, graph using the intercepts.
 
 
-\(-x+3y=3\)
+<span class="math-inline">-x+3y=3</span>
 
 
-\(x+y=−2\)
+<span class="math-inline">x+y=−2</span>
 
 
 *Choose the Most Convenient Method to Graph a Line*
@@ -309,28 +379,28 @@ In the following exercises, graph using the intercepts.
 In the following exercises, identify the most convenient method to graph each line.
 
 
-\(x=5\)
+<span class="math-inline">x=5</span>
 
 
-\(y=−3\)
+<span class="math-inline">y=−3</span>
 
 
 horizontal line
 
 
-\(2x+y=5\)
+<span class="math-inline">2x+y=5</span>
 
 
-\(x-y=2\)
+<span class="math-inline">x-y=2</span>
 
 
 intercepts
 
 
-\(y=\frac{1}{2}x+2\)
+<span class="math-inline">y=<sup>1</sup>∕<sub>2</sub>x+2</span>
 
 
-\(y=\frac{3}{4}x-1\)
+<span class="math-inline">y=<sup>3</sup>∕<sub>4</sub>x-1</span>
 
 
 plotting points
@@ -341,25 +411,25 @@ plotting points
 In the following exercises, find the slope modeled on each geoboard.
 
 
-\(\frac{4}{3}\)
+<span class="math-inline"><sup>4</sup>∕<sub>3</sub></span>
 
 
-\(-\frac{2}{3}\)
+<span class="math-inline">-<sup>2</sup>∕<sub>3</sub></span>
 
 
 In the following exercises, model each slope. Draw a picture to show your results.
 
 
-\(\frac{1}{3}\)
+<span class="math-inline"><sup>1</sup>∕<sub>3</sub></span>
 
 
-\(\frac{3}{2}\)
+<span class="math-inline"><sup>3</sup>∕<sub>2</sub></span>
 
 
-\(-\frac{2}{3}\)
+<span class="math-inline">-<sup>2</sup>∕<sub>3</sub></span>
 
 
-\(-\frac{1}{2}\)
+<span class="math-inline">-<sup>1</sup>∕<sub>2</sub></span>
 
 
 *Find the Slope of a Line from its Graph*
@@ -370,7 +440,7 @@ In the following exercises, find the slope of each line shown.
 1
 
 
-\(-\frac{1}{2}\)
+<span class="math-inline">-<sup>1</sup>∕<sub>2</sub></span>
 
 
 *Find the Slope of Horizontal and Vertical Lines*
@@ -378,19 +448,19 @@ In the following exercises, find the slope of each line shown.
 In the following exercises, find the slope of each line.
 
 
-\(y=2\)
+<span class="math-inline">y=2</span>
 
 
-\(x=5\)
+<span class="math-inline">x=5</span>
 
 
 undefined
 
 
-\(x=−3\)
+<span class="math-inline">x=−3</span>
 
 
-\(y=−1\)
+<span class="math-inline">y=−1</span>
 
 
 0
@@ -401,22 +471,22 @@ undefined
 In the following exercises, use the slope formula to find the slope of the line between each pair of points.
 
 
-\((2,1),(4,5)\)
+<span class="math-inline">(2,1),(4,5)</span>
 
 
-\((−1,−1),(0,−5)\)
+<span class="math-inline">(−1,−1),(0,−5)</span>
 
 
 −4
 
 
-\((3,5),(4,−1)\)
+<span class="math-inline">(3,5),(4,−1)</span>
 
 
-\((−5,−2),(3,2)\)
+<span class="math-inline">(−5,−2),(3,2)</span>
 
 
-\(\frac{1}{2}\)
+<span class="math-inline"><sup>1</sup>∕<sub>2</sub></span>
 
 
 *Graph a Line Given a Point and the Slope*
@@ -424,10 +494,10 @@ In the following exercises, use the slope formula to find the slope of the line 
 In the following exercises, graph the line given a point and the slope.
 
 
-\((2,−2);m=\frac{5}{2}\)
+<span class="math-inline">(2,−2);m=<sup>5</sup>∕<sub>2</sub></span>
 
 
-\((−3,4);m=-\frac{1}{3}\)
+<span class="math-inline">(−3,4);m=-<sup>1</sup>∕<sub>3</sub></span>
 
 
 *Solve Slope Applications*
@@ -435,124 +505,126 @@ In the following exercises, graph the line given a point and the slope.
 In the following exercise, solve the slope application.
 
 
-A roof has rise \(10\) feet and run \(15\) feet. What is its slope?
+A roof has rise <span class="math-inline">10</span> feet and run <span class="math-inline">15</span> feet. What is its slope?
 
+
+---
 
 ## Chapter Practice Test
 
 
 Plot and label these points:
 
-  - ⓐ \((2,5)\)
-  - ⓑ \((−1,−3)\)
-  - ⓒ \((−4,0)\)
-  - ⓓ \((3,−5)\)
-  - ⓔ \((−2,1)\)
+  - ⓐ <span class="math-inline">(2,5)</span>
+  - ⓑ <span class="math-inline">(−1,−3)</span>
+  - ⓒ <span class="math-inline">(−4,0)</span>
+  - ⓓ <span class="math-inline">(3,−5)</span>
+  - ⓔ <span class="math-inline">(−2,1)</span>
 
 
 Name the ordered pair for each point shown.
 
 
-Find the \(x-intercept\) and \(y-intercept\) on the line shown.
+Find the <span class="math-inline">x-intercept</span> and <span class="math-inline">y-intercept</span> on the line shown.
 
 
 (4,0), (0,−2)
 
 
-Find the \(x-intercept\) and \(y-intercept\) of the equation \(3x-y=6.\)
+Find the <span class="math-inline">x-intercept</span> and <span class="math-inline">y-intercept</span> of the equation <span class="math-inline">3x-y=6.</span>
 
 
-Is \((1,3)\) a solution to the equation \(x+4y=12?\) How do you know?
+Is <span class="math-inline">(1,3)</span> a solution to the equation <span class="math-inline">x+4y=12?</span> How do you know?
 
 
 no; 1 + 4 · 3 ≠ 12
 
 
-Complete the table to find four solutions to the equation \(y=-x+1.\)
+Complete the table to find four solutions to the equation <span class="math-inline">y=-x+1.</span>
 
 
-\(x\)
-\(y\)
-\((x,y)\)
+<span class="math-inline">x</span>
+<span class="math-inline">y</span>
+<span class="math-inline">(x,y)</span>
 
 
-\(0\)
+<span class="math-inline">0</span>
 
 
-\(1\)
+<span class="math-inline">1</span>
 
 
-\(3\)
+<span class="math-inline">3</span>
 
 
-\(−2\)
+<span class="math-inline">−2</span>
 
 
-Complete the table to find three solutions to the equation \(4x+y=8\)
+Complete the table to find three solutions to the equation <span class="math-inline">4x+y=8</span>
 
 
-\(x\)
-\(y\)
-\((x,y)\)
+<span class="math-inline">x</span>
+<span class="math-inline">y</span>
+<span class="math-inline">(x,y)</span>
 
 
-\(0\)
+<span class="math-inline">0</span>
 
 
-\(0\)
+<span class="math-inline">0</span>
 
 
-\(3\)
+<span class="math-inline">3</span>
 
 
-\(x\)
-\(y\)
-\((x,y)\)
+<span class="math-inline">x</span>
+<span class="math-inline">y</span>
+<span class="math-inline">(x,y)</span>
 
 
-\(0\)
-\(8\)
-\((0,8)\)
+<span class="math-inline">0</span>
+<span class="math-inline">8</span>
+<span class="math-inline">(0,8)</span>
 
 
-\(2\)
-\(0\)
-\((2,0)\)
+<span class="math-inline">2</span>
+<span class="math-inline">0</span>
+<span class="math-inline">(2,0)</span>
 
 
-\(3\)
-\(−4\)
-\((3,−4)\)
+<span class="math-inline">3</span>
+<span class="math-inline">−4</span>
+<span class="math-inline">(3,−4)</span>
 
 
 In the following exercises, find three solutions to each equation and then graph each line.
 
 
-\(y=−3x\)
+<span class="math-inline">y=−3x</span>
 
 
-\(2x+3y=−6\)
+<span class="math-inline">2x+3y=−6</span>
 
 
 In the following exercises, find the slope of each line.
 
 
-\(-\frac{5}{2}\)
+<span class="math-inline">-<sup>5</sup>∕<sub>2</sub></span>
 
 
-Use the slope formula to find the slope of the line between \((0,−4)\) and \((5,2).\)
+Use the slope formula to find the slope of the line between <span class="math-inline">(0,−4)</span> and <span class="math-inline">(5,2).</span>
 
 
-Find the slope of the line \(y=2.\)
+Find the slope of the line <span class="math-inline">y=2.</span>
 
 
 0
 
 
-Graph the line passing through \((1,1)\) with slope \(m=\frac{3}{2}.\)
+Graph the line passing through <span class="math-inline">(1,1)</span> with slope <span class="math-inline">m=<sup>3</sup>∕<sub>2</sub>.</span>
 
 
-A bicycle route climbs \(20\) feet for \(1,000\) feet of horizontal distance. What is the slope of the route?
+A bicycle route climbs <span class="math-inline">20</span> feet for <span class="math-inline">1,000</span> feet of horizontal distance. What is the slope of the route?
 
 
-\(\frac{1}{50}\)
+<span class="math-inline"><sup>1</sup>∕<sub>50</sub></span>

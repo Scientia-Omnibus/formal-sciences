@@ -1,15 +1,88 @@
+<style>
+.math-inline {
+    font-style: italic;
+    padding: 2px 6px;
+    border-radius: 4px;
+    background: #f8f9fa;
+    font-family: Georgia, serif;
+}
+.math-display {
+    background: #f8f9fa;
+    border-left: 4px solid #4a90d9;
+    padding: 16px 20px;
+    margin: 16px 0;
+    border-radius: 6px;
+    font-size: 1.15em;
+    font-family: Georgia, serif;
+    text-align: center;
+    line-height: 2;
+    overflow-x: auto;
+}
+.example-box, .example {
+    background: #f0f8ff;
+    border-left: 4px solid #2e86de;
+    padding: 12px 20px;
+    margin: 16px 0;
+    border-radius: 6px;
+}
+.tryit-box, .tryit {
+    background: #f0fff4;
+    border-left: 4px solid #27ae60;
+    padding: 12px 20px;
+    margin: 16px 0;
+    border-radius: 6px;
+}
+.solution-box, .solution {
+    background: #fef9e7;
+    border-left: 4px solid #f39c12;
+    padding: 12px 20px;
+    margin: 12px 0;
+    border-radius: 6px;
+}
+.check-box, .check {
+    background: #fef9e7;
+    border-left: 4px solid #f39c12;
+    padding: 12px 20px;
+    margin: 12px 0;
+    border-radius: 6px;
+}
+.prep-quiz {
+    background: #fff3cd;
+    border: 1px solid #ffc107;
+    padding: 12px 20px;
+    margin: 16px 0;
+    border-radius: 6px;
+}
+.def-label, .definition-label {
+    font-weight: bold;
+    font-size: 1.1em;
+    margin: 20px 0 8px 0;
+    color: #2c3e50;
+    display: block;
+}
+.math-display sup, .math-inline sup { font-size: 0.75em; line-height: 0; }
+.math-display sub, .math-inline sub { font-size: 0.75em; line-height: 0; }
+</style>
+
+
+---
+
+
+---
+
 ## Key Concepts
+
 
 - Opposite Notation
 
-  - \(-a\) means the opposite of the number \(a\)
-  - The notation \(-a\) is read *the opposite of* \(a.\)
+  - <span class="math-inline">-a</span> means the opposite of the number <span class="math-inline">a</span>
+  - The notation <span class="math-inline">-a</span> is read *the opposite of* <span class="math-inline">a.</span>
 
 
 - Absolute Value Notation
 
-  - The absolute value of a number \(n\) is written as \(|n|\).
-  - \(|n|\ge 0\) for all numbers.
+  - The absolute value of a number <span class="math-inline">n</span> is written as <span class="math-inline">|n|</span>.
+  - <span class="math-inline">|n|≥ 0</span> for all numbers.
 
 
 ### Practice Makes Perfect
@@ -19,35 +92,35 @@
 For the following exercises, draw a number line and locate and label the given points on that number line.
 
 
-  - ⓐ \(2\)
-  - ⓑ \(−2\)
-  - ⓒ \(−5\)
+  - ⓐ <span class="math-inline">2</span>
+  - ⓑ <span class="math-inline">−2</span>
+  - ⓒ <span class="math-inline">−5</span>
 
 
-  - ⓐ \(5\)
-  - ⓑ \(−5\)
-  - ⓒ \(−2\)
+  - ⓐ <span class="math-inline">5</span>
+  - ⓑ <span class="math-inline">−5</span>
+  - ⓒ <span class="math-inline">−2</span>
 
 
-  - ⓐ \(−8\)
-  - ⓑ \(8\)
-  - ⓒ \(−6\)
+  - ⓐ <span class="math-inline">−8</span>
+  - ⓑ <span class="math-inline">8</span>
+  - ⓒ <span class="math-inline">−6</span>
 
 
-  - ⓐ \(−7\)
-  - ⓑ \(7\)
-  - ⓒ \(−1\)
+  - ⓐ <span class="math-inline">−7</span>
+  - ⓑ <span class="math-inline">7</span>
+  - ⓒ <span class="math-inline">−1</span>
 
 
 *Order Positive and Negative Numbers on the Number Line*
 
-In the following exercises, order each of the following pairs of numbers, using \(<\) or \(>.\)
+In the following exercises, order each of the following pairs of numbers, using <span class="math-inline"><</span> or <span class="math-inline">>.</span>
 
 
-  - ⓐ \(9__4\)
-  - ⓑ \(−3__6\)
-  - ⓒ \(−8__−2\)
-  - ⓓ \(1__−10\)
+  - ⓐ <span class="math-inline">9_<sub>4</sub></span>
+  - ⓑ <span class="math-inline">−3_<sub>6</sub></span>
+  - ⓒ <span class="math-inline">−8__−2</span>
+  - ⓓ <span class="math-inline">1__−10</span>
 
 
   - ⓐ >
@@ -56,16 +129,16 @@ In the following exercises, order each of the following pairs of numbers, using 
   - ⓓ >
 
 
-  - ⓐ \(6__2;\)
-  - ⓑ \(−7__4;\)
-  - ⓒ \(−9__−1;\)
-  - ⓓ \(9__−3\)
+  - ⓐ <span class="math-inline">6_<sub>2</sub>;</span>
+  - ⓑ <span class="math-inline">−7_<sub>4</sub>;</span>
+  - ⓒ <span class="math-inline">−9__−1;</span>
+  - ⓓ <span class="math-inline">9__−3</span>
 
 
-  - ⓐ \(−5__1;\)
-  - ⓑ \(−4__−9;\)
-  - ⓒ \(6__10;\)
-  - ⓓ \(3__−8\)
+  - ⓐ <span class="math-inline">−5_<sub>1</sub>;</span>
+  - ⓑ <span class="math-inline">−4__−9;</span>
+  - ⓒ <span class="math-inline">6_<sub>1</sub>0;</span>
+  - ⓓ <span class="math-inline">3__−8</span>
 
 
   - ⓐ <
@@ -74,10 +147,10 @@ In the following exercises, order each of the following pairs of numbers, using 
   - ⓓ >
 
 
-  - ⓐ \(−7__3;\)
-  - ⓑ \(−10__−5;\)
-  - ⓒ \(2__−6;\)
-  - ⓓ \(8__9\)
+  - ⓐ <span class="math-inline">−7_<sub>3</sub>;</span>
+  - ⓑ <span class="math-inline">−10__−5;</span>
+  - ⓒ <span class="math-inline">2__−6;</span>
+  - ⓓ <span class="math-inline">8_<sub>9</sub></span>
 
 
 *Find Opposites*
@@ -85,92 +158,92 @@ In the following exercises, order each of the following pairs of numbers, using 
 In the following exercises, find the opposite of each number.
 
 
-  - ⓐ \(2\)
-  - ⓑ \(−6\)
+  - ⓐ <span class="math-inline">2</span>
+  - ⓑ <span class="math-inline">−6</span>
 
 
   - ⓐ −2
   - ⓑ 6
 
 
-  - ⓐ \(9\)
-  - ⓑ \(−4\)
+  - ⓐ <span class="math-inline">9</span>
+  - ⓑ <span class="math-inline">−4</span>
 
 
-  - ⓐ \(−8\)
-  - ⓑ \(1\)
+  - ⓐ <span class="math-inline">−8</span>
+  - ⓑ <span class="math-inline">1</span>
 
 
   - ⓐ 8
   - ⓑ −1
 
 
-  - ⓐ \(−2\)
-  - ⓑ \(6\)
+  - ⓐ <span class="math-inline">−2</span>
+  - ⓑ <span class="math-inline">6</span>
 
 In the following exercises, simplify.
 
 
-\(-(−4)\)
+<span class="math-inline">-(−4)</span>
 
 
 4
 
 
-\(-(−8)\)
+<span class="math-inline">-(−8)</span>
 
 
-\(-(−15)\)
+<span class="math-inline">-(−15)</span>
 
 
 15
 
 
-\(-(−11)\)
+<span class="math-inline">-(−11)</span>
 
 In the following exercises, evaluate.
 
 
-\(-m when\)
+<span class="math-inline">-m when</span>
 
 
-  - ⓐ \(m=3\)
-  - ⓑ \(m=−3\)
+  - ⓐ <span class="math-inline">m=3</span>
+  - ⓑ <span class="math-inline">m=−3</span>
 
 
   -  ⓐ −3
   -  ⓑ 3
 
 
-\(-p when\)
+<span class="math-inline">-p when</span>
 
-  - ⓐ \(p=6\)
-  - ⓑ \(p=−6\)
+  - ⓐ <span class="math-inline">p=6</span>
+  - ⓑ <span class="math-inline">p=−6</span>
 
 
-\(-c when\)
+<span class="math-inline">-c when</span>
 
-  - ⓐ \(c=12\)
-  - ⓑ \(c=−12\)
+  - ⓐ <span class="math-inline">c=12</span>
+  - ⓑ <span class="math-inline">c=−12</span>
 
 
   - ⓐ −12;
   - ⓑ 12
 
 
-\(-d when\)
+<span class="math-inline">-d when</span>
 
-  - ⓐ \(d=21\)
-  - ⓑ \(d=−21\)
+  - ⓐ <span class="math-inline">d=21</span>
+  - ⓑ <span class="math-inline">d=−21</span>
 
 *Simplify Expressions with Absolute Value*
 
 In the following exercises, simplify each absolute value expression.
 
 
-  - ⓐ \(|7|\)
-  - ⓑ \(|−25|\)
-  - ⓒ\(|0|\)
+  - ⓐ <span class="math-inline">|7|</span>
+  - ⓑ <span class="math-inline">|−25|</span>
+  - ⓒ<span class="math-inline">|0|</span>
 
 
   - ⓐ 7
@@ -178,14 +251,14 @@ In the following exercises, simplify each absolute value expression.
   - ⓒ 0
 
 
-  - ⓐ \(|5|\)
-  - ⓑ \(|20|\)
-  - ⓒ \(|−19|\)
+  - ⓐ <span class="math-inline">|5|</span>
+  - ⓑ <span class="math-inline">|20|</span>
+  - ⓒ <span class="math-inline">|−19|</span>
 
 
-  - ⓐ \(|−32|\)
-  - ⓑ \(|−18|\)
-  - ⓒ \(|16|\)
+  - ⓐ <span class="math-inline">|−32|</span>
+  - ⓑ <span class="math-inline">|−18|</span>
+  - ⓒ <span class="math-inline">|16|</span>
 
 
   - ⓐ 32
@@ -193,108 +266,108 @@ In the following exercises, simplify each absolute value expression.
   - ⓒ 16
 
 
-  - ⓐ \(|−41|\)
-  - ⓑ \(|−40|\)
-  - ⓒ \(|22|\)
+  - ⓐ <span class="math-inline">|−41|</span>
+  - ⓑ <span class="math-inline">|−40|</span>
+  - ⓒ <span class="math-inline">|22|</span>
 
 In the following exercises, evaluate each absolute value expression.
 
 
-  - ⓐ \(|x| when x=−28\)
-  - ⓑ \(|-u| when u=−15\)
+  - ⓐ <span class="math-inline">|x| when x=−28</span>
+  - ⓑ <span class="math-inline">|-u| when u=−15</span>
 
 
   - ⓐ 28
   - ⓑ 15
 
 
-  - ⓐ \(|y| when y=−37\)
-  - ⓑ \(|-z| when z=−24\)
+  - ⓐ <span class="math-inline">|y| when y=−37</span>
+  - ⓑ <span class="math-inline">|-z| when z=−24</span>
 
 
-  - ⓐ \(-|p| when p=19\)
-  - ⓑ \(-|q| when q=−33\)
+  - ⓐ <span class="math-inline">-|p| when p=19</span>
+  - ⓑ <span class="math-inline">-|q| when q=−33</span>
 
 
   - ⓐ −19
   - ⓑ −33
 
 
-  - ⓐ \(-|a| when a=60\)
-  - ⓑ \(-|b| when b=−12\)
+  - ⓐ <span class="math-inline">-|a| when a=60</span>
+  - ⓑ <span class="math-inline">-|b| when b=−12</span>
 
-In the following exercises, fill in \(<,>,or=\) to compare each expression.
+In the following exercises, fill in <span class="math-inline"><,>,or=</span> to compare each expression.
 
 
-  - ⓐ \(−6__|−6|\)
-  - ⓑ \(-|−3|__−3\)
+  - ⓐ <span class="math-inline">−6__|−6|</span>
+  - ⓑ <span class="math-inline">-|−3|__−3</span>
 
 
   - ⓐ <
   - ⓑ =
 
 
-  - ⓐ \(−8__|−8|\)
-  - ⓑ \(-|−2|__−2\)
+  - ⓐ <span class="math-inline">−8__|−8|</span>
+  - ⓑ <span class="math-inline">-|−2|__−2</span>
 
 
-  - ⓐ \(|−3|__-|−3|\)
-  - ⓑ \(4__-|−4|\)
+  - ⓐ <span class="math-inline">|−3|__-|−3|</span>
+  - ⓑ <span class="math-inline">4__-|−4|</span>
 
 
   - ⓐ >
   - ⓑ >
 
 
-  - ⓐ \(|−5|__-|−5|\)
-  - ⓑ\(9__-|−9|\)
+  - ⓐ <span class="math-inline">|−5|__-|−5|</span>
+  - ⓑ<span class="math-inline">9__-|−9|</span>
 
 In the following exercises, simplify each expression.
 
 
-\(|8-4|\)
+<span class="math-inline">|8-4|</span>
 
 
 4
 
 
-\(|9-6|\)
+<span class="math-inline">|9-6|</span>
 
 
-\(8|−7|\)
+<span class="math-inline">8|−7|</span>
 
 
 56
 
 
-\(5|−5|\)
+<span class="math-inline">5|−5|</span>
 
 
-\(|15-7|-|14-6|\)
+<span class="math-inline">|15-7|-|14-6|</span>
 
 
 0
 
 
-\(|17-8|-|13-4|\)
+<span class="math-inline">|17-8|-|13-4|</span>
 
 
-\(18-|2(8-3)|\)
+<span class="math-inline">18-|2(8-3)|</span>
 
 
 8
 
 
-\(15-|3(8-5)|\)
+<span class="math-inline">15-|3(8-5)|</span>
 
 
-\(8(14-2|−2|)\)
+<span class="math-inline">8(14-2|−2|)</span>
 
 
 80
 
 
-\(6(13-4|−2|)\)
+<span class="math-inline">6(13-4|−2|)</span>
 
 
 *Translate Word Phrases into Expressions with Integers*
@@ -302,10 +375,10 @@ In the following exercises, simplify each expression.
 Translate each phrase into an expression with integers. *Do not simplify*.
 
 
-  - ⓐ the opposite of \(8\)
-  - ⓑ the opposite of \(−6\)
+  - ⓐ the opposite of <span class="math-inline">8</span>
+  - ⓑ the opposite of <span class="math-inline">−6</span>
   - ⓒ negative three
-  - ⓓ \(4\) minus negative \(3\)
+  - ⓓ <span class="math-inline">4</span> minus negative <span class="math-inline">3</span>
 
 
   - ⓐ −8
@@ -314,16 +387,16 @@ Translate each phrase into an expression with integers. *Do not simplify*.
   - ⓓ 4−(−3)
 
 
-  - ⓐ the opposite of \(11\)
-  - ⓑ the opposite of \(−4\)
+  - ⓐ the opposite of <span class="math-inline">11</span>
+  - ⓑ the opposite of <span class="math-inline">−4</span>
   - ⓒ negative nine
-  - ⓓ \(8\) minus negative \(2\)
+  - ⓓ <span class="math-inline">8</span> minus negative <span class="math-inline">2</span>
 
 
-  - ⓐ the opposite of \(20\)
-  - ⓑ the opposite of \(−5\)
+  - ⓐ the opposite of <span class="math-inline">20</span>
+  - ⓑ the opposite of <span class="math-inline">−5</span>
   - ⓒ negative twelve
-  - ⓓ \(18\) minus negative \(7\)
+  - ⓓ <span class="math-inline">18</span> minus negative <span class="math-inline">7</span>
 
 
   - ⓐ −20
@@ -332,46 +405,46 @@ Translate each phrase into an expression with integers. *Do not simplify*.
   - ⓓ 18−(−7)
 
 
-  - ⓐ the opposite of \(15\)
-  - ⓑ the opposite of \(−9\)
+  - ⓐ the opposite of <span class="math-inline">15</span>
+  - ⓑ the opposite of <span class="math-inline">−9</span>
   - ⓒ negative sixty
-  - ⓓ \(12\) minus \(5\)
+  - ⓓ <span class="math-inline">12</span> minus <span class="math-inline">5</span>
 
 
-a temperature of \(6 degrees\) below zero
+a temperature of <span class="math-inline">6 degrees</span> below zero
 
 
 −6 degrees
 
 
-a temperature of \(14 degrees\) below zero
+a temperature of <span class="math-inline">14 degrees</span> below zero
 
 
-an elevation of \(40 feet\) below sea level
+an elevation of <span class="math-inline">40 feet</span> below sea level
 
 
 −40 feet
 
 
-an elevation of \(65 feet\) below sea level
+an elevation of <span class="math-inline">65 feet</span> below sea level
 
 
-a football play loss of \(12 yards\)
+a football play loss of <span class="math-inline">12 yards</span>
 
 
 −12 yards
 
 
-a football play gain of \(4 yards\)
+a football play gain of <span class="math-inline">4 yards</span>
 
 
-a stock gain of \($3\)
+a stock gain of <span class="math-inline">$3</span>
 
 
 $3
 
 
-a stock loss of \($5\)
+a stock loss of <span class="math-inline">$5</span>
 
 
 a golf score one above par
@@ -380,13 +453,13 @@ a golf score one above par
 +1
 
 
-a golf score of \(3\) below par
+a golf score of <span class="math-inline">3</span> below par
 
 
 ### Everyday Math
 
 
-*Elevation* The highest elevation in the United States is Mount McKinley, Alaska, at \(20,320 feet\) above sea level. The lowest elevation is Death Valley, California, at \(282 feet\) below sea level. Use integers to write the elevation of:
+*Elevation* The highest elevation in the United States is Mount McKinley, Alaska, at <span class="math-inline">20,320 feet</span> above sea level. The lowest elevation is Death Valley, California, at <span class="math-inline">282 feet</span> below sea level. Use integers to write the elevation of:
 
 
   - ⓐ Mount McKinley
@@ -397,14 +470,14 @@ a golf score of \(3\) below par
   - ⓑ −282 feet
 
 
-*Extreme temperatures* The highest recorded temperature on Earth is \(57° Celsius\). The lowest recorded temperature is \(90°\) below \(0° Celsius\). Use integers to write the:
+*Extreme temperatures* The highest recorded temperature on Earth is <span class="math-inline">57° Celsius</span>. The lowest recorded temperature is <span class="math-inline">90°</span> below <span class="math-inline">0° Celsius</span>. Use integers to write the:
 
 
   - ⓐ highest recorded temperature
   - ⓑ lowest recorded temperature
 
 
-*State budgets* In June, 2011, the state of Pennsylvania estimated it would have a budget surplus of \($540 million.\) That same month, Texas estimated it would have a budget deficit of \($27 billion.\) Use integers to write the budget:
+*State budgets* In June, 2011, the state of Pennsylvania estimated it would have a budget surplus of <span class="math-inline">$540 million.</span> That same month, Texas estimated it would have a budget deficit of <span class="math-inline">$27 billion.</span> Use integers to write the budget:
 
 
   - ⓐ surplus
@@ -415,7 +488,7 @@ a golf score of \(3\) below par
   - ⓑ −$27 billion
 
 
-*College enrollments* Across the United States, community college enrollment grew by \(1,400,000\) students from \(2007\) to \(2010.\) In California, community college enrollment declined by \(110,171\) students from \(2009\) to \(2010.\) Use integers to write the change in enrollment:
+*College enrollments* Across the United States, community college enrollment grew by <span class="math-inline">1,400,000</span> students from <span class="math-inline">2007</span> to <span class="math-inline">2010.</span> In California, community college enrollment declined by <span class="math-inline">110,171</span> students from <span class="math-inline">2009</span> to <span class="math-inline">2010.</span> Use integers to write the change in enrollment:
 
 
   - ⓐ growth
@@ -449,42 +522,50 @@ What are the three uses of the “−” sign in algebra? Explain how they diffe
 …no—I don’t get it! This is a warning sign and you must not ignore it. You should get help right away or you will quickly be overwhelmed. See your instructor as soon as you can to discuss your situation. Together you can come up with a plan to get you the help you need.
 
 
+<div class="prep-quiz">
 **Be Prepared!**
+
 
 Before you get started, take this readiness quiz.
 
 
-Evaluate \(x+8\) when \(x=6.\)
+Evaluate <span class="math-inline">x+8</span> when <span class="math-inline">x=6.</span>
 
 If you missed this problem, review .
 
 
-\(14\)
+<span class="math-inline">14</span>
 
 
-Simplify: \(8+2(5+1).\)
+Simplify: <span class="math-inline">8+2(5+1).</span>
 
 If you missed this problem, review .
 
 
-\(20\)
+<span class="math-inline">20</span>
 
 
-Translate *the sum of* \(3\) *and negative* \(7\) into an algebraic expression.
+Translate *the sum of* <span class="math-inline">3</span> *and negative* <span class="math-inline">7</span> into an algebraic expression.
 
 If you missed this problem, review
 
 
-\(3+(-7)\)
+<span class="math-inline">3+(-7)</span>
 
+
+---
+
+
+---
 
 ## Model Addition of Integers
+
 
 Now that we have located positive and negative numbers on the number line, it is time to discuss arithmetic operations with **integers**.
 
 Most students are comfortable with the addition and subtraction facts for positive numbers.  But doing addition or subtraction with both positive and negative numbers may be more difficult. This difficulty relates to the way the brain learns.
 
-The brain learns best by working with objects in the real world and then generalizing to abstract concepts. Toddlers learn quickly that if they have two cookies and their older brother steals one, they have only one left. This is a concrete example of \(2-1.\) Children learn their basic addition and subtraction facts from experiences in their everyday lives. Eventually, they know the number facts without relying on cookies.
+The brain learns best by working with objects in the real world and then generalizing to abstract concepts. Toddlers learn quickly that if they have two cookies and their older brother steals one, they have only one left. This is a concrete example of <span class="math-inline">2-1.</span> Children learn their basic addition and subtraction facts from experiences in their everyday lives. Eventually, they know the number facts without relying on cookies.
 
 Addition and subtraction of negative numbers have fewer real world examples that are meaningful to us. Math teachers have several different approaches, such as number lines, banking, temperatures, and so on, to make these concepts real.
 
@@ -493,237 +574,231 @@ We will model addition and subtraction of negatives with two color counters. We 
 If we have one positive and one negative counter, the value of the pair is zero. They form a **neutral pair**. The value of this neutral pair is zero as summarized in .
 
 
-*A blue counter represents \(+1.\) A red counter represents \(−1.\) Together they add to zero.*
+*A blue counter represents <span class="math-inline">+1.</span> A red counter represents <span class="math-inline">−1.</span> Together they add to zero.*
 
-We will model four addition facts using the numbers \(5,−5 and 3 ,−3.\)
+We will model four addition facts using the numbers <span class="math-inline">5,−5 and 3 ,−3.</span>
 
 
-$$
+<div class="math-display">
 5+3 −5+(−3) −5+3 5+(−3)
-$$
+</div>
 
 
+<div class="example">
 **Example**
 
 
-Model: \(5+3.\)
+Model: <span class="math-inline">5+3.</span>
 
 
-Solution
-
+<div class="solution">
+<span class="def-label">Solution</span>
 
 
    Interpret the expression.
-   \(5+3\) means the sum of \(5\) and \(3\).
+   <span class="math-inline">5+3</span> means the sum of <span class="math-inline">5</span> and <span class="math-inline">3</span>.
 
 
    Model the first number. Start with 5 positives.
 
 
-
    Model the second number. Add 3 positives.
-
 
 
    Count the total number of counters.
 
 
-
    The sum of 5 and 3 is 8.
-   \(5+3=8\)
+   <span class="math-inline">5+3=8</span>
 
 
-
+<div class="tryit">
 **Try It**
 
 
-Model the expression.\(2+4\)
+Model the expression.<span class="math-inline">2+4</span>
 
 
 6
 
 
+<div class="tryit">
 **Try It**
 
 
-Model the expression.\(2+5\)
+Model the expression.<span class="math-inline">2+5</span>
 
 
 7
 
 
+<div class="example">
 **Example**
 
 
-Model: \(−5+(−3).\)
+Model: <span class="math-inline">−5+(−3).</span>
 
 
-Solution
-
+<div class="solution">
+<span class="def-label">Solution</span>
 
 
    Interpret the expression.
-   \(−5+(−3)\) means the sum of \(−5\) and \(−3\).
+   <span class="math-inline">−5+(−3)</span> means the sum of <span class="math-inline">−5</span> and <span class="math-inline">−3</span>.
 
 
    Model the first number. Start with 5 negatives.
 
 
-
    Model the second number. Add 3 negatives.
-
 
 
    Count the total number of counters.
 
 
-
    The sum of −5 and −3 is −8.
-   \(−5+−3=−8\)
+   <span class="math-inline">−5+−3=−8</span>
 
 
-
+<div class="tryit">
 **Try It**
 
 
-Model the expression.\(−2+(−4)\)
+Model the expression.<span class="math-inline">−2+(−4)</span>
 
 
 −6
 
 
+<div class="tryit">
 **Try It**
 
 
-Model the expression.\(−2+(−5)\)
+Model the expression.<span class="math-inline">−2+(−5)</span>
 
 
 −7
 
 
- and  are very similar. The first example adds \(5\) positives and \(3\) positives—both positives. The second example adds \(5\) negatives and \(3\) negatives—both negatives. In each case, we got a result of \(8—either 8\) positives or \(8\) negatives. When the signs are the same, the counters are all the same color.
+ and  are very similar. The first example adds <span class="math-inline">5</span> positives and <span class="math-inline">3</span> positives—both positives. The second example adds <span class="math-inline">5</span> negatives and <span class="math-inline">3</span> negatives—both negatives. In each case, we got a result of <span class="math-inline">8—either 8</span> positives or <span class="math-inline">8</span> negatives. When the signs are the same, the counters are all the same color.
 
 Now let’s see what happens when the signs are different.
 
 
+<div class="example">
 **Example**
 
 
-Model: \(−5+3.\)
+Model: <span class="math-inline">−5+3.</span>
 
 
-Solution
-
+<div class="solution">
+<span class="def-label">Solution</span>
 
 
    Interpret the expression.
-   \(−5+3\) means the sum of \(−5\) and \(3\).
+   <span class="math-inline">−5+3</span> means the sum of <span class="math-inline">−5</span> and <span class="math-inline">3</span>.
 
 
    Model the first number. Start with 5 negatives.
 
 
-
    Model the second number. Add 3 positives.
-
 
 
  Remove any neutral pairs.
 
 
-
    Count the result.
 
 
-
    The sum of −5 and 3 is −2.
-   \(−5+3=−2\)
-
+   <span class="math-inline">−5+3=−2</span>
 
 
 Notice that there were more negatives than positives, so the result is negative.
 
 
+<div class="tryit">
 **Try It**
 
 
 Model the expression, and then simplify:
-\(2+(−4)\)
+<span class="math-inline">2+(−4)</span>
 
 
 −2
 
 
+<div class="tryit">
 **Try It**
 
 
 Model the expression, and then simplify:
-\(2+(−5)\)
+<span class="math-inline">2+(−5)</span>
 
 
 −3
 
 
+<div class="example">
 **Example**
 
 
-Model: \(5+(−3).\)
+Model: <span class="math-inline">5+(−3).</span>
 
 
-Solution
-
+<div class="solution">
+<span class="def-label">Solution</span>
 
 
    Interpret the expression.
-   \(5+(−3)\) means the sum of \(5\) and \(−3\).
+   <span class="math-inline">5+(−3)</span> means the sum of <span class="math-inline">5</span> and <span class="math-inline">−3</span>.
 
 
    Model the first number. Start with 5 positives.
 
 
-
    Model the second number. Add 3 negatives.
-
 
 
  Remove any neutral pairs.
 
 
-
    Count the result.
 
 
-
    The sum of 5 and −3 is 2.
-   \(5+(−3)=2\)
+   <span class="math-inline">5+(−3)=2</span>
 
 
-
+<div class="tryit">
 **Try It**
 
 
 Model the expression, and then simplify:
-\((−2)+4\)
+<span class="math-inline">(−2)+4</span>
 
 
 2
 
 
+<div class="tryit">
 **Try It**
 
 
 Model the expression:
-\((−2)+5\)
+<span class="math-inline">(−2)+5</span>
 
 
 3
 
 
+<div class="example">
 **Example**
 
 
 Model each addition.
-
 
 
   -   ⓐ 4 + 2
@@ -732,92 +807,78 @@ Model each addition.
   -   ⓓ -2 + (−3)
 
 
-  \(4+2\)
+  <span class="math-inline">4+2</span>
 
 
    Start with 4 positives.
-
 
 
    Add two positives.
 
 
-
  How many do you have?
- \(4+2=6\)
-
+ <span class="math-inline">4+2=6</span>
 
 
    ⓑ
 
 
-
-\(-3+6\)
+<span class="math-inline">-3+6</span>
 
 
    Start with 3 negatives.
 
 
-
    Add 6 positives.
-
 
 
 Remove neutral pairs.
 
 
-
  How many are left?
 
 
- \(3\). \(−3+6=3\)
-
+ <span class="math-inline">3</span>. <span class="math-inline">−3+6=3</span>
 
 
    ⓒ
 
 
-\(4+(−5)\)
+<span class="math-inline">4+(−5)</span>
 
 
    Start with 4 positives.
 
 
-
    Add 5 negatives.
-
 
 
 Remove neutral pairs.
 
 
-
  How many are left?
 
 
- \(−1\). \(4+(−5)=−1\)
-
+ <span class="math-inline">−1</span>. <span class="math-inline">4+(−5)=−1</span>
 
 
    ⓓ
 
 
-   \(−2+(−3)\)
+   <span class="math-inline">−2+(−3)</span>
 
 
    Start with 2 negatives.
 
 
-
    Add 3 negatives.
 
 
-
-
  How many do you have?
- \(−5\). \(−2+(−3)=−5\)
+ <span class="math-inline">−5</span>. <span class="math-inline">−2+(−3)=−5</span>
 
 
+<div class="tryit">
 **Try It**
 
 
@@ -830,7 +891,6 @@ Remove neutral pairs.
   -  ⓓ −2 + (−2)
 
 
-
   -  ⓐ
 
   -  ⓑ
@@ -842,8 +902,8 @@ Remove neutral pairs.
   -  ⓓ
 
 
+<div class="tryit">
 **Try It**
-
 
 
   -  ⓐ 5 + 1
@@ -852,7 +912,6 @@ Remove neutral pairs.
   -  ⓓ −3 + (−4)
 
 
-
   -  ⓐ
 
 
@@ -865,98 +924,118 @@ Remove neutral pairs.
   -  ⓓ
 
 
+---
+
+
+---
+
 ## Simplify Expressions with Integers
+
 
 Now that you have modeled adding small positive and negative integers, you can visualize the model in your mind to simplify **expressions** with any integers.
 
-For example, if you want to add \(37+(−53),\) you don’t have to count out \(37\) blue counters and \(53\) red counters.
+For example, if you want to add <span class="math-inline">37+(−53),</span> you don’t have to count out <span class="math-inline">37</span> blue counters and <span class="math-inline">53</span> red counters.
 
-Picture \(37\) blue counters with \(53\) red counters lined up underneath. Since there would be more negative counters than positive counters, the sum would be negative. Because \(53−37=16,\) there are \(16\) more negative counters.
+Picture <span class="math-inline">37</span> blue counters with <span class="math-inline">53</span> red counters lined up underneath. Since there would be more negative counters than positive counters, the sum would be negative. Because <span class="math-inline">53−37=16,</span> there are <span class="math-inline">16</span> more negative counters.
 
 
-$$
+<div class="math-display">
 37+(−53)=−16
-$$
-
-Let’s try another one. We’ll add \(−74+(−27).\) Imagine \(74\) red counters and \(27\) more red counters, so we have \(101\) red counters all together. This means the sum is \(−101.\)
+</div>
 
 
-$$
+Let’s try another one. We’ll add <span class="math-inline">−74+(−27).</span> Imagine <span class="math-inline">74</span> red counters and <span class="math-inline">27</span> more red counters, so we have <span class="math-inline">101</span> red counters all together. This means the sum is <span class="math-inline">−101.</span>
+
+
+<div class="math-display">
 −74+(−27)=−101
-$$
+</div>
+
 
 Look again at the results of  - .
 
 
+<div class="example">
 **Example**
 
 
 Simplify:
 
-  -  ⓐ \(19+(−47)\)
-  - ⓑ \(−32+40\)
+  -  ⓐ <span class="math-inline">19+(−47)</span>
+  - ⓑ <span class="math-inline">−32+40</span>
 
 
-Solution
-ⓐ Since the signs are different, we subtract \(19\) from \(47.\) The answer will be negative because there are more negatives than positives.\(19 \\
+<div class="solution">
+<span class="def-label">Solution</span>
+
+
+ⓐ Since the signs are different, we subtract <span class="math-inline">19</span> from <span class="math-inline">47.</span> The answer will be negative because there are more negatives than positives.\(19 \\
 −28\)
-ⓑ The signs are different so we subtract \(32\) from \(40.\) The answer will be positive because there are more positives than negatives\(−32 \\
+ⓑ The signs are different so we subtract <span class="math-inline">32</span> from <span class="math-inline">40.</span> The answer will be positive because there are more positives than negatives\(−32 \\
 8\)
 
 
+<div class="tryit">
 **Try It**
 
 
 Simplify each expression:
 
-  - ⓐ \(15+(−32)\)
-  - ⓑ \(−19+76\)
+  - ⓐ <span class="math-inline">15+(−32)</span>
+  - ⓑ <span class="math-inline">−19+76</span>
 
 
   -  ⓐ −17
   -   ⓑ 57
 
 
+<div class="tryit">
 **Try It**
 
 
 Simplify each expression:
 
-  - ⓐ \(−55+9\)
-  - ⓑ \(43+(−17)\)
+  - ⓐ <span class="math-inline">−55+9</span>
+  - ⓑ <span class="math-inline">43+(−17)</span>
 
 
   -  ⓐ −46
   -  ⓑ 26
 
 
+<div class="example">
 **Example**
 
 
-Simplify: \(−14+(−36).\)
+Simplify: <span class="math-inline">−14+(−36).</span>
 
 
-Solution
+<div class="solution">
+<span class="def-label">Solution</span>
+
+
 Since the signs are the same, we add. The answer will be negative because there are only negatives.
 \(−14 \\
 −50\)
 
 
+<div class="tryit">
 **Try It**
 
 
 Simplify the expression:
-\(−31+(−19)\)
+<span class="math-inline">−31+(−19)</span>
 
 
 −50
 
 
+<div class="tryit">
 **Try It**
 
 
 Simplify the expression:
-\(−42+(−28)\)
+<span class="math-inline">−42+(−28)</span>
 
 
 −70
@@ -965,47 +1044,113 @@ Simplify the expression:
 The techniques we have used up to now extend to more complicated expressions. Remember to follow the order of operations.
 
 
+<div class="example">
 **Example**
 
 
-Simplify: \(−5+3(−2+7).\)
+Simplify: <span class="math-inline">−5+3(−2+7).</span>
 
 
-Solution
+<div class="solution">
+<span class="def-label">Solution</span>
 
 
-
-
-   \(−5+3(−2+7)\)
+   <span class="math-inline">−5+3(−2+7)</span>
 
 
    Simplify inside the parentheses.
-   \(−5+3(5)\)
+   <span class="math-inline">−5+3(5)</span>
 
 
    Multiply.
-   \(−5+15\)
+   <span class="math-inline">−5+15</span>
 
 
  Add left to right.
- \(10\)
+ <span class="math-inline">10</span>
 
 
+<div class="tryit">
 **Try It**
 
 
 Simplify the expression:
-\(−2+5(−4+7)\)
+<span class="math-inline">−2+5(−4+7)</span>
 
 
 13
 
 
+<div class="tryit">
 **Try It**
 
 
 Simplify the expression:
-\(−4+2(−3+5)\)
+<span class="math-inline">−4+2(−3+5)</span>
 
 
 0
+
+</div>
+
+</div>
+
+</div>
+
+</div>
+
+</div>
+
+</div>
+
+</div>
+
+</div>
+
+</div>
+
+</div>
+
+</div>
+
+</div>
+
+</div>
+
+</div>
+
+</div>
+
+</div>
+
+</div>
+
+</div>
+
+</div>
+
+</div>
+
+</div>
+
+</div>
+
+</div>
+
+</div>
+
+</div>
+
+</div>
+
+</div>
+
+</div>
+
+</div>
+
+</div>
+
+</div>
+
+</div>

@@ -1,30 +1,107 @@
+<style>
+.math-inline {
+    font-style: italic;
+    padding: 2px 6px;
+    border-radius: 4px;
+    background: #f8f9fa;
+    font-family: Georgia, serif;
+}
+.math-display {
+    background: #f8f9fa;
+    border-left: 4px solid #4a90d9;
+    padding: 16px 20px;
+    margin: 16px 0;
+    border-radius: 6px;
+    font-size: 1.15em;
+    font-family: Georgia, serif;
+    text-align: center;
+    line-height: 2;
+    overflow-x: auto;
+}
+.example-box, .example {
+    background: #f0f8ff;
+    border-left: 4px solid #2e86de;
+    padding: 12px 20px;
+    margin: 16px 0;
+    border-radius: 6px;
+}
+.tryit-box, .tryit {
+    background: #f0fff4;
+    border-left: 4px solid #27ae60;
+    padding: 12px 20px;
+    margin: 16px 0;
+    border-radius: 6px;
+}
+.solution-box, .solution {
+    background: #fef9e7;
+    border-left: 4px solid #f39c12;
+    padding: 12px 20px;
+    margin: 12px 0;
+    border-radius: 6px;
+}
+.check-box, .check {
+    background: #fef9e7;
+    border-left: 4px solid #f39c12;
+    padding: 12px 20px;
+    margin: 12px 0;
+    border-radius: 6px;
+}
+.prep-quiz {
+    background: #fff3cd;
+    border: 1px solid #ffc107;
+    padding: 12px 20px;
+    margin: 16px 0;
+    border-radius: 6px;
+}
+.def-label, .definition-label {
+    font-weight: bold;
+    font-size: 1.1em;
+    margin: 20px 0 8px 0;
+    color: #2c3e50;
+    display: block;
+}
+.math-display sup, .math-inline sup { font-size: 0.75em; line-height: 0; }
+.math-display sub, .math-inline sub { font-size: 0.75em; line-height: 0; }
+</style>
+
+
+---
+
+
+---
+
 ## Simplify Expressions Using the Quotient Property of Exponents
+
 
 Earlier in this chapter, we developed the properties of exponents for multiplication. We summarize these properties here.
 
 
-**Summary of Exponent Properties for Multiplication**
-
-If \(a, b\) are real numbers and \(m, n\) are whole numbers, then
+<div class="definition-label">**Summary of Exponent Properties for Multiplication**</div>
 
 
-$$
-Product Property &  &  & a^m\cdot a^n=a^{m+n} \\
+If <span class="math-inline">a, b</span> are real numbers and <span class="math-inline">m, n</span> are whole numbers, then
+
+
+<div class="math-display">
+Product Property &  &  & a<sup>m</sup>· a<sup>n</sup>=a<sup>m+n</sup> \\
 Power Property &  &  &  \\
 Product to a Power &  &  &
-$$
+</div>
+
 
 Now we will look at the exponent properties for division. A quick memory refresher may help before we get started. In Fractions you learned that fractions may be simplified by dividing out common factors from the numerator and denominator using the **Equivalent Fractions Property**. This property will also help us work with algebraic fractions—which are also quotients.
 
 
-**Equivalent Fractions Property**
-
-If \(a, b, c\) are whole numbers where \(b\ne 0, c\ne 0,\) then
+<div class="definition-label">**Equivalent Fractions Property**</div>
 
 
-$$
-\frac{a}{b}=\frac{a \cdot  c}{b \cdot  c} and \frac{a \cdot  c}{b \cdot  c}=\frac{a}{b}
-$$
+If <span class="math-inline">a, b, c</span> are whole numbers where <span class="math-inline">b≠ 0, c≠ 0,</span> then
+
+
+<div class="math-display">
+<sup>a</sup>∕<sub>b</sub>=<sup>a ·  c</sup>∕<sub>b ·  c</sub> and <sup>a ·  c</sup>∕<sub>b ·  c</sub>=<sup>a</sup>∕<sub>b</sub>
+</div>
+
 
 As before, we'll try to discover a property by looking at some examples.
 
@@ -35,310 +112,334 @@ Simplify. &  &  & x^3 &  &  &  &  &  & \frac{1}{x}\)
 
 Notice that in each case the bases were the same and we subtracted the exponents.
 
-- When the larger exponent was in the numerator, we were left with factors in the numerator and \(1\) in the denominator, which we simplified.
+- When the larger exponent was in the numerator, we were left with factors in the numerator and <span class="math-inline">1</span> in the denominator, which we simplified.
 
-- When the larger exponent was in the denominator, we were left with factors in the denominator, and \(1\) in the numerator, which could not be simplified.
+- When the larger exponent was in the denominator, we were left with factors in the denominator, and <span class="math-inline">1</span> in the numerator, which could not be simplified.
 
 We write:
 
 
-$$
-\frac{x^5}{x^2} &  &  &  & \frac{x^2}{x^3} \\
-x^{5-2} &  &  &  & \frac{1}{x^{3-2}} \\
-x^3 &  &  &  & \frac{1}{x}
-$$
+<div class="math-display">
+<sup>x<sup>5</sup></sup>∕<sub>x<sup>2</sup></sub> &  &  &  & <sup>x<sup>2</sup></sup>∕<sub>x<sup>3</sup></sub> \\
+x<sup>5-2</sup> &  &  &  & <sup>1</sup>∕<sub>x<sup>3-2</sub></sup> \\
+x<sup>3</sup> &  &  &  & <sup>1</sup>∕<sub>x</sub>
+</div>
 
 
-**Quotient Property of Exponents**
-
-If \(a\) is a real number, \(a\ne 0,\) and \(m, n\) are whole numbers, then
+<div class="definition-label">**Quotient Property of Exponents**</div>
 
 
-$$
-\frac{a^m}{a^n}=a^{m-n}, m>n and \frac{a^m}{a^n}=\frac{1}{a^{n-m}}, n>m
-$$
+If <span class="math-inline">a</span> is a real number, <span class="math-inline">a≠ 0,</span> and <span class="math-inline">m, n</span> are whole numbers, then
+
+
+<div class="math-display">
+<sup>a<sup>m</sup></sup>∕<sub>a<sup>n</sup></sub>=a<sup>m-n</sup>, m>n and <sup>a<sup>m</sup></sup>∕<sub>a<sup>n</sup></sub>=<sup>1</sup>∕<sub>a<sup>n-m</sub></sup>, n>m
+</div>
+
 
 A couple of examples with numbers may help to verify this property.
 
 
-$$
-\frac{3^4}{3^2}\overset{?}{=}3^{4-2} &  &  &  \\
-\frac{81}{9}\overset{?}{=}3^2 &  &  & \frac{25}{125}\overset{?}{=}\frac{1}{5^1} \\
+<div class="math-display">
+<sup>3<sup>4</sup></sup>∕<sub>3<sup>2</sup></sub>=<sup>?</sup>3<sup>4-2</sup> &  &  &  \\
+<sup>81</sup>∕<sub>9</sub>=<sup>?</sup>3<sup>2</sup> &  &  & <sup>25</sup>∕<sub>125</sub>=<sup>?</sup><sup>1</sup>∕<sub>5<sup>1</sup></sub> \\
  &  &  &
-$$
-
-When we work with numbers and the exponent is less than or equal to \(3,\) we will apply the exponent. When the exponent is greater than \(3\), we leave the answer in exponential form.
+</div>
 
 
+When we work with numbers and the exponent is less than or equal to <span class="math-inline">3,</span> we will apply the exponent. When the exponent is greater than <span class="math-inline">3</span>, we leave the answer in exponential form.
+
+
+<div class="example">
 **Example**
 
 
 Simplify:
-  - ⓐ \(\frac{x^{10}}{x^8}\)
-  - ⓑ \(\frac{2^9}{2^2}\)
+  - ⓐ <span class="math-inline">\frac{x<sup>10</sup>{x<sup>8</sup></span>
+  - ⓑ <span class="math-inline"><sup>2<sup>9</sup></sup>∕<sub>2<sup>2</sup></sub></span>
 
 
-Solution
+<div class="solution">
+<span class="def-label">Solution</span>
+
+
 To simplify an expression with a quotient, we need to first compare the exponents in the numerator and denominator.
 
 
 ⓐ
 
 
+Since 10 > 8, there are more factors of <span class="math-inline">x</span> in the numerator.
+<span class="math-inline">\frac{x<sup>10</sup>{x<sup>8</sup></span>
 
-Since 10 > 8, there are more factors of \(x\) in the numerator.
-\(\frac{x^{10}}{x^8}\)
 
-
- Use the quotient property with \(m>n,\frac{a^m}{a^n}=a^{m-n}\).
+ Use the quotient property with <span class="math-inline">m>n,<sup>a<sup>m</sup></sup>∕<sub>a<sup>n</sup></sub>=a<sup>m-n</sup></span>.
 
 
 Simplify.
-\(x^2\)
+<span class="math-inline">x<sup>2</sup></span>
 
 
 ⓑ
 
 
-
 Since 9 > 2, there are more factors of 2 in the numerator.
-\(\frac{2^9}{2^2}\)
+<span class="math-inline"><sup>2<sup>9</sup></sup>∕<sub>2<sup>2</sup></sub></span>
 
 
- Use the quotient property with \(m>n,\frac{a^m}{a^n}=a^{m-n}.\)
+ Use the quotient property with <span class="math-inline">m>n,<sup>a<sup>m</sup></sup>∕<sub>a<sup>n</sup></sub>=a<sup>m-n</sup>.</span>
 
 
 Simplify.
-\(2^7\)
+<span class="math-inline">2<sup>7</sup></span>
 
 
 Notice that when the larger exponent is in the numerator, we are left with factors in the numerator.
 
 
+<div class="tryit">
 **Try It**
 
 
 Simplify:
-  - ⓐ \(\frac{x^{12}}{x^9}\)
-  - ⓑ \(\frac{7^{14}}{7^5}\)
+  - ⓐ <span class="math-inline">\frac{x<sup>12</sup>{x<sup>9</sup></span>
+  - ⓑ <span class="math-inline">\frac{7<sup>14</sup>{7<sup>5</sup></span>
 
 
   - ⓐ *x*3
   - ⓑ 79
 
 
+<div class="tryit">
 **Try It**
 
 
 Simplify:
-  - ⓐ \(\frac{y^{23}}{y^{17}}\)
-  - ⓑ \(\frac{8^{15}}{8^7}\)
+  - ⓐ <span class="math-inline">\frac{y<sup>23</sup>{y<sup>17</sup></span>
+  - ⓑ <span class="math-inline">\frac{8<sup>15</sup>{8<sup>7</sup></span>
 
 
   - ⓐ *y*6
   - ⓑ 88
 
 
+<div class="example">
 **Example**
 
 
 Simplify:
-  - ⓐ \(\frac{b^{10}}{b^{15}}\)
-  - ⓑ \(\frac{3^3}{3^5}\)
+  - ⓐ <span class="math-inline">\frac{b<sup>10</sup>{b<sup>15</sup></span>
+  - ⓑ <span class="math-inline"><sup>3<sup>3</sup></sup>∕<sub>3<sup>5</sup></sub></span>
 
 
-Solution
+<div class="solution">
+<span class="def-label">Solution</span>
+
+
 To simplify an expression with a quotient, we need to first compare the exponents in the numerator and denominator.
 
 
 ⓐ
 
 
+Since 15 > 10, there are more factors of <span class="math-inline">b</span> in the denominator.
+<span class="math-inline">\frac{b<sup>10</sup>{b<sup>15</sup></span>
 
-Since 15 > 10, there are more factors of \(b\) in the denominator.
-\(\frac{b^{10}}{b^{15}}\)
 
-
- Use the quotient property with \(n>m,\frac{a^m}{a^n}=\frac{1}{a^{n-m}}.\)
+ Use the quotient property with <span class="math-inline">n>m,<sup>a<sup>m</sup></sup>∕<sub>a<sup>n</sup></sub>=<sup>1</sup>∕<sub>a<sup>n-m</sub></sup>.</span>
 
 
 Simplify.
-\(\frac{1}{b^5}\)
+<span class="math-inline"><sup>1</sup>∕<sub>b<sup>5</sup></sub></span>
 
 
 ⓑ
 
 
-
 Since 5 > 3, there are more factors of 3 in the denominator.
-\(\frac{3^3}{3^5}\)
+<span class="math-inline"><sup>3<sup>3</sup></sup>∕<sub>3<sup>5</sup></sub></span>
 
 
- Use the quotient property with \(n>m,\frac{a^m}{a^n}=\frac{1}{a^{n-m}}.\)
+ Use the quotient property with <span class="math-inline">n>m,<sup>a<sup>m</sup></sup>∕<sub>a<sup>n</sup></sub>=<sup>1</sup>∕<sub>a<sup>n-m</sub></sup>.</span>
 
 
 Simplify.
-\(\frac{1}{3^2}\)
+<span class="math-inline"><sup>1</sup>∕<sub>3<sup>2</sup></sub></span>
 
 
 Apply the exponent.
-\(\frac{1}{9}\)
+<span class="math-inline"><sup>1</sup>∕<sub>9</sub></span>
 
 
-Notice that when the larger exponent is in the denominator, we are left with factors in the denominator and \(1\) in the numerator.
+Notice that when the larger exponent is in the denominator, we are left with factors in the denominator and <span class="math-inline">1</span> in the numerator.
 
 
+<div class="tryit">
 **Try It**
 
 
 Simplify:
-  - ⓐ \(\frac{x^8}{x^{15}}\)
-  - ⓑ \(\frac{12^{11}}{12^{21}}\)
+  - ⓐ <span class="math-inline"><sup>x<sup>8</sup></sup>∕<sub>x<sup>15</sub></sup></span>
+  - ⓑ <span class="math-inline">\frac{12<sup>11</sup>{12<sup>21</sup></span>
 
 
-  - ⓐ \(\frac{1}{x^7}\)
-  - ⓑ \(\frac{1}{12^{10}}\)
+  - ⓐ <span class="math-inline"><sup>1</sup>∕<sub>x<sup>7</sup></sub></span>
+  - ⓑ <span class="math-inline"><sup>1</sup>∕<sub>12<sup>10</sub></sup></span>
 
 
+<div class="tryit">
 **Try It**
 
 
 Simplify:
-  - ⓐ \(\frac{m^{17}}{m^{26}}\)
-  - ⓑ \(\frac{7^8}{7^{14}}\)
+  - ⓐ <span class="math-inline">\frac{m<sup>17</sup>{m<sup>26</sup></span>
+  - ⓑ <span class="math-inline"><sup>7<sup>8</sup></sup>∕<sub>7<sup>14</sub></sup></span>
 
 
-  - ⓐ \(\frac{1}{m^9}\)
-  - ⓑ \(\frac{1}{7^6}\)
+  - ⓐ <span class="math-inline"><sup>1</sup>∕<sub>m<sup>9</sup></sub></span>
+  - ⓑ <span class="math-inline"><sup>1</sup>∕<sub>7<sup>6</sup></sub></span>
 
 
+<div class="example">
 **Example**
 
 
 Simplify:
-  - ⓐ \(\frac{a^5}{a^9}\)
-  - ⓑ \(\frac{x^{11}}{x^7}\)
+  - ⓐ <span class="math-inline"><sup>a<sup>5</sup></sup>∕<sub>a<sup>9</sup></sub></span>
+  - ⓑ <span class="math-inline">\frac{x<sup>11</sup>{x<sup>7</sup></span>
 
 
-Solution
+<div class="solution">
+<span class="def-label">Solution</span>
 
 
 ⓐ
 
 
+Since 9 > 5, there are more <span class="math-inline">a</span>'s in the denominator and so we will end up with factors in the denominator.
+<span class="math-inline"><sup>a<sup>5</sup></sup>∕<sub>a<sup>9</sup></sub></span>
 
-Since 9 > 5, there are more \(a\)'s in the denominator and so we will end up with factors in the denominator.
-\(\frac{a^5}{a^9}\)
 
-
- Use the Quotient Property for \(n>m,\frac{a^m}{a^n}=\frac{1}{a^{n-m}}.\)
+ Use the Quotient Property for <span class="math-inline">n>m,<sup>a<sup>m</sup></sup>∕<sub>a<sup>n</sup></sub>=<sup>1</sup>∕<sub>a<sup>n-m</sub></sup>.</span>
 
 
 Simplify.
-\(\frac{1}{a^4}\)
+<span class="math-inline"><sup>1</sup>∕<sub>a<sup>4</sup></sub></span>
 
 
 ⓑ
 
 
+Notice there are more factors of <span class="math-inline">x</span> in the numerator, since 11 > 7. So we will end up with factors in the numerator.
+<span class="math-inline">\frac{x<sup>11</sup>{x<sup>7</sup></span>
 
-Notice there are more factors of \(x\) in the numerator, since 11 > 7. So we will end up with factors in the numerator.
-\(\frac{x^{11}}{x^7}\)
 
-
- Use the Quotient Property for \(m>n,\frac{a^m}{a^n}=a^{n-m}.\)
+ Use the Quotient Property for <span class="math-inline">m>n,<sup>a<sup>m</sup></sup>∕<sub>a<sup>n</sup></sub>=a<sup>n-m</sup>.</span>
 
 
 Simplify.
-\(x^4\)
+<span class="math-inline">x<sup>4</sup></span>
 
 
+<div class="tryit">
 **Try It**
 
 
 Simplify:
-  - ⓐ \(\frac{b^{19}}{b^{11}}\)
-  - ⓑ \(\frac{z^5}{z^{11}}\)
+  - ⓐ <span class="math-inline">\frac{b<sup>19</sup>{b<sup>11</sup></span>
+  - ⓑ <span class="math-inline"><sup>z<sup>5</sup></sup>∕<sub>z<sup>11</sub></sup></span>
 
 
-  - ⓐ \(b^8\)
-  - ⓑ \(\frac{1}{z^6}\)
+  - ⓐ <span class="math-inline">b<sup>8</sup></span>
+  - ⓑ <span class="math-inline"><sup>1</sup>∕<sub>z<sup>6</sup></sub></span>
 
 
+<div class="tryit">
 **Try It**
 
 
 Simplify:
-  - ⓐ \(\frac{p^9}{p^{17}}\)
-  - ⓑ \(\frac{w^{13}}{w^9}\)
+  - ⓐ <span class="math-inline"><sup>p<sup>9</sup></sup>∕<sub>p<sup>17</sub></sup></span>
+  - ⓑ <span class="math-inline">\frac{w<sup>13</sup>{w<sup>9</sup></span>
 
 
-  - ⓐ \(\frac{1}{p^8}\)
-  - ⓑ \(w^4\)
+  - ⓐ <span class="math-inline"><sup>1</sup>∕<sub>p<sup>8</sup></sub></span>
+  - ⓑ <span class="math-inline">w<sup>4</sup></span>
 
+
+---
+
+
+---
 
 ## Simplify Expressions with Zero Exponents
 
-A special case of the Quotient Property is when the exponents of the numerator and denominator are equal, such as an expression like \(\frac{a^m}{a^m}.\) From earlier work with fractions, we know that
+
+A special case of the Quotient Property is when the exponents of the numerator and denominator are equal, such as an expression like <span class="math-inline"><sup>a<sup>m</sup></sup>∕<sub>a<sup>m</sup></sub>.</span> From earlier work with fractions, we know that
 
 
-$$
-\frac{2}{2}=1 \frac{17}{17}=1 \frac{−43}{−43}=1
-$$
-
-In words, a number divided by itself is \(1.\) So \(\frac{x}{x}=1,\) for any \(x\) (\(x\ne 0\)), since any number divided by itself is \(1.\)
-
-The **Quotient Property of Exponents** shows us how to simplify \(\frac{a^m}{a^n}\) when \(m>n\) and when \(n<m\) by subtracting exponents. What if \(m=n\)?
-
-Now we will simplify \(\frac{a^m}{a^m}\) in two ways to lead us to the definition of the **zero exponent**.
-
-Consider first \(\frac{8}{8},\) which we know is \(1.\)
+<div class="math-display">
+<sup>2</sup>∕<sub>2</sub>=1 <sup>17</sup>∕<sub>17</sub>=1 <sup>−43</sup>∕<sub>−43</sub>=1
+</div>
 
 
+In words, a number divided by itself is <span class="math-inline">1.</span> So <span class="math-inline"><sup>x</sup>∕<sub>x</sub>=1,</span> for any <span class="math-inline">x</span> (<span class="math-inline">x≠ 0</span>), since any number divided by itself is <span class="math-inline">1.</span>
 
-\(\frac{8}{8}=1\)
+The **Quotient Property of Exponents** shows us how to simplify <span class="math-inline"><sup>a<sup>m</sup></sup>∕<sub>a<sup>n</sup></sub></span> when <span class="math-inline">m>n</span> and when <span class="math-inline">n<m</span> by subtracting exponents. What if <span class="math-inline">m=n</span>?
+
+Now we will simplify <span class="math-inline"><sup>a<sup>m</sup></sup>∕<sub>a<sup>m</sup></sub></span> in two ways to lead us to the definition of the **zero exponent**.
+
+Consider first <span class="math-inline"><sup>8</sup>∕<sub>8</sub>,</span> which we know is <span class="math-inline">1.</span>
 
 
- Write 8 as \(2^3\).
-\(\frac{2^3}{2^3}=1\)
+<span class="math-inline"><sup>8</sup>∕<sub>8</sub>=1</span>
+
+
+ Write 8 as <span class="math-inline">2<sup>3</sup></span>.
+<span class="math-inline"><sup>2<sup>3</sup></sup>∕<sub>2<sup>3</sup></sub>=1</span>
 
 
 Subtract exponents.
-\(2^{3-3}=1\)
+<span class="math-inline">2<sup>3-3</sup>=1</span>
 
 
 Simplify.
-\(2^0=1\)
+<span class="math-inline">2<sup>0</sup>=1</span>
 
 
-We see \(\frac{a^m}{a^n}\) simplifies to a \(a^0\) and to \(1\). So \(a^0=1\).
+We see <span class="math-inline"><sup>a<sup>m</sup></sup>∕<sub>a<sup>n</sup></sub></span> simplifies to a <span class="math-inline">a<sup>0</sup></span> and to <span class="math-inline">1</span>. So <span class="math-inline">a<sup>0</sup>=1</span>.
 
 
-**Zero Exponent**
+<div class="definition-label">**Zero Exponent**</div>
 
-If \(a\) is a non-zero number, then \(a^0=1.\)
 
-Any nonzero number raised to the zero power is \(1.\)
+If <span class="math-inline">a</span> is a non-zero number, then <span class="math-inline">a<sup>0</sup>=1.</span>
+
+Any nonzero number raised to the zero power is <span class="math-inline">1.</span>
 
 In this text, we assume any variable that we raise to the zero power is not zero.
 
 
+<div class="example">
 **Example**
 
 
 Simplify:
-  - ⓐ \(12^0\)
-  - ⓑ \(y^0\)
+  - ⓐ <span class="math-inline">12<sup>0</sup></span>
+  - ⓑ <span class="math-inline">y<sup>0</sup></span>
 
 
-Solution
-The definition says any non-zero number raised to the zero power is \(1.\)
+<div class="solution">
+<span class="def-label">Solution</span>
+
+
+The definition says any non-zero number raised to the zero power is <span class="math-inline">1.</span>
 
 
 ⓐ
 
 
-\(12^0\)
+<span class="math-inline">12<sup>0</sup></span>
 
 
 Use the definition of the zero exponent.
@@ -348,31 +449,33 @@ Use the definition of the zero exponent.
 ⓑ
 
 
-\(y^0\)
+<span class="math-inline">y<sup>0</sup></span>
 
 
 Use the definition of the zero exponent.
 1
 
 
+<div class="tryit">
 **Try It**
 
 
 Simplify:
-  - ⓐ \(17^0\)
-  - ⓑ \(m^0\)
+  - ⓐ <span class="math-inline">17<sup>0</sup></span>
+  - ⓑ <span class="math-inline">m<sup>0</sup></span>
 
 
   - ⓐ 1
   - ⓑ 1
 
 
+<div class="tryit">
 **Try It**
 
 
 Simplify:
-  - ⓐ \(k^0\)
-  - ⓑ \(29^0\)
+  - ⓐ <span class="math-inline">k<sup>0</sup></span>
+  - ⓑ <span class="math-inline">29<sup>0</sup></span>
 
 
   - ⓐ 1
@@ -380,19 +483,18 @@ Simplify:
 
 Now that we have defined the zero exponent, we can expand all the Properties of Exponents to include whole number exponents.
 
-What about raising an expression to the zero power? Let's look at \((2x)^0.\) We can use the product to a power rule to rewrite this expression.
+What about raising an expression to the zero power? Let's look at <span class="math-inline">(2x)<sup>0</sup>.</span> We can use the product to a power rule to rewrite this expression.
 
 
-
-\((2x)^0\)
+<span class="math-inline">(2x)<sup>0</sup></span>
 
 
 Use the Product to a Power Rule.
-\(2^0x^0\)
+<span class="math-inline">2<sup>0</sup>x<sup>0</sup></span>
 
 
 Use the Zero Exponent Property.
-\(1\cdot 1\)
+<span class="math-inline">1· 1</span>
 
 
 Simplify.
@@ -402,110 +504,123 @@ Simplify.
 This tells us that any non-zero expression raised to the zero power is one.
 
 
+<div class="example">
 **Example**
 
 
-Simplify: \((7z)^0.\)
+Simplify: <span class="math-inline">(7z)<sup>0</sup>.</span>
 
 
-Solution
+<div class="solution">
+<span class="def-label">Solution</span>
 
 
-
-\((7z)^0\)
+<span class="math-inline">(7z)<sup>0</sup></span>
 
 
 Use the definition of the zero exponent.
 1
 
 
+<div class="tryit">
 **Try It**
 
 
-Simplify: \((−4y)^0.\)
+Simplify: <span class="math-inline">(−4y)<sup>0</sup>.</span>
 
 
 1
 
 
+<div class="tryit">
 **Try It**
 
 
-Simplify: \((\frac{2}{3} x)^0.\)
+Simplify: <span class="math-inline">(<sup>2</sup>∕<sub>3</sub> x)<sup>0</sup>.</span>
 
 
 1
 
 
+<div class="example">
 **Example**
 
 
 Simplify:
-  - ⓐ \((−3x^2y)^0\)
-  - ⓑ \(−3x^2y^0\)
+  - ⓐ <span class="math-inline">(−3x<sup>2</sup>y)<sup>0</sup></span>
+  - ⓑ <span class="math-inline">−3x<sup>2</sup>y<sup>0</sup></span>
 
 
-Solution
+<div class="solution">
+<span class="def-label">Solution</span>
 
 
 ⓐ
 
 
 The product is raised to the zero power.
-\((−3x^2y)^0\)
+<span class="math-inline">(−3x<sup>2</sup>y)<sup>0</sup></span>
 
 
 Use the definition of the zero exponent.
-\(1\)
+<span class="math-inline">1</span>
 
 
 ⓑ
 
 
-Notice that only the variable \(y\) is being raised to the zero power.
-\(−3x^2y^0\)
+Notice that only the variable <span class="math-inline">y</span> is being raised to the zero power.
+<span class="math-inline">−3x<sup>2</sup>y<sup>0</sup></span>
 
 
 Use the definition of the zero exponent.
-\(−3x^2\cdot 1\)
+<span class="math-inline">−3x<sup>2</sup>· 1</span>
 
 
 Simplify.
-\(−3x^2\)
+<span class="math-inline">−3x<sup>2</sup></span>
 
 
+<div class="tryit">
 **Try It**
 
 
 Simplify:
-  - ⓐ \((7x^2y)^0\)
-  - ⓑ \(7x^2y^0\)
+  - ⓐ <span class="math-inline">(7x<sup>2</sup>y)<sup>0</sup></span>
+  - ⓑ <span class="math-inline">7x<sup>2</sup>y<sup>0</sup></span>
 
 
   - ⓐ 1
   - ⓑ 7*x*2
 
 
+<div class="tryit">
 **Try It**
 
 
 Simplify:
-  - ⓐ \(−23x^2y^0\)
-  - ⓑ \((−23x^2y)^0\)
+  - ⓐ <span class="math-inline">−23x<sup>2</sup>y<sup>0</sup></span>
+  - ⓑ <span class="math-inline">(−23x<sup>2</sup>y)<sup>0</sup></span>
 
 
   - ⓐ −23*x*2
   - ⓑ 1
 
 
+---
+
+
+---
+
 ## Simplify Expressions Using the Quotient to a Power Property
+
 
 Now we will look at an example that will lead us to the Quotient to a Power Property.
 
 
 Notice that the exponent applies to both the numerator and the denominator.
 
-We see that \((\frac{x}{y})^3\) is \(\frac{x^3}{y^3}.\)
+We see that <span class="math-inline">(<sup>x</sup>∕<sub>y</sub>)<sup>3</sup></span> is <span class="math-inline"><sup>x<sup>3</sup></sup>∕<sub>y<sup>3</sup></sub>.</span>
 
 \(We write: &  &  &  & (\frac{x}{y})^3 \\
  &  &  &  & \frac{x^3}{y^3}\)
@@ -513,43 +628,47 @@ We see that \((\frac{x}{y})^3\) is \(\frac{x^3}{y^3}.\)
 This leads to the Quotient to a Power Property for Exponents.
 
 
-**Quotient to a Power Property of Exponents**
-
-If \(a\) and \(b\) are real numbers, \(b\ne 0,\) and \(m\) is a counting number, then
+<div class="definition-label">**Quotient to a Power Property of Exponents**</div>
 
 
-$$
-(\frac{a}{b})^m= \frac{a^m}{b^m}
-$$
+If <span class="math-inline">a</span> and <span class="math-inline">b</span> are real numbers, <span class="math-inline">b≠ 0,</span> and <span class="math-inline">m</span> is a counting number, then
+
+
+<div class="math-display">
+(<sup>a</sup>∕<sub>b</sub>)<sup>m</sup>= <sup>a<sup>m</sup></sup>∕<sub>b<sup>m</sup></sub>
+</div>
+
 
 To raise a fraction to a power, raise the numerator and denominator to that power.
 
 An example with numbers may help you understand this property:
 
 
-$$
-(\frac{2}{3})^3 & \overset{?}{=} & \frac{2^3}{3^3} \\
-\frac{2}{3}\cdot \frac{2}{3}\cdot \frac{2}{3} & \overset{?}{=} & \frac{8}{27} \\
-\frac{8}{27} & = & \frac{8}{27}
-$$
+<div class="math-display">
+(<sup>2</sup>∕<sub>3</sub>)<sup>3</sup> & =<sup>?</sup> & <sup>2<sup>3</sup></sup>∕<sub>3<sup>3</sup></sub> \\
+<sup>2</sup>∕<sub>3</sub>· <sup>2</sup>∕<sub>3</sub>· <sup>2</sup>∕<sub>3</sub> & =<sup>?</sup> & <sup>8</sup>∕<sub>27</sub> \\
+<sup>8</sup>∕<sub>27</sub> & = & <sup>8</sup>∕<sub>27</sub>
+</div>
 
 
+<div class="example">
 **Example**
 
 
 Simplify:
-  - ⓐ \((\frac{5}{8})^2\)
-  - ⓑ \((\frac{x}{3})^4\)
-  - ⓒ \((\frac{y}{m})^3\)
+  - ⓐ <span class="math-inline">(<sup>5</sup>∕<sub>8</sub>)<sup>2</sup></span>
+  - ⓑ <span class="math-inline">(<sup>x</sup>∕<sub>3</sub>)<sup>4</sup></span>
+  - ⓒ <span class="math-inline">(<sup>y</sup>∕<sub>m</sub>)<sup>3</sup></span>
 
 
-Solution
+<div class="solution">
+<span class="def-label">Solution</span>
 
 
 ⓐ
 
 
-Use the Quotient to a Power Property, \((\frac{a}{b})^m= \frac{a^m}{b^m}\).
+Use the Quotient to a Power Property, <span class="math-inline">(<sup>a</sup>∕<sub>b</sub>)<sup>m</sup>= <sup>a<sup>m</sup></sup>∕<sub>b<sup>m</sup></sub></span>.
 
 
 Simplify.
@@ -558,7 +677,7 @@ Simplify.
 ⓑ
 
 
-Use the Quotient to a Power Property, \((\frac{a}{b})^m= \frac{a^m}{b^m}\).
+Use the Quotient to a Power Property, <span class="math-inline">(<sup>a</sup>∕<sub>b</sub>)<sup>m</sup>= <sup>a<sup>m</sup></sup>∕<sub>b<sup>m</sup></sub></span>.
 
 
 Simplify.
@@ -570,358 +689,396 @@ Simplify.
 Raise the numerator and denominator to the third power.
 
 
+<div class="tryit">
 **Try It**
 
 
 Simplify:
-  - ⓐ \((\frac{7}{9})^2\)
-  - ⓑ \((\frac{y}{8})^3\)
-  - ⓒ \((\frac{p}{q})^6\)
+  - ⓐ <span class="math-inline">(<sup>7</sup>∕<sub>9</sub>)<sup>2</sup></span>
+  - ⓑ <span class="math-inline">(<sup>y</sup>∕<sub>8</sub>)<sup>3</sup></span>
+  - ⓒ <span class="math-inline">(<sup>p</sup>∕<sub>q</sub>)<sup>6</sup></span>
 
 
-  - ⓐ \(\frac{49}{81}\)
-  - ⓑ \(\frac{y^3}{512}\)
-  - ⓒ \(\frac{p^6}{q^6}\)
+  - ⓐ <span class="math-inline"><sup>49</sup>∕<sub>81</sub></span>
+  - ⓑ <span class="math-inline"><sup>y<sup>3</sup></sup>∕<sub>512</sub></span>
+  - ⓒ <span class="math-inline"><sup>p<sup>6</sup></sup>∕<sub>q<sup>6</sup></sub></span>
 
 
+<div class="tryit">
 **Try It**
 
 
 Simplify:
-  - ⓐ \((\frac{1}{8})^2\)
-  - ⓑ \((\frac{−5}{m})^3\)
-  - ⓒ \((\frac{r}{s})^4\)
+  - ⓐ <span class="math-inline">(<sup>1</sup>∕<sub>8</sub>)<sup>2</sup></span>
+  - ⓑ <span class="math-inline">(<sup>−5</sup>∕<sub>m</sub>)<sup>3</sup></span>
+  - ⓒ <span class="math-inline">(<sup>r</sup>∕<sub>s</sub>)<sup>4</sup></span>
 
 
-  - ⓐ \(\frac{1}{64}\)
-  - ⓑ \(-\frac{125}{m^3}\)
-  - ⓒ \(\frac{r^4}{s^4}\)
+  - ⓐ <span class="math-inline"><sup>1</sup>∕<sub>64</sub></span>
+  - ⓑ <span class="math-inline">-<sup>125</sup>∕<sub>m<sup>3</sup></sub></span>
+  - ⓒ <span class="math-inline"><sup>r<sup>4</sup></sup>∕<sub>s<sup>4</sup></sub></span>
 
+
+---
+
+
+---
 
 ## Simplify Expressions by Applying Several Properties
+
 
 We'll now summarize all the properties of exponents so they are all together to refer to as we simplify expressions using several properties. Notice that they are now defined for whole number exponents.
 
 
-**Summary of Exponent Properties**
-
-If \(a, b\) are real numbers and \(m,n\) are whole numbers, then
+<div class="definition-label">**Summary of Exponent Properties**</div>
 
 
-$$
-Product Property &  &  & a^m\cdot a^n=a^{m+n} \\
-Power Property &  &  & (a^m)^n=a^{m\cdot n} \\
-Product to a Power Property &  &  & (ab)^m=a^mb^m \\
-Quotient Property &  &  & \frac{a^m}{a^n}=a^{m-n},a\ne 0, m>n \\
- &  &  & \frac{a^m}{a^n}=\frac{1}{a^{n-m}},a\ne 0, n>m \\
-Zero Exponent Definition &  &  & a^0=1, a\ne 0 \\
-Quotient to a Power Property &  &  & (\frac{a}{b})^m=\frac{a^m}{b^m}, b\ne 0
-$$
+If <span class="math-inline">a, b</span> are real numbers and <span class="math-inline">m,n</span> are whole numbers, then
 
 
+<div class="math-display">
+Product Property &  &  & a<sup>m</sup>· a<sup>n</sup>=a<sup>m+n</sup> \\
+Power Property &  &  & (a<sup>m</sup>)<sup>n</sup>=a<sup>m· n</sup> \\
+Product to a Power Property &  &  & (ab)<sup>m</sup>=a<sup>m</sup>b<sup>m</sup> \\
+Quotient Property &  &  & <sup>a<sup>m</sup></sup>∕<sub>a<sup>n</sup></sub>=a<sup>m-n</sup>,a≠ 0, m>n \\
+ &  &  & <sup>a<sup>m</sup></sup>∕<sub>a<sup>n</sup></sub>=<sup>1</sup>∕<sub>a<sup>n-m</sub></sup>,a≠ 0, n>m \\
+Zero Exponent Definition &  &  & a<sup>0</sup>=1, a≠ 0 \\
+Quotient to a Power Property &  &  & (<sup>a</sup>∕<sub>b</sub>)<sup>m</sup>=<sup>a<sup>m</sup></sup>∕<sub>b<sup>m</sup></sub>, b≠ 0
+</div>
+
+
+<div class="example">
 **Example**
 
 
-Simplify: \(\frac{(x^2)^3}{x^5}.\)
+Simplify: <span class="math-inline"><sup>(x<sup>2</sup>)<sup>3</sup></sup>∕<sub>x<sup>5</sup></sub>.</span>
 
 
-Solution
+<div class="solution">
+<span class="def-label">Solution</span>
 
 
-
-\(\frac{(x^2)^3}{x^5}\)
+<span class="math-inline"><sup>(x<sup>2</sup>)<sup>3</sup></sup>∕<sub>x<sup>5</sup></sub></span>
 
 
 Multiply the exponents in the numerator, using the
  Power Property.
-\(\frac{x^6}{x^5}\)
+<span class="math-inline"><sup>x<sup>6</sup></sup>∕<sub>x<sup>5</sup></sub></span>
 
 
 Subtract the exponents.
-\(x\)
+<span class="math-inline">x</span>
 
 
+<div class="tryit">
 **Try It**
 
 
-Simplify: \(\frac{(a^4)^5}{a^9}.\)
+Simplify: <span class="math-inline"><sup>(a<sup>4</sup>)<sup>5</sup></sup>∕<sub>a<sup>9</sup></sub>.</span>
 
 
 *a*11
 
 
+<div class="tryit">
 **Try It**
 
 
-Simplify: \(\frac{(b^5)^6}{b^{11}}.\)
+Simplify: <span class="math-inline"><sup>(b<sup>5</sup>)<sup>6</sup></sup>∕<sub>b<sup>11</sub></sup>.</span>
 
 
 *b*19
 
 
+<div class="example">
 **Example**
 
 
-Simplify: \(\frac{m^8}{(m^2)^4}.\)
+Simplify: <span class="math-inline"><sup>m<sup>8</sup></sup>∕<sub>(m<sup>2</sup>)<sup>4</sup></sub>.</span>
 
 
-Solution
+<div class="solution">
+<span class="def-label">Solution</span>
 
 
-
-\(\frac{m^8}{(m^2)^4}\)
+<span class="math-inline"><sup>m<sup>8</sup></sup>∕<sub>(m<sup>2</sup>)<sup>4</sup></sub></span>
 
 
 Multiply the exponents in the numerator, using the
  Power Property.
-\(\frac{m^8}{m^8}\)
+<span class="math-inline"><sup>m<sup>8</sup></sup>∕<sub>m<sup>8</sup></sub></span>
 
 
 Subtract the exponents.
-\(m^0\)
+<span class="math-inline">m<sup>0</sup></span>
 
 
 Zero power property
-\(1\)
+<span class="math-inline">1</span>
 
 
+<div class="tryit">
 **Try It**
 
 
-Simplify: \(\frac{k^{11}}{(k^3)^3}.\)
+Simplify: <span class="math-inline">\frac{k<sup>11</sup>(k<sup>3</sup>)<sup>3</sup>.</span>
 
 
 *k*2
 
 
+<div class="tryit">
 **Try It**
 
 
-Simplify: \(\frac{d^{23}}{(d^4)^6}.\)
+Simplify: <span class="math-inline">\frac{d<sup>23</sup>(d<sup>4</sup>)<sup>6</sup>.</span>
 
 
-\(\frac{1}{d}\)
+<span class="math-inline"><sup>1</sup>∕<sub>d</sub></span>
 
 
+<div class="example">
 **Example**
 
 
-Simplify: \((\frac{x^7}{x^3})^2.\)
+Simplify: <span class="math-inline">(<sup>x<sup>7</sup></sup>∕<sub>x<sup>3</sup></sub>)<sup>2</sup>.</span>
 
 
-Solution
+<div class="solution">
+<span class="def-label">Solution</span>
 
 
-
-\((\frac{x^7}{x^3})^2\)
+<span class="math-inline">(<sup>x<sup>7</sup></sup>∕<sub>x<sup>3</sup></sub>)<sup>2</sup></span>
 
 
 Remember parentheses come before exponents, and the
 bases are the same so we can simplify inside the
  parentheses. Subtract the exponents.
-\((x^{7-3})^2\)
+<span class="math-inline">(x<sup>7-3</sup>)<sup>2</sup></span>
 
 
 Simplify.
-\((x^4)^2\)
+<span class="math-inline">(x<sup>4</sup>)<sup>2</sup></span>
 
 
 Multiply the exponents.
-\(x^8\)
+<span class="math-inline">x<sup>8</sup></span>
 
 
+<div class="tryit">
 **Try It**
 
 
-Simplify: \((\frac{f^{14}}{f^8})^2.\)
+Simplify: <span class="math-inline">(\frac{f<sup>14</sup>{f<sup>8</sup>)<sup>2</sup>.</span>
 
 
 *f*12
 
 
+<div class="tryit">
 **Try It**
 
 
-Simplify: \((\frac{b^6}{b^{11}})^2.\)
+Simplify: <span class="math-inline">(<sup>b<sup>6</sup></sup>∕<sub>b<sup>11</sub></sup>)<sup>2</sup>.</span>
 
 
-\(\frac{1}{b^{10}}\)
+<span class="math-inline"><sup>1</sup>∕<sub>b<sup>10</sub></sup></span>
 
 
+<div class="example">
 **Example**
 
 
-Simplify: \((\frac{p^2}{q^5})^3.\)
+Simplify: <span class="math-inline">(<sup>p<sup>2</sup></sup>∕<sub>q<sup>5</sup></sub>)<sup>3</sup>.</span>
 
 
-Solution
+<div class="solution">
+<span class="def-label">Solution</span>
+
+
 Here we cannot simplify inside the parentheses first, since the bases are not the same.
 
 
-
-\((\frac{p^2}{q^5})^3\)
+<span class="math-inline">(<sup>p<sup>2</sup></sup>∕<sub>q<sup>5</sup></sub>)<sup>3</sup></span>
 
 
 Raise the numerator and denominator to the third power
-using the Quotient to a Power Property, \((\frac{a}{b})^m=\frac{a^m}{b^m}\)
+using the Quotient to a Power Property, <span class="math-inline">(<sup>a</sup>∕<sub>b</sub>)<sup>m</sup>=<sup>a<sup>m</sup></sup>∕<sub>b<sup>m</sup></sub></span>
 
-\(\frac{(p^2)^3}{(q^5)^3}\)
-
-
-Use the Power Property, \((a^m)^n=a^{m\cdot n}.\)
-\(\frac{p^6}{q^{15}}\)
+<span class="math-inline"><sup>(p<sup>2</sup>)<sup>3</sup></sup>∕<sub>(q<sup>5</sup>)<sup>3</sup></sub></span>
 
 
+Use the Power Property, <span class="math-inline">(a<sup>m</sup>)<sup>n</sup>=a<sup>m· n</sup>.</span>
+<span class="math-inline"><sup>p<sup>6</sup></sup>∕<sub>q<sup>15</sub></sup></span>
+
+
+<div class="tryit">
 **Try It**
 
 
-Simplify: \((\frac{m^3}{n^8})^5.\)
+Simplify: <span class="math-inline">(<sup>m<sup>3</sup></sup>∕<sub>n<sup>8</sup></sub>)<sup>5</sup>.</span>
 
 
-\(\frac{m^{15}}{n^{40}}\)
+<span class="math-inline">\frac{m<sup>15</sup>{n<sup>40</sup></span>
 
 
+<div class="tryit">
 **Try It**
 
 
-Simplify: \((\frac{t^{10}}{u^7})^2.\)
+Simplify: <span class="math-inline">(\frac{t<sup>10</sup>{u<sup>7</sup>)<sup>2</sup>.</span>
 
 
-\(\frac{t^{20}}{u^{14}}\)
+<span class="math-inline">\frac{t<sup>20</sup>{u<sup>14</sup></span>
 
 
+<div class="example">
 **Example**
 
 
-Simplify: \((\frac{2x^3}{3y})^4.\)
+Simplify: <span class="math-inline">(<sup>2x<sup>3</sup></sup>∕<sub>3y</sub>)<sup>4</sup>.</span>
 
 
-Solution
+<div class="solution">
+<span class="def-label">Solution</span>
 
 
-
-\((\frac{2x^3}{3y})^4\)
+<span class="math-inline">(<sup>2x<sup>3</sup></sup>∕<sub>3y</sub>)<sup>4</sup></span>
 
 
 Raise the numerator and denominator to the fourth
  power using the Quotient to a Power Property.
-\(\frac{(2x^3)^4}{(3y)^4}\)
+<span class="math-inline"><sup>(2x<sup>3</sup>)<sup>4</sup></sup>∕<sub>(3y)<sup>4</sup></sub></span>
 
 
 Raise each factor to the fourth power, using the Power
  to a Power Property.
-\(\frac{2^4(x^3)^4}{3^4y^4}\)
+<span class="math-inline"><sup>2<sup>4</sup>(x<sup>3</sup>)<sup>4</sup></sup>∕<sub>3<sup>4</sup>y<sup>4</sup></sub></span>
 
 
 Use the Power Property and simplify.
-\(\frac{16x^{12}}{81y^4}\)
+<span class="math-inline">\frac{16x<sup>12</sup>{81y<sup>4</sup></span>
 
 
+<div class="tryit">
 **Try It**
 
 
-Simplify: \((\frac{5b}{9c^3})^2.\)
+Simplify: <span class="math-inline">(<sup>5b</sup>∕<sub>9c<sup>3</sup></sub>)<sup>2</sup>.</span>
 
 
-\(\frac{25b^2}{81c^6}\)
+<span class="math-inline"><sup>25b<sup>2</sup></sup>∕<sub>81c<sup>6</sup></sub></span>
 
 
+<div class="tryit">
 **Try It**
 
 
-Simplify: \((\frac{4p^4}{7q^5})^3.\)
+Simplify: <span class="math-inline">(<sup>4p<sup>4</sup></sup>∕<sub>7q<sup>5</sup></sub>)<sup>3</sup>.</span>
 
 
-\(\frac{64p^{12}}{343q^{15}}\)
+<span class="math-inline">\frac{64p<sup>12</sup>{343q<sup>15</sup></span>
 
 
+<div class="example">
 **Example**
 
 
-Simplify: \(\frac{(y^2)^3(y^2)^4}{(y^5)^4}.\)
+Simplify: <span class="math-inline"><sup>(y<sup>2</sup>)<sup>3</sup>(y<sup>2</sup>)<sup>4</sup></sup>∕<sub>(y<sup>5</sup>)<sup>4</sup></sub>.</span>
 
 
-Solution
+<div class="solution">
+<span class="def-label">Solution</span>
 
 
-
-\(\frac{(y^2)^3(y^2)^4}{(y^5)^4}\)
+<span class="math-inline"><sup>(y<sup>2</sup>)<sup>3</sup>(y<sup>2</sup>)<sup>4</sup></sup>∕<sub>(y<sup>5</sup>)<sup>4</sup></sub></span>
 
 
 Use the Power Property.
-\(\frac{(y^6)(y^8)}{y^{20}}\)
+<span class="math-inline"><sup>(y<sup>6</sup>)(y<sup>8</sup>)</sup>∕<sub>y<sup>20</sub></sup></span>
 
 
 Add the exponents in the numerator, using the Product Property.
-\(\frac{y^{14}}{y^{20}}\)
+<span class="math-inline">\frac{y<sup>14</sup>{y<sup>20</sup></span>
 
 
 Use the Quotient Property.
-\(\frac{1}{y^6}\)
+<span class="math-inline"><sup>1</sup>∕<sub>y<sup>6</sup></sub></span>
 
 
+<div class="tryit">
 **Try It**
 
 
-Simplify: \(\frac{(y^4)^4(y^3)^5}{(y^7)^6}.\)
+Simplify: <span class="math-inline"><sup>(y<sup>4</sup>)<sup>4</sup>(y<sup>3</sup>)<sup>5</sup></sup>∕<sub>(y<sup>7</sup>)<sup>6</sup></sub>.</span>
 
 
-\(\frac{1}{y^{11}}\)
+<span class="math-inline"><sup>1</sup>∕<sub>y<sup>11</sub></sup></span>
 
 
+<div class="tryit">
 **Try It**
 
 
-Simplify: \(\frac{(3x^4)^2(x^3)^4}{(x^5)^3}.\)
+Simplify: <span class="math-inline"><sup>(3x<sup>4</sup>)<sup>2</sup>(x<sup>3</sup>)<sup>4</sup></sup>∕<sub>(x<sup>5</sup>)<sup>3</sup></sub>.</span>
 
 
 9*x*5
 
 
+---
+
+
+---
+
 ## Divide Monomials
+
 
 We have now seen all the properties of exponents. We'll use them to divide monomials. Later, you'll use them to divide polynomials.
 
 
+<div class="example">
 **Example**
 
 
-Find the quotient: \(56x^5\div 7x^2.\)
+Find the quotient: <span class="math-inline">56x<sup>5</sup>÷ 7x<sup>2</sup>.</span>
 
 
-Solution
+<div class="solution">
+<span class="def-label">Solution</span>
 
 
-
-\(56x^5\div 7x^2\)
+<span class="math-inline">56x<sup>5</sup>÷ 7x<sup>2</sup></span>
 
 
 Rewrite as a fraction.
-\(\frac{56x^5}{7x^2}\)
+<span class="math-inline"><sup>56x<sup>5</sup></sup>∕<sub>7x<sup>2</sup></sub></span>
 
 
 Use fraction multiplication to separate the number
  part from the variable part.
-\(\frac{56}{7}\cdot \frac{x^5}{x^2}\)
+<span class="math-inline"><sup>56</sup>∕<sub>7</sub>· <sup>x<sup>5</sup></sup>∕<sub>x<sup>2</sup></sub></span>
 
 
 Use the Quotient Property.
-\(8x^3\)
+<span class="math-inline">8x<sup>3</sup></span>
 
 
+<div class="tryit">
 **Try It**
 
 
-Find the quotient: \(63x^8\div 9x^4.\)
+Find the quotient: <span class="math-inline">63x<sup>8</sup>÷ 9x<sup>4</sup>.</span>
 
 
 7*x*4
 
 
+<div class="tryit">
 **Try It**
 
 
-Find the quotient: \(96y^{11}\div 6y^8.\)
+Find the quotient: <span class="math-inline">96y<sup>11</sup>÷ 6y<sup>8</sup>.</span>
 
 
 16*y*3
@@ -930,177 +1087,192 @@ Find the quotient: \(96y^{11}\div 6y^8.\)
 When we divide monomials with more than one variable, we write one fraction for each variable.
 
 
+<div class="example">
 **Example**
 
 
-Find the quotient: \(\frac{42x^2y^3}{−7xy^5}.\)
+Find the quotient: <span class="math-inline"><sup>42x<sup>2</sup>y<sup>3</sup></sup>∕<sub>−7xy<sup>5</sup></sub>.</span>
 
 
-Solution
+<div class="solution">
+<span class="def-label">Solution</span>
 
 
-
-\(\frac{42x^2y^3}{−7xy^5}\)
+<span class="math-inline"><sup>42x<sup>2</sup>y<sup>3</sup></sup>∕<sub>−7xy<sup>5</sup></sub></span>
 
 
 Use fraction multiplication.
-\(\frac{42}{−7}\cdot \frac{x^2}{x}\cdot \frac{y^3}{y^5}\)
+<span class="math-inline"><sup>42</sup>∕<sub>−7</sub>· <sup>x<sup>2</sup></sup>∕<sub>x</sub>· <sup>y<sup>3</sup></sup>∕<sub>y<sup>5</sup></sub></span>
 
 
 Simplify and use the Quotient Property.
-\(−6\cdot x\cdot \frac{1}{y^2}\)
+<span class="math-inline">−6· x· <sup>1</sup>∕<sub>y<sup>2</sup></sub></span>
 
 
 Multiply.
-\(-\frac{6x}{y^2}\)
+<span class="math-inline">-<sup>6x</sup>∕<sub>y<sup>2</sup></sub></span>
 
 
+<div class="tryit">
 **Try It**
 
 
-Find the quotient: \(\frac{−84x^8y^3}{7x^{10}y^2}.\)
+Find the quotient: <span class="math-inline"><sup>−84x<sup>8</sup>y<sup>3</sup></sup>∕<sub>7x<sup>10</sub>y<sup>2</sup></sup>.</span>
 
 
-\(-\frac{12y}{x^2}\)
+<span class="math-inline">-<sup>12y</sup>∕<sub>x<sup>2</sup></sub></span>
 
 
+<div class="tryit">
 **Try It**
 
 
-Find the quotient: \(\frac{−72a^4b^5}{−8a^9b^5}.\)
+Find the quotient: <span class="math-inline"><sup>−72a<sup>4</sup>b<sup>5</sup></sup>∕<sub>−8a<sup>9</sup>b<sup>5</sup></sub>.</span>
 
 
-\(\frac{9}{a^5}\)
+<span class="math-inline"><sup>9</sup>∕<sub>a<sup>5</sup></sub></span>
 
 
+<div class="example">
 **Example**
 
 
-Find the quotient: \(\frac{24a^5b^3}{48ab^4}.\)
+Find the quotient: <span class="math-inline"><sup>24a<sup>5</sup>b<sup>3</sup></sup>∕<sub>48ab<sup>4</sup></sub>.</span>
 
 
-Solution
+<div class="solution">
+<span class="def-label">Solution</span>
 
 
-
-\(\frac{24a^5b^3}{48ab^4}\)
+<span class="math-inline"><sup>24a<sup>5</sup>b<sup>3</sup></sup>∕<sub>48ab<sup>4</sup></sub></span>
 
 
 Use fraction multiplication.
-\(\frac{24}{48}\cdot \frac{a^5}{a}\cdot \frac{b^3}{b^4}\)
+<span class="math-inline"><sup>24</sup>∕<sub>48</sub>· <sup>a<sup>5</sup></sup>∕<sub>a</sub>· <sup>b<sup>3</sup></sup>∕<sub>b<sup>4</sup></sub></span>
 
 
 Simplify and use the Quotient Property.
-\(\frac{1}{2}\cdot a^4\cdot \frac{1}{b}\)
+<span class="math-inline"><sup>1</sup>∕<sub>2</sub>· a<sup>4</sup>· <sup>1</sup>∕<sub>b</sub></span>
 
 
 Multiply.
-\(\frac{a^4}{2b}\)
+<span class="math-inline"><sup>a<sup>4</sup></sup>∕<sub>2b</sub></span>
 
 
+<div class="tryit">
 **Try It**
 
 
-Find the quotient: \(\frac{16a^7b^6}{24ab^8}.\)
+Find the quotient: <span class="math-inline"><sup>16a<sup>7</sup>b<sup>6</sup></sup>∕<sub>24ab<sup>8</sup></sub>.</span>
 
 
-\(\frac{2a^6}{3b^2}\)
+<span class="math-inline"><sup>2a<sup>6</sup></sup>∕<sub>3b<sup>2</sup></sub></span>
 
 
+<div class="tryit">
 **Try It**
 
 
-Find the quotient: \(\frac{27p^4q^7}{−45p^{12}q^{}}.\)
+Find the quotient: <span class="math-inline"><sup>27p<sup>4</sup>q<sup>7</sup></sup>∕<sub>−45p<sup>12</sub>q^</sup>.</span>
 
 
-\(-\frac{3q^6}{5p^8}\)
+<span class="math-inline">-<sup>3q<sup>6</sup></sup>∕<sub>5p<sup>8</sup></sub></span>
 
 
 Once you become familiar with the process and have practiced it step by step several times, you may be able to simplify a fraction in one step.
 
 
+<div class="example">
 **Example**
 
 
-Find the quotient: \(\frac{14x^7y^{12}}{21x^{11}y^6}.\)
+Find the quotient: <span class="math-inline">\frac{14x<sup>7</sup>y<sup>12</sup>{21x<sup>11</sup>y<sup>6</sup>.</span>
 
 
-Solution
+<div class="solution">
+<span class="def-label">Solution</span>
 
 
-
-\(\frac{14x^7y^{12}}{21x^{11}y^6}\)
+<span class="math-inline">\frac{14x<sup>7</sup>y<sup>12</sup>{21x<sup>11</sup>y<sup>6</sup></span>
 
 
 Simplify and use the Quotient Property.
-\(\frac{2y^6}{3x^4}\)
+<span class="math-inline"><sup>2y<sup>6</sup></sup>∕<sub>3x<sup>4</sup></sub></span>
 
 
-Be very careful to simplify \(\frac{14}{21}\) by dividing out a common factor, and to simplify the variables by subtracting their exponents.
+Be very careful to simplify <span class="math-inline"><sup>14</sup>∕<sub>21</sub></span> by dividing out a common factor, and to simplify the variables by subtracting their exponents.
 
 
+<div class="tryit">
 **Try It**
 
 
-Find the quotient: \(\frac{28x^5y^{14}}{49x^9y^{12}}.\)
+Find the quotient: <span class="math-inline">\frac{28x<sup>5</sup>y<sup>14</sup>{49x<sup>9</sup>y<sup>12</sup>.</span>
 
 
-\(\frac{4y^2}{7x^4}\)
+<span class="math-inline"><sup>4y<sup>2</sup></sup>∕<sub>7x<sup>4</sup></sub></span>
 
 
+<div class="tryit">
 **Try It**
 
 
-Find the quotient: \(\frac{30m^5n^{11}}{48m^{10}n^{14}}.\)
+Find the quotient: <span class="math-inline">\frac{30m<sup>5</sup>n<sup>11</sup>{48m<sup>10</sup>n<sup>14</sup>.</span>
 
 
-\(\frac{5}{8m^5n^3}\)
+<span class="math-inline"><sup>5</sup>∕<sub>8m<sup>5</sup>n<sup>3</sup></sub></span>
 
 
 In all examples so far, there was no work to do in the numerator or denominator before simplifying the fraction. In the next example, we'll first find the product of two monomials in the numerator before we simplify the fraction.
 
 
+<div class="example">
 **Example**
 
 
-Find the quotient: \(\frac{(3x^3y^2)(10x^2y^3)}{6x^4y^5}.\)
+Find the quotient: <span class="math-inline"><sup>(3x<sup>3</sup>y<sup>2</sup>)(10x<sup>2</sup>y<sup>3</sup>)</sup>∕<sub>6x<sup>4</sup>y<sup>5</sup></sub>.</span>
 
 
-Solution
+<div class="solution">
+<span class="def-label">Solution</span>
+
+
 Remember, the fraction bar is a grouping symbol. We will simplify the numerator first.
 
 
-
-\(\frac{(3x^3y^2)(10x^2y^3)}{6x^4y^5}\)
+<span class="math-inline"><sup>(3x<sup>3</sup>y<sup>2</sup>)(10x<sup>2</sup>y<sup>3</sup>)</sup>∕<sub>6x<sup>4</sup>y<sup>5</sup></sub></span>
 
 
 Simplify the numerator.
-\(\frac{30x^5y^5}{6x^4y^5}\)
+<span class="math-inline"><sup>30x<sup>5</sup>y<sup>5</sup></sup>∕<sub>6x<sup>4</sup>y<sup>5</sup></sub></span>
 
 
 Simplify, using the Quotient Rule.
-\(5x\)
+<span class="math-inline">5x</span>
 
 
+<div class="tryit">
 **Try It**
 
 
-Find the quotient: \(\frac{(3x^4y^5)(8x^2y^5)}{12x^5y^8}.\)
+Find the quotient: <span class="math-inline"><sup>(3x<sup>4</sup>y<sup>5</sup>)(8x<sup>2</sup>y<sup>5</sup>)</sup>∕<sub>12x<sup>5</sup>y<sup>8</sup></sub>.</span>
 
 
 2*xy*2
 
 
+<div class="tryit">
 **Try It**
 
 
-Find the quotient: \(\frac{(−6a^6b^9)(−8a^5b^8)}{−12a^{10}b^{12}}.\)
+Find the quotient: <span class="math-inline"><sup>(−6a<sup>6</sup>b<sup>9</sup>)(−8a<sup>5</sup>b<sup>8</sup>)</sup>∕<sub>−12a<sup>10</sub>b^{12</sup>.</span>
 
 
 −4*ab*5
 
 
-**ACCESS ADDITIONAL ONLINE RESOURCES**
+<div class="definition-label">**ACCESS ADDITIONAL ONLINE RESOURCES**</div>
+
 
 - Simplify a Quotient
 
@@ -1110,4 +1282,148 @@ Find the quotient: \(\frac{(−6a^6b^9)(−8a^5b^8)}{−12a^{10}b^{12}}.\)
 
 - Polynomial Division
 
-- Polynomial Division \(2\)
+- Polynomial Division <span class="math-inline">2</span>
+
+</div>
+
+</div>
+
+</div>
+
+</div>
+
+</div>
+
+</div>
+
+</div>
+
+</div>
+
+</div>
+
+</div>
+
+</div>
+
+</div>
+
+</div>
+
+</div>
+
+</div>
+
+</div>
+
+</div>
+
+</div>
+
+</div>
+
+</div>
+
+</div>
+
+</div>
+
+</div>
+
+</div>
+
+</div>
+
+</div>
+
+</div>
+
+</div>
+
+</div>
+
+</div>
+
+</div>
+
+</div>
+
+</div>
+
+</div>
+
+</div>
+
+</div>
+
+</div>
+
+</div>
+
+</div>
+
+</div>
+
+</div>
+
+</div>
+
+</div>
+
+</div>
+
+</div>
+
+</div>
+
+</div>
+
+</div>
+
+</div>
+
+</div>
+
+</div>
+
+</div>
+
+</div>
+
+</div>
+
+</div>
+
+</div>
+
+</div>
+
+</div>
+
+</div>
+
+</div>
+
+</div>
+
+</div>
+
+</div>
+
+</div>
+
+</div>
+
+</div>
+
+</div>
+
+</div>
+
+</div>
+
+</div>
+
+</div>
+
+</div>

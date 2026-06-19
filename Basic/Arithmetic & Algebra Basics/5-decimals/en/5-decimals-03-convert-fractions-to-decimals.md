@@ -1,4 +1,77 @@
+<style>
+.math-inline {
+    font-style: italic;
+    padding: 2px 6px;
+    border-radius: 4px;
+    background: #f8f9fa;
+    font-family: Georgia, serif;
+}
+.math-display {
+    background: #f8f9fa;
+    border-left: 4px solid #4a90d9;
+    padding: 16px 20px;
+    margin: 16px 0;
+    border-radius: 6px;
+    font-size: 1.15em;
+    font-family: Georgia, serif;
+    text-align: center;
+    line-height: 2;
+    overflow-x: auto;
+}
+.example-box, .example {
+    background: #f0f8ff;
+    border-left: 4px solid #2e86de;
+    padding: 12px 20px;
+    margin: 16px 0;
+    border-radius: 6px;
+}
+.tryit-box, .tryit {
+    background: #f0fff4;
+    border-left: 4px solid #27ae60;
+    padding: 12px 20px;
+    margin: 16px 0;
+    border-radius: 6px;
+}
+.solution-box, .solution {
+    background: #fef9e7;
+    border-left: 4px solid #f39c12;
+    padding: 12px 20px;
+    margin: 12px 0;
+    border-radius: 6px;
+}
+.check-box, .check {
+    background: #fef9e7;
+    border-left: 4px solid #f39c12;
+    padding: 12px 20px;
+    margin: 12px 0;
+    border-radius: 6px;
+}
+.prep-quiz {
+    background: #fff3cd;
+    border: 1px solid #ffc107;
+    padding: 12px 20px;
+    margin: 16px 0;
+    border-radius: 6px;
+}
+.def-label, .definition-label {
+    font-weight: bold;
+    font-size: 1.1em;
+    margin: 20px 0 8px 0;
+    color: #2c3e50;
+    display: block;
+}
+.math-display sup, .math-inline sup { font-size: 0.75em; line-height: 0; }
+.math-display sub, .math-inline sub { font-size: 0.75em; line-height: 0; }
+</style>
+
+
+---
+
+
+---
+
 ## Key Concepts
+
 
 - *Add or subtract decimals.*
 
@@ -47,130 +120,130 @@
 In the following exercises, add or subtract.
 
 
-\(16.92+7.56\)
+<span class="math-inline">16.92+7.56</span>
 
 
 24.48
 
 
-\(18.37+9.36\)
+<span class="math-inline">18.37+9.36</span>
 
 
-\(256.37-85.49\)
+<span class="math-inline">256.37-85.49</span>
 
 
 170.88
 
 
-\(248.25-91.29\)
+<span class="math-inline">248.25-91.29</span>
 
 
-\(21.76-30.99\)
+<span class="math-inline">21.76-30.99</span>
 
 
 −9.23
 
 
-\(15.35-20.88\)
+<span class="math-inline">15.35-20.88</span>
 
 
-\(37.5+12.23\)
+<span class="math-inline">37.5+12.23</span>
 
 
 49.73
 
 
-\(38.6+13.67\)
+<span class="math-inline">38.6+13.67</span>
 
 
-\(-16.53-24.38\)
+<span class="math-inline">-16.53-24.38</span>
 
 
 −40.91
 
 
-\(-19.47-32.58\)
+<span class="math-inline">-19.47-32.58</span>
 
 
-\(-38.69+31.47\)
+<span class="math-inline">-38.69+31.47</span>
 
 
 −7.22
 
 
-\(-29.83+19.76\)
+<span class="math-inline">-29.83+19.76</span>
 
 
-\(-4.2+(-9.3)\)
+<span class="math-inline">-4.2+(-9.3)</span>
 
 
 −13.5
 
 
-\(-8.6+(-8.6)\)
+<span class="math-inline">-8.6+(-8.6)</span>
 
 
-\(100-64.2\)
+<span class="math-inline">100-64.2</span>
 
 
 35.8
 
 
-\(100-65.83\)
+<span class="math-inline">100-65.83</span>
 
 
-\(72.5-100\)
+<span class="math-inline">72.5-100</span>
 
 
 −27.5
 
 
-\(86.2-100\)
+<span class="math-inline">86.2-100</span>
 
 
-\(15+0.73\)
+<span class="math-inline">15+0.73</span>
 
 
 15.73
 
 
-\(27+0.87\)
+<span class="math-inline">27+0.87</span>
 
 
-\(2.51+40\)
+<span class="math-inline">2.51+40</span>
 
 
 42.51
 
 
-\(9.38+60\)
+<span class="math-inline">9.38+60</span>
 
 
-\(91.75-(-10.462)\)
+<span class="math-inline">91.75-(-10.462)</span>
 
 
 102.212
 
 
-\(94.69-(-12.678)\)
+<span class="math-inline">94.69-(-12.678)</span>
 
 
-\(55.01-3.7\)
+<span class="math-inline">55.01-3.7</span>
 
 
 51.31
 
 
-\(59.08-4.6\)
+<span class="math-inline">59.08-4.6</span>
 
 
-\(2.51-7.4\)
+<span class="math-inline">2.51-7.4</span>
 
 
 −4.89
 
 
-\(3.84-6.1\)
+<span class="math-inline">3.84-6.1</span>
 
 
 *Multiply Decimals*
@@ -178,188 +251,188 @@ In the following exercises, add or subtract.
 In the following exercises, multiply.
 
 
-\((0.3)(0.4)\)
+<span class="math-inline">(0.3)(0.4)</span>
 
 
 0.12
 
 
-\((0.6)(0.7)\)
+<span class="math-inline">(0.6)(0.7)</span>
 
 
-\((0.24)(0.6)\)
+<span class="math-inline">(0.24)(0.6)</span>
 
 
 0.144
 
 
-\((0.81)(0.3)\)
+<span class="math-inline">(0.81)(0.3)</span>
 
 
-\((5.9)(7.12)\)
+<span class="math-inline">(5.9)(7.12)</span>
 
 
 42.008
 
 
-\((2.3)(9.41)\)
+<span class="math-inline">(2.3)(9.41)</span>
 
 
-\((8.52)(3.14)\)
+<span class="math-inline">(8.52)(3.14)</span>
 
 
 26.7528
 
 
-\((5.32)(4.86)\)
+<span class="math-inline">(5.32)(4.86)</span>
 
 
-\((−4.3)(2.71)\)
+<span class="math-inline">(−4.3)(2.71)</span>
 
 
 −11.653
 
 
-\((-8.5)(1.69)\)
+<span class="math-inline">(-8.5)(1.69)</span>
 
 
-\((−5.18)(−65.23)\)
+<span class="math-inline">(−5.18)(−65.23)</span>
 
 
 337.8914
 
 
-\((-9.16)(-68.34)\)
+<span class="math-inline">(-9.16)(-68.34)</span>
 
 
-\((0.09)(24.78)\)
+<span class="math-inline">(0.09)(24.78)</span>
 
 
 2.2302
 
 
-\((0.04)(36.89)\)
+<span class="math-inline">(0.04)(36.89)</span>
 
 
-\((0.06)(21.75)\)
+<span class="math-inline">(0.06)(21.75)</span>
 
 
 1.305
 
 
-\((0.08)(52.45)\)
+<span class="math-inline">(0.08)(52.45)</span>
 
 
-\((9.24)(10)\)
+<span class="math-inline">(9.24)(10)</span>
 
 
 92.4
 
 
-\((6.531)(10)\)
+<span class="math-inline">(6.531)(10)</span>
 
 
-\((55.2)(1,000)\)
+<span class="math-inline">(55.2)(1,000)</span>
 
 
 55,200
 
 
-\((99.4)(1,000)\)
+<span class="math-inline">(99.4)(1,000)</span>
 
 *Divide Decimals*
 
 In the following exercises, divide.
 
 
-\(0.15\div 5\)
+<span class="math-inline">0.15÷ 5</span>
 
 
 0.03
 
 
-\(0.27\div 3\)
+<span class="math-inline">0.27÷ 3</span>
 
 
-\(4.75\div 25\)
+<span class="math-inline">4.75÷ 25</span>
 
 
 0.19
 
 
-\(12.04\div 43\)
+<span class="math-inline">12.04÷ 43</span>
 
 
-\($8.49\div 12\)
+<span class="math-inline">$8.49÷ 12</span>
 
 
 $0.71
 
 
-\($16.99\div 9\)
+<span class="math-inline">$16.99÷ 9</span>
 
 
-\($117.25\div 48\)
+<span class="math-inline">$117.25÷ 48</span>
 
 
 $2.44
 
 
-\($109.24\div 36\)
+<span class="math-inline">$109.24÷ 36</span>
 
 
-\(0.6\div 0.2\)
+<span class="math-inline">0.6÷ 0.2</span>
 
 
 3
 
 
-\(0.8\div 0.4\)
+<span class="math-inline">0.8÷ 0.4</span>
 
 
-\(1.44\div (-0.3)\)
+<span class="math-inline">1.44÷ (-0.3)</span>
 
 
 −4.8
 
 
-\(1.25\div (-0.5)\)
+<span class="math-inline">1.25÷ (-0.5)</span>
 
 
-\(-1.75\div (-0.05)\)
+<span class="math-inline">-1.75÷ (-0.05)</span>
 
 
 35
 
 
-\(-1.15\div (-0.05)\)
+<span class="math-inline">-1.15÷ (-0.05)</span>
 
 
-\(5.2\div 2.5\)
+<span class="math-inline">5.2÷ 2.5</span>
 
 
 2.08
 
 
-\(6.5\div 3.25\)
+<span class="math-inline">6.5÷ 3.25</span>
 
 
-\(12\div 0.08\)
+<span class="math-inline">12÷ 0.08</span>
 
 
 150
 
 
-\(5\div 0.04\)
+<span class="math-inline">5÷ 0.04</span>
 
 
-\(11\div 0.55\)
+<span class="math-inline">11÷ 0.55</span>
 
 
 20
 
 
-\(14\div 0.35\)
+<span class="math-inline">14÷ 0.35</span>
 
 
 *Mixed Practice*
@@ -367,67 +440,67 @@ $2.44
 In the following exercises, simplify.
 
 
-\(6(12.4-9.2)\)
+<span class="math-inline">6(12.4-9.2)</span>
 
 
 19.2
 
 
-\(3(15.7-8.6)\)
+<span class="math-inline">3(15.7-8.6)</span>
 
 
-\(24(0.5)+(0.3)^2\)
+<span class="math-inline">24(0.5)+(0.3)<sup>2</sup></span>
 
 
 12.09
 
 
-\(35(0.2)+(0.9)^2\)
+<span class="math-inline">35(0.2)+(0.9)<sup>2</sup></span>
 
 
-\(1.15(26.83+1.61)\)
+<span class="math-inline">1.15(26.83+1.61)</span>
 
 
 32.706
 
 
-\(1.18(46.22+3.71)\)
+<span class="math-inline">1.18(46.22+3.71)</span>
 
 
-\($45+0.08($45)\)
+<span class="math-inline">$45+0.08($45)</span>
 
 
 $48.60
 
 
-\($63+0.18($63)\)
+<span class="math-inline">$63+0.18($63)</span>
 
 
-\(18\div (0.75+0.15)\)
+<span class="math-inline">18÷ (0.75+0.15)</span>
 
 
 20
 
 
-\(27\div (0.55+0.35)\)
+<span class="math-inline">27÷ (0.55+0.35)</span>
 
 
-\((1.43+0.27)\div (0.9-0.05)\)
+<span class="math-inline">(1.43+0.27)÷ (0.9-0.05)</span>
 
 
 2
 
 
-\((1.5-0.06)\div (0.12+0.24)\)
+<span class="math-inline">(1.5-0.06)÷ (0.12+0.24)</span>
 
 
-\([$75.42+0.18($75.42)]\div 5\)
+<span class="math-inline">[$75.42+0.18($75.42)]÷ 5</span>
 
 
 $17.80
 
 
-\([$56.31+0.22($56.31)]\div 4\)
+<span class="math-inline">[$56.31+0.22($56.31)]÷ 4</span>
 
 
 *Use Decimals in Money Applications*
@@ -435,71 +508,71 @@ $17.80
 In the following exercises, use the strategy for applications to solve.
 
 
-*Spending money* Brenda got \($40\) from the ATM. She spent \($15.11\) on a pair of earrings. How much money did she have left?
+*Spending money* Brenda got <span class="math-inline">$40</span> from the ATM. She spent <span class="math-inline">$15.11</span> on a pair of earrings. How much money did she have left?
 
 
 $24.89
 
 
-*Spending money* Marissa found \($20\) in her pocket. She spent \($4.82\) on a smoothie. How much of the \($20\) did she have left?
+*Spending money* Marissa found <span class="math-inline">$20</span> in her pocket. She spent <span class="math-inline">$4.82</span> on a smoothie. How much of the <span class="math-inline">$20</span> did she have left?
 
 
-*Shopping* Adam bought a t-shirt for \($18.49\) and a book for \($8.92\) The sales tax was \($1.65.\) How much did Adam spend?
+*Shopping* Adam bought a t-shirt for <span class="math-inline">$18.49</span> and a book for <span class="math-inline">$8.92</span> The sales tax was <span class="math-inline">$1.65.</span> How much did Adam spend?
 
 
 $29.06
 
 
-*Restaurant* Roberto’s restaurant bill was \($20.45\) for the entrée and \($3.15\) for the drink. He left a \($4.40\) tip. How much did Roberto spend?
+*Restaurant* Roberto’s restaurant bill was <span class="math-inline">$20.45</span> for the entrée and <span class="math-inline">$3.15</span> for the drink. He left a <span class="math-inline">$4.40</span> tip. How much did Roberto spend?
 
 
-*Coupon* Emily bought a box of cereal that cost \($4.29.\) She had a coupon for \($0.55\) off, and the store doubled the coupon. How much did she pay for the box of cereal?
+*Coupon* Emily bought a box of cereal that cost <span class="math-inline">$4.29.</span> She had a coupon for <span class="math-inline">$0.55</span> off, and the store doubled the coupon. How much did she pay for the box of cereal?
 
 
 $3.19
 
 
-*Coupon* Diana bought a can of coffee that cost \($7.99.\) She had a coupon for \($0.75\) off, and the store doubled the coupon. How much did she pay for the can of coffee?
+*Coupon* Diana bought a can of coffee that cost <span class="math-inline">$7.99.</span> She had a coupon for <span class="math-inline">$0.75</span> off, and the store doubled the coupon. How much did she pay for the can of coffee?
 
 
-*Diet* Leo took part in a diet program. He weighed \(190\) pounds at the start of the program. During the first week, he lost \(4.3\) pounds. During the second week, he had lost \(2.8\) pounds. The third week, he gained \(0.7\) pounds. The fourth week, he lost \(1.9\) pounds. What did Leo weigh at the end of the fourth week?
+*Diet* Leo took part in a diet program. He weighed <span class="math-inline">190</span> pounds at the start of the program. During the first week, he lost <span class="math-inline">4.3</span> pounds. During the second week, he had lost <span class="math-inline">2.8</span> pounds. The third week, he gained <span class="math-inline">0.7</span> pounds. The fourth week, he lost <span class="math-inline">1.9</span> pounds. What did Leo weigh at the end of the fourth week?
 
 
 181.7 pounds
 
 
-*Snowpack* On April \(1,\) the snowpack at the ski resort was \(4\) meters deep, but the next few days were very warm. By April \(5,\) the snow depth was \(1.6\) meters less. On April \(8,\) it snowed and added \(2.1\) meters of snow. What was the total depth of the snow?
+*Snowpack* On April <span class="math-inline">1,</span> the snowpack at the ski resort was <span class="math-inline">4</span> meters deep, but the next few days were very warm. By April <span class="math-inline">5,</span> the snow depth was <span class="math-inline">1.6</span> meters less. On April <span class="math-inline">8,</span> it snowed and added <span class="math-inline">2.1</span> meters of snow. What was the total depth of the snow?
 
 
-*Coffee* Noriko bought \(4\) coffees for herself and her co-workers. Each coffee was \($3.75.\) How much did she pay for all the coffees?
+*Coffee* Noriko bought <span class="math-inline">4</span> coffees for herself and her co-workers. Each coffee was <span class="math-inline">$3.75.</span> How much did she pay for all the coffees?
 
 
 $15.00
 
 
-*Subway Fare* Arianna spends \($4.50\) per day on subway fare. Last week she rode the subway \(6\) days. How much did she spend for the subway fares?
+*Subway Fare* Arianna spends <span class="math-inline">$4.50</span> per day on subway fare. Last week she rode the subway <span class="math-inline">6</span> days. How much did she spend for the subway fares?
 
 
-*Income* Mayra earns \($9.25\) per hour. Last week she worked \(32\) hours. How much did she earn?
+*Income* Mayra earns <span class="math-inline">$9.25</span> per hour. Last week she worked <span class="math-inline">32</span> hours. How much did she earn?
 
 
 $296.00
 
 
-*Income* Peter earns \($8.75\) per hour. Last week he worked \(19\) hours. How much did he earn?
+*Income* Peter earns <span class="math-inline">$8.75</span> per hour. Last week he worked <span class="math-inline">19</span> hours. How much did he earn?
 
 
-*Hourly Wage* Alan got his first paycheck from his new job. He worked \(30\) hours and earned \($382.50.\) How much does he earn per hour?
+*Hourly Wage* Alan got his first paycheck from his new job. He worked <span class="math-inline">30</span> hours and earned <span class="math-inline">$382.50.</span> How much does he earn per hour?
 
 
 $12.75
 
 
-*Hourly Wage* Maria got her first paycheck from her new job. She worked \(25\) hours and earned \($362.50.\) How much does she earn per hour?
+*Hourly Wage* Maria got her first paycheck from her new job. She worked <span class="math-inline">25</span> hours and earned <span class="math-inline">$362.50.</span> How much does she earn per hour?
 
 
-*Restaurant* Jeannette and her friends love to order mud pie at their favorite restaurant. They always share just one piece of pie among themselves. With tax and tip, the total cost is \($6.00.\) How much does each girl pay if the total number sharing the mud pie is
-ⓐ  \(2?\)ⓑ  \(3?\)ⓒ  \(4?\)ⓓ  \(5?\)ⓔ  \(6?\)
+*Restaurant* Jeannette and her friends love to order mud pie at their favorite restaurant. They always share just one piece of pie among themselves. With tax and tip, the total cost is <span class="math-inline">$6.00.</span> How much does each girl pay if the total number sharing the mud pie is
+ⓐ  <span class="math-inline">2?</span>ⓑ  <span class="math-inline">3?</span>ⓒ  <span class="math-inline">4?</span>ⓓ  <span class="math-inline">5?</span>ⓔ  <span class="math-inline">6?</span>
 
 
   - ⓐ $3
@@ -509,53 +582,53 @@ $12.75
   - ⓔ $1
 
 
-*Pizza* Alex and his friends go out for pizza and video games once a week. They share the cost of a \($15.60\) pizza equally. How much does each person pay if the total number sharing the pizza is
-ⓐ  \(2?\)ⓑ  \(3?\)ⓒ  \(4?\)ⓓ  \(5?\)ⓔ  \(6?\)
+*Pizza* Alex and his friends go out for pizza and video games once a week. They share the cost of a <span class="math-inline">$15.60</span> pizza equally. How much does each person pay if the total number sharing the pizza is
+ⓐ  <span class="math-inline">2?</span>ⓑ  <span class="math-inline">3?</span>ⓒ  <span class="math-inline">4?</span>ⓓ  <span class="math-inline">5?</span>ⓔ  <span class="math-inline">6?</span>
 
 
-*Fast Food* At their favorite fast food restaurant, the Carlson family orders \(4\) burgers that cost \($3.29\) each and \(2\) orders of fries at \($2.74\) each. What is the total cost of the order?
+*Fast Food* At their favorite fast food restaurant, the Carlson family orders <span class="math-inline">4</span> burgers that cost <span class="math-inline">$3.29</span> each and <span class="math-inline">2</span> orders of fries at <span class="math-inline">$2.74</span> each. What is the total cost of the order?
 
 
 $18.64
 
 
-*Home Goods* Chelsea needs towels to take with her to college. She buys \(2\) bath towels that cost \($9.99\) each and \(6\) washcloths that cost \($2.99\) each. What is the total cost for the bath towels and washcloths?
+*Home Goods* Chelsea needs towels to take with her to college. She buys <span class="math-inline">2</span> bath towels that cost <span class="math-inline">$9.99</span> each and <span class="math-inline">6</span> washcloths that cost <span class="math-inline">$2.99</span> each. What is the total cost for the bath towels and washcloths?
 
 
-*Zoo* The Lewis and Chousmith families are planning to go to the zoo together. Adult tickets cost \($29.95\) and children’s tickets cost \($19.95.\) What will the total cost be for \(4\) adults and \(7\) children?
+*Zoo* The Lewis and Chousmith families are planning to go to the zoo together. Adult tickets cost <span class="math-inline">$29.95</span> and children’s tickets cost <span class="math-inline">$19.95.</span> What will the total cost be for <span class="math-inline">4</span> adults and <span class="math-inline">7</span> children?
 
 
 $259.45
 
 
-*Ice Skating* Jasmine wants to have her birthday party at the local ice skating rink. It will cost \($8.25\) per child and \($12.95\) per adult. What will the total cost be for \(12\) children and \(3\) adults?
+*Ice Skating* Jasmine wants to have her birthday party at the local ice skating rink. It will cost <span class="math-inline">$8.25</span> per child and <span class="math-inline">$12.95</span> per adult. What will the total cost be for <span class="math-inline">12</span> children and <span class="math-inline">3</span> adults?
 
 
 ### Everyday Math
 
 
-*Paycheck* Annie has two jobs. She gets paid \($14.04\) per hour for tutoring at City College and \($8.75\) per hour at a coffee shop. Last week she tutored for \(8\) hours and worked at the coffee shop for \(15\) hours.
-ⓐ  How much did she earn?ⓑ  If she had worked all \(23\) hours as a tutor instead of working both jobs, how much more would she have earned?
+*Paycheck* Annie has two jobs. She gets paid <span class="math-inline">$14.04</span> per hour for tutoring at City College and <span class="math-inline">$8.75</span> per hour at a coffee shop. Last week she tutored for <span class="math-inline">8</span> hours and worked at the coffee shop for <span class="math-inline">15</span> hours.
+ⓐ  How much did she earn?ⓑ  If she had worked all <span class="math-inline">23</span> hours as a tutor instead of working both jobs, how much more would she have earned?
 
 
   - ⓐ $243.57
   - ⓑ $79.35
 
 
-*Paycheck* Jake has two jobs. He gets paid \($7.95\) per hour at the college cafeteria and \($20.25\) at the art gallery. Last week he worked \(12\) hours at the cafeteria and \(5\) hours at the art gallery.
-ⓐ How much did he earn? ⓑ If he had worked all \(17\) hours at the art gallery instead of working both jobs, how much more would he have earned?
+*Paycheck* Jake has two jobs. He gets paid <span class="math-inline">$7.95</span> per hour at the college cafeteria and <span class="math-inline">$20.25</span> at the art gallery. Last week he worked <span class="math-inline">12</span> hours at the cafeteria and <span class="math-inline">5</span> hours at the art gallery.
+ⓐ How much did he earn? ⓑ If he had worked all <span class="math-inline">17</span> hours at the art gallery instead of working both jobs, how much more would he have earned?
 
 
 ### Writing Exercises
 
 
-At the 2010 winter Olympics, two skiers took the silver and bronze medals in the Men's Super-G ski event. Miller's time was \(1\) minute \(30.62\) seconds and Weibrecht's time was \(1\) minute \(30.65\) seconds. Find the difference in their times and then write the name of that decimal.
+At the 2010 winter Olympics, two skiers took the silver and bronze medals in the Men's Super-G ski event. Miller's time was <span class="math-inline">1</span> minute <span class="math-inline">30.62</span> seconds and Weibrecht's time was <span class="math-inline">1</span> minute <span class="math-inline">30.65</span> seconds. Find the difference in their times and then write the name of that decimal.
 
 
 The difference: 0.03 seconds. Three hundredths of a second.
 
 
-Find the quotient of \(0.12\div 0.04\) and explain in words all the steps taken.
+Find the quotient of <span class="math-inline">0.12÷ 0.04</span> and explain in words all the steps taken.
 
 
 ### Self Check
@@ -566,129 +639,138 @@ Find the quotient of \(0.12\div 0.04\) and explain in words all the steps taken.
 ⓑ After reviewing this checklist, what will you do to become confident for all objectives?
 
 
+<div class="prep-quiz">
 **Be Prepared!**
+
 
 Before you get started, take this readiness quiz.
 
 
-Divide: \(0.24\div 8.\)
+Divide: <span class="math-inline">0.24÷ 8.</span>
 
 If you missed this problem, review .
 
 
-\(0.03\)
+<span class="math-inline">0.03</span>
 
 
+<div class="prep-quiz">
 **Be Prepared!**
 
 
-Order \(0.64__0.6\) using \(<\) or \(>.\)
+Order <span class="math-inline">0.64_<sub>0</sub>.6</span> using <span class="math-inline"><</span> or <span class="math-inline">>.</span>
 
 If you missed this problem, review .
 
 
-\(>\)
+<span class="math-inline">></span>
 
 
+<div class="prep-quiz">
 **Be Prepared!**
 
 
-Order \(−0.2__−0.1\) using \(<\) or \(>.\)
+Order <span class="math-inline">−0.2__−0.1</span> using <span class="math-inline"><</span> or <span class="math-inline">>.</span>
 
 If you missed this problem, review .
 
 
-\(<\)
+<span class="math-inline"><</span>
 
+
+---
+
+
+---
 
 ## Convert Fractions to Decimals
 
-In Decimals, we learned to convert decimals to fractions. Now we will do the reverse—convert fractions to decimals. Remember that the fraction bar indicates division. So \(\frac{4}{5}\) can be written \(4\div 5\) or \(5.\) This means that we can convert a fraction to a decimal by treating it as a division problem.
+
+In Decimals, we learned to convert decimals to fractions. Now we will do the reverse—convert fractions to decimals. Remember that the fraction bar indicates division. So <span class="math-inline"><sup>4</sup>∕<sub>5</sub></span> can be written <span class="math-inline">4÷ 5</span> or <span class="math-inline">5.</span> This means that we can convert a fraction to a decimal by treating it as a division problem.
 
 
-**Convert a Fraction to a Decimal**
+<div class="definition-label">**Convert a Fraction to a Decimal**</div>
+
 
 To convert a fraction to a decimal, divide the numerator of the fraction by the denominator of the fraction.
 
 
+<div class="example">
 **Example**
 
 
-Write the fraction \(\frac{3}{4}\) as a decimal.
+Write the fraction <span class="math-inline"><sup>3</sup>∕<sub>4</sub></span> as a decimal.
 
 
-Solution
+<div class="solution">
+<span class="def-label">Solution</span>
 
 
-
-    A fraction bar means division, so we can write the fraction \(\frac{3}{4}\) using division.
-
-
+    A fraction bar means division, so we can write the fraction <span class="math-inline"><sup>3</sup>∕<sub>4</sub></span> using division.
 
 
     Divide.
 
 
+    So the fraction <span class="math-inline"><sup>3</sup>∕<sub>4</sub></span> is equal to <span class="math-inline">0.75.</span>
 
 
-    So the fraction \(\frac{3}{4}\) is equal to \(0.75.\)
-
-
-
+<div class="tryit">
 **Try It**
 
 
-Write the fraction as a decimal: \(\frac{1}{4}.\)
+Write the fraction as a decimal: <span class="math-inline"><sup>1</sup>∕<sub>4</sub>.</span>
 
 
 0.25
 
 
+<div class="tryit">
 **Try It**
 
 
-Write the fraction as a decimal: \(\frac{3}{8}.\)
+Write the fraction as a decimal: <span class="math-inline"><sup>3</sup>∕<sub>8</sub>.</span>
 
 
 0.375
 
 
+<div class="example">
 **Example**
 
 
-Write the fraction \(-\frac{7}{2}\) as a decimal.
+Write the fraction <span class="math-inline">-<sup>7</sup>∕<sub>2</sub></span> as a decimal.
 
 
-Solution
-
+<div class="solution">
+<span class="def-label">Solution</span>
 
 
     The value of this fraction is negative. After dividing, the value of the decimal will be negative. We do the division ignoring the sign, and then write the negative sign in the answer.
-    \(-\frac{7}{2}\)
+    <span class="math-inline">-<sup>7</sup>∕<sub>2</sub></span>
 
 
-    Divide \(7\) by \(2.\)
+    Divide <span class="math-inline">7</span> by <span class="math-inline">2.</span>
 
 
+    So, <span class="math-inline">-<sup>7</sup>∕<sub>2</sub>=−3.5.</span>
 
 
-    So, \(-\frac{7}{2}=−3.5.\)
-
-
-
+<div class="tryit">
 **Try It**
 
 
-Write the fraction as a decimal: \(-\frac{9}{4}.\)
+Write the fraction as a decimal: <span class="math-inline">-<sup>9</sup>∕<sub>4</sub>.</span>
 
 
 −2.25
 
 
+<div class="tryit">
 **Try It**
 
 
-Write the fraction as a decimal: \(-\frac{11}{2}.\)
+Write the fraction as a decimal: <span class="math-inline">-<sup>11</sup>∕<sub>2</sub>.</span>
 
 
 −5.5
@@ -696,141 +778,162 @@ Write the fraction as a decimal: \(-\frac{11}{2}.\)
 
 ### Repeating Decimals
 
-So far, in all the examples converting fractions to decimals the division resulted in a remainder of zero. This is not always the case. Let’s see what happens when we convert the fraction \(\frac{4}{3}\) to a decimal. First, notice that \(\frac{4}{3}\) is an improper fraction. Its value is greater than \(1.\) The equivalent decimal will also be greater than \(1.\)
+So far, in all the examples converting fractions to decimals the division resulted in a remainder of zero. This is not always the case. Let’s see what happens when we convert the fraction <span class="math-inline"><sup>4</sup>∕<sub>3</sub></span> to a decimal. First, notice that <span class="math-inline"><sup>4</sup>∕<sub>3</sub></span> is an improper fraction. Its value is greater than <span class="math-inline">1.</span> The equivalent decimal will also be greater than <span class="math-inline">1.</span>
 
-We divide \(4\) by \(3.\)
+We divide <span class="math-inline">4</span> by <span class="math-inline">3.</span>
 
-No matter how many more zeros we write, there will always be a remainder of \(1,\) and the threes in the quotient will go on forever. The number \(1.333\dots\) is called a repeating decimal. Remember that the “…” means that the pattern repeats.
+No matter how many more zeros we write, there will always be a remainder of <span class="math-inline">1,</span> and the threes in the quotient will go on forever. The number <span class="math-inline">1.333…</span> is called a repeating decimal. Remember that the “…” means that the pattern repeats.
 
 
-**Repeating Decimal**
+<div class="definition-label">**Repeating Decimal**</div>
+
 
 A **repeating decimal** is a decimal in which the last digit or group of digits repeats endlessly.
 
-How do you know how many ‘repeats’ to write? Instead of writing \(1.333\dots\) we use a shorthand notation by placing a line over the digits that repeat. The repeating decimal \(1.333\dots\) is written \(1.\overset{-}{3}.\) The line above the \(3\) tells you that the \(3\) repeats endlessly. So \(1.333\dots=1.\overset{-}{3}\)
+How do you know how many ‘repeats’ to write? Instead of writing <span class="math-inline">1.333…</span> we use a shorthand notation by placing a line over the digits that repeat. The repeating decimal <span class="math-inline">1.333…</span> is written <span class="math-inline">1.3<sup>-</sup>.</span> The line above the <span class="math-inline">3</span> tells you that the <span class="math-inline">3</span> repeats endlessly. So <span class="math-inline">1.333…=1.3<sup>-</sup></span>
 
 For other decimals, two or more digits might repeat.  shows some more examples of repeating decimals.
 
 
+<div class="example">
 **Example**
 
 
-Write \(\frac{43}{22}\) as a decimal.
+Write <span class="math-inline"><sup>43</sup>∕<sub>22</sub></span> as a decimal.
 
 
-Solution
-Divide \(43\) by \(22.\)
+<div class="solution">
+<span class="def-label">Solution</span>
 
 
-Notice that the differences of \(120\) and \(100\) repeat, so there is a repeat in the digits of the quotient; \(54\) will repeat endlessly. The first decimal place in the quotient, \(9,\) is not part of the pattern. So,
-\(\frac{43}{22}=1.9\overset{—}{54}\)
+Divide <span class="math-inline">43</span> by <span class="math-inline">22.</span>
 
 
+Notice that the differences of <span class="math-inline">120</span> and <span class="math-inline">100</span> repeat, so there is a repeat in the digits of the quotient; <span class="math-inline">54</span> will repeat endlessly. The first decimal place in the quotient, <span class="math-inline">9,</span> is not part of the pattern. So,
+<span class="math-inline"><sup>43</sup>∕<sub>22</sub>=1.954<sup>—</sup></span>
+
+
+<div class="tryit">
 **Try It**
 
 
-Write as a decimal: \(\frac{27}{11}.\)
+Write as a decimal: <span class="math-inline"><sup>27</sup>∕<sub>11</sub>.</span>
 
 
-\(2.\overset{—}{45}\)
+<span class="math-inline">2.45<sup>—</sup></span>
 
 
+<div class="tryit">
 **Try It**
 
 
-Write as a decimal: \(\frac{51}{22}.\)
+Write as a decimal: <span class="math-inline"><sup>51</sup>∕<sub>22</sub>.</span>
 
 
-\(2.3\overset{—}{18}\)
+<span class="math-inline">2.318<sup>—</sup></span>
 
 
 It is useful to convert between fractions and decimals when we need to add or subtract numbers in different forms. To add a fraction and a decimal, for example, we would need to either convert the fraction to a decimal or the decimal to a fraction.
 
 
+<div class="example">
 **Example**
 
 
-Simplify: \(\frac{7}{8}+6.4.\)
+Simplify: <span class="math-inline"><sup>7</sup>∕<sub>8</sub>+6.4.</span>
 
 
-Solution
+<div class="solution">
+<span class="def-label">Solution</span>
 
 
-\(\frac{7}{8}+6.4\)
+<span class="math-inline"><sup>7</sup>∕<sub>8</sub>+6.4</span>
 
 
-Change \(\frac{7}{8}\) to a decimal.
+Change <span class="math-inline"><sup>7</sup>∕<sub>8</sub></span> to a decimal.
 
-\(0.875+6.4\)
+<span class="math-inline">0.875+6.4</span>
 
 
 Add.
 
-\(7.275\)
+<span class="math-inline">7.275</span>
 
 
+<div class="tryit">
 **Try It**
 
 
-Simplify: \(\frac{3}{8}+4.9.\)
+Simplify: <span class="math-inline"><sup>3</sup>∕<sub>8</sub>+4.9.</span>
 
 
 5.275
 
 
+<div class="tryit">
 **Try It**
 
 
-Simplify: \(5.7+\frac{13}{20}.\)
+Simplify: <span class="math-inline">5.7+<sup>13</sup>∕<sub>20</sub>.</span>
 
 
 6.35
 
 
+---
+
+
+---
+
 ## Order Decimals and Fractions
+
 
 In Decimals, we compared two decimals and determined which was larger. To compare a decimal to a fraction, we will first convert the fraction to a decimal and then compare the decimals.
 
 
+<div class="example">
 **Example**
 
 
-Order \(\frac{3}{8}__0.4\) using \(<\) or \(>.\)
+Order <span class="math-inline"><sup>3</sup>∕<sub>8</sub>_<sub>0</sub>.4</span> using <span class="math-inline"><</span> or <span class="math-inline">>.</span>
 
 
-Solution
+<div class="solution">
+<span class="def-label">Solution</span>
 
 
-\(\frac{3}{8}__0.4\)
+<span class="math-inline"><sup>3</sup>∕<sub>8</sub>_<sub>0</sub>.4</span>
 
 
-Convert \(\frac{3}{8}\) to a decimal.
-\(0.375__0.4\)
+Convert <span class="math-inline"><sup>3</sup>∕<sub>8</sub></span> to a decimal.
+<span class="math-inline">0.375_<sub>0</sub>.4</span>
 
 
-Compare \(0.375\) to \(0.4\)
-\(0.375<0.4\)
+Compare <span class="math-inline">0.375</span> to <span class="math-inline">0.4</span>
+<span class="math-inline">0.375<0.4</span>
 
 
 Rewrite with the original fraction.
-\(\frac{3}{8}<0.4\)
+<span class="math-inline"><sup>3</sup>∕<sub>8</sub><0.4</span>
 
 
+<div class="tryit">
 **Try It**
 
 
-Order each of the following pairs of numbers, using \(<\) or \(>.\)
-\(\frac{17}{20}__0.82\)
+Order each of the following pairs of numbers, using <span class="math-inline"><</span> or <span class="math-inline">>.</span>
+<span class="math-inline"><sup>17</sup>∕<sub>20</sub>_<sub>0</sub>.82</span>
 
 
 >
 
 
+<div class="tryit">
 **Try It**
 
 
-Order each of the following pairs of numbers, using \(<\) or \(>.\)
-\(\frac{3}{4}__0.785\)
+Order each of the following pairs of numbers, using <span class="math-inline"><</span> or <span class="math-inline">>.</span>
+<span class="math-inline"><sup>3</sup>∕<sub>4</sub>_<sub>0</sub>.785</span>
 
 
 <
@@ -839,105 +942,120 @@ Order each of the following pairs of numbers, using \(<\) or \(>.\)
 When ordering negative numbers, remember that larger numbers are to the right on the number line and any positive number is greater than any negative number.
 
 
+<div class="example">
 **Example**
 
 
-Order \(−0.5___-\frac{3}{4}\) using \(<\) or \(>.\)
+Order <span class="math-inline">−0.5___-<sup>3</sup>∕<sub>4</sub></span> using <span class="math-inline"><</span> or <span class="math-inline">>.</span>
 
 
-Solution
+<div class="solution">
+<span class="def-label">Solution</span>
 
 
-\(−0.5___-\frac{3}{4}\)
+<span class="math-inline">−0.5___-<sup>3</sup>∕<sub>4</sub></span>
 
 
-Convert \(-\frac{3}{4}\) to a decimal.
-\(−0.5___−0.75\)
+Convert <span class="math-inline">-<sup>3</sup>∕<sub>4</sub></span> to a decimal.
+<span class="math-inline">−0.5___−0.75</span>
 
 
-Compare \(−0.5\) to \(−0.75\).
-\(−0.5>−0.75\)
+Compare <span class="math-inline">−0.5</span> to <span class="math-inline">−0.75</span>.
+<span class="math-inline">−0.5>−0.75</span>
 
 
 Rewrite the inequality with the original fraction.
-\(−0.5>-\frac{3}{4}\)
+<span class="math-inline">−0.5>-<sup>3</sup>∕<sub>4</sub></span>
 
 
+<div class="tryit">
 **Try It**
 
 
-Order each of the following pairs of numbers, using \(<\) or \(>:\)
-\(-\frac{5}{8}__−0.58\)
+Order each of the following pairs of numbers, using <span class="math-inline"><</span> or <span class="math-inline">>:</span>
+<span class="math-inline">-<sup>5</sup>∕<sub>8</sub>__−0.58</span>
 
 
 <
 
 
+<div class="tryit">
 **Try It**
 
 
-Order each of the following pairs of numbers, using \(<\) or \(>:\)
-\(−0.53__-\frac{11}{20}\)
+Order each of the following pairs of numbers, using <span class="math-inline"><</span> or <span class="math-inline">>:</span>
+<span class="math-inline">−0.53__-<sup>11</sup>∕<sub>20</sub></span>
 
 
 >
 
 
+<div class="example">
 **Example**
 
 
-Write the numbers \(\frac{13}{20},0.61,\frac{11}{16}\) in order from smallest to largest.
+Write the numbers <span class="math-inline"><sup>13</sup>∕<sub>20</sub>,0.61,<sup>11</sup>∕<sub>16</sub></span> in order from smallest to largest.
 
 
-Solution
+<div class="solution">
+<span class="def-label">Solution</span>
 
 
-\(\frac{13}{20},0.61,\frac{11}{16}\)
+<span class="math-inline"><sup>13</sup>∕<sub>20</sub>,0.61,<sup>11</sup>∕<sub>16</sub></span>
 
 
 Convert the fractions to decimals.
-\(0.65,0.61,0.6875\)
+<span class="math-inline">0.65,0.61,0.6875</span>
 
 
 Write the smallest decimal number first.
-\(0.61,____,_____\)
+<span class="math-inline">0.61,____,_____</span>
 
 
 Write the next larger decimal number in the middle place.
-\(0.61,0.65,_____\)
+<span class="math-inline">0.61,0.65,_____</span>
 
 
 Write the last decimal number (the larger) in the third place.
-\(0.61,0.65,0.6875\)
+<span class="math-inline">0.61,0.65,0.6875</span>
 
 
 Rewrite the list with the original fractions.
-\(0.61,\frac{13}{20},\frac{11}{16}\)
+<span class="math-inline">0.61,<sup>13</sup>∕<sub>20</sub>,<sup>11</sup>∕<sub>16</sub></span>
 
 
+<div class="tryit">
 **Try It**
 
 
-Write each set of numbers in order from smallest to largest: \(\frac{7}{8},\frac{4}{5},0.82.\)
+Write each set of numbers in order from smallest to largest: <span class="math-inline"><sup>7</sup>∕<sub>8</sub>,<sup>4</sup>∕<sub>5</sub>,0.82.</span>
 
 
-\(\frac{4}{5},0.82,\frac{7}{8}\)
+<span class="math-inline"><sup>4</sup>∕<sub>5</sub>,0.82,<sup>7</sup>∕<sub>8</sub></span>
 
 
+<div class="tryit">
 **Try It**
 
 
-Write each set of numbers in order from smallest to largest: \(0.835,\frac{13}{16},\frac{3}{4}.\)
+Write each set of numbers in order from smallest to largest: <span class="math-inline">0.835,<sup>13</sup>∕<sub>16</sub>,<sup>3</sup>∕<sub>4</sub>.</span>
 
 
-\(\frac{3}{4},\frac{13}{16},0.835\)
+<span class="math-inline"><sup>3</sup>∕<sub>4</sub>,<sup>13</sup>∕<sub>16</sub>,0.835</span>
 
+
+---
+
+
+---
 
 ## Simplify Expressions Using the Order of Operations
+
 
 The order of operations introduced in Use the Language of Algebra also applies to decimals. Do you remember what the phrase “Please excuse my dear Aunt Sally” stands for?
 
 
+<div class="example">
 **Example**
 
 
@@ -945,71 +1063,75 @@ Simplify the expressions:
 
 
   -
-ⓐ \(7(18.3-21.7)\)
+ⓐ <span class="math-inline">7(18.3-21.7)</span>
 
   -
-ⓑ \(\frac{2}{3}(8.3-3.8)\)
+ⓑ <span class="math-inline"><sup>2</sup>∕<sub>3</sub>(8.3-3.8)</span>
 
 
-Solution
+<div class="solution">
+<span class="def-label">Solution</span>
 
 
 ⓐ
 
 
-\(7(18.3-21.7)\)
+<span class="math-inline">7(18.3-21.7)</span>
 
 
 Simplify inside parentheses.
-\(7(−3.4)\)
+<span class="math-inline">7(−3.4)</span>
 
 
 Multiply.
-\(−23.8\)
+<span class="math-inline">−23.8</span>
 
 
 ⓑ
 
 
-\(\frac{2}{3}(8.3-3.8)\)
+<span class="math-inline"><sup>2</sup>∕<sub>3</sub>(8.3-3.8)</span>
 
 
 Simplify inside parentheses.
-\(\frac{2}{3}(4.5)\)
+<span class="math-inline"><sup>2</sup>∕<sub>3</sub>(4.5)</span>
 
 
-Write \(4.5\) as a fraction.
-\(\frac{2}{3}(\frac{4.5}{1})\)
+Write <span class="math-inline">4.5</span> as a fraction.
+<span class="math-inline"><sup>2</sup>∕<sub>3</sub>(<sup>4.5</sup>∕<sub>1</sub>)</span>
 
 
 Multiply.
-\(\frac{9}{3}\)
+<span class="math-inline"><sup>9</sup>∕<sub>3</sub></span>
 
 
 Simplify.
-\(3\)
+<span class="math-inline">3</span>
 
 
+<div class="tryit">
 **Try It**
 
 
-Simplify: ⓐ \(8(14.6-37.5)\) ⓑ \(\frac{3}{5}(9.6-2.1).\)
+Simplify: ⓐ <span class="math-inline">8(14.6-37.5)</span> ⓑ <span class="math-inline"><sup>3</sup>∕<sub>5</sub>(9.6-2.1).</span>
 
 
   - ⓐ −183.2
   - ⓑ 4.5
 
 
+<div class="tryit">
 **Try It**
 
 
-Simplify: ⓐ \(25(25.69-56.74)\) ⓑ \(\frac{2}{7}(11.9-4.2).\)
+Simplify: ⓐ <span class="math-inline">25(25.69-56.74)</span> ⓑ <span class="math-inline"><sup>2</sup>∕<sub>7</sub>(11.9-4.2).</span>
 
 
   - ⓐ −776.25
   - ⓑ 2.2
 
 
+<div class="example">
 **Example**
 
 
@@ -1017,76 +1139,157 @@ Simplify each expression:
 
 
   -
-ⓐ \(6\div 0.6+(0.2)4-(0.1)^2\)
+ⓐ <span class="math-inline">6÷ 0.6+(0.2)4-(0.1)<sup>2</sup></span>
 
   -
-ⓑ \((\frac{1}{10})^2+(3.5)(0.9)\)
+ⓑ <span class="math-inline">(<sup>1</sup>∕<sub>10</sub>)<sup>2</sup>+(3.5)(0.9)</span>
 
 
-Solution
+<div class="solution">
+<span class="def-label">Solution</span>
 
 
 ⓐ
 
 
-\(6\div 0.6+(0.2)4-(0.1)^2\)
+<span class="math-inline">6÷ 0.6+(0.2)4-(0.1)<sup>2</sup></span>
 
 
 Simplify exponents.
-\(6\div 0.6+(0.2)4-0.01\)
+<span class="math-inline">6÷ 0.6+(0.2)4-0.01</span>
 
 
 Divide.
-\(10+(0.2)4-0.01\)
+<span class="math-inline">10+(0.2)4-0.01</span>
 
 
 Multiply.
-\(10+0.8-0.01\)
+<span class="math-inline">10+0.8-0.01</span>
 
 
 Add.
-\(10.8-0.01\)
+<span class="math-inline">10.8-0.01</span>
 
 
 Subtract.
-\(10.79\)
+<span class="math-inline">10.79</span>
 
 
 ⓑ
 
 
-\((\frac{1}{10})^2+(3.5)(0.9)\)
+<span class="math-inline">(<sup>1</sup>∕<sub>10</sub>)<sup>2</sup>+(3.5)(0.9)</span>
 
 
 Simplify exponents.
-\(\frac{1}{100}+(3.5)(0.9)\)
+<span class="math-inline"><sup>1</sup>∕<sub>100</sub>+(3.5)(0.9)</span>
 
 
 Multiply.
-\(\frac{1}{100}+3.15\)
+<span class="math-inline"><sup>1</sup>∕<sub>100</sub>+3.15</span>
 
 
-Convert \(\frac{1}{100}\) to a decimal.
-\(0.01+3.15\)
+Convert <span class="math-inline"><sup>1</sup>∕<sub>100</sub></span> to a decimal.
+<span class="math-inline">0.01+3.15</span>
 
 
 Add.
-\(3.16\)
+<span class="math-inline">3.16</span>
 
 
+<div class="tryit">
 **Try It**
 
 
-Simplify: \(9\div 0.9+(0.4)3-(0.2)^2.\)
+Simplify: <span class="math-inline">9÷ 0.9+(0.4)3-(0.2)<sup>2</sup>.</span>
 
 
 11.16
 
 
+<div class="tryit">
 **Try It**
 
 
-Simplify: \((\frac{1}{2})^2+(0.3)(4.2).\)
+Simplify: <span class="math-inline">(<sup>1</sup>∕<sub>2</sub>)<sup>2</sup>+(0.3)(4.2).</span>
 
 
 1.51
+
+</div>
+
+</div>
+
+</div>
+
+</div>
+
+</div>
+
+</div>
+
+</div>
+
+</div>
+
+</div>
+
+</div>
+
+</div>
+
+</div>
+
+</div>
+
+</div>
+
+</div>
+
+</div>
+
+</div>
+
+</div>
+
+</div>
+
+</div>
+
+</div>
+
+</div>
+
+</div>
+
+</div>
+
+</div>
+
+</div>
+
+</div>
+
+</div>
+
+</div>
+
+</div>
+
+</div>
+
+</div>
+
+</div>
+
+</div>
+
+</div>
+
+</div>
+
+</div>
+
+</div>
+
+</div>

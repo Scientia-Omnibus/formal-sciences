@@ -1,112 +1,180 @@
+<style>
+.math-inline {
+    font-style: italic;
+    padding: 2px 6px;
+    border-radius: 4px;
+    background: #f8f9fa;
+    font-family: Georgia, serif;
+}
+.math-display {
+    background: #f8f9fa;
+    border-left: 4px solid #4a90d9;
+    padding: 16px 20px;
+    margin: 16px 0;
+    border-radius: 6px;
+    font-size: 1.15em;
+    font-family: Georgia, serif;
+    text-align: center;
+    line-height: 2;
+    overflow-x: auto;
+}
+.example-box, .example {
+    background: #f0f8ff;
+    border-left: 4px solid #2e86de;
+    padding: 12px 20px;
+    margin: 16px 0;
+    border-radius: 6px;
+}
+.tryit-box, .tryit {
+    background: #f0fff4;
+    border-left: 4px solid #27ae60;
+    padding: 12px 20px;
+    margin: 16px 0;
+    border-radius: 6px;
+}
+.solution-box, .solution {
+    background: #fef9e7;
+    border-left: 4px solid #f39c12;
+    padding: 12px 20px;
+    margin: 12px 0;
+    border-radius: 6px;
+}
+.check-box, .check {
+    background: #fef9e7;
+    border-left: 4px solid #f39c12;
+    padding: 12px 20px;
+    margin: 12px 0;
+    border-radius: 6px;
+}
+.prep-quiz {
+    background: #fff3cd;
+    border: 1px solid #ffc107;
+    padding: 12px 20px;
+    margin: 16px 0;
+    border-radius: 6px;
+}
+.def-label, .definition-label {
+    font-weight: bold;
+    font-size: 1.1em;
+    margin: 20px 0 8px 0;
+    color: #2c3e50;
+    display: block;
+}
+.math-display sup, .math-inline sup { font-size: 0.75em; line-height: 0; }
+.math-display sub, .math-inline sub { font-size: 0.75em; line-height: 0; }
+</style>
+
+
+---
+
+
+---
+
 ## Identify Multiples of Numbers
 
-Annie is counting the shoes in her closet. The shoes are matched in pairs, so she doesn’t have to count each one. She counts by twos: \(2,4,6,8,10,12.\) She has \(12\) shoes in her closet.
 
-The numbers \(2,4,6,8,10,12\) are called multiples of \(2.\) Multiples of \(2\) can be written as the product of a counting number and \(2.\) The first six multiples of \(2\) are given below.
+Annie is counting the shoes in her closet. The shoes are matched in pairs, so she doesn’t have to count each one. She counts by twos: <span class="math-inline">2,4,6,8,10,12.</span> She has <span class="math-inline">12</span> shoes in her closet.
+
+The numbers <span class="math-inline">2,4,6,8,10,12</span> are called multiples of <span class="math-inline">2.</span> Multiples of <span class="math-inline">2</span> can be written as the product of a counting number and <span class="math-inline">2.</span> The first six multiples of <span class="math-inline">2</span> are given below.
 
 
-$$
+<div class="math-display">
 1 \\
 2 \\
 3 \\
 4 \\
 5 \\
 6
-$$
-
-A **multiple of a number** is the product of the number and a counting number. So a multiple of \(3\) would be the product of a counting number and \(3.\) Below are the first six multiples of \(3.\)
+</div>
 
 
-$$
+A **multiple of a number** is the product of the number and a counting number. So a multiple of <span class="math-inline">3</span> would be the product of a counting number and <span class="math-inline">3.</span> Below are the first six multiples of <span class="math-inline">3.</span>
+
+
+<div class="math-display">
 1 \\
 2 \\
 3 \\
 4 \\
 5 \\
 6
-$$
-
-We can find the multiples of any number by continuing this process.  shows the multiples of \(2\) through \(9\) for the first twelve counting numbers.
+</div>
 
 
-**Multiple of a Number**
-
-A number is a **multiple** of \(n\) if it is the product of a counting number and \(n.\)
-
-Recognizing the patterns for multiples of \(2,5,10,and 3\) will be helpful to you as you continue in this course.
-
- shows the counting numbers from \(1\) to \(50.\) Multiples of \(2\) are highlighted. Do you notice a pattern?
+We can find the multiples of any number by continuing this process.  shows the multiples of <span class="math-inline">2</span> through <span class="math-inline">9</span> for the first twelve counting numbers.
 
 
-*Multiples of \(2\) between \(1\) and \(50\)*
-
-The last digit of each highlighted number in  is either \(0,2,4,6,or 8.\) This is true for the product of \(2\) and any counting number. So, to tell if any number is a multiple of \(2\) look at the last digit. If it is \(0,2,4,6, or 8,\) then the number is a multiple of \(2.\)
+<div class="definition-label">**Multiple of a Number**</div>
 
 
+A number is a **multiple** of <span class="math-inline">n</span> if it is the product of a counting number and <span class="math-inline">n.</span>
+
+Recognizing the patterns for multiples of <span class="math-inline">2,5,10,and 3</span> will be helpful to you as you continue in this course.
+
+ shows the counting numbers from <span class="math-inline">1</span> to <span class="math-inline">50.</span> Multiples of <span class="math-inline">2</span> are highlighted. Do you notice a pattern?
+
+
+*Multiples of <span class="math-inline">2</span> between <span class="math-inline">1</span> and <span class="math-inline">50</span>*
+
+The last digit of each highlighted number in  is either <span class="math-inline">0,2,4,6,or 8.</span> This is true for the product of <span class="math-inline">2</span> and any counting number. So, to tell if any number is a multiple of <span class="math-inline">2</span> look at the last digit. If it is <span class="math-inline">0,2,4,6, or 8,</span> then the number is a multiple of <span class="math-inline">2.</span>
+
+
+<div class="example">
 **Example**
 
 
-Determine whether each of the following is a multiple of \(2:\)
+Determine whether each of the following is a multiple of <span class="math-inline">2:</span>
 
   -
-ⓐ \(489\)
+ⓐ <span class="math-inline">489</span>
 
   -
 ⓑ
-\(3,714\)
+<span class="math-inline">3,714</span>
 
 
-Solution
-
-
+<div class="solution">
+<span class="def-label">Solution</span>
 
 
     ⓐ
-
 
 
     Is 489 a multiple of 2?
 
 
-
     Is the last digit 0, 2, 4, 6, or 8?
     No.
-
 
 
     489 is not a multiple of 2.
 
 
-
-
     ⓑ
 
 
-
     Is 3,714 a multiple of 2?
-
 
 
     Is the last digit 0, 2, 4, 6, or 8?
     Yes.
 
 
-
     3,714 is a multiple of 2.
 
 
-
+<div class="tryit">
 **Try It**
 
 
-Determine whether each number is a multiple of \(2:\)
+Determine whether each number is a multiple of <span class="math-inline">2:</span>
 
   -
 ⓐ
-\(678\)
+<span class="math-inline">678</span>
   -
 ⓑ
-\(21,493\)
+<span class="math-inline">21,493</span>
 
 
   -
@@ -116,17 +184,18 @@ Determine whether each number is a multiple of \(2:\)
 ⓑ no
 
 
+<div class="tryit">
 **Try It**
 
 
-Determine whether each number is a multiple of \(2:\)
+Determine whether each number is a multiple of <span class="math-inline">2:</span>
 
   -
 ⓐ
-\(979\)
+<span class="math-inline">979</span>
   -
 ⓑ
-\(17,780\)
+<span class="math-inline">17,780</span>
 
 
   -
@@ -136,79 +205,70 @@ Determine whether each number is a multiple of \(2:\)
 ⓑ yes
 
 
-Now let’s look at multiples of \(5.\)  highlights all of the multiples of \(5\) between \(1\) and \(50.\) What do you notice about the multiples of \(5?\)
+Now let’s look at multiples of <span class="math-inline">5.</span>  highlights all of the multiples of <span class="math-inline">5</span> between <span class="math-inline">1</span> and <span class="math-inline">50.</span> What do you notice about the multiples of <span class="math-inline">5?</span>
 
 
-*Multiples of \(5\) between \(1\) and \(50\)*
+*Multiples of <span class="math-inline">5</span> between <span class="math-inline">1</span> and <span class="math-inline">50</span>*
 
-All multiples of \(5\) end with either \(5\) or \(0.\) Just like we identify multiples of \(2\) by looking at the last digit, we can identify multiples of \(5\) by looking at the last digit.
+All multiples of <span class="math-inline">5</span> end with either <span class="math-inline">5</span> or <span class="math-inline">0.</span> Just like we identify multiples of <span class="math-inline">2</span> by looking at the last digit, we can identify multiples of <span class="math-inline">5</span> by looking at the last digit.
 
 
+<div class="example">
 **Example**
 
 
-Determine whether each of the following is a multiple of \(5:\)
+Determine whether each of the following is a multiple of <span class="math-inline">5:</span>
 
   -
 ⓐ
-\(579\)
+<span class="math-inline">579</span>
   -
 ⓑ
-\(880\)
+<span class="math-inline">880</span>
 
 
-Solution
-
-
+<div class="solution">
+<span class="def-label">Solution</span>
 
 
     ⓐ
-
 
 
     Is 579 a multiple of 5?
 
 
-
     Is the last digit 5 or 0?
     No.
-
 
 
     579 is not a multiple of 5.
 
 
-
-
-
     ⓑ
 
 
-
     Is 880 a multiple of 5?
-
 
 
     Is the last digit 5 or 0?
     Yes.
 
 
-
     880 is a multiple of 5.
 
 
-
+<div class="tryit">
 **Try It**
 
 
-Determine whether each number is a multiple of \(5.\)
+Determine whether each number is a multiple of <span class="math-inline">5.</span>
 
   -
 ⓐ
-\(675\)
+<span class="math-inline">675</span>
   -
 ⓑ
-\(1,578\)
+<span class="math-inline">1,578</span>
 
 
   -
@@ -218,17 +278,18 @@ Determine whether each number is a multiple of \(5.\)
 ⓑ no
 
 
+<div class="tryit">
 **Try It**
 
 
-Determine whether each number is a multiple of \(5.\)
+Determine whether each number is a multiple of <span class="math-inline">5.</span>
 
   -
 ⓐ
-\(421\)
+<span class="math-inline">421</span>
   -
 ⓑ
-\(2,690\)
+<span class="math-inline">2,690</span>
 
 
   -
@@ -238,76 +299,68 @@ Determine whether each number is a multiple of \(5.\)
 ⓑ yes
 
 
- highlights the multiples of \(10\) between \(1\) and \(50.\) All multiples of \(10\) all end with a zero.
+ highlights the multiples of <span class="math-inline">10</span> between <span class="math-inline">1</span> and <span class="math-inline">50.</span> All multiples of <span class="math-inline">10</span> all end with a zero.
 
 
-*Multiples of \(10\) between \(1\) and \(50\)*
+*Multiples of <span class="math-inline">10</span> between <span class="math-inline">1</span> and <span class="math-inline">50</span>*
 
 
+<div class="example">
 **Example**
 
 
-Determine whether each of the following is a multiple of \(10:\)
+Determine whether each of the following is a multiple of <span class="math-inline">10:</span>
 
   -
 ⓐ
-\(425\)
+<span class="math-inline">425</span>
   -
 ⓑ
-\(350\)
+<span class="math-inline">350</span>
 
 
-Solution
-
+<div class="solution">
+<span class="def-label">Solution</span>
 
 
     ⓐ
 
 
-
     Is 425 a multiple of 10?
-
 
 
     Is the last digit zero?
     No.
 
 
-
     425 is not a multiple of 10.
-
-
-
 
 
     ⓑ
 
 
-
     Is 350 a multiple of 10?
-
 
 
     Is the last digit zero?
     Yes.
 
 
-
     350 is a multiple of 10.
 
 
-
+<div class="tryit">
 **Try It**
 
 
-Determine whether each number is a multiple of \(10:\)
+Determine whether each number is a multiple of <span class="math-inline">10:</span>
 
   -
 ⓐ
-\(179\)
+<span class="math-inline">179</span>
   -
 ⓑ
-\(3,540\)
+<span class="math-inline">3,540</span>
 
 
   -
@@ -317,17 +370,18 @@ Determine whether each number is a multiple of \(10:\)
 ⓑ yes
 
 
+<div class="tryit">
 **Try It**
 
 
-Determine whether each number is a multiple of \(10:\)
+Determine whether each number is a multiple of <span class="math-inline">10:</span>
 
   -
 ⓐ
-\(110\)
+<span class="math-inline">110</span>
   -
 ⓑ
-\(7,595\)
+<span class="math-inline">7,595</span>
 
 
   -
@@ -337,38 +391,40 @@ Determine whether each number is a multiple of \(10:\)
 ⓑ no
 
 
- highlights multiples of \(3.\) The pattern for multiples of \(3\) is not as obvious as the patterns for multiples of \(2,5,and 10.\)
+ highlights multiples of <span class="math-inline">3.</span> The pattern for multiples of <span class="math-inline">3</span> is not as obvious as the patterns for multiples of <span class="math-inline">2,5,and 10.</span>
 
 
-*Multiples of \(3\) between \(1\) and \(50\)*
+*Multiples of <span class="math-inline">3</span> between <span class="math-inline">1</span> and <span class="math-inline">50</span>*
 
-Unlike the other patterns we’ve examined so far, this pattern does not involve the last digit. The pattern for multiples of \(3\) is based on the sum of the digits. If the sum of the digits of a number is a multiple of \(3,\) then the number itself is a multiple of \(3.\) See .
-
-
-Consider the number \(42.\) The digits are \(4\) and \(2,\) and their sum is \(4+2=6.\) Since \(6\) is a multiple of \(3,\) we know that \(42\) is also a multiple of \(3.\)
+Unlike the other patterns we’ve examined so far, this pattern does not involve the last digit. The pattern for multiples of <span class="math-inline">3</span> is based on the sum of the digits. If the sum of the digits of a number is a multiple of <span class="math-inline">3,</span> then the number itself is a multiple of <span class="math-inline">3.</span> See .
 
 
+Consider the number <span class="math-inline">42.</span> The digits are <span class="math-inline">4</span> and <span class="math-inline">2,</span> and their sum is <span class="math-inline">4+2=6.</span> Since <span class="math-inline">6</span> is a multiple of <span class="math-inline">3,</span> we know that <span class="math-inline">42</span> is also a multiple of <span class="math-inline">3.</span>
+
+
+<div class="example">
 **Example**
 
 
-Determine whether each of the given numbers is a multiple of \(3:\)
+Determine whether each of the given numbers is a multiple of <span class="math-inline">3:</span>
 
   -
 ⓐ
-\(645\)
+<span class="math-inline">645</span>
   -
 ⓑ
-\(10,519\)
+<span class="math-inline">10,519</span>
 
 
-Solution
-ⓐ Is \(645\) a multiple of \(3?\)
+<div class="solution">
+<span class="def-label">Solution</span>
 
 
+ⓐ Is <span class="math-inline">645</span> a multiple of <span class="math-inline">3?</span>
 
 
     Find the sum of the digits.
-    \(6+4+5=15\)
+    <span class="math-inline">6+4+5=15</span>
 
 
     Is 15 a multiple of 3?
@@ -376,20 +432,18 @@ Solution
 
 
     If we're not sure, we could add its digits to find out. We can check it by dividing 645 by 3.
-    \(645\div 3\)
+    <span class="math-inline">645÷ 3</span>
 
 
     The quotient is 215.
-    \(3\cdot 215=645\)
+    <span class="math-inline">3· 215=645</span>
 
 
-
-ⓑ Is \(10,519\) a multiple of \(3?\)
-
+ⓑ Is <span class="math-inline">10,519</span> a multiple of <span class="math-inline">3?</span>
 
 
     Find the sum of the digits.
-    \(1+0+5+1+9=16\)
+    <span class="math-inline">1+0+5+1+9=16</span>
 
 
     Is 16 a multiple of 3?
@@ -397,7 +451,7 @@ Solution
 
 
     So 10,519 is not a multiple of 3 either..
-    \(645\div 3\)
+    <span class="math-inline">645÷ 3</span>
 
 
     We can check this by dividing by 10,519 by 3.
@@ -405,21 +459,21 @@ Solution
 3\)
 
 
+When we divide <span class="math-inline">10,519</span> by <span class="math-inline">3,</span> we do not get a counting number, so <span class="math-inline">10,519</span> is not the product of a counting number and <span class="math-inline">3.</span> It is not a multiple of <span class="math-inline">3.</span>
 
-When we divide \(10,519\) by \(3,\) we do not get a counting number, so \(10,519\) is not the product of a counting number and \(3.\) It is not a multiple of \(3.\)
 
-
+<div class="tryit">
 **Try It**
 
 
-Determine whether each number is a multiple of \(3:\)
+Determine whether each number is a multiple of <span class="math-inline">3:</span>
 
   -
 ⓐ
-\(954\)
+<span class="math-inline">954</span>
   -
 ⓑ
-\(3,742\)
+<span class="math-inline">3,742</span>
 
 
   -
@@ -429,18 +483,19 @@ Determine whether each number is a multiple of \(3:\)
 ⓑ no
 
 
+<div class="tryit">
 **Try It**
 
 
-Determine whether each number is a multiple of \(3:\)
+Determine whether each number is a multiple of <span class="math-inline">3:</span>
 
   -
 ⓐ
-\(643\)
+<span class="math-inline">643</span>
 
   -
 ⓑ
-\(8,379\)
+<span class="math-inline">8,379</span>
 
 
   -
@@ -450,29 +505,40 @@ Determine whether each number is a multiple of \(3:\)
 ⓑ yes
 
 
-Look back at the charts where you highlighted the multiples of \(2,\) of \(5,\) and of \(10.\) Notice that the multiples of \(10\) are the numbers that are multiples of both \(2\) and \(5.\) That is because \(10=2\cdot 5.\) Likewise, since \(6=2\cdot 3,\) the multiples of \(6\) are the numbers that are multiples of both \(2\) and \(3.\)
+Look back at the charts where you highlighted the multiples of <span class="math-inline">2,</span> of <span class="math-inline">5,</span> and of <span class="math-inline">10.</span> Notice that the multiples of <span class="math-inline">10</span> are the numbers that are multiples of both <span class="math-inline">2</span> and <span class="math-inline">5.</span> That is because <span class="math-inline">10=2· 5.</span> Likewise, since <span class="math-inline">6=2· 3,</span> the multiples of <span class="math-inline">6</span> are the numbers that are multiples of both <span class="math-inline">2</span> and <span class="math-inline">3.</span>
 
+
+---
+
+
+---
 
 ## Use Common Divisibility Tests
 
-Another way to say that \(375\) is a multiple of \(5\) is to say that \(375\) is divisible by \(5.\) In fact, \(375\div 5\) is \(75,\) so \(375\) is \(5\cdot 75.\) Notice in  that \(10,519\) is not a multiple \(3.\) When we divided \(10,519\) by \(3\) we did not get a counting number, so \(10,519\) is not divisible by \(3.\)
+
+Another way to say that <span class="math-inline">375</span> is a multiple of <span class="math-inline">5</span> is to say that <span class="math-inline">375</span> is divisible by <span class="math-inline">5.</span> In fact, <span class="math-inline">375÷ 5</span> is <span class="math-inline">75,</span> so <span class="math-inline">375</span> is <span class="math-inline">5· 75.</span> Notice in  that <span class="math-inline">10,519</span> is not a multiple <span class="math-inline">3.</span> When we divided <span class="math-inline">10,519</span> by <span class="math-inline">3</span> we did not get a counting number, so <span class="math-inline">10,519</span> is not divisible by <span class="math-inline">3.</span>
 
 
-**Divisibility**
+<div class="definition-label">**Divisibility**</div>
 
-If a number \(m\) is a multiple of \(n,\) then we say that \(m\) is divisible by \(n.\)
+
+If a number <span class="math-inline">m</span> is a multiple of <span class="math-inline">n,</span> then we say that <span class="math-inline">m</span> is divisible by <span class="math-inline">n.</span>
 
 Since multiplication and division are inverse operations, the patterns of multiples that we found can be used as divisibility tests.  summarizes **divisibility tests** for some of the counting numbers between one and ten.
 
 
+<div class="example">
 **Example**
 
 
-Determine whether \(1,290\) is divisible by \(2,3,5,and 10.\)
+Determine whether <span class="math-inline">1,290</span> is divisible by <span class="math-inline">2,3,5,and 10.</span>
 
 
-Solution
- applies the divisibility tests to \(1,290.\) In the far right column, we check the results of the divisibility tests by seeing if the quotient is a whole number.
+<div class="solution">
+<span class="def-label">Solution</span>
+
+
+ applies the divisibility tests to <span class="math-inline">1,290.</span> In the far right column, we check the results of the divisibility tests by seeing if the quotient is a whole number.
 
 
 *Divisible by\dots?*
@@ -481,62 +547,68 @@ Solution
 *Check*
 
 
-\(2\)
-Is last digit \(0, 2, 4, 6, or 8?\) *Yes.*
+<span class="math-inline">2</span>
+Is last digit <span class="math-inline">0, 2, 4, 6, or 8?</span> *Yes.*
 yes
-\(1290\div 2=645\)
+<span class="math-inline">1290÷ 2=645</span>
 
 
-\(3\)
-\(Is sum of digits divisible by 3?\)
-\(1+2+9+0=12\) *Yes.*
+<span class="math-inline">3</span>
+<span class="math-inline">Is sum of digits divisible by 3?</span>
+<span class="math-inline">1+2+9+0=12</span> *Yes.*
 yes
-\(1290\div 3=430\)
+<span class="math-inline">1290÷ 3=430</span>
 
 
-\(5\)
-Is last digit \(5\) or \(0?\) *Yes.*
+<span class="math-inline">5</span>
+Is last digit <span class="math-inline">5</span> or <span class="math-inline">0?</span> *Yes.*
 yes
-\(1290\div 5=258\)
+<span class="math-inline">1290÷ 5=258</span>
 
 
-\(10\)
-Is last digit \(0?\) *Yes.*
+<span class="math-inline">10</span>
+Is last digit <span class="math-inline">0?</span> *Yes.*
 yes
-\(1290\div 10=129\)
+<span class="math-inline">1290÷ 10=129</span>
 
 
-Thus, \(1,290\) is divisible by \(2,3,5,and 10.\)
+Thus, <span class="math-inline">1,290</span> is divisible by <span class="math-inline">2,3,5,and 10.</span>
 
 
+<div class="tryit">
 **Try It**
 
 
-Determine whether the given number is divisible by \(2,3,5,and 10.\)
-\(6240\)
+Determine whether the given number is divisible by <span class="math-inline">2,3,5,and 10.</span>
+<span class="math-inline">6240</span>
 
 
 Divisible by 2, 3, 5, and 10
 
 
+<div class="tryit">
 **Try It**
 
 
-Determine whether the given number is divisible by \(2,3,5,and 10.\)
-\(7248\)
+Determine whether the given number is divisible by <span class="math-inline">2,3,5,and 10.</span>
+<span class="math-inline">7248</span>
 
 
 Divisible by 2 and 3, not 5 or 10.
 
 
+<div class="example">
 **Example**
 
 
-Determine whether \(5,625\) is divisible by \(2,3,5,and 10.\)
+Determine whether <span class="math-inline">5,625</span> is divisible by <span class="math-inline">2,3,5,and 10.</span>
 
 
-Solution
- applies the divisibility tests to \(5,625\) and tests the results by finding the quotients.
+<div class="solution">
+<span class="def-label">Solution</span>
+
+
+ applies the divisibility tests to <span class="math-inline">5,625</span> and tests the results by finding the quotients.
 
 
 *Divisible by…?*
@@ -545,84 +617,95 @@ Solution
 *Check*
 
 
-\(2\)
-Is last digit \(0, 2, 4, 6, or 8?\) *No.*
+<span class="math-inline">2</span>
+Is last digit <span class="math-inline">0, 2, 4, 6, or 8?</span> *No.*
 no
-\(5625\div 2=2812.5\)
+<span class="math-inline">5625÷ 2=2812.5</span>
 
 
-\(3\)
-\(Is sum of digits divisible by 3?\)
-\(5+6+2+5=18\) *Yes.*
+<span class="math-inline">3</span>
+<span class="math-inline">Is sum of digits divisible by 3?</span>
+<span class="math-inline">5+6+2+5=18</span> *Yes.*
 yes
-\(5625\div 3=1875\)
+<span class="math-inline">5625÷ 3=1875</span>
 
 
-\(5\)
-Is last digit is \(5\) or \(0?\) *Yes.*
+<span class="math-inline">5</span>
+Is last digit is <span class="math-inline">5</span> or <span class="math-inline">0?</span> *Yes.*
 yes
-\(5625\div 5=1125\)
+<span class="math-inline">5625÷ 5=1125</span>
 
 
-\(10\)
-Is last digit \(0?\) *No.*
+<span class="math-inline">10</span>
+Is last digit <span class="math-inline">0?</span> *No.*
 no
-\(5625\div 10=562.5\)
+<span class="math-inline">5625÷ 10=562.5</span>
 
 
-Thus, \(5,625\) is divisible by \(3\) and \(5,\) but not \(2,\) or \(10.\)
+Thus, <span class="math-inline">5,625</span> is divisible by <span class="math-inline">3</span> and <span class="math-inline">5,</span> but not <span class="math-inline">2,</span> or <span class="math-inline">10.</span>
 
 
+<div class="tryit">
 **Try It**
 
 
-Determine whether the given number is divisible \(by 2,3,5,and 10.\)
-\(4962\)
+Determine whether the given number is divisible <span class="math-inline">by 2,3,5,and 10.</span>
+<span class="math-inline">4962</span>
 
 
 Divisible by 2 and 3, not 5 or 10.
 
 
+<div class="tryit">
 **Try It**
 
 
-Determine whether the given number is divisible \(by 2,3,5,and 10.\)
-\(3765\)
+Determine whether the given number is divisible <span class="math-inline">by 2,3,5,and 10.</span>
+<span class="math-inline">3765</span>
 
 
 Divisible by 3 and 5.
 
 
+---
+
+
+---
+
 ## Find All the Factors of a Number
 
+
 There are often several ways to talk about the same idea. So
-far, we’ve seen that if \(m\) is a multiple of \(n,\) we can say that \(m\) is **divisible** by \(n.\) We know that \(72\) is the product of \(8\) and \(9,\) so we can say \(72\) is a multiple of \(8\) and \(72\) is a multiple of \(9.\) We can also say \(72\) is divisible by \(8\) and by \(9.\) Another way to talk about this is to say that \(8\) and \(9\) are factors of \(72.\) When we write \(72=8\cdot 9\) we can say that we have factored \(72.\)
+far, we’ve seen that if <span class="math-inline">m</span> is a multiple of <span class="math-inline">n,</span> we can say that <span class="math-inline">m</span> is **divisible** by <span class="math-inline">n.</span> We know that <span class="math-inline">72</span> is the product of <span class="math-inline">8</span> and <span class="math-inline">9,</span> so we can say <span class="math-inline">72</span> is a multiple of <span class="math-inline">8</span> and <span class="math-inline">72</span> is a multiple of <span class="math-inline">9.</span> We can also say <span class="math-inline">72</span> is divisible by <span class="math-inline">8</span> and by <span class="math-inline">9.</span> Another way to talk about this is to say that <span class="math-inline">8</span> and <span class="math-inline">9</span> are factors of <span class="math-inline">72.</span> When we write <span class="math-inline">72=8· 9</span> we can say that we have factored <span class="math-inline">72.</span>
 
 
-**Factors**
+<div class="definition-label">**Factors**</div>
 
-In the expression \(a\cdot b\), both *a* and *b* are called *factors*. If \(a\cdot b=m,\) and both *a* and *b* are integers, then \(a and b\) are factors of \(m,\) and \(m\) is the product of \(a and b.\)
+
+In the expression <span class="math-inline">a· b</span>, both *a* and *b* are called *factors*. If <span class="math-inline">a· b=m,</span> and both *a* and *b* are integers, then <span class="math-inline">a and b</span> are factors of <span class="math-inline">m,</span> and <span class="math-inline">m</span> is the product of <span class="math-inline">a and b.</span>
 
 In algebra, it can be useful to determine all of the factors of a number. This is called factoring a number, and it can help us solve many kinds of problems.
 
-For example, suppose a choreographer is planning a dance for a ballet recital. There are \(24\) dancers, and for a certain scene, the choreographer wants to arrange the dancers in groups of equal sizes on stage.
+For example, suppose a choreographer is planning a dance for a ballet recital. There are <span class="math-inline">24</span> dancers, and for a certain scene, the choreographer wants to arrange the dancers in groups of equal sizes on stage.
 
-In how many ways can the dancers be put into groups of equal size? Answering this question is the same as identifying the factors of \(24.\)  summarizes the different ways that the choreographer can arrange the dancers.
-
-
-What patterns do you see in ? Did you notice that the number of groups times the number of dancers per group is always \(24?\) This makes sense, since there are always \(24\) dancers.
-
-You may notice another pattern if you look carefully at the first two columns. These two columns contain the exact same set of numbers—but in reverse order. They are mirrors of one another, and in fact, both columns list all of the factors of \(24,\) which are:
+In how many ways can the dancers be put into groups of equal size? Answering this question is the same as identifying the factors of <span class="math-inline">24.</span>  summarizes the different ways that the choreographer can arrange the dancers.
 
 
-$$
+What patterns do you see in ? Did you notice that the number of groups times the number of dancers per group is always <span class="math-inline">24?</span> This makes sense, since there are always <span class="math-inline">24</span> dancers.
+
+You may notice another pattern if you look carefully at the first two columns. These two columns contain the exact same set of numbers—but in reverse order. They are mirrors of one another, and in fact, both columns list all of the factors of <span class="math-inline">24,</span> which are:
+
+
+<div class="math-display">
 1,2,3,4,6,8,12,24
-$$
-
-We can find all the factors of any counting number by systematically dividing the number by each counting number, starting with \(1.\) If the **quotient** is also a counting number, then the divisor and the quotient are factors of the number. We can stop when the quotient becomes smaller than the divisor.
+</div>
 
 
-**Find all the factors of a counting number.**
+We can find all the factors of any counting number by systematically dividing the number by each counting number, starting with <span class="math-inline">1.</span> If the **quotient** is also a counting number, then the divisor and the quotient are factors of the number. We can stop when the quotient becomes smaller than the divisor.
+
+
+<div class="definition-label">**Find all the factors of a counting number.**</div>
+
 
 - Divide the number by each of the counting numbers, in order, until the quotient is smaller than the divisor.
 
@@ -634,68 +717,83 @@ We can find all the factors of any counting number by systematically dividing th
 - Write all the **factors** in order from smallest to largest.
 
 
+<div class="example">
 **Example**
 
 
-Find all the factors of \(72.\)
+Find all the factors of <span class="math-inline">72.</span>
 
 
-Solution
-Divide \(72\) by each of the counting numbers starting with \(1.\) If the quotient is a whole number, the divisor and quotient are a pair of factors.
+<div class="solution">
+<span class="def-label">Solution</span>
 
 
-The next line would have a divisor of \(9\) and a quotient of \(8.\) The quotient would be smaller than the divisor, so we stop. If we continued, we would end up only listing the same factors again in reverse order. Listing all the factors from smallest to greatest, we have
-\(1,2,3,4,6,8,9,12,18,24,36,and 72\)
+Divide <span class="math-inline">72</span> by each of the counting numbers starting with <span class="math-inline">1.</span> If the quotient is a whole number, the divisor and quotient are a pair of factors.
 
 
+The next line would have a divisor of <span class="math-inline">9</span> and a quotient of <span class="math-inline">8.</span> The quotient would be smaller than the divisor, so we stop. If we continued, we would end up only listing the same factors again in reverse order. Listing all the factors from smallest to greatest, we have
+<span class="math-inline">1,2,3,4,6,8,9,12,18,24,36,and 72</span>
+
+
+<div class="tryit">
 **Try It**
 
 
 Find all the factors of the given number:
-\(96\)
+<span class="math-inline">96</span>
 
 
 1, 2, 3, 4, 6, 8, 12, 16, 24, 32, 48, 96
 
 
+<div class="tryit">
 **Try It**
 
 
 Find all the factors of the given number:
-\(80\)
+<span class="math-inline">80</span>
 
 
 1, 2, 4, 5, 8, 10, 16, 20, 40, 80
 
 
+---
+
+
+---
+
 ## Identify Prime and Composite Numbers
 
-Some numbers, like \(72,\) have many factors. Other numbers, such as \(7,\) have only two factors: \(1\) and the number. A number with only two factors is called a **prime number**. A number with more than two factors is called a **composite number**. The number \(1\) is neither prime nor composite. It has only one factor, itself.
+
+Some numbers, like <span class="math-inline">72,</span> have many factors. Other numbers, such as <span class="math-inline">7,</span> have only two factors: <span class="math-inline">1</span> and the number. A number with only two factors is called a **prime number**. A number with more than two factors is called a **composite number**. The number <span class="math-inline">1</span> is neither prime nor composite. It has only one factor, itself.
 
 
-**Prime Numbers and Composite Numbers**
+<div class="definition-label">**Prime Numbers and Composite Numbers**</div>
 
-A prime number is a counting number greater than \(1\) whose only factors are \(1\) and itself.
+
+A prime number is a counting number greater than <span class="math-inline">1</span> whose only factors are <span class="math-inline">1</span> and itself.
 
 A composite number is a counting number that is not prime.
 
- lists the counting numbers from \(2\) through \(20\) along with their factors. The highlighted numbers are prime, since each has only two factors.
+ lists the counting numbers from <span class="math-inline">2</span> through <span class="math-inline">20</span> along with their factors. The highlighted numbers are prime, since each has only two factors.
 
 
-*Factors of the counting numbers from \(2\) through \(20,\) with prime numbers highlighted*
+*Factors of the counting numbers from <span class="math-inline">2</span> through <span class="math-inline">20,</span> with prime numbers highlighted*
 
-The prime numbers less than \(20\) are \(2,3,5,7,11,13,17,and 19.\) There are many larger prime numbers too. In order to determine whether a number is prime or composite, we need to see if the number has any factors other than \(1\) and itself. To do this, we can test each of the smaller prime numbers in order to see if it is a factor of the number. If none of the prime numbers are factors, then that number is also prime.
+The prime numbers less than <span class="math-inline">20</span> are <span class="math-inline">2,3,5,7,11,13,17,and 19.</span> There are many larger prime numbers too. In order to determine whether a number is prime or composite, we need to see if the number has any factors other than <span class="math-inline">1</span> and itself. To do this, we can test each of the smaller prime numbers in order to see if it is a factor of the number. If none of the prime numbers are factors, then that number is also prime.
 
 
-**Determine if a number is prime.**
+<div class="definition-label">**Determine if a number is prime.**</div>
+
 
 -  Test each of the primes, in order, to see if it is a factor of the number.
 
--  Start with \(2\) and stop when the quotient is smaller than the divisor or when a prime factor is found.
+-  Start with <span class="math-inline">2</span> and stop when the quotient is smaller than the divisor or when a prime factor is found.
 
 -  If the number has a **prime factor**, then it is a **composite number**. If it has no prime factors, then the number is prime.
 
 
+<div class="example">
 **Example**
 
 
@@ -703,101 +801,107 @@ Identify each number as prime or composite:
 
   -
 ⓐ
-\(83\)
+<span class="math-inline">83</span>
 
   -
 ⓑ
-\(77\)
+<span class="math-inline">77</span>
 
 
-Solution
-ⓐ Test each prime, in order, to see if it is a factor of \(83\), starting with \(2,\) as shown. We will stop when the quotient is smaller than the divisor.
+<div class="solution">
+<span class="def-label">Solution</span>
 
 
-*Prime*
-*Test*
-*Factor of* \(83?\)
-
-
-\(2\)
-Last digit of \(83\) is not \(0,2,4,6,or 8.\)
-No.
-
-
-\(3\)
-\(8+3=11,\) and \(11\) is not divisible by \(3.\)
-No.
-
-
-\(5\)
-The last digit of \(83\) is not \(5\) or \(0.\)
-No.
-
-
-\(7\)
-\(83\div 7=11.857\dots.\)
-No.
-
-
-\(11\)
-\(83\div 11=7.545\dots\)
-No.
-
-
-We can stop when we get to \(11\) because the quotient \((7.545\dots)\) is less than the divisor.
-We did not find any prime numbers that are factors of \(83,\) so we know \(83\) is prime.
-ⓑ Test each prime, in order, to see if it is a factor of \(77.\)
+ⓐ Test each prime, in order, to see if it is a factor of <span class="math-inline">83</span>, starting with <span class="math-inline">2,</span> as shown. We will stop when the quotient is smaller than the divisor.
 
 
 *Prime*
 *Test*
-*Factor of \(77?\)*
+*Factor of* <span class="math-inline">83?</span>
 
 
-\(2\)
-Last digit is not \(0,2,4,6,or 8.\)
+<span class="math-inline">2</span>
+Last digit of <span class="math-inline">83</span> is not <span class="math-inline">0,2,4,6,or 8.</span>
 No.
 
 
-\(3\)
-\(7+7=14,\) and \(14\) is not divisible by \(3.\)
+<span class="math-inline">3</span>
+<span class="math-inline">8+3=11,</span> and <span class="math-inline">11</span> is not divisible by <span class="math-inline">3.</span>
 No.
 
 
-\(5\)
-the last digit is not \(5\) or \(0.\)
+<span class="math-inline">5</span>
+The last digit of <span class="math-inline">83</span> is not <span class="math-inline">5</span> or <span class="math-inline">0.</span>
 No.
 
 
-\(7\)
-\(77\div 7=11\)
+<span class="math-inline">7</span>
+<span class="math-inline">83÷ 7=11.857….</span>
+No.
+
+
+<span class="math-inline">11</span>
+<span class="math-inline">83÷ 11=7.545…</span>
+No.
+
+
+We can stop when we get to <span class="math-inline">11</span> because the quotient <span class="math-inline">(7.545…)</span> is less than the divisor.
+We did not find any prime numbers that are factors of <span class="math-inline">83,</span> so we know <span class="math-inline">83</span> is prime.
+ⓑ Test each prime, in order, to see if it is a factor of <span class="math-inline">77.</span>
+
+
+*Prime*
+*Test*
+*Factor of <span class="math-inline">77?</span>*
+
+
+<span class="math-inline">2</span>
+Last digit is not <span class="math-inline">0,2,4,6,or 8.</span>
+No.
+
+
+<span class="math-inline">3</span>
+<span class="math-inline">7+7=14,</span> and <span class="math-inline">14</span> is not divisible by <span class="math-inline">3.</span>
+No.
+
+
+<span class="math-inline">5</span>
+the last digit is not <span class="math-inline">5</span> or <span class="math-inline">0.</span>
+No.
+
+
+<span class="math-inline">7</span>
+<span class="math-inline">77÷ 7=11</span>
 Yes.
 
 
-Since \(77\) is divisible by \(7,\) we know it is not a prime number. It is composite.
+Since <span class="math-inline">77</span> is divisible by <span class="math-inline">7,</span> we know it is not a prime number. It is composite.
 
 
+<div class="tryit">
 **Try It**
 
 
 Identify the number as prime or composite:
-\(91\)
+<span class="math-inline">91</span>
 
 
 composite
 
 
+<div class="tryit">
 **Try It**
 
 
 Identify the number as prime or composite:
-\(137\)
+<span class="math-inline">137</span>
 
 
 prime
 
 
-**ACCESS ADDITIONAL ONLINE RESOURCES**
+<div class="definition-label">**ACCESS ADDITIONAL ONLINE RESOURCES**</div>
+
 
 - Divisibility Rules
 
@@ -810,10 +914,15 @@ prime
 - Ex 3: Determine Factors of a Number
 
 
+---
+
+
+---
+
 ## Key Concepts
 
 
-- *Factors*   If \(a\cdot b=m\), then \(a\)  and  \(b\) are factors of \(m\), and \(m\) is the product of \(a\)  and \(b\).
+- *Factors*   If <span class="math-inline">a· b=m</span>, then <span class="math-inline">a</span>  and  <span class="math-inline">b</span> are factors of <span class="math-inline">m</span>, and <span class="math-inline">m</span> is the product of <span class="math-inline">a</span>  and <span class="math-inline">b</span>.
 
 - *Find all the factors of a counting number.*
 
@@ -835,138 +944,138 @@ prime
 
 *Identify Multiples of Numbers*
 
-In the following exercises, list all the multiples less than \(50\) for the given number.
+In the following exercises, list all the multiples less than <span class="math-inline">50</span> for the given number.
 
 
-\(2\)
+<span class="math-inline">2</span>
 
 
 2, 4, 6, 8, 10 12, 14, 16, 18, 20, 22, 24, 26, 28, 30, 32, 34, 36, 38, 40, 42, 44, 46, 48
 
 
-\(3\)
+<span class="math-inline">3</span>
 
 
-\(4\)
+<span class="math-inline">4</span>
 
 
 4, 8, 12, 16, 20, 24, 28, 32, 36, 40, 44, 48
 
 
-\(5\)
+<span class="math-inline">5</span>
 
 
-\(6\)
+<span class="math-inline">6</span>
 
 
 6, 12, 18, 24, 30, 36, 42, 48
 
 
-\(7\)
+<span class="math-inline">7</span>
 
 
-\(8\)
+<span class="math-inline">8</span>
 
 
 8, 16, 24, 32, 40, 48
 
 
-\(9\)
+<span class="math-inline">9</span>
 
 
-\(10\)
+<span class="math-inline">10</span>
 
 
 10, 20, 30, 40
 
 
-\(12\)
+<span class="math-inline">12</span>
 
 
 *Use Common Divisibility Tests*
 
-In the following exercises, use the divisibility tests to determine whether each number is divisible by \(2,3,4,5,6,and 10.\)
+In the following exercises, use the divisibility tests to determine whether each number is divisible by <span class="math-inline">2,3,4,5,6,and 10.</span>
 
 
-\(84\)
+<span class="math-inline">84</span>
 
 
 Divisible by 2, 3, 4, 6
 
 
-\(96\)
+<span class="math-inline">96</span>
 
 
-\(75\)
+<span class="math-inline">75</span>
 
 
 Divisible by 3, 5
 
 
-\(78\)
+<span class="math-inline">78</span>
 
 
-\(168\)
+<span class="math-inline">168</span>
 
 
 Divisible by 2, 3, 4, 6
 
 
-\(264\)
+<span class="math-inline">264</span>
 
 
-\(900\)
+<span class="math-inline">900</span>
 
 
 Divisible by 2, 3, 4, 5, 6, 10
 
 
-\(800\)
+<span class="math-inline">800</span>
 
 
-\(896\)
+<span class="math-inline">896</span>
 
 
 Divisible by 2, 4
 
 
-\(942\)
+<span class="math-inline">942</span>
 
 
-\(375\)
-
-
-Divisible by 3, 5
-
-
-\(750\)
-
-
-\(350\)
-
-
-Divisible by 2, 5, 10
-
-
-\(550\)
-
-
-\(1430\)
-
-
-Divisible by 2, 5, 10
-
-
-\(1080\)
-
-
-\(22,335\)
+<span class="math-inline">375</span>
 
 
 Divisible by 3, 5
 
 
-\(39,075\)
+<span class="math-inline">750</span>
+
+
+<span class="math-inline">350</span>
+
+
+Divisible by 2, 5, 10
+
+
+<span class="math-inline">550</span>
+
+
+<span class="math-inline">1430</span>
+
+
+Divisible by 2, 5, 10
+
+
+<span class="math-inline">1080</span>
+
+
+<span class="math-inline">22,335</span>
+
+
+Divisible by 3, 5
+
+
+<span class="math-inline">39,075</span>
 
 
 *Find All the Factors of a Number*
@@ -974,40 +1083,40 @@ Divisible by 3, 5
 In the following exercises, find all the factors of the given number.
 
 
-\(36\)
+<span class="math-inline">36</span>
 
 
 1, 2, 3, 4, 6, 9, 12, 18, 36
 
 
-\(42\)
+<span class="math-inline">42</span>
 
 
-\(60\)
+<span class="math-inline">60</span>
 
 
 1, 2, 3, 4, 5, 6, 10, 12, 15, 20, 30, 60
 
 
-\(48\)
+<span class="math-inline">48</span>
 
 
-\(144\)
+<span class="math-inline">144</span>
 
 
 1, 2, 3, 4, 6, 8, 9, 12, 16, 18, 24, 36, 48, 72,144
 
 
-\(200\)
+<span class="math-inline">200</span>
 
 
-\(588\)
+<span class="math-inline">588</span>
 
 
 1, 2, 3, 4, 6, 7, 12, 14, 21, 28, 42, 49, 84, 98, 147, 196, 294, 588
 
 
-\(576\)
+<span class="math-inline">576</span>
 
 
 *Identify Prime and Composite Numbers*
@@ -1015,64 +1124,64 @@ In the following exercises, find all the factors of the given number.
 In the following exercises, determine if the given number is prime or composite.
 
 
-\(43\)
+<span class="math-inline">43</span>
 
 
 prime
 
 
-\(67\)
+<span class="math-inline">67</span>
 
 
-\(39\)
+<span class="math-inline">39</span>
 
 
 composite
 
 
-\(53\)
+<span class="math-inline">53</span>
 
 
-\(71\)
+<span class="math-inline">71</span>
 
 
 prime
 
 
-\(119\)
+<span class="math-inline">119</span>
 
 
-\(481\)
-
-
-composite
-
-
-\(221\)
-
-
-\(209\)
+<span class="math-inline">481</span>
 
 
 composite
 
 
-\(359\)
+<span class="math-inline">221</span>
 
 
-\(667\)
+<span class="math-inline">209</span>
 
 
 composite
 
 
-\(1771\)
+<span class="math-inline">359</span>
+
+
+<span class="math-inline">667</span>
+
+
+composite
+
+
+<span class="math-inline">1771</span>
 
 
 ### Everyday Math
 
 
-*Banking* Frank’s grandmother gave him \($100\) at his high school graduation. Instead of spending it, Frank opened a bank account. Every week, he added \($15\) to the account. The table shows how much money Frank had put in the account by the end of each week. Complete the table by filling in the blanks.
+*Banking* Frank’s grandmother gave him <span class="math-inline">$100</span> at his high school graduation. Instead of spending it, Frank opened a bank account. Every week, he added <span class="math-inline">$15</span> to the account. The table shows how much money Frank had put in the account by the end of each week. Complete the table by filling in the blanks.
 
 
 *Weeks after graduation*
@@ -1080,43 +1189,43 @@ composite
 *Simplified Total*
 
 
-\(0\)
-\(100\)
-\(100\)
+<span class="math-inline">0</span>
+<span class="math-inline">100</span>
+<span class="math-inline">100</span>
 
 
-\(1\)
-\(100+15\)
-\(115\)
+<span class="math-inline">1</span>
+<span class="math-inline">100+15</span>
+<span class="math-inline">115</span>
 
 
-\(2\)
-\(100+15\cdot 2\)
-\(130\)
+<span class="math-inline">2</span>
+<span class="math-inline">100+15· 2</span>
+<span class="math-inline">130</span>
 
 
-\(3\)
-\(100+15\cdot 3\)
+<span class="math-inline">3</span>
+<span class="math-inline">100+15· 3</span>
 
 
-\(4\)
-\(100+15\cdot [ ]\)
+<span class="math-inline">4</span>
+<span class="math-inline">100+15· [ ]</span>
 
 
-\(5\)
-\(100+[ ]\)
+<span class="math-inline">5</span>
+<span class="math-inline">100+[ ]</span>
 
 
-\(6\)
+<span class="math-inline">6</span>
 
 
-\(20\)
+<span class="math-inline">20</span>
 
 
-\(x\)
+<span class="math-inline">x</span>
 
 
-*Banking* In March, Gina opened a Christmas club savings account at her bank. She deposited \($75\) to open the account. Every week, she added \($20\) to the account. The table shows how much money Gina had put in the account by the end of each week. Complete the table by filling in the blanks.
+*Banking* In March, Gina opened a Christmas club savings account at her bank. She deposited <span class="math-inline">$75</span> to open the account. Every week, she added <span class="math-inline">$20</span> to the account. The table shows how much money Gina had put in the account by the end of each week. Complete the table by filling in the blanks.
 
 
 *Weeks after opening the account*
@@ -1124,46 +1233,46 @@ composite
 *Simplified Total*
 
 
-\(0\)
-\(75\)
-\(75\)
+<span class="math-inline">0</span>
+<span class="math-inline">75</span>
+<span class="math-inline">75</span>
 
 
-\(1\)
-\(75+20\)
-\(95\)
+<span class="math-inline">1</span>
+<span class="math-inline">75+20</span>
+<span class="math-inline">95</span>
 
 
-\(2\)
-\(75+20\cdot 2\)
-\(115\)
+<span class="math-inline">2</span>
+<span class="math-inline">75+20· 2</span>
+<span class="math-inline">115</span>
 
 
-\(3\)
-\(75+20\cdot 3\)
+<span class="math-inline">3</span>
+<span class="math-inline">75+20· 3</span>
 
 
-\(4\)
-\(75+20\cdot [ ]\)
+<span class="math-inline">4</span>
+<span class="math-inline">75+20· [ ]</span>
 
 
-\(5\)
-\(75+[ ]\)
+<span class="math-inline">5</span>
+<span class="math-inline">75+[ ]</span>
 
 
-\(6\)
+<span class="math-inline">6</span>
 
 
-\(20\)
+<span class="math-inline">20</span>
 
 
-\(x\)
+<span class="math-inline">x</span>
 
 
 ### Writing Exercises
 
 
-If a number is divisible by \(2\) and by \(3,\) why is it also divisible by \(6?\)
+If a number is divisible by <span class="math-inline">2</span> and by <span class="math-inline">3,</span> why is it also divisible by <span class="math-inline">6?</span>
 
 
 What is the difference between prime numbers and composite numbers?
@@ -1177,30 +1286,101 @@ What is the difference between prime numbers and composite numbers?
 ⓑ On a scale of 1–10, how would you rate your mastery of this section in light of your responses on the checklist? How can you improve this?
 
 
+<div class="prep-quiz">
 **Be Prepared!**
+
 
 Before you get started, take this readiness quiz.
 
 
-Is \(810\) divisible by \(2,3,5,6,or 10?\)
+Is <span class="math-inline">810</span> divisible by <span class="math-inline">2,3,5,6,or 10?</span>
 If you missed this problem, review .
 
 
-\(2,3,5,6,10\)
+<span class="math-inline">2,3,5,6,10</span>
 
 
+<div class="prep-quiz">
 **Be Prepared!**
 
 
-Is \(127\) prime or composite?
+Is <span class="math-inline">127</span> prime or composite?
 If you missed this problem, review .
 
 
 prime
 
 
-Write \(2\cdot 2\cdot 2\cdot 2\) in exponential notation.
+Write <span class="math-inline">2· 2· 2· 2</span> in exponential notation.
 If you missed this problem, review .
 
 
-\(2^4\)
+<span class="math-inline">2<sup>4</sup></span>
+
+</div>
+
+</div>
+
+</div>
+
+</div>
+
+</div>
+
+</div>
+
+</div>
+
+</div>
+
+</div>
+
+</div>
+
+</div>
+
+</div>
+
+</div>
+
+</div>
+
+</div>
+
+</div>
+
+</div>
+
+</div>
+
+</div>
+
+</div>
+
+</div>
+
+</div>
+
+</div>
+
+</div>
+
+</div>
+
+</div>
+
+</div>
+
+</div>
+
+</div>
+
+</div>
+
+</div>
+
+</div>
+
+</div>
+
+</div>

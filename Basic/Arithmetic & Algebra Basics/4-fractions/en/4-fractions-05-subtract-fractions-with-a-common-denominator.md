@@ -1,202 +1,286 @@
+<style>
+.math-inline {
+    font-style: italic;
+    padding: 2px 6px;
+    border-radius: 4px;
+    background: #f8f9fa;
+    font-family: Georgia, serif;
+}
+.math-display {
+    background: #f8f9fa;
+    border-left: 4px solid #4a90d9;
+    padding: 16px 20px;
+    margin: 16px 0;
+    border-radius: 6px;
+    font-size: 1.15em;
+    font-family: Georgia, serif;
+    text-align: center;
+    line-height: 2;
+    overflow-x: auto;
+}
+.example-box, .example {
+    background: #f0f8ff;
+    border-left: 4px solid #2e86de;
+    padding: 12px 20px;
+    margin: 16px 0;
+    border-radius: 6px;
+}
+.tryit-box, .tryit {
+    background: #f0fff4;
+    border-left: 4px solid #27ae60;
+    padding: 12px 20px;
+    margin: 16px 0;
+    border-radius: 6px;
+}
+.solution-box, .solution {
+    background: #fef9e7;
+    border-left: 4px solid #f39c12;
+    padding: 12px 20px;
+    margin: 12px 0;
+    border-radius: 6px;
+}
+.check-box, .check {
+    background: #fef9e7;
+    border-left: 4px solid #f39c12;
+    padding: 12px 20px;
+    margin: 12px 0;
+    border-radius: 6px;
+}
+.prep-quiz {
+    background: #fff3cd;
+    border: 1px solid #ffc107;
+    padding: 12px 20px;
+    margin: 16px 0;
+    border-radius: 6px;
+}
+.def-label, .definition-label {
+    font-weight: bold;
+    font-size: 1.1em;
+    margin: 20px 0 8px 0;
+    color: #2c3e50;
+    display: block;
+}
+.math-display sup, .math-inline sup { font-size: 0.75em; line-height: 0; }
+.math-display sub, .math-inline sub { font-size: 0.75em; line-height: 0; }
+</style>
+
+
+---
+
+
+---
+
 ## Subtract Fractions with a Common Denominator
+
 
 We subtract fractions with a common **denominator** in much the same way as we add fractions with a common denominator.
 
 
-**Fraction Subtraction**
-
-If \(a,b,\) and \(c\) are numbers where \(c\ne 0,\) then
+<div class="definition-label">**Fraction Subtraction**</div>
 
 
-$$
-\frac{a}{c}-\frac{b}{c}=\frac{a-b}{c}
-$$
+If <span class="math-inline">a,b,</span> and <span class="math-inline">c</span> are numbers where <span class="math-inline">c≠ 0,</span> then
+
+
+<div class="math-display">
+<sup>a</sup>∕<sub>c</sub>-<sup>b</sup>∕<sub>c</sub>=<sup>a-b</sup>∕<sub>c</sub>
+</div>
+
 
 To subtract fractions with a common denominator, we subtract the numerators and place the difference over the common denominator.
 
 
+<div class="example">
 **Example**
 
 
-Find the difference: \(\frac{23}{24}-\frac{14}{24}.\)
+Find the difference: <span class="math-inline"><sup>23</sup>∕<sub>24</sub>-<sup>14</sup>∕<sub>24</sub>.</span>
 
 
-Solution
+<div class="solution">
+<span class="def-label">Solution</span>
 
 
-
-
-   \(\frac{23}{24}-\frac{14}{24}\)
+   <span class="math-inline"><sup>23</sup>∕<sub>24</sub>-<sup>14</sup>∕<sub>24</sub></span>
 
 
    Subtract the numerators and place the difference over the common denominator.
-   \(\frac{23-14}{24}\)
+   <span class="math-inline"><sup>23-14</sup>∕<sub>24</sub></span>
 
 
    Simplify the numerator.
-   \(\frac{9}{24}\)
+   <span class="math-inline"><sup>9</sup>∕<sub>24</sub></span>
 
 
    Simplify the fraction by removing common factors.
-   \(\frac{3}{8}\)
+   <span class="math-inline"><sup>3</sup>∕<sub>8</sub></span>
 
 
-
+<div class="tryit">
 **Try It**
 
 
-Find the difference: \(\frac{19}{28}-\frac{7}{28}.\)
+Find the difference: <span class="math-inline"><sup>19</sup>∕<sub>28</sub>-<sup>7</sup>∕<sub>28</sub>.</span>
 
 
-\(\frac{3}{7}\)
+<span class="math-inline"><sup>3</sup>∕<sub>7</sub></span>
 
 
+<div class="tryit">
 **Try It**
 
 
-Find the difference: \(\frac{27}{32}-\frac{11}{32}.\)
+Find the difference: <span class="math-inline"><sup>27</sup>∕<sub>32</sub>-<sup>11</sup>∕<sub>32</sub>.</span>
 
 
-\(\frac{1}{2}\)
+<span class="math-inline"><sup>1</sup>∕<sub>2</sub></span>
 
 
+<div class="example">
 **Example**
 
 
-Find the difference: \(\frac{y}{6}-\frac{1}{6}.\)
+Find the difference: <span class="math-inline"><sup>y</sup>∕<sub>6</sub>-<sup>1</sup>∕<sub>6</sub>.</span>
 
 
-Solution
+<div class="solution">
+<span class="def-label">Solution</span>
 
 
-
-
-   \(\frac{y}{6}-\frac{1}{6}\)
+   <span class="math-inline"><sup>y</sup>∕<sub>6</sub>-<sup>1</sup>∕<sub>6</sub></span>
 
 
    Subtract the numerators and place the difference over the common denominator.
-   \(\frac{y-1}{6}\)
-
+   <span class="math-inline"><sup>y-1</sup>∕<sub>6</sub></span>
 
 
 The fraction is simplified because we cannot combine the terms in the numerator.
 
 
+<div class="tryit">
 **Try It**
 
 
-Find the difference: \(\frac{x}{7}-\frac{2}{7}.\)
+Find the difference: <span class="math-inline"><sup>x</sup>∕<sub>7</sub>-<sup>2</sup>∕<sub>7</sub>.</span>
 
 
-\(\frac{x-2}{7}\)
+<span class="math-inline"><sup>x-2</sup>∕<sub>7</sub></span>
 
 
+<div class="tryit">
 **Try It**
 
 
-Find the difference: \(\frac{y}{14}-\frac{13}{14}.\)
+Find the difference: <span class="math-inline"><sup>y</sup>∕<sub>14</sub>-<sup>13</sup>∕<sub>14</sub>.</span>
 
 
-\(\frac{y-13}{14}\)
+<span class="math-inline"><sup>y-13</sup>∕<sub>14</sub></span>
 
 
+<div class="example">
 **Example**
 
 
-Find the difference: \(-\frac{10}{x}-\frac{4}{x}.\)
+Find the difference: <span class="math-inline">-<sup>10</sup>∕<sub>x</sub>-<sup>4</sup>∕<sub>x</sub>.</span>
 
 
-Solution
-Remember, the fraction \(-\frac{10}{x}\) can be written as \(\frac{−10}{x}.\)
+<div class="solution">
+<span class="def-label">Solution</span>
 
 
+Remember, the fraction <span class="math-inline">-<sup>10</sup>∕<sub>x</sub></span> can be written as <span class="math-inline"><sup>−10</sup>∕<sub>x</sub>.</span>
 
 
-   \(-\frac{10}{x}-\frac{4}{x}\)
+   <span class="math-inline">-<sup>10</sup>∕<sub>x</sub>-<sup>4</sup>∕<sub>x</sub></span>
 
 
    Subtract the numerators.
-   \(\frac{−10-4}{x}\)
+   <span class="math-inline"><sup>−10-4</sup>∕<sub>x</sub></span>
 
 
    Simplify.
-   \(\frac{−14}{x}\)
+   <span class="math-inline"><sup>−14</sup>∕<sub>x</sub></span>
 
 
    Rewrite with the negative sign in front of the fraction.
-   \(-\frac{14}{x}\)
+   <span class="math-inline">-<sup>14</sup>∕<sub>x</sub></span>
 
 
+<div class="tryit">
 **Try It**
 
 
-Find the difference: \(-\frac{9}{x}-\frac{7}{x}.\)
+Find the difference: <span class="math-inline">-<sup>9</sup>∕<sub>x</sub>-<sup>7</sup>∕<sub>x</sub>.</span>
 
 
-\(-\frac{16}{x}\)
+<span class="math-inline">-<sup>16</sup>∕<sub>x</sub></span>
 
 
+<div class="tryit">
 **Try It**
 
 
-Find the difference: \(-\frac{17}{a}-\frac{5}{a}.\)
+Find the difference: <span class="math-inline">-<sup>17</sup>∕<sub>a</sub>-<sup>5</sup>∕<sub>a</sub>.</span>
 
 
-\(-\frac{22}{a}\)
+<span class="math-inline">-<sup>22</sup>∕<sub>a</sub></span>
 
 
 Now lets do an example that involves both addition and subtraction.
 
 
+<div class="example">
 **Example**
 
 
-Simplify: \(\frac{3}{8}+(-\frac{5}{8})-\frac{1}{8}.\)
+Simplify: <span class="math-inline"><sup>3</sup>∕<sub>8</sub>+(-<sup>5</sup>∕<sub>8</sub>)-<sup>1</sup>∕<sub>8</sub>.</span>
 
 
-Solution
+<div class="solution">
+<span class="def-label">Solution</span>
 
 
-
-
-   \(\frac{3}{8}+(-\frac{5}{8})-\frac{1}{8}\)
+   <span class="math-inline"><sup>3</sup>∕<sub>8</sub>+(-<sup>5</sup>∕<sub>8</sub>)-<sup>1</sup>∕<sub>8</sub></span>
 
 
    Combine the numerators over the common denominator.
-   \(\frac{3+(−5)-1}{8}\)
+   <span class="math-inline"><sup>3+(−5)-1</sup>∕<sub>8</sub></span>
 
 
    Simplify the numerator, working left to right.
-   \(\frac{−2-1}{8}\)
+   <span class="math-inline"><sup>−2-1</sup>∕<sub>8</sub></span>
 
 
    Subtract the terms in the numerator.
-   \(\frac{−3}{8}\)
+   <span class="math-inline"><sup>−3</sup>∕<sub>8</sub></span>
 
 
    Rewrite with the negative sign in front of the fraction.
-   \(-\frac{3}{8}\)
+   <span class="math-inline">-<sup>3</sup>∕<sub>8</sub></span>
 
 
+<div class="tryit">
 **Try It**
 
 
-Simplify: \(\frac{2}{5}+(-\frac{4}{5})-\frac{3}{5}.\)
+Simplify: <span class="math-inline"><sup>2</sup>∕<sub>5</sub>+(-<sup>4</sup>∕<sub>5</sub>)-<sup>3</sup>∕<sub>5</sub>.</span>
 
 
 −1
 
 
+<div class="tryit">
 **Try It**
 
 
-Simplify: \(\frac{5}{9}+(-\frac{4}{9})-\frac{7}{9}.\)
+Simplify: <span class="math-inline"><sup>5</sup>∕<sub>9</sub>+(-<sup>4</sup>∕<sub>9</sub>)-<sup>7</sup>∕<sub>9</sub>.</span>
 
 
-\(-\frac{2}{3}\)
+<span class="math-inline">-<sup>2</sup>∕<sub>3</sub></span>
 
 
-**ACCESS ADDITIONAL ONLINE RESOURCES**
+<div class="definition-label">**ACCESS ADDITIONAL ONLINE RESOURCES**</div>
+
 
 - Adding Fractions With Pattern Blocks
 
@@ -205,14 +289,20 @@ Simplify: \(\frac{5}{9}+(-\frac{4}{9})-\frac{7}{9}.\)
 - Subtracting Fractions With Like Denominators
 
 
+---
+
+
+---
+
 ## Key Concepts
 
+
 - *Fraction Addition*
-  - If \(a,b,\) and \(c\) are numbers where \(c\ne 0\), then \(\frac{a}{c}+\frac{b}{c}=\frac{a+b}{c}\).
+  - If <span class="math-inline">a,b,</span> and <span class="math-inline">c</span> are numbers where <span class="math-inline">c≠ 0</span>, then <span class="math-inline"><sup>a</sup>∕<sub>c</sub>+<sup>b</sup>∕<sub>c</sub>=<sup>a+b</sup>∕<sub>c</sub></span>.
   - To add fractions, add the numerators and place the sum over the common denominator.
 
 - *Fraction Subtraction*
-  - If \(a,b,\) and \(c\) are numbers where \(c\ne 0\), then \(\frac{a}{c}-\frac{b}{c}=\frac{a-b}{c}\).
+  - If <span class="math-inline">a,b,</span> and <span class="math-inline">c</span> are numbers where <span class="math-inline">c≠ 0</span>, then <span class="math-inline"><sup>a</sup>∕<sub>c</sub>-<sup>b</sup>∕<sub>c</sub>=<sup>a-b</sup>∕<sub>c</sub></span>.
   - To subtract fractions, subtract the numerators and place the difference over the common denominator.
 
 
@@ -223,116 +313,116 @@ Simplify: \(\frac{5}{9}+(-\frac{4}{9})-\frac{7}{9}.\)
 In the following exercises, use a model to add the fractions. Show a diagram to illustrate your model.
 
 
-\(\frac{2}{5}+\frac{1}{5}\)
+<span class="math-inline"><sup>2</sup>∕<sub>5</sub>+<sup>1</sup>∕<sub>5</sub></span>
 
 
-\(\frac{3}{10}+\frac{4}{10}\)
+<span class="math-inline"><sup>3</sup>∕<sub>10</sub>+<sup>4</sup>∕<sub>10</sub></span>
 
 
-\(\frac{7}{10}\)
+<span class="math-inline"><sup>7</sup>∕<sub>10</sub></span>
 
 
-\(\frac{1}{6}+\frac{3}{6}\)
+<span class="math-inline"><sup>1</sup>∕<sub>6</sub>+<sup>3</sup>∕<sub>6</sub></span>
 
 
-\(\frac{3}{8}+\frac{3}{8}\)
+<span class="math-inline"><sup>3</sup>∕<sub>8</sub>+<sup>3</sup>∕<sub>8</sub></span>
 
 
-\(\frac{3}{4}\)
+<span class="math-inline"><sup>3</sup>∕<sub>4</sub></span>
 
 *Add Fractions with a Common Denominator*
 
 In the following exercises, find each sum.
 
 
-\(\frac{4}{9}+\frac{1}{9}\)
+<span class="math-inline"><sup>4</sup>∕<sub>9</sub>+<sup>1</sup>∕<sub>9</sub></span>
 
 
-\(\frac{2}{9}+\frac{5}{9}\)
+<span class="math-inline"><sup>2</sup>∕<sub>9</sub>+<sup>5</sup>∕<sub>9</sub></span>
 
 
-\(\frac{7}{9}\)
+<span class="math-inline"><sup>7</sup>∕<sub>9</sub></span>
 
 
-\(\frac{6}{13}+\frac{7}{13}\)
+<span class="math-inline"><sup>6</sup>∕<sub>13</sub>+<sup>7</sup>∕<sub>13</sub></span>
 
 
-\(\frac{9}{15}+\frac{7}{15}\)
+<span class="math-inline"><sup>9</sup>∕<sub>15</sub>+<sup>7</sup>∕<sub>15</sub></span>
 
 
-\(\frac{16}{15}\)
+<span class="math-inline"><sup>16</sup>∕<sub>15</sub></span>
 
 
-\(\frac{x}{4}+\frac{3}{4}\)
+<span class="math-inline"><sup>x</sup>∕<sub>4</sub>+<sup>3</sup>∕<sub>4</sub></span>
 
 
-\(\frac{y}{3}+\frac{2}{3}\)
+<span class="math-inline"><sup>y</sup>∕<sub>3</sub>+<sup>2</sup>∕<sub>3</sub></span>
 
 
-\(\frac{y+2}{3}\)
+<span class="math-inline"><sup>y+2</sup>∕<sub>3</sub></span>
 
 
-\(\frac{7}{p}+\frac{9}{p}\)
+<span class="math-inline"><sup>7</sup>∕<sub>p</sub>+<sup>9</sup>∕<sub>p</sub></span>
 
 
-\(\frac{8}{q}+\frac{6}{q}\)
+<span class="math-inline"><sup>8</sup>∕<sub>q</sub>+<sup>6</sup>∕<sub>q</sub></span>
 
 
-\(\frac{14}{q}\)
+<span class="math-inline"><sup>14</sup>∕<sub>q</sub></span>
 
 
-\(\frac{8b}{9}+\frac{3b}{9}\)
+<span class="math-inline"><sup>8b</sup>∕<sub>9</sub>+<sup>3b</sup>∕<sub>9</sub></span>
 
 
-\(\frac{5a}{7}+\frac{4a}{7}\)
+<span class="math-inline"><sup>5a</sup>∕<sub>7</sub>+<sup>4a</sup>∕<sub>7</sub></span>
 
 
-\(\frac{9a}{7}\)
+<span class="math-inline"><sup>9a</sup>∕<sub>7</sub></span>
 
 
-\(\frac{−12y}{8}+\frac{3y}{8}\)
+<span class="math-inline"><sup>−12y</sup>∕<sub>8</sub>+<sup>3y</sup>∕<sub>8</sub></span>
 
 
-\(\frac{−11x}{5}+\frac{7x}{5}\)
+<span class="math-inline"><sup>−11x</sup>∕<sub>5</sub>+<sup>7x</sup>∕<sub>5</sub></span>
 
 
-\(\frac{−4x}{5}\)
+<span class="math-inline"><sup>−4x</sup>∕<sub>5</sub></span>
 
 
-\(-\frac{1}{8}+(-\frac{3}{8})\)
+<span class="math-inline">-<sup>1</sup>∕<sub>8</sub>+(-<sup>3</sup>∕<sub>8</sub>)</span>
 
 
-\(-\frac{1}{8}+(-\frac{5}{8})\)
+<span class="math-inline">-<sup>1</sup>∕<sub>8</sub>+(-<sup>5</sup>∕<sub>8</sub>)</span>
 
 
-\(-\frac{3}{4}\)
+<span class="math-inline">-<sup>3</sup>∕<sub>4</sub></span>
 
 
-\(-\frac{3}{16}+(-\frac{7}{16})\)
+<span class="math-inline">-<sup>3</sup>∕<sub>16</sub>+(-<sup>7</sup>∕<sub>16</sub>)</span>
 
 
-\(-\frac{5}{16}+(-\frac{9}{16})\)
+<span class="math-inline">-<sup>5</sup>∕<sub>16</sub>+(-<sup>9</sup>∕<sub>16</sub>)</span>
 
 
-\(-\frac{7}{8}\)
+<span class="math-inline">-<sup>7</sup>∕<sub>8</sub></span>
 
 
-\(-\frac{8}{17}+\frac{15}{17}\)
+<span class="math-inline">-<sup>8</sup>∕<sub>17</sub>+<sup>15</sup>∕<sub>17</sub></span>
 
 
-\(-\frac{9}{19}+\frac{17}{19}\)
+<span class="math-inline">-<sup>9</sup>∕<sub>19</sub>+<sup>17</sup>∕<sub>19</sub></span>
 
 
-\(\frac{8}{19}\)
+<span class="math-inline"><sup>8</sup>∕<sub>19</sub></span>
 
 
-\(\frac{6}{13}+(-\frac{10}{13})+(-\frac{12}{13})\)
+<span class="math-inline"><sup>6</sup>∕<sub>13</sub>+(-<sup>10</sup>∕<sub>13</sub>)+(-<sup>12</sup>∕<sub>13</sub>)</span>
 
 
-\(\frac{5}{12}+(-\frac{7}{12})+(-\frac{11}{12})\)
+<span class="math-inline"><sup>5</sup>∕<sub>12</sub>+(-<sup>7</sup>∕<sub>12</sub>)+(-<sup>11</sup>∕<sub>12</sub>)</span>
 
 
-\(-\frac{13}{12}\)
+<span class="math-inline">-<sup>13</sup>∕<sub>12</sub></span>
 
 
 *Model Fraction Subtraction*
@@ -340,125 +430,125 @@ In the following exercises, find each sum.
 In the following exercises, use a model to subtract the fractions. Show a diagram to illustrate your model.
 
 
-\(\frac{5}{8}-\frac{2}{8}\)
+<span class="math-inline"><sup>5</sup>∕<sub>8</sub>-<sup>2</sup>∕<sub>8</sub></span>
 
 
-\(\frac{5}{6}-\frac{2}{6}\)
+<span class="math-inline"><sup>5</sup>∕<sub>6</sub>-<sup>2</sup>∕<sub>6</sub></span>
 
 
-\(\frac{1}{2}\)
+<span class="math-inline"><sup>1</sup>∕<sub>2</sub></span>
 
 *Subtract Fractions with a Common Denominator*
 
 In the following exercises, find the difference.
 
 
-\(\frac{4}{5}-\frac{1}{5}\)
+<span class="math-inline"><sup>4</sup>∕<sub>5</sub>-<sup>1</sup>∕<sub>5</sub></span>
 
 
-\(\frac{4}{5}-\frac{3}{5}\)
+<span class="math-inline"><sup>4</sup>∕<sub>5</sub>-<sup>3</sup>∕<sub>5</sub></span>
 
 
-\(\frac{1}{5}\)
+<span class="math-inline"><sup>1</sup>∕<sub>5</sub></span>
 
 
-\(\frac{11}{15}-\frac{7}{15}\)
+<span class="math-inline"><sup>11</sup>∕<sub>15</sub>-<sup>7</sup>∕<sub>15</sub></span>
 
 
-\(\frac{9}{13}-\frac{4}{13}\)
+<span class="math-inline"><sup>9</sup>∕<sub>13</sub>-<sup>4</sup>∕<sub>13</sub></span>
 
 
-\(\frac{5}{13}\)
+<span class="math-inline"><sup>5</sup>∕<sub>13</sub></span>
 
 
-\(\frac{11}{12}-\frac{5}{12}\)
+<span class="math-inline"><sup>11</sup>∕<sub>12</sub>-<sup>5</sup>∕<sub>12</sub></span>
 
 
-\(\frac{7}{12}-\frac{5}{12}\)
+<span class="math-inline"><sup>7</sup>∕<sub>12</sub>-<sup>5</sup>∕<sub>12</sub></span>
 
 
-\(\frac{1}{6}\)
+<span class="math-inline"><sup>1</sup>∕<sub>6</sub></span>
 
 
-\(\frac{4}{21}-\frac{19}{21}\)
+<span class="math-inline"><sup>4</sup>∕<sub>21</sub>-<sup>19</sup>∕<sub>21</sub></span>
 
 
-\(-\frac{8}{9}-\frac{16}{9}\)
+<span class="math-inline">-<sup>8</sup>∕<sub>9</sub>-<sup>16</sup>∕<sub>9</sub></span>
 
 
-\(-\frac{8}{3}\)
+<span class="math-inline">-<sup>8</sup>∕<sub>3</sub></span>
 
 
-\(\frac{y}{17}-\frac{9}{17}\)
+<span class="math-inline"><sup>y</sup>∕<sub>17</sub>-<sup>9</sup>∕<sub>17</sub></span>
 
 
-\(\frac{x}{19}-\frac{8}{19}\)
+<span class="math-inline"><sup>x</sup>∕<sub>19</sub>-<sup>8</sup>∕<sub>19</sub></span>
 
 
-\(\frac{x-8}{19}\)
+<span class="math-inline"><sup>x-8</sup>∕<sub>19</sub></span>
 
 
-\(\frac{5y}{8}-\frac{7}{8}\)
+<span class="math-inline"><sup>5y</sup>∕<sub>8</sub>-<sup>7</sup>∕<sub>8</sub></span>
 
 
-\(\frac{11z}{13}-\frac{8}{13}\)
+<span class="math-inline"><sup>11z</sup>∕<sub>13</sub>-<sup>8</sup>∕<sub>13</sub></span>
 
 
-\(\frac{11z-8}{13}\)
+<span class="math-inline"><sup>11z-8</sup>∕<sub>13</sub></span>
 
 
-\(-\frac{8}{d}-\frac{3}{d}\)
+<span class="math-inline">-<sup>8</sup>∕<sub>d</sub>-<sup>3</sup>∕<sub>d</sub></span>
 
 
-\(-\frac{7}{c}-\frac{7}{c}\)
+<span class="math-inline">-<sup>7</sup>∕<sub>c</sub>-<sup>7</sup>∕<sub>c</sub></span>
 
 
-\(-\frac{14}{c}\)
+<span class="math-inline">-<sup>14</sup>∕<sub>c</sub></span>
 
 
-\(-\frac{23}{u}-\frac{15}{u}\)
+<span class="math-inline">-<sup>23</sup>∕<sub>u</sub>-<sup>15</sup>∕<sub>u</sub></span>
 
 
-\(-\frac{29}{v}-\frac{26}{v}\)
+<span class="math-inline">-<sup>29</sup>∕<sub>v</sub>-<sup>26</sup>∕<sub>v</sub></span>
 
 
-\(-\frac{55}{v}\)
+<span class="math-inline">-<sup>55</sup>∕<sub>v</sub></span>
 
 
-\(\frac{6c}{7}-\frac{5c}{7}\)
+<span class="math-inline"><sup>6c</sup>∕<sub>7</sub>-<sup>5c</sup>∕<sub>7</sub></span>
 
 
-\(\frac{12d}{11}-\frac{9d}{11}\)
+<span class="math-inline"><sup>12d</sup>∕<sub>11</sub>-<sup>9d</sup>∕<sub>11</sub></span>
 
 
-\(\frac{3d}{11}\)
+<span class="math-inline"><sup>3d</sup>∕<sub>11</sub></span>
 
 
-\(\frac{−4r}{13}-\frac{5r}{13}\)
+<span class="math-inline"><sup>−4r</sup>∕<sub>13</sub>-<sup>5r</sup>∕<sub>13</sub></span>
 
 
-\(\frac{−7s}{3}-\frac{7s}{3}\)
+<span class="math-inline"><sup>−7s</sup>∕<sub>3</sub>-<sup>7s</sup>∕<sub>3</sub></span>
 
 
-\(-\frac{14s}{3}\)
+<span class="math-inline">-<sup>14s</sup>∕<sub>3</sub></span>
 
 
-\(-\frac{3}{5}-(-\frac{4}{5})\)
+<span class="math-inline">-<sup>3</sup>∕<sub>5</sub>-(-<sup>4</sup>∕<sub>5</sub>)</span>
 
 
-\(-\frac{3}{7}-(-\frac{5}{7})\)
+<span class="math-inline">-<sup>3</sup>∕<sub>7</sub>-(-<sup>5</sup>∕<sub>7</sub>)</span>
 
 
-\(\frac{2}{7}\)
+<span class="math-inline"><sup>2</sup>∕<sub>7</sub></span>
 
 
-\(-\frac{7}{9}-(-\frac{5}{9})\)
+<span class="math-inline">-<sup>7</sup>∕<sub>9</sub>-(-<sup>5</sup>∕<sub>9</sub>)</span>
 
 
-\(-\frac{8}{11}-(-\frac{5}{11})\)
+<span class="math-inline">-<sup>8</sup>∕<sub>11</sub>-(-<sup>5</sup>∕<sub>11</sub>)</span>
 
 
-\(-\frac{3}{11}\)
+<span class="math-inline">-<sup>3</sup>∕<sub>11</sub></span>
 
 
 *Mixed Practice*
@@ -466,66 +556,66 @@ In the following exercises, find the difference.
 In the following exercises, perform the indicated operation and write your answers in simplified form.
 
 
-\(-\frac{5}{18}\cdot \frac{9}{10}\)
+<span class="math-inline">-<sup>5</sup>∕<sub>18</sub>· <sup>9</sup>∕<sub>10</sub></span>
 
 
-\(-\frac{3}{14}\cdot \frac{7}{12}\)
+<span class="math-inline">-<sup>3</sup>∕<sub>14</sub>· <sup>7</sup>∕<sub>12</sub></span>
 
 
-\(-\frac{1}{8}\)
+<span class="math-inline">-<sup>1</sup>∕<sub>8</sub></span>
 
 
-\(\frac{n}{5}-\frac{4}{5}\)
+<span class="math-inline"><sup>n</sup>∕<sub>5</sub>-<sup>4</sup>∕<sub>5</sub></span>
 
 
-\(\frac{6}{11}-\frac{s}{11}\)
+<span class="math-inline"><sup>6</sup>∕<sub>11</sub>-<sup>s</sup>∕<sub>11</sub></span>
 
 
-\(\frac{6-s}{11}\)
+<span class="math-inline"><sup>6-s</sup>∕<sub>11</sub></span>
 
 
-\(-\frac{7}{24}+\frac{2}{24}\)
+<span class="math-inline">-<sup>7</sup>∕<sub>24</sub>+<sup>2</sup>∕<sub>24</sub></span>
 
 
-\(-\frac{5}{18}+\frac{1}{18}\)
+<span class="math-inline">-<sup>5</sup>∕<sub>18</sub>+<sup>1</sup>∕<sub>18</sub></span>
 
 
-\(-\frac{2}{9}\)
+<span class="math-inline">-<sup>2</sup>∕<sub>9</sub></span>
 
 
-\(\frac{8}{15}\div \frac{12}{5}\)
+<span class="math-inline"><sup>8</sup>∕<sub>15</sub>÷ <sup>12</sup>∕<sub>5</sub></span>
 
 
-\(\frac{7}{12}\div \frac{9}{28}\)
+<span class="math-inline"><sup>7</sup>∕<sub>12</sub>÷ <sup>9</sup>∕<sub>28</sub></span>
 
 
-\(\frac{49}{27}\)
+<span class="math-inline"><sup>49</sup>∕<sub>27</sub></span>
 
 
 ### Everyday Math
 
 
-*Trail Mix* Jacob is mixing together nuts and raisins to make trail mix. He has \(\frac{6}{10}\) of a pound of nuts and \(\frac{3}{10}\) of a pound of raisins. How much trail mix can he make?
+*Trail Mix* Jacob is mixing together nuts and raisins to make trail mix. He has <span class="math-inline"><sup>6</sup>∕<sub>10</sub></span> of a pound of nuts and <span class="math-inline"><sup>3</sup>∕<sub>10</sub></span> of a pound of raisins. How much trail mix can he make?
 
 
-*Baking* Janet needs \(\frac{5}{8}\) of a cup of flour for a recipe she is making. She only has \(\frac{3}{8}\) of a cup of flour and will ask to borrow the rest from her next-door neighbor. How much flour does she have to borrow?
+*Baking* Janet needs <span class="math-inline"><sup>5</sup>∕<sub>8</sub></span> of a cup of flour for a recipe she is making. She only has <span class="math-inline"><sup>3</sup>∕<sub>8</sub></span> of a cup of flour and will ask to borrow the rest from her next-door neighbor. How much flour does she have to borrow?
 
 
-\(\frac{1}{4}\) cup
+<span class="math-inline"><sup>1</sup>∕<sub>4</sub></span> cup
 
 
 ### Writing Exercises
 
 
 Greg dropped his case of drill bits and three of the bits fell out. The case has slots for the drill bits, and the slots are arranged in order from smallest to largest. Greg needs to put the bits that fell out back in the case in the empty slots. Where do the three bits go? Explain how you know.
- Bits in case: \(\frac{1}{16}\), \(\frac{1}{8}\), ___, ___, \(\frac{5}{16}\), \(\frac{3}{8}\), ___, \(\frac{1}{2}\), \(\frac{9}{16}\), \(\frac{5}{8}\).
-Bits that fell out: \(\frac{7}{16}\), \(\frac{3}{16}\), \(\frac{1}{4}\).
+ Bits in case: <span class="math-inline"><sup>1</sup>∕<sub>16</sub></span>, <span class="math-inline"><sup>1</sup>∕<sub>8</sub></span>, ___, ___, <span class="math-inline"><sup>5</sup>∕<sub>16</sub></span>, <span class="math-inline"><sup>3</sup>∕<sub>8</sub></span>, ___, <span class="math-inline"><sup>1</sup>∕<sub>2</sub></span>, <span class="math-inline"><sup>9</sup>∕<sub>16</sub></span>, <span class="math-inline"><sup>5</sup>∕<sub>8</sub></span>.
+Bits that fell out: <span class="math-inline"><sup>7</sup>∕<sub>16</sub></span>, <span class="math-inline"><sup>3</sup>∕<sub>16</sub></span>, <span class="math-inline"><sup>1</sup>∕<sub>4</sub></span>.
 
 
-After a party, Lupe has \(\frac{5}{12}\) of a cheese pizza, \(\frac{4}{12}\) of a pepperoni pizza, and \(\frac{4}{12}\) of a veggie pizza left. Will all the slices fit into \(1\) pizza box? Explain your reasoning.
+After a party, Lupe has <span class="math-inline"><sup>5</sup>∕<sub>12</sub></span> of a cheese pizza, <span class="math-inline"><sup>4</sup>∕<sub>12</sub></span> of a pepperoni pizza, and <span class="math-inline"><sup>4</sup>∕<sub>12</sub></span> of a veggie pizza left. Will all the slices fit into <span class="math-inline">1</span> pizza box? Explain your reasoning.
 
 
-No, adding up the number of pieces gives \(\frac{13}{12}\), which is greater than 1. (Answers may vary.)
+No, adding up the number of pieces gives <span class="math-inline"><sup>13</sup>∕<sub>12</sub></span>, which is greater than 1. (Answers may vary.)
 
 
 ### Self Check
@@ -536,110 +626,120 @@ No, adding up the number of pieces gives \(\frac{13}{12}\), which is greater tha
 ⓑ On a scale of 1–10, how would you rate your mastery of this section in light of your responses on the checklist? How can you improve this?
 
 
+<div class="prep-quiz">
 **Be Prepared!**
+
 
 Before you get started, take this readiness quiz.
 
 
-Find two fractions equivalent to \(\frac{5}{6}.\)
+Find two fractions equivalent to <span class="math-inline"><sup>5</sup>∕<sub>6</sub>.</span>
 
 If you missed this problem, review .
 
 
-\(\frac{10}{12},\frac{15}{18}\)
+<span class="math-inline"><sup>10</sup>∕<sub>12</sub>,<sup>15</sup>∕<sub>18</sub></span>
 
 
+<div class="prep-quiz">
 **Be Prepared!**
 
 
-Simplify: \(\frac{1+5\cdot 3}{2^2+4}.\)
+Simplify: <span class="math-inline"><sup>1+5· 3</sup>∕<sub>2<sup>2</sup>+4</sub>.</span>
 
 If you missed this problem, review .
 
 
-\(2\)
+<span class="math-inline">2</span>
 
+
+---
+
+
+---
 
 ## Find the Least Common Denominator
 
+
 In the previous section, we explained how to add and subtract fractions with a common denominator. But how can we add and subtract fractions with unlike denominators?
 
-Let’s think about coins again. Can you add one quarter and one dime? You could say there are two coins, but that’s not very useful. To find the total value of one quarter plus one dime, you change them to the same kind of unit—cents. One quarter equals \(25\) cents and one dime equals \(10\) cents, so the sum is \(35\) cents. See .
+Let’s think about coins again. Can you add one quarter and one dime? You could say there are two coins, but that’s not very useful. To find the total value of one quarter plus one dime, you change them to the same kind of unit—cents. One quarter equals <span class="math-inline">25</span> cents and one dime equals <span class="math-inline">10</span> cents, so the sum is <span class="math-inline">35</span> cents. See .
 
 
-*Together, a quarter and a dime are worth \(35\) cents, or \(\frac{35}{100}\) of a dollar.*
+*Together, a quarter and a dime are worth <span class="math-inline">35</span> cents, or <span class="math-inline"><sup>35</sup>∕<sub>100</sub></span> of a dollar.*
 
-Similarly, when we add fractions with different denominators we have to convert them to equivalent fractions with a common denominator. With the coins, when we convert to cents, the denominator is \(100.\) Since there are \(100\) cents in one dollar, \(25\) cents is \(\frac{25}{100}\) and \(10\) cents is \(\frac{10}{100}.\) So we add \(\frac{25}{100}+\frac{10}{100}\) to get \(\frac{35}{100},\) which is \(35\) cents.
+Similarly, when we add fractions with different denominators we have to convert them to equivalent fractions with a common denominator. With the coins, when we convert to cents, the denominator is <span class="math-inline">100.</span> Since there are <span class="math-inline">100</span> cents in one dollar, <span class="math-inline">25</span> cents is <span class="math-inline"><sup>25</sup>∕<sub>100</sub></span> and <span class="math-inline">10</span> cents is <span class="math-inline"><sup>10</sup>∕<sub>100</sub>.</span> So we add <span class="math-inline"><sup>25</sup>∕<sub>100</sub>+<sup>10</sup>∕<sub>100</sub></span> to get <span class="math-inline"><sup>35</sup>∕<sub>100</sub>,</span> which is <span class="math-inline">35</span> cents.
 
 You have practiced adding and subtracting fractions with common denominators. Now let’s see what you need to do with fractions that have different denominators.
 
-First, we will use fraction tiles to model finding the common denominator of \(\frac{1}{2}\) and \(\frac{1}{3}.\)
+First, we will use fraction tiles to model finding the common denominator of <span class="math-inline"><sup>1</sup>∕<sub>2</sub></span> and <span class="math-inline"><sup>1</sup>∕<sub>3</sub>.</span>
 
-We’ll start with one \(\frac{1}{2}\) tile and \(\frac{1}{3}\) tile. We want to find a common fraction tile that we can use to match *both* \(\frac{1}{2}\) and \(\frac{1}{3}\) exactly.
+We’ll start with one <span class="math-inline"><sup>1</sup>∕<sub>2</sub></span> tile and <span class="math-inline"><sup>1</sup>∕<sub>3</sub></span> tile. We want to find a common fraction tile that we can use to match *both* <span class="math-inline"><sup>1</sup>∕<sub>2</sub></span> and <span class="math-inline"><sup>1</sup>∕<sub>3</sub></span> exactly.
 
-If we try the \(\frac{1}{4}\) pieces, \(2\) of them exactly match the \(\frac{1}{2}\) piece, but they do not exactly match the \(\frac{1}{3}\) piece.
+If we try the <span class="math-inline"><sup>1</sup>∕<sub>4</sub></span> pieces, <span class="math-inline">2</span> of them exactly match the <span class="math-inline"><sup>1</sup>∕<sub>2</sub></span> piece, but they do not exactly match the <span class="math-inline"><sup>1</sup>∕<sub>3</sub></span> piece.
 
-If we try the \(\frac{1}{5}\) pieces, they do not exactly cover the \(\frac{1}{2}\) piece or the \(\frac{1}{3}\) piece.
+If we try the <span class="math-inline"><sup>1</sup>∕<sub>5</sub></span> pieces, they do not exactly cover the <span class="math-inline"><sup>1</sup>∕<sub>2</sub></span> piece or the <span class="math-inline"><sup>1</sup>∕<sub>3</sub></span> piece.
 
-If we try the \(\frac{1}{6}\) pieces, we see that exactly \(3\) of them cover the \(\frac{1}{2}\) piece, and exactly \(2\) of them cover the \(\frac{1}{3}\) piece.
+If we try the <span class="math-inline"><sup>1</sup>∕<sub>6</sub></span> pieces, we see that exactly <span class="math-inline">3</span> of them cover the <span class="math-inline"><sup>1</sup>∕<sub>2</sub></span> piece, and exactly <span class="math-inline">2</span> of them cover the <span class="math-inline"><sup>1</sup>∕<sub>3</sub></span> piece.
 
-If we were to try the \(\frac{1}{12}\) pieces, they would also work.
+If we were to try the <span class="math-inline"><sup>1</sup>∕<sub>12</sub></span> pieces, they would also work.
 
-Even smaller tiles, such as \(\frac{1}{24}\) and \(\frac{1}{48},\) would also exactly cover the \(\frac{1}{2}\) piece and the \(\frac{1}{3}\) piece.
+Even smaller tiles, such as <span class="math-inline"><sup>1</sup>∕<sub>24</sub></span> and <span class="math-inline"><sup>1</sup>∕<sub>48</sub>,</span> would also exactly cover the <span class="math-inline"><sup>1</sup>∕<sub>2</sub></span> piece and the <span class="math-inline"><sup>1</sup>∕<sub>3</sub></span> piece.
 
-The denominator of the largest piece that covers both fractions is the **least common denominator (LCD)** of the two fractions. So, the least common denominator of \(\frac{1}{2}\) and \(\frac{1}{3}\) is \(6.\)
+The denominator of the largest piece that covers both fractions is the **least common denominator (LCD)** of the two fractions. So, the least common denominator of <span class="math-inline"><sup>1</sup>∕<sub>2</sub></span> and <span class="math-inline"><sup>1</sup>∕<sub>3</sub></span> is <span class="math-inline">6.</span>
 
-Notice that all of the tiles that cover \(\frac{1}{2}\) and \(\frac{1}{3}\) have something in common: Their denominators are common multiples of \(2\) and \(3,\) the denominators of \(\frac{1}{2}\) and \(\frac{1}{3}.\) The least common multiple (LCM) of the denominators is \(6,\) and so we say that \(6\) is the least common denominator (LCD) of the fractions \(\frac{1}{2}\) and \(\frac{1}{3}.\)
+Notice that all of the tiles that cover <span class="math-inline"><sup>1</sup>∕<sub>2</sub></span> and <span class="math-inline"><sup>1</sup>∕<sub>3</sub></span> have something in common: Their denominators are common multiples of <span class="math-inline">2</span> and <span class="math-inline">3,</span> the denominators of <span class="math-inline"><sup>1</sup>∕<sub>2</sub></span> and <span class="math-inline"><sup>1</sup>∕<sub>3</sub>.</span> The least common multiple (LCM) of the denominators is <span class="math-inline">6,</span> and so we say that <span class="math-inline">6</span> is the least common denominator (LCD) of the fractions <span class="math-inline"><sup>1</sup>∕<sub>2</sub></span> and <span class="math-inline"><sup>1</sup>∕<sub>3</sub>.</span>
 
 
-**Least Common Denominator**
+<div class="definition-label">**Least Common Denominator**</div>
+
 
 To find the LCD of two fractions, we will find the LCM of their denominators. We follow the procedure we used earlier to find the LCM of two numbers. We only use the denominators of the fractions, not the numerators, when finding the LCD.
 
 
+<div class="example">
 **Example**
 
 
-Find the LCD for the fractions \(\frac{7}{12}\) and \(\frac{5}{18}.\)
+Find the LCD for the fractions <span class="math-inline"><sup>7</sup>∕<sub>12</sub></span> and <span class="math-inline"><sup>5</sup>∕<sub>18</sub>.</span>
 
 
-Solution
-
+<div class="solution">
+<span class="def-label">Solution</span>
 
 
    Factor each denominator into its primes.
 
 
-
    List the primes of 12 and the primes of 18 lining them up in columns when possible.
-
 
 
    Bring down the columns.
 
 
-
    Multiply the factors. The product is the LCM.
-   LCM\(=36\)
+   LCM<span class="math-inline">=36</span>
 
 
-    The LCM of 12 and 18 is 36, so the LCD of \(\frac{7}{12}\) and \(\frac{5}{18}\) is 36.
-    LCD of \(\frac{7}{12}\) and \(\frac{5}{18}\) is 36.
+    The LCM of 12 and 18 is 36, so the LCD of <span class="math-inline"><sup>7</sup>∕<sub>12</sub></span> and <span class="math-inline"><sup>5</sup>∕<sub>18</sub></span> is 36.
+    LCD of <span class="math-inline"><sup>7</sup>∕<sub>12</sub></span> and <span class="math-inline"><sup>5</sup>∕<sub>18</sub></span> is 36.
 
 
+<div class="tryit">
 **Try It**
 
 
-Find the least common denominator for the fractions: \(\frac{7}{12}\) and \(\frac{11}{15}.\)
+Find the least common denominator for the fractions: <span class="math-inline"><sup>7</sup>∕<sub>12</sub></span> and <span class="math-inline"><sup>11</sup>∕<sub>15</sub>.</span>
 
 
 60
 
 
+<div class="tryit">
 **Try It**
 
 
-Find the least common denominator for the fractions: \(\frac{13}{15}\) and \(\frac{17}{5}.\)
+Find the least common denominator for the fractions: <span class="math-inline"><sup>13</sup>∕<sub>15</sub></span> and <span class="math-inline"><sup>17</sup>∕<sub>5</sub>.</span>
 
 
 15
@@ -648,7 +748,8 @@ Find the least common denominator for the fractions: \(\frac{13}{15}\) and \(\fr
 To find the LCD of two fractions, find the LCM of their denominators. Notice how the steps shown below are similar to the steps we took to find the LCM.
 
 
-**Find the least common denominator (LCD) of two fractions.**
+<div class="definition-label">**Find the least common denominator (LCD) of two fractions.**</div>
+
 
 -  Factor each denominator into its primes.
 
@@ -661,117 +762,131 @@ To find the LCD of two fractions, find the LCM of their denominators. Notice how
 -  The LCM of the denominators is the LCD of the fractions.
 
 
+<div class="example">
 **Example**
 
 
-Find the least common denominator for the fractions \(\frac{8}{15}\) and \(\frac{11}{24}.\)
+Find the least common denominator for the fractions <span class="math-inline"><sup>8</sup>∕<sub>15</sub></span> and <span class="math-inline"><sup>11</sup>∕<sub>24</sub>.</span>
 
 
-Solution
+<div class="solution">
+<span class="def-label">Solution</span>
+
+
 To find the LCD, we find the LCM of the denominators.
-Find the LCM of \(15\) and \(24.\)
-The LCM of \(15\) and \(24\) is \(120.\) So, the LCD of \(\frac{8}{15}\) and \(\frac{11}{24}\) is \(120.\)
+Find the LCM of <span class="math-inline">15</span> and <span class="math-inline">24.</span>
+The LCM of <span class="math-inline">15</span> and <span class="math-inline">24</span> is <span class="math-inline">120.</span> So, the LCD of <span class="math-inline"><sup>8</sup>∕<sub>15</sub></span> and <span class="math-inline"><sup>11</sup>∕<sub>24</sub></span> is <span class="math-inline">120.</span>
 
 
+<div class="tryit">
 **Try It**
 
 
-Find the least common denominator for the fractions: \(\frac{13}{24}\) and \(\frac{17}{32}.\)
+Find the least common denominator for the fractions: <span class="math-inline"><sup>13</sup>∕<sub>24</sub></span> and <span class="math-inline"><sup>17</sup>∕<sub>32</sub>.</span>
 
 
 96
 
 
+<div class="tryit">
 **Try It**
 
 
-Find the least common denominator for the fractions: \(\frac{9}{28}\) and \(\frac{21}{32}.\)
+Find the least common denominator for the fractions: <span class="math-inline"><sup>9</sup>∕<sub>28</sub></span> and <span class="math-inline"><sup>21</sup>∕<sub>32</sub>.</span>
 
 
 224
 
 
+---
+
+
+---
+
 ## Convert Fractions to Equivalent Fractions with the LCD
 
-Earlier, we used fraction tiles to see that the LCD of \(\frac{1}{4}\) when \(\frac{1}{6}\) is \(12.\) We saw that three \(\frac{1}{12}\) pieces exactly covered \(\frac{1}{4}\) and two \(\frac{1}{12}\) pieces exactly covered \(\frac{1}{6},\) so
+
+Earlier, we used fraction tiles to see that the LCD of <span class="math-inline"><sup>1</sup>∕<sub>4</sub></span> when <span class="math-inline"><sup>1</sup>∕<sub>6</sub></span> is <span class="math-inline">12.</span> We saw that three <span class="math-inline"><sup>1</sup>∕<sub>12</sub></span> pieces exactly covered <span class="math-inline"><sup>1</sup>∕<sub>4</sub></span> and two <span class="math-inline"><sup>1</sup>∕<sub>12</sub></span> pieces exactly covered <span class="math-inline"><sup>1</sup>∕<sub>6</sub>,</span> so
 
 
-$$
-\frac{1}{4}=\frac{3}{12}and\frac{1}{6}=\frac{2}{12}.
-$$
+<div class="math-display">
+<sup>1</sup>∕<sub>4</sub>=<sup>3</sup>∕<sub>12</sub>and<sup>1</sup>∕<sub>6</sub>=<sup>2</sup>∕<sub>12</sub>.
+</div>
 
-We say that \(\frac{1}{4}\) and \(\frac{3}{12}\) are equivalent fractions and also that \(\frac{1}{6}\) and \(\frac{2}{12}\) are equivalent fractions.
+
+We say that <span class="math-inline"><sup>1</sup>∕<sub>4</sub></span> and <span class="math-inline"><sup>3</sup>∕<sub>12</sub></span> are equivalent fractions and also that <span class="math-inline"><sup>1</sup>∕<sub>6</sub></span> and <span class="math-inline"><sup>2</sup>∕<sub>12</sub></span> are equivalent fractions.
 
 We can use the Equivalent Fractions Property to algebraically change a fraction to an equivalent one. Remember, two fractions are equivalent if they have the same value. The Equivalent Fractions Property is repeated below for reference.
 
 
-**Equivalent Fractions Property**
-
-If \(a,b,c\) are whole numbers where \(b\ne 0,c\ne 0,\) then
+<div class="definition-label">**Equivalent Fractions Property**</div>
 
 
-$$
-\frac{a}{b}=\frac{a\cdot c}{b\cdot c} and \frac{a\cdot c}{b\cdot c}=\frac{a}{b}
-$$
-
-To add or subtract fractions with different denominators, we will first have to convert each fraction to an **equivalent** fraction with the LCD. Let’s see how to change \(\frac{1}{4}\) and \(\frac{1}{6}\) to equivalent fractions with denominator \(12\) without using models.
+If <span class="math-inline">a,b,c</span> are whole numbers where <span class="math-inline">b≠ 0,c≠ 0,</span> then
 
 
+<div class="math-display">
+<sup>a</sup>∕<sub>b</sub>=<sup>a· c</sup>∕<sub>b· c</sub> and <sup>a· c</sup>∕<sub>b· c</sub>=<sup>a</sup>∕<sub>b</sub>
+</div>
+
+
+To add or subtract fractions with different denominators, we will first have to convert each fraction to an **equivalent** fraction with the LCD. Let’s see how to change <span class="math-inline"><sup>1</sup>∕<sub>4</sub></span> and <span class="math-inline"><sup>1</sup>∕<sub>6</sub></span> to equivalent fractions with denominator <span class="math-inline">12</span> without using models.
+
+
+<div class="example">
 **Example**
 
 
-Convert \(\frac{1}{4}\) and \(\frac{1}{6}\) to equivalent fractions with denominator \(12,\) their LCD.
+Convert <span class="math-inline"><sup>1</sup>∕<sub>4</sub></span> and <span class="math-inline"><sup>1</sup>∕<sub>6</sub></span> to equivalent fractions with denominator <span class="math-inline">12,</span> their LCD.
 
 
-Solution
-
+<div class="solution">
+<span class="def-label">Solution</span>
 
 
    Find the LCD.
-   The LCD of \(\frac{1}{4}\) and \(\frac{1}{6}\) is 12.
+   The LCD of <span class="math-inline"><sup>1</sup>∕<sub>4</sub></span> and <span class="math-inline"><sup>1</sup>∕<sub>6</sub></span> is 12.
 
 
    Find the number to multiply 4 to get 12.
 
 
-
    Find the number to multiply 6 to get 12.
-
 
 
    Use the Equivalent Fractions Property to convert each fraction to an equivalent fraction with the LCD, multiplying both the numerator and denominator of each fraction by the same number.
 
 
-
    Simplify the numerators and denominators.
-
-
 
 
 We do not reduce the resulting fractions. If we did, we would get back to our original fractions and lose the common denominator.
 
 
+<div class="tryit">
 **Try It**
 
 
 Change to equivalent fractions with the LCD:
-\(\frac{3}{4}\) and \(\frac{5}{6},\) LCD \(=12\)
+<span class="math-inline"><sup>3</sup>∕<sub>4</sub></span> and <span class="math-inline"><sup>5</sup>∕<sub>6</sub>,</span> LCD <span class="math-inline">=12</span>
 
 
-\(\frac{9}{12},\frac{10}{12}\)
+<span class="math-inline"><sup>9</sup>∕<sub>12</sub>,<sup>10</sup>∕<sub>12</sub></span>
 
 
+<div class="tryit">
 **Try It**
 
 
 Change to equivalent fractions with the LCD:
-\(-\frac{7}{12}\) and \(\frac{11}{15},\) LCD \(=60\)
+<span class="math-inline">-<sup>7</sup>∕<sub>12</sub></span> and <span class="math-inline"><sup>11</sup>∕<sub>15</sub>,</span> LCD <span class="math-inline">=60</span>
 
 
-\(-\frac{35}{60},\frac{44}{60}\)
+<span class="math-inline">-<sup>35</sup>∕<sub>60</sub>,<sup>44</sup>∕<sub>60</sub></span>
 
 
-**Convert two fractions to equivalent fractions with their LCD as the common denominator.**
+<div class="definition-label">**Convert two fractions to equivalent fractions with their LCD as the common denominator.**</div>
+
 
 - Find the LCD.
 
@@ -782,15 +897,15 @@ Change to equivalent fractions with the LCD:
 - Simplify the numerator and denominator.
 
 
+<div class="example">
 **Example**
 
 
-Convert \(\frac{8}{15}\) and \(\frac{11}{24}\) to equivalent fractions with denominator \(120,\) their LCD.
+Convert <span class="math-inline"><sup>8</sup>∕<sub>15</sub></span> and <span class="math-inline"><sup>11</sup>∕<sub>24</sub></span> to equivalent fractions with denominator <span class="math-inline">120,</span> their LCD.
 
 
-Solution
-
-
+<div class="solution">
+<span class="def-label">Solution</span>
 
 
    The LCD is 120. We will start at Step 2.
@@ -799,46 +914,50 @@ Solution
    Find the number that must multiply 15 to get 120.
 
 
-
    Find the number that must multiply 24 to get 120.
-
 
 
    Use the Equivalent Fractions Property.
 
 
-
    Simplify the numerators and denominators.
 
 
-
-
+<div class="tryit">
 **Try It**
 
 
 Change to equivalent fractions with the LCD:
-\(\frac{13}{24}\) and \(\frac{17}{32},\) LCD \(96\)
+<span class="math-inline"><sup>13</sup>∕<sub>24</sub></span> and <span class="math-inline"><sup>17</sup>∕<sub>32</sub>,</span> LCD <span class="math-inline">96</span>
 
 
-\(\frac{52}{96},\frac{51}{96}\)
+<span class="math-inline"><sup>52</sup>∕<sub>96</sub>,<sup>51</sup>∕<sub>96</sub></span>
 
 
+<div class="tryit">
 **Try It**
 
 
 Change to equivalent fractions with the LCD:
-\(\frac{9}{28}\) and \(\frac{27}{32},\) LCD \(224\)
+<span class="math-inline"><sup>9</sup>∕<sub>28</sub></span> and <span class="math-inline"><sup>27</sup>∕<sub>32</sub>,</span> LCD <span class="math-inline">224</span>
 
 
-\(\frac{72}{224},\frac{189}{224}\)
+<span class="math-inline"><sup>72</sup>∕<sub>224</sub>,<sup>189</sup>∕<sub>224</sub></span>
 
+
+---
+
+
+---
 
 ## Add and Subtract Fractions with Different Denominators
+
 
 Once we have converted two fractions to equivalent forms with common denominators, we can add or subtract them by adding or subtracting the numerators.
 
 
-**Add or subtract fractions with different denominators.**
+<div class="definition-label">**Add or subtract fractions with different denominators.**</div>
+
 
 -  Find the LCD.
 
@@ -849,189 +968,184 @@ Once we have converted two fractions to equivalent forms with common denominator
 -  Write the result in simplified form.
 
 
+<div class="example">
 **Example**
 
 
-Add: \(\frac{1}{2}+\frac{1}{3}.\)
+Add: <span class="math-inline"><sup>1</sup>∕<sub>2</sub>+<sup>1</sup>∕<sub>3</sub>.</span>
 
 
-Solution
+<div class="solution">
+<span class="def-label">Solution</span>
 
 
-
-
-   \(\frac{1}{2}+\frac{1}{3}\)
+   <span class="math-inline"><sup>1</sup>∕<sub>2</sub>+<sup>1</sup>∕<sub>3</sub></span>
 
 
    Find the LCD of 2, 3.
 
 
-
-
    Change into equivalent fractions with the LCD 6.
 
 
-
    Simplify the numerators and denominators.
-   \(\frac{3}{6}+\frac{2}{6}\)
+   <span class="math-inline"><sup>3</sup>∕<sub>6</sub>+<sup>2</sup>∕<sub>6</sub></span>
 
 
    Add.
-   \(\frac{5}{6}\)
+   <span class="math-inline"><sup>5</sup>∕<sub>6</sub></span>
 
 
+Remember, always check to see if the answer can be simplified. Since <span class="math-inline">5</span> and <span class="math-inline">6</span> have no common factors, the fraction <span class="math-inline"><sup>5</sup>∕<sub>6</sub></span> cannot be reduced.
 
-Remember, always check to see if the answer can be simplified. Since \(5\) and \(6\) have no common factors, the fraction \(\frac{5}{6}\) cannot be reduced.
 
-
+<div class="tryit">
 **Try It**
 
 
-Add: \(\frac{1}{4}+\frac{1}{3}.\)
+Add: <span class="math-inline"><sup>1</sup>∕<sub>4</sub>+<sup>1</sup>∕<sub>3</sub>.</span>
 
 
-\(\frac{7}{12}\)
+<span class="math-inline"><sup>7</sup>∕<sub>12</sub></span>
 
 
+<div class="tryit">
 **Try It**
 
 
-Add: \(\frac{1}{2}+\frac{1}{5}.\)
+Add: <span class="math-inline"><sup>1</sup>∕<sub>2</sub>+<sup>1</sup>∕<sub>5</sub>.</span>
 
 
-\(\frac{7}{10}\)
+<span class="math-inline"><sup>7</sup>∕<sub>10</sub></span>
 
 
+<div class="example">
 **Example**
 
 
-Subtract: \(\frac{1}{2}-(-\frac{1}{4}).\)
+Subtract: <span class="math-inline"><sup>1</sup>∕<sub>2</sub>-(-<sup>1</sup>∕<sub>4</sub>).</span>
 
 
-Solution
+<div class="solution">
+<span class="def-label">Solution</span>
 
 
-
-
-   \(\frac{1}{2}-(-\frac{1}{4})\)
+   <span class="math-inline"><sup>1</sup>∕<sub>2</sub>-(-<sup>1</sup>∕<sub>4</sub>)</span>
 
 
    Find the LCD of 2 and 4.
 
 
-
-
    Rewrite as equivalent fractions using the LCD 4.
 
 
-
   Simplify the first fraction.
-  \(\frac{2}{4}-(-\frac{1}{4})\)
+  <span class="math-inline"><sup>2</sup>∕<sub>4</sub>-(-<sup>1</sup>∕<sub>4</sub>)</span>
 
 
   Subtract.
-  \(\frac{2 - (−1)}{4}\)
+  <span class="math-inline"><sup>2 - (−1)</sup>∕<sub>4</sub></span>
 
 
   Simplify.
-  \(\frac{3}{4}\)
+  <span class="math-inline"><sup>3</sup>∕<sub>4</sub></span>
 
 
 One of the fractions already had the least common denominator, so we only had to convert the other fraction.
 
 
+<div class="tryit">
 **Try It**
 
 
-Simplify: \(\frac{1}{2}-(-\frac{1}{8}).\)
+Simplify: <span class="math-inline"><sup>1</sup>∕<sub>2</sub>-(-<sup>1</sup>∕<sub>8</sub>).</span>
 
 
-\(\frac{5}{8}\)
+<span class="math-inline"><sup>5</sup>∕<sub>8</sub></span>
 
 
+<div class="tryit">
 **Try It**
 
 
-Simplify: \(\frac{1}{3}-(-\frac{1}{6}).\)
+Simplify: <span class="math-inline"><sup>1</sup>∕<sub>3</sub>-(-<sup>1</sup>∕<sub>6</sub>).</span>
 
 
-\(\frac{1}{2}\)
+<span class="math-inline"><sup>1</sup>∕<sub>2</sub></span>
 
 
+<div class="example">
 **Example**
 
 
-Add: \(\frac{7}{12}+\frac{5}{18}.\)
+Add: <span class="math-inline"><sup>7</sup>∕<sub>12</sub>+<sup>5</sup>∕<sub>18</sub>.</span>
 
 
-Solution
+<div class="solution">
+<span class="def-label">Solution</span>
 
 
-
-
-   \(\frac{7}{12}+\frac{5}{18}\)
+   <span class="math-inline"><sup>7</sup>∕<sub>12</sub>+<sup>5</sup>∕<sub>18</sub></span>
 
 
    Find the LCD of 12 and 18.
 
 
-
-
    Rewrite as equivalent fractions with the LCD.
 
 
-
    Simplify the numerators and denominators.
-   \(\frac{21}{36}+\frac{10}{36}\)
+   <span class="math-inline"><sup>21</sup>∕<sub>36</sub>+<sup>10</sup>∕<sub>36</sub></span>
 
 
    Add.
-   \(\frac{31}{36}\)
+   <span class="math-inline"><sup>31</sup>∕<sub>36</sub></span>
 
 
+Because <span class="math-inline">31</span> is a prime number, it has no factors in common with <span class="math-inline">36.</span> The answer is simplified.
 
-Because \(31\) is a prime number, it has no factors in common with \(36.\) The answer is simplified.
 
-
+<div class="tryit">
 **Try It**
 
 
-Add: \(\frac{7}{12}+\frac{11}{15}.\)
+Add: <span class="math-inline"><sup>7</sup>∕<sub>12</sub>+<sup>11</sup>∕<sub>15</sub>.</span>
 
 
-\(\frac{79}{60}\)
+<span class="math-inline"><sup>79</sup>∕<sub>60</sub></span>
 
 
+<div class="tryit">
 **Try It**
 
 
-Add: \(\frac{13}{15}+\frac{17}{20}.\)
+Add: <span class="math-inline"><sup>13</sup>∕<sub>15</sub>+<sup>17</sup>∕<sub>20</sub>.</span>
 
 
-\(\frac{103}{60}\)
+<span class="math-inline"><sup>103</sup>∕<sub>60</sub></span>
 
 
 When we use the Equivalent Fractions Property, there is a quick way to find the number you need to multiply by to get the LCD. Write the factors of the denominators and the LCD just as you did to find the LCD. The “missing” factors of each denominator are the numbers you need.
 
-The LCD, \(36,\) has \(2\) factors of \(2\) and \(2\) factors of \(3.\)
+The LCD, <span class="math-inline">36,</span> has <span class="math-inline">2</span> factors of <span class="math-inline">2</span> and <span class="math-inline">2</span> factors of <span class="math-inline">3.</span>
 
-Twelve has two factors of \(2,\) but only one of \(3\)—so it is ‘missing‘ one \(3.\) We multiplied the numerator and denominator of \(\frac{7}{12}\) by \(3\) to get an equivalent fraction with denominator \(36.\)
+Twelve has two factors of <span class="math-inline">2,</span> but only one of <span class="math-inline">3</span>—so it is ‘missing‘ one <span class="math-inline">3.</span> We multiplied the numerator and denominator of <span class="math-inline"><sup>7</sup>∕<sub>12</sub></span> by <span class="math-inline">3</span> to get an equivalent fraction with denominator <span class="math-inline">36.</span>
 
-Eighteen is missing one factor of \(2\)—so you multiply the numerator and denominator \(\frac{5}{18}\) by \(2\) to get an equivalent fraction with denominator \(36.\) We will apply this method as we subtract the fractions in the next example.
+Eighteen is missing one factor of <span class="math-inline">2</span>—so you multiply the numerator and denominator <span class="math-inline"><sup>5</sup>∕<sub>18</sub></span> by <span class="math-inline">2</span> to get an equivalent fraction with denominator <span class="math-inline">36.</span> We will apply this method as we subtract the fractions in the next example.
 
 
+<div class="example">
 **Example**
 
 
-Subtract: \(\frac{7}{15}-\frac{19}{24}.\)
+Subtract: <span class="math-inline"><sup>7</sup>∕<sub>15</sub>-<sup>19</sup>∕<sub>24</sub>.</span>
 
 
-Solution
+<div class="solution">
+<span class="def-label">Solution</span>
 
 
-
-
-   \(\frac{7}{15}-\frac{19}{24}\)
+   <span class="math-inline"><sup>7</sup>∕<sub>15</sub>-<sup>19</sup>∕<sub>24</sub></span>
 
 
    Find the LCD.
@@ -1040,156 +1154,269 @@ Solution
 24 is 'missing' a factor of 5
 
 
-
    Rewrite as equivalent fractions with the LCD.
 
 
-
    Simplify each numerator and denominator.
-   \(\frac{56}{120}-\frac{95}{120}\)
+   <span class="math-inline"><sup>56</sup>∕<sub>120</sub>-<sup>95</sup>∕<sub>120</sub></span>
 
 
    Subtract.
-   \(-\frac{39}{120}\)
+   <span class="math-inline">-<sup>39</sup>∕<sub>120</sub></span>
 
 
    Rewrite showing the common factor of 3.
-   \(-\frac{13\cdot 3}{40\cdot 3}\)
+   <span class="math-inline">-<sup>13· 3</sup>∕<sub>40· 3</sub></span>
 
 
    Remove the common factor to simplify.
-   \(-\frac{13}{40}\)
+   <span class="math-inline">-<sup>13</sup>∕<sub>40</sub></span>
 
 
-
+<div class="tryit">
 **Try It**
 
 
-Subtract: \(\frac{13}{24}-\frac{17}{32}.\)
+Subtract: <span class="math-inline"><sup>13</sup>∕<sub>24</sub>-<sup>17</sup>∕<sub>32</sub>.</span>
 
 
-\(\frac{1}{96}\)
+<span class="math-inline"><sup>1</sup>∕<sub>96</sub></span>
 
 
+<div class="tryit">
 **Try It**
 
 
-Subtract: \(\frac{21}{32}-\frac{9}{28}.\)
+Subtract: <span class="math-inline"><sup>21</sup>∕<sub>32</sub>-<sup>9</sup>∕<sub>28</sub>.</span>
 
 
-\(\frac{75}{224}\)
+<span class="math-inline"><sup>75</sup>∕<sub>224</sub></span>
 
 
+<div class="example">
 **Example**
 
 
-Add: \(- \frac{11}{30}+\frac{23}{42}.\)
+Add: <span class="math-inline">- <sup>11</sup>∕<sub>30</sub>+<sup>23</sup>∕<sub>42</sub>.</span>
 
 
-Solution
+<div class="solution">
+<span class="def-label">Solution</span>
 
 
-
-
-   \(-\frac{11}{30}+\frac{23}{42}\)
+   <span class="math-inline">-<sup>11</sup>∕<sub>30</sub>+<sup>23</sup>∕<sub>42</sub></span>
 
 
    Find the LCD.
 
 
-
-
    Rewrite as equivalent fractions with the LCD.
 
 
-
    Simplify each numerator and denominator.
-   \(-\frac{77}{210}+\frac{115}{210}\)
+   <span class="math-inline">-<sup>77</sup>∕<sub>210</sub>+<sup>115</sup>∕<sub>210</sub></span>
 
 
    Add.
-   \(\frac{38}{210}\)
+   <span class="math-inline"><sup>38</sup>∕<sub>210</sub></span>
 
 
    Rewrite showing the common factor of 2.
-   \(\frac{19\cdot 2}{105\cdot 2}\)
+   <span class="math-inline"><sup>19· 2</sup>∕<sub>105· 2</sub></span>
 
 
    Remove the common factor to simplify.
-   \(\frac{19}{105}\)
+   <span class="math-inline"><sup>19</sup>∕<sub>105</sub></span>
 
 
-
+<div class="tryit">
 **Try It**
 
 
-Add: \(-\frac{13}{42}+\frac{17}{35}.\)
+Add: <span class="math-inline">-<sup>13</sup>∕<sub>42</sub>+<sup>17</sup>∕<sub>35</sub>.</span>
 
 
-\(\frac{37}{210}\)
+<span class="math-inline"><sup>37</sup>∕<sub>210</sub></span>
 
 
+<div class="tryit">
 **Try It**
 
 
-Add: \(-\frac{19}{24}+\frac{17}{32}.\)
+Add: <span class="math-inline">-<sup>19</sup>∕<sub>24</sub>+<sup>17</sup>∕<sub>32</sub>.</span>
 
 
-\(-\frac{25}{96}\)
+<span class="math-inline">-<sup>25</sup>∕<sub>96</sub></span>
 
 
 In the next example, one of the fractions has a variable in its numerator. We follow the same steps as when both numerators are numbers.
 
 
+<div class="example">
 **Example**
 
 
-Add: \(\frac{3}{5}+\frac{x}{8}.\)
+Add: <span class="math-inline"><sup>3</sup>∕<sub>5</sub>+<sup>x</sup>∕<sub>8</sub>.</span>
 
 
-Solution
+<div class="solution">
+<span class="def-label">Solution</span>
+
+
 The fractions have different denominators.
 
 
-
-
-   \(\frac{3}{5}+\frac{x}{8}\)
+   <span class="math-inline"><sup>3</sup>∕<sub>5</sub>+<sup>x</sup>∕<sub>8</sub></span>
 
 
    Find the LCD.
 
 
-
-
    Rewrite as equivalent fractions with the LCD.
 
 
-
    Simplify the numerators and denominators.
-   \(\frac{24}{40}+\frac{5x}{40}\)
+   <span class="math-inline"><sup>24</sup>∕<sub>40</sub>+<sup>5x</sup>∕<sub>40</sub></span>
 
 
    Add.
-   \(\frac{24 + 5x}{40}\)
+   <span class="math-inline"><sup>24 + 5x</sup>∕<sub>40</sub></span>
 
 
+We cannot add <span class="math-inline">24</span> and <span class="math-inline">5x</span> since they are not like terms, so we cannot simplify the expression any further.
 
-We cannot add \(24\) and \(5x\) since they are not like terms, so we cannot simplify the expression any further.
 
-
+<div class="tryit">
 **Try It**
 
 
-Add: \(\frac{y}{6}+\frac{7}{9}.\)
+Add: <span class="math-inline"><sup>y</sup>∕<sub>6</sub>+<sup>7</sup>∕<sub>9</sub>.</span>
 
 
-\(\frac{3y+14}{18}\)
+<span class="math-inline"><sup>3y+14</sup>∕<sub>18</sub></span>
 
 
+<div class="tryit">
 **Try It**
 
 
-Add: \(\frac{x}{6}+\frac{7}{15}.\)
+Add: <span class="math-inline"><sup>x</sup>∕<sub>6</sub>+<sup>7</sup>∕<sub>15</sub>.</span>
 
 
-\(\frac{5x+14}{30}\)
+<span class="math-inline"><sup>5x+14</sup>∕<sub>30</sub></span>
+
+</div>
+
+</div>
+
+</div>
+
+</div>
+
+</div>
+
+</div>
+
+</div>
+
+</div>
+
+</div>
+
+</div>
+
+</div>
+
+</div>
+
+</div>
+
+</div>
+
+</div>
+
+</div>
+
+</div>
+
+</div>
+
+</div>
+
+</div>
+
+</div>
+
+</div>
+
+</div>
+
+</div>
+
+</div>
+
+</div>
+
+</div>
+
+</div>
+
+</div>
+
+</div>
+
+</div>
+
+</div>
+
+</div>
+
+</div>
+
+</div>
+
+</div>
+
+</div>
+
+</div>
+
+</div>
+
+</div>
+
+</div>
+
+</div>
+
+</div>
+
+</div>
+
+</div>
+
+</div>
+
+</div>
+
+</div>
+
+</div>
+
+</div>
+
+</div>
+
+</div>
+
+</div>
+
+</div>
+
+</div>
+
+</div>
+
+</div>
+
+</div>

@@ -1,33 +1,103 @@
+<style>
+.math-inline {
+    font-style: italic;
+    padding: 2px 6px;
+    border-radius: 4px;
+    background: #f8f9fa;
+    font-family: Georgia, serif;
+}
+.math-display {
+    background: #f8f9fa;
+    border-left: 4px solid #4a90d9;
+    padding: 16px 20px;
+    margin: 16px 0;
+    border-radius: 6px;
+    font-size: 1.15em;
+    font-family: Georgia, serif;
+    text-align: center;
+    line-height: 2;
+    overflow-x: auto;
+}
+.example-box, .example {
+    background: #f0f8ff;
+    border-left: 4px solid #2e86de;
+    padding: 12px 20px;
+    margin: 16px 0;
+    border-radius: 6px;
+}
+.tryit-box, .tryit {
+    background: #f0fff4;
+    border-left: 4px solid #27ae60;
+    padding: 12px 20px;
+    margin: 16px 0;
+    border-radius: 6px;
+}
+.solution-box, .solution {
+    background: #fef9e7;
+    border-left: 4px solid #f39c12;
+    padding: 12px 20px;
+    margin: 12px 0;
+    border-radius: 6px;
+}
+.check-box, .check {
+    background: #fef9e7;
+    border-left: 4px solid #f39c12;
+    padding: 12px 20px;
+    margin: 12px 0;
+    border-radius: 6px;
+}
+.prep-quiz {
+    background: #fff3cd;
+    border: 1px solid #ffc107;
+    padding: 12px 20px;
+    margin: 16px 0;
+    border-radius: 6px;
+}
+.def-label, .definition-label {
+    font-weight: bold;
+    font-size: 1.1em;
+    margin: 20px 0 8px 0;
+    color: #2c3e50;
+    display: block;
+}
+.math-display sup, .math-inline sup { font-size: 0.75em; line-height: 0; }
+.math-display sub, .math-inline sub { font-size: 0.75em; line-height: 0; }
+</style>
+
+
+---
+
 ## Chapter Review Exercises
+
 
 *Identify Counting Numbers and Whole Numbers*
 
 In the following exercises, determine which of the following are (a) counting numbers (b) whole numbers.
 
 
-\(0,2,99\)
+<span class="math-inline">0,2,99</span>
 
 
   - ⓐ 2, 99
   - ⓑ 0, 2, 99
 
 
-\(0,3,25\)
+<span class="math-inline">0,3,25</span>
 
 
-\(0,4,90\)
+<span class="math-inline">0,4,90</span>
 
 
   - ⓐ 4, 90
   - ⓑ 0, 4, 90
 
 
-\(0,1,75\)
+<span class="math-inline">0,1,75</span>
 
 
 *Model Whole Numbers*
 
-In the following exercises, model each number using \(base-10\) blocks and then show its value using place value notation.
+In the following exercises, model each number using <span class="math-inline">base-10</span> blocks and then show its value using place value notation.
 
 
 258
@@ -41,13 +111,13 @@ In the following exercises, model each number using \(base-10\) blocks and then 
 In the following exercises, find the place value of the given digits.
 
 
-\(472,981\)
+<span class="math-inline">472,981</span>
 
-  - ⓐ \(8\)
-  - ⓑ \(4\)
-  - ⓒ \(1\)
-  - ⓓ \(7\)
-  - ⓔ \(2\)
+  - ⓐ <span class="math-inline">8</span>
+  - ⓑ <span class="math-inline">4</span>
+  - ⓒ <span class="math-inline">1</span>
+  - ⓓ <span class="math-inline">7</span>
+  - ⓔ <span class="math-inline">2</span>
 
 
   - ⓐ tens
@@ -57,35 +127,35 @@ In the following exercises, find the place value of the given digits.
   - ⓔ thousands
 
 
-\(12,403,295\)
+<span class="math-inline">12,403,295</span>
 
-  - ⓐ \(4\)
-  - ⓑ \(0\)
-  - ⓒ \(1\)
-  - ⓓ \(9\)
-  - ⓔ \(3\)
+  - ⓐ <span class="math-inline">4</span>
+  - ⓑ <span class="math-inline">0</span>
+  - ⓒ <span class="math-inline">1</span>
+  - ⓓ <span class="math-inline">9</span>
+  - ⓔ <span class="math-inline">3</span>
 
 *Use Place Value to Name Whole Numbers*
 
 In the following exercises, name each number in words.
 
 
-\(5,280\)
+<span class="math-inline">5,280</span>
 
 
 Five thousand, two hundred eighty
 
 
-\(204,614\)
+<span class="math-inline">204,614</span>
 
 
-\(5,012,582\)
+<span class="math-inline">5,012,582</span>
 
 
 Five million, twelve thousand, five hundred eighty-two
 
 
-\(31,640,976\)
+<span class="math-inline">31,640,976</span>
 
 
 *Use Place Value to Write Whole Numbers*
@@ -116,43 +186,43 @@ two billion, four hundred ninety-two million, seven hundred eleven thousand, two
 In the following exercises, round to the nearest ten.
 
 
-\(412\)
+<span class="math-inline">412</span>
 
 
 410
 
 
-\(648\)
+<span class="math-inline">648</span>
 
 
-\(3,556\)
+<span class="math-inline">3,556</span>
 
 
 3,560
 
 
-\(2,734\)
+<span class="math-inline">2,734</span>
 
 
 In the following exercises, round to the nearest hundred.
 
 
-\(38,975\)
+<span class="math-inline">38,975</span>
 
 
 39,000
 
 
-\(26,849\)
+<span class="math-inline">26,849</span>
 
 
-\(81,486\)
+<span class="math-inline">81,486</span>
 
 
 81,500
 
 
-\(75,992\)
+<span class="math-inline">75,992</span>
 
 
 *Use Addition Notation*
@@ -160,22 +230,22 @@ In the following exercises, round to the nearest hundred.
 In the following exercises, translate the following from math notation to words.
 
 
-\(4+3\)
+<span class="math-inline">4+3</span>
 
 
 four plus three; the sum of four and three
 
 
-\(25+18\)
+<span class="math-inline">25+18</span>
 
 
-\(571+629\)
+<span class="math-inline">571+629</span>
 
 
 five hundred seventy-one plus six hundred twenty-nine; the sum of five hundred seventy-one and six hundred twenty-nine
 
 
-\(10,085+3,492\)
+<span class="math-inline">10,085+3,492</span>
 
 
 *Model Addition of Whole Numbers*
@@ -183,10 +253,10 @@ five hundred seventy-one plus six hundred twenty-nine; the sum of five hundred s
 In the following exercises, model the addition.
 
 
-\(6+7\)
+<span class="math-inline">6+7</span>
 
 
-\(38+14\)
+<span class="math-inline">38+14</span>
 
 
 *Add Whole Numbers*
@@ -196,51 +266,51 @@ In the following exercises, fill in the missing values in each chart.
 In the following exercises, add.
 
 
-ⓐ \(0+19\) ⓑ \(19+0\)
+ⓐ <span class="math-inline">0+19</span> ⓑ <span class="math-inline">19+0</span>
 
 
   - ⓐ 19
   - ⓑ 19
 
 
-ⓐ \(0+480\) ⓑ \(480+0\)
+ⓐ <span class="math-inline">0+480</span> ⓑ <span class="math-inline">480+0</span>
 
 
-ⓐ \(7+6\) ⓑ \(6+7\)
+ⓐ <span class="math-inline">7+6</span> ⓑ <span class="math-inline">6+7</span>
 
 
   - ⓐ 13
   - ⓑ 13
 
 
-ⓐ \(23+18\) ⓑ \(18+23\)
+ⓐ <span class="math-inline">23+18</span> ⓑ <span class="math-inline">18+23</span>
 
 
-\(44+35\)
+<span class="math-inline">44+35</span>
 
 
 79
 
 
-\(63+29\)
+<span class="math-inline">63+29</span>
 
 
-\(96+58\)
+<span class="math-inline">96+58</span>
 
 
 154
 
 
-\(375+591\)
+<span class="math-inline">375+591</span>
 
 
-\(7,281+12,546\)
+<span class="math-inline">7,281+12,546</span>
 
 
 19,827
 
 
-\(5,280+16,324+9,731\)
+<span class="math-inline">5,280+16,324+9,731</span>
 
 
 *Translate Word Phrases to Math Notation*
@@ -248,22 +318,22 @@ In the following exercises, add.
 In the following exercises, translate each phrase into math notation and then simplify.
 
 
-the sum of \(30\) and \(12\)
+the sum of <span class="math-inline">30</span> and <span class="math-inline">12</span>
 
 
 30 + 12; 42
 
 
-\(11\) increased by \(8\)
+<span class="math-inline">11</span> increased by <span class="math-inline">8</span>
 
 
-\(25\) more than \(39\)
+<span class="math-inline">25</span> more than <span class="math-inline">39</span>
 
 
 39 + 25; 64
 
 
-total of \(15\) and \(50\)
+total of <span class="math-inline">15</span> and <span class="math-inline">50</span>
 
 
 *Add Whole Numbers in Applications*
@@ -271,13 +341,13 @@ total of \(15\) and \(50\)
 In the following exercises, solve.
 
 
-*Shopping for an interview* Nathan bought a new shirt, tie, and slacks to wear to a job interview. The shirt cost \($24,\) the tie cost \($14,\) and the slacks cost \($38.\) What was Nathan’s total cost?
+*Shopping for an interview* Nathan bought a new shirt, tie, and slacks to wear to a job interview. The shirt cost <span class="math-inline">$24,</span> the tie cost <span class="math-inline">$14,</span> and the slacks cost <span class="math-inline">$38.</span> What was Nathan’s total cost?
 
 
 $76
 
 
-*Running* Jackson ran \(4\) miles on Monday, \(12\) miles on Tuesday, \(1\) mile on Wednesday, \(8\) miles on Thursday, and \(5\) miles on Friday. What was the total number of miles Jackson ran?
+*Running* Jackson ran <span class="math-inline">4</span> miles on Monday, <span class="math-inline">12</span> miles on Tuesday, <span class="math-inline">1</span> mile on Wednesday, <span class="math-inline">8</span> miles on Thursday, and <span class="math-inline">5</span> miles on Friday. What was the total number of miles Jackson ran?
 
 
 In the following exercises, find the perimeter of each figure.
@@ -291,22 +361,22 @@ In the following exercises, find the perimeter of each figure.
 In the following exercises, translate the following from math notation to words.
 
 
-\(14-5\)
+<span class="math-inline">14-5</span>
 
 
 fourteen minus five; the difference of fourteen and five
 
 
-\(40-15\)
+<span class="math-inline">40-15</span>
 
 
-\(351-249\)
+<span class="math-inline">351-249</span>
 
 
 three hundred fifty-one minus two hundred forty-nine; the difference between three hundred fifty-one and two hundred forty-nine
 
 
-\(5,724-2,918\)
+<span class="math-inline">5,724-2,918</span>
 
 
 *Model Subtraction of Whole Numbers*
@@ -314,10 +384,10 @@ three hundred fifty-one minus two hundred forty-nine; the difference between thr
 In the following exercises, model the subtraction.
 
 
-\(18-4\)
+<span class="math-inline">18-4</span>
 
 
-\(41-29\)
+<span class="math-inline">41-29</span>
 
 
 *Subtract Whole Numbers*
@@ -325,58 +395,58 @@ In the following exercises, model the subtraction.
 In the following exercises, subtract and then check by adding.
 
 
-\(8-5\)
+<span class="math-inline">8-5</span>
 
 
 3
 
 
-\(12-7\)
+<span class="math-inline">12-7</span>
 
 
-\(23-9\)
+<span class="math-inline">23-9</span>
 
 
 14
 
 
-\(46-21\)
+<span class="math-inline">46-21</span>
 
 
-\(82-59\)
+<span class="math-inline">82-59</span>
 
 
 23
 
 
-\(110-87\)
+<span class="math-inline">110-87</span>
 
 
-\(539-217\)
+<span class="math-inline">539-217</span>
 
 
 322
 
 
-\(415-296\)
+<span class="math-inline">415-296</span>
 
 
-\(1,020-640\)
+<span class="math-inline">1,020-640</span>
 
 
 380
 
 
-\(8,355-3,947\)
+<span class="math-inline">8,355-3,947</span>
 
 
-\(10,000-15\)
+<span class="math-inline">10,000-15</span>
 
 
 9,985
 
 
-\(54,925-35,647\)
+<span class="math-inline">54,925-35,647</span>
 
 
 *Translate Word Phrases to Math Notation*
@@ -407,13 +477,13 @@ twenty-three less than forty-one
 In the following exercises, solve.
 
 
-*Temperature* The high temperature in Peoria one day was \(86\) degrees Fahrenheit and the low temperature was \(28\) degrees Fahrenheit. What was the difference between the high and low temperatures?
+*Temperature* The high temperature in Peoria one day was <span class="math-inline">86</span> degrees Fahrenheit and the low temperature was <span class="math-inline">28</span> degrees Fahrenheit. What was the difference between the high and low temperatures?
 
 
 58 degrees Fahrenheit
 
 
-*Savings* Lynn wants to go on a cruise that costs \($2,485.\) She has \($948\) in her vacation savings account. How much more does she need to save in order to pay for the cruise?
+*Savings* Lynn wants to go on a cruise that costs <span class="math-inline">$2,485.</span> She has <span class="math-inline">$948</span> in her vacation savings account. How much more does she need to save in order to pay for the cruise?
 
 
 *Use Multiplication Notation*
@@ -421,22 +491,22 @@ In the following exercises, solve.
 In the following exercises, translate from math notation to words.
 
 
-\(8 \times  5\)
+<span class="math-inline">8 ×  5</span>
 
 
 eight times five; the product of eight and five
 
 
-\(6\cdot 14\)
+<span class="math-inline">6· 14</span>
 
 
-\((10)(95)\)
+<span class="math-inline">(10)(95)</span>
 
 
 ten times ninety-five; the product of ten and ninety-five
 
 
-\(54(72)\)
+<span class="math-inline">54(72)</span>
 
 
 *Model Multiplication of Whole Numbers*
@@ -444,10 +514,10 @@ ten times ninety-five; the product of ten and ninety-five
 In the following exercises, model the multiplication.
 
 
-\(2 \times  4\)
+<span class="math-inline">2 ×  4</span>
 
 
-\(3 \times  8\)
+<span class="math-inline">3 ×  8</span>
 
 
 *Multiply Whole Numbers*
@@ -457,68 +527,68 @@ In the following exercises, fill in the missing values in each chart.
 In the following exercises, multiply.
 
 
-\(0\cdot 14\)
+<span class="math-inline">0· 14</span>
 
 
 0
 
 
-\((256)0\)
+<span class="math-inline">(256)0</span>
 
 
-\(1\cdot 99\)
+<span class="math-inline">1· 99</span>
 
 
 99
 
 
-\((4,789)1\)
+<span class="math-inline">(4,789)1</span>
 
 
-ⓐ \(7\cdot 4\) ⓑ \(4\cdot 7\)
+ⓐ <span class="math-inline">7· 4</span> ⓑ <span class="math-inline">4· 7</span>
 
 
   - ⓐ 28
   - ⓑ 28
 
 
-\((25)(6)\)
+<span class="math-inline">(25)(6)</span>
 
 
-\(9,261 \times  3\)
+<span class="math-inline">9,261 ×  3</span>
 
 
 27,783
 
 
-\(48\cdot 76\)
+<span class="math-inline">48· 76</span>
 
 
-\(64\cdot 10\)
+<span class="math-inline">64· 10</span>
 
 
 640
 
 
-\(1,000(22)\)
+<span class="math-inline">1,000(22)</span>
 
 
-\(162 \times  493\)
+<span class="math-inline">162 ×  493</span>
 
 
 79,866
 
 
-\((601)(943)\)
+<span class="math-inline">(601)(943)</span>
 
 
-\(3,624 \times  517\)
+<span class="math-inline">3,624 ×  517</span>
 
 
 1,873,608
 
 
-\(10,538\cdot 22\)
+<span class="math-inline">10,538· 22</span>
 
 
 *Translate Word Phrases to Math Notation*
@@ -526,7 +596,7 @@ In the following exercises, multiply.
 In the following exercises, translate and simplify.
 
 
-the product of \(15\) and \(28\)
+the product of <span class="math-inline">15</span> and <span class="math-inline">28</span>
 
 
 15(28); 420
@@ -535,7 +605,7 @@ the product of \(15\) and \(28\)
 ninety-four times thirty-three
 
 
-twice \(575\)
+twice <span class="math-inline">575</span>
 
 
 2(575); 1,150
@@ -549,22 +619,22 @@ ten times two hundred sixty-four
 In the following exercises, solve.
 
 
-*Gardening* Geniece bought \(8\) packs of marigolds to plant in her yard. Each pack has \(6\) flowers. How many marigolds did Geniece buy?
+*Gardening* Geniece bought <span class="math-inline">8</span> packs of marigolds to plant in her yard. Each pack has <span class="math-inline">6</span> flowers. How many marigolds did Geniece buy?
 
 
 48 marigolds
 
 
-*Cooking* Ratika is making rice for a dinner party. The number of cups of water is twice the number of cups of rice. If Ratika plans to use \(4\) cups of rice, how many cups of water does she need?
+*Cooking* Ratika is making rice for a dinner party. The number of cups of water is twice the number of cups of rice. If Ratika plans to use <span class="math-inline">4</span> cups of rice, how many cups of water does she need?
 
 
-*Multiplex* There are twelve theaters at the multiplex and each theater has \(150\) seats. What is the total number of seats at the multiplex?
+*Multiplex* There are twelve theaters at the multiplex and each theater has <span class="math-inline">150</span> seats. What is the total number of seats at the multiplex?
 
 
 1,800 seats
 
 
-*Roofing* Lewis needs to put new shingles on his roof. The roof is a rectangle, \(30\) feet by \(24\) feet. What is the area of the roof?
+*Roofing* Lewis needs to put new shingles on his roof. The roof is a rectangle, <span class="math-inline">30</span> feet by <span class="math-inline">24</span> feet. What is the area of the roof?
 
 
 *Use Division Notation*
@@ -572,22 +642,22 @@ In the following exercises, solve.
 Translate from math notation to words.
 
 
-\(54\div 9\)
+<span class="math-inline">54÷ 9</span>
 
 
 fifty-four divided by nine; the quotient of fifty-four and nine
 
 
-\(42/7\)
+<span class="math-inline">42/7</span>
 
 
-\(\frac{72}{8}\)
+<span class="math-inline"><sup>72</sup>∕<sub>8</sub></span>
 
 
 seventy-two divided by eight; the quotient of seventy-two and eight
 
 
-\(6\)
+<span class="math-inline">6</span>
 
 
 *Model Division of Whole Numbers*
@@ -595,10 +665,10 @@ seventy-two divided by eight; the quotient of seventy-two and eight
 In the following exercises, model.
 
 
-\(8\div 2\)
+<span class="math-inline">8÷ 2</span>
 
 
-\(3\)
+<span class="math-inline">3</span>
 
 
 *Divide Whole Numbers*
@@ -606,58 +676,58 @@ In the following exercises, model.
 In the following exercises, divide. Then check by multiplying.
 
 
-\(14\div 2\)
+<span class="math-inline">14÷ 2</span>
 
 
 7
 
 
-\(\frac{32}{8}\)
+<span class="math-inline"><sup>32</sup>∕<sub>8</sub></span>
 
 
-\(52\div 4\)
+<span class="math-inline">52÷ 4</span>
 
 
 13
 
 
-\(26\)
+<span class="math-inline">26</span>
 
 
-\(\frac{97}{1}\)
+<span class="math-inline"><sup>97</sup>∕<sub>1</sub></span>
 
 
 97
 
 
-\(0\div 52\)
+<span class="math-inline">0÷ 52</span>
 
 
-\(100\div 0\)
+<span class="math-inline">100÷ 0</span>
 
 
 undefined
 
 
-\(\frac{355}{5}\)
+<span class="math-inline"><sup>355</sup>∕<sub>5</sub></span>
 
 
-\(3828\div 6\)
+<span class="math-inline">3828÷ 6</span>
 
 
 638
 
 
-\(31\)
+<span class="math-inline">31</span>
 
 
-\(\frac{7505}{25}\)
+<span class="math-inline"><sup>7505</sup>∕<sub>25</sub></span>
 
 
 300 R5
 
 
-\(5,166\div 42\)
+<span class="math-inline">5,166÷ 42</span>
 
 
 *Translate Word Phrases to Math Notation*
@@ -665,13 +735,13 @@ undefined
 In the following exercises, translate and simplify.
 
 
-the quotient of \(64\) and \(16\)
+the quotient of <span class="math-inline">64</span> and <span class="math-inline">16</span>
 
 
 64 ÷ 16; 4
 
 
-the quotient of \(572\) and \(52\)
+the quotient of <span class="math-inline">572</span> and <span class="math-inline">52</span>
 
 
 *Divide Whole Numbers in Applications*
@@ -679,14 +749,16 @@ the quotient of \(572\) and \(52\)
 In the following exercises, solve.
 
 
-*Ribbon* One spool of ribbon is \(27\) feet. Lizbeth uses \(3\) feet of ribbon for each gift basket that she wraps. How many gift baskets can Lizbeth wrap from one spool of ribbon?
+*Ribbon* One spool of ribbon is <span class="math-inline">27</span> feet. Lizbeth uses <span class="math-inline">3</span> feet of ribbon for each gift basket that she wraps. How many gift baskets can Lizbeth wrap from one spool of ribbon?
 
 
 9 baskets
 
 
-*Juice* One carton of fruit juice is \(128\) ounces. How many \(4\) ounce cups can Shayla fill from one carton of juice?
+*Juice* One carton of fruit juice is <span class="math-inline">128</span> ounces. How many <span class="math-inline">4</span> ounce cups can Shayla fill from one carton of juice?
 
+
+---
 
 ## Chapter Practice Test
 
@@ -694,19 +766,19 @@ In the following exercises, solve.
 Determine which of the following numbers are
 
   - ⓐ counting numbers
-  - ⓑ whole numbers.\(0,4,87\)
+  - ⓑ whole numbers.<span class="math-inline">0,4,87</span>
 
 
   - ⓐ 4, 87
   - ⓑ 0, 4, 87
 
 
-Find the place value of the given digits in the number \(549,362.\)
+Find the place value of the given digits in the number <span class="math-inline">549,362.</span>
 
-  - ⓐ \(9\)
-  - ⓑ \(6\)
-  - ⓒ \(2\)
-  - ⓓ \(5\)
+  - ⓐ <span class="math-inline">9</span>
+  - ⓑ <span class="math-inline">6</span>
+  - ⓒ <span class="math-inline">2</span>
+  - ⓓ <span class="math-inline">5</span>
 
 
 Write each number as a whole number using digits.
@@ -719,133 +791,133 @@ Write each number as a whole number using digits.
   - ⓑ 55,208
 
 
-Round \(25,849\) to the nearest hundred.
+Round <span class="math-inline">25,849</span> to the nearest hundred.
 
 
 Simplify.
 
 
-\(45+23\)
+<span class="math-inline">45+23</span>
 
 
 68
 
 
-\(65-42\)
+<span class="math-inline">65-42</span>
 
 
-\(85\div 5\)
+<span class="math-inline">85÷ 5</span>
 
 
 17
 
 
-\(1,000 \times  8\)
+<span class="math-inline">1,000 ×  8</span>
 
 
-\(90-58\)
+<span class="math-inline">90-58</span>
 
 
 32
 
 
-\(73+89\)
+<span class="math-inline">73+89</span>
 
 
-\((0)(12,675)\)
-
-
-0
-
-
-\(634+255\)
-
-
-\(\frac{0}{9}\)
+<span class="math-inline">(0)(12,675)</span>
 
 
 0
 
 
-\(8\)
+<span class="math-inline">634+255</span>
 
 
-\(145-79\)
+<span class="math-inline"><sup>0</sup>∕<sub>9</sub></span>
+
+
+0
+
+
+<span class="math-inline">8</span>
+
+
+<span class="math-inline">145-79</span>
 
 
 66
 
 
-\(299+836\)
+<span class="math-inline">299+836</span>
 
 
-\(7\cdot 475\)
+<span class="math-inline">7· 475</span>
 
 
 3,325
 
 
-\(8,528+704\)
+<span class="math-inline">8,528+704</span>
 
 
-\(35(14)\)
+<span class="math-inline">35(14)</span>
 
 
 490
 
 
-\(\frac{26}{0}\)
+<span class="math-inline"><sup>26</sup>∕<sub>0</sub></span>
 
 
-\(733-291\)
+<span class="math-inline">733-291</span>
 
 
 442
 
 
-\(4,916-1,538\)
+<span class="math-inline">4,916-1,538</span>
 
 
-\(495\div 45\)
+<span class="math-inline">495÷ 45</span>
 
 
 11
 
 
-\(52 \times  983\)
+<span class="math-inline">52 ×  983</span>
 
 
 Translate each phrase to math notation and then simplify.
 
 
-The sum of \(16\) and \(58\)
+The sum of <span class="math-inline">16</span> and <span class="math-inline">58</span>
 
 
 16 + 58; 74
 
 
-The product of \(9\) and \(15\)
+The product of <span class="math-inline">9</span> and <span class="math-inline">15</span>
 
 
-The difference of \(32\) and \(18\)
+The difference of <span class="math-inline">32</span> and <span class="math-inline">18</span>
 
 
 32 − 18; 14
 
 
-The quotient of \(63\) and \(21\)
+The quotient of <span class="math-inline">63</span> and <span class="math-inline">21</span>
 
 
-Twice \(524\)
+Twice <span class="math-inline">524</span>
 
 
 2(524); 1,048
 
 
-\(29\) more than \(32\)
+<span class="math-inline">29</span> more than <span class="math-inline">32</span>
 
 
-\(50\) less than \(300\)
+<span class="math-inline">50</span> less than <span class="math-inline">300</span>
 
 
 300 − 50; 250
@@ -854,19 +926,19 @@ Twice \(524\)
 In the following exercises, solve.
 
 
-LaVelle buys a jumbo bag of \(84\) candies to make favor bags for her son’s party. If she wants to make \(12\) bags, how many candies should she put in each bag?
+LaVelle buys a jumbo bag of <span class="math-inline">84</span> candies to make favor bags for her son’s party. If she wants to make <span class="math-inline">12</span> bags, how many candies should she put in each bag?
 
 
-Last month, Stan’s take-home pay was \($3,816\) and his expenses were \($3,472.\) How much of his take-home pay did Stan have left after he paid his expenses?
+Last month, Stan’s take-home pay was <span class="math-inline">$3,816</span> and his expenses were <span class="math-inline">$3,472.</span> How much of his take-home pay did Stan have left after he paid his expenses?
 
 
 Stan had $344 left.
 
 
-Each class at Greenville School has \(22\) children enrolled. The school has \(24\) classes. How many children are enrolled at Greenville School?
+Each class at Greenville School has <span class="math-inline">22</span> children enrolled. The school has <span class="math-inline">24</span> classes. How many children are enrolled at Greenville School?
 
 
-Clayton walked \(12\) blocks to his mother’s house, \(6\) blocks to the gym, and \(9\) blocks to the grocery store before walking the last \(3\) blocks home. What was the total number of blocks that Clayton walked?
+Clayton walked <span class="math-inline">12</span> blocks to his mother’s house, <span class="math-inline">6</span> blocks to the gym, and <span class="math-inline">9</span> blocks to the grocery store before walking the last <span class="math-inline">3</span> blocks home. What was the total number of blocks that Clayton walked?
 
 
 Clayton walked 30 blocks.

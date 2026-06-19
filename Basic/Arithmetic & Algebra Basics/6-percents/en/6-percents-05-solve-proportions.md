@@ -1,76 +1,126 @@
+<style>
+.math-inline {
+    font-style: italic;
+    padding: 2px 6px;
+    border-radius: 4px;
+    background: #f8f9fa;
+    font-family: Georgia, serif;
+}
+.math-display {
+    background: #f8f9fa;
+    border-left: 4px solid #4a90d9;
+    padding: 16px 20px;
+    margin: 16px 0;
+    border-radius: 6px;
+    font-size: 1.15em;
+    font-family: Georgia, serif;
+    text-align: center;
+    line-height: 2;
+    overflow-x: auto;
+}
+.example-box, .example {
+    background: #f0f8ff;
+    border-left: 4px solid #2e86de;
+    padding: 12px 20px;
+    margin: 16px 0;
+    border-radius: 6px;
+}
+.tryit-box, .tryit {
+    background: #f0fff4;
+    border-left: 4px solid #27ae60;
+    padding: 12px 20px;
+    margin: 16px 0;
+    border-radius: 6px;
+}
+.solution-box, .solution {
+    background: #fef9e7;
+    border-left: 4px solid #f39c12;
+    padding: 12px 20px;
+    margin: 12px 0;
+    border-radius: 6px;
+}
+.check-box, .check {
+    background: #fef9e7;
+    border-left: 4px solid #f39c12;
+    padding: 12px 20px;
+    margin: 12px 0;
+    border-radius: 6px;
+}
+.prep-quiz {
+    background: #fff3cd;
+    border: 1px solid #ffc107;
+    padding: 12px 20px;
+    margin: 16px 0;
+    border-radius: 6px;
+}
+.def-label, .definition-label {
+    font-weight: bold;
+    font-size: 1.1em;
+    margin: 20px 0 8px 0;
+    color: #2c3e50;
+    display: block;
+}
+.math-display sup, .math-inline sup { font-size: 0.75em; line-height: 0; }
+.math-display sub, .math-inline sub { font-size: 0.75em; line-height: 0; }
+</style>
+
+
+---
+
+
+---
+
 ## Solve Proportions
+
 
 To solve a proportion containing a variable, we remember that the proportion is an equation. All of the techniques we have used so far to solve equations still apply. In the next example, we will solve a proportion by multiplying by the **Least Common Denominator** (LCD) using the **Multiplication Property of Equality**.
 
 
+<div class="example">
 **Example**
 
 
-Solve: \(\frac{x}{63}=\frac{4}{7}.\)
+Solve: <span class="math-inline"><sup>x</sup>∕<sub>63</sub>=<sup>4</sup>∕<sub>7</sub>.</span>
 
 
-Solution
+<div class="solution">
+<span class="def-label">Solution</span>
 
 
-
-
-
-
-    To isolate \(x\), multiply both sides by the LCD, 63.
-
-
+    To isolate <span class="math-inline">x</span>, multiply both sides by the LCD, 63.
 
 
  Simplify.
-
-
 
 
  Divide the common factors.
 
 
-
-
- Check: To check our answer, we substitute into the original proportion.
-
-
-
-
-
-
-
-
-
-
-
-
+<div class="check">
+<span class="def-label">Check</span>
 
 
  Show common factors.
 
 
-
-
-
  Simplify.
 
 
-
-
-
+<div class="tryit">
 **Try It**
 
 
-Solve the proportion: \(\frac{n}{84}=\frac{11}{12}.\)
+Solve the proportion: <span class="math-inline"><sup>n</sup>∕<sub>84</sub>=<sup>11</sup>∕<sub>12</sub>.</span>
 
 
 77
 
 
+<div class="tryit">
 **Try It**
 
 
-Solve the proportion: \(\frac{y}{96}=\frac{13}{12}.\)
+Solve the proportion: <span class="math-inline"><sup>y</sup>∕<sub>96</sub>=<sup>13</sup>∕<sub>12</sub>.</span>
 
 
 104
@@ -81,156 +131,138 @@ When the variable is in a denominator, we’ll use the fact that the **cross pro
 We can find the cross products of the proportion and then set them equal. Then we solve the resulting equation using our familiar techniques.
 
 
+<div class="example">
 **Example**
 
 
-Solve: \(\frac{144}{a}=\frac{9}{4}.\)
+Solve: <span class="math-inline"><sup>144</sup>∕<sub>a</sub>=<sup>9</sup>∕<sub>4</sub>.</span>
 
 
-Solution
+<div class="solution">
+<span class="def-label">Solution</span>
+
+
 Notice that the variable is in the denominator, so we will solve by finding the cross products and setting them equal.
-
 
 
     Find the cross products and set them equal.
 
 
-
-
  Simplify.
-
-
 
 
  Divide both sides by 9.
 
 
-
-
  Simplify.
 
 
-
-	Check your answer.
-
-
-
-
-
-
-
-
-
-
-
-
+<div class="check-box">
+<span class="def-label">Check your answer.</span>
 
 
  Show common factors..
 
 
-
-
-
  Simplify.
 
 
+Another method to solve this would be to multiply both sides by the LCD, <span class="math-inline">4a.</span> Try it and verify that you get the same solution.
 
 
-
-Another method to solve this would be to multiply both sides by the LCD, \(4a.\) Try it and verify that you get the same solution.
-
-
+<div class="tryit">
 **Try It**
 
 
-Solve the proportion: \(\frac{91}{b}=\frac{7}{5}.\)
+Solve the proportion: <span class="math-inline"><sup>91</sup>∕<sub>b</sub>=<sup>7</sup>∕<sub>5</sub>.</span>
 
 
 65
 
 
+<div class="tryit">
 **Try It**
 
 
-Solve the proportion: \(\frac{39}{c}=\frac{13}{8}.\)
+Solve the proportion: <span class="math-inline"><sup>39</sup>∕<sub>c</sub>=<sup>13</sup>∕<sub>8</sub>.</span>
 
 
 24
 
 
+<div class="example">
 **Example**
 
 
-Solve: \(\frac{52}{91}=\frac{−4}{y}.\)
+Solve: <span class="math-inline"><sup>52</sup>∕<sub>91</sub>=<sup>−4</sup>∕<sub>y</sub>.</span>
 
 
-Solution
+<div class="solution">
+<span class="def-label">Solution</span>
 
 
  Find the cross products and set them equal.
 
 
-
    Simplify.
-
-
 
 
  Divide both sides by 52.
 
 
-
-
  Simplify.
 
 
-
-
- Check:
-
+<div class="check">
+<span class="def-label">Check</span>
 
 
    Show common factors.
 
 
-
-
  Simplify.
 
 
-
-
+<div class="tryit">
 **Try It**
 
 
-Solve the proportion: \(\frac{84}{98}=\frac{−6}{x}.\)
+Solve the proportion: <span class="math-inline"><sup>84</sup>∕<sub>98</sub>=<sup>−6</sup>∕<sub>x</sub>.</span>
 
 
 −7
 
 
+<div class="tryit">
 **Try It**
 
 
-Solve the proportion: \(\frac{−7}{y}=\frac{105}{135}.\)
+Solve the proportion: <span class="math-inline"><sup>−7</sup>∕<sub>y</sub>=<sup>105</sup>∕<sub>135</sub>.</span>
 
 
 −9
 
 
+---
+
+
+---
+
 ## Solve Applications Using Proportions
+
 
 The strategy for solving applications that we have used earlier in this chapter, also works for proportions, since proportions are equations. When we set up the **proportion**, we must make sure the units are correct—the units in the numerators match and the units in the denominators match.
 
 
+<div class="example">
 **Example**
 
 
-When pediatricians prescribe acetaminophen to children, they prescribe \(5\) milliliters (ml) of acetaminophen for every \(25\) pounds of the child’s weight. If Zoe weighs \(80\) pounds, how many milliliters of acetaminophen will her doctor prescribe?
+When pediatricians prescribe acetaminophen to children, they prescribe <span class="math-inline">5</span> milliliters (ml) of acetaminophen for every <span class="math-inline">25</span> pounds of the child’s weight. If Zoe weighs <span class="math-inline">80</span> pounds, how many milliliters of acetaminophen will her doctor prescribe?
 
 
-Solution
+<div class="solution">
+<span class="def-label">Solution</span>
 
 
  Identify what you are asked to find.
@@ -238,39 +270,30 @@ How many ml of acetaminophen the doctor will prescribe
 
 
  Choose a variable to represent it.
-Let \(a=\) ml of acetaminophen.
+Let <span class="math-inline">a=</span> ml of acetaminophen.
 
 
 Write a sentence that gives the information to find it.
 If 5 ml is prescribed for every 25 pounds, how much will be prescribed for 80 pounds?
 
 
-
    Translate into a proportion.
-
-
 
 
  Substitute given values—be careful of the units.
 
 
-
-
  Multiply both sides by 80.
-
-
 
 
   Multiply and show common factors.
 
 
-
-
  Simplify.
 
 
-
- Check if the answer is reasonable.
+<div class="check-box">
+<span class="def-label">Check if the answer is reasonable.</span>
 
 
  Yes. Since 80 is about 3 times 25, the medicine should be about 3 times 5.
@@ -283,31 +306,35 @@ If 5 ml is prescribed for every 25 pounds, how much will be prescribed for 80 po
 You could also solve this proportion by setting the cross products equal.
 
 
+<div class="tryit">
 **Try It**
 
 
-Pediatricians prescribe \(5\) milliliters (ml) of acetaminophen for every \(25\) pounds of a child’s weight. How many milliliters of acetaminophen will the doctor prescribe for Emilia, who weighs \(60\) pounds?
+Pediatricians prescribe <span class="math-inline">5</span> milliliters (ml) of acetaminophen for every <span class="math-inline">25</span> pounds of a child’s weight. How many milliliters of acetaminophen will the doctor prescribe for Emilia, who weighs <span class="math-inline">60</span> pounds?
 
 
 12 ml
 
 
+<div class="tryit">
 **Try It**
 
 
-For every \(1\) kilogram (kg) of a child’s weight, pediatricians prescribe \(15\) milligrams (mg) of a fever reducer. If Isabella weighs \(12\) kg, how many milligrams of the fever reducer will the pediatrician prescribe?
+For every <span class="math-inline">1</span> kilogram (kg) of a child’s weight, pediatricians prescribe <span class="math-inline">15</span> milligrams (mg) of a fever reducer. If Isabella weighs <span class="math-inline">12</span> kg, how many milligrams of the fever reducer will the pediatrician prescribe?
 
 
 180 mg
 
 
+<div class="example">
 **Example**
 
 
-One brand of microwave popcorn has \(120\) calories per serving. A whole bag of this popcorn has \(3.5\) servings. How many calories are in a whole bag of this microwave popcorn?
+One brand of microwave popcorn has <span class="math-inline">120</span> calories per serving. A whole bag of this popcorn has <span class="math-inline">3.5</span> servings. How many calories are in a whole bag of this microwave popcorn?
 
 
-Solution
+<div class="solution">
+<span class="def-label">Solution</span>
 
 
 Identify what you are asked to find.
@@ -315,31 +342,23 @@ How many calories are in a whole bag of microwave popcorn?
 
 
 Choose a variable to represent it.
-Let \(c=\) number of calories.
+Let <span class="math-inline">c=</span> number of calories.
 
 
 Write a sentence that gives the information to find it.
 If there are 120 calories per serving, how many calories are in a whole bag with 3.5 servings?
 
 
-
    Translate into a proportion.
-
-
 
 
  Substitute given values.
 
 
-
-
  Multiply both sides by 3.5.
 
 
-
-
  Multiply.
-
 
 
  Check if the answer is reasonable.
@@ -352,31 +371,35 @@ If there are 120 calories per serving, how many calories are in a whole bag with
  The whole bag of microwave popcorn has 420 calories.
 
 
+<div class="tryit">
 **Try It**
 
 
-Marissa loves the Caramel Macchiato at the coffee shop. The \(16\) oz. medium size has \(240\) calories. How many calories will she get if she drinks the large \(20\) oz. size?
+Marissa loves the Caramel Macchiato at the coffee shop. The <span class="math-inline">16</span> oz. medium size has <span class="math-inline">240</span> calories. How many calories will she get if she drinks the large <span class="math-inline">20</span> oz. size?
 
 
 300
 
 
+<div class="tryit">
 **Try It**
 
 
-Yaneli loves Starburst candies, but wants to keep her snacks to \(100\) calories. If the candies have \(160\) calories for \(8\) pieces, how many pieces can she have in her snack?
+Yaneli loves Starburst candies, but wants to keep her snacks to <span class="math-inline">100</span> calories. If the candies have <span class="math-inline">160</span> calories for <span class="math-inline">8</span> pieces, how many pieces can she have in her snack?
 
 
 5 pieces
 
 
+<div class="example">
 **Example**
 
 
-Josiah went to Mexico for spring break and changed \($325\) dollars into Mexican pesos. At that time, the exchange rate had \($1\) U.S. is equal to \(12.54\) Mexican pesos. How many Mexican pesos did he get for his trip?
+Josiah went to Mexico for spring break and changed <span class="math-inline">$325</span> dollars into Mexican pesos. At that time, the exchange rate had <span class="math-inline">$1</span> U.S. is equal to <span class="math-inline">12.54</span> Mexican pesos. How many Mexican pesos did he get for his trip?
 
 
-Solution
+<div class="solution">
+<span class="def-label">Solution</span>
 
 
 Identify what you are asked to find.
@@ -384,30 +407,23 @@ How many Mexican pesos did Josiah get?
 
 
 Choose a variable to represent it.
-Let \(p=\) number of pesos.
+Let <span class="math-inline">p=</span> number of pesos.
 
 
 Write a sentence that gives the information to find it.
 If $1 U.S. is equal to 12.54 Mexican pesos, then $325 is how many pesos?
 
 
-
    Translate into a proportion.
-
-
 
 
  Substitute given values.
 
 
-
-
  The variable is in the denominator, so find the cross products and set them equal.
 
 
-
  Simplify.
-
 
 
  Check if the answer is reasonable.
@@ -420,220 +436,234 @@ If $1 U.S. is equal to 12.54 Mexican pesos, then $325 is how many pesos?
  Josiah has 4075.5 pesos for his spring break trip.
 
 
+<div class="tryit">
 **Try It**
 
 
-Yurianna is going to Europe and wants to change \($800\) dollars into Euros. At the current exchange rate, \($1\) US is equal to \(0.738\) Euro. How many Euros will she have for her trip?
+Yurianna is going to Europe and wants to change <span class="math-inline">$800</span> dollars into Euros. At the current exchange rate, <span class="math-inline">$1</span> US is equal to <span class="math-inline">0.738</span> Euro. How many Euros will she have for her trip?
 
 
 590 Euros
 
 
+<div class="tryit">
 **Try It**
 
 
-Corey and Nicole are traveling to Japan and need to exchange \($600\) into Japanese yen. If each dollar is \(94.1\) yen, how many yen will they get?
+Corey and Nicole are traveling to Japan and need to exchange <span class="math-inline">$600</span> into Japanese yen. If each dollar is <span class="math-inline">94.1</span> yen, how many yen will they get?
 
 
 56,460 yen
 
 
+---
+
+
+---
+
 ## Write Percent Equations As Proportions
+
 
 Previously, we solved percent equations by applying the properties of equality we have used to solve equations throughout this text. Some people prefer to solve percent equations by using the proportion method. The proportion method for solving percent problems involves a percent proportion. A *percent proportion* is an equation where a percent is equal to an equivalent ratio.
 
-For example, \(60%=\frac{60}{100}\) and we can simplify \(\frac{60}{100}=\frac{3}{5}.\) Since the equation \(\frac{60}{100}=\frac{3}{5}\) shows a percent equal to an equivalent ratio, we call it a **percent proportion**. Using the vocabulary we used earlier:
+For example, <span class="math-inline">60%=<sup>60</sup>∕<sub>100</sub></span> and we can simplify <span class="math-inline"><sup>60</sup>∕<sub>100</sub>=<sup>3</sup>∕<sub>5</sub>.</span> Since the equation <span class="math-inline"><sup>60</sup>∕<sub>100</sub>=<sup>3</sup>∕<sub>5</sub></span> shows a percent equal to an equivalent ratio, we call it a **percent proportion**. Using the vocabulary we used earlier:
 
 
-$$
-\frac{amount}{base}=\frac{percent}{100}
-$$
+<div class="math-display">
+<sup>amount</sup>∕<sub>base</sub>=<sup>percent</sup>∕<sub>100</sub>
+</div>
 
 
-$$
-\frac{3}{5}=\frac{60}{100}
-$$
+<div class="math-display">
+<sup>3</sup>∕<sub>5</sub>=<sup>60</sup>∕<sub>100</sub>
+</div>
 
 
-**Percent Proportion**
-
-The amount is to the base as the percent is to \(100.\)
+<div class="definition-label">**Percent Proportion**</div>
 
 
-$$
-\frac{amount}{base}=\frac{percent}{100}
-$$
+The amount is to the base as the percent is to <span class="math-inline">100.</span>
+
+
+<div class="math-display">
+<sup>amount</sup>∕<sub>base</sub>=<sup>percent</sup>∕<sub>100</sub>
+</div>
+
 
 If we restate the problem in the words of a proportion, it may be easier to set up the proportion:
 
 
-$$
+<div class="math-display">
 The amount is to the base as the percent is to one hundred.
-$$
+</div>
+
 
 We could also say:
 
 
-$$
+<div class="math-display">
 The amount out of the base is the same as the percent out of one hundred.
-$$
+</div>
+
 
 First we will practice translating into a percent proportion. Later, we’ll solve the proportion.
 
 
+<div class="example">
 **Example**
 
 
-Translate to a proportion. What number is \(75%\) of \(90?\)
+Translate to a proportion. What number is <span class="math-inline">75%</span> of <span class="math-inline">90?</span>
 
 
-Solution
+<div class="solution">
+<span class="def-label">Solution</span>
+
+
 If you look for the word "of", it may help you identify the base.
 
 
-
-
     Identify the parts of the percent proportion.
-
 
 
     Restate as a proportion.
 
 
+    Set up the proportion. Let <span class="math-inline">n=number</span>.
+    <span class="math-inline"><sup>n</sup>∕<sub>90</sub>=<sup>75</sup>∕<sub>100</sub></span>
 
 
-    Set up the proportion. Let \(n=number\).
-    \(\frac{n}{90}=\frac{75}{100}\)
-
-
-
+<div class="tryit">
 **Try It**
 
 
-Translate to a proportion: What number is \(60%\) of \(105?\)
+Translate to a proportion: What number is <span class="math-inline">60%</span> of <span class="math-inline">105?</span>
 
 
-\(\frac{n}{105}=\frac{60}{100}\)
+<span class="math-inline"><sup>n</sup>∕<sub>105</sub>=<sup>60</sup>∕<sub>100</sub></span>
 
 
+<div class="tryit">
 **Try It**
 
 
-Translate to a proportion: What number is \(40%\) of \(85?\)
+Translate to a proportion: What number is <span class="math-inline">40%</span> of <span class="math-inline">85?</span>
 
 
-\(\frac{n}{85}=\frac{40}{100}\)
+<span class="math-inline"><sup>n</sup>∕<sub>85</sub>=<sup>40</sup>∕<sub>100</sub></span>
 
 
+<div class="example">
 **Example**
 
 
-Translate to a proportion. \(19\) is \(25%\) of what number?
+Translate to a proportion. <span class="math-inline">19</span> is <span class="math-inline">25%</span> of what number?
 
 
-Solution
-
+<div class="solution">
+<span class="def-label">Solution</span>
 
 
     Identify the parts of the percent proportion.
 
 
-
     Restate as a proportion.
 
 
+    Set up the proportion. Let <span class="math-inline">n=number</span>.
+    <span class="math-inline"><sup>19</sup>∕<sub>n</sub>=<sup>25</sup>∕<sub>100</sub></span>
 
 
-    Set up the proportion. Let \(n=number\).
-    \(\frac{19}{n}=\frac{25}{100}\)
-
-
-
+<div class="tryit">
 **Try It**
 
 
-Translate to a proportion: \(36\) is \(25%\) of what number?
+Translate to a proportion: <span class="math-inline">36</span> is <span class="math-inline">25%</span> of what number?
 
 
-\(\frac{36}{n}=\frac{25}{100}\)
+<span class="math-inline"><sup>36</sup>∕<sub>n</sub>=<sup>25</sup>∕<sub>100</sub></span>
 
 
+<div class="tryit">
 **Try It**
 
 
-Translate to a proportion: \(27\) is \(36%\) of what number?
+Translate to a proportion: <span class="math-inline">27</span> is <span class="math-inline">36%</span> of what number?
 
 
-\(\frac{27}{n}=\frac{36}{100}\)
+<span class="math-inline"><sup>27</sup>∕<sub>n</sub>=<sup>36</sup>∕<sub>100</sub></span>
 
 
+<div class="example">
 **Example**
 
 
-Translate to a proportion. What percent of \(27\) is \(9?\)
+Translate to a proportion. What percent of <span class="math-inline">27</span> is <span class="math-inline">9?</span>
 
 
-Solution
-
+<div class="solution">
+<span class="def-label">Solution</span>
 
 
     Identify the parts of the percent proportion.
 
 
-
     Restate as a proportion.
 
 
+    Set up the proportion. Let <span class="math-inline">p=percent</span>.
+    <span class="math-inline"><sup>9</sup>∕<sub>27</sub>=<sup>p</sup>∕<sub>100</sub></span>
 
 
-    Set up the proportion. Let \(p=percent\).
-    \(\frac{9}{27}=\frac{p}{100}\)
-
-
-
+<div class="tryit">
 **Try It**
 
 
-Translate to a proportion: What percent of \(52\) is \(39?\)
+Translate to a proportion: What percent of <span class="math-inline">52</span> is <span class="math-inline">39?</span>
 
 
-\(\frac{n}{100}=\frac{39}{52}\)
+<span class="math-inline"><sup>n</sup>∕<sub>100</sub>=<sup>39</sup>∕<sub>52</sub></span>
 
 
+<div class="tryit">
 **Try It**
 
 
-Translate to a proportion: What percent of \(92\) is \(23?\)
+Translate to a proportion: What percent of <span class="math-inline">92</span> is <span class="math-inline">23?</span>
 
 
-\(\frac{n}{100}=\frac{23}{92}\)
+<span class="math-inline"><sup>n</sup>∕<sub>100</sub>=<sup>23</sup>∕<sub>92</sub></span>
 
+
+---
+
+
+---
 
 ## Translate and Solve Percent Proportions
+
 
 Now that we have written percent equations as proportions, we are ready to solve the equations.
 
 
+<div class="example">
 **Example**
 
 
-Translate and solve using proportions: What number is \(45%\) of \(80?\)
+Translate and solve using proportions: What number is <span class="math-inline">45%</span> of <span class="math-inline">80?</span>
 
 
-Solution
-
+<div class="solution">
+<span class="def-label">Solution</span>
 
 
     Identify the parts of the percent proportion.
 
 
-
     Restate as a proportion.
 
 
-
-
-Set up the proportion. Let \(n=\) number.
+Set up the proportion. Let <span class="math-inline">n=</span> number.
 
 
 Find the cross products and set them equal.
@@ -642,68 +672,64 @@ Find the cross products and set them equal.
 Simplify.
 
 
-
    Divide both sides by 100.
-
-
 
 
 Simplify.
 
 
- Check if the answer is reasonable.
+<div class="check-box">
+<span class="def-label">Check if the answer is reasonable.</span>
 
 
  Yes. 45 is a little less than half of 100 and 36 is a little less than half 80.
-
 
 
  Write a complete sentence that answers the question.
  36 is 45% of 80.
 
 
-
+<div class="tryit">
 **Try It**
 
 
-Translate and solve using proportions: What number is \(65%\) of \(40?\)
+Translate and solve using proportions: What number is <span class="math-inline">65%</span> of <span class="math-inline">40?</span>
 
 
-\(\frac{n}{40}=\frac{65}{100}; n=26\)
+<span class="math-inline"><sup>n</sup>∕<sub>40</sub>=<sup>65</sup>∕<sub>100</sub>; n=26</span>
 
 
+<div class="tryit">
 **Try It**
 
 
-Translate and solve using proportions: What number is \(85%\) of \(40?\)
+Translate and solve using proportions: What number is <span class="math-inline">85%</span> of <span class="math-inline">40?</span>
 
 
-\(\frac{n}{40}=\frac{85}{100}; n=34\)
+<span class="math-inline"><sup>n</sup>∕<sub>40</sub>=<sup>85</sup>∕<sub>100</sub>; n=34</span>
 
 
-In the next example, the percent is more than \(100,\) which is more than one whole. So the unknown number will be more than the base.
+In the next example, the percent is more than <span class="math-inline">100,</span> which is more than one whole. So the unknown number will be more than the base.
 
 
+<div class="example">
 **Example**
 
 
-Translate and solve using proportions: \(125%\) of \(25\) is what number?
+Translate and solve using proportions: <span class="math-inline">125%</span> of <span class="math-inline">25</span> is what number?
 
 
-Solution
-
+<div class="solution">
+<span class="def-label">Solution</span>
 
 
     Identify the parts of the percent proportion.
 
 
-
     Restate as a proportion.
 
 
-
-
-Set up the proportion. Let \(n=\) number.
+Set up the proportion. Let <span class="math-inline">n=</span> number.
 
 
 Find the cross products and set them equal.
@@ -712,10 +738,7 @@ Find the cross products and set them equal.
 Simplify.
 
 
-
    Divide both sides by 100.
-
-
 
 
 Simplify.
@@ -727,53 +750,51 @@ Simplify.
  Yes. 125 is more than 100 and 31.25 is more than 25.
 
 
-
  Write a complete sentence that answers the question.
  125% of 25 is 31.25.
 
 
-
+<div class="tryit">
 **Try It**
 
 
-Translate and solve using proportions: \(125%\) of \(64\) is what number?
+Translate and solve using proportions: <span class="math-inline">125%</span> of <span class="math-inline">64</span> is what number?
 
 
-\(\frac{n}{64}=\frac{125}{100}; n=80\)
+<span class="math-inline"><sup>n</sup>∕<sub>64</sub>=<sup>125</sup>∕<sub>100</sub>; n=80</span>
 
 
+<div class="tryit">
 **Try It**
 
 
-Translate and solve using proportions: \(175%\) of \(84\) is what number?
+Translate and solve using proportions: <span class="math-inline">175%</span> of <span class="math-inline">84</span> is what number?
 
 
-\(\frac{n}{84}=\frac{175}{100}; n=147\)
+<span class="math-inline"><sup>n</sup>∕<sub>84</sub>=<sup>175</sup>∕<sub>100</sub>; n=147</span>
 
 
 Percents with decimals and money are also used in proportions.
 
 
+<div class="example">
 **Example**
 
 
-Translate and solve: \(6.5%\) of what number is \($1.56?\)
+Translate and solve: <span class="math-inline">6.5%</span> of what number is <span class="math-inline">$1.56?</span>
 
 
-Solution
-
+<div class="solution">
+<span class="def-label">Solution</span>
 
 
     Identify the parts of the percent proportion.
 
 
-
     Restate as a proportion.
 
 
-
-
-Set up the proportion. Let\(n=\) number.
+Set up the proportion. Let<span class="math-inline">n=</span> number.
 
 
 Find the cross products and set them equal.
@@ -782,10 +803,7 @@ Find the cross products and set them equal.
 Simplify.
 
 
-
    Divide both sides by 6.5 to isolate the variable.
-
-
 
 
 Simplify.
@@ -797,50 +815,48 @@ Simplify.
  Yes. 6.5% is a small amount and $1.56 is much less than $24.
 
 
-
  Write a complete sentence that answers the question.
  6.5% of $24 is $1.56.
 
 
-
+<div class="tryit">
 **Try It**
 
 
-Translate and solve using proportions: \(8.5%\) of what number is \($3.23?\)
+Translate and solve using proportions: <span class="math-inline">8.5%</span> of what number is <span class="math-inline">$3.23?</span>
 
 
-\(\frac{3.23}{n}=\frac{8.5}{100}; n=38\)
+<span class="math-inline"><sup>3.23</sup>∕<sub>n</sub>=<sup>8.5</sup>∕<sub>100</sub>; n=38</span>
 
 
+<div class="tryit">
 **Try It**
 
 
-Translate and solve using proportions: \(7.25%\) of what number is \($4.64?\)
+Translate and solve using proportions: <span class="math-inline">7.25%</span> of what number is <span class="math-inline">$4.64?</span>
 
 
-\(\frac{4.64}{n}=\frac{7.25}{100}; n=64\)
+<span class="math-inline"><sup>4.64</sup>∕<sub>n</sub>=<sup>7.25</sup>∕<sub>100</sub>; n=64</span>
 
 
+<div class="example">
 **Example**
 
 
-Translate and solve using proportions: What percent of \(72\) is \(9?\)
+Translate and solve using proportions: What percent of <span class="math-inline">72</span> is <span class="math-inline">9?</span>
 
 
-Solution
-
+<div class="solution">
+<span class="def-label">Solution</span>
 
 
     Identify the parts of the percent proportion.
 
 
-
     Restate as a proportion.
 
 
-
-
-Set up the proportion. Let \(n=\) number.
+Set up the proportion. Let <span class="math-inline">n=</span> number.
 
 
 Find the cross products and set them equal.
@@ -849,10 +865,7 @@ Find the cross products and set them equal.
 Simplify.
 
 
-
    Divide both sides by 72.
-
-
 
 
 Simplify.
@@ -861,47 +874,52 @@ Simplify.
  Check if the answer is reasonable.
 
 
- Yes. 9 is \(\frac{1}{8}\) of 72 and \(\frac{1}{8}\) is 12.5%.
-
+ Yes. 9 is <span class="math-inline"><sup>1</sup>∕<sub>8</sub></span> of 72 and <span class="math-inline"><sup>1</sup>∕<sub>8</sub></span> is 12.5%.
 
 
  Write a complete sentence that answers the question.
  12.5% of 72 is 9.
 
 
-
+<div class="tryit">
 **Try It**
 
 
-Translate and solve using proportions: What percent of \(72\) is \(27?\)
+Translate and solve using proportions: What percent of <span class="math-inline">72</span> is <span class="math-inline">27?</span>
 
 
-\(\frac{27}{72}=\frac{n}{100}; n=37.5%\)
+<span class="math-inline"><sup>27</sup>∕<sub>72</sub>=<sup>n</sup>∕<sub>100</sub>; n=37.5%</span>
 
 
+<div class="tryit">
 **Try It**
 
 
-Translate and solve using proportions: What percent of \(92\) is \(23?\)
+Translate and solve using proportions: What percent of <span class="math-inline">92</span> is <span class="math-inline">23?</span>
 
 
-\(\frac{23}{92}=\frac{n}{100}; n=25%\)
+<span class="math-inline"><sup>23</sup>∕<sub>92</sub>=<sup>n</sup>∕<sub>100</sub>; n=25%</span>
 
 
 ### Key Concepts
 
 - *Proportion*
 
-  - A proportion is an equation of the form \(\frac{a}{b}=\frac{c}{d}\), where \(b\ne 0\), \(d\ne 0\).The proportion states two ratios or rates are equal. The proportion is read “\(a\) is to \(b\), as \(c\) is to  \(d\)”.
+  - A proportion is an equation of the form <span class="math-inline"><sup>a</sup>∕<sub>b</sub>=<sup>c</sup>∕<sub>d</sub></span>, where <span class="math-inline">b≠ 0</span>, <span class="math-inline">d≠ 0</span>.The proportion states two ratios or rates are equal. The proportion is read “<span class="math-inline">a</span> is to <span class="math-inline">b</span>, as <span class="math-inline">c</span> is to  <span class="math-inline">d</span>”.
 
 - *Cross Products of a Proportion*
 
-  - For any proportion of the form \(\frac{a}{b}=\frac{c}{d}\), where \(b\ne 0\), its cross products are equal: \(a\cdot d=b\cdot c\).
+  - For any proportion of the form <span class="math-inline"><sup>a</sup>∕<sub>b</sub>=<sup>c</sup>∕<sub>d</sub></span>, where <span class="math-inline">b≠ 0</span>, its cross products are equal: <span class="math-inline">a· d=b· c</span>.
 
 - *Percent Proportion*
 
-  - The amount is to the base as the percent is to 100. \(\frac{amount}{base}=\frac{percent}{100}\)
+  - The amount is to the base as the percent is to 100. <span class="math-inline"><sup>amount</sup>∕<sub>base</sub>=<sup>percent</sup>∕<sub>100</sub></span>
 
+
+---
+
+
+---
 
 ## Section Exercises
 
@@ -913,97 +931,97 @@ Translate and solve using proportions: What percent of \(92\) is \(23?\)
 In the following exercises, write each sentence as a proportion.
 
 
-\(4\) is to \(15\) as \(36\) is to \(135.\)
+<span class="math-inline">4</span> is to <span class="math-inline">15</span> as <span class="math-inline">36</span> is to <span class="math-inline">135.</span>
 
 
-\(\frac{4}{15}=\frac{36}{135}\)
+<span class="math-inline"><sup>4</sup>∕<sub>15</sub>=<sup>36</sup>∕<sub>135</sub></span>
 
 
-\(7\) is to \(9\) as \(35\) is to \(45.\)
+<span class="math-inline">7</span> is to <span class="math-inline">9</span> as <span class="math-inline">35</span> is to <span class="math-inline">45.</span>
 
 
-\(12\) is to \(5\) as \(96\) is to \(40.\)
+<span class="math-inline">12</span> is to <span class="math-inline">5</span> as <span class="math-inline">96</span> is to <span class="math-inline">40.</span>
 
 
-\(\frac{12}{5}=\frac{96}{40}\)
+<span class="math-inline"><sup>12</sup>∕<sub>5</sub>=<sup>96</sup>∕<sub>40</sub></span>
 
 
-\(15\) is to \(8\) as \(75\) is to \(40.\)
+<span class="math-inline">15</span> is to <span class="math-inline">8</span> as <span class="math-inline">75</span> is to <span class="math-inline">40.</span>
 
 
-\(5\) wins in \(7\) games is the same as \(115\) wins in \(161\) games.
+<span class="math-inline">5</span> wins in <span class="math-inline">7</span> games is the same as <span class="math-inline">115</span> wins in <span class="math-inline">161</span> games.
 
 
-\(\frac{5}{7}=\frac{115}{161}\)
+<span class="math-inline"><sup>5</sup>∕<sub>7</sub>=<sup>115</sup>∕<sub>161</sub></span>
 
 
-\(4\) wins in \(9\) games is the same as \(36\) wins in \(81\) games.
+<span class="math-inline">4</span> wins in <span class="math-inline">9</span> games is the same as <span class="math-inline">36</span> wins in <span class="math-inline">81</span> games.
 
 
-\(8\) campers to \(1\) counselor is the same as \(48\) campers to \(6\) counselors.
+<span class="math-inline">8</span> campers to <span class="math-inline">1</span> counselor is the same as <span class="math-inline">48</span> campers to <span class="math-inline">6</span> counselors.
 
 
-\(\frac{8}{1}=\frac{48}{6}\)
+<span class="math-inline"><sup>8</sup>∕<sub>1</sub>=<sup>48</sup>∕<sub>6</sub></span>
 
 
-\(6\) campers to \(1\) counselor is the same as \(48\) campers to \(8\) counselors.
+<span class="math-inline">6</span> campers to <span class="math-inline">1</span> counselor is the same as <span class="math-inline">48</span> campers to <span class="math-inline">8</span> counselors.
 
 
-\($9.36\) for \(18\) ounces is the same as \($2.60\) for \(5\) ounces.
+<span class="math-inline">$9.36</span> for <span class="math-inline">18</span> ounces is the same as <span class="math-inline">$2.60</span> for <span class="math-inline">5</span> ounces.
 
 
-\(\frac{9.36}{18}=\frac{2.60}{5}\)
+<span class="math-inline"><sup>9.36</sup>∕<sub>18</sub>=<sup>2.60</sup>∕<sub>5</sub></span>
 
 
-\($3.92\) for \(8\) ounces is the same as \($1.47\) for \(3\) ounces.
+<span class="math-inline">$3.92</span> for <span class="math-inline">8</span> ounces is the same as <span class="math-inline">$1.47</span> for <span class="math-inline">3</span> ounces.
 
 
-\($18.04\) for \(11\) pounds is the same as \($4.92\) for \(3\) pounds.
+<span class="math-inline">$18.04</span> for <span class="math-inline">11</span> pounds is the same as <span class="math-inline">$4.92</span> for <span class="math-inline">3</span> pounds.
 
 
-\(\frac{18.04}{11}=\frac{4.92}{3}\)
+<span class="math-inline"><sup>18.04</sup>∕<sub>11</sub>=<sup>4.92</sup>∕<sub>3</sub></span>
 
 
-\($12.42\) for \(27\) pounds is the same as \($5.52\) for \(12\) pounds.
+<span class="math-inline">$12.42</span> for <span class="math-inline">27</span> pounds is the same as <span class="math-inline">$5.52</span> for <span class="math-inline">12</span> pounds.
 
 
 In the following exercises, determine whether each equation is a proportion.
 
 
-\(\frac{7}{15}=\frac{56}{120}\)
+<span class="math-inline"><sup>7</sup>∕<sub>15</sub>=<sup>56</sup>∕<sub>120</sub></span>
 
 
 yes
 
 
-\(\frac{5}{12}=\frac{45}{108}\)
+<span class="math-inline"><sup>5</sup>∕<sub>12</sub>=<sup>45</sup>∕<sub>108</sub></span>
 
 
-\(\frac{11}{6}=\frac{21}{16}\)
-
-
-no
-
-
-\(\frac{9}{4}=\frac{39}{34}\)
-
-
-\(\frac{12}{18}=\frac{4.99}{7.56}\)
+<span class="math-inline"><sup>11</sup>∕<sub>6</sub>=<sup>21</sup>∕<sub>16</sub></span>
 
 
 no
 
 
-\(\frac{9}{16}=\frac{2.16}{3.89}\)
+<span class="math-inline"><sup>9</sup>∕<sub>4</sub>=<sup>39</sup>∕<sub>34</sub></span>
 
 
-\(\frac{13.5}{8.5}=\frac{31.05}{19.55}\)
+<span class="math-inline"><sup>12</sup>∕<sub>18</sub>=<sup>4.99</sup>∕<sub>7.56</sub></span>
+
+
+no
+
+
+<span class="math-inline"><sup>9</sup>∕<sub>16</sub>=<sup>2.16</sup>∕<sub>3.89</sub></span>
+
+
+<span class="math-inline"><sup>13.5</sup>∕<sub>8.5</sub>=<sup>31.05</sup>∕<sub>19.55</sub></span>
 
 
 yes
 
 
-\(\frac{10.1}{8.4}=\frac{3.03}{2.52}\)
+<span class="math-inline"><sup>10.1</sup>∕<sub>8.4</sub>=<sup>3.03</sup>∕<sub>2.52</sub></span>
 
 
 *Solve Proportions*
@@ -1011,76 +1029,76 @@ yes
 In the following exercises, solve each proportion.
 
 
-\(\frac{x}{56}=\frac{7}{8}\)
+<span class="math-inline"><sup>x</sup>∕<sub>56</sub>=<sup>7</sup>∕<sub>8</sub></span>
 
 
 *x* = 49
 
 
-\(\frac{n}{91}=\frac{8}{13}\)
+<span class="math-inline"><sup>n</sup>∕<sub>91</sub>=<sup>8</sup>∕<sub>13</sub></span>
 
 
-\(\frac{49}{63}=\frac{z}{9}\)
+<span class="math-inline"><sup>49</sup>∕<sub>63</sub>=<sup>z</sup>∕<sub>9</sub></span>
 
 
 *z* = 7
 
 
-\(\frac{56}{72}=\frac{y}{9}\)
+<span class="math-inline"><sup>56</sup>∕<sub>72</sub>=<sup>y</sup>∕<sub>9</sub></span>
 
 
-\(\frac{5}{a}=\frac{65}{117}\)
+<span class="math-inline"><sup>5</sup>∕<sub>a</sub>=<sup>65</sup>∕<sub>117</sub></span>
 
 
 *a* = 9
 
 
-\(\frac{4}{b}=\frac{64}{144}\)
+<span class="math-inline"><sup>4</sup>∕<sub>b</sub>=<sup>64</sup>∕<sub>144</sub></span>
 
 
-\(\frac{98}{154}=\frac{−7}{p}\)
+<span class="math-inline"><sup>98</sup>∕<sub>154</sub>=<sup>−7</sup>∕<sub>p</sub></span>
 
 
 *p* = −11
 
 
-\(\frac{72}{156}=\frac{−6}{q}\)
+<span class="math-inline"><sup>72</sup>∕<sub>156</sub>=<sup>−6</sup>∕<sub>q</sub></span>
 
 
-\(\frac{a}{−8}=\frac{−42}{48}\)
+<span class="math-inline"><sup>a</sup>∕<sub>−8</sub>=<sup>−42</sup>∕<sub>48</sub></span>
 
 
 *a* = 7
 
 
-\(\frac{b}{−7}=\frac{−30}{42}\)
+<span class="math-inline"><sup>b</sup>∕<sub>−7</sub>=<sup>−30</sup>∕<sub>42</sub></span>
 
 
-\(\frac{2.6}{3.9}=\frac{c}{3}\)
+<span class="math-inline"><sup>2.6</sup>∕<sub>3.9</sub>=<sup>c</sup>∕<sub>3</sub></span>
 
 
 *c* = 2
 
 
-\(\frac{2.7}{3.6}=\frac{d}{4}\)
+<span class="math-inline"><sup>2.7</sup>∕<sub>3.6</sub>=<sup>d</sup>∕<sub>4</sub></span>
 
 
-\(\frac{2.7}{j}=\frac{0.9}{0.2}\)
+<span class="math-inline"><sup>2.7</sup>∕<sub>j</sub>=<sup>0.9</sup>∕<sub>0.2</sub></span>
 
 
 *j* = 0.6
 
 
-\(\frac{2.8}{k}=\frac{2.1}{1.5}\)
+<span class="math-inline"><sup>2.8</sup>∕<sub>k</sub>=<sup>2.1</sup>∕<sub>1.5</sub></span>
 
 
-\(\frac{\frac{1}{2}}{1}=\frac{m}{8}\)
+<span class="math-inline"><sup>\frac{1</sup>∕<sub>2</sub>{1}=<sup>m</sup>∕<sub>8</sub></span>
 
 
 *m* = 4
 
 
-\(\frac{\frac{1}{3}}{3}=\frac{9}{n}\)
+<span class="math-inline"><sup>\frac{1</sup>∕<sub>3</sub>{3}=<sup>9</sup>∕<sub>n</sub></span>
 
 
 *Solve Applications Using Proportions*
@@ -1088,94 +1106,94 @@ In the following exercises, solve each proportion.
 In the following exercises, solve the proportion problem.
 
 
-Pediatricians prescribe \(5\) milliliters (ml) of acetaminophen for every \(25\) pounds of a child’s weight. How many milliliters of acetaminophen will the doctor prescribe for Jocelyn, who weighs \(45\) pounds?
+Pediatricians prescribe <span class="math-inline">5</span> milliliters (ml) of acetaminophen for every <span class="math-inline">25</span> pounds of a child’s weight. How many milliliters of acetaminophen will the doctor prescribe for Jocelyn, who weighs <span class="math-inline">45</span> pounds?
 
 
 9 ml
 
 
-Brianna, who weighs \(6\) kg, just received her shots and needs a pain killer. The pain killer is prescribed for children at \(15\) milligrams (mg) for every \(1\) kilogram (kg) of the child’s weight. How many milligrams will the doctor prescribe?
+Brianna, who weighs <span class="math-inline">6</span> kg, just received her shots and needs a pain killer. The pain killer is prescribed for children at <span class="math-inline">15</span> milligrams (mg) for every <span class="math-inline">1</span> kilogram (kg) of the child’s weight. How many milligrams will the doctor prescribe?
 
 
-At the gym, Carol takes her pulse for \(10\) sec and counts \(19\) beats. How many beats per minute is this? Has Carol met her target heart rate of \(140\) beats per minute?
+At the gym, Carol takes her pulse for <span class="math-inline">10</span> sec and counts <span class="math-inline">19</span> beats. How many beats per minute is this? Has Carol met her target heart rate of <span class="math-inline">140</span> beats per minute?
 
 
 114 beats/minute. Carol has not met her target heart rate.
 
 
-Kevin wants to keep his heart rate at \(160\) beats per minute while training. During his workout he counts \(27\) beats in \(10\) seconds. How many beats per minute is this? Has Kevin met his target heart rate?
+Kevin wants to keep his heart rate at <span class="math-inline">160</span> beats per minute while training. During his workout he counts <span class="math-inline">27</span> beats in <span class="math-inline">10</span> seconds. How many beats per minute is this? Has Kevin met his target heart rate?
 
 
-A new energy drink advertises \(106\) calories for \(8\) ounces. How many calories are in \(12\) ounces of the drink?
+A new energy drink advertises <span class="math-inline">106</span> calories for <span class="math-inline">8</span> ounces. How many calories are in <span class="math-inline">12</span> ounces of the drink?
 
 
 159 cal
 
 
-One \(12\) ounce can of soda has \(150\) calories. If Josiah drinks the big \(32\) ounce size from the local mini-mart, how many calories does he get?
+One <span class="math-inline">12</span> ounce can of soda has <span class="math-inline">150</span> calories. If Josiah drinks the big <span class="math-inline">32</span> ounce size from the local mini-mart, how many calories does he get?
 
 
-Karen eats \(\frac{1}{2}\) cup of oatmeal that counts for \(2\) points on her weight loss program. Her husband, Joe, can have \(3\) points of oatmeal for breakfast. How much oatmeal can he have?
+Karen eats <span class="math-inline"><sup>1</sup>∕<sub>2</sub></span> cup of oatmeal that counts for <span class="math-inline">2</span> points on her weight loss program. Her husband, Joe, can have <span class="math-inline">3</span> points of oatmeal for breakfast. How much oatmeal can he have?
 
 
-\(\frac{3}{4} cup\)
+<span class="math-inline"><sup>3</sup>∕<sub>4</sub> cup</span>
 
 
-An oatmeal cookie recipe calls for \(\frac{1}{2}\) cup of butter to make \(4\) dozen cookies. Hilda needs to make \(10\) dozen cookies for the bake sale. How many cups of butter will she need?
+An oatmeal cookie recipe calls for <span class="math-inline"><sup>1</sup>∕<sub>2</sub></span> cup of butter to make <span class="math-inline">4</span> dozen cookies. Hilda needs to make <span class="math-inline">10</span> dozen cookies for the bake sale. How many cups of butter will she need?
 
 
-Janice is traveling to Canada and will change \($250\) US dollars into Canadian dollars. At the current exchange rate, \($1\) US is equal to \($1.01\) Canadian. How many Canadian dollars will she get for her trip?
+Janice is traveling to Canada and will change <span class="math-inline">$250</span> US dollars into Canadian dollars. At the current exchange rate, <span class="math-inline">$1</span> US is equal to <span class="math-inline">$1.01</span> Canadian. How many Canadian dollars will she get for her trip?
 
 
 $252.50
 
 
-Todd is traveling to Mexico and needs to exchange \($450\) into Mexican pesos. If each dollar is worth \(12.29\) pesos, how many pesos will he get for his trip?
+Todd is traveling to Mexico and needs to exchange <span class="math-inline">$450</span> into Mexican pesos. If each dollar is worth <span class="math-inline">12.29</span> pesos, how many pesos will he get for his trip?
 
 
-Steve changed \($600\) into \(480\) Euros. How many Euros did he receive per US dollar?
+Steve changed <span class="math-inline">$600</span> into <span class="math-inline">480</span> Euros. How many Euros did he receive per US dollar?
 
 
 0.8 Euros
 
 
-Martha changed \($350\) US into \(385\) Australian dollars. How many Australian dollars did she receive per US dollar?
+Martha changed <span class="math-inline">$350</span> US into <span class="math-inline">385</span> Australian dollars. How many Australian dollars did she receive per US dollar?
 
 
-At the laundromat, Lucy changed \($12.00\) into quarters. How many quarters did she get?
+At the laundromat, Lucy changed <span class="math-inline">$12.00</span> into quarters. How many quarters did she get?
 
 
 48 quarters
 
 
-When she arrived at a casino, Gerty changed \($20\) into nickels. How many nickels did she get?
+When she arrived at a casino, Gerty changed <span class="math-inline">$20</span> into nickels. How many nickels did she get?
 
 
-Jesse’s car gets \(30\) miles per gallon of gas. If Las Vegas is \(285\) miles away, how many gallons of gas are needed to get there and then home? If gas is \($3.09\) per gallon, what is the total cost of the gas for the trip?
+Jesse’s car gets <span class="math-inline">30</span> miles per gallon of gas. If Las Vegas is <span class="math-inline">285</span> miles away, how many gallons of gas are needed to get there and then home? If gas is <span class="math-inline">$3.09</span> per gallon, what is the total cost of the gas for the trip?
 
 
 19 gallons, $58.71
 
 
-Danny wants to drive to Phoenix to see his grandfather. Phoenix is \(370\) miles from Danny’s home and his car gets \(18.5\) miles per gallon. How many gallons of gas will Danny need to get to and from Phoenix? If gas is \($3.19\) per gallon, what is the total cost for the gas to drive to see his grandfather?
+Danny wants to drive to Phoenix to see his grandfather. Phoenix is <span class="math-inline">370</span> miles from Danny’s home and his car gets <span class="math-inline">18.5</span> miles per gallon. How many gallons of gas will Danny need to get to and from Phoenix? If gas is <span class="math-inline">$3.19</span> per gallon, what is the total cost for the gas to drive to see his grandfather?
 
 
-Hugh leaves early one morning to drive from his home in Chicago to go to Mount Rushmore, \(812\) miles away. After \(3\) hours, he has gone \(190\) miles. At that rate, how long will the whole drive take?
+Hugh leaves early one morning to drive from his home in Chicago to go to Mount Rushmore, <span class="math-inline">812</span> miles away. After <span class="math-inline">3</span> hours, he has gone <span class="math-inline">190</span> miles. At that rate, how long will the whole drive take?
 
 
 12.8 hours
 
 
-Kelly leaves her home in Seattle to drive to Spokane, a distance of \(280\) miles. After \(2\) hours, she has gone \(152\) miles. At that rate, how long will the whole drive take?
+Kelly leaves her home in Seattle to drive to Spokane, a distance of <span class="math-inline">280</span> miles. After <span class="math-inline">2</span> hours, she has gone <span class="math-inline">152</span> miles. At that rate, how long will the whole drive take?
 
 
-Phil wants to fertilize his lawn. Each bag of fertilizer covers about \(4,000\) square feet of lawn. Phil’s lawn is approximately \(13,500\) square feet. How many bags of fertilizer will he have to buy?
+Phil wants to fertilize his lawn. Each bag of fertilizer covers about <span class="math-inline">4,000</span> square feet of lawn. Phil’s lawn is approximately <span class="math-inline">13,500</span> square feet. How many bags of fertilizer will he have to buy?
 
 
 4 bags
 
 
-April wants to paint the exterior of her house. One gallon of paint covers about \(350\) square feet, and the exterior of the house measures approximately \(2000\) square feet. How many gallons of paint will she have to buy?
+April wants to paint the exterior of her house. One gallon of paint covers about <span class="math-inline">350</span> square feet, and the exterior of the house measures approximately <span class="math-inline">2000</span> square feet. How many gallons of paint will she have to buy?
 
 
 *Write Percent Equations as Proportions*
@@ -1183,58 +1201,58 @@ April wants to paint the exterior of her house. One gallon of paint covers about
 In the following exercises, translate to a proportion.
 
 
-What number is \(35%\) of \(250?\)
+What number is <span class="math-inline">35%</span> of <span class="math-inline">250?</span>
 
 
-\(\frac{n}{250}=\frac{35}{100}\)
+<span class="math-inline"><sup>n</sup>∕<sub>250</sub>=<sup>35</sup>∕<sub>100</sub></span>
 
 
-What number is \(75%\) of \(920?\)
+What number is <span class="math-inline">75%</span> of <span class="math-inline">920?</span>
 
 
-What number is \(110%\) of \(47?\)
+What number is <span class="math-inline">110%</span> of <span class="math-inline">47?</span>
 
 
-\(\frac{n}{47}=\frac{110}{100}\)
+<span class="math-inline"><sup>n</sup>∕<sub>47</sub>=<sup>110</sup>∕<sub>100</sub></span>
 
 
-What number is \(150%\) of \(64?\)
+What number is <span class="math-inline">150%</span> of <span class="math-inline">64?</span>
 
 
-\(45\) is \(30%\) of what number?
+<span class="math-inline">45</span> is <span class="math-inline">30%</span> of what number?
 
 
-\(\frac{45}{n}=\frac{30}{100}\)
+<span class="math-inline"><sup>45</sup>∕<sub>n</sub>=<sup>30</sup>∕<sub>100</sub></span>
 
 
-\(25\) is \(80%\) of what number?
+<span class="math-inline">25</span> is <span class="math-inline">80%</span> of what number?
 
 
-\(90\) is \(150%\) of what number?
+<span class="math-inline">90</span> is <span class="math-inline">150%</span> of what number?
 
 
-\(\frac{90}{n}=\frac{150}{100}\)
+<span class="math-inline"><sup>90</sup>∕<sub>n</sub>=<sup>150</sup>∕<sub>100</sub></span>
 
 
-\(77\) is \(110%\) of what number?
+<span class="math-inline">77</span> is <span class="math-inline">110%</span> of what number?
 
 
-What percent of \(85\) is \(17?\)
+What percent of <span class="math-inline">85</span> is <span class="math-inline">17?</span>
 
 
-\(\frac{17}{85}=\frac{p}{100}\)
+<span class="math-inline"><sup>17</sup>∕<sub>85</sub>=<sup>p</sup>∕<sub>100</sub></span>
 
 
-What percent of \(92\) is \(46?\)
+What percent of <span class="math-inline">92</span> is <span class="math-inline">46?</span>
 
 
-What percent of \(260\) is \(340?\)
+What percent of <span class="math-inline">260</span> is <span class="math-inline">340?</span>
 
 
-\(\frac{340}{260}=\frac{p}{100}\)
+<span class="math-inline"><sup>340</sup>∕<sub>260</sub>=<sup>p</sup>∕<sub>100</sub></span>
 
 
-What percent of \(180\) is \(220?\)
+What percent of <span class="math-inline">180</span> is <span class="math-inline">220?</span>
 
 
 *Translate and Solve Percent Proportions*
@@ -1242,100 +1260,100 @@ What percent of \(180\) is \(220?\)
 In the following exercises, translate and solve using proportions.
 
 
-What number is \(65%\) of \(180?\)
+What number is <span class="math-inline">65%</span> of <span class="math-inline">180?</span>
 
 
-\(\frac{n}{180}=\frac{65}{100}\); \(117\)
+<span class="math-inline"><sup>n</sup>∕<sub>180</sub>=<sup>65</sup>∕<sub>100</sub></span>; <span class="math-inline">117</span>
 
 
-What number is \(55%\) of \(300?\)
+What number is <span class="math-inline">55%</span> of <span class="math-inline">300?</span>
 
 
-\(18%\) of \(92\) is what number?
+<span class="math-inline">18%</span> of <span class="math-inline">92</span> is what number?
 
 
-\(\frac{n}{92}=\frac{18}{100}\); \(16.56\)
+<span class="math-inline"><sup>n</sup>∕<sub>92</sub>=<sup>18</sup>∕<sub>100</sub></span>; <span class="math-inline">16.56</span>
 
 
-\(22%\) of \(74\) is what number?
+<span class="math-inline">22%</span> of <span class="math-inline">74</span> is what number?
 
 
-\(175%\) of \(26\) is what number?
+<span class="math-inline">175%</span> of <span class="math-inline">26</span> is what number?
 
 
-\(\frac{n}{26}=\frac{175}{100}\); \(45.5\)
+<span class="math-inline"><sup>n</sup>∕<sub>26</sub>=<sup>175</sup>∕<sub>100</sub></span>; <span class="math-inline">45.5</span>
 
 
-\(250%\) of \(61\) is what number?
+<span class="math-inline">250%</span> of <span class="math-inline">61</span> is what number?
 
 
-What is \(300%\) of \(488?\)
+What is <span class="math-inline">300%</span> of <span class="math-inline">488?</span>
 
 
-\(\frac{n}{488}=\frac{300}{100}\); \(1464\)
+<span class="math-inline"><sup>n</sup>∕<sub>488</sub>=<sup>300</sup>∕<sub>100</sub></span>; <span class="math-inline">1464</span>
 
 
-What is \(500%\) of \(315?\)
+What is <span class="math-inline">500%</span> of <span class="math-inline">315?</span>
 
 
-\(17%\) of what number is \($7.65?\)
+<span class="math-inline">17%</span> of what number is <span class="math-inline">$7.65?</span>
 
 
-\(\frac{7.65}{n}=\frac{17}{100}\); \(45\)
+<span class="math-inline"><sup>7.65</sup>∕<sub>n</sub>=<sup>17</sup>∕<sub>100</sub></span>; <span class="math-inline">45</span>
 
 
-\(19%\) of what number is \($6.46?\)
+<span class="math-inline">19%</span> of what number is <span class="math-inline">$6.46?</span>
 
 
-\($13.53\) is \(8.25%\) of what number?
+<span class="math-inline">$13.53</span> is <span class="math-inline">8.25%</span> of what number?
 
 
-\(\frac{13.53}{n}=\frac{8.25}{100}\); \(164\)
+<span class="math-inline"><sup>13.53</sup>∕<sub>n</sub>=<sup>8.25</sup>∕<sub>100</sub></span>; <span class="math-inline">164</span>
 
 
-\($18.12\) is \(7.55%\) of what number?
+<span class="math-inline">$18.12</span> is <span class="math-inline">7.55%</span> of what number?
 
 
-What percent of \(56\) is \(14?\)
+What percent of <span class="math-inline">56</span> is <span class="math-inline">14?</span>
 
 
-\(\frac{14}{56}=\frac{p}{100}\); \(25%\)
+<span class="math-inline"><sup>14</sup>∕<sub>56</sub>=<sup>p</sup>∕<sub>100</sub></span>; <span class="math-inline">25%</span>
 
 
-What percent of \(80\) is \(28?\)
+What percent of <span class="math-inline">80</span> is <span class="math-inline">28?</span>
 
 
-What percent of \(96\) is \(12?\)
+What percent of <span class="math-inline">96</span> is <span class="math-inline">12?</span>
 
 
-\(\frac{12}{96}=\frac{p}{100}\); \(12.5%\)
+<span class="math-inline"><sup>12</sup>∕<sub>96</sub>=<sup>p</sup>∕<sub>100</sub></span>; <span class="math-inline">12.5%</span>
 
 
-What percent of \(120\) is \(27?\)
+What percent of <span class="math-inline">120</span> is <span class="math-inline">27?</span>
 
 
 ### Everyday Math
 
 
-*Mixing a concentrate* Sam bought a large bottle of concentrated cleaning solution at the warehouse store. He must mix the concentrate with water to make a solution for washing his windows. The directions tell him to mix \(3\) ounces of concentrate with \(5\) ounces of water. If he puts \(12\) ounces of concentrate in a bucket, how many ounces of water should he add? How many ounces of the solution will he have altogether?
+*Mixing a concentrate* Sam bought a large bottle of concentrated cleaning solution at the warehouse store. He must mix the concentrate with water to make a solution for washing his windows. The directions tell him to mix <span class="math-inline">3</span> ounces of concentrate with <span class="math-inline">5</span> ounces of water. If he puts <span class="math-inline">12</span> ounces of concentrate in a bucket, how many ounces of water should he add? How many ounces of the solution will he have altogether?
 
 
 He must add 20 oz of water to obtain a final solution of 32 oz.
 
 
-*Mixing a concentrate* Travis is going to wash his car. The directions on the bottle of car wash concentrate say to mix \(2\) ounces of concentrate with \(15\) ounces of water. If Travis puts \(6\) ounces of concentrate in a bucket, how much water must he mix with the concentrate?
+*Mixing a concentrate* Travis is going to wash his car. The directions on the bottle of car wash concentrate say to mix <span class="math-inline">2</span> ounces of concentrate with <span class="math-inline">15</span> ounces of water. If Travis puts <span class="math-inline">6</span> ounces of concentrate in a bucket, how much water must he mix with the concentrate?
 
 
 ### Writing Exercises
 
 
-To solve “what number is \(45%\) of \(350”\) do you prefer to use an equation like you did in the section on Decimal Operations or a proportion like you did in this section? Explain your reason.
+To solve “what number is <span class="math-inline">45%</span> of <span class="math-inline">350”</span> do you prefer to use an equation like you did in the section on Decimal Operations or a proportion like you did in this section? Explain your reason.
 
 
 Answers will vary.
 
 
-To solve “what percent of \(125\) is \(25”\) do you prefer to use an equation like you did in the section on Decimal Operations or a proportion like you did in this section? Explain your reason.
+To solve “what percent of <span class="math-inline">125</span> is <span class="math-inline">25”</span> do you prefer to use an equation like you did in the section on Decimal Operations or a proportion like you did in this section? Explain your reason.
 
 
 ### Self Check
@@ -1344,3 +1362,117 @@ To solve “what percent of \(125\) is \(25”\) do you prefer to use an equatio
 
 
 ⓑ Overall, after looking at the checklist, do you think you are well-prepared for the next Chapter? Why or why not?
+
+</div>
+
+</div>
+
+</div>
+
+</div>
+
+</div>
+
+</div>
+
+</div>
+
+</div>
+
+</div>
+
+</div>
+
+</div>
+
+</div>
+
+</div>
+
+</div>
+
+</div>
+
+</div>
+
+</div>
+
+</div>
+
+</div>
+
+</div>
+
+</div>
+
+</div>
+
+</div>
+
+</div>
+
+</div>
+
+</div>
+
+</div>
+
+</div>
+
+</div>
+
+</div>
+
+</div>
+
+</div>
+
+</div>
+
+</div>
+
+</div>
+
+</div>
+
+</div>
+
+</div>
+
+</div>
+
+</div>
+
+</div>
+
+</div>
+
+</div>
+
+</div>
+
+</div>
+
+</div>
+
+</div>
+
+</div>
+
+</div>
+
+</div>
+
+</div>
+
+</div>
+
+</div>
+
+</div>
+
+</div>
+
+</div>
+
+</div>
