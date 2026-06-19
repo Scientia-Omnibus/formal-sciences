@@ -1,77 +1,4 @@
-<style>
-.math-inline {
-    font-style: italic;
-    padding: 2px 6px;
-    border-radius: 4px;
-    background: #f8f9fa;
-    font-family: Georgia, serif;
-}
-.math-display {
-    background: #f8f9fa;
-    border-left: 4px solid #4a90d9;
-    padding: 16px 20px;
-    margin: 16px 0;
-    border-radius: 6px;
-    font-size: 1.15em;
-    font-family: Georgia, serif;
-    text-align: center;
-    line-height: 2;
-    overflow-x: auto;
-}
-.example-box, .example {
-    background: #f0f8ff;
-    border-left: 4px solid #2e86de;
-    padding: 12px 20px;
-    margin: 16px 0;
-    border-radius: 6px;
-}
-.tryit-box, .tryit {
-    background: #f0fff4;
-    border-left: 4px solid #27ae60;
-    padding: 12px 20px;
-    margin: 16px 0;
-    border-radius: 6px;
-}
-.solution-box, .solution {
-    background: #fef9e7;
-    border-left: 4px solid #f39c12;
-    padding: 12px 20px;
-    margin: 12px 0;
-    border-radius: 6px;
-}
-.check-box, .check {
-    background: #fef9e7;
-    border-left: 4px solid #f39c12;
-    padding: 12px 20px;
-    margin: 12px 0;
-    border-radius: 6px;
-}
-.prep-quiz {
-    background: #fff3cd;
-    border: 1px solid #ffc107;
-    padding: 12px 20px;
-    margin: 16px 0;
-    border-radius: 6px;
-}
-.def-label, .definition-label {
-    font-weight: bold;
-    font-size: 1.1em;
-    margin: 20px 0 8px 0;
-    color: #2c3e50;
-    display: block;
-}
-.math-display sup, .math-inline sup { font-size: 0.75em; line-height: 0; }
-.math-display sub, .math-inline sub { font-size: 0.75em; line-height: 0; }
-</style>
-
-
----
-
-
----
-
 ## Simplify Expressions with Integers
-
 
 Do you see a pattern?  Are you ready to subtract integers without counters? Let’s do two more subtractions. We’ll think about how we would model these with counters, but we won’t actually use the counters.
 
@@ -108,22 +35,23 @@ While we may not always use the counters, especially when we work with large num
 Have you noticed that subtraction of signed numbers can be done by adding the opposite? You will often see the idea, the **Subtraction Property**, written as follows:
 
 
-<div class="definition-label">**Subtraction Property**</div>
+**Subtraction Property**
 
 
 <div class="math-display">
 a-b=a+(−b)
 </div>
 
-
 Look at these two examples.
 
 We see that <span class="math-inline">6-4</span> gives the same answer as <span class="math-inline">6+(−4).</span>
 
-Of course, when we have a subtraction problem that has only positive numbers, like the first example, we just do the subtraction. We already knew how to subtract <span class="math-inline">6-4</span> long ago. But knowing that <span class="math-inline">6-4</span> gives the same answer as <span class="math-inline">6+(−4)</span> helps when we are subtracting negative numbers.
+
+Of course, when we have a subtraction problem that has only positive numbers, like the first example, we just do the subtraction.
+We already knew how to subtract <span class="math-inline">6-4</span> long ago.
+But knowing that <span class="math-inline">6-4</span> gives the same answer as <span class="math-inline">6+(−4)</span> helps when we are subtracting negative numbers.
 
 
-<div class="example">
 **Example**
 
 
@@ -133,8 +61,7 @@ Simplify:
   - ⓑ <span class="math-inline">−17-9 and −17+(−9)</span>
 
 
-<div class="solution">
-<span class="def-label">Solution</span>
+Solution
 
 
    ⓐ
@@ -171,7 +98,6 @@ Simplify:
  Subtracting 9 from −17 is the same as adding −9 to −17.
 
 
-<div class="tryit">
 **Try It**
 
 
@@ -185,7 +111,6 @@ Simplify each expression:
   - ⓑ −18, −18
 
 
-<div class="tryit">
 **Try It**
 
 
@@ -203,7 +128,6 @@ Now look what happens when we subtract a negative.
 We see that <span class="math-inline">8-(−5)</span> gives the same result as <span class="math-inline">8+5.</span> Subtracting a negative number is like adding a positive.
 
 
-<div class="example">
 **Example**
 
 
@@ -212,8 +136,7 @@ Simplify:
   - ⓑ <span class="math-inline">−7-(−4) and −7+4</span>
 
 
-<div class="solution">
-<span class="def-label">Solution</span>
+Solution
 
 
    ⓐ
@@ -250,7 +173,6 @@ Simplify:
  Subtracting −4 from −7 is the same as adding 4 to −7
 
 
-<div class="tryit">
 **Try It**
 
 
@@ -264,7 +186,6 @@ Simplify each expression:
   - ⓑ −4, −4
 
 
-<div class="tryit">
 **Try It**
 
 
@@ -280,15 +201,13 @@ Simplify each expression:
 Look again at the results of  - .
 
 
-<div class="example">
 **Example**
 
 
 Simplify: <span class="math-inline">−74-(−58).</span>
 
 
-<div class="solution">
-<span class="def-label">Solution</span>
+Solution
 
 
    We are taking 58 negatives away from 74 negatives.
@@ -299,7 +218,6 @@ Simplify: <span class="math-inline">−74-(−58).</span>
   <span class="math-inline">−16</span>
 
 
-<div class="tryit">
 **Try It**
 
 
@@ -310,7 +228,6 @@ Simplify the expression:
 −29
 
 
-<div class="tryit">
 **Try It**
 
 
@@ -321,17 +238,13 @@ Simplify the expression:
 −26
 
 
-<div class="example">
 **Example**
 
 
 Simplify: <span class="math-inline">7-(−4-3)-9.</span>
 
 
-<div class="solution">
-<span class="def-label">Solution</span>
-
-
+Solution
 We use the order of operations to simplify this expression, performing operations inside the parentheses first. Then we subtract from left to right.
 
 
@@ -344,7 +257,6 @@ We use the order of operations to simplify this expression, performing operation
  Subtract.
 
 
-<div class="tryit">
 **Try It**
 
 
@@ -355,7 +267,6 @@ Simplify the expression:
 3
 
 
-<div class="tryit">
 **Try It**
 
 
@@ -366,17 +277,13 @@ Simplify the expression:
 13
 
 
-<div class="example">
 **Example**
 
 
 Simplify: <span class="math-inline">3· 7-4· 7-5· 8.</span>
 
 
-<div class="solution">
-<span class="def-label">Solution</span>
-
-
+Solution
 We use the order of operations to simplify this expression. First we multiply, and then subtract from left to right.
 
 
@@ -389,7 +296,6 @@ We use the order of operations to simplify this expression. First we multiply, a
  Subtract.
 
 
-<div class="tryit">
 **Try It**
 
 
@@ -400,7 +306,6 @@ Simplify the expression:
 −69
 
 
-<div class="tryit">
 **Try It**
 
 
@@ -411,18 +316,11 @@ Simplify the expression:
 −47
 
 
----
-
-
----
-
 ## Evaluate Variable Expressions with Integers
-
 
 Now we’ll practice evaluating **expressions** that involve **subtracting negative numbers** as well as positive numbers.
 
 
-<div class="example">
 **Example**
 
 
@@ -433,10 +331,7 @@ Evaluate <span class="math-inline">x-4 when</span>
   - ⓑ <span class="math-inline">x=−6.</span>
 
 
-<div class="solution">
-<span class="def-label">Solution</span>
-
-
+Solution
 ⓐ To evaluate <span class="math-inline">x-4</span> when <span class="math-inline">x=3</span>, substitute <span class="math-inline">3</span> for <span class="math-inline">x</span> in the expression.
 
 
@@ -449,7 +344,6 @@ Evaluate <span class="math-inline">x-4 when</span>
  Subtract.
 
 
-<div class="tryit">
 **Try It**
 
 
@@ -465,7 +359,6 @@ Evaluate each expression:
   - ⓑ −15
 
 
-<div class="tryit">
 **Try It**
 
 
@@ -481,7 +374,6 @@ Evaluate each expression:
   - ⓑ −7
 
 
-<div class="example">
 **Example**
 
 
@@ -492,10 +384,7 @@ Evaluate <span class="math-inline">20-z when</span>
   - ⓑ <span class="math-inline">z=-12</span>
 
 
-<div class="solution">
-<span class="def-label">Solution</span>
-
-
+Solution
 ⓐ To evaluate <span class="math-inline">20-z when z=12,</span> substitute <span class="math-inline">12</span> for <span class="math-inline">z</span> in the expression.
 
 
@@ -508,7 +397,6 @@ Evaluate <span class="math-inline">20-z when</span>
  Subtract.
 
 
-<div class="tryit">
 **Try It**
 
 
@@ -524,7 +412,6 @@ Evaluate each expression:
   - ⓑ 36
 
 
-<div class="tryit">
 **Try It**
 
 
@@ -540,20 +427,13 @@ Evaluate each expression:
   - ⓑ 9
 
 
----
-
-
----
-
 ## Translate Word Phrases to Algebraic Expressions
-
 
 When we first introduced the operation symbols, we saw that the expression <span class="math-inline">a-b</span> may be read in several ways as shown below.
 
 Be careful to get <span class="math-inline">a</span> and <span class="math-inline">b</span> in the right order!
 
 
-<div class="example">
 **Example**
 
 
@@ -566,10 +446,7 @@ Translate and then simplify:
 ⓑ subtract <span class="math-inline">24</span> from <span class="math-inline">−19</span>
 
 
-<div class="solution">
-<span class="def-label">Solution</span>
-
-
+Solution
 ⓐ A *difference* means subtraction. Subtract the numbers in the order they are given.
 
 
@@ -588,7 +465,6 @@ Translate and then simplify:
  Simplify.
 
 
-<div class="tryit">
 **Try It**
 
 
@@ -602,7 +478,6 @@ Translate and simplify:
   - ⓑ −17 − 21 = −38
 
 
-<div class="tryit">
 **Try It**
 
 
@@ -616,19 +491,17 @@ Translate and simplify:
   - ⓑ −11 − 18 = −29
 
 
----
-
-
----
-
 ## Subtract Integers in Applications
 
 
-It’s hard to find something if we don’t know what we’re looking for or what to call it. So when we solve an application problem, we first need to determine what we are asked to find. Then we can write a phrase that gives the information to find it. We’ll translate the phrase into an expression and then simplify the expression to get the answer. Finally, we summarize the answer in a sentence to make sure it makes sense.
+It’s hard to find something if we don’t know what we’re looking for or what to call it.
+So when we solve an application problem, we first need to determine what we are asked to find.
+Then we can write a phrase that gives the information to find it.
+We’ll translate the phrase into an expression and then simplify the expression to get the answer.
+Finally, we summarize the answer in a sentence to make sure it makes sense.
 
 
-<div class="definition-label">**Solve Application Problems.**</div>
-
+**Solve Application Problems.**
 
 - Identify what you are asked to find.
 
@@ -641,15 +514,13 @@ It’s hard to find something if we don’t know what we’re looking for or wha
 - Answer the question with a complete sentence.
 
 
-<div class="example">
 **Example**
 
 
 In the morning, the temperature in Urbana, Illinois was <span class="math-inline">11</span> degrees Fahrenheit. By mid-afternoon, the temperature had dropped to <span class="math-inline">−9</span> degrees Fahrenheit. What was the difference between the morning and afternoon temperatures?
 
 
-<div class="solution">
-<span class="def-label">Solution</span>
+Solution
 
 
    Step 1. Identify what we are asked to find.
@@ -673,7 +544,6 @@ The word *difference* indicates subtraction.
  The difference in temperature was <span class="math-inline">20</span> degrees Fahrenheit.
 
 
-<div class="tryit">
 **Try It**
 
 
@@ -683,7 +553,6 @@ In the morning, the temperature in Anchorage, Alaska was <span class="math-inlin
 45 degrees Fahrenheit
 
 
-<div class="tryit">
 **Try It**
 
 
@@ -696,15 +565,18 @@ The temperature in Denver was <span class="math-inline">−6</span> degrees Fahr
 Geography provides another application of negative numbers with the elevations of places below sea level.
 
 
-<div class="example">
 **Example**
 
 
-Dinesh hiked from Mt. Whitney, the highest point in California, to Death Valley, the lowest point. The elevation of Mt. Whitney is <span class="math-inline">14,497</span> feet above sea level and the elevation of Death Valley is <span class="math-inline">282</span> feet below sea level. What is the difference in elevation between Mt. Whitney and Death Valley?
+Dinesh hiked from Mt.
+Whitney, the highest point in California, to Death Valley, the lowest point.
+The elevation of Mt.
+Whitney is <span class="math-inline">14,497</span> feet above sea level and the elevation of Death Valley is <span class="math-inline">282</span> feet below sea level.
+What is the difference in elevation between Mt.
+Whitney and Death Valley?
 
 
-<div class="solution">
-<span class="def-label">Solution</span>
+Solution
 
 
    Step 1. What are we asked to find?
@@ -727,7 +599,6 @@ Dinesh hiked from Mt. Whitney, the highest point in California, to Death Valley,
  The difference in elevation is <span class="math-inline">14,779</span> feet.
 
 
-<div class="tryit">
 **Try It**
 
 
@@ -737,7 +608,6 @@ One day, John hiked to the <span class="math-inline">10,023 foot</span> summit o
 10,103 feet
 
 
-<div class="tryit">
 **Try It**
 
 
@@ -750,7 +620,6 @@ The submarine Nautilus is at <span class="math-inline">340 feet</span> below the
 Managing your money can involve both positive and negative numbers. You might have **overdraft** protection on your checking account. This means the bank lets you write checks for more money than you have in your account (as long as they know they can get it back from you!)
 
 
-<div class="example">
 **Example**
 
 
@@ -761,8 +630,7 @@ Leslie has <span class="math-inline">$25</span> in her checking account and she 
   - ⓒ Leslie’s friend told her that she had lost a check for <span class="math-inline">$10</span> that Leslie had given her with her birthday card. What is the balance in Leslie’s checking account now?
 
 
-<div class="solution">
-<span class="def-label">Solution</span>
+Solution
 
 
    ⓐ
@@ -828,7 +696,6 @@ Leslie has <span class="math-inline">$25</span> in her checking account and she 
  The balance is now <span class="math-inline">$7</span>.
 
 
-<div class="tryit">
 **Try It**
 
 
@@ -844,7 +711,6 @@ Araceli has <span class="math-inline">$75</span> in her checking account and wri
   - ⓒ $18
 
 
-<div class="tryit">
 **Try It**
 
 
@@ -858,8 +724,7 @@ Genevieve’s bank account was overdrawn and the balance is <span class="math-in
   - ⓑ No, −$5
 
 
-<div class="definition-label">**ACCESS ADDITIONAL ONLINE RESOURCES**</div>
-
+**ACCESS ADDITIONAL ONLINE RESOURCES**
 
 - Adding and Subtracting Integers
 
@@ -872,13 +737,7 @@ Genevieve’s bank account was overdrawn and the balance is <span class="math-in
 - Integer Application
 
 
----
-
-
----
-
 ## Key Concepts
-
 
 - *Subtraction of Integers*
 
@@ -1390,134 +1249,36 @@ Why is the result of subtracting <span class="math-inline">3-(−4)</span> the s
 ⓑ What does this checklist tell you about your mastery of this section? What steps will you take to improve?
 
 
-<div class="prep-quiz">
 **Be Prepared!**
-
 
 Before you get started, take this readiness quiz.
 
 
 Translate the quotient of <span class="math-inline">20</span> and <span class="math-inline">13</span> into an algebraic expression.
 
-If you missed this problem, review .
+If you missed this problem, review
 
 
 <span class="math-inline">20÷ 13</span>
 
 
-<div class="prep-quiz">
 **Be Prepared!**
 
 
 Add: <span class="math-inline">−5+(−5)+(−5).</span>
 
-If you missed this problem, review .
+If you missed this problem, review
 
 
 <span class="math-inline">-15</span>
 
 
-<div class="prep-quiz">
 **Be Prepared!**
 
 
 <span class="math-inline">Evaluate n+4 when n=−7.</span>
 
-If you missed this problem, review .
+If you missed this problem, review
 
 
 <span class="math-inline">-3</span>
-
-</div>
-
-</div>
-
-</div>
-
-</div>
-
-</div>
-
-</div>
-
-</div>
-
-</div>
-
-</div>
-
-</div>
-
-</div>
-
-</div>
-
-</div>
-
-</div>
-
-</div>
-
-</div>
-
-</div>
-
-</div>
-
-</div>
-
-</div>
-
-</div>
-
-</div>
-
-</div>
-
-</div>
-
-</div>
-
-</div>
-
-</div>
-
-</div>
-
-</div>
-
-</div>
-
-</div>
-
-</div>
-
-</div>
-
-</div>
-
-</div>
-
-</div>
-
-</div>
-
-</div>
-
-</div>
-
-</div>
-
-</div>
-
-</div>
-
-</div>
-
-</div>
-
-</div>
-
-</div>
-
-</div>

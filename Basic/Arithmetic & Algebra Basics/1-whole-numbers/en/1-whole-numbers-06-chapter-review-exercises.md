@@ -1,74 +1,4 @@
-<style>
-.math-inline {
-    font-style: italic;
-    padding: 2px 6px;
-    border-radius: 4px;
-    background: #f8f9fa;
-    font-family: Georgia, serif;
-}
-.math-display {
-    background: #f8f9fa;
-    border-left: 4px solid #4a90d9;
-    padding: 16px 20px;
-    margin: 16px 0;
-    border-radius: 6px;
-    font-size: 1.15em;
-    font-family: Georgia, serif;
-    text-align: center;
-    line-height: 2;
-    overflow-x: auto;
-}
-.example-box, .example {
-    background: #f0f8ff;
-    border-left: 4px solid #2e86de;
-    padding: 12px 20px;
-    margin: 16px 0;
-    border-radius: 6px;
-}
-.tryit-box, .tryit {
-    background: #f0fff4;
-    border-left: 4px solid #27ae60;
-    padding: 12px 20px;
-    margin: 16px 0;
-    border-radius: 6px;
-}
-.solution-box, .solution {
-    background: #fef9e7;
-    border-left: 4px solid #f39c12;
-    padding: 12px 20px;
-    margin: 12px 0;
-    border-radius: 6px;
-}
-.check-box, .check {
-    background: #fef9e7;
-    border-left: 4px solid #f39c12;
-    padding: 12px 20px;
-    margin: 12px 0;
-    border-radius: 6px;
-}
-.prep-quiz {
-    background: #fff3cd;
-    border: 1px solid #ffc107;
-    padding: 12px 20px;
-    margin: 16px 0;
-    border-radius: 6px;
-}
-.def-label, .definition-label {
-    font-weight: bold;
-    font-size: 1.1em;
-    margin: 20px 0 8px 0;
-    color: #2c3e50;
-    display: block;
-}
-.math-display sup, .math-inline sup { font-size: 0.75em; line-height: 0; }
-.math-display sub, .math-inline sub { font-size: 0.75em; line-height: 0; }
-</style>
-
-
----
-
 ## Chapter Review Exercises
-
 
 *Identify Counting Numbers and Whole Numbers*
 
@@ -491,7 +421,7 @@ In the following exercises, solve.
 In the following exercises, translate from math notation to words.
 
 
-<span class="math-inline">8 ×  5</span>
+<span class="math-inline">8 × 5</span>
 
 
 eight times five; the product of eight and five
@@ -514,10 +444,10 @@ ten times ninety-five; the product of ten and ninety-five
 In the following exercises, model the multiplication.
 
 
-<span class="math-inline">2 ×  4</span>
+<span class="math-inline">2 × 4</span>
 
 
-<span class="math-inline">3 ×  8</span>
+<span class="math-inline">3 × 8</span>
 
 
 *Multiply Whole Numbers*
@@ -555,7 +485,7 @@ In the following exercises, multiply.
 <span class="math-inline">(25)(6)</span>
 
 
-<span class="math-inline">9,261 ×  3</span>
+<span class="math-inline">9,261 × 3</span>
 
 
 27,783
@@ -573,7 +503,7 @@ In the following exercises, multiply.
 <span class="math-inline">1,000(22)</span>
 
 
-<span class="math-inline">162 ×  493</span>
+<span class="math-inline">162 × 493</span>
 
 
 79,866
@@ -582,7 +512,7 @@ In the following exercises, multiply.
 <span class="math-inline">(601)(943)</span>
 
 
-<span class="math-inline">3,624 ×  517</span>
+<span class="math-inline">3,624 × 517</span>
 
 
 1,873,608
@@ -651,7 +581,7 @@ fifty-four divided by nine; the quotient of fifty-four and nine
 <span class="math-inline">42/7</span>
 
 
-<span class="math-inline"><sup>72</sup>∕<sub>8</sub></span>
+<span class="math-inline"><sup>72</sup>⁄<sub>8</sub></span>
 
 
 seventy-two divided by eight; the quotient of seventy-two and eight
@@ -682,7 +612,7 @@ In the following exercises, divide. Then check by multiplying.
 7
 
 
-<span class="math-inline"><sup>32</sup>∕<sub>8</sub></span>
+<span class="math-inline"><sup>32</sup>⁄<sub>8</sub></span>
 
 
 <span class="math-inline">52÷ 4</span>
@@ -694,7 +624,7 @@ In the following exercises, divide. Then check by multiplying.
 <span class="math-inline">26</span>
 
 
-<span class="math-inline"><sup>97</sup>∕<sub>1</sub></span>
+<span class="math-inline"><sup>97</sup>⁄<sub>1</sub></span>
 
 
 97
@@ -709,7 +639,7 @@ In the following exercises, divide. Then check by multiplying.
 undefined
 
 
-<span class="math-inline"><sup>355</sup>∕<sub>5</sub></span>
+<span class="math-inline"><sup>355</sup>⁄<sub>5</sub></span>
 
 
 <span class="math-inline">3828÷ 6</span>
@@ -721,7 +651,7 @@ undefined
 <span class="math-inline">31</span>
 
 
-<span class="math-inline"><sup>7505</sup>∕<sub>25</sub></span>
+<span class="math-inline"><sup>7505</sup>⁄<sub>25</sub></span>
 
 
 300 R5
@@ -757,8 +687,6 @@ In the following exercises, solve.
 
 *Juice* One carton of fruit juice is <span class="math-inline">128</span> ounces. How many <span class="math-inline">4</span> ounce cups can Shayla fill from one carton of juice?
 
-
----
 
 ## Chapter Practice Test
 
@@ -812,7 +740,7 @@ Simplify.
 17
 
 
-<span class="math-inline">1,000 ×  8</span>
+<span class="math-inline">1,000 × 8</span>
 
 
 <span class="math-inline">90-58</span>
@@ -833,7 +761,7 @@ Simplify.
 <span class="math-inline">634+255</span>
 
 
-<span class="math-inline"><sup>0</sup>∕<sub>9</sub></span>
+<span class="math-inline"><sup>0</sup>⁄<sub>9</sub></span>
 
 
 0
@@ -866,7 +794,7 @@ Simplify.
 490
 
 
-<span class="math-inline"><sup>26</sup>∕<sub>0</sub></span>
+<span class="math-inline"><sup>26</sup>⁄<sub>0</sub></span>
 
 
 <span class="math-inline">733-291</span>
@@ -884,7 +812,7 @@ Simplify.
 11
 
 
-<span class="math-inline">52 ×  983</span>
+<span class="math-inline">52 × 983</span>
 
 
 Translate each phrase to math notation and then simplify.

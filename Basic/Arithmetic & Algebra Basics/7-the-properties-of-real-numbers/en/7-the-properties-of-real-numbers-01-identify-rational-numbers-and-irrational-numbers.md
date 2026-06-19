@@ -1,124 +1,70 @@
 # The Properties of Real Numbers
 
-<style>
-.math-inline {
-    font-style: italic;
-    padding: 2px 6px;
-    border-radius: 4px;
-    background: #f8f9fa;
-    font-family: Georgia, serif;
-}
-.math-display {
-    background: #f8f9fa;
-    border-left: 4px solid #4a90d9;
-    padding: 16px 20px;
-    margin: 16px 0;
-    border-radius: 6px;
-    font-size: 1.15em;
-    font-family: Georgia, serif;
-    text-align: center;
-    line-height: 2;
-    overflow-x: auto;
-}
-.example-box, .example {
-    background: #f0f8ff;
-    border-left: 4px solid #2e86de;
-    padding: 12px 20px;
-    margin: 16px 0;
-    border-radius: 6px;
-}
-.tryit-box, .tryit {
-    background: #f0fff4;
-    border-left: 4px solid #27ae60;
-    padding: 12px 20px;
-    margin: 16px 0;
-    border-radius: 6px;
-}
-.solution-box, .solution {
-    background: #fef9e7;
-    border-left: 4px solid #f39c12;
-    padding: 12px 20px;
-    margin: 12px 0;
-    border-radius: 6px;
-}
-.check-box, .check {
-    background: #fef9e7;
-    border-left: 4px solid #f39c12;
-    padding: 12px 20px;
-    margin: 12px 0;
-    border-radius: 6px;
-}
-.prep-quiz {
-    background: #fff3cd;
-    border: 1px solid #ffc107;
-    padding: 12px 20px;
-    margin: 16px 0;
-    border-radius: 6px;
-}
-.def-label, .definition-label {
-    font-weight: bold;
-    font-size: 1.1em;
-    margin: 20px 0 8px 0;
-    color: #2c3e50;
-    display: block;
-}
-.math-display sup, .math-inline sup { font-size: 0.75em; line-height: 0; }
-.math-display sub, .math-inline sub { font-size: 0.75em; line-height: 0; }
-</style>
-
 
 *Quiltmakers know that by rearranging the same basic blocks the resulting quilts can look very different.  What happens when we rearrange the numbers in an expression? Does the resulting value change? We will answer these questions in this chapter as we will learn about the properties of numbers. (credit: Hans, Public Domain)*
 
-A quilt is formed by sewing many different pieces of fabric together. The pieces can vary in color, size, and shape. The combinations of different kinds of pieces provide for an endless possibility of patterns. Much like the pieces of fabric, mathematicians distinguish among different types of numbers. The kinds of numbers in an expression provide for an endless possibility of outcomes. We have already described counting numbers, whole numbers, and integers. In this chapter, we will learn about other types of numbers and their properties.
+
+A quilt is formed by sewing many different pieces of fabric together.
+The pieces can vary in color, size, and shape.
+The combinations of different kinds of pieces provide for an endless possibility of patterns.
+Much like the pieces of fabric, mathematicians distinguish among different types of numbers.
+The kinds of numbers in an expression provide for an endless possibility of outcomes.
+We have already described counting numbers, whole numbers, and integers.
+In this chapter, we will learn about other types of numbers and their properties.
 
 
-<div class="prep-quiz">
 **Be Prepared!**
-
 
 Before you get started, take this readiness quiz.
 
 
 Write <span class="math-inline">3.19</span> as an improper fraction.
 
-If you missed this problem, review .
+If you missed this problem, review
 
 
-<span class="math-inline"><sup>319</sup>∕<sub>100</sub></span>
+<span class="math-inline"><sup>319</sup>⁄<sub>100</sub></span>
 
 
-<div class="prep-quiz">
 **Be Prepared!**
 
 
-Write <span class="math-inline"><sup>5</sup>∕<sub>11</sub></span> as a decimal.
+Write <span class="math-inline"><sup>5</sup>⁄<sub>11</sub></span> as a decimal.
 
-If you missed this problem, review .
+If you missed this problem, review
 
 
 <span class="math-inline">0.45<sup>¯</sup></span>
 
 
-<div class="prep-quiz">
 **Be Prepared!**
 
 
-Simplify: <span class="math-inline">√{144}.</span>
+Simplify: <span class="math-inline">√144.</span>
 
-If you missed this problem, review .
+If you missed this problem, review
 
 
 <span class="math-inline">12</span>
 
 
----
-
 ## Identify Rational Numbers and Irrational Numbers
 
 
-Congratulations! You have completed the first six chapters of this book! It's time to take stock of what you have done so far in this course and think about what is ahead. You have learned how to add, subtract, multiply, and divide whole numbers, fractions, **integers**, and decimals. You have become familiar with the language and symbols of algebra, and have simplified and evaluated algebraic expressions. You have solved many different types of applications. You have established a good solid foundation that you need so you can be successful in algebra.
+Congratulations!
+You have completed the first six chapters of this book!
+It's time to take stock of what you have done so far in this course and think about what is ahead.
+You have learned how to add, subtract, multiply, and divide whole numbers, fractions, **integers**, and decimals.
+You have become familiar with the language and symbols of algebra, and have simplified and evaluated algebraic expressions.
+You have solved many different types of applications.
+You have established a good solid foundation that you need so you can be successful in algebra.
 
-In this chapter, we'll make sure your skills are firmly set. We'll take another look at the kinds of numbers we have worked with in all previous chapters. We'll work with properties of numbers that will help you improve your number sense. And we'll practice using them in ways that we'll use when we solve equations and complete other procedures in algebra.
+
+In this chapter, we'll make sure your skills are firmly set.
+We'll take another look at the kinds of numbers we have worked with in all previous chapters.
+We'll work with properties of numbers that will help you improve your number sense.
+And we'll practice using them in ways that we'll use when we solve equations and complete other procedures in algebra.
+
 
 We have already described numbers as counting numbers, whole numbers, and integers. Do you remember what the difference is among these types of numbers?
 
@@ -128,18 +74,16 @@ We have already described numbers as counting numbers, whole numbers, and intege
 What type of numbers would you get if you started with all the integers and then included all the fractions? The numbers you would have form the set of rational numbers. A **rational number** is a number that can be written as a ratio of two integers.
 
 
-<div class="definition-label">**Rational Numbers**</div>
+**Rational Numbers**
 
-
-A rational number is a number that can be written in the form <span class="math-inline"><sup>p</sup>∕<sub>q</sub>,</span> where <span class="math-inline">p</span> and <span class="math-inline">q</span> are integers and <span class="math-inline">q≠ 0.</span>
+A rational number is a number that can be written in the form <span class="math-inline"><sup>p</sup>⁄<sub>q</sub>,</span> where <span class="math-inline">p</span> and <span class="math-inline">q</span> are integers and <span class="math-inline">q≠ 0.</span>
 
 All fractions, both positive and negative, are rational numbers. A few examples are
 
 
 <div class="math-display">
-<sup>4</sup>∕<sub>5</sub>,-<sup>7</sup>∕<sub>8</sub>,<sup>13</sup>∕<sub>4</sub>,and -<sup>20</sup>∕<sub>3</sub>
+<sup>4</sup>⁄<sub>5</sub>,-<sup>7</sup>⁄<sub>8</sub>,<sup>13</sup>⁄<sub>4</sub>,and -<sup>20</sup>⁄<sub>3</sub>
 </div>
-
 
 Each numerator and each denominator is an integer.
 
@@ -149,28 +93,28 @@ Are integers rational numbers? To decide if an integer is a rational number, we 
 
 
 <div class="math-display">
-3=<sup>3</sup>∕<sub>1</sub> −8=<sup>−8</sup>∕<sub>1</sub> 0=<sup>0</sup>∕<sub>1</sub>
+3=<sup>3</sup>⁄<sub>1</sub> −8=<sup>−8</sup>⁄<sub>1</sub> 0=<sup>0</sup>⁄<sub>1</sub>
 </div>
-
 
 Since any integer can be written as the ratio of two integers, all integers are rational numbers. Remember that all the counting numbers and all the whole numbers are also integers, and so they, too, are rational.
 
 What about decimals? Are they rational? Let's look at a few to see if we can write each of them as the ratio of two integers. We've already seen that integers are rational numbers. The integer <span class="math-inline">−8</span> could be written as the decimal <span class="math-inline">−8.0.</span> So, clearly, some decimals are rational.
 
-Think about the decimal <span class="math-inline">7.3.</span> Can we write it as a ratio of two integers? Because <span class="math-inline">7.3</span> means <span class="math-inline">7<sup>3</sup>∕<sub>10</sub>,</span> we can write it as an improper fraction, <span class="math-inline"><sup>73</sup>∕<sub>10</sub>.</span> So <span class="math-inline">7.3</span> is the ratio of the integers <span class="math-inline">73</span> and <span class="math-inline">10.</span> It is a rational number.
+
+Think about the decimal <span class="math-inline">7.3.</span> Can we write it as a ratio of two integers?
+Because <span class="math-inline">7.3</span> means <span class="math-inline">7<sup>3</sup>⁄<sub>10</sub>,</span> we can write it as an improper fraction, <span class="math-inline"><sup>73</sup>⁄<sub>10</sub>.</span> So <span class="math-inline">7.3</span> is the ratio of the integers <span class="math-inline">73</span> and <span class="math-inline">10.</span> It is a rational number.
+
 
 In general, any decimal that ends after a number of digits (such as <span class="math-inline">7.3</span> or <span class="math-inline">−1.2684)</span> is a rational number. Simply write the decimal as a mixed number.
 
 
-<div class="example">
 **Example**
 
 
-Write each as the ratio of two integers: ⓐ <span class="math-inline">−15</span>ⓑ <span class="math-inline">6.81</span>ⓒ <span class="math-inline">−3<sup>6</sup>∕<sub>7</sub>.</span>
+Write each as the ratio of two integers: ⓐ <span class="math-inline">−15</span>ⓑ <span class="math-inline">6.81</span>ⓒ <span class="math-inline">−3<sup>6</sup>⁄<sub>7</sub>.</span>
 
 
-<div class="solution">
-**Solution**
+Solution
 
 
    ⓐ
@@ -180,7 +124,7 @@ Write each as the ratio of two integers: ⓐ <span class="math-inline">−15</sp
 
 
    Write the integer as a fraction with denominator 1.
-   <span class="math-inline"><sup>−15</sup>∕<sub>1</sub></span>
+   <span class="math-inline"><sup>−15</sup>⁄<sub>1</sub></span>
 
 
   ⓑ
@@ -190,54 +134,52 @@ Write each as the ratio of two integers: ⓐ <span class="math-inline">−15</sp
 
 
    Write the decimal as a mixed number.
-   <span class="math-inline">6<sup>81</sup>∕<sub>100</sub></span>
+   <span class="math-inline">6<sup>81</sup>⁄<sub>100</sub></span>
 
 
    Then convert it to an improper fraction.
-   <span class="math-inline"><sup>681</sup>∕<sub>100</sub></span>
+   <span class="math-inline"><sup>681</sup>⁄<sub>100</sub></span>
 
 
    ⓒ
 
 
-   <span class="math-inline">−3<sup>6</sup>∕<sub>7</sub></span>
+   <span class="math-inline">−3<sup>6</sup>⁄<sub>7</sub></span>
 
 
    Convert the mixed number to an improper fraction.
-   <span class="math-inline">-<sup>27</sup>∕<sub>7</sub></span>
+   <span class="math-inline">-<sup>27</sup>⁄<sub>7</sub></span>
 
 
-<div class="tryit">
 **Try It**
 
 
 Write each as the ratio of two integers: ⓐ <span class="math-inline">−24</span>ⓑ <span class="math-inline">3.57.</span>
 
 
-  - ⓐ <span class="math-inline"><sup>−24</sup>∕<sub>1</sub></span>
-  - ⓑ <span class="math-inline"><sup>357</sup>∕<sub>100</sub></span>
+  - ⓐ <span class="math-inline"><sup>−24</sup>⁄<sub>1</sub></span>
+  - ⓑ <span class="math-inline"><sup>357</sup>⁄<sub>100</sub></span>
 
 
-<div class="tryit">
 **Try It**
 
 
 Write each as the ratio of two integers: ⓐ <span class="math-inline">−19</span> ⓑ <span class="math-inline">8.41.</span>
 
 
-  - ⓐ <span class="math-inline"><sup>−19</sup>∕<sub>1</sub></span>
-  - ⓑ <span class="math-inline"><sup>841</sup>∕<sub>100</sub></span>
+  - ⓐ <span class="math-inline"><sup>−19</sup>⁄<sub>1</sub></span>
+  - ⓑ <span class="math-inline"><sup>841</sup>⁄<sub>100</sub></span>
 
-Let's look at the decimal form of the numbers we know are rational. We have seen that every **integer** is a **rational number**, since <span class="math-inline">a=<sup>a</sup>∕<sub>1</sub></span> for any integer, <span class="math-inline">a.</span> We can also change any integer to a decimal by adding a decimal point and a zero.
+Let's look at the decimal form of the numbers we know are rational. We have seen that every **integer** is a **rational number**, since <span class="math-inline">a=<sup>a</sup>⁄<sub>1</sub></span> for any integer, <span class="math-inline">a.</span> We can also change any integer to a decimal by adding a decimal point and a zero.
 
-\(Integer &  &  & −2 \\
-Decimal &  &  & −2.0\)
+<span class="math-inline">Integer & & & −2 \\
+Decimal & & & −2.0</span>
 
 We have also seen that every fraction is a rational number. Look at the decimal form of the fractions we just considered.
 
-\(Ratio of Integers &  & \frac{4}{5} &  & - &  & \frac{13}{4} & - &  \\
-Decimal Forms &  & 0.8 &  & −0.875 &  & 3.25 & −6.666\dots & These decimals either stop or repeat. \\
- &  &  &  &  &  &  & −6\)
+<span class="math-inline">Ratio of Integers & & <sup>4</sup>⁄<sub>5</sub> & & - & & <sup>13</sup>⁄<sub>4</sub> & - & \\
+Decimal Forms & & 0.8 & & −0.875 & & 3.25 & −6.666… & These decimals either stop or repeat. \\
+ & & & & & & & −6</span>
 
 What do these examples tell you? Every rational number can be written both as a ratio of integers and as a decimal that either stops or repeats. The table below shows the numbers we looked at expressed as a ratio of integers and as a decimal.
 
@@ -251,20 +193,17 @@ Are there any decimals that do not stop or repeat? Yes. The number <span class="
 π=3.141592654.......
 </div>
 
-
 Similarly, the decimal representations of square roots of whole numbers that are not perfect squares never stop and never repeat. For example,
 
 
 <div class="math-display">
-√{5}=2.236067978.....
+√5=2.236067978.....
 </div>
-
 
 A decimal that does not stop and does not repeat cannot be written as the ratio of integers. We call this kind of number an **irrational number**.
 
 
-<div class="definition-label">**Irrational Number**</div>
-
+**Irrational Number**
 
 An irrational number is a number that cannot be written as the ratio of two integers. Its decimal form does not stop and does not repeat.
 
@@ -277,7 +216,6 @@ If the decimal form of a number
 - does not stop and does not repeat, the number is irrational.
 
 
-<div class="example">
 **Example**
 
 
@@ -293,10 +231,7 @@ Identify each of the following as rational or irrational:
 ⓒ <span class="math-inline">3.605551275…</span>
 
 
-<div class="solution">
-**Solution**
-
-
+Solution
 ⓐ <span class="math-inline">0.583<sup>–</sup></span>
 The bar above the <span class="math-inline">3</span> indicates that it repeats. Therefore, <span class="math-inline">0.583<sup>–</sup></span> is a repeating decimal, and is therefore a rational number.ⓑ <span class="math-inline">0.475</span>
 
@@ -305,7 +240,6 @@ This decimal stops after the <span class="math-inline">5</span>, so it is a rati
 The ellipsis <span class="math-inline">(…)</span> means that this number does not stop. There is no repeating pattern of digits. Since the number doesn't stop and doesn't repeat, it is irrational.
 
 
-<div class="tryit">
 **Try It**
 
 
@@ -318,7 +252,6 @@ Identify each of the following as rational or irrational:
   - ⓒ irrational
 
 
-<div class="tryit">
 **Try It**
 
 
@@ -333,7 +266,6 @@ Identify each of the following as rational or irrational:
 Let's think about square roots now. Square roots of perfect squares are always **whole numbers**, so they are rational. But the decimal forms of square roots of numbers that are not perfect squares never stop and never repeat, so these square roots are irrational.
 
 
-<div class="example">
 **Example**
 
 
@@ -341,57 +273,51 @@ Identify each of the following as rational or irrational:
 
 
   -
-ⓐ <span class="math-inline">√{36}</span>
+ⓐ <span class="math-inline">√36</span>
 
   -
-ⓑ <span class="math-inline">√{44}</span>
+ⓑ <span class="math-inline">√44</span>
 
 
-<div class="solution">
-**Solution**
+Solution
+
+ⓐ The number <span class="math-inline">36</span> is a perfect square, since <span class="math-inline">6<sup>2</sup>=36.</span> So <span class="math-inline">√36=6.</span> Therefore <span class="math-inline">√36</span> is rational.ⓑ Remember that <span class="math-inline">6<sup>2</sup>=36</span> and <span class="math-inline">7<sup>2</sup>=49,</span> so <span class="math-inline">44</span> is not a perfect square.
+This means <span class="math-inline">√44</span> is irrational.
 
 
-ⓐ The number <span class="math-inline">36</span> is a perfect square, since <span class="math-inline">6<sup>2</sup>=36.</span> So <span class="math-inline">√{36}=6.</span> Therefore <span class="math-inline">√{36}</span> is rational.ⓑ Remember that <span class="math-inline">6<sup>2</sup>=36</span> and <span class="math-inline">7<sup>2</sup>=49,</span> so <span class="math-inline">44</span> is not a perfect square.This means <span class="math-inline">√{44}</span> is irrational.
-
-
-<div class="tryit">
 **Try It**
 
 
 Identify each of the following as rational or irrational:
 
   -
-ⓐ <span class="math-inline">√{81}</span>
+ⓐ <span class="math-inline">√81</span>
 
   -
-ⓑ <span class="math-inline">√{17}</span>
+ⓑ <span class="math-inline">√17</span>
 
 
   - ⓐ rational
   - ⓑ irrational
 
 
-<div class="tryit">
 **Try It**
 
 
 Identify each of the following as rational or irrational:
 
   -
-ⓐ <span class="math-inline">√{116}</span>
+ⓐ <span class="math-inline">√116</span>
 
   -
-ⓑ <span class="math-inline">√{121}</span>
+ⓑ <span class="math-inline">√121</span>
 
 
   - ⓐ irrational
   - ⓑ rational
 
 
----
-
 ## Classify Real Numbers
-
 
 We have seen that all counting numbers are whole numbers, all whole numbers are integers, and all **integers** are **rational numbers**. Irrational numbers are a separate category of their own. When we put together the rational numbers and the **irrational numbers**, we get the set of **real numbers**.
 
@@ -401,26 +327,29 @@ We have seen that all counting numbers are whole numbers, all whole numbers are 
 *This diagram illustrates the relationships between the different types of real numbers.*
 
 
-<div class="definition-label">**Real Numbers**</div>
-
+**Real Numbers**
 
 Real numbers are numbers that are either rational or irrational.
 
-Does the term “real numbers” seem strange to you? Are there any numbers that are not “real”, and, if so, what could they be? For centuries, the only numbers people knew about were what we now call the real numbers. Then mathematicians discovered the set of *imaginary numbers.* You won't encounter imaginary numbers in this course, but you will later on in your studies of algebra.
+
+Does the term “real numbers” seem strange to you?
+Are there any numbers that are not “real”, and, if so, what could they be?
+For centuries, the only numbers people knew about were what we now call the real numbers.
+Then mathematicians discovered the set of *imaginary numbers.* You won't encounter imaginary numbers in this course, but you will later on in your studies of algebra.
 
 
-<div class="example">
 **Example**
 
 
-Determine whether each of the numbers in the following list is a ⓐ whole number, ⓑ integer, ⓒ rational number, ⓓ irrational number, and ⓔ real number.<span class="math-inline">−7,<sup>14</sup>∕<sub>5</sub>,8,√{5},5.9,-√{64}</span>
+Determine whether each of the numbers in the following list is a ⓐ whole number, ⓑ integer, ⓒ rational number, ⓓ irrational number, and ⓔ real number.<span class="math-inline">−7,<sup>14</sup>⁄<sub>5</sub>,8,√5,5.9,-√64</span>
 
 
-<div class="solution">
-**Solution**
+Solution
 
+ⓐ The whole numbers are <span class="math-inline">0,1,2,3,…</span> The number <span class="math-inline">8</span> is the only whole number given.ⓑ The integers are the whole numbers, their opposites, and <span class="math-inline">0.</span> From the given numbers, <span class="math-inline">−7</span> and <span class="math-inline">8</span> are integers.
+Also, notice that <span class="math-inline">64</span> is the square of <span class="math-inline">8</span> so <span class="math-inline">-√64=−8.</span> So the integers are <span class="math-inline">−7,8,-√64.</span>ⓒ Since all integers are rational, the numbers <span class="math-inline">−7,8,and -√64</span> are also rational.
+Rational numbers also include fractions and decimals that terminate or repeat, so <span class="math-inline"><sup>14</sup>⁄<sub>5</sub> and 5.9</span> are rational.ⓓ The number <span class="math-inline">5</span> is not a perfect square, so <span class="math-inline">√5</span> is irrational.ⓔ All of the numbers listed are real.
 
-ⓐ The whole numbers are <span class="math-inline">0,1,2,3,…</span> The number <span class="math-inline">8</span> is the only whole number given.ⓑ The integers are the whole numbers, their opposites, and <span class="math-inline">0.</span> From the given numbers, <span class="math-inline">−7</span> and <span class="math-inline">8</span> are integers. Also, notice that <span class="math-inline">64</span> is the square of <span class="math-inline">8</span> so <span class="math-inline">-√{64}=−8.</span> So the integers are <span class="math-inline">−7,8,-√{64}.</span>ⓒ Since all integers are rational, the numbers <span class="math-inline">−7,8,and -√{64}</span> are also rational. Rational numbers also include fractions and decimals that terminate or repeat, so <span class="math-inline"><sup>14</sup>∕<sub>5</sub> and 5.9</span> are rational.ⓓ The number <span class="math-inline">5</span> is not a perfect square, so <span class="math-inline">√{5}</span> is irrational.ⓔ All of the numbers listed are real.
 We'll summarize the results in a table.
 
 
@@ -440,7 +369,7 @@ Real
 <span class="math-inline">✓</span>
 
 
-<span class="math-inline"><sup>14</sup>∕<sub>5</sub></span>
+<span class="math-inline"><sup>14</sup>⁄<sub>5</sub></span>
 
 
 <span class="math-inline">✓</span>
@@ -456,7 +385,7 @@ Real
 <span class="math-inline">✓</span>
 
 
-<span class="math-inline">√{5}</span>
+<span class="math-inline">√5</span>
 
 
 <span class="math-inline">✓</span>
@@ -471,7 +400,7 @@ Real
 <span class="math-inline">✓</span>
 
 
-<span class="math-inline">-√{64}</span>
+<span class="math-inline">-√64</span>
 
 <span class="math-inline">✓</span>
 <span class="math-inline">✓</span>
@@ -479,32 +408,26 @@ Real
 <span class="math-inline">✓</span>
 
 
-<div class="tryit">
 **Try It**
 
 
-Determine whether each number is a ⓐ whole number, ⓑ integer, ⓒ rational number, ⓓ irrational number, and ⓔ real number: <span class="math-inline">−3,-√{2},0.3<sup>–</sup>,<sup>9</sup>∕<sub>5</sub>,4,√{49}.</span>
+Determine whether each number is a ⓐ whole number, ⓑ integer, ⓒ rational number, ⓓ irrational number, and ⓔ real number: <span class="math-inline">−3,-√2,0.3<sup>–</sup>,<sup>9</sup>⁄<sub>5</sub>,4,√49.</span>
 
 
-<div class="tryit">
 **Try It**
 
 
-Determine whether each number is a ⓐ whole number, ⓑ integer, ⓒ rational number, ⓓ irrational number, and ⓔ real number: <span class="math-inline">-√{25},-<sup>3</sup>∕<sub>8</sub>,−1,6,√{121},2.041975…</span>
+Determine whether each number is a ⓐ whole number, ⓑ integer, ⓒ rational number, ⓓ irrational number, and ⓔ real number: <span class="math-inline">-√25,-<sup>3</sup>⁄<sub>8</sub>,−1,6,√121,2.041975…</span>
 
 
-<div class="definition-label">**ACCESS ADDITIONAL ONLINE RESOURCES**</div>
-
+**ACCESS ADDITIONAL ONLINE RESOURCES**
 
 - Sets of Real Numbers
 
 - Real Numbers
 
 
----
-
 ## Key Concepts
-
 
 - *Real numbers*
   -
@@ -521,8 +444,8 @@ In the following exercises, write as the ratio of two integers.
   - ⓑ <span class="math-inline">3.19</span>
 
 
-  - ⓐ <span class="math-inline"><sup>5</sup>∕<sub>1</sub></span>
-  - ⓑ <span class="math-inline"><sup>319</sup>∕<sub>100</sub></span>
+  - ⓐ <span class="math-inline"><sup>5</sup>⁄<sub>1</sub></span>
+  - ⓑ <span class="math-inline"><sup>319</sup>⁄<sub>100</sub></span>
 
 
   - ⓐ <span class="math-inline">8</span>
@@ -533,8 +456,8 @@ In the following exercises, write as the ratio of two integers.
   - ⓑ <span class="math-inline">9.279</span>
 
 
-  - ⓐ <span class="math-inline"><sup>−12</sup>∕<sub>1</sub></span>
-  - ⓑ <span class="math-inline"><sup>9279</sup>∕<sub>1000</sub></span>
+  - ⓐ <span class="math-inline"><sup>−12</sup>⁄<sub>1</sub></span>
+  - ⓑ <span class="math-inline"><sup>9279</sup>⁄<sub>1000</sub></span>
 
 
   - ⓐ <span class="math-inline">−16</span>
@@ -563,41 +486,41 @@ Rational: <span class="math-inline">0.45<sup>—</sup></span>, <span class="math
 In the following exercises, identify whether each number is rational or irrational.
 
 
-  - ⓐ <span class="math-inline">√{25}</span>
-  - ⓑ <span class="math-inline">√{30}</span>
+  - ⓐ <span class="math-inline">√25</span>
+  - ⓑ <span class="math-inline">√30</span>
 
 
   - ⓐ rational
   - ⓑ irrational
 
 
-  - ⓐ <span class="math-inline">√{44}</span>
-  - ⓑ <span class="math-inline">√{49}</span>
+  - ⓐ <span class="math-inline">√44</span>
+  - ⓑ <span class="math-inline">√49</span>
 
 
-  - ⓐ <span class="math-inline">√{164}</span>
-  - ⓑ <span class="math-inline">√{169}</span>
+  - ⓐ <span class="math-inline">√164</span>
+  - ⓑ <span class="math-inline">√169</span>
 
 
   - ⓐ irrational
   - ⓑ rational
 
 
-  - ⓐ <span class="math-inline">√{225}</span>
-  - ⓑ <span class="math-inline">√{216}</span>
+  - ⓐ <span class="math-inline">√225</span>
+  - ⓑ <span class="math-inline">√216</span>
 
 *Classifying Real Numbers*
 
 In the following exercises, determine whether each number is whole, integer, rational, irrational, and real.
 
 
-<span class="math-inline">−8</span>, <span class="math-inline">0,1.95286....</span>, <span class="math-inline"><sup>12</sup>∕<sub>5</sub></span>, <span class="math-inline">√{36}</span>, <span class="math-inline">9</span>
+<span class="math-inline">−8</span>, <span class="math-inline">0,1.95286....</span>, <span class="math-inline"><sup>12</sup>⁄<sub>5</sub></span>, <span class="math-inline">√36</span>, <span class="math-inline">9</span>
 
 
-<span class="math-inline">−9</span>, <span class="math-inline">−3<sup>4</sup>∕<sub>9</sub></span>, <span class="math-inline">-√{9}</span>, <span class="math-inline">0.409<sup>—</sup></span>,<span class="math-inline"><sup>11</sup>∕<sub>6</sub></span>, <span class="math-inline">7</span>
+<span class="math-inline">−9</span>, <span class="math-inline">−3<sup>4</sup>⁄<sub>9</sub></span>, <span class="math-inline">-√9</span>, <span class="math-inline">0.409<sup>—</sup></span>,<span class="math-inline"><sup>11</sup>⁄<sub>6</sub></span>, <span class="math-inline">7</span>
 
 
-<span class="math-inline">-√{100}</span>, <span class="math-inline">−7</span>, <span class="math-inline">-<sup>8</sup>∕<sub>3</sub></span>, <span class="math-inline">−1</span>, <span class="math-inline">0.77</span>, <span class="math-inline">3<sup>1</sup>∕<sub>4</sub></span>
+<span class="math-inline">-√100</span>, <span class="math-inline">−7</span>, <span class="math-inline">-<sup>8</sup>⁄<sub>3</sub></span>, <span class="math-inline">−1</span>, <span class="math-inline">0.77</span>, <span class="math-inline">3<sup>1</sup>⁄<sub>4</sub></span>
 
 
 ### Everyday Math
@@ -646,45 +569,50 @@ Answers will vary.
 
 …confidently. Congratulations! You have achieved the objectives in this section. Reflect on the study skills you used so that you can continue to use them. What did you do to become confident of your ability to do these things? Be specific.
 
-…with some help. This must be addressed quickly because topics you do not master become potholes in your road to success. In math, every topic builds upon previous work. It is important to make sure you have a strong foundation before you move on. Whom can you ask for help? Your fellow classmates and instructor are good resources. Is there a place on campus where math tutors are available? Can your study skills be improved?
+
+…with some help.
+This must be addressed quickly because topics you do not master become potholes in your road to success.
+In math, every topic builds upon previous work.
+It is important to make sure you have a strong foundation before you move on.
+Whom can you ask for help?
+Your fellow classmates and instructor are good resources.
+Is there a place on campus where math tutors are available?
+Can your study skills be improved?
+
 
 …no—I don’t get it! This is a warning sign and you must not ignore it. You should get help right away or you will quickly be overwhelmed. See your instructor as soon as you can to discuss your situation. Together you can come up with a plan to get you the help you need.
 
 
-<div class="prep-quiz">
 **Be Prepared!**
-
 
 Before you get started, take this readiness quiz.
 
 
 Simplify: <span class="math-inline">7y+2+y+13.</span>
 
-If you missed this problem, review .
+If you missed this problem, review
 
 
 <span class="math-inline">8y+15</span>
 
 
-<div class="prep-quiz">
 **Be Prepared!**
 
 
-Multiply: <span class="math-inline"><sup>2</sup>∕<sub>3</sub>· 18.</span>
+Multiply: <span class="math-inline"><sup>2</sup>⁄<sub>3</sub>· 18.</span>
 
-If you missed this problem, review .
+If you missed this problem, review
 
 
 <span class="math-inline">12</span>
 
 
-<div class="prep-quiz">
 **Be Prepared!**
 
 
 Find the opposite of <span class="math-inline">15.</span>
 
-If you missed this problem, review .
+If you missed this problem, review
 
 
 <span class="math-inline">-15</span>
@@ -693,19 +621,15 @@ If you missed this problem, review .
 In the next few sections, we will take a look at the properties of real numbers. Many of these properties will describe things you already know, but it will help to give names to the properties and define them formally. This way we’ll be able to refer to them and use them as we solve equations in the next chapter.
 
 
----
-
 ## Use the Commutative and Associative Properties
-
 
 Think about adding two numbers, such as <span class="math-inline">5</span> and <span class="math-inline">3.</span>
 
 
 <div class="math-display">
-5 &  &  & 3 \\
-8 &  &  & 8
+5 & & & 3 \\
+8 & & & 8
 </div>
-
 
 The results are the same. <span class="math-inline">5+3=3+5</span>
 
@@ -713,18 +637,16 @@ Notice, the order in which we add does not matter. The same is true when multipl
 
 
 <div class="math-display">
-5 &  &  & 3 \\
-15 &  &  & 15
+5 & & & 3 \\
+15 & & & 15
 </div>
-
 
 Again, the results are the same! <span class="math-inline">5· 3=3· 5.</span> The order in which we multiply does not matter.
 
 These examples illustrate the commutative properties of addition and multiplication.
 
 
-<div class="definition-label">**Commutative Properties**</div>
-
+**Commutative Properties**
 
 **Commutative Property of Addition**: if <span class="math-inline">a</span> and <span class="math-inline">b</span> are real numbers, then
 
@@ -733,7 +655,6 @@ These examples illustrate the commutative properties of addition and multiplicat
 a+b=b+a
 </div>
 
-
 **Commutative Property of Multiplication**: if <span class="math-inline">a</span> and <span class="math-inline">b</span> are real numbers, then
 
 
@@ -741,11 +662,9 @@ a+b=b+a
 a· b=b· a
 </div>
 
-
 The commutative properties have to do with order. If you change the order of the numbers when adding or multiplying, the result is the same.
 
 
-<div class="example">
 **Example**
 
 
@@ -758,8 +677,7 @@ Use the commutative properties to rewrite the following expressions:
 ⓑ <span class="math-inline">4· 9=_____</span>
 
 
-<div class="solution">
-**Solution**
+Solution
 
 
   ⓐ
@@ -782,7 +700,6 @@ Use the commutative properties to rewrite the following expressions:
    <span class="math-inline">4· 9=9· 4</span>
 
 
-<div class="tryit">
 **Try It**
 
 
@@ -795,7 +712,6 @@ Use the commutative properties to rewrite the following:
   - ⓑ 6 · 12 = 12 · 6
 
 
-<div class="tryit">
 **Try It**
 
 
@@ -811,8 +727,8 @@ What about subtraction? Does order matter when we subtract numbers? Does <span c
 
 
 <div class="math-display">
-7 &  & 3 \\
-4 &  & - \\
+7 & & 3 \\
+4 & & - \\
  & 4 &
 </div>
 
@@ -821,16 +737,15 @@ What about subtraction? Does order matter when we subtract numbers? Does <span c
 The results are not the same. 7-3≠ 3-7
 </div>
 
-
 Since changing the order of the subtraction did not give the same result, we can say that subtraction is not commutative.
 
 Let’s see what happens when we divide two numbers. Is division commutative?
 
 
 <div class="math-display">
-12 &  & 4 \\
-<sup>12</sup>∕<sub>4</sub> &  & <sup>4</sup>∕<sub>12</sub> \\
-3 &  & <sup>1</sup>∕<sub>3</sub> \\
+12 & & 4 \\
+<sup>12</sup>⁄<sub>4</sub> & & <sup>4</sup>⁄<sub>12</sub> \\
+3 & & <sup>1</sup>⁄<sub>3</sub> \\
  & 3 &
 </div>
 
@@ -838,7 +753,6 @@ Let’s see what happens when we divide two numbers. Is division commutative?
 <div class="math-display">
 The results are not the same. So 12÷ 4≠ 4÷ 12
 </div>
-
 
 Since changing the order of the division did not give the same result, division is not commutative.
 
@@ -850,7 +764,6 @@ Suppose you were asked to simplify this expression.
 <div class="math-display">
 7+8+2
 </div>
-
 
 How would you do it and what would your answer be?
 
@@ -864,9 +777,8 @@ The same principle holds true for multiplication as well. Suppose we want to fin
 
 
 <div class="math-display">
-5· <sup>1</sup>∕<sub>3</sub>· 3
+5· <sup>1</sup>⁄<sub>3</sub>· 3
 </div>
-
 
 Changing the grouping of the numbers gives the same result, as shown in .
 
@@ -877,8 +789,7 @@ If we multiply three numbers, changing the grouping does not affect the product.
 You probably know this, but the terminology may be new to you. These examples illustrate the *Associative Properties*.
 
 
-<div class="definition-label">**Associative Properties**</div>
-
+**Associative Properties**
 
 *Associative Property of Addition*: if <span class="math-inline">a,b,</span> and <span class="math-inline">c</span> are real numbers, then
 
@@ -886,7 +797,6 @@ You probably know this, but the terminology may be new to you. These examples il
 <div class="math-display">
 (a+b)+c=a+(b+c)
 </div>
-
 
 *Associative Property of Multiplication*: if <span class="math-inline">a,b,</span> and <span class="math-inline">c</span> are real numbers, then
 
@@ -896,7 +806,6 @@ You probably know this, but the terminology may be new to you. These examples il
 </div>
 
 
-<div class="example">
 **Example**
 
 
@@ -906,11 +815,10 @@ Use the associative properties to rewrite the following:
 ⓐ <span class="math-inline">(3+0.6)+0.4=__________</span>
 
   -
-ⓑ <span class="math-inline">(−4· <sup>2</sup>∕<sub>5</sub>)· 15=__________</span>
+ⓑ <span class="math-inline">(−4· <sup>2</sup>⁄<sub>5</sub>)· 15=__________</span>
 
 
-<div class="solution">
-**Solution**
+Solution
 
 
    ⓐ
@@ -929,51 +837,47 @@ Notice that <span class="math-inline">0.6+0.4</span> is <span class="math-inline
    ⓑ
 
 
-   <span class="math-inline">(−4· <sup>2</sup>∕<sub>5</sub>)· 15=__________</span>
+   <span class="math-inline">(−4· <sup>2</sup>⁄<sub>5</sub>)· 15=__________</span>
 
 
    Change the grouping.
-   <span class="math-inline">(−4· <sup>2</sup>∕<sub>5</sub>)· 15=−4· (<sup>2</sup>∕<sub>5</sub>· 15)</span>
+   <span class="math-inline">(−4· <sup>2</sup>⁄<sub>5</sub>)· 15=−4· (<sup>2</sup>⁄<sub>5</sub>· 15)</span>
 
 
-Notice that <span class="math-inline"><sup>2</sup>∕<sub>5</sub>· 15</span> is <span class="math-inline">6.</span> The multiplication will be easier if we group as shown on the right.
+Notice that <span class="math-inline"><sup>2</sup>⁄<sub>5</sub>· 15</span> is <span class="math-inline">6.</span> The multiplication will be easier if we group as shown on the right.
 
 
-<div class="tryit">
 **Try It**
 
 
 Use the associative properties to rewrite the following:
-ⓐ  <span class="math-inline">(1+0.7)+0.3=__________</span> ⓑ <span class="math-inline">(−9· 8)· <sup>3</sup>∕<sub>4</sub>=__________</span>
+ⓐ  <span class="math-inline">(1+0.7)+0.3=__________</span> ⓑ <span class="math-inline">(−9· 8)· <sup>3</sup>⁄<sub>4</sub>=__________</span>
 
 
   - ⓐ <span class="math-inline">(1+0.7)+0.3=1+(0.7+0.3)</span>
-  - ⓑ <span class="math-inline">(−9· 8)· <sup>3</sup>∕<sub>4</sub>=−9(8· <sup>3</sup>∕<sub>4</sub>)</span>
+  - ⓑ <span class="math-inline">(−9· 8)· <sup>3</sup>⁄<sub>4</sub>=−9(8· <sup>3</sup>⁄<sub>4</sub>)</span>
 
 
-<div class="tryit">
 **Try It**
 
 
 Use the associative properties to rewrite the following:
-ⓐ <span class="math-inline">(4+0.6)+0.4=__________</span> ⓑ <span class="math-inline">(−2· 12)· <sup>5</sup>∕<sub>6</sub>=__________</span>
+ⓐ <span class="math-inline">(4+0.6)+0.4=__________</span> ⓑ <span class="math-inline">(−2· 12)· <sup>5</sup>⁄<sub>6</sub>=__________</span>
 
 
   - ⓐ <span class="math-inline">(4+0.6)+0.4=4+(0.6+0.4)</span>
-  - ⓑ <span class="math-inline">(−2· 12)· <sup>5</sup>∕<sub>6</sub>=−2(12· <sup>5</sup>∕<sub>6</sub>)</span>
+  - ⓑ <span class="math-inline">(−2· 12)· <sup>5</sup>⁄<sub>6</sub>=−2(12· <sup>5</sup>⁄<sub>6</sub>)</span>
 
 Besides using the associative properties to make calculations easier, we will often use it to simplify expressions with variables.
 
 
-<div class="example">
 **Example**
 
 
 Use the Associative Property of Multiplication to simplify: <span class="math-inline">6(3x).</span>
 
 
-<div class="solution">
-**Solution**
+Solution
 
 
    <span class="math-inline">6(3x)</span>
@@ -990,7 +894,6 @@ Use the Associative Property of Multiplication to simplify: <span class="math-in
 Notice that we can multiply <span class="math-inline">6· 3,</span> but we could not multiply <span class="math-inline">3· x</span> without having a value for <span class="math-inline">x.</span>
 
 
-<div class="tryit">
 **Try It**
 
 
@@ -1000,7 +903,6 @@ Use the Associative Property of Multiplication to simplify the given expression:
 8(4*x*) = (8 · 4)*x* = 32*x*
 
 
-<div class="tryit">
 **Try It**
 
 
@@ -1010,32 +912,27 @@ Use the Associative Property of Multiplication to simplify the given expression:
 −9(7*y*) = (−9 · 7)*y* = −63*y*
 
 
----
-
 ## Evaluate Expressions using the Commutative and Associative Properties
-
 
 The commutative and associative properties can make it easier to evaluate some algebraic expressions. Since order does not matter when adding or multiplying three or more terms, we can rearrange and re-group terms to make our work easier, as the next several examples illustrate.
 
 
-<div class="example">
 **Example**
 
 
-Evaluate each expression when <span class="math-inline">x=<sup>7</sup>∕<sub>8</sub>.</span>
+Evaluate each expression when <span class="math-inline">x=<sup>7</sup>⁄<sub>8</sub>.</span>
 
   - ⓐ <span class="math-inline">x+0.37+(-x)</span>
   - ⓑ <span class="math-inline">x+(-x)+0.37</span>
 
 
-<div class="solution">
-**Solution**
+Solution
 
 
    ⓐ
 
 
-   Substitute <span class="math-inline"><sup>7</sup>∕<sub>8</sub></span> for <span class="math-inline">x</span>.
+   Substitute <span class="math-inline"><sup>7</sup>⁄<sub>8</sub></span> for <span class="math-inline">x</span>.
 
 
    Convert fractions to decimals.
@@ -1050,7 +947,7 @@ Evaluate each expression when <span class="math-inline">x=<sup>7</sup>∕<sub>8<
    ⓑ
 
 
-   Substitute <span class="math-inline"><sup>7</sup>∕<sub>8</sub></span> for x.
+   Substitute <span class="math-inline"><sup>7</sup>⁄<sub>8</sub></span> for x.
 
 
    Add opposites first.
@@ -1059,22 +956,20 @@ Evaluate each expression when <span class="math-inline">x=<sup>7</sup>∕<sub>8<
 What was the difference between part ⓐ and part ⓑ ? Only the order changed. By the Commutative Property of Addition, <span class="math-inline">x+0.37+(-x)=x+(-x)+0.37.</span> But wasn’t part ⓑ much easier?
 
 
-<div class="tryit">
 **Try It**
 
 
-Evaluate each expression when <span class="math-inline">y=<sup>3</sup>∕<sub>8</sub>:</span>ⓐ <span class="math-inline">y+0.84+(-y)</span> ⓑ <span class="math-inline">y+(-y)+0.84.</span>
+Evaluate each expression when <span class="math-inline">y=<sup>3</sup>⁄<sub>8</sub>:</span>ⓐ <span class="math-inline">y+0.84+(-y)</span> ⓑ <span class="math-inline">y+(-y)+0.84.</span>
 
 
   - ⓐ 0.84
   - ⓑ 0.84
 
 
-<div class="tryit">
 **Try It**
 
 
-Evaluate each expression when <span class="math-inline">f=<sup>17</sup>∕<sub>20</sub>:</span>ⓐ <span class="math-inline">f+0.975+(-f)</span> ⓑ  <span class="math-inline">f+(-f)+0.975.</span>
+Evaluate each expression when <span class="math-inline">f=<sup>17</sup>⁄<sub>20</sub>:</span>ⓐ <span class="math-inline">f+0.975+(-f)</span> ⓑ  <span class="math-inline">f+(-f)+0.975.</span>
 
 
   - ⓐ 0.975
@@ -1083,21 +978,19 @@ Evaluate each expression when <span class="math-inline">f=<sup>17</sup>∕<sub>2
 Let’s do one more, this time with multiplication.
 
 
-<div class="example">
 **Example**
 
 
 Evaluate each expression when <span class="math-inline">n=17.</span>
 
   -
-ⓐ <span class="math-inline"><sup>4</sup>∕<sub>3</sub>(<sup>3</sup>∕<sub>4</sub>n)</span>
+ⓐ <span class="math-inline"><sup>4</sup>⁄<sub>3</sub>(<sup>3</sup>⁄<sub>4</sub>n)</span>
 
   -
-ⓑ <span class="math-inline">(<sup>4</sup>∕<sub>3</sub>· <sup>3</sup>∕<sub>4</sub>)n</span>
+ⓑ <span class="math-inline">(<sup>4</sup>⁄<sub>3</sub>· <sup>3</sup>⁄<sub>4</sub>)n</span>
 
 
-<div class="solution">
-**Solution**
+Solution
 
 
    ⓐ
@@ -1124,114 +1017,28 @@ Evaluate each expression when <span class="math-inline">n=17.</span>
    Multiply again.
 
 
-What was the difference between part ⓐ and part ⓑ here? Only the grouping changed. By the Associative Property of Multiplication, <span class="math-inline"><sup>4</sup>∕<sub>3</sub>(<sup>3</sup>∕<sub>4</sub>n)=(<sup>4</sup>∕<sub>3</sub>· <sup>3</sup>∕<sub>4</sub>)n.</span> By carefully choosing how to group the factors, we can make the work easier.
+What was the difference between part ⓐ and part ⓑ here? Only the grouping changed. By the Associative Property of Multiplication, <span class="math-inline"><sup>4</sup>⁄<sub>3</sub>(<sup>3</sup>⁄<sub>4</sub>n)=(<sup>4</sup>⁄<sub>3</sub>· <sup>3</sup>⁄<sub>4</sub>)n.</span> By carefully choosing how to group the factors, we can make the work easier.
 
 
-<div class="tryit">
 **Try It**
 
 
-Evaluate each expression when <span class="math-inline">p=24:</span>ⓐ <span class="math-inline"><sup>5</sup>∕<sub>9</sub>(<sup>9</sup>∕<sub>5</sub>p)</span>
+Evaluate each expression when <span class="math-inline">p=24:</span>ⓐ <span class="math-inline"><sup>5</sup>⁄<sub>9</sub>(<sup>9</sup>⁄<sub>5</sub>p)</span>
 
-ⓑ <span class="math-inline">(<sup>5</sup>∕<sub>9</sub>· <sup>9</sup>∕<sub>5</sub>)p.</span>
+ⓑ <span class="math-inline">(<sup>5</sup>⁄<sub>9</sub>· <sup>9</sup>⁄<sub>5</sub>)p.</span>
 
 
   - ⓐ 24
   - ⓑ 24
 
 
-<div class="tryit">
 **Try It**
 
 
-Evaluate each expression when <span class="math-inline">q=15:</span>ⓐ <span class="math-inline"><sup>7</sup>∕<sub>11</sub>(<sup>11</sup>∕<sub>7</sub>q)</span>
+Evaluate each expression when <span class="math-inline">q=15:</span>ⓐ <span class="math-inline"><sup>7</sup>⁄<sub>11</sub>(<sup>11</sup>⁄<sub>7</sub>q)</span>
 
-ⓑ <span class="math-inline">(<sup>7</sup>∕<sub>11</sub>· <sup>11</sup>∕<sub>7</sub>)q</span>
+ⓑ <span class="math-inline">(<sup>7</sup>⁄<sub>11</sub>· <sup>11</sup>⁄<sub>7</sub>)q</span>
 
 
   - ⓐ 15
   - ⓑ 15
-
-</div>
-
-</div>
-
-</div>
-
-</div>
-
-</div>
-
-</div>
-
-</div>
-
-</div>
-
-</div>
-
-</div>
-
-</div>
-
-</div>
-
-</div>
-
-</div>
-
-</div>
-
-</div>
-
-</div>
-
-</div>
-
-</div>
-
-</div>
-
-</div>
-
-</div>
-
-</div>
-
-</div>
-
-</div>
-
-</div>
-
-</div>
-
-</div>
-
-</div>
-
-</div>
-
-</div>
-
-</div>
-
-</div>
-
-</div>
-
-</div>
-
-</div>
-
-</div>
-
-</div>
-
-</div>
-
-</div>
-
-</div>
-
-</div>

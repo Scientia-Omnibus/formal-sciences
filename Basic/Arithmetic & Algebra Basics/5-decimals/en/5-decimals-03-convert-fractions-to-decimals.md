@@ -1,77 +1,4 @@
-<style>
-.math-inline {
-    font-style: italic;
-    padding: 2px 6px;
-    border-radius: 4px;
-    background: #f8f9fa;
-    font-family: Georgia, serif;
-}
-.math-display {
-    background: #f8f9fa;
-    border-left: 4px solid #4a90d9;
-    padding: 16px 20px;
-    margin: 16px 0;
-    border-radius: 6px;
-    font-size: 1.15em;
-    font-family: Georgia, serif;
-    text-align: center;
-    line-height: 2;
-    overflow-x: auto;
-}
-.example-box, .example {
-    background: #f0f8ff;
-    border-left: 4px solid #2e86de;
-    padding: 12px 20px;
-    margin: 16px 0;
-    border-radius: 6px;
-}
-.tryit-box, .tryit {
-    background: #f0fff4;
-    border-left: 4px solid #27ae60;
-    padding: 12px 20px;
-    margin: 16px 0;
-    border-radius: 6px;
-}
-.solution-box, .solution {
-    background: #fef9e7;
-    border-left: 4px solid #f39c12;
-    padding: 12px 20px;
-    margin: 12px 0;
-    border-radius: 6px;
-}
-.check-box, .check {
-    background: #fef9e7;
-    border-left: 4px solid #f39c12;
-    padding: 12px 20px;
-    margin: 12px 0;
-    border-radius: 6px;
-}
-.prep-quiz {
-    background: #fff3cd;
-    border: 1px solid #ffc107;
-    padding: 12px 20px;
-    margin: 16px 0;
-    border-radius: 6px;
-}
-.def-label, .definition-label {
-    font-weight: bold;
-    font-size: 1.1em;
-    margin: 20px 0 8px 0;
-    color: #2c3e50;
-    display: block;
-}
-.math-display sup, .math-inline sup { font-size: 0.75em; line-height: 0; }
-.math-display sub, .math-inline sub { font-size: 0.75em; line-height: 0; }
-</style>
-
-
----
-
-
----
-
 ## Key Concepts
-
 
 - *Add or subtract decimals.*
 
@@ -535,13 +462,22 @@ $3.19
 *Coupon* Diana bought a can of coffee that cost <span class="math-inline">$7.99.</span> She had a coupon for <span class="math-inline">$0.75</span> off, and the store doubled the coupon. How much did she pay for the can of coffee?
 
 
-*Diet* Leo took part in a diet program. He weighed <span class="math-inline">190</span> pounds at the start of the program. During the first week, he lost <span class="math-inline">4.3</span> pounds. During the second week, he had lost <span class="math-inline">2.8</span> pounds. The third week, he gained <span class="math-inline">0.7</span> pounds. The fourth week, he lost <span class="math-inline">1.9</span> pounds. What did Leo weigh at the end of the fourth week?
+*Diet* Leo took part in a diet program.
+He weighed <span class="math-inline">190</span> pounds at the start of the program.
+During the first week, he lost <span class="math-inline">4.3</span> pounds.
+During the second week, he had lost <span class="math-inline">2.8</span> pounds.
+The third week, he gained <span class="math-inline">0.7</span> pounds.
+The fourth week, he lost <span class="math-inline">1.9</span> pounds.
+What did Leo weigh at the end of the fourth week?
 
 
 181.7 pounds
 
 
-*Snowpack* On April <span class="math-inline">1,</span> the snowpack at the ski resort was <span class="math-inline">4</span> meters deep, but the next few days were very warm. By April <span class="math-inline">5,</span> the snow depth was <span class="math-inline">1.6</span> meters less. On April <span class="math-inline">8,</span> it snowed and added <span class="math-inline">2.1</span> meters of snow. What was the total depth of the snow?
+*Snowpack* On April <span class="math-inline">1,</span> the snowpack at the ski resort was <span class="math-inline">4</span> meters deep, but the next few days were very warm.
+By April <span class="math-inline">5,</span> the snow depth was <span class="math-inline">1.6</span> meters less.
+On April <span class="math-inline">8,</span> it snowed and added <span class="math-inline">2.1</span> meters of snow.
+What was the total depth of the snow?
 
 
 *Coffee* Noriko bought <span class="math-inline">4</span> coffees for herself and her co-workers. Each coffee was <span class="math-inline">$3.75.</span> How much did she pay for all the coffees?
@@ -622,7 +558,9 @@ $259.45
 ### Writing Exercises
 
 
-At the 2010 winter Olympics, two skiers took the silver and bronze medals in the Men's Super-G ski event. Miller's time was <span class="math-inline">1</span> minute <span class="math-inline">30.62</span> seconds and Weibrecht's time was <span class="math-inline">1</span> minute <span class="math-inline">30.65</span> seconds. Find the difference in their times and then write the name of that decimal.
+At the 2010 winter Olympics, two skiers took the silver and bronze medals in the Men's Super-G ski event.
+Miller's time was <span class="math-inline">1</span> minute <span class="math-inline">30.62</span> seconds and Weibrecht's time was <span class="math-inline">1</span> minute <span class="math-inline">30.65</span> seconds.
+Find the difference in their times and then write the name of that decimal.
 
 
 The difference: 0.03 seconds. Three hundredths of a second.
@@ -639,138 +577,123 @@ Find the quotient of <span class="math-inline">0.12÷ 0.04</span> and explain in
 ⓑ After reviewing this checklist, what will you do to become confident for all objectives?
 
 
-<div class="prep-quiz">
 **Be Prepared!**
-
 
 Before you get started, take this readiness quiz.
 
 
 Divide: <span class="math-inline">0.24÷ 8.</span>
 
-If you missed this problem, review .
+If you missed this problem, review
 
 
 <span class="math-inline">0.03</span>
 
 
-<div class="prep-quiz">
 **Be Prepared!**
 
 
 Order <span class="math-inline">0.64_<sub>0</sub>.6</span> using <span class="math-inline"><</span> or <span class="math-inline">>.</span>
 
-If you missed this problem, review .
+If you missed this problem, review
 
 
 <span class="math-inline">></span>
 
 
-<div class="prep-quiz">
 **Be Prepared!**
 
 
 Order <span class="math-inline">−0.2__−0.1</span> using <span class="math-inline"><</span> or <span class="math-inline">>.</span>
 
-If you missed this problem, review .
+If you missed this problem, review
 
 
 <span class="math-inline"><</span>
 
 
----
-
-
----
-
 ## Convert Fractions to Decimals
 
 
-In Decimals, we learned to convert decimals to fractions. Now we will do the reverse—convert fractions to decimals. Remember that the fraction bar indicates division. So <span class="math-inline"><sup>4</sup>∕<sub>5</sub></span> can be written <span class="math-inline">4÷ 5</span> or <span class="math-inline">5.</span> This means that we can convert a fraction to a decimal by treating it as a division problem.
+In Decimals, we learned to convert decimals to fractions.
+Now we will do the reverse—convert fractions to decimals.
+Remember that the fraction bar indicates division.
+So <span class="math-inline"><sup>4</sup>⁄<sub>5</sub></span> can be written <span class="math-inline">4÷ 5</span> or <span class="math-inline">5.</span> This means that we can convert a fraction to a decimal by treating it as a division problem.
 
 
-<div class="definition-label">**Convert a Fraction to a Decimal**</div>
-
+**Convert a Fraction to a Decimal**
 
 To convert a fraction to a decimal, divide the numerator of the fraction by the denominator of the fraction.
 
 
-<div class="example">
 **Example**
 
 
-Write the fraction <span class="math-inline"><sup>3</sup>∕<sub>4</sub></span> as a decimal.
+Write the fraction <span class="math-inline"><sup>3</sup>⁄<sub>4</sub></span> as a decimal.
 
 
-<div class="solution">
-<span class="def-label">Solution</span>
+Solution
 
 
-    A fraction bar means division, so we can write the fraction <span class="math-inline"><sup>3</sup>∕<sub>4</sub></span> using division.
+    A fraction bar means division, so we can write the fraction <span class="math-inline"><sup>3</sup>⁄<sub>4</sub></span> using division.
 
 
     Divide.
 
 
-    So the fraction <span class="math-inline"><sup>3</sup>∕<sub>4</sub></span> is equal to <span class="math-inline">0.75.</span>
+    So the fraction <span class="math-inline"><sup>3</sup>⁄<sub>4</sub></span> is equal to <span class="math-inline">0.75.</span>
 
 
-<div class="tryit">
 **Try It**
 
 
-Write the fraction as a decimal: <span class="math-inline"><sup>1</sup>∕<sub>4</sub>.</span>
+Write the fraction as a decimal: <span class="math-inline"><sup>1</sup>⁄<sub>4</sub>.</span>
 
 
 0.25
 
 
-<div class="tryit">
 **Try It**
 
 
-Write the fraction as a decimal: <span class="math-inline"><sup>3</sup>∕<sub>8</sub>.</span>
+Write the fraction as a decimal: <span class="math-inline"><sup>3</sup>⁄<sub>8</sub>.</span>
 
 
 0.375
 
 
-<div class="example">
 **Example**
 
 
-Write the fraction <span class="math-inline">-<sup>7</sup>∕<sub>2</sub></span> as a decimal.
+Write the fraction <span class="math-inline">-<sup>7</sup>⁄<sub>2</sub></span> as a decimal.
 
 
-<div class="solution">
-<span class="def-label">Solution</span>
+Solution
 
 
     The value of this fraction is negative. After dividing, the value of the decimal will be negative. We do the division ignoring the sign, and then write the negative sign in the answer.
-    <span class="math-inline">-<sup>7</sup>∕<sub>2</sub></span>
+    <span class="math-inline">-<sup>7</sup>⁄<sub>2</sub></span>
 
 
     Divide <span class="math-inline">7</span> by <span class="math-inline">2.</span>
 
 
-    So, <span class="math-inline">-<sup>7</sup>∕<sub>2</sub>=−3.5.</span>
+    So, <span class="math-inline">-<sup>7</sup>⁄<sub>2</sub>=−3.5.</span>
 
 
-<div class="tryit">
 **Try It**
 
 
-Write the fraction as a decimal: <span class="math-inline">-<sup>9</sup>∕<sub>4</sub>.</span>
+Write the fraction as a decimal: <span class="math-inline">-<sup>9</sup>⁄<sub>4</sub>.</span>
 
 
 −2.25
 
 
-<div class="tryit">
 **Try It**
 
 
-Write the fraction as a decimal: <span class="math-inline">-<sup>11</sup>∕<sub>2</sub>.</span>
+Write the fraction as a decimal: <span class="math-inline">-<sup>11</sup>⁄<sub>2</sub>.</span>
 
 
 −5.5
@@ -778,56 +701,60 @@ Write the fraction as a decimal: <span class="math-inline">-<sup>11</sup>∕<sub
 
 ### Repeating Decimals
 
-So far, in all the examples converting fractions to decimals the division resulted in a remainder of zero. This is not always the case. Let’s see what happens when we convert the fraction <span class="math-inline"><sup>4</sup>∕<sub>3</sub></span> to a decimal. First, notice that <span class="math-inline"><sup>4</sup>∕<sub>3</sub></span> is an improper fraction. Its value is greater than <span class="math-inline">1.</span> The equivalent decimal will also be greater than <span class="math-inline">1.</span>
+
+So far, in all the examples converting fractions to decimals the division resulted in a remainder of zero.
+This is not always the case.
+Let’s see what happens when we convert the fraction <span class="math-inline"><sup>4</sup>⁄<sub>3</sub></span> to a decimal.
+First, notice that <span class="math-inline"><sup>4</sup>⁄<sub>3</sub></span> is an improper fraction.
+Its value is greater than <span class="math-inline">1.</span> The equivalent decimal will also be greater than <span class="math-inline">1.</span>
+
 
 We divide <span class="math-inline">4</span> by <span class="math-inline">3.</span>
 
 No matter how many more zeros we write, there will always be a remainder of <span class="math-inline">1,</span> and the threes in the quotient will go on forever. The number <span class="math-inline">1.333…</span> is called a repeating decimal. Remember that the “…” means that the pattern repeats.
 
 
-<div class="definition-label">**Repeating Decimal**</div>
-
+**Repeating Decimal**
 
 A **repeating decimal** is a decimal in which the last digit or group of digits repeats endlessly.
 
-How do you know how many ‘repeats’ to write? Instead of writing <span class="math-inline">1.333…</span> we use a shorthand notation by placing a line over the digits that repeat. The repeating decimal <span class="math-inline">1.333…</span> is written <span class="math-inline">1.3<sup>-</sup>.</span> The line above the <span class="math-inline">3</span> tells you that the <span class="math-inline">3</span> repeats endlessly. So <span class="math-inline">1.333…=1.3<sup>-</sup></span>
+
+How do you know how many ‘repeats’ to write?
+Instead of writing <span class="math-inline">1.333…</span> we use a shorthand notation by placing a line over the digits that repeat.
+The repeating decimal <span class="math-inline">1.333…</span> is written <span class="math-inline">1.3<sup>-</sup>.</span> The line above the <span class="math-inline">3</span> tells you that the <span class="math-inline">3</span> repeats endlessly.
+So <span class="math-inline">1.333…=1.3<sup>-</sup></span>
+
 
 For other decimals, two or more digits might repeat.  shows some more examples of repeating decimals.
 
 
-<div class="example">
 **Example**
 
 
-Write <span class="math-inline"><sup>43</sup>∕<sub>22</sub></span> as a decimal.
+Write <span class="math-inline"><sup>43</sup>⁄<sub>22</sub></span> as a decimal.
 
 
-<div class="solution">
-<span class="def-label">Solution</span>
-
-
+Solution
 Divide <span class="math-inline">43</span> by <span class="math-inline">22.</span>
 
 
 Notice that the differences of <span class="math-inline">120</span> and <span class="math-inline">100</span> repeat, so there is a repeat in the digits of the quotient; <span class="math-inline">54</span> will repeat endlessly. The first decimal place in the quotient, <span class="math-inline">9,</span> is not part of the pattern. So,
-<span class="math-inline"><sup>43</sup>∕<sub>22</sub>=1.954<sup>—</sup></span>
+<span class="math-inline"><sup>43</sup>⁄<sub>22</sub>=1.954<sup>—</sup></span>
 
 
-<div class="tryit">
 **Try It**
 
 
-Write as a decimal: <span class="math-inline"><sup>27</sup>∕<sub>11</sub>.</span>
+Write as a decimal: <span class="math-inline"><sup>27</sup>⁄<sub>11</sub>.</span>
 
 
 <span class="math-inline">2.45<sup>—</sup></span>
 
 
-<div class="tryit">
 **Try It**
 
 
-Write as a decimal: <span class="math-inline"><sup>51</sup>∕<sub>22</sub>.</span>
+Write as a decimal: <span class="math-inline"><sup>51</sup>⁄<sub>22</sub>.</span>
 
 
 <span class="math-inline">2.318<sup>—</sup></span>
@@ -836,21 +763,19 @@ Write as a decimal: <span class="math-inline"><sup>51</sup>∕<sub>22</sub>.</sp
 It is useful to convert between fractions and decimals when we need to add or subtract numbers in different forms. To add a fraction and a decimal, for example, we would need to either convert the fraction to a decimal or the decimal to a fraction.
 
 
-<div class="example">
 **Example**
 
 
-Simplify: <span class="math-inline"><sup>7</sup>∕<sub>8</sub>+6.4.</span>
+Simplify: <span class="math-inline"><sup>7</sup>⁄<sub>8</sub>+6.4.</span>
 
 
-<div class="solution">
-<span class="def-label">Solution</span>
+Solution
 
 
-<span class="math-inline"><sup>7</sup>∕<sub>8</sub>+6.4</span>
+<span class="math-inline"><sup>7</sup>⁄<sub>8</sub>+6.4</span>
 
 
-Change <span class="math-inline"><sup>7</sup>∕<sub>8</sub></span> to a decimal.
+Change <span class="math-inline"><sup>7</sup>⁄<sub>8</sub></span> to a decimal.
 
 <span class="math-inline">0.875+6.4</span>
 
@@ -860,52 +785,42 @@ Add.
 <span class="math-inline">7.275</span>
 
 
-<div class="tryit">
 **Try It**
 
 
-Simplify: <span class="math-inline"><sup>3</sup>∕<sub>8</sub>+4.9.</span>
+Simplify: <span class="math-inline"><sup>3</sup>⁄<sub>8</sub>+4.9.</span>
 
 
 5.275
 
 
-<div class="tryit">
 **Try It**
 
 
-Simplify: <span class="math-inline">5.7+<sup>13</sup>∕<sub>20</sub>.</span>
+Simplify: <span class="math-inline">5.7+<sup>13</sup>⁄<sub>20</sub>.</span>
 
 
 6.35
 
 
----
-
-
----
-
 ## Order Decimals and Fractions
-
 
 In Decimals, we compared two decimals and determined which was larger. To compare a decimal to a fraction, we will first convert the fraction to a decimal and then compare the decimals.
 
 
-<div class="example">
 **Example**
 
 
-Order <span class="math-inline"><sup>3</sup>∕<sub>8</sub>_<sub>0</sub>.4</span> using <span class="math-inline"><</span> or <span class="math-inline">>.</span>
+Order <span class="math-inline"><sup>3</sup>⁄<sub>8</sub>_<sub>0</sub>.4</span> using <span class="math-inline"><</span> or <span class="math-inline">>.</span>
 
 
-<div class="solution">
-<span class="def-label">Solution</span>
+Solution
 
 
-<span class="math-inline"><sup>3</sup>∕<sub>8</sub>_<sub>0</sub>.4</span>
+<span class="math-inline"><sup>3</sup>⁄<sub>8</sub>_<sub>0</sub>.4</span>
 
 
-Convert <span class="math-inline"><sup>3</sup>∕<sub>8</sub></span> to a decimal.
+Convert <span class="math-inline"><sup>3</sup>⁄<sub>8</sub></span> to a decimal.
 <span class="math-inline">0.375_<sub>0</sub>.4</span>
 
 
@@ -914,26 +829,24 @@ Compare <span class="math-inline">0.375</span> to <span class="math-inline">0.4<
 
 
 Rewrite with the original fraction.
-<span class="math-inline"><sup>3</sup>∕<sub>8</sub><0.4</span>
+<span class="math-inline"><sup>3</sup>⁄<sub>8</sub><0.4</span>
 
 
-<div class="tryit">
 **Try It**
 
 
 Order each of the following pairs of numbers, using <span class="math-inline"><</span> or <span class="math-inline">>.</span>
-<span class="math-inline"><sup>17</sup>∕<sub>20</sub>_<sub>0</sub>.82</span>
+<span class="math-inline"><sup>17</sup>⁄<sub>20</sub>_<sub>0</sub>.82</span>
 
 
 >
 
 
-<div class="tryit">
 **Try It**
 
 
 Order each of the following pairs of numbers, using <span class="math-inline"><</span> or <span class="math-inline">>.</span>
-<span class="math-inline"><sup>3</sup>∕<sub>4</sub>_<sub>0</sub>.785</span>
+<span class="math-inline"><sup>3</sup>⁄<sub>4</sub>_<sub>0</sub>.785</span>
 
 
 <
@@ -942,21 +855,19 @@ Order each of the following pairs of numbers, using <span class="math-inline"><<
 When ordering negative numbers, remember that larger numbers are to the right on the number line and any positive number is greater than any negative number.
 
 
-<div class="example">
 **Example**
 
 
-Order <span class="math-inline">−0.5___-<sup>3</sup>∕<sub>4</sub></span> using <span class="math-inline"><</span> or <span class="math-inline">>.</span>
+Order <span class="math-inline">−0.5___-<sup>3</sup>⁄<sub>4</sub></span> using <span class="math-inline"><</span> or <span class="math-inline">>.</span>
 
 
-<div class="solution">
-<span class="def-label">Solution</span>
+Solution
 
 
-<span class="math-inline">−0.5___-<sup>3</sup>∕<sub>4</sub></span>
+<span class="math-inline">−0.5___-<sup>3</sup>⁄<sub>4</sub></span>
 
 
-Convert <span class="math-inline">-<sup>3</sup>∕<sub>4</sub></span> to a decimal.
+Convert <span class="math-inline">-<sup>3</sup>⁄<sub>4</sub></span> to a decimal.
 <span class="math-inline">−0.5___−0.75</span>
 
 
@@ -965,43 +876,39 @@ Compare <span class="math-inline">−0.5</span> to <span class="math-inline">−
 
 
 Rewrite the inequality with the original fraction.
-<span class="math-inline">−0.5>-<sup>3</sup>∕<sub>4</sub></span>
+<span class="math-inline">−0.5>-<sup>3</sup>⁄<sub>4</sub></span>
 
 
-<div class="tryit">
 **Try It**
 
 
 Order each of the following pairs of numbers, using <span class="math-inline"><</span> or <span class="math-inline">>:</span>
-<span class="math-inline">-<sup>5</sup>∕<sub>8</sub>__−0.58</span>
+<span class="math-inline">-<sup>5</sup>⁄<sub>8</sub>__−0.58</span>
 
 
 <
 
 
-<div class="tryit">
 **Try It**
 
 
 Order each of the following pairs of numbers, using <span class="math-inline"><</span> or <span class="math-inline">>:</span>
-<span class="math-inline">−0.53__-<sup>11</sup>∕<sub>20</sub></span>
+<span class="math-inline">−0.53__-<sup>11</sup>⁄<sub>20</sub></span>
 
 
 >
 
 
-<div class="example">
 **Example**
 
 
-Write the numbers <span class="math-inline"><sup>13</sup>∕<sub>20</sub>,0.61,<sup>11</sup>∕<sub>16</sub></span> in order from smallest to largest.
+Write the numbers <span class="math-inline"><sup>13</sup>⁄<sub>20</sub>,0.61,<sup>11</sup>⁄<sub>16</sub></span> in order from smallest to largest.
 
 
-<div class="solution">
-<span class="def-label">Solution</span>
+Solution
 
 
-<span class="math-inline"><sup>13</sup>∕<sub>20</sub>,0.61,<sup>11</sup>∕<sub>16</sub></span>
+<span class="math-inline"><sup>13</sup>⁄<sub>20</sub>,0.61,<sup>11</sup>⁄<sub>16</sub></span>
 
 
 Convert the fractions to decimals.
@@ -1021,41 +928,32 @@ Write the last decimal number (the larger) in the third place.
 
 
 Rewrite the list with the original fractions.
-<span class="math-inline">0.61,<sup>13</sup>∕<sub>20</sub>,<sup>11</sup>∕<sub>16</sub></span>
+<span class="math-inline">0.61,<sup>13</sup>⁄<sub>20</sub>,<sup>11</sup>⁄<sub>16</sub></span>
 
 
-<div class="tryit">
 **Try It**
 
 
-Write each set of numbers in order from smallest to largest: <span class="math-inline"><sup>7</sup>∕<sub>8</sub>,<sup>4</sup>∕<sub>5</sub>,0.82.</span>
+Write each set of numbers in order from smallest to largest: <span class="math-inline"><sup>7</sup>⁄<sub>8</sub>,<sup>4</sup>⁄<sub>5</sub>,0.82.</span>
 
 
-<span class="math-inline"><sup>4</sup>∕<sub>5</sub>,0.82,<sup>7</sup>∕<sub>8</sub></span>
+<span class="math-inline"><sup>4</sup>⁄<sub>5</sub>,0.82,<sup>7</sup>⁄<sub>8</sub></span>
 
 
-<div class="tryit">
 **Try It**
 
 
-Write each set of numbers in order from smallest to largest: <span class="math-inline">0.835,<sup>13</sup>∕<sub>16</sub>,<sup>3</sup>∕<sub>4</sub>.</span>
+Write each set of numbers in order from smallest to largest: <span class="math-inline">0.835,<sup>13</sup>⁄<sub>16</sub>,<sup>3</sup>⁄<sub>4</sub>.</span>
 
 
-<span class="math-inline"><sup>3</sup>∕<sub>4</sub>,<sup>13</sup>∕<sub>16</sub>,0.835</span>
+<span class="math-inline"><sup>3</sup>⁄<sub>4</sub>,<sup>13</sup>⁄<sub>16</sub>,0.835</span>
 
-
----
-
-
----
 
 ## Simplify Expressions Using the Order of Operations
-
 
 The order of operations introduced in Use the Language of Algebra also applies to decimals. Do you remember what the phrase “Please excuse my dear Aunt Sally” stands for?
 
 
-<div class="example">
 **Example**
 
 
@@ -1066,11 +964,10 @@ Simplify the expressions:
 ⓐ <span class="math-inline">7(18.3-21.7)</span>
 
   -
-ⓑ <span class="math-inline"><sup>2</sup>∕<sub>3</sub>(8.3-3.8)</span>
+ⓑ <span class="math-inline"><sup>2</sup>⁄<sub>3</sub>(8.3-3.8)</span>
 
 
-<div class="solution">
-<span class="def-label">Solution</span>
+Solution
 
 
 ⓐ
@@ -1090,48 +987,45 @@ Multiply.
 ⓑ
 
 
-<span class="math-inline"><sup>2</sup>∕<sub>3</sub>(8.3-3.8)</span>
+<span class="math-inline"><sup>2</sup>⁄<sub>3</sub>(8.3-3.8)</span>
 
 
 Simplify inside parentheses.
-<span class="math-inline"><sup>2</sup>∕<sub>3</sub>(4.5)</span>
+<span class="math-inline"><sup>2</sup>⁄<sub>3</sub>(4.5)</span>
 
 
 Write <span class="math-inline">4.5</span> as a fraction.
-<span class="math-inline"><sup>2</sup>∕<sub>3</sub>(<sup>4.5</sup>∕<sub>1</sub>)</span>
+<span class="math-inline"><sup>2</sup>⁄<sub>3</sub>(<sup>4.5</sup>⁄<sub>1</sub>)</span>
 
 
 Multiply.
-<span class="math-inline"><sup>9</sup>∕<sub>3</sub></span>
+<span class="math-inline"><sup>9</sup>⁄<sub>3</sub></span>
 
 
 Simplify.
 <span class="math-inline">3</span>
 
 
-<div class="tryit">
 **Try It**
 
 
-Simplify: ⓐ <span class="math-inline">8(14.6-37.5)</span> ⓑ <span class="math-inline"><sup>3</sup>∕<sub>5</sub>(9.6-2.1).</span>
+Simplify: ⓐ <span class="math-inline">8(14.6-37.5)</span> ⓑ <span class="math-inline"><sup>3</sup>⁄<sub>5</sub>(9.6-2.1).</span>
 
 
   - ⓐ −183.2
   - ⓑ 4.5
 
 
-<div class="tryit">
 **Try It**
 
 
-Simplify: ⓐ <span class="math-inline">25(25.69-56.74)</span> ⓑ <span class="math-inline"><sup>2</sup>∕<sub>7</sub>(11.9-4.2).</span>
+Simplify: ⓐ <span class="math-inline">25(25.69-56.74)</span> ⓑ <span class="math-inline"><sup>2</sup>⁄<sub>7</sub>(11.9-4.2).</span>
 
 
   - ⓐ −776.25
   - ⓑ 2.2
 
 
-<div class="example">
 **Example**
 
 
@@ -1142,11 +1036,10 @@ Simplify each expression:
 ⓐ <span class="math-inline">6÷ 0.6+(0.2)4-(0.1)<sup>2</sup></span>
 
   -
-ⓑ <span class="math-inline">(<sup>1</sup>∕<sub>10</sub>)<sup>2</sup>+(3.5)(0.9)</span>
+ⓑ <span class="math-inline">(<sup>1</sup>⁄<sub>10</sub>)<sup>2</sup>+(3.5)(0.9)</span>
 
 
-<div class="solution">
-<span class="def-label">Solution</span>
+Solution
 
 
 ⓐ
@@ -1178,18 +1071,18 @@ Subtract.
 ⓑ
 
 
-<span class="math-inline">(<sup>1</sup>∕<sub>10</sub>)<sup>2</sup>+(3.5)(0.9)</span>
+<span class="math-inline">(<sup>1</sup>⁄<sub>10</sub>)<sup>2</sup>+(3.5)(0.9)</span>
 
 
 Simplify exponents.
-<span class="math-inline"><sup>1</sup>∕<sub>100</sub>+(3.5)(0.9)</span>
+<span class="math-inline"><sup>1</sup>⁄<sub>100</sub>+(3.5)(0.9)</span>
 
 
 Multiply.
-<span class="math-inline"><sup>1</sup>∕<sub>100</sub>+3.15</span>
+<span class="math-inline"><sup>1</sup>⁄<sub>100</sub>+3.15</span>
 
 
-Convert <span class="math-inline"><sup>1</sup>∕<sub>100</sub></span> to a decimal.
+Convert <span class="math-inline"><sup>1</sup>⁄<sub>100</sub></span> to a decimal.
 <span class="math-inline">0.01+3.15</span>
 
 
@@ -1197,7 +1090,6 @@ Add.
 <span class="math-inline">3.16</span>
 
 
-<div class="tryit">
 **Try It**
 
 
@@ -1207,89 +1099,10 @@ Simplify: <span class="math-inline">9÷ 0.9+(0.4)3-(0.2)<sup>2</sup>.</span>
 11.16
 
 
-<div class="tryit">
 **Try It**
 
 
-Simplify: <span class="math-inline">(<sup>1</sup>∕<sub>2</sub>)<sup>2</sup>+(0.3)(4.2).</span>
+Simplify: <span class="math-inline">(<sup>1</sup>⁄<sub>2</sub>)<sup>2</sup>+(0.3)(4.2).</span>
 
 
 1.51
-
-</div>
-
-</div>
-
-</div>
-
-</div>
-
-</div>
-
-</div>
-
-</div>
-
-</div>
-
-</div>
-
-</div>
-
-</div>
-
-</div>
-
-</div>
-
-</div>
-
-</div>
-
-</div>
-
-</div>
-
-</div>
-
-</div>
-
-</div>
-
-</div>
-
-</div>
-
-</div>
-
-</div>
-
-</div>
-
-</div>
-
-</div>
-
-</div>
-
-</div>
-
-</div>
-
-</div>
-
-</div>
-
-</div>
-
-</div>
-
-</div>
-
-</div>
-
-</div>
-
-</div>
-
-</div>

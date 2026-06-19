@@ -1,77 +1,4 @@
-<style>
-.math-inline {
-    font-style: italic;
-    padding: 2px 6px;
-    border-radius: 4px;
-    background: #f8f9fa;
-    font-family: Georgia, serif;
-}
-.math-display {
-    background: #f8f9fa;
-    border-left: 4px solid #4a90d9;
-    padding: 16px 20px;
-    margin: 16px 0;
-    border-radius: 6px;
-    font-size: 1.15em;
-    font-family: Georgia, serif;
-    text-align: center;
-    line-height: 2;
-    overflow-x: auto;
-}
-.example-box, .example {
-    background: #f0f8ff;
-    border-left: 4px solid #2e86de;
-    padding: 12px 20px;
-    margin: 16px 0;
-    border-radius: 6px;
-}
-.tryit-box, .tryit {
-    background: #f0fff4;
-    border-left: 4px solid #27ae60;
-    padding: 12px 20px;
-    margin: 16px 0;
-    border-radius: 6px;
-}
-.solution-box, .solution {
-    background: #fef9e7;
-    border-left: 4px solid #f39c12;
-    padding: 12px 20px;
-    margin: 12px 0;
-    border-radius: 6px;
-}
-.check-box, .check {
-    background: #fef9e7;
-    border-left: 4px solid #f39c12;
-    padding: 12px 20px;
-    margin: 12px 0;
-    border-radius: 6px;
-}
-.prep-quiz {
-    background: #fff3cd;
-    border: 1px solid #ffc107;
-    padding: 12px 20px;
-    margin: 16px 0;
-    border-radius: 6px;
-}
-.def-label, .definition-label {
-    font-weight: bold;
-    font-size: 1.1em;
-    margin: 20px 0 8px 0;
-    color: #2c3e50;
-    display: block;
-}
-.math-display sup, .math-inline sup { font-size: 0.75em; line-height: 0; }
-.math-display sub, .math-inline sub { font-size: 0.75em; line-height: 0; }
-</style>
-
-
----
-
-
----
-
 ## Use the Properties of Rectangles
-
 
 A **rectangle** has four sides and four right angles. The opposite sides of a rectangle are the same length. We refer to one side of the rectangle as the length, <span class="math-inline">L,</span> and the adjacent side as the width, <span class="math-inline">W.</span> See .
 
@@ -88,14 +15,17 @@ P
 </div>
 
 
-What about the area of a rectangle? Remember the rectangular rug from the beginning of this section. It was <span class="math-inline">2</span> feet long by <span class="math-inline">3</span> feet wide, and its area was <span class="math-inline">6</span> square feet. See . Since <span class="math-inline">A=2· 3,</span> we see that the area, <span class="math-inline">A,</span> is the length, <span class="math-inline">L,</span> times the width, <span class="math-inline">W,</span> so the area of a rectangle is <span class="math-inline">A=L· W.</span>
+What about the area of a rectangle?
+Remember the rectangular rug from the beginning of this section.
+It was <span class="math-inline">2</span> feet long by <span class="math-inline">3</span> feet wide, and its area was <span class="math-inline">6</span> square feet.
+See .
+Since <span class="math-inline">A=2· 3,</span> we see that the area, <span class="math-inline">A,</span> is the length, <span class="math-inline">L,</span> times the width, <span class="math-inline">W,</span> so the area of a rectangle is <span class="math-inline">A=L· W.</span>
 
 
 *The area of this rectangular rug is <span class="math-inline">6</span> square feet, its length times its width.*
 
 
-<div class="definition-label">**Properties of Rectangles**</div>
-
+**Properties of Rectangles**
 
 - Rectangles have four sides and four right <span class="math-inline">(90°)</span> angles.
 
@@ -112,8 +42,7 @@ What about the area of a rectangle? Remember the rectangular rug from the beginn
 For easy reference as we work the examples in this section, we will restate the Problem Solving Strategy for Geometry Applications here.
 
 
-<div class="definition-label">**Use a Problem Solving Strategy for Geometry Applications**</div>
-
+**Use a Problem Solving Strategy for Geometry Applications**
 
 -
 *Read* the problem and make sure you understand all the words and ideas. Draw the figure and label it with the given information.
@@ -132,15 +61,13 @@ For easy reference as we work the examples in this section, we will restate the 
 - *Answer* the question with a complete sentence.
 
 
-<div class="example">
 **Example**
 
 
 The length of a rectangle is <span class="math-inline">32</span> meters and the width is <span class="math-inline">20</span> meters. Find ⓐ the perimeter, and ⓑ the area.
 
 
-<div class="solution">
-<span class="def-label">Solution</span>
+Solution
 
 
 ⓐ
@@ -201,7 +128,6 @@ Substitute.
  The area of the rectangle is 640 square meters.
 
 
-<div class="tryit">
 **Try It**
 
 
@@ -212,7 +138,6 @@ The length of a rectangle is <span class="math-inline">120</span> yards and the 
   - ⓑ 6000 sq. yd
 
 
-<div class="tryit">
 **Try It**
 
 
@@ -223,15 +148,13 @@ The length of a rectangle is <span class="math-inline">62</span> feet and the wi
   - ⓑ 2976 sq. ft
 
 
-<div class="example">
 **Example**
 
 
 Find the length of a rectangle with perimeter <span class="math-inline">50</span> inches and width <span class="math-inline">10</span> inches.
 
 
-<div class="solution">
-<span class="def-label">Solution</span>
+Solution
 
 
 Step 1. *Read* the problem. Draw the figure and label it with the given information.
@@ -260,7 +183,6 @@ Substitute.
  The length is 15 inches.
 
 
-<div class="tryit">
 **Try It**
 
 
@@ -270,7 +192,6 @@ Find the length of a rectangle with a perimeter of <span class="math-inline">80<
 15 in.
 
 
-<div class="tryit">
 **Try It**
 
 
@@ -283,15 +204,13 @@ Find the length of a rectangle with a perimeter of <span class="math-inline">30<
 In the next example, the width is defined in terms of the length. We’ll wait to draw the figure until we write an expression for the width so that we can label one side with that expression.
 
 
-<div class="example">
 **Example**
 
 
 The width of a rectangle is two inches less than the length. The perimeter is <span class="math-inline">52</span> inches. Find the length and width.
 
 
-<div class="solution">
-<span class="def-label">Solution</span>
+Solution
 
 
 Step 1. *Read* the problem.
@@ -325,7 +244,7 @@ Add 4 to each side.
 
 
 Divide by 4.
-<span class="math-inline"><sup>56</sup>∕<sub>4</sub>=<sup>4L</sup>∕<sub>4</sub></span>
+<span class="math-inline"><sup>56</sup>⁄<sub>4</sub>=<sup>4L</sup>⁄<sub>4</sub></span>
 
 
 <span class="math-inline">14=L</span>
@@ -350,7 +269,6 @@ Since <span class="math-inline">14+12+14+12=52</span>, this works!
  The length is 14 feet and the width is 12 feet.
 
 
-<div class="tryit">
 **Try It**
 
 
@@ -360,7 +278,6 @@ The width of a rectangle is seven meters less than the length. The perimeter is 
 18 m, 11 m
 
 
-<div class="tryit">
 **Try It**
 
 
@@ -370,15 +287,13 @@ The length of a rectangle is eight feet more than the width. The perimeter is <s
 11 ft , 19 ft
 
 
-<div class="example">
 **Example**
 
 
 The length of a rectangle is four centimeters more than twice the width. The perimeter is <span class="math-inline">32</span> centimeters. Find the length and width.
 
 
-<div class="solution">
-<span class="def-label">Solution</span>
+Solution
 
 
 Step 1. *Read* the problem.
@@ -408,7 +323,6 @@ Write the appropriate formula and substitute in the given information.
  The length is 12 cm and the width is 4 cm.
 
 
-<div class="tryit">
 **Try It**
 
 
@@ -418,7 +332,6 @@ The length of a rectangle is eight more than twice the width. The perimeter is <
 8 ft, 24 ft
 
 
-<div class="tryit">
 **Try It**
 
 
@@ -428,15 +341,13 @@ The width of a rectangle is six less than twice the length. The perimeter is <sp
 5 cm, 4 cm
 
 
-<div class="example">
 **Example**
 
 
 The area of a rectangular room is <span class="math-inline">168</span> square feet. The length is <span class="math-inline">14</span> feet. What is the width?
 
 
-<div class="solution">
-<span class="def-label">Solution</span>
+Solution
 
 
 Step 1. *Read* the problem.
@@ -464,7 +375,6 @@ Write the appropriate formula and substitute in the given information.
  The width of the room is 12 feet.
 
 
-<div class="tryit">
 **Try It**
 
 
@@ -474,7 +384,6 @@ The area of a rectangle is <span class="math-inline">598</span> square feet. The
 26 ft
 
 
-<div class="tryit">
 **Try It**
 
 
@@ -484,15 +393,13 @@ The width of a rectangle is <span class="math-inline">21</span> meters. The area
 29 m
 
 
-<div class="example">
 **Example**
 
 
 The perimeter of a rectangular swimming pool is <span class="math-inline">150</span> feet. The length is <span class="math-inline">15</span> feet more than the width. Find the length and width.
 
 
-<div class="solution">
-<span class="def-label">Solution</span>
+Solution
 
 
 Step 1. *Read* the problem. Draw the figure and label it with the given information.
@@ -522,7 +429,6 @@ Write the appropriate formula and substitute.
  The length of the pool is 45 feet and the width is 30 feet.
 
 
-<div class="tryit">
 **Try It**
 
 
@@ -532,7 +438,6 @@ The perimeter of a rectangular swimming pool is <span class="math-inline">200</s
 30 ft, 70 ft
 
 
-<div class="tryit">
 **Try It**
 
 
@@ -542,34 +447,33 @@ The length of a rectangular garden is <span class="math-inline">30</span> yards 
 60 yd, 90 yd
 
 
----
-
-
----
-
 ## Use the Properties of Triangles
-
 
 We now know how to find the area of a rectangle. We can use this fact to help us visualize the formula for the area of a triangle. In the rectangle in , we’ve labeled the length <span class="math-inline">b</span> and the width <span class="math-inline">h,</span> so it’s area is <span class="math-inline">bh.</span>
 
 
 *The area of a rectangle is the base, <span class="math-inline">b,</span> times the height, <span class="math-inline">h.</span>*
 
-We can divide this rectangle into two **congruent** triangles (). Triangles that are congruent have identical side lengths and angles, and so their areas are equal. The area of each triangle is one-half the area of the rectangle, or <span class="math-inline"><sup>1</sup>∕<sub>2</sub>bh.</span> This example helps us see why the formula for the area of a triangle is <span class="math-inline">A=<sup>1</sup>∕<sub>2</sub>bh.</span>
+
+We can divide this rectangle into two **congruent** triangles ().
+Triangles that are congruent have identical side lengths and angles, and so their areas are equal.
+The area of each triangle is one-half the area of the rectangle, or <span class="math-inline"><sup>1</sup>⁄<sub>2</sub>bh.</span> This example helps us see why the formula for the area of a triangle is <span class="math-inline">A=<sup>1</sup>⁄<sub>2</sub>bh.</span>
 
 
 *A rectangle can be divided into two triangles of equal area. The area of each triangle is one-half the area of the rectangle.*
 
-The formula for the area of a triangle is <span class="math-inline">A=<sup>1</sup>∕<sub>2</sub>bh,</span> where <span class="math-inline">b</span> is the base and <span class="math-inline">h</span> is the height.
+The formula for the area of a triangle is <span class="math-inline">A=<sup>1</sup>⁄<sub>2</sub>bh,</span> where <span class="math-inline">b</span> is the base and <span class="math-inline">h</span> is the height.
 
-To find the area of the triangle, you need to know its base and height. The base is the length of one side of the triangle, usually the side at the bottom. The height is the length of the line that connects the base to the opposite vertex, and makes a <span class="math-inline">90°</span> angle with the base.   shows three triangles with the base and height of each marked.
+
+To find the area of the triangle, you need to know its base and height.
+The base is the length of one side of the triangle, usually the side at the bottom.
+The height is the length of the line that connects the base to the opposite vertex, and makes a <span class="math-inline">90°</span> angle with the base.   shows three triangles with the base and height of each marked.
 
 
 *The height <span class="math-inline">h</span>  of a triangle is the length of a line segment that connects the the base to the opposite vertex and makes a <span class="math-inline">90°</span> angle with the base.*
 
 
-<div class="definition-label">**Triangle Properties**</div>
-
+**Triangle Properties**
 
 For any triangle <span class="math-inline">ΔABC,</span> the sum of the measures of the angles is <span class="math-inline">180°.</span>
 
@@ -578,7 +482,6 @@ For any triangle <span class="math-inline">ΔABC,</span> the sum of the measures
 m∠A+m∠B+m∠C=180°
 </div>
 
-
 The perimeter of a triangle is the sum of the lengths of the sides.
 
 
@@ -586,24 +489,21 @@ The perimeter of a triangle is the sum of the lengths of the sides.
 P=a+b+c
 </div>
 
-
 The area of a triangle is one-half the base, <span class="math-inline">b,</span> times the height, <span class="math-inline">h.</span>
 
 
 <div class="math-display">
-A=<sup>1</sup>∕<sub>2</sub> bh
+A=<sup>1</sup>⁄<sub>2</sub> bh
 </div>
 
 
-<div class="example">
 **Example**
 
 
 Find the area of a triangle whose base is <span class="math-inline">11</span> inches and whose height is <span class="math-inline">8</span> inches.
 
 
-<div class="solution">
-<span class="def-label">Solution</span>
+Solution
 
 
 Step 1. *Read* the problem. Draw the figure and label it with the given information.
@@ -632,7 +532,6 @@ Substitute.
  The area is 44 square inches.
 
 
-<div class="tryit">
 **Try It**
 
 
@@ -642,7 +541,6 @@ Find the area of a triangle with base <span class="math-inline">13</span> inches
 13 sq. in.
 
 
-<div class="tryit">
 **Try It**
 
 
@@ -652,15 +550,13 @@ Find the area of a triangle with base <span class="math-inline">14</span> inches
 49 sq. in.
 
 
-<div class="example">
 **Example**
 
 
 The perimeter of a triangular garden is <span class="math-inline">24</span> feet. The lengths of two sides are <span class="math-inline">4</span> feet and <span class="math-inline">9</span> feet. How long is the third side?
 
 
-<div class="solution">
-<span class="def-label">Solution</span>
+Solution
 
 
 Step 1. *Read* the problem. Draw the figure and label it with the given information.
@@ -689,7 +585,6 @@ Substitute in the given information.
  The third side is 11 feet long.
 
 
-<div class="tryit">
 **Try It**
 
 
@@ -699,7 +594,6 @@ The perimeter of a triangular garden is <span class="math-inline">48</span> feet
 8 ft
 
 
-<div class="tryit">
 **Try It**
 
 
@@ -709,15 +603,13 @@ The lengths of two sides of a triangular window are <span class="math-inline">7<
 6 ft
 
 
-<div class="example">
 **Example**
 
 
 The area of a triangular church window is <span class="math-inline">90</span> square meters. The base of the window is <span class="math-inline">15</span> meters. What is the window’s height?
 
 
-<div class="solution">
-<span class="def-label">Solution</span>
+Solution
 
 
 Step 1. *Read* the problem. Draw the figure and label it with the given information.
@@ -746,7 +638,6 @@ Substitute in the given information.
  The height of the triangle is 12 meters.
 
 
-<div class="tryit">
 **Try It**
 
 
@@ -756,7 +647,6 @@ The area of a triangular painting is <span class="math-inline">126</span> square
 14 in.
 
 
-<div class="tryit">
 **Try It**
 
 
@@ -774,23 +664,20 @@ Besides the right triangle, some other triangles have special names. A triangle 
 *In an isosceles triangle, two sides have the same length, and the third side is the base. In an equilateral triangle, all three sides have the same length.*
 
 
-<div class="definition-label">**Isosceles and Equilateral Triangles**</div>
-
+**Isosceles and Equilateral Triangles**
 
 An *isosceles* triangle has two sides the same length.
 
 An *equilateral* triangle has three sides of equal length.
 
 
-<div class="example">
 **Example**
 
 
 The perimeter of an equilateral triangle is <span class="math-inline">93</span> inches. Find the length of each side.
 
 
-<div class="solution">
-<span class="def-label">Solution</span>
+Solution
 
 
 Step 1. *Read* the problem. Draw the figure and label it with the given information.
@@ -821,7 +708,6 @@ Substitute.
  Each side is 31 inches.
 
 
-<div class="tryit">
 **Try It**
 
 
@@ -831,7 +717,6 @@ Find the length of each side of an equilateral triangle with perimeter <span cla
 13 in.
 
 
-<div class="tryit">
 **Try It**
 
 
@@ -841,7 +726,6 @@ Find the length of each side of an equilateral triangle with perimeter <span cla
 17 cm
 
 
-<div class="example">
 **Example**
 
 
@@ -849,8 +733,7 @@ Arianna has <span class="math-inline">156</span> inches of beading to use as tri
 <span class="math-inline">60</span> inches. How long can she make the two equal sides?
 
 
-<div class="solution">
-<span class="def-label">Solution</span>
+Solution
 
 
 Step 1. *Read* the problem. Draw the figure and label it with the given information.
@@ -881,7 +764,6 @@ Substitute in the given information.
  Arianna can make each of the two equal sides 48 inches long.
 
 
-<div class="tryit">
 **Try It**
 
 
@@ -891,7 +773,6 @@ A backyard deck is in the shape of an isosceles triangle with a base of <span cl
 14 ft
 
 
-<div class="tryit">
 **Try It**
 
 
@@ -901,15 +782,12 @@ A boat’s sail is an isosceles triangle with base of <span class="math-inline">
 7 m
 
 
----
-
-
----
-
 ## Use the Properties of Trapezoids
 
 
-A **trapezoid** is four-sided figure, a *quadrilateral*, with two sides that are parallel and two sides that are not. The parallel sides are called the bases. We call the length of the smaller base <span class="math-inline">b,</span> and the length of the bigger base <span class="math-inline">B.</span> The height, <span class="math-inline">h,</span> of a trapezoid is the distance between the two bases as shown in .
+A **trapezoid** is four-sided figure, a *quadrilateral*, with two sides that are parallel and two sides that are not.
+The parallel sides are called the bases.
+We call the length of the smaller base <span class="math-inline">b,</span> and the length of the bigger base <span class="math-inline">B.</span> The height, <span class="math-inline">h,</span> of a trapezoid is the distance between the two bases as shown in .
 
 
 *A trapezoid has a larger base, <span class="math-inline">B,</span> and a smaller base, <span class="math-inline">b.</span> The height <span class="math-inline">h</span> is the distance between the bases.*
@@ -918,9 +796,8 @@ The formula for the **area of a trapezoid** is:
 
 
 <div class="math-display">
-Area<sub>trapezoid</sub>=<sup>1</sup>∕<sub>2</sub>h(b+B)
+Area<sub>trapezoid</sub>=<sup>1</sup>⁄<sub>2</sub>h(b+B)
 </div>
-
 
 Splitting the trapezoid into two triangles may help us understand the formula. The area of the trapezoid is the sum of the areas of the two triangles. See .
 
@@ -934,25 +811,22 @@ The formula for the area of a trapezoid is
 If we distribute, we get,
 
 
-<div class="definition-label">**Properties of Trapezoids**</div>
-
+**Properties of Trapezoids**
 
 - A trapezoid has four sides. See .
 
 - Two of its sides are parallel and two sides are not.
 
-- The area, <span class="math-inline">A,</span> of a trapezoid is <span class="math-inline">A=<sup>1</sup>∕<sub>2</sub>h(b+B)</span>.
+- The area, <span class="math-inline">A,</span> of a trapezoid is <span class="math-inline">A=<sup>1</sup>⁄<sub>2</sub>h(b+B)</span>.
 
 
-<div class="example">
 **Example**
 
 
 Find the area of a trapezoid whose height is 6 inches and whose bases are <span class="math-inline">14</span> and <span class="math-inline">11</span> inches.
 
 
-<div class="solution">
-<span class="def-label">Solution</span>
+Solution
 
 
 Step 1. *Read* the problem. Draw the figure and label it with the given information.
@@ -984,7 +858,6 @@ The area of the larger rectangle is <span class="math-inline">84</span> square i
 Step 7. *Answer* the question. The area of the trapezoid is <span class="math-inline">75</span> square inches.
 
 
-<div class="tryit">
 **Try It**
 
 
@@ -994,7 +867,6 @@ The height of a trapezoid is <span class="math-inline">14</span> yards and the b
 161 sq. yd
 
 
-<div class="tryit">
 **Try It**
 
 
@@ -1004,15 +876,13 @@ The height of a trapezoid is <span class="math-inline">18</span> centimeters and
 225 sq. cm
 
 
-<div class="example">
 **Example**
 
 
 Find the area of a trapezoid whose height is <span class="math-inline">5</span> feet and whose bases are <span class="math-inline">10.3</span> and <span class="math-inline">13.7</span> feet.
 
 
-<div class="solution">
-<span class="def-label">Solution</span>
+Solution
 
 
 Step 1. *Read* the problem. Draw the figure and label it with the given information.
@@ -1042,7 +912,6 @@ The area of the trapezoid should be less than the area of a rectangle with base 
  The area of the trapezoid is 60 square feet.
 
 
-<div class="tryit">
 **Try It**
 
 
@@ -1052,7 +921,6 @@ The height of a trapezoid is <span class="math-inline">7</span> centimeters and 
 42 sq. cm
 
 
-<div class="tryit">
 **Try It**
 
 
@@ -1062,15 +930,13 @@ The height of a trapezoid is <span class="math-inline">9</span> meters and the b
 63 sq. m
 
 
-<div class="example">
 **Example**
 
 
 Vinny has a garden that is shaped like a trapezoid. The trapezoid has a height of <span class="math-inline">3.4</span> yards and the bases are <span class="math-inline">8.2</span> and <span class="math-inline">5.6</span> yards. How many square yards will be available to plant?
 
 
-<div class="solution">
-<span class="def-label">Solution</span>
+Solution
 
 
 Step 1. *Read* the problem. Draw the figure and label it with the given information.
@@ -1100,7 +966,6 @@ Yes. The area of the trapezoid is less than the area of a rectangle with a base 
  Vinny has 23.46 square yards in which he can plant.
 
 
-<div class="tryit">
 **Try It**
 
 
@@ -1110,7 +975,6 @@ Lin wants to sod his lawn, which is shaped like a trapezoid. The bases are <span
 40.25 sq. yd
 
 
-<div class="tryit">
 **Try It**
 
 
@@ -1120,8 +984,7 @@ Kira wants cover his patio with concrete pavers. If the patio is shaped like a t
 240 sq. ft
 
 
-<div class="definition-label">**ACCESS ADDITIONAL ONLINE RESOURCES**</div>
-
+**ACCESS ADDITIONAL ONLINE RESOURCES**
 
 - Perimeter of a Rectangle
 
@@ -1134,115 +997,3 @@ Kira wants cover his patio with concrete pavers. If the patio is shaped like a t
 - Area of a Triangle with Fractions
 
 - Area of a Trapezoid
-
-</div>
-
-</div>
-
-</div>
-
-</div>
-
-</div>
-
-</div>
-
-</div>
-
-</div>
-
-</div>
-
-</div>
-
-</div>
-
-</div>
-
-</div>
-
-</div>
-
-</div>
-
-</div>
-
-</div>
-
-</div>
-
-</div>
-
-</div>
-
-</div>
-
-</div>
-
-</div>
-
-</div>
-
-</div>
-
-</div>
-
-</div>
-
-</div>
-
-</div>
-
-</div>
-
-</div>
-
-</div>
-
-</div>
-
-</div>
-
-</div>
-
-</div>
-
-</div>
-
-</div>
-
-</div>
-
-</div>
-
-</div>
-
-</div>
-
-</div>
-
-</div>
-
-</div>
-
-</div>
-
-</div>
-
-</div>
-
-</div>
-
-</div>
-
-</div>
-
-</div>
-
-</div>
-
-</div>
-
-</div>
-
-</div>

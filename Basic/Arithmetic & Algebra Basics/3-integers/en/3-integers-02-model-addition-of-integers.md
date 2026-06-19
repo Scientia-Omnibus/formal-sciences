@@ -1,77 +1,4 @@
-<style>
-.math-inline {
-    font-style: italic;
-    padding: 2px 6px;
-    border-radius: 4px;
-    background: #f8f9fa;
-    font-family: Georgia, serif;
-}
-.math-display {
-    background: #f8f9fa;
-    border-left: 4px solid #4a90d9;
-    padding: 16px 20px;
-    margin: 16px 0;
-    border-radius: 6px;
-    font-size: 1.15em;
-    font-family: Georgia, serif;
-    text-align: center;
-    line-height: 2;
-    overflow-x: auto;
-}
-.example-box, .example {
-    background: #f0f8ff;
-    border-left: 4px solid #2e86de;
-    padding: 12px 20px;
-    margin: 16px 0;
-    border-radius: 6px;
-}
-.tryit-box, .tryit {
-    background: #f0fff4;
-    border-left: 4px solid #27ae60;
-    padding: 12px 20px;
-    margin: 16px 0;
-    border-radius: 6px;
-}
-.solution-box, .solution {
-    background: #fef9e7;
-    border-left: 4px solid #f39c12;
-    padding: 12px 20px;
-    margin: 12px 0;
-    border-radius: 6px;
-}
-.check-box, .check {
-    background: #fef9e7;
-    border-left: 4px solid #f39c12;
-    padding: 12px 20px;
-    margin: 12px 0;
-    border-radius: 6px;
-}
-.prep-quiz {
-    background: #fff3cd;
-    border: 1px solid #ffc107;
-    padding: 12px 20px;
-    margin: 16px 0;
-    border-radius: 6px;
-}
-.def-label, .definition-label {
-    font-weight: bold;
-    font-size: 1.1em;
-    margin: 20px 0 8px 0;
-    color: #2c3e50;
-    display: block;
-}
-.math-display sup, .math-inline sup { font-size: 0.75em; line-height: 0; }
-.math-display sub, .math-inline sub { font-size: 0.75em; line-height: 0; }
-</style>
-
-
----
-
-
----
-
 ## Key Concepts
-
 
 - Opposite Notation
 
@@ -515,23 +442,30 @@ What are the three uses of the “−” sign in algebra? Explain how they diffe
 ⓑ If most of your checks were:
 
 
-\dotsconfidently. Congratulations! You have achieved the objectives in this section. Reflect on the study skills you used so that you can continue to use them. What did you do to become confident of your ability to do these things? Be specific.
+…confidently. Congratulations! You have achieved the objectives in this section. Reflect on the study skills you used so that you can continue to use them. What did you do to become confident of your ability to do these things? Be specific.
 
-…with some help. This must be addressed quickly because topics you do not master become potholes in your road to success. In math, every topic builds upon previous work. It is important to make sure you have a strong foundation before you move on. Whom can you ask for help? Your fellow classmates and instructor are good resources. Is there a place on campus where math tutors are available? Can your study skills be improved?
+
+…with some help.
+This must be addressed quickly because topics you do not master become potholes in your road to success.
+In math, every topic builds upon previous work.
+It is important to make sure you have a strong foundation before you move on.
+Whom can you ask for help?
+Your fellow classmates and instructor are good resources.
+Is there a place on campus where math tutors are available?
+Can your study skills be improved?
+
 
 …no—I don’t get it! This is a warning sign and you must not ignore it. You should get help right away or you will quickly be overwhelmed. See your instructor as soon as you can to discuss your situation. Together you can come up with a plan to get you the help you need.
 
 
-<div class="prep-quiz">
 **Be Prepared!**
-
 
 Before you get started, take this readiness quiz.
 
 
 Evaluate <span class="math-inline">x+8</span> when <span class="math-inline">x=6.</span>
 
-If you missed this problem, review .
+If you missed this problem, review
 
 
 <span class="math-inline">14</span>
@@ -539,7 +473,7 @@ If you missed this problem, review .
 
 Simplify: <span class="math-inline">8+2(5+1).</span>
 
-If you missed this problem, review .
+If you missed this problem, review
 
 
 <span class="math-inline">20</span>
@@ -553,19 +487,18 @@ If you missed this problem, review
 <span class="math-inline">3+(-7)</span>
 
 
----
-
-
----
-
 ## Model Addition of Integers
-
 
 Now that we have located positive and negative numbers on the number line, it is time to discuss arithmetic operations with **integers**.
 
 Most students are comfortable with the addition and subtraction facts for positive numbers.  But doing addition or subtraction with both positive and negative numbers may be more difficult. This difficulty relates to the way the brain learns.
 
-The brain learns best by working with objects in the real world and then generalizing to abstract concepts. Toddlers learn quickly that if they have two cookies and their older brother steals one, they have only one left. This is a concrete example of <span class="math-inline">2-1.</span> Children learn their basic addition and subtraction facts from experiences in their everyday lives. Eventually, they know the number facts without relying on cookies.
+
+The brain learns best by working with objects in the real world and then generalizing to abstract concepts.
+Toddlers learn quickly that if they have two cookies and their older brother steals one, they have only one left.
+This is a concrete example of <span class="math-inline">2-1.</span> Children learn their basic addition and subtraction facts from experiences in their everyday lives.
+Eventually, they know the number facts without relying on cookies.
+
 
 Addition and subtraction of negative numbers have fewer real world examples that are meaningful to us. Math teachers have several different approaches, such as number lines, banking, temperatures, and so on, to make these concepts real.
 
@@ -584,15 +517,13 @@ We will model four addition facts using the numbers <span class="math-inline">5,
 </div>
 
 
-<div class="example">
 **Example**
 
 
 Model: <span class="math-inline">5+3.</span>
 
 
-<div class="solution">
-<span class="def-label">Solution</span>
+Solution
 
 
    Interpret the expression.
@@ -612,7 +543,6 @@ Model: <span class="math-inline">5+3.</span>
    <span class="math-inline">5+3=8</span>
 
 
-<div class="tryit">
 **Try It**
 
 
@@ -622,7 +552,6 @@ Model the expression.<span class="math-inline">2+4</span>
 6
 
 
-<div class="tryit">
 **Try It**
 
 
@@ -632,15 +561,13 @@ Model the expression.<span class="math-inline">2+5</span>
 7
 
 
-<div class="example">
 **Example**
 
 
 Model: <span class="math-inline">−5+(−3).</span>
 
 
-<div class="solution">
-<span class="def-label">Solution</span>
+Solution
 
 
    Interpret the expression.
@@ -660,7 +587,6 @@ Model: <span class="math-inline">−5+(−3).</span>
    <span class="math-inline">−5+−3=−8</span>
 
 
-<div class="tryit">
 **Try It**
 
 
@@ -670,7 +596,6 @@ Model the expression.<span class="math-inline">−2+(−4)</span>
 −6
 
 
-<div class="tryit">
 **Try It**
 
 
@@ -680,20 +605,23 @@ Model the expression.<span class="math-inline">−2+(−5)</span>
 −7
 
 
- and  are very similar. The first example adds <span class="math-inline">5</span> positives and <span class="math-inline">3</span> positives—both positives. The second example adds <span class="math-inline">5</span> negatives and <span class="math-inline">3</span> negatives—both negatives. In each case, we got a result of <span class="math-inline">8—either 8</span> positives or <span class="math-inline">8</span> negatives. When the signs are the same, the counters are all the same color.
+ and  are very similar.
+The first example adds <span class="math-inline">5</span> positives and <span class="math-inline">3</span> positives—both positives.
+The second example adds <span class="math-inline">5</span> negatives and <span class="math-inline">3</span> negatives—both negatives.
+In each case, we got a result of <span class="math-inline">8—either 8</span> positives or <span class="math-inline">8</span> negatives.
+When the signs are the same, the counters are all the same color.
+
 
 Now let’s see what happens when the signs are different.
 
 
-<div class="example">
 **Example**
 
 
 Model: <span class="math-inline">−5+3.</span>
 
 
-<div class="solution">
-<span class="def-label">Solution</span>
+Solution
 
 
    Interpret the expression.
@@ -719,7 +647,6 @@ Model: <span class="math-inline">−5+3.</span>
 Notice that there were more negatives than positives, so the result is negative.
 
 
-<div class="tryit">
 **Try It**
 
 
@@ -730,7 +657,6 @@ Model the expression, and then simplify:
 −2
 
 
-<div class="tryit">
 **Try It**
 
 
@@ -741,15 +667,13 @@ Model the expression, and then simplify:
 −3
 
 
-<div class="example">
 **Example**
 
 
 Model: <span class="math-inline">5+(−3).</span>
 
 
-<div class="solution">
-<span class="def-label">Solution</span>
+Solution
 
 
    Interpret the expression.
@@ -772,7 +696,6 @@ Model: <span class="math-inline">5+(−3).</span>
    <span class="math-inline">5+(−3)=2</span>
 
 
-<div class="tryit">
 **Try It**
 
 
@@ -783,7 +706,6 @@ Model the expression, and then simplify:
 2
 
 
-<div class="tryit">
 **Try It**
 
 
@@ -794,7 +716,6 @@ Model the expression:
 3
 
 
-<div class="example">
 **Example**
 
 
@@ -878,7 +799,6 @@ Remove neutral pairs.
  <span class="math-inline">−5</span>. <span class="math-inline">−2+(−3)=−5</span>
 
 
-<div class="tryit">
 **Try It**
 
 
@@ -902,7 +822,6 @@ Remove neutral pairs.
   -  ⓓ
 
 
-<div class="tryit">
 **Try It**
 
 
@@ -924,13 +843,7 @@ Remove neutral pairs.
   -  ⓓ
 
 
----
-
-
----
-
 ## Simplify Expressions with Integers
-
 
 Now that you have modeled adding small positive and negative integers, you can visualize the model in your mind to simplify **expressions** with any integers.
 
@@ -943,7 +856,6 @@ Picture <span class="math-inline">37</span> blue counters with <span class="math
 37+(−53)=−16
 </div>
 
-
 Let’s try another one. We’ll add <span class="math-inline">−74+(−27).</span> Imagine <span class="math-inline">74</span> red counters and <span class="math-inline">27</span> more red counters, so we have <span class="math-inline">101</span> red counters all together. This means the sum is <span class="math-inline">−101.</span>
 
 
@@ -951,11 +863,9 @@ Let’s try another one. We’ll add <span class="math-inline">−74+(−27).</s
 −74+(−27)=−101
 </div>
 
-
 Look again at the results of  - .
 
 
-<div class="example">
 **Example**
 
 
@@ -965,17 +875,13 @@ Simplify:
   - ⓑ <span class="math-inline">−32+40</span>
 
 
-<div class="solution">
-<span class="def-label">Solution</span>
+Solution
+ⓐ Since the signs are different, we subtract <span class="math-inline">19</span> from <span class="math-inline">47.</span> The answer will be negative because there are more negatives than positives.<span class="math-inline">19 \\
+−28</span>
+ⓑ The signs are different so we subtract <span class="math-inline">32</span> from <span class="math-inline">40.</span> The answer will be positive because there are more positives than negatives<span class="math-inline">−32 \\
+8</span>
 
 
-ⓐ Since the signs are different, we subtract <span class="math-inline">19</span> from <span class="math-inline">47.</span> The answer will be negative because there are more negatives than positives.\(19 \\
-−28\)
-ⓑ The signs are different so we subtract <span class="math-inline">32</span> from <span class="math-inline">40.</span> The answer will be positive because there are more positives than negatives\(−32 \\
-8\)
-
-
-<div class="tryit">
 **Try It**
 
 
@@ -989,7 +895,6 @@ Simplify each expression:
   -   ⓑ 57
 
 
-<div class="tryit">
 **Try It**
 
 
@@ -1003,23 +908,18 @@ Simplify each expression:
   -  ⓑ 26
 
 
-<div class="example">
 **Example**
 
 
 Simplify: <span class="math-inline">−14+(−36).</span>
 
 
-<div class="solution">
-<span class="def-label">Solution</span>
-
-
+Solution
 Since the signs are the same, we add. The answer will be negative because there are only negatives.
-\(−14 \\
-−50\)
+<span class="math-inline">−14 \\
+−50</span>
 
 
-<div class="tryit">
 **Try It**
 
 
@@ -1030,7 +930,6 @@ Simplify the expression:
 −50
 
 
-<div class="tryit">
 **Try It**
 
 
@@ -1044,15 +943,13 @@ Simplify the expression:
 The techniques we have used up to now extend to more complicated expressions. Remember to follow the order of operations.
 
 
-<div class="example">
 **Example**
 
 
 Simplify: <span class="math-inline">−5+3(−2+7).</span>
 
 
-<div class="solution">
-<span class="def-label">Solution</span>
+Solution
 
 
    <span class="math-inline">−5+3(−2+7)</span>
@@ -1070,7 +967,6 @@ Simplify: <span class="math-inline">−5+3(−2+7).</span>
  <span class="math-inline">10</span>
 
 
-<div class="tryit">
 **Try It**
 
 
@@ -1081,7 +977,6 @@ Simplify the expression:
 13
 
 
-<div class="tryit">
 **Try It**
 
 
@@ -1090,67 +985,3 @@ Simplify the expression:
 
 
 0
-
-</div>
-
-</div>
-
-</div>
-
-</div>
-
-</div>
-
-</div>
-
-</div>
-
-</div>
-
-</div>
-
-</div>
-
-</div>
-
-</div>
-
-</div>
-
-</div>
-
-</div>
-
-</div>
-
-</div>
-
-</div>
-
-</div>
-
-</div>
-
-</div>
-
-</div>
-
-</div>
-
-</div>
-
-</div>
-
-</div>
-
-</div>
-
-</div>
-
-</div>
-
-</div>
-
-</div>
-
-</div>

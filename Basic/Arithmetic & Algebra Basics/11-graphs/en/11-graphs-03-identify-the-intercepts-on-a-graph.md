@@ -1,77 +1,4 @@
-<style>
-.math-inline {
-    font-style: italic;
-    padding: 2px 6px;
-    border-radius: 4px;
-    background: #f8f9fa;
-    font-family: Georgia, serif;
-}
-.math-display {
-    background: #f8f9fa;
-    border-left: 4px solid #4a90d9;
-    padding: 16px 20px;
-    margin: 16px 0;
-    border-radius: 6px;
-    font-size: 1.15em;
-    font-family: Georgia, serif;
-    text-align: center;
-    line-height: 2;
-    overflow-x: auto;
-}
-.example-box, .example {
-    background: #f0f8ff;
-    border-left: 4px solid #2e86de;
-    padding: 12px 20px;
-    margin: 16px 0;
-    border-radius: 6px;
-}
-.tryit-box, .tryit {
-    background: #f0fff4;
-    border-left: 4px solid #27ae60;
-    padding: 12px 20px;
-    margin: 16px 0;
-    border-radius: 6px;
-}
-.solution-box, .solution {
-    background: #fef9e7;
-    border-left: 4px solid #f39c12;
-    padding: 12px 20px;
-    margin: 12px 0;
-    border-radius: 6px;
-}
-.check-box, .check {
-    background: #fef9e7;
-    border-left: 4px solid #f39c12;
-    padding: 12px 20px;
-    margin: 12px 0;
-    border-radius: 6px;
-}
-.prep-quiz {
-    background: #fff3cd;
-    border: 1px solid #ffc107;
-    padding: 12px 20px;
-    margin: 16px 0;
-    border-radius: 6px;
-}
-.def-label, .definition-label {
-    font-weight: bold;
-    font-size: 1.1em;
-    margin: 20px 0 8px 0;
-    color: #2c3e50;
-    display: block;
-}
-.math-display sup, .math-inline sup { font-size: 0.75em; line-height: 0; }
-.math-display sub, .math-inline sub { font-size: 0.75em; line-height: 0; }
-</style>
-
-
----
-
-
----
-
 ## Key Concepts
-
 
 - *Graph a linear equation by plotting points.*
   - Find three points whose coordinates are solutions to the equation. Organize them in a table.
@@ -125,7 +52,7 @@ In each of the following exercises, an equation and its graph is shown. For each
   - <span class="math-inline">(1,-5)</span>
 
 
-  <span class="math-inline">y=<sup>1</sup>∕<sub>2</sub>x-3</span>
+  <span class="math-inline">y=<sup>1</sup>⁄<sub>2</sub>x-3</span>
 
 
   - <span class="math-inline">(0,-3)</span>
@@ -143,7 +70,7 @@ In each of the following exercises, an equation and its graph is shown. For each
   -  ⓐ no ⓑ no
 
 
-  <span class="math-inline">y=<sup>1</sup>∕<sub>3</sub>x+2</span>
+  <span class="math-inline">y=<sup>1</sup>⁄<sub>3</sub>x+2</span>
 
 
   - <span class="math-inline">(0,2)</span>
@@ -195,28 +122,28 @@ In the following exercises, graph by plotting points.
 <span class="math-inline">y=−2x</span>
 
 
-<span class="math-inline">y=<sup>1</sup>∕<sub>2</sub>x+2</span>
+<span class="math-inline">y=<sup>1</sup>⁄<sub>2</sub>x+2</span>
 
 
-<span class="math-inline">y=<sup>1</sup>∕<sub>3</sub>x-1</span>
+<span class="math-inline">y=<sup>1</sup>⁄<sub>3</sub>x-1</span>
 
 
-<span class="math-inline">y=<sup>4</sup>∕<sub>3</sub>x-5</span>
+<span class="math-inline">y=<sup>4</sup>⁄<sub>3</sub>x-5</span>
 
 
-<span class="math-inline">y=<sup>3</sup>∕<sub>2</sub>x-3</span>
+<span class="math-inline">y=<sup>3</sup>⁄<sub>2</sub>x-3</span>
 
 
-<span class="math-inline">y=-<sup>2</sup>∕<sub>5</sub>x+1</span>
+<span class="math-inline">y=-<sup>2</sup>⁄<sub>5</sub>x+1</span>
 
 
-<span class="math-inline">y=-<sup>4</sup>∕<sub>5</sub>x-1</span>
+<span class="math-inline">y=-<sup>4</sup>⁄<sub>5</sub>x-1</span>
 
 
-<span class="math-inline">y=-<sup>3</sup>∕<sub>2</sub>x+2</span>
+<span class="math-inline">y=-<sup>3</sup>⁄<sub>2</sub>x+2</span>
 
 
-<span class="math-inline">y=-<sup>5</sup>∕<sub>3</sub>x+4</span>
+<span class="math-inline">y=-<sup>5</sup>⁄<sub>3</sub>x+4</span>
 
 
 <span class="math-inline">x+y=6</span>
@@ -273,10 +200,10 @@ In the following exercises, graph by plotting points.
 <span class="math-inline">3x-4y=12</span>
 
 
-<span class="math-inline"><sup>1</sup>∕<sub>3</sub>x+y=2</span>
+<span class="math-inline"><sup>1</sup>⁄<sub>3</sub>x+y=2</span>
 
 
-<span class="math-inline"><sup>1</sup>∕<sub>2</sub>x+y=3</span>
+<span class="math-inline"><sup>1</sup>⁄<sub>2</sub>x+y=3</span>
 
 
 *Graph Vertical and Horizontal lines*
@@ -308,19 +235,19 @@ In the following exercises, graph the vertical and horizontal lines.
 <span class="math-inline">y=−2</span>
 
 
-<span class="math-inline">x=<sup>7</sup>∕<sub>3</sub></span>
+<span class="math-inline">x=<sup>7</sup>⁄<sub>3</sub></span>
 
 
-<span class="math-inline">x=<sup>5</sup>∕<sub>4</sub></span>
+<span class="math-inline">x=<sup>5</sup>⁄<sub>4</sub></span>
 
 
 In the following exercises, graph each pair of equations in the same rectangular coordinate system.
 
 
- <span class="math-inline">y=-<sup>1</sup>∕<sub>2</sub>x</span> and <span class="math-inline">y=-<sup>1</sup>∕<sub>2</sub></span>
+ <span class="math-inline">y=-<sup>1</sup>⁄<sub>2</sub>x</span> and <span class="math-inline">y=-<sup>1</sup>⁄<sub>2</sub></span>
 
 
- <span class="math-inline">y=-<sup>1</sup>∕<sub>3</sub>x</span> and <span class="math-inline">y=-<sup>1</sup>∕<sub>3</sub></span>
+ <span class="math-inline">y=-<sup>1</sup>⁄<sub>3</sub>x</span> and <span class="math-inline">y=-<sup>1</sup>⁄<sub>3</sub></span>
 
 
 <span class="math-inline">y=2x</span> and <span class="math-inline">y=2</span>
@@ -341,10 +268,10 @@ In the following exercises, graph each equation.
  <span class="math-inline">y=2x</span>
 
 
-  <span class="math-inline">y=-<sup>1</sup>∕<sub>2</sub>x+3</span>
+  <span class="math-inline">y=-<sup>1</sup>⁄<sub>2</sub>x+3</span>
 
 
-  <span class="math-inline">y=<sup>1</sup>∕<sub>4</sub>x-2</span>
+  <span class="math-inline">y=<sup>1</sup>⁄<sub>4</sub>x-2</span>
 
 
  <span class="math-inline">y=-x</span>
@@ -386,19 +313,22 @@ In the following exercises, graph each equation.
 ### Everyday Math
 
 
-*Motor home cost* The Robinsons rented a motor home for one week to go on vacation. It cost them <span class="math-inline">$594</span> plus <span class="math-inline">$0.32</span> per mile to rent the motor home, so the linear equation <span class="math-inline">y=594+0.32x</span> gives the cost, <span class="math-inline">y,</span> for driving <span class="math-inline">x</span> miles. Calculate the rental cost for driving <span class="math-inline">400,800, and 1,200</span> miles, and then graph the line.
+*Motor home cost* The Robinsons rented a motor home for one week to go on vacation.
+It cost them <span class="math-inline">$594</span> plus <span class="math-inline">$0.32</span> per mile to rent the motor home, so the linear equation <span class="math-inline">y=594+0.32x</span> gives the cost, <span class="math-inline">y,</span> for driving <span class="math-inline">x</span> miles.
+Calculate the rental cost for driving <span class="math-inline">400,800, and 1,200</span> miles, and then graph the line.
 
 
 $722, $850, $978
 
 
-*Weekly earning* At the art gallery where he works, Salvador gets paid <span class="math-inline">$200</span> per week plus <span class="math-inline">15%</span> of the sales he makes, so the equation <span class="math-inline">y=200+0.15x</span> gives the amount <span class="math-inline">y</span> he earns for selling <span class="math-inline">x</span> dollars of artwork. Calculate the amount Salvador earns for selling <span class="math-inline">$900, $1,600, and $2,000,</span> and then graph the line.
+*Weekly earning* At the art gallery where he works, Salvador gets paid <span class="math-inline">$200</span> per week plus <span class="math-inline">15%</span> of the sales he makes, so the equation <span class="math-inline">y=200+0.15x</span> gives the amount <span class="math-inline">y</span> he earns for selling <span class="math-inline">x</span> dollars of artwork.
+Calculate the amount Salvador earns for selling <span class="math-inline">$900, $1,600, and $2,000,</span> and then graph the line.
 
 
 ### Writing Exercises
 
 
-Explain how you would choose three <span class="math-inline">x-values</span> to make a table to graph the line <span class="math-inline">y=<sup>1</sup>∕<sub>5</sub>x-2.</span>
+Explain how you would choose three <span class="math-inline">x-values</span> to make a table to graph the line <span class="math-inline">y=<sup>1</sup>⁄<sub>5</sub>x-2.</span>
 
 
 Answers will vary.
@@ -415,61 +345,50 @@ What is the difference between the equations of a vertical and a horizontal line
 ⓑ After reviewing this checklist, what will you do to become confident for all objectives?
 
 
-<div class="prep-quiz">
 **Be Prepared!**
-
 
 Before you get started, take this readiness quiz.
 
 
 Solve: <span class="math-inline">3x+4y=−12</span> for <span class="math-inline">x</span> when <span class="math-inline">y=0.</span>
 
-If you missed this problem, review .
+If you missed this problem, review
 
 
 <span class="math-inline">-4</span>
 
 
-<div class="prep-quiz">
 **Be Prepared!**
 
 
 Is the point <span class="math-inline">(0,−5)</span> on the <span class="math-inline">x-axis</span> or <span class="math-inline">y-axis?</span>
 
-If you missed this problem, review .
+If you missed this problem, review
 
 
 <span class="math-inline">y-axis</span>
 
 
-<div class="prep-quiz">
 **Be Prepared!**
 
 
 Which ordered pairs are solutions to the equation <span class="math-inline">2x-y=6?</span>
 ⓐ <span class="math-inline">(6,0)</span>ⓑ <span class="math-inline">(0,−6)</span>ⓒ <span class="math-inline">(4,−2).</span>
 
-If you missed this problem, review .
+If you missed this problem, review
 
 
 b
 
 
----
-
-
----
-
 ## Identify the Intercepts on a Graph
-
 
 Every **linear equation** has a unique line that represents all the solutions of the equation. When graphing a line by plotting points, each person who graphs the line can choose any three points, so two people graphing the line might use different sets of points.
 
 At first glance, their two lines might appear different since they would have different points labeled. But if all the work was done correctly, the lines will be exactly the same line. One way to recognize that they are indeed the same line is to focus on where the line crosses the axes. Each of these points is called an **intercept of the line**.
 
 
-<div class="definition-label">**Intercepts of a Line**</div>
-
+**Intercepts of a Line**
 
 Each of the points at which a line crosses the <span class="math-inline">x-axis</span> and the <span class="math-inline">y-axis</span> is called an intercept of the line.
 
@@ -492,7 +411,6 @@ The <span class="math-inline">y-intercept</span> is the point, <span class="math
 The <span class="math-inline">y-intercept</span> occurs when <span class="math-inline">x</span> is zero.
 
 
-<div class="example">
 **Example**
 
 
@@ -508,8 +426,7 @@ Find the <span class="math-inline">x- and y-intercepts</span> of each line:
 ⓒ <span class="math-inline">x+y=−5</span>
 
 
-<div class="solution">
-<span class="def-label">Solution</span>
+Solution
 
 
  ⓐ
@@ -545,7 +462,6 @@ Find the <span class="math-inline">x- and y-intercepts</span> of each line:
  The *y*-intercept is (0, −5).
 
 
-<div class="tryit">
 **Try It**
 
 
@@ -555,7 +471,6 @@ Find the <span class="math-inline">x-</span> and <span class="math-inline">y-int
 *x*-intercept (2,0): *y*-intercept (0,−2)
 
 
-<div class="tryit">
 **Try It**
 
 
@@ -565,19 +480,14 @@ Find the <span class="math-inline">x-</span> and <span class="math-inline">y-int
 *x*-intercept (3,0); *y*-intercept (0,2)
 
 
----
-
-
----
-
 ## Find the Intercepts from an Equation of a Line
 
 
-Recognizing that the <span class="math-inline">x-intercept</span> occurs when <span class="math-inline">y</span> is zero and that the <span class="math-inline">y-intercept</span> occurs when <span class="math-inline">x</span> is zero gives us a method to find the intercepts of a line from its equation. To find the <span class="math-inline">x-intercept,</span> let <span class="math-inline">y=0</span> and solve for <span class="math-inline">x.</span> To find the <span class="math-inline">y-intercept,</span> let <span class="math-inline">x=0</span> and solve for <span class="math-inline">y.</span>
+Recognizing that the <span class="math-inline">x-intercept</span> occurs when <span class="math-inline">y</span> is zero and that the <span class="math-inline">y-intercept</span> occurs when <span class="math-inline">x</span> is zero gives us a method to find the intercepts of a line from its equation.
+To find the <span class="math-inline">x-intercept,</span> let <span class="math-inline">y=0</span> and solve for <span class="math-inline">x.</span> To find the <span class="math-inline">y-intercept,</span> let <span class="math-inline">x=0</span> and solve for <span class="math-inline">y.</span>
 
 
-<div class="definition-label">**Find the**</div>
-
+**Find the**
 
 Use the equation to find:
   -
@@ -587,7 +497,6 @@ the *x-*intercept of the line, let <span class="math-inline">y=0</span> and solv
 the *y-*intercept of the line, let <span class="math-inline">x=0</span> and solve for *y*.
 
 
-<div class="example">
 **Example**
 
 
@@ -629,7 +538,6 @@ To find the y- intercept, let <span class="math-inline">x=0</span>:
 The intercepts are the points <span class="math-inline">(3,0)</span> and <span class="math-inline">(0,6)</span>.
 
 
-<div class="tryit">
 **Try It**
 
 
@@ -639,7 +547,6 @@ Find the intercepts: <span class="math-inline">3x+y=12</span>
 <span class="math-inline">(4,0)</span> and <span class="math-inline">(0,12)</span>
 
 
-<div class="tryit">
 **Try It**
 
 
@@ -649,17 +556,13 @@ Find the intercepts: <span class="math-inline">x+4y=8</span>
 <span class="math-inline">(8,0)</span> and <span class="math-inline">(0,2)</span>
 
 
-<div class="example">
 **Example**
 
 
 Find the intercepts of <span class="math-inline">4x−3y=12.</span>
 
 
-<div class="solution">
-<span class="def-label">Solution</span>
-
-
+Solution
 To find the <span class="math-inline">x-intercept,</span> let <span class="math-inline">y=0.</span>
 
 
@@ -724,7 +627,6 @@ y
 <span class="math-inline">−4</span>
 
 
-<div class="tryit">
 **Try It**
 
 
@@ -734,7 +636,6 @@ Find the intercepts of the line: <span class="math-inline">3x−4y=12.</span>
 *x*-intercept (4,0); *y*-intercept: (0,−3)
 
 
-<div class="tryit">
 **Try It**
 
 
@@ -744,49 +645,39 @@ Find the intercepts of the line: <span class="math-inline">2x−4y=8.</span>
 *x*-intercept (4,0); *y*-intercept: (0,−2)
 
 
----
-
-
----
-
 ## Graph a Line Using the Intercepts
-
 
 To graph a linear equation by plotting points, you can use the intercepts as two of your three points. Find the two intercepts, and then a third point to ensure accuracy, and draw the line. This method is often the quickest way to graph a line.
 
 
-<div class="example">
 **Example**
 
 
 Graph <span class="math-inline">-x+2y=6</span> using intercepts.
 
 
-<div class="solution">
-<span class="def-label">Solution</span>
-
-
+Solution
 First, find the <span class="math-inline">x-intercept.</span> Let <span class="math-inline">y=0,</span>
-\(\\
+<span class="math-inline">\\
  \\
 - \\
- \\\)
+ \\</span>
 The <span class="math-inline">x-intercept</span> is <span class="math-inline">(–6,0).</span>
 Now find the <span class="math-inline">y-intercept.</span> Let <span class="math-inline">x=0.</span>
-\(\\
+<span class="math-inline">\\
 - \\
 −0 \\
  \\
  \\
- \\\)
+ \\</span>
 The <span class="math-inline">y-intercept</span> is <span class="math-inline">(0,3).</span>
 Find a third point. We’ll use <span class="math-inline">x=2,</span>
-\(\\
+<span class="math-inline">\\
 - \\
 −2 \\
  \\
  \\
- \\\)
+ \\</span>
 A third solution to the equation is <span class="math-inline">(2,4).</span>
 Summarize the three points in a table and then plot them on a graph.
 
@@ -794,13 +685,9 @@ Summarize the three points in a table and then plot them on a graph.
 <span class="math-inline">-x+2y=6</span>
 
 
-<div class="definition-label">**x**</div>
-
-
-<div class="definition-label">**y**</div>
-
-
-<div class="definition-label">**(x,y)**</div>
+**x**
+**y**
+**(x,y)**
 
 
 <span class="math-inline">−6</span>
@@ -821,22 +708,19 @@ Summarize the three points in a table and then plot them on a graph.
 Do the points line up? Yes, so draw line through the points.
 
 
-<div class="tryit">
 **Try It**
 
 
 Graph the line using the intercepts: <span class="math-inline">x−2y=4.</span>
 
 
-<div class="tryit">
 **Try It**
 
 
 Graph the line using the intercepts: <span class="math-inline">-x+3y=6.</span>
 
 
-<div class="definition-label">**Graph a line using the intercepts.**</div>
-
+**Graph a line using the intercepts.**
 
 - Find the <span class="math-inline">x-</span> and <span class="math-inline">y-intercepts</span> of the line.
 
@@ -850,17 +734,13 @@ Graph the line using the intercepts: <span class="math-inline">-x+3y=6.</span>
 -  Draw the line.
 
 
-<div class="example">
 **Example**
 
 
 Graph <span class="math-inline">4x−3y=12</span> using intercepts.
 
 
-<div class="solution">
-<span class="def-label">Solution</span>
-
-
+Solution
 Find the intercepts and a third point.
 
 
@@ -890,29 +770,25 @@ We list the points and show the graph.
 <span class="math-inline">(6,4)</span>
 
 
-<div class="tryit">
 **Try It**
 
 
 Graph the line using the intercepts: <span class="math-inline">5x−2y=10.</span>
 
 
-<div class="tryit">
 **Try It**
 
 
 Graph the line using the intercepts: <span class="math-inline">3x−4y=12.</span>
 
 
-<div class="example">
 **Example**
 
 
 Graph <span class="math-inline">y=5x</span> using the intercepts.
 
 
-<div class="solution">
-<span class="def-label">Solution</span>
+Solution
 
 
 This line has only one intercept! It is the point <span class="math-inline">(0,0).</span>
@@ -948,27 +824,19 @@ Organize the points in a table.
 Plot the three points, check that they line up, and draw the line.
 
 
-<div class="tryit">
 **Try It**
 
 
 Graph using the intercepts: <span class="math-inline">y=4x.</span>
 
 
-<div class="tryit">
 **Try It**
 
 
 Graph using the intercepts: <span class="math-inline">y=-x.</span>
 
 
----
-
-
----
-
 ## Choose the Most Convenient Method to Graph a Line
-
 
 While we could graph any **linear equation** by plotting points, it may not always be the most convenient method. This table shows six of equations we’ve graphed in this chapter, and the methods we used to graph them.
 
@@ -979,13 +847,16 @@ Notice that in equations #1 and #2, *y* is isolated on one side of the equation,
 
 Equations #3 and #4 each have just one variable. Remember, in this kind of equation the value of that one variable is constant; it does not depend on the value of the other variable. Equations of this form have graphs that are vertical or horizontal lines.
 
-In equations #5 and #6, both *x* and *y* are on the same side of the equation. These two equations are of the form <span class="math-inline">Ax+By=C</span>. We substituted <span class="math-inline">y=0</span> and <span class="math-inline">x=0</span> to find the *x-* and *y-* intercepts, and then found a third point by choosing a value for *x* or *y*.
+
+In equations #5 and #6, both *x* and *y* are on the same side of the equation.
+These two equations are of the form <span class="math-inline">Ax+By=C</span>.
+We substituted <span class="math-inline">y=0</span> and <span class="math-inline">x=0</span> to find the *x-* and *y-* intercepts, and then found a third point by choosing a value for *x* or *y*.
+
 
 This leads to the following strategy for choosing the most convenient method to graph a line.
 
 
-<div class="definition-label">**Choose the most convenient method to graph a line.**</div>
-
+**Choose the most convenient method to graph a line.**
 
 -  If the equation has only one variable. It is a vertical or horizontal line.
   - <span class="math-inline">x=a</span> is a vertical line passing through the <span class="math-inline">x-axis</span> at <span class="math-inline">a</span>
@@ -998,7 +869,6 @@ This leads to the following strategy for choosing the most convenient method to 
   - Find the <span class="math-inline">x-</span> and <span class="math-inline">y-</span> intercepts and then a third point.
 
 
-<div class="example">
 **Example**
 
 
@@ -1006,20 +876,16 @@ Identify the most convenient method to graph each line:
   - ⓐ <span class="math-inline">y=−3</span>
   - ⓑ <span class="math-inline">4x−6y=12</span>
   - ⓒ <span class="math-inline">x=2</span>
-  - ⓓ <span class="math-inline">y=<sup>2</sup>∕<sub>5</sub>x−1</span>
+  - ⓓ <span class="math-inline">y=<sup>2</sup>⁄<sub>5</sub>x−1</span>
 
 
-<div class="solution">
-<span class="def-label">Solution</span>
-
-
+Solution
 ⓐ <span class="math-inline">y=−3</span>This equation has only one variable, <span class="math-inline">y.</span> Its graph is a horizontal line crossing the <span class="math-inline">y-axis</span> at <span class="math-inline">−3.</span>
 ⓑ <span class="math-inline">4x−6y=12</span>This equation is of the form <span class="math-inline">Ax+By=C.</span> Find the intercepts and one more point.
 ⓒ <span class="math-inline">x=2</span>There is only one variable, <span class="math-inline">x.</span> The graph is a vertical line crossing the <span class="math-inline">x-axis</span> at <span class="math-inline">2.</span>
-ⓓ <span class="math-inline">y=<sup>2</sup>∕<sub>5</sub>x−1</span>Since <span class="math-inline">y</span> is isolated on the left side of the equation, it will be easiest to graph this line by plotting three points.
+ⓓ <span class="math-inline">y=<sup>2</sup>⁄<sub>5</sub>x−1</span>Since <span class="math-inline">y</span> is isolated on the left side of the equation, it will be easiest to graph this line by plotting three points.
 
 
-<div class="tryit">
 **Try It**
 
 
@@ -1027,7 +893,7 @@ Identify the most convenient method to graph each line:
 
   - ⓐ <span class="math-inline">3x+2y=12</span>
   - ⓑ <span class="math-inline">y=4</span>
-  - ⓒ <span class="math-inline">y=<sup>1</sup>∕<sub>5</sub>x−4</span>
+  - ⓒ <span class="math-inline">y=<sup>1</sup>⁄<sub>5</sub>x−4</span>
   - ⓓ <span class="math-inline">x=−7</span>
 
 
@@ -1037,7 +903,6 @@ Identify the most convenient method to graph each line:
   - ⓓ vertical line
 
 
-<div class="tryit">
 **Try It**
 
 
@@ -1045,7 +910,7 @@ Identify the most convenient method to graph each line:
 
   - ⓐ <span class="math-inline">x=6</span>
   -
-ⓑ <span class="math-inline">y=-<sup>3</sup>∕<sub>4</sub>x+1</span>
+ⓑ <span class="math-inline">y=-<sup>3</sup>⁄<sub>4</sub>x+1</span>
   -
 ⓒ <span class="math-inline">y=−8</span>
   -
@@ -1058,8 +923,7 @@ Identify the most convenient method to graph each line:
   - ⓓ intercepts
 
 
-<div class="definition-label">**ACCESS ADDITIONAL ONLINE RESOURCES**</div>
-
+**ACCESS ADDITIONAL ONLINE RESOURCES**
 
 - Graph by Finding Intercepts
 
@@ -1068,13 +932,7 @@ Identify the most convenient method to graph each line:
 - State the Intercepts from a Graph
 
 
----
-
-
----
-
 ## Key Concepts
-
 
 - *Intercepts*
   - The *x-*intercept is the point, <span class="math-inline">(a,0)</span>, where the graph crosses the *x-*axis. The *x-*intercept occurs when y is zero.
@@ -1230,22 +1088,22 @@ In the following exercises, find the intercepts.
 <span class="math-inline">3x−5y=30</span>
 
 
-<span class="math-inline">y=<sup>1</sup>∕<sub>3</sub>x−1</span>
+<span class="math-inline">y=<sup>1</sup>⁄<sub>3</sub>x−1</span>
 
 
 (3,0),(0,−1)
 
 
-<span class="math-inline">y=<sup>1</sup>∕<sub>4</sub>x−1</span>
+<span class="math-inline">y=<sup>1</sup>⁄<sub>4</sub>x−1</span>
 
 
-<span class="math-inline">y=<sup>1</sup>∕<sub>5</sub>x+2</span>
+<span class="math-inline">y=<sup>1</sup>⁄<sub>5</sub>x+2</span>
 
 
 (−10,0),(0,2)
 
 
-<span class="math-inline">y=<sup>1</sup>∕<sub>3</sub>x+4</span>
+<span class="math-inline">y=<sup>1</sup>⁄<sub>3</sub>x+4</span>
 
 
 <span class="math-inline">y=3x</span>
@@ -1390,13 +1248,13 @@ intercepts
 <span class="math-inline">x-y=1</span>
 
 
-<span class="math-inline">y=<sup>2</sup>∕<sub>3</sub>x−1</span>
+<span class="math-inline">y=<sup>2</sup>⁄<sub>3</sub>x−1</span>
 
 
 plotting points
 
 
-<span class="math-inline">y=<sup>4</sup>∕<sub>5</sub>x−3</span>
+<span class="math-inline">y=<sup>4</sup>⁄<sub>5</sub>x−3</span>
 
 
 <span class="math-inline">y=−3</span>
@@ -1417,13 +1275,13 @@ intercepts
 <span class="math-inline">2x−5y=−10</span>
 
 
-<span class="math-inline">y=-<sup>1</sup>∕<sub>4</sub>x+3</span>
+<span class="math-inline">y=-<sup>1</sup>⁄<sub>4</sub>x+3</span>
 
 
 plotting points
 
 
-<span class="math-inline">y=-<sup>1</sup>∕<sub>3</sub>x+5</span>
+<span class="math-inline">y=-<sup>1</sup>⁄<sub>3</sub>x+5</span>
 
 
 ### Everyday Math
@@ -1459,7 +1317,7 @@ Do you prefer to graph the equation <span class="math-inline">4x+y=−4</span> b
 Answers will vary.
 
 
-Do you prefer to graph the equation <span class="math-inline">y=<sup>2</sup>∕<sub>3</sub>x−2</span> by plotting points or intercepts? Why?
+Do you prefer to graph the equation <span class="math-inline">y=<sup>2</sup>⁄<sub>3</sub>x−2</span> by plotting points or intercepts? Why?
 
 
 ### Self Check
@@ -1470,40 +1328,36 @@ Do you prefer to graph the equation <span class="math-inline">y=<sup>2</sup>∕<
 ⓑ What does this checklist tell you about your mastery of this section? What steps will you take to improve?
 
 
-<div class="prep-quiz">
 **Be Prepared!**
-
 
 Before you get started, take this readiness quiz.
 
 
-Simplify: <span class="math-inline"><sup>1-4</sup>∕<sub>8-2</sub>.</span>
+Simplify: <span class="math-inline"><sup>1-4</sup>⁄<sub>8-2</sub>.</span>
 
-If you missed this problem, review .
-
-
-<span class="math-inline">-<sup>1</sup>∕<sub>2</sub></span>
+If you missed this problem, review
 
 
-<div class="prep-quiz">
+<span class="math-inline">-<sup>1</sup>⁄<sub>2</sub></span>
+
+
 **Be Prepared!**
 
 
-Divide: <span class="math-inline"><sup>0</sup>∕<sub>4</sub>,<sup>4</sup>∕<sub>0</sub>.</span>
+Divide: <span class="math-inline"><sup>0</sup>⁄<sub>4</sub>,<sup>4</sup>⁄<sub>0</sub>.</span>
 
-If you missed this problem, review .
+If you missed this problem, review
 
 
 <span class="math-inline">0, undefined</span>
 
 
-<div class="prep-quiz">
 **Be Prepared!**
 
 
-Simplify: <span class="math-inline"><sup>15</sup>∕<sub>−3</sub>,<sup>−15</sup>∕<sub>3</sub>,<sup>−15</sup>∕<sub>−3</sub>.</span>
+Simplify: <span class="math-inline"><sup>15</sup>⁄<sub>−3</sub>,<sup>−15</sup>⁄<sub>3</sub>,<sup>−15</sup>⁄<sub>−3</sub>.</span>
 
-If you missed this problem, review .
+If you missed this problem, review
 
 
 <span class="math-inline">-5,-5,5</span>
@@ -1512,69 +1366,3 @@ If you missed this problem, review .
 As we’ve been graphing linear equations, we’ve seen that some lines slant up as they go from left to right and some lines slant down. Some lines are very steep and some lines are flatter. What determines whether a line slants up or down, and if its slant is steep or flat?
 
 The steepness of the slant of a line is called the **slope of the line**. The concept of slope has many applications in the real world. The pitch of a roof and the grade of a highway or wheelchair ramp are just some examples in which you literally see slopes. And when you ride a bicycle, you *feel* the slope as you pump uphill or coast downhill.
-
-</div>
-
-</div>
-
-</div>
-
-</div>
-
-</div>
-
-</div>
-
-</div>
-
-</div>
-
-</div>
-
-</div>
-
-</div>
-
-</div>
-
-</div>
-
-</div>
-
-</div>
-
-</div>
-
-</div>
-
-</div>
-
-</div>
-
-</div>
-
-</div>
-
-</div>
-
-</div>
-
-</div>
-
-</div>
-
-</div>
-
-</div>
-
-</div>
-
-</div>
-
-</div>
-
-</div>
-
-</div>
-
-</div>

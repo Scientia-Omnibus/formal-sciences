@@ -1,74 +1,4 @@
-<style>
-.math-inline {
-    font-style: italic;
-    padding: 2px 6px;
-    border-radius: 4px;
-    background: #f8f9fa;
-    font-family: Georgia, serif;
-}
-.math-display {
-    background: #f8f9fa;
-    border-left: 4px solid #4a90d9;
-    padding: 16px 20px;
-    margin: 16px 0;
-    border-radius: 6px;
-    font-size: 1.15em;
-    font-family: Georgia, serif;
-    text-align: center;
-    line-height: 2;
-    overflow-x: auto;
-}
-.example-box, .example {
-    background: #f0f8ff;
-    border-left: 4px solid #2e86de;
-    padding: 12px 20px;
-    margin: 16px 0;
-    border-radius: 6px;
-}
-.tryit-box, .tryit {
-    background: #f0fff4;
-    border-left: 4px solid #27ae60;
-    padding: 12px 20px;
-    margin: 16px 0;
-    border-radius: 6px;
-}
-.solution-box, .solution {
-    background: #fef9e7;
-    border-left: 4px solid #f39c12;
-    padding: 12px 20px;
-    margin: 12px 0;
-    border-radius: 6px;
-}
-.check-box, .check {
-    background: #fef9e7;
-    border-left: 4px solid #f39c12;
-    padding: 12px 20px;
-    margin: 12px 0;
-    border-radius: 6px;
-}
-.prep-quiz {
-    background: #fff3cd;
-    border: 1px solid #ffc107;
-    padding: 12px 20px;
-    margin: 16px 0;
-    border-radius: 6px;
-}
-.def-label, .definition-label {
-    font-weight: bold;
-    font-size: 1.1em;
-    margin: 20px 0 8px 0;
-    color: #2c3e50;
-    display: block;
-}
-.math-display sup, .math-inline sup { font-size: 0.75em; line-height: 0; }
-.math-display sub, .math-inline sub { font-size: 0.75em; line-height: 0; }
-</style>
-
-
----
-
 ## Chapter Review Exercises
-
 
 *Identify Polynomials, Monomials, Binomials and Trinomials*
 
@@ -176,31 +106,31 @@ Find the difference of <span class="math-inline">x<sup>2</sup>+6x+8</span> and <
 In the following exercises, evaluate each polynomial for the given value.
 
 
-<span class="math-inline">200x-<sup>1</sup>∕<sub>5</sub> x<sup>2</sup></span> when <span class="math-inline">x=5</span>
+<span class="math-inline">200x-<sup>1</sup>⁄<sub>5</sub> x<sup>2</sup></span> when <span class="math-inline">x=5</span>
 
 
 995
 
 
-<span class="math-inline">200x-<sup>1</sup>∕<sub>5</sub> x<sup>2</sup></span> when <span class="math-inline">x=0</span>
+<span class="math-inline">200x-<sup>1</sup>⁄<sub>5</sub> x<sup>2</sup></span> when <span class="math-inline">x=0</span>
 
 
-<span class="math-inline">200x-<sup>1</sup>∕<sub>5</sub> x<sup>2</sup></span> when <span class="math-inline">x=15</span>
+<span class="math-inline">200x-<sup>1</sup>⁄<sub>5</sub> x<sup>2</sup></span> when <span class="math-inline">x=15</span>
 
 
 2,955
 
 
-<span class="math-inline">5+40x-<sup>1</sup>∕<sub>2</sub> x<sup>2</sup></span> when <span class="math-inline">x=10</span>
+<span class="math-inline">5+40x-<sup>1</sup>⁄<sub>2</sub> x<sup>2</sup></span> when <span class="math-inline">x=10</span>
 
 
-<span class="math-inline">5+40x-<sup>1</sup>∕<sub>2</sub> x<sup>2</sup></span> when <span class="math-inline">x=−4</span>
+<span class="math-inline">5+40x-<sup>1</sup>⁄<sub>2</sub> x<sup>2</sup></span> when <span class="math-inline">x=−4</span>
 
 
 −163
 
 
-<span class="math-inline">5+40x-<sup>1</sup>∕<sub>2</sub> x<sup>2</sup></span> when <span class="math-inline">x=0</span>
+<span class="math-inline">5+40x-<sup>1</sup>⁄<sub>2</sub> x<sup>2</sup></span> when <span class="math-inline">x=0</span>
 
 
 A pair of glasses is dropped off a bridge <span class="math-inline">640</span> feet above a river. The polynomial <span class="math-inline">−16t<sup>2</sup>+640</span> gives the height of the glasses <span class="math-inline">t</span> seconds after they were dropped. Find the height of the glasses when <span class="math-inline">t=6.</span>
@@ -209,7 +139,7 @@ A pair of glasses is dropped off a bridge <span class="math-inline">640</span> f
 64 feet
 
 
-The fuel efficiency (in miles per gallon) of a bus going at a speed of <span class="math-inline">x</span> miles per hour is given by the polynomial <span class="math-inline">-<sup>1</sup>∕<sub>160</sub> x<sup>2</sup>+<sup>1</sup>∕<sub>2</sub> x.</span> Find the fuel efficiency when <span class="math-inline">x=20</span> mph.
+The fuel efficiency (in miles per gallon) of a bus going at a speed of <span class="math-inline">x</span> miles per hour is given by the polynomial <span class="math-inline">-<sup>1</sup>⁄<sub>160</sub> x<sup>2</sup>+<sup>1</sup>⁄<sub>2</sub> x.</span> Find the fuel efficiency when <span class="math-inline">x=20</span> mph.
 
 
 *Simplify Expressions with Exponents*
@@ -223,7 +153,7 @@ In the following exercises, simplify.
 216
 
 
-<span class="math-inline">(<sup>1</sup>∕<sub>2</sub>)<sup>4</sup></span>
+<span class="math-inline">(<sup>1</sup>⁄<sub>2</sub>)<sup>4</sup></span>
 
 
 <span class="math-inline">(−0.5)<sup>2</sup></span>
@@ -338,7 +268,7 @@ In the following exercises, multiply the monomials.
 −54*p*5
 
 
-<span class="math-inline">(<sup>1</sup>∕<sub>3</sub> c<sup>2</sup>)(30c<sup>8</sup>)</span>
+<span class="math-inline">(<sup>1</sup>⁄<sub>3</sub> c<sup>2</sup>)(30c<sup>8</sup>)</span>
 
 
 <span class="math-inline">(8x<sup>2</sup>y<sup>5</sup>)(7xy<sup>6</sup>)</span>
@@ -347,7 +277,7 @@ In the following exercises, multiply the monomials.
 56*x*3*y*11
 
 
-<span class="math-inline">(<sup>2</sup>∕<sub>3</sub> m<sup>3</sup>n<sup>6</sup>)(<sup>1</sup>∕<sub>6</sub> m<sup>4</sup>n<sup>4</sup>)</span>
+<span class="math-inline">(<sup>2</sup>⁄<sub>3</sub> m<sup>3</sup>n<sup>6</sup>)(<sup>1</sup>⁄<sub>6</sub> m<sup>4</sup>n<sup>4</sup>)</span>
 
 
 *Multiply a Polynomial by a Monomial*
@@ -460,22 +390,22 @@ In the following exercises, multiply using any method.
 In the following exercises, simplify.
 
 
-<span class="math-inline"><sup>2<sup>8</sup></sup>∕<sub>2<sup>2</sup></sub></span>
+<span class="math-inline"><sup>2<sup>8</sup></sup>⁄<sub>2<sup>2</sup></sub></span>
 
 
 26 *or* 64
 
 
-<span class="math-inline"><sup> a<sup>6</sup></sup>∕<sub>a</sub></span>
+<span class="math-inline"><sup>a<sup>6</sup></sup>⁄<sub>a</sub></span>
 
 
-<span class="math-inline"><sup>n<sup>3</sup></sup>∕<sub>n<sup>12</sub></sup></span>
+<span class="math-inline"><sup>n<sup>3</sup></sup>⁄<sub>n<sup>12</sup></sub></span>
 
 
-<span class="math-inline"><sup>1</sup>∕<sub>n<sup>9</sup></sub></span>
+<span class="math-inline"><sup>1</sup>⁄<sub>n<sup>9</sup></sub></span>
 
 
-<span class="math-inline"><sup>x</sup>∕<sub> x<sup>5</sup></sub></span>
+<span class="math-inline"><sup>x</sup>⁄<sub>x<sup>5</sup></sub></span>
 
 
 *Simplify Expressions with Zero Exponents*
@@ -506,22 +436,22 @@ In the following exercises, simplify.
 In the following exercises, simplify.
 
 
-<span class="math-inline">(<sup>3</sup>∕<sub>5</sub>)<sup>2</sup></span>
+<span class="math-inline">(<sup>3</sup>⁄<sub>5</sub>)<sup>2</sup></span>
 
 
-<span class="math-inline"><sup>9</sup>∕<sub>25</sub></span>
+<span class="math-inline"><sup>9</sup>⁄<sub>25</sub></span>
 
 
-<span class="math-inline">(<sup>x</sup>∕<sub>2</sub>)<sup>5</sup></span>
+<span class="math-inline">(<sup>x</sup>⁄<sub>2</sub>)<sup>5</sup></span>
 
 
-<span class="math-inline">(<sup>5m</sup>∕<sub>n</sub>)<sup>3</sup></span>
+<span class="math-inline">(<sup>5m</sup>⁄<sub>n</sub>)<sup>3</sup></span>
 
 
-<span class="math-inline"><sup>125m<sup>3</sup></sup>∕<sub>n<sup>3</sup></sub></span>
+<span class="math-inline"><sup>125m<sup>3</sup></sup>⁄<sub>n<sup>3</sup></sub></span>
 
 
-<span class="math-inline">(<sup>s</sup>∕<sub>10t</sub>)<sup>2</sup></span>
+<span class="math-inline">(<sup>s</sup>⁄<sub>10t</sub>)<sup>2</sup></span>
 
 
 *Simplify Expressions by Applying Several Properties*
@@ -529,31 +459,31 @@ In the following exercises, simplify.
 In the following exercises, simplify.
 
 
-<span class="math-inline"><sup>(a<sup>3</sup>)<sup>2</sup></sup>∕<sub>a<sup>4</sup></sub></span>
+<span class="math-inline"><sup>(a<sup>3</sup>)<sup>2</sup></sup>⁄<sub>a<sup>4</sup></sub></span>
 
 
 *a*2
 
 
-<span class="math-inline"><sup> u<sup>3</sup></sup>∕<sub>u<sup>2</sup>· u<sup>4</sup></sub></span>
+<span class="math-inline"><sup>u<sup>3</sup></sup>⁄<sub>u<sup>2</sup>· u<sup>4</sup></sub></span>
 
 
-<span class="math-inline">(<sup>x</sup>∕<sub>x<sup>9</sup></sub>)<sup>5</sup></span>
+<span class="math-inline">(<sup>x</sup>⁄<sub>x<sup>9</sup></sub>)<sup>5</sup></span>
 
 
-<span class="math-inline"><sup>1</sup>∕<sub>x<sup>40</sub></sup></span>
+<span class="math-inline"><sup>1</sup>⁄<sub>x<sup>40</sup></sub></span>
 
 
-<span class="math-inline">(<sup>p<sup>4</sup>· p<sup>5</sup></sup>∕<sub>p<sup>3</sup></sub>)<sup>2</sup></span>
+<span class="math-inline">(<sup>p<sup>4</sup>· p<sup>5</sup></sup>⁄<sub>p<sup>3</sup></sub>)<sup>2</sup></span>
 
 
-<span class="math-inline"><sup>(n<sup>5</sup>)<sup>3</sup></sup>∕<sub>(n<sup>2</sup>)<sup>8</sup></sub></span>
+<span class="math-inline"><sup>(n<sup>5</sup>)<sup>3</sup></sup>⁄<sub>(n<sup>2</sup>)<sup>8</sup></sub></span>
 
 
-<span class="math-inline"><sup>1</sup>∕<sub>n</sub></span>
+<span class="math-inline"><sup>1</sup>⁄<sub>n</sub></span>
 
 
-<span class="math-inline">(<sup>5s<sup>2</sup></sup>∕<sub>4t</sub>)<sup>3</sup></span>
+<span class="math-inline">(<sup>5s<sup>2</sup></sup>⁄<sub>4t</sub>)<sup>3</sup></span>
 
 
 *Divide Monomials*
@@ -570,31 +500,31 @@ In the following exercises, divide the monomials.
 <span class="math-inline">−26a<sup>8</sup>÷ (2a<sup>2</sup>)</span>
 
 
-<span class="math-inline"><sup> 45y<sup>6</sup></sup>∕<sub>−15y<sup>10</sub></sup></span>
+<span class="math-inline"><sup>45y<sup>6</sup></sup>⁄<sub>−15y<sup>10</sup></sub></span>
 
 
-<span class="math-inline">-<sup>3</sup>∕<sub>y<sup>4</sup></sub></span>
+<span class="math-inline">-<sup>3</sup>⁄<sub>y<sup>4</sup></sub></span>
 
 
-<span class="math-inline"><sup>−30x<sup>8</sup></sup>∕<sub>−36x<sup>9</sup></sub></span>
+<span class="math-inline"><sup>−30x<sup>8</sup></sup>⁄<sub>−36x<sup>9</sup></sub></span>
 
 
-<span class="math-inline"><sup>28a<sup>9</sup>b</sup>∕<sub>7a<sup>4</sup>b<sup>3</sup></sub></span>
+<span class="math-inline"><sup>28a<sup>9</sup>b</sup>⁄<sub>7a<sup>4</sup>b<sup>3</sup></sub></span>
 
 
-<span class="math-inline"><sup>4a<sup>5</sup></sup>∕<sub>b<sup>2</sup></sub></span>
+<span class="math-inline"><sup>4a<sup>5</sup></sup>⁄<sub>b<sup>2</sup></sub></span>
 
 
-<span class="math-inline"><sup> 11u<sup>6</sup>v<sup>3</sup></sup>∕<sub>55u<sup>2</sup>v<sup>8</sup></sub></span>
+<span class="math-inline"><sup>11u<sup>6</sup>v<sup>3</sup></sup>⁄<sub>55u<sup>2</sup>v<sup>8</sup></sub></span>
 
 
-<span class="math-inline"><sup>(5m<sup>9</sup>n<sup>3</sup>)(8m<sup>3</sup>n<sup>2</sup>)</sup>∕<sub>(10mn<sup>4</sup>)(m<sup>2</sup>n<sup>5</sup>)</sub></span>
+<span class="math-inline"><sup>(5m<sup>9</sup>n<sup>3</sup>)(8m<sup>3</sup>n<sup>2</sup>)</sup>⁄<sub>(10mn<sup>4</sup>)(m<sup>2</sup>n<sup>5</sup>)</sub></span>
 
 
-<span class="math-inline"><sup>4m<sup>9</sup></sup>∕<sub>n<sup>4</sup></sub></span>
+<span class="math-inline"><sup>4m<sup>9</sup></sup>⁄<sub>n<sup>4</sup></sub></span>
 
 
-<span class="math-inline"><sup>42r<sup>2</sup>s<sup>4</sup></sup>∕<sub>6rs<sup>3</sup></sub>-<sup>54rs<sup>2</sup></sup>∕<sub>9s</sub></span>
+<span class="math-inline"><sup>42r<sup>2</sup>s<sup>4</sup></sup>⁄<sub>6rs<sup>3</sup></sub>-<sup>54rs<sup>2</sup></sup>⁄<sub>9s</sub></span>
 
 
 *Use the Definition of a Negative Exponent*
@@ -605,7 +535,7 @@ In the following exercises, simplify.
 <span class="math-inline">6<sup>−2</sup></span>
 
 
-<span class="math-inline"><sup>1</sup>∕<sub>36</sub></span>
+<span class="math-inline"><sup>1</sup>⁄<sub>36</sub></span>
 
 
 <span class="math-inline">(−10)<sup>−3</sup></span>
@@ -614,7 +544,7 @@ In the following exercises, simplify.
 <span class="math-inline">5· 2<sup>−4</sup></span>
 
 
-<span class="math-inline"><sup>5</sup>∕<sub>16</sub></span>
+<span class="math-inline"><sup>5</sup>⁄<sub>16</sub></span>
 
 
 <span class="math-inline">(8n)<sup>−1</sup></span>
@@ -637,7 +567,7 @@ In the following exercises, simplify.
 <span class="math-inline">(uv<sup>−3</sup>)(u<sup>−4</sup>v<sup>−2</sup>)</span>
 
 
-<span class="math-inline"><sup>1</sup>∕<sub>u<sup>3</sup>v<sup>5</sup></sub></span>
+<span class="math-inline"><sup>1</sup>⁄<sub>u<sup>3</sup>v<sup>5</sup></sub></span>
 
 
 <span class="math-inline">(m<sup>5</sup>)<sup>−1</sup></span>
@@ -649,16 +579,16 @@ In the following exercises, simplify.
 *k*6
 
 
-<span class="math-inline"><sup>q<sup>4</sup></sup>∕<sub>q<sup>20</sub></sup></span>
+<span class="math-inline"><sup>q<sup>4</sup></sup>⁄<sub>q<sup>20</sup></sub></span>
 
 
-<span class="math-inline"><sup>b<sup>8</sup></sup>∕<sub> b<sup>−2</sub></sup></span>
+<span class="math-inline"><sup>b<sup>8</sup></sup>⁄<sub>b<sup>−2</sup></sub></span>
 
 
 *b*10
 
 
-<span class="math-inline">\frac{n<sup>−3</sup>{n<sup>−5</sup></span>
+<span class="math-inline"><sup>n<sup>−3</sup></sup>⁄<sub>n<sup>−5</sup></sub></span>
 
 
 *Convert from Decimal Notation to Scientific Notation*
@@ -689,22 +619,22 @@ According to www.cleanair.com, U.S. businesses use about <span class="math-inlin
 In the following exercises, convert each number to decimal form.
 
 
-<span class="math-inline">2.9 ×  10<sup>4</sup></span>
+<span class="math-inline">2.9 × 10<sup>4</sup></span>
 
 
 29,000
 
 
-<span class="math-inline">1.5 ×  10<sup>8</sup></span>
+<span class="math-inline">1.5 × 10<sup>8</sup></span>
 
 
-<span class="math-inline">3.75 ×  10<sup>−1</sup></span>
+<span class="math-inline">3.75 × 10<sup>−1</sup></span>
 
 
 0.375
 
 
-<span class="math-inline">9.413 ×  10<sup>−5</sup></span>
+<span class="math-inline">9.413 × 10<sup>−5</sup></span>
 
 
 *Multiply and Divide Using Scientific Notation*
@@ -712,22 +642,22 @@ In the following exercises, convert each number to decimal form.
 In the following exercises, multiply and write your answer in decimal form.
 
 
-<span class="math-inline">(3 ×  10<sup>7</sup>)(2 ×  10<sup>−4</sup>)</span>
+<span class="math-inline">(3 × 10<sup>7</sup>)(2 × 10<sup>−4</sup>)</span>
 
 
 6,000
 
 
-<span class="math-inline">(1.5 ×  10<sup>−3</sup>)(4.8 ×  10<sup>−1</sup>)</span>
+<span class="math-inline">(1.5 × 10<sup>−3</sup>)(4.8 × 10<sup>−1</sup>)</span>
 
 
-<span class="math-inline"><sup>6 ×  10<sup>9</sup></sup>∕<sub>2 ×  10<sup>−1</sub></sup></span>
+<span class="math-inline"><sup>6 × 10<sup>9</sup></sup>⁄<sub>2 × 10<sup>−1</sup></sub></span>
 
 
 30,000,000,000
 
 
-<span class="math-inline">\frac{9 ×  10<sup>−3</sup>{1 ×  10<sup>−6</sup></span>
+<span class="math-inline"><sup>9 × 10<sup>−3</sup></sup>⁄<sub>1 × 10<sup>−6</sup></sub></span>
 
 
 *Find the Greatest Common Factor of Two or More Expressions*
@@ -794,8 +724,6 @@ In the following exercises, factor the greatest common factor from each polynomi
 <span class="math-inline">2q<sup>5</sup>-16q<sup>3</sup>+30q<sup>2</sup></span>
 
 
----
-
 ## Chapter Practice Test
 
 
@@ -820,7 +748,7 @@ In the following exercises, simplify each expression.
 6*x*2 − 3*x* + 11
 
 
-<span class="math-inline">(-<sup>3</sup>∕<sub>4</sub>)<sup>3</sup></span>
+<span class="math-inline">(-<sup>3</sup>⁄<sub>4</sub>)<sup>3</sup></span>
 
 
 <span class="math-inline">n· n<sup>4</sup></span>
@@ -865,10 +793,10 @@ In the following exercises, simplify each expression.
 24*a*2 + 34*ab* − 45*b*2
 
 
-<span class="math-inline"><sup>5<sup>6</sup></sup>∕<sub>5<sup>8</sup></sub></span>
+<span class="math-inline"><sup>5<sup>6</sup></sup>⁄<sub>5<sup>8</sup></sub></span>
 
 
-<span class="math-inline">(<sup>x<sup>3</sup>· x<sup>9</sup></sup>∕<sub>x<sup>5</sup></sub>)<sup>2</sup></span>
+<span class="math-inline">(<sup>x<sup>3</sup>· x<sup>9</sup></sup>⁄<sub>x<sup>5</sup></sub>)<sup>2</sup></span>
 
 
 *x*14
@@ -877,13 +805,13 @@ In the following exercises, simplify each expression.
 <span class="math-inline">(47a<sup>18</sup>b<sup>23</sup>c<sup>5</sup>)<sup>0</sup></span>
 
 
-<span class="math-inline"><sup>24r<sup>3</sup>s</sup>∕<sub> 6r<sup>2</sup>s<sup>7</sup></sub></span>
+<span class="math-inline"><sup>24r<sup>3</sup>s</sup>⁄<sub>6r<sup>2</sup>s<sup>7</sup></sub></span>
 
 
-<span class="math-inline"><sup>4r</sup>∕<sub>s<sup>6</sup></sub></span>
+<span class="math-inline"><sup>4r</sup>⁄<sub>s<sup>6</sup></sub></span>
 
 
-<span class="math-inline"><sup>8y<sup>2</sup>-16y+20</sup>∕<sub>4y</sub></span>
+<span class="math-inline"><sup>8y<sup>2</sup>-16y+20</sup>⁄<sub>4y</sub></span>
 
 
 <span class="math-inline">(15xy<sup>3</sup>-35x<sup>2</sup>y)÷ 5xy</span>
@@ -898,13 +826,13 @@ In the following exercises, simplify each expression.
 <span class="math-inline">(2y)<sup>−3</sup></span>
 
 
-<span class="math-inline"><sup>1</sup>∕<sub>8y<sup>3</sup></sub></span>
+<span class="math-inline"><sup>1</sup>⁄<sub>8y<sup>3</sup></sub></span>
 
 
 <span class="math-inline">p<sup>−3</sup>· p<sup>−8</sup></span>
 
 
-<span class="math-inline"><sup>x<sup>4</sup></sup>∕<sub> x<sup>−5</sub></sup></span>
+<span class="math-inline"><sup>x<sup>4</sup></sup>⁄<sub>x<sup>−5</sup></sub></span>
 
 
 *x*9
@@ -925,7 +853,7 @@ In the following exercises, factor the greatest common factor from each polynomi
 According to www.cleanair.org, the amount of trash generated in the US in one year averages out to <span class="math-inline">112,000</span> pounds of trash per person. Write this number in scientific notation.
 
 
-Convert <span class="math-inline">5.25 ×  10<sup>−4</sup></span> to decimal form.
+Convert <span class="math-inline">5.25 × 10<sup>−4</sup></span> to decimal form.
 
 
 0.000525
@@ -934,10 +862,10 @@ Convert <span class="math-inline">5.25 ×  10<sup>−4</sup></span> to decimal f
 In the following exercises, simplify, and write your answer in decimal form.
 
 
-<span class="math-inline">(2.4 ×  10<sup>8</sup>)(2 ×  10<sup>−5</sup>)</span>
+<span class="math-inline">(2.4 × 10<sup>8</sup>)(2 × 10<sup>−5</sup>)</span>
 
 
-<span class="math-inline"><sup>9 ×  10<sup>4</sup></sup>∕<sub>3 ×  10<sup>−1</sub></sup></span>
+<span class="math-inline"><sup>9 × 10<sup>4</sup></sup>⁄<sub>3 × 10<sup>−1</sup></sub></span>
 
 
 <span class="math-inline">300,000</span>

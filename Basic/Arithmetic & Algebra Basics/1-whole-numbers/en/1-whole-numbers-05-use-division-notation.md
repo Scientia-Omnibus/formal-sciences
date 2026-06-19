@@ -1,77 +1,4 @@
-<style>
-.math-inline {
-    font-style: italic;
-    padding: 2px 6px;
-    border-radius: 4px;
-    background: #f8f9fa;
-    font-family: Georgia, serif;
-}
-.math-display {
-    background: #f8f9fa;
-    border-left: 4px solid #4a90d9;
-    padding: 16px 20px;
-    margin: 16px 0;
-    border-radius: 6px;
-    font-size: 1.15em;
-    font-family: Georgia, serif;
-    text-align: center;
-    line-height: 2;
-    overflow-x: auto;
-}
-.example-box, .example {
-    background: #f0f8ff;
-    border-left: 4px solid #2e86de;
-    padding: 12px 20px;
-    margin: 16px 0;
-    border-radius: 6px;
-}
-.tryit-box, .tryit {
-    background: #f0fff4;
-    border-left: 4px solid #27ae60;
-    padding: 12px 20px;
-    margin: 16px 0;
-    border-radius: 6px;
-}
-.solution-box, .solution {
-    background: #fef9e7;
-    border-left: 4px solid #f39c12;
-    padding: 12px 20px;
-    margin: 12px 0;
-    border-radius: 6px;
-}
-.check-box, .check {
-    background: #fef9e7;
-    border-left: 4px solid #f39c12;
-    padding: 12px 20px;
-    margin: 12px 0;
-    border-radius: 6px;
-}
-.prep-quiz {
-    background: #fff3cd;
-    border: 1px solid #ffc107;
-    padding: 12px 20px;
-    margin: 16px 0;
-    border-radius: 6px;
-}
-.def-label, .definition-label {
-    font-weight: bold;
-    font-size: 1.1em;
-    margin: 20px 0 8px 0;
-    color: #2c3e50;
-    display: block;
-}
-.math-display sup, .math-inline sup { font-size: 0.75em; line-height: 0; }
-.math-display sub, .math-inline sub { font-size: 0.75em; line-height: 0; }
-</style>
-
-
----
-
-
----
-
 ## Use Division Notation
-
 
 So far we have explored addition, subtraction, and multiplication. Now let’s consider division. Suppose you have the <span class="math-inline">12</span> cookies in  and want to package them in bags with <span class="math-inline">4</span> cookies in each bag. How many bags would we need?
 
@@ -87,13 +14,15 @@ Instead of subtracting <span class="math-inline">4</span> repeatedly, we can wri
 </div>
 
 
-We read this as *twelve divided by four* and the result is the **quotient** of <span class="math-inline">12</span> and <span class="math-inline">4.</span> The quotient is <span class="math-inline">3</span> because we can subtract <span class="math-inline">4</span> from <span class="math-inline">12</span> exactly <span class="math-inline">3</span> times. We call the number being divided the **dividend** and the number dividing it the **divisor**. In this case, the dividend is <span class="math-inline">12</span> and the divisor is <span class="math-inline">4.</span>
+We read this as *twelve divided by four* and the result is the **quotient** of <span class="math-inline">12</span> and <span class="math-inline">4.</span> The quotient is <span class="math-inline">3</span> because we can subtract <span class="math-inline">4</span> from <span class="math-inline">12</span> exactly <span class="math-inline">3</span> times.
+We call the number being divided the **dividend** and the number dividing it the **divisor**.
+In this case, the dividend is <span class="math-inline">12</span> and the divisor is <span class="math-inline">4.</span>
 
-In the past you may have used the notation <span class="math-inline">4</span>, but this division also can be written as <span class="math-inline">12÷ 4, 12/4,<sup>12</sup>∕<sub>4</sub>.</span> In each case the <span class="math-inline">12</span> is the dividend and the <span class="math-inline">4</span> is the divisor.
+
+In the past you may have used the notation <span class="math-inline">4</span>, but this division also can be written as <span class="math-inline">12÷ 4, 12/4,<sup>12</sup>⁄<sub>4</sub>.</span> In each case the <span class="math-inline">12</span> is the dividend and the <span class="math-inline">4</span> is the divisor.
 
 
-<div class="definition-label">**Operation Symbols for Division**</div>
-
+**Operation Symbols for Division**
 
 To represent and describe division, we can use symbols and words.
 
@@ -101,29 +30,25 @@ To represent and describe division, we can use symbols and words.
 Division is performed on two numbers at a time.  When translating from math notation to English words, or English words to math notation, look for the words *of* and *and* to identify the numbers.
 
 
-<div class="example">
 **Example**
 
 
 Translate from math notation to words.
-ⓐ <span class="math-inline">64÷ 8</span> ⓑ <span class="math-inline"><sup>42</sup>∕<sub>7</sub></span> ⓒ <span class="math-inline">4</span>
+ⓐ <span class="math-inline">64÷ 8</span> ⓑ <span class="math-inline"><sup>42</sup>⁄<sub>7</sub></span> ⓒ <span class="math-inline">4</span>
 
 
-<div class="solution">
-<span class="def-label">Solution</span>
-
+Solution
 
   - ⓐ We read this as *sixty-four divided by eight* and the result is *the quotient of sixty-four and eight*.
   - ⓑ We read this as *forty-two divided by seven* and the result is *the quotient of forty-two and seven*.
   - ⓒ We read this as *twenty-eight divided by four* and the result is *the quotient of twenty-eight and four*.
 
 
-<div class="tryit">
 **Try It**
 
 
 Translate from math notation to words:
-ⓐ <span class="math-inline">84÷ 7</span> ⓑ <span class="math-inline"><sup>18</sup>∕<sub>6</sub></span> ⓒ <span class="math-inline">8</span>
+ⓐ <span class="math-inline">84÷ 7</span> ⓑ <span class="math-inline"><sup>18</sup>⁄<sub>6</sub></span> ⓒ <span class="math-inline">8</span>
 
 
   - ⓐ eighty-four divided by seven; the quotient of eighty-four and seven
@@ -131,12 +56,11 @@ Translate from math notation to words:
   - ⓒ twenty-four divided by eight; the quotient of twenty-four and eight
 
 
-<div class="tryit">
 **Try It**
 
 
 Translate from math notation to words:
-ⓐ <span class="math-inline">72÷ 9</span> ⓑ <span class="math-inline"><sup>21</sup>∕<sub>3</sub></span> ⓒ <span class="math-inline">6</span>
+ⓐ <span class="math-inline">72÷ 9</span> ⓑ <span class="math-inline"><sup>21</sup>⁄<sub>3</sub></span> ⓒ <span class="math-inline">6</span>
 
 
   - ⓐ seventy-two divided by nine; the quotient of seventy-two and nine
@@ -144,28 +68,18 @@ Translate from math notation to words:
   - ⓒ fifty-four divided by six; the quotient of fifty-four and six
 
 
----
-
-
----
-
 ## Model Division of Whole Numbers
-
 
 As we did with multiplication, we will model division using counters. The operation of division helps us organize items into equal groups as we start with the number of items in the dividend and subtract the number in the divisor repeatedly.
 
 
-<div class="example">
 **Example**
 
 
 Model the division: <span class="math-inline">24÷ 8.</span>
 
 
-<div class="solution">
-<span class="def-label">Solution</span>
-
-
+Solution
 To find the quotient <span class="math-inline">24÷ 8,</span> we want to know how many groups of <span class="math-inline">8</span> are in <span class="math-inline">24.</span>
 Model the dividend. Start with <span class="math-inline">24</span> counters.
 
@@ -175,43 +89,32 @@ Count the number of groups. There are <span class="math-inline">3</span> groups.
 <span class="math-inline">24÷ 8=3</span>
 
 
-<div class="tryit">
 **Try It**
 
 
 Model: <span class="math-inline">24÷ 6.</span>
 
 
-<div class="tryit">
 **Try It**
 
 
 Model: <span class="math-inline">42÷ 7.</span>
 
 
----
-
-
----
-
 ## Divide Whole Numbers
-
 
 We said that addition and subtraction are inverse operations because one undoes the other. Similarly, division is the inverse operation of multiplication. We know <span class="math-inline">12÷ 4=3</span> because <span class="math-inline">3· 4=12.</span> Knowing all the multiplication number facts is very important when doing division.
 
 We check our answer to division by multiplying the quotient by the divisor to determine if it equals the dividend. In , we know <span class="math-inline">24÷ 8=3</span> is correct because <span class="math-inline">3· 8=24.</span>
 
 
-<div class="example">
 **Example**
 
 
-Divide. Then check by multiplying. ⓐ <span class="math-inline">42÷ 6</span> ⓑ <span class="math-inline"><sup>72</sup>∕<sub>9</sub></span> ⓒ <span class="math-inline">7</span>
+Divide. Then check by multiplying. ⓐ <span class="math-inline">42÷ 6</span> ⓑ <span class="math-inline"><sup>72</sup>⁄<sub>9</sub></span> ⓒ <span class="math-inline">7</span>
 
 
-<div class="solution">
-<span class="def-label">Solution</span>
-
+Solution
 
   -
 
@@ -225,8 +128,7 @@ Divide. Then check by multiplying. ⓐ <span class="math-inline">42÷ 6</span> �
     <span class="math-inline">7</span>
 
 
-<div class="check-box">
-<span class="def-label">Check by multiplying.</span>
+    Check by multiplying.
 
     <span class="math-inline">7· 6</span>
 
@@ -238,7 +140,7 @@ Divide. Then check by multiplying. ⓐ <span class="math-inline">42÷ 6</span> �
 
   ⓑ
 
-    <span class="math-inline"><sup>72</sup>∕<sub>9</sub></span>
+    <span class="math-inline"><sup>72</sup>⁄<sub>9</sub></span>
 
 
     Divide 72 by 9.
@@ -271,23 +173,21 @@ Divide. Then check by multiplying. ⓐ <span class="math-inline">42÷ 6</span> �
     <span class="math-inline">63✓</span>
 
 
-<div class="tryit">
 **Try It**
 
 
 Divide. Then check by multiplying:
-ⓐ <span class="math-inline">54÷ 6</span> ⓑ <span class="math-inline"><sup>27</sup>∕<sub>9</sub></span>
+ⓐ <span class="math-inline">54÷ 6</span> ⓑ <span class="math-inline"><sup>27</sup>⁄<sub>9</sub></span>
 
 
   9 ⓑ 3
 
 
-<div class="tryit">
 **Try It**
 
 
 Divide. Then check by multiplying:
-ⓐ <span class="math-inline"><sup>36</sup>∕<sub>9</sub></span> ⓑ <span class="math-inline">8</span>
+ⓐ <span class="math-inline"><sup>36</sup>⁄<sub>9</sub></span> ⓑ <span class="math-inline">8</span>
 
 
   4 ⓑ 5
@@ -296,30 +196,26 @@ What is the quotient when you divide a number by itself?
 
 
 <div class="math-display">
-<sup>15</sup>∕<sub>15</sub>=1 because 1· 15=15
+<sup>15</sup>⁄<sub>15</sub>=1 because 1· 15=15
 </div>
-
 
 Dividing any number <span class="math-inline">(except 0)</span> by itself produces a quotient of <span class="math-inline">1.</span> Also, any number divided by <span class="math-inline">1</span> produces a quotient of the number. These two ideas are stated in the Division Properties of One.
 
 
-<div class="definition-label">**Division Properties of One**</div>
+**Division Properties of One**
 
 
-<div class="example">
 **Example**
 
 
 Divide. Then check by multiplying:
 
   -  ⓐ <span class="math-inline">11÷ 11</span>
-  -  ⓑ <span class="math-inline"><sup>19</sup>∕<sub>1</sub></span>
+  -  ⓑ <span class="math-inline"><sup>19</sup>⁄<sub>1</sub></span>
   -  ⓒ <span class="math-inline">1</span>
 
 
-<div class="solution">
-<span class="def-label">Solution</span>
-
+Solution
 
   -
 
@@ -345,7 +241,7 @@ Divide. Then check by multiplying:
 
   ⓑ
 
-    <span class="math-inline"><sup>19</sup>∕<sub>1</sub></span>
+    <span class="math-inline"><sup>19</sup>⁄<sub>1</sub></span>
 
 
     A number divided by 1 equals itself.
@@ -378,24 +274,22 @@ Divide. Then check by multiplying:
     <span class="math-inline">7✓</span>
 
 
-<div class="tryit">
 **Try It**
 
 
 Divide. Then check by multiplying:
-ⓐ <span class="math-inline">14÷ 14</span> ⓑ <span class="math-inline"><sup>27</sup>∕<sub>1</sub></span>
+ⓐ <span class="math-inline">14÷ 14</span> ⓑ <span class="math-inline"><sup>27</sup>⁄<sub>1</sub></span>
 
 
   - ⓐ 1
   - ⓑ 27
 
 
-<div class="tryit">
 **Try It**
 
 
 Divide. Then check by multiplying:
-ⓐ <span class="math-inline"><sup>16</sup>∕<sub>1</sub></span> ⓑ <span class="math-inline">1</span>
+ⓐ <span class="math-inline"><sup>16</sup>⁄<sub>1</sub></span> ⓑ <span class="math-inline">1</span>
 
 
   - ⓐ 16
@@ -408,22 +302,21 @@ Now suppose that we want to divide <span class="math-inline">$10</span> by <span
 These two ideas make up the Division Properties of Zero.
 
 
-<div class="definition-label">**Division Properties of Zero**</div>
+**Division Properties of Zero**
 
 
-Another way to explain why division by zero is undefined is to remember that division is really repeated subtraction. How many times can we take away <span class="math-inline">0</span> from <span class="math-inline">10?</span> Because subtracting <span class="math-inline">0</span> will never change the total, we will never get an answer. So we cannot divide a number by <span class="math-inline">0.</span>
+Another way to explain why division by zero is undefined is to remember that division is really repeated subtraction.
+How many times can we take away <span class="math-inline">0</span> from <span class="math-inline">10?</span> Because subtracting <span class="math-inline">0</span> will never change the total, we will never get an answer.
+So we cannot divide a number by <span class="math-inline">0.</span>
 
 
-<div class="example">
 **Example**
 
 
 Divide. Check by multiplying: ⓐ <span class="math-inline">0÷ 3</span> ⓑ <span class="math-inline">10/0.</span>
 
 
-<div class="solution">
-<span class="def-label">Solution</span>
-
+Solution
 
   -
 
@@ -456,7 +349,6 @@ Divide. Check by multiplying: ⓐ <span class="math-inline">0÷ 3</span> ⓑ <sp
     undefined
 
 
-<div class="tryit">
 **Try It**
 
 
@@ -467,7 +359,6 @@ Divide. Then check by multiplying:
   0 ⓑ undefined
 
 
-<div class="tryit">
 **Try It**
 
 
@@ -487,8 +378,7 @@ We would repeat the process until there are no more digits in the dividend to br
 So 78÷ 3=26.
 </div>
 
-
-Check by multiplying the quotient times the divisor to get the dividend. Multiply <span class="math-inline">26 ×  3</span> to make sure that product equals the dividend, <span class="math-inline">78.</span>
+Check by multiplying the quotient times the divisor to get the dividend. Multiply <span class="math-inline">26 × 3</span> to make sure that product equals the dividend, <span class="math-inline">78.</span>
 
 
 <div class="math-display">
@@ -497,12 +387,10 @@ Check by multiplying the quotient times the divisor to get the dividend. Multipl
 78
 </div>
 
-
 It does, so our answer is correct.
 
 
-<div class="definition-label">**Divide whole numbers.**</div>
-
+**Divide whole numbers.**
 
 - Divide the first digit of the dividend by the divisor.
 
@@ -521,15 +409,13 @@ If the divisor is larger than the first digit of the dividend, divide the first 
 - Check by multiplying the quotient times the divisor.
 
 
-<div class="example">
 **Example**
 
 
 Divide <span class="math-inline">2,596÷ 4.</span> Check by multiplying:
 
 
-<div class="solution">
-<span class="def-label">Solution</span>
+Solution
 
 
     Let's rewrite the problem to set it up for long division.
@@ -565,7 +451,6 @@ Divide <span class="math-inline">2,596÷ 4.</span> Check by multiplying:
 It equals the dividend, so our answer is correct.
 
 
-<div class="tryit">
 **Try It**
 
 
@@ -575,7 +460,6 @@ Divide. Then check by multiplying: <span class="math-inline">2,636÷ 4</span>
 659
 
 
-<div class="tryit">
 **Try It**
 
 
@@ -585,15 +469,13 @@ Divide. Then check by multiplying: <span class="math-inline">2,716÷ 4</span>
 679
 
 
-<div class="example">
 **Example**
 
 
 Divide <span class="math-inline">4,506÷ 6.</span> Check by multiplying:
 
 
-<div class="solution">
-<span class="def-label">Solution</span>
+Solution
 
 
     Let's rewrite the problem to set it up for long division.
@@ -623,7 +505,6 @@ Write the 1 over the 6. Multiply 1 by 6 and subtract this product from 6.
 It equals the dividend, so our answer is correct.
 
 
-<div class="tryit">
 **Try It**
 
 
@@ -633,7 +514,6 @@ Divide. Then check by multiplying: <span class="math-inline">4,305÷ 5.</span>
 861
 
 
-<div class="tryit">
 **Try It**
 
 
@@ -643,15 +523,13 @@ Divide. Then check by multiplying: <span class="math-inline">3,906÷ 6.</span>
 651
 
 
-<div class="example">
 **Example**
 
 
 Divide <span class="math-inline">7,263÷ 9.</span> Check by multiplying.
 
 
-<div class="solution">
-<span class="def-label">Solution</span>
+Solution
 
 
     Let's rewrite the problem to set it up for long division.
@@ -681,7 +559,6 @@ Multiply the 7 by 9 and subtract this product from 63.
 It equals the dividend, so our answer is correct.
 
 
-<div class="tryit">
 **Try It**
 
 
@@ -691,7 +568,6 @@ Divide. Then check by multiplying: <span class="math-inline">4,928÷ 7.</span>
 704
 
 
-<div class="tryit">
 **Try It**
 
 
@@ -701,7 +577,10 @@ Divide. Then check by multiplying: <span class="math-inline">5,663÷ 7.</span>
 809
 
 
-So far all the division problems have worked out evenly. For example, if we had <span class="math-inline">24</span> cookies and wanted to make bags of <span class="math-inline">8</span> cookies, we would have <span class="math-inline">3</span> bags. But what if there were <span class="math-inline">28</span> cookies and we wanted to make bags of <span class="math-inline">8?</span> Start with the <span class="math-inline">28</span> cookies as shown in .
+So far all the division problems have worked out evenly.
+For example, if we had <span class="math-inline">24</span> cookies and wanted to make bags of <span class="math-inline">8</span> cookies, we would have <span class="math-inline">3</span> bags.
+But what if there were <span class="math-inline">28</span> cookies and we wanted to make bags of <span class="math-inline">8?</span> Start with the <span class="math-inline">28</span> cookies as shown in .
+
 
 Try to put the cookies in groups of eight as in .
 
@@ -719,15 +598,13 @@ To check this division we multiply <span class="math-inline">3</span> times <spa
 </div>
 
 
-<div class="example">
 **Example**
 
 
 Divide <span class="math-inline">1,439÷ 4.</span> Check by multiplying.
 
 
-<div class="solution">
-<span class="def-label">Solution</span>
+Solution
 
 
     Let's rewrite the problem to set it up for long division.
@@ -756,7 +633,6 @@ There are no more numbers to bring down, so we are done.
 So <span class="math-inline">1,439÷ 4</span> is <span class="math-inline">359</span> with a remainder of <span class="math-inline">3.</span> Our answer is correct.
 
 
-<div class="tryit">
 **Try It**
 
 
@@ -766,7 +642,6 @@ Divide. Then check by multiplying: <span class="math-inline">3,812÷ 8.</span>
 476 with a remainder of 4
 
 
-<div class="tryit">
 **Try It**
 
 
@@ -776,15 +651,13 @@ Divide. Then check by multiplying: <span class="math-inline">4,319÷ 8.</span>
 539 with a remainder of 7
 
 
-<div class="example">
 **Example**
 
 
 Divide and then check by multiplying: <span class="math-inline">1,461÷ 13.</span>
 
 
-<div class="solution">
-<span class="def-label">Solution</span>
+Solution
 
 
     Let's rewrite the problem to set it up for long division.
@@ -813,7 +686,6 @@ The remainder is 5. <span class="math-inline">1,462÷ 13</span> is 112 with a re
 Our answer is correct.
 
 
-<div class="tryit">
 **Try It**
 
 
@@ -823,7 +695,6 @@ Divide. Then check by multiplying: <span class="math-inline">1,493÷ 13.</span>
 114 R11
 
 
-<div class="tryit">
 **Try It**
 
 
@@ -833,15 +704,13 @@ Divide. Then check by multiplying: <span class="math-inline">1,461÷ 12.</span>
 121 R9
 
 
-<div class="example">
 **Example**
 
 
 Divide and check by multiplying: <span class="math-inline">74,521÷ 241.</span>
 
 
-<div class="solution">
-<span class="def-label">Solution</span>
+Solution
 
 
     Let's rewrite the problem to set it up for long division.
@@ -874,7 +743,6 @@ is 309 with a remainder of 52.
 Sometimes it might not be obvious how many times the divisor goes into digits of the dividend. We will have to guess and check numbers to find the greatest number that goes into the digits without exceeding them.
 
 
-<div class="tryit">
 **Try It**
 
 
@@ -884,7 +752,6 @@ Divide. Then check by multiplying: <span class="math-inline">78,641÷ 256.</span
 307 R49
 
 
-<div class="tryit">
 **Try It**
 
 
@@ -894,36 +761,25 @@ Divide. Then check by multiplying: <span class="math-inline">76,461÷ 248.</span
 308 R77
 
 
----
-
-
----
-
 ## Translate Word Phrases to Math Notation
-
 
 Earlier in this section, we translated math notation for division into words. Now we’ll translate word phrases into math notation. Some of the words that indicate division are given in .
 
 
-<div class="example">
 **Example**
 
 
 Translate and simplify: the quotient of <span class="math-inline">51</span> and <span class="math-inline">17.</span>
 
 
-<div class="solution">
-<span class="def-label">Solution</span>
-
-
+Solution
 The word *quotient* tells us to divide.
-\(&  &  & the quotient of 51 and 17 \\
-Translate. &  &  & 51 \\
-Divide. &  &  & 3\)We could just as correctly have translated *the quotient of* <span class="math-inline">51</span> *and* <span class="math-inline">17</span> using the notation
-<span class="math-inline">17 or <sup>51</sup>∕<sub>17</sub>.</span>
+<span class="math-inline">& & & the quotient of 51 and 17 \\
+Translate. & & & 51 \\
+Divide. & & & 3</span>We could just as correctly have translated *the quotient of* <span class="math-inline">51</span> *and* <span class="math-inline">17</span> using the notation
+<span class="math-inline">17 or <sup>51</sup>⁄<sub>17</sub>.</span>
 
 
-<div class="tryit">
 **Try It**
 
 
@@ -933,7 +789,6 @@ Translate and simplify: the quotient of <span class="math-inline">91</span> and 
 91 ÷ 13; 7
 
 
-<div class="tryit">
 **Try It**
 
 
@@ -943,28 +798,21 @@ Translate and simplify: the quotient of <span class="math-inline">52</span> and 
 52 ÷ 13; 4
 
 
----
-
-
----
-
 ## Divide Whole Numbers in Applications
-
 
 We will use the same strategy we used in previous sections to solve applications. First, we determine what we are looking for. Then we write a phrase that gives the information to find it. We then translate the phrase into math notation and simplify it to get the answer. Finally, we write a sentence to answer the question.
 
 
-<div class="example">
 **Example**
 
 
-Cecelia bought a <span class="math-inline">160-ounce</span> box of oatmeal at the big box store. She wants to divide the <span class="math-inline">160</span> ounces of oatmeal into <span class="math-inline">8-ounce</span> servings. She will put each serving into a plastic bag so she can take one bag to work each day. How many servings will she get from the big box?
+Cecelia bought a <span class="math-inline">160-ounce</span> box of oatmeal at the big box store.
+She wants to divide the <span class="math-inline">160</span> ounces of oatmeal into <span class="math-inline">8-ounce</span> servings.
+She will put each serving into a plastic bag so she can take one bag to work each day.
+How many servings will she get from the big box?
 
 
-<div class="solution">
-<span class="def-label">Solution</span>
-
-
+Solution
 We are asked to find the how many servings she will get from the big box.
 
 
@@ -979,10 +827,9 @@ We are asked to find the how many servings she will get from the big box.
     Simplify by dividing.
     <span class="math-inline">20</span>
 
-Write a sentence to answer the question.Cecelia will get 20 servings from the big box.
+Write a sentence to answer the question. Cecelia will get 20 servings from the big box.
 
 
-<div class="tryit">
 **Try It**
 
 
@@ -992,7 +839,6 @@ Marcus is setting out animal crackers for snacks at the preschool. He wants to p
 Marcus can fill 15 cups.
 
 
-<div class="tryit">
 **Try It**
 
 
@@ -1002,8 +848,7 @@ Andrea is making bows for the girls in her dance class to wear at the recital. E
 Andrea can make 9 bows.
 
 
-<div class="definition-label">**ACCESS ADDITIONAL ONLINE RESOURCES**</div>
-
+**ACCESS ADDITIONAL ONLINE RESOURCES**
 
 - Dividing Whole Numbers
 
@@ -1011,11 +856,6 @@ Andrea can make 9 bows.
 
 - Dividing Whole Numbers With Remainder
 
-
----
-
-
----
 
 ## Key Concepts
 
@@ -1043,11 +883,6 @@ If the divisor is larger than the first digit of the dividend, divide the first 
   - Check by multiplying the quotient times the divisor.
 
 
----
-
-
----
-
 ## Section Exercises
 
 
@@ -1064,10 +899,10 @@ In the following exercises, translate from math notation to words.
 fifty-four divided by nine; the quotient of fifty-four and nine
 
 
-<span class="math-inline"><sup>56</sup>∕<sub>7</sub></span>
+<span class="math-inline"><sup>56</sup>⁄<sub>7</sub></span>
 
 
-<span class="math-inline"><sup>32</sup>∕<sub>8</sub></span>
+<span class="math-inline"><sup>32</sup>⁄<sub>8</sub></span>
 
 
 thirty-two divided by eight; the quotient of thirty-two and eight
@@ -1082,7 +917,7 @@ thirty-two divided by eight; the quotient of thirty-two and eight
 forty-eight divided by six; the quotient of forty-eight and six
 
 
-<span class="math-inline"><sup>63</sup>∕<sub>9</sub></span>
+<span class="math-inline"><sup>63</sup>⁄<sub>9</sub></span>
 
 
 <span class="math-inline">7</span>
@@ -1105,10 +940,10 @@ In the following exercises, model the division.
 <span class="math-inline">10÷ 5</span>
 
 
-<span class="math-inline"><sup>14</sup>∕<sub>7</sub></span>
+<span class="math-inline"><sup>14</sup>⁄<sub>7</sub></span>
 
 
-<span class="math-inline"><sup>18</sup>∕<sub>6</sub></span>
+<span class="math-inline"><sup>18</sup>⁄<sub>6</sub></span>
 
 
 <span class="math-inline">4</span>
@@ -1137,13 +972,13 @@ In the following exercises, divide. Then check by multiplying.
 <span class="math-inline">14÷ 2</span>
 
 
-<span class="math-inline"><sup>27</sup>∕<sub>3</sub></span>
+<span class="math-inline"><sup>27</sup>⁄<sub>3</sub></span>
 
 
 9
 
 
-<span class="math-inline"><sup>30</sup>∕<sub>3</sub></span>
+<span class="math-inline"><sup>30</sup>⁄<sub>3</sub></span>
 
 
 <span class="math-inline">4</span>
@@ -1155,13 +990,13 @@ In the following exercises, divide. Then check by multiplying.
 <span class="math-inline">4</span>
 
 
-<span class="math-inline"><sup>45</sup>∕<sub>5</sub></span>
+<span class="math-inline"><sup>45</sup>⁄<sub>5</sub></span>
 
 
 9
 
 
-<span class="math-inline"><sup>35</sup>∕<sub>5</sub></span>
+<span class="math-inline"><sup>35</sup>⁄<sub>5</sub></span>
 
 
 <span class="math-inline">72/8</span>
@@ -1173,7 +1008,7 @@ In the following exercises, divide. Then check by multiplying.
 <span class="math-inline">8</span>
 
 
-<span class="math-inline"><sup>35</sup>∕<sub>7</sub></span>
+<span class="math-inline"><sup>35</sup>⁄<sub>7</sub></span>
 
 
 5
@@ -1200,13 +1035,13 @@ In the following exercises, divide. Then check by multiplying.
 <span class="math-inline">37÷ 37</span>
 
 
-<span class="math-inline"><sup>23</sup>∕<sub>1</sub></span>
+<span class="math-inline"><sup>23</sup>⁄<sub>1</sub></span>
 
 
 23
 
 
-<span class="math-inline"><sup>29</sup>∕<sub>1</sub></span>
+<span class="math-inline"><sup>29</sup>⁄<sub>1</sub></span>
 
 
 <span class="math-inline">19÷ 1</span>
@@ -1227,22 +1062,22 @@ In the following exercises, divide. Then check by multiplying.
 <span class="math-inline">0÷ 8</span>
 
 
-<span class="math-inline"><sup>5</sup>∕<sub>0</sub></span>
+<span class="math-inline"><sup>5</sup>⁄<sub>0</sub></span>
 
 
 undefined
 
 
-<span class="math-inline"><sup>9</sup>∕<sub>0</sub></span>
+<span class="math-inline"><sup>9</sup>⁄<sub>0</sub></span>
 
 
-<span class="math-inline"><sup>26</sup>∕<sub>0</sub></span>
+<span class="math-inline"><sup>26</sup>⁄<sub>0</sub></span>
 
 
 undefined
 
 
-<span class="math-inline"><sup>32</sup>∕<sub>0</sub></span>
+<span class="math-inline"><sup>32</sup>⁄<sub>0</sub></span>
 
 
 <span class="math-inline">12</span>
@@ -1263,13 +1098,13 @@ undefined
 <span class="math-inline">57÷ 3</span>
 
 
-<span class="math-inline"><sup>96</sup>∕<sub>8</sub></span>
+<span class="math-inline"><sup>96</sup>⁄<sub>8</sub></span>
 
 
 12
 
 
-<span class="math-inline"><sup>78</sup>∕<sub>6</sub></span>
+<span class="math-inline"><sup>78</sup>⁄<sub>6</sub></span>
 
 
 <span class="math-inline">5</span>
@@ -1290,13 +1125,13 @@ undefined
 <span class="math-inline">861÷ 7</span>
 
 
-<span class="math-inline"><sup>5,226</sup>∕<sub>6</sub></span>
+<span class="math-inline"><sup>5,226</sup>⁄<sub>6</sub></span>
 
 
 871
 
 
-<span class="math-inline"><sup>3,776</sup>∕<sub>8</sub></span>
+<span class="math-inline"><sup>3,776</sup>⁄<sub>8</sub></span>
 
 
 <span class="math-inline">4</span>
@@ -1335,13 +1170,13 @@ undefined
 <span class="math-inline">6</span>
 
 
-<span class="math-inline"><sup>91,881</sup>∕<sub>9</sub></span>
+<span class="math-inline"><sup>91,881</sup>⁄<sub>9</sub></span>
 
 
 10,209
 
 
-<span class="math-inline"><sup>83,256</sup>∕<sub>8</sub></span>
+<span class="math-inline"><sup>83,256</sup>⁄<sub>8</sub></span>
 
 
 <span class="math-inline">2,470÷ 7</span>
@@ -1362,13 +1197,13 @@ undefined
 <span class="math-inline">9</span>
 
 
-<span class="math-inline"><sup>431,174</sup>∕<sub>5</sub></span>
+<span class="math-inline"><sup>431,174</sup>⁄<sub>5</sub></span>
 
 
 86,234 R4
 
 
-<span class="math-inline"><sup>297,277</sup>∕<sub>4</sub></span>
+<span class="math-inline"><sup>297,277</sup>⁄<sub>4</sub></span>
 
 
 <span class="math-inline">130,016÷ 3</span>
@@ -1386,7 +1221,7 @@ undefined
 382 R5
 
 
-<span class="math-inline"><sup>4,933</sup>∕<sub>21</sub></span>
+<span class="math-inline"><sup>4,933</sup>⁄<sub>21</sub></span>
 
 
 <span class="math-inline">56,883÷ 67</span>
@@ -1398,7 +1233,7 @@ undefined
 <span class="math-inline">43,725/75</span>
 
 
-<span class="math-inline"><sup>30,144</sup>∕<sub>314</sub></span>
+<span class="math-inline"><sup>30,144</sup>⁄<sub>314</sub></span>
 
 
 96
@@ -1583,109 +1418,3 @@ Oswaldo divided <span class="math-inline">300</span> by <span class="math-inline
 
 
 ⓑ Overall, after looking at the checklist, do you think you are well-prepared for the next Chapter? Why or why not?
-
-</div>
-
-</div>
-
-</div>
-
-</div>
-
-</div>
-
-</div>
-
-</div>
-
-</div>
-
-</div>
-
-</div>
-
-</div>
-
-</div>
-
-</div>
-
-</div>
-
-</div>
-
-</div>
-
-</div>
-
-</div>
-
-</div>
-
-</div>
-
-</div>
-
-</div>
-
-</div>
-
-</div>
-
-</div>
-
-</div>
-
-</div>
-
-</div>
-
-</div>
-
-</div>
-
-</div>
-
-</div>
-
-</div>
-
-</div>
-
-</div>
-
-</div>
-
-</div>
-
-</div>
-
-</div>
-
-</div>
-
-</div>
-
-</div>
-
-</div>
-
-</div>
-
-</div>
-
-</div>
-
-</div>
-
-</div>
-
-</div>
-
-</div>
-
-</div>
-
-</div>
-
-</div>

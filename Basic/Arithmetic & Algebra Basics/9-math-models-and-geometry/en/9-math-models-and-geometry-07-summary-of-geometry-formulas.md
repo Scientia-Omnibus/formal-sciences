@@ -1,94 +1,14 @@
-<style>
-.math-inline {
-    font-style: italic;
-    padding: 2px 6px;
-    border-radius: 4px;
-    background: #f8f9fa;
-    font-family: Georgia, serif;
-}
-.math-display {
-    background: #f8f9fa;
-    border-left: 4px solid #4a90d9;
-    padding: 16px 20px;
-    margin: 16px 0;
-    border-radius: 6px;
-    font-size: 1.15em;
-    font-family: Georgia, serif;
-    text-align: center;
-    line-height: 2;
-    overflow-x: auto;
-}
-.example-box, .example {
-    background: #f0f8ff;
-    border-left: 4px solid #2e86de;
-    padding: 12px 20px;
-    margin: 16px 0;
-    border-radius: 6px;
-}
-.tryit-box, .tryit {
-    background: #f0fff4;
-    border-left: 4px solid #27ae60;
-    padding: 12px 20px;
-    margin: 16px 0;
-    border-radius: 6px;
-}
-.solution-box, .solution {
-    background: #fef9e7;
-    border-left: 4px solid #f39c12;
-    padding: 12px 20px;
-    margin: 12px 0;
-    border-radius: 6px;
-}
-.check-box, .check {
-    background: #fef9e7;
-    border-left: 4px solid #f39c12;
-    padding: 12px 20px;
-    margin: 12px 0;
-    border-radius: 6px;
-}
-.prep-quiz {
-    background: #fff3cd;
-    border: 1px solid #ffc107;
-    padding: 12px 20px;
-    margin: 16px 0;
-    border-radius: 6px;
-}
-.def-label, .definition-label {
-    font-weight: bold;
-    font-size: 1.1em;
-    margin: 20px 0 8px 0;
-    color: #2c3e50;
-    display: block;
-}
-.math-display sup, .math-inline sup { font-size: 0.75em; line-height: 0; }
-.math-display sub, .math-inline sub { font-size: 0.75em; line-height: 0; }
-</style>
-
-
----
-
-
----
-
 ## Summary of Geometry Formulas
-
 
 The following charts summarize all of the formulas covered in this chapter.
 
 
-<div class="definition-label">**ACCESS ADDITIONAL ONLINE RESOURCES**</div>
-
+**ACCESS ADDITIONAL ONLINE RESOURCES**
 
 - Volume of a Cone
 
 
----
-
-
----
-
 ## Key Concepts
-
 
 - *Volume and Surface Area of a Rectangular Solid*
 
@@ -103,7 +23,7 @@ The following charts summarize all of the formulas covered in this chapter.
 
 - *Volume and Surface Area of a Sphere*
 
-  - <span class="math-inline">V=<sup>4</sup>∕<sub>3</sub>πr<sup>3</sup></span>
+  - <span class="math-inline">V=<sup>4</sup>⁄<sub>3</sub>πr<sup>3</sup></span>
   - <span class="math-inline">S=4πr<sup>2</sup></span>
 
 - *Volume and Surface Area of a Cylinder*
@@ -115,7 +35,7 @@ The following charts summarize all of the formulas covered in this chapter.
 
   - For a cone with radius <span class="math-inline">r</span> and height <span class="math-inline">h</span>:
 
-Volume: <span class="math-inline">V=<sup>1</sup>∕<sub>3</sub>πr<sup>2</sup>h</span>
+Volume: <span class="math-inline">V=<sup>1</sup>⁄<sub>3</sub>πr<sup>2</sup>h</span>
 
 
 ### Practice Makes Perfect
@@ -355,7 +275,12 @@ In the following exercises, solve. Round answers to the nearest hundredth.
 ### Everyday Math
 
 
-*Street light post* The post of a street light is shaped like a truncated cone, as shown in the picture below. It is a large cone minus a smaller top cone. The large cone is <span class="math-inline">30</span> feet tall with base radius <span class="math-inline">1</span> foot. The smaller cone is <span class="math-inline">10</span> feet tall with base radius of <span class="math-inline">0.5</span> feet. To the nearest tenth,
+*Street light post* The post of a street light is shaped like a truncated cone, as shown in the picture below.
+It is a large cone minus a smaller top cone.
+The large cone is <span class="math-inline">30</span> feet tall with base radius <span class="math-inline">1</span> foot.
+The smaller cone is <span class="math-inline">10</span> feet tall with base radius of <span class="math-inline">0.5</span> feet.
+To the nearest tenth,
+
 
   -
 ⓐ find the volume of the large cone.
@@ -404,54 +329,49 @@ Which has a larger volume, a cube of sides of <span class="math-inline">8</span>
 ⓑ After reviewing this checklist, what will you do to become confident for all objectives?
 
 
-<div class="prep-quiz">
 **Be Prepared!**
-
 
 Before you get started, take this readiness quiz.
 
 
 Write <span class="math-inline">35</span> miles per gallon as a unit rate.
 
-If you missed this problem, review .
+If you missed this problem, review
 
 
-<span class="math-inline"><sup>35miles</sup>∕<sub>1gallon</sub></span>
+<span class="math-inline"><sup>35miles</sup>⁄<sub>1gallon</sub></span>
 
 
-<div class="prep-quiz">
 **Be Prepared!**
 
 
 Solve <span class="math-inline">6x+24=96.</span>
 
-If you missed this problem, review .
+If you missed this problem, review
 
 
 <span class="math-inline">12</span>
 
 
-<div class="prep-quiz">
 **Be Prepared!**
 
 
 Find the simple interest earned after <span class="math-inline">5</span> years on <span class="math-inline">$1,000</span> at an interest rate of <span class="math-inline">4%.</span>
 
-If you missed this problem, review .
+If you missed this problem, review
 
 
 <span class="math-inline">$200</span>
 
 
----
-
-
----
-
 ## Use the Distance, Rate, and Time Formula
 
 
-One formula you’ll use often in algebra and in everyday life is the formula for distance traveled by an object moving at a constant speed. The basic idea is probably already familiar to you. Do you know what distance you travel if you drove at a steady rate of <span class="math-inline">60</span> miles per hour for <span class="math-inline">2</span> hours? (This might happen if you use your car’s cruise control while driving on the Interstate.) If you said <span class="math-inline">120</span> miles, you already know how to use this formula!
+One formula you’ll use often in algebra and in everyday life is the formula for distance traveled by an object moving at a constant speed.
+The basic idea is probably already familiar to you.
+Do you know what distance you travel if you drove at a steady rate of <span class="math-inline">60</span> miles per hour for <span class="math-inline">2</span> hours?
+(This might happen if you use your car’s cruise control while driving on the Interstate.) If you said <span class="math-inline">120</span> miles, you already know how to use this formula!
+
 
 The math to calculate the distance might look like this:
 
@@ -462,7 +382,6 @@ distance \\
 distance
 </div>
 
-
 In general, the formula relating distance, rate, and time is
 
 
@@ -471,8 +390,7 @@ distance = rate· time
 </div>
 
 
-<div class="definition-label">**Distance, Rate and Time**</div>
-
+**Distance, Rate and Time**
 
 For an object moving in at a uniform (constant) rate, the distance traveled, the elapsed time, and the rate are related by the formula
 
@@ -481,21 +399,18 @@ For an object moving in at a uniform (constant) rate, the distance traveled, the
 d=rt
 </div>
 
-
 where <span class="math-inline">d=</span> distance, <span class="math-inline">r=</span> rate, and <span class="math-inline">t=</span> time.
 
-Notice that the units we used above for the rate were miles per hour, which we can write as a ratio <span class="math-inline"><sup>miles</sup>∕<sub>hour</sub>.</span> Then when we multiplied by the time, in hours, the common units ‘hour’ divided out. The answer was in miles.
+Notice that the units we used above for the rate were miles per hour, which we can write as a ratio <span class="math-inline"><sup>miles</sup>⁄<sub>hour</sub>.</span> Then when we multiplied by the time, in hours, the common units ‘hour’ divided out. The answer was in miles.
 
 
-<div class="example">
 **Example**
 
 
-Jamal rides his bike at a uniform rate of <span class="math-inline">12</span> miles per hour for <span class="math-inline">3<sup>1</sup>∕<sub>2</sub></span> hours. How much distance has he traveled?
+Jamal rides his bike at a uniform rate of <span class="math-inline">12</span> miles per hour for <span class="math-inline">3<sup>1</sup>⁄<sub>2</sub></span> hours. How much distance has he traveled?
 
 
-<div class="solution">
-<span class="def-label">Solution</span>
+Solution
 
 
    Step 1. *Read* the problem.
@@ -503,7 +418,7 @@ You may want to create a mini-chart to summarize the
 information in the problem.
    <span class="math-inline">d=?</span>
 <span class="math-inline">r=12 mph</span>
-<span class="math-inline">t=3<sup>1</sup>∕<sub>2</sub> hours</span>
+<span class="math-inline">t=3<sup>1</sup>⁄<sub>2</sub> hours</span>
 
 
  Step 2. *Identify* what you are looking for.
@@ -519,7 +434,7 @@ Write the appropriate formula for the situation.
 Substitute in the given information.
  <span class="math-inline">d=rt</span>
 
-<span class="math-inline">d=12· 3<sup>1</sup>∕<sub>2</sub></span>
+<span class="math-inline">d=12· 3<sup>1</sup>⁄<sub>2</sub></span>
 
 
  Step 5. *Solve* the equation.
@@ -533,35 +448,31 @@ Substitute in the given information.
  Jamal rode 42 miles.
 
 
-<div class="tryit">
 **Try It**
 
 
-Lindsay drove for <span class="math-inline">5<sup>1</sup>∕<sub>2</sub></span> hours at <span class="math-inline">60</span> miles per hour. How much distance did she travel?
+Lindsay drove for <span class="math-inline">5<sup>1</sup>⁄<sub>2</sub></span> hours at <span class="math-inline">60</span> miles per hour. How much distance did she travel?
 
 
 330 mi
 
 
-<div class="tryit">
 **Try It**
 
 
-Trinh walked for <span class="math-inline">2<sup>1</sup>∕<sub>3</sub></span> hours at <span class="math-inline">3</span> miles per hour. How far did she walk?
+Trinh walked for <span class="math-inline">2<sup>1</sup>⁄<sub>3</sub></span> hours at <span class="math-inline">3</span> miles per hour. How far did she walk?
 
 
 7 mi
 
 
-<div class="example">
 **Example**
 
 
 Rey is planning to drive from his house in San Diego to visit his grandmother in Sacramento, a distance of <span class="math-inline">520</span> miles. If he can drive at a steady rate of <span class="math-inline">65</span> miles per hour, how many hours will the trip take?
 
 
-<div class="solution">
-<span class="def-label">Solution</span>
+Solution
 
 
    Step 1. *Read* the problem.
@@ -605,7 +516,6 @@ We know the units of time will be hours because
  Rey's trip will take 8 hours.
 
 
-<div class="tryit">
 **Try It**
 
 
@@ -615,7 +525,6 @@ Lee wants to drive from Phoenix to his brother’s apartment in San Francisco, a
 11 hours
 
 
-<div class="tryit">
 **Try It**
 
 
@@ -625,24 +534,29 @@ Yesenia is <span class="math-inline">168</span> miles from Chicago. If she needs
 56 mph
 
 
----
-
-
----
-
 ## Solve a Formula for a Specific Variable
 
 
-In this chapter, you became familiar with some formulas used in geometry. Formulas are also very useful in the sciences and social sciences—fields such as chemistry, physics, biology, psychology, sociology, and criminal justice. Healthcare workers use formulas, too, even for something as routine as dispensing medicine. The widely used spreadsheet program Microsoft ExcelTM relies on formulas to do its calculations. Many teachers use spreadsheets to apply formulas to compute student grades. It is important to be familiar with formulas and be able to manipulate them easily.
+In this chapter, you became familiar with some formulas used in geometry.
+Formulas are also very useful in the sciences and social sciences—fields such as chemistry, physics, biology, psychology, sociology, and criminal justice.
+Healthcare workers use formulas, too, even for something as routine as dispensing medicine.
+The widely used spreadsheet program Microsoft ExcelTM relies on formulas to do its calculations.
+Many teachers use spreadsheets to apply formulas to compute student grades.
+It is important to be familiar with formulas and be able to manipulate them easily.
+
 
 In  and , we used the formula <span class="math-inline">d=rt.</span> This formula gives the value of <span class="math-inline">d</span> when you substitute in the values of <span class="math-inline">r</span> and <span class="math-inline">t.</span> But in , we had to find the value of <span class="math-inline">t.</span> We substituted in values of <span class="math-inline">d</span> and <span class="math-inline">r</span> and then used algebra to solve to <span class="math-inline">t.</span> If you had to do this often, you might wonder why there isn’t a formula that gives the value of <span class="math-inline">t</span> when you substitute in the values of <span class="math-inline">d</span> and <span class="math-inline">r.</span> We can get a formula like this by solving the formula <span class="math-inline">d=rt</span> for <span class="math-inline">t.</span>
 
-*To solve a formula for a specific variable* means to get that variable by itself with a coefficient of <span class="math-inline">1</span> on one side of the equation and all the other variables and constants on the other side. We will call this solving an equation for a specific variable *in general.* This process is also called *solving a literal equation*. The result is another formula, made up only of variables. The formula contains letters, or *literals*.
+
+*To solve a formula for a specific variable* means to get that variable by itself with a coefficient of <span class="math-inline">1</span> on one side of the equation and all the other variables and constants on the other side.
+We will call this solving an equation for a specific variable *in general.* This process is also called *solving a literal equation*.
+The result is another formula, made up only of variables.
+The formula contains letters, or *literals*.
+
 
 Let’s try a few examples, starting with the distance, rate, and time formula we used above.
 
 
-<div class="example">
 **Example**
 
 
@@ -651,10 +565,7 @@ Solve the formula <span class="math-inline">d=rt</span> for <span class="math-in
   - ⓑ in general.
 
 
-<div class="solution">
-<span class="def-label">Solution</span>
-
-
+Solution
 We’ll write the solutions side-by-side so you can see that solving a formula in general uses the same steps as when we have numbers to substitute.
 
 
@@ -674,10 +585,9 @@ We’ll write the solutions side-by-side so you can see that solving a formula i
  Simplify.
 
 
-Notice that the solution for ⓐ is the same as that in . We say the formula <span class="math-inline">t=<sup>d</sup>∕<sub>r</sub></span> is solved for <span class="math-inline">t.</span> We can use this version of the formula anytime we are given the distance and rate and need to find the time.
+Notice that the solution for ⓐ is the same as that in . We say the formula <span class="math-inline">t=<sup>d</sup>⁄<sub>r</sub></span> is solved for <span class="math-inline">t.</span> We can use this version of the formula anytime we are given the distance and rate and need to find the time.
 
 
-<div class="tryit">
 **Try It**
 
 
@@ -687,10 +597,9 @@ Solve the formula <span class="math-inline">d=rt</span> for <span class="math-in
 
 
   - ⓐ <span class="math-inline">r=45</span>
-  - ⓑ <span class="math-inline">r=<sup>d</sup>∕<sub>t</sub></span>
+  - ⓑ <span class="math-inline">r=<sup>d</sup>⁄<sub>t</sub></span>
 
 
-<div class="tryit">
 **Try It**
 
 
@@ -700,22 +609,20 @@ Solve the formula <span class="math-inline">d=rt</span> for <span class="math-in
 
 
   - ⓐ <span class="math-inline">r=65</span>
-  - ⓑ <span class="math-inline">r=<sup>d</sup>∕<sub>t</sub></span>
+  - ⓑ <span class="math-inline">r=<sup>d</sup>⁄<sub>t</sub></span>
 
-We used the formula <span class="math-inline">A=<sup>1</sup>∕<sub>2</sub>bh</span> in Use Properties of Rectangles, Triangles, and Trapezoids to find the area of a triangle when we were given the base and height. In the next example, we will solve this formula for the height.
+We used the formula <span class="math-inline">A=<sup>1</sup>⁄<sub>2</sub>bh</span> in Use Properties of Rectangles, Triangles, and Trapezoids to find the area of a triangle when we were given the base and height. In the next example, we will solve this formula for the height.
 
 
-<div class="example">
 **Example**
 
 
-The formula for area of a triangle is <span class="math-inline">A=<sup>1</sup>∕<sub>2</sub>bh.</span> Solve this formula for <span class="math-inline">h:</span>
+The formula for area of a triangle is <span class="math-inline">A=<sup>1</sup>⁄<sub>2</sub>bh.</span> Solve this formula for <span class="math-inline">h:</span>
   - ⓐ when <span class="math-inline">A=90</span> and <span class="math-inline">b=15</span>
   - ⓑ in general
 
 
-<div class="solution">
-<span class="def-label">Solution</span>
+Solution
 
 
    ⓐ when *A* = 90 and *b* = 15
@@ -738,38 +645,35 @@ The formula for area of a triangle is <span class="math-inline">A=<sup>1</sup>�
 
 
 We can now find the height of a triangle, if we know the area and the base, by using the formula
-<span class="math-inline">h=<sup>2A</sup>∕<sub>b</sub></span>
+<span class="math-inline">h=<sup>2A</sup>⁄<sub>b</sub></span>
 
 
-<div class="tryit">
 **Try It**
 
 
-Use the formula <span class="math-inline">A=<sup>1</sup>∕<sub>2</sub>bh</span> to solve for <span class="math-inline">h:</span>
+Use the formula <span class="math-inline">A=<sup>1</sup>⁄<sub>2</sub>bh</span> to solve for <span class="math-inline">h:</span>
   - ⓐ when <span class="math-inline">A=170</span> and <span class="math-inline">b=17</span>
   - ⓑ in general
 
 
-  <span class="math-inline">h=20</span>  ⓑ <span class="math-inline">h=<sup>2A</sup>∕<sub>b</sub></span>
+  <span class="math-inline">h=20</span>  ⓑ <span class="math-inline">h=<sup>2A</sup>⁄<sub>b</sub></span>
 
 
-<div class="tryit">
 **Try It**
 
 
-Use the formula <span class="math-inline">A=<sup>1</sup>∕<sub>2</sub>bh</span> to solve for <span class="math-inline">b:</span>
+Use the formula <span class="math-inline">A=<sup>1</sup>⁄<sub>2</sub>bh</span> to solve for <span class="math-inline">b:</span>
   -
 ⓐ when <span class="math-inline">A=62</span> and <span class="math-inline">h=31</span>
   - ⓑ in general
 
 
   - ⓐ <span class="math-inline">b=4</span>
-  - ⓑ <span class="math-inline">b=<sup>2A</sup>∕<sub>h</sub></span>
+  - ⓑ <span class="math-inline">b=<sup>2A</sup>⁄<sub>h</sub></span>
 
 In Solve Simple Interest Applications, we used the formula <span class="math-inline">I=Prt</span> to calculate simple interest, where <span class="math-inline">I</span> is interest, <span class="math-inline">P</span> is principal, <span class="math-inline">r</span> is rate as a decimal, and <span class="math-inline">t</span> is time in years.
 
 
-<div class="example">
 **Example**
 
 
@@ -778,8 +682,7 @@ Solve the formula <span class="math-inline">I=Prt</span> to find the principal, 
   - ⓑ in general
 
 
-<div class="solution">
-<span class="def-label">Solution</span>
+Solution
 
 
    *I* = $5600, *r* = 4%, *t* = 7 years
@@ -805,7 +708,6 @@ State the answer.
 The principal is $20,000.
 
 
-<div class="tryit">
 **Try It**
 
 
@@ -814,10 +716,9 @@ Find <span class="math-inline">t:</span> ⓐ when <span class="math-inline">I=$2
 
 
   - ⓐ <span class="math-inline">t=3 years</span>
-  - ⓑ <span class="math-inline">t=<sup>I</sup>∕<sub>P r</sub></span>
+  - ⓑ <span class="math-inline">t=<sup>I</sup>⁄<sub>P r</sub></span>
 
 
-<div class="tryit">
 **Try It**
 
 
@@ -826,12 +727,13 @@ Find <span class="math-inline">r:</span> ⓐ when <span class="math-inline">I=$5
 
 
   - ⓐ <span class="math-inline">r=0.12= 12%</span>
-  - ⓑ <span class="math-inline">r=<sup>I</sup>∕<sub>P t</sub></span>
-
-Later in this class, and in future algebra classes, you’ll encounter equations that relate two variables, usually <span class="math-inline">x</span> and <span class="math-inline">y.</span> You might be given an equation that is solved for <span class="math-inline">y</span> and need to solve it for <span class="math-inline">x,</span> or vice versa. In the following example, we’re given an equation with both <span class="math-inline">x</span> and <span class="math-inline">y</span> on the same side and we’ll solve it for <span class="math-inline">y.</span> To do this, we will follow the same steps that we used to solve a formula for a specific variable.
+  - ⓑ <span class="math-inline">r=<sup>I</sup>⁄<sub>P t</sub></span>
 
 
-<div class="example">
+Later in this class, and in future algebra classes, you’ll encounter equations that relate two variables, usually <span class="math-inline">x</span> and <span class="math-inline">y.</span> You might be given an equation that is solved for <span class="math-inline">y</span> and need to solve it for <span class="math-inline">x,</span> or vice versa.
+In the following example, we’re given an equation with both <span class="math-inline">x</span> and <span class="math-inline">y</span> on the same side and we’ll solve it for <span class="math-inline">y.</span> To do this, we will follow the same steps that we used to solve a formula for a specific variable.
+
+
 **Example**
 
 
@@ -840,8 +742,7 @@ Solve the formula <span class="math-inline">3x+2y=18</span> for <span class="mat
   - ⓑ in general
 
 
-<div class="solution">
-<span class="def-label">Solution</span>
+Solution
 
 
    when *x* = 4
@@ -869,7 +770,6 @@ Divide.
 Simplify.
 
 
-<div class="tryit">
 **Try It**
 
 
@@ -879,10 +779,9 @@ Solve the formula <span class="math-inline">3x+4y=10</span> for <span class="mat
 
 
   - ⓐ <span class="math-inline">y=1</span>
-  - ⓑ <span class="math-inline">y=<sup>10-3x</sup>∕<sub>4</sub></span>
+  - ⓑ <span class="math-inline">y=<sup>10-3x</sup>⁄<sub>4</sub></span>
 
 
-<div class="tryit">
 **Try It**
 
 
@@ -892,22 +791,18 @@ Solve the formula <span class="math-inline">5x+2y=18</span> for <span class="mat
 
 
   - ⓐ <span class="math-inline">y=−1</span>
-  - ⓑ <span class="math-inline">y=<sup>18-5x</sup>∕<sub>2</sub></span>
+  - ⓑ <span class="math-inline">y=<sup>18-5x</sup>⁄<sub>2</sub></span>
 
 In the previous examples, we used the numbers in part (a) as a guide to solving in general in part (b). Do you think you’re ready to solve a formula in general without using numbers as a guide?
 
 
-<div class="example">
 **Example**
 
 
 Solve the formula <span class="math-inline">P=a+b+c</span> for <span class="math-inline">a.</span>
 
 
-<div class="solution">
-<span class="def-label">Solution</span>
-
-
+Solution
 We will isolate <span class="math-inline">a</span> on one side of the equation.
 
 
@@ -928,7 +823,6 @@ We will isolate <span class="math-inline">a</span> on one side of the equation.
 So, <span class="math-inline">a=P-b-c</span>
 
 
-<div class="tryit">
 **Try It**
 
 
@@ -938,7 +832,6 @@ Solve the formula <span class="math-inline">P=a+b+c</span> for <span class="math
 *b* = *P* − *a* − *c*
 
 
-<div class="tryit">
 **Try It**
 
 
@@ -948,17 +841,13 @@ Solve the formula <span class="math-inline">P=a+b+c</span> for <span class="math
 *c* = *P* − *a* − *b*
 
 
-<div class="example">
 **Example**
 
 
 Solve the equation <span class="math-inline">3x+y=10</span> for <span class="math-inline">y.</span>
 
 
-<div class="solution">
-<span class="def-label">Solution</span>
-
-
+Solution
 We will isolate <span class="math-inline">y</span> on one side of the equation.
 
 
@@ -976,7 +865,6 @@ We will isolate <span class="math-inline">y</span> on one side of the equation.
  <span class="math-inline">y=10-3x</span>
 
 
-<div class="tryit">
 **Try It**
 
 
@@ -986,7 +874,6 @@ Solve the formula <span class="math-inline">7x+y=11</span> for <span class="math
 *y* = 11 − 7*x*
 
 
-<div class="tryit">
 **Try It**
 
 
@@ -996,17 +883,13 @@ Solve the formula <span class="math-inline">11x+y=8</span> for <span class="math
 *y* = 8 − 11*x*
 
 
-<div class="example">
 **Example**
 
 
 Solve the equation <span class="math-inline">6x+5y=13</span> for <span class="math-inline">y.</span>
 
 
-<div class="solution">
-<span class="def-label">Solution</span>
-
-
+Solution
 We will isolate <span class="math-inline">y</span> on one side of the equation.
 
 
@@ -1028,28 +911,25 @@ Divide 5 to make the coefficient 1.
 Simplify.
 
 
-<div class="tryit">
 **Try It**
 
 
 Solve the formula <span class="math-inline">4x+7y=9</span> for <span class="math-inline">y.</span>
 
 
-<span class="math-inline">y=<sup>9-4x</sup>∕<sub>7</sub></span>
+<span class="math-inline">y=<sup>9-4x</sup>⁄<sub>7</sub></span>
 
 
-<div class="tryit">
 **Try It**
 
 
 Solve the formula <span class="math-inline">5x+8y=1</span> for <span class="math-inline">y.</span>
 
 
-<span class="math-inline">y=<sup>1-5x</sup>∕<sub>8</sub></span>
+<span class="math-inline">y=<sup>1-5x</sup>⁄<sub>8</sub></span>
 
 
-<div class="definition-label">**ACCESS ADDITIONAL ONLINE RESOURCES**</div>
-
+**ACCESS ADDITIONAL ONLINE RESOURCES**
 
 - <span class="math-inline">Distance = Rate x Time</span>
 
@@ -1062,23 +942,12 @@ Solve the formula <span class="math-inline">5x+8y=1</span> for <span class="math
 - Solving a Formula for a Specific Variable
 
 
----
-
-
----
-
 ## Key Concepts
-
 
 - *Distance, Rate, and Time*
 
   - <span class="math-inline">d=rt</span>
 
-
----
-
-
----
 
 ## Section Exercises
 
@@ -1090,22 +959,22 @@ Solve the formula <span class="math-inline">5x+8y=1</span> for <span class="math
 In the following exercises, solve.
 
 
-Steve drove for <span class="math-inline">8<sup>1</sup>∕<sub>2</sub></span> hours at <span class="math-inline">72</span> miles per hour. How much distance did he travel?
+Steve drove for <span class="math-inline">8<sup>1</sup>⁄<sub>2</sub></span> hours at <span class="math-inline">72</span> miles per hour. How much distance did he travel?
 
 
 612 mi
 
 
-Socorro drove for <span class="math-inline">4<sup>5</sup>∕<sub>6</sub></span> hours at <span class="math-inline">60</span> miles per hour. How much distance did she travel?
+Socorro drove for <span class="math-inline">4<sup>5</sup>⁄<sub>6</sub></span> hours at <span class="math-inline">60</span> miles per hour. How much distance did she travel?
 
 
-Yuki walked for <span class="math-inline">1<sup>3</sup>∕<sub>4</sub></span> hours at <span class="math-inline">4</span> miles per hour. How far did she walk?
+Yuki walked for <span class="math-inline">1<sup>3</sup>⁄<sub>4</sub></span> hours at <span class="math-inline">4</span> miles per hour. How far did she walk?
 
 
 7 mi
 
 
-Francie rode her bike for <span class="math-inline">2<sup>1</sup>∕<sub>2</sub></span> hours at <span class="math-inline">12</span> miles per hour. How far did she ride?
+Francie rode her bike for <span class="math-inline">2<sup>1</sup>⁄<sub>2</sub></span> hours at <span class="math-inline">12</span> miles per hour. How far did she ride?
 
 
 Connor wants to drive from Tucson to the Grand Canyon, a distance of <span class="math-inline">338</span> miles. If he drives at a steady rate of <span class="math-inline">52</span> miles per hour, how many hours will the trip take?
@@ -1155,7 +1024,7 @@ Solve for <span class="math-inline">t:</span>
 
 
   - ⓐ <span class="math-inline">t=5</span>
-  - ⓑ <span class="math-inline">t=<sup>d</sup>∕<sub>r</sub></span>
+  - ⓑ <span class="math-inline">t=<sup>d</sup>⁄<sub>r</sub></span>
 
 
 Solve for <span class="math-inline">t:</span>
@@ -1169,7 +1038,7 @@ Solve for <span class="math-inline">t:</span>
 
 
   - ⓐ <span class="math-inline">t=8.5</span>
-  - ⓑ <span class="math-inline">t=<sup>d</sup>∕<sub>r</sub></span>
+  - ⓑ <span class="math-inline">t=<sup>d</sup>⁄<sub>r</sub></span>
 
 
 Solve for <span class="math-inline">t:</span>
@@ -1183,7 +1052,7 @@ Solve for <span class="math-inline">r:</span>
 
 
   - ⓐ <span class="math-inline">r=68</span>
-  - ⓑ <span class="math-inline">r=<sup>d</sup>∕<sub>t</sub></span>
+  - ⓑ <span class="math-inline">r=<sup>d</sup>⁄<sub>t</sub></span>
 
 
 Solve for <span class="math-inline">r:</span>
@@ -1197,14 +1066,14 @@ Solve for <span class="math-inline">r:</span>
 
 
   - ⓐ <span class="math-inline">r=64</span>
-  - ⓑ <span class="math-inline">r=<sup>d</sup>∕<sub>t</sub></span>
+  - ⓑ <span class="math-inline">r=<sup>d</sup>⁄<sub>t</sub></span>
 
 
 Solve for <span class="math-inline">r:</span>
   - ⓐ when <span class="math-inline">d=180</span> and <span class="math-inline">t=4.5</span>
   - ⓑ in general.
 
-In the following exercises, use the formula <span class="math-inline">A=<sup>1</sup>∕<sub>2</sub>bh.</span>
+In the following exercises, use the formula <span class="math-inline">A=<sup>1</sup>⁄<sub>2</sub>bh.</span>
 
 
 Solve for <span class="math-inline">b:</span>
@@ -1213,7 +1082,7 @@ Solve for <span class="math-inline">b:</span>
 
 
   - ⓐ <span class="math-inline">b=14</span>
-  - ⓑ <span class="math-inline">b=<sup>2A</sup>∕<sub>h</sub></span>
+  - ⓑ <span class="math-inline">b=<sup>2A</sup>⁄<sub>h</sub></span>
 
 
 Solve for <span class="math-inline">h:</span>
@@ -1227,7 +1096,7 @@ Solve for <span class="math-inline">h:</span>
 
 
   - ⓐ <span class="math-inline">h=30</span>
-  - ⓑ <span class="math-inline">h=<sup>2A</sup>∕<sub>b</sub></span>
+  - ⓑ <span class="math-inline">h=<sup>2A</sup>⁄<sub>b</sub></span>
 
 
 Solve for <span class="math-inline">b:</span>
@@ -1243,7 +1112,7 @@ Solve for the principal, <span class="math-inline">P</span> for:
 
 
   - ⓐ <span class="math-inline">P=$19,571.43</span>
-  - ⓑ <span class="math-inline">P=<sup>I</sup>∕<sub>rt</sub></span>
+  - ⓑ <span class="math-inline">P=<sup>I</sup>⁄<sub>rt</sub></span>
 
 
 Solve for the principal, <span class="math-inline">P</span> for:
@@ -1257,7 +1126,7 @@ Solve for the time, <span class="math-inline">t</span> for:
 
 
   - ⓐ <span class="math-inline">t=6 years</span>
-  - ⓑ <span class="math-inline">t=<sup>I</sup>∕<sub>Pr</sub></span>
+  - ⓑ <span class="math-inline">t=<sup>I</sup>⁄<sub>Pr</sub></span>
 
 
 Solve for the time, *<span class="math-inline">t</span>* for:
@@ -1273,7 +1142,7 @@ Solve the formula <span class="math-inline">2x+3y=12</span> for <span class="mat
 
 
   - ⓐ <span class="math-inline">y=2</span>
-  - ⓑ <span class="math-inline">y=<sup>12-2x</sup>∕<sub>3</sub></span>
+  - ⓑ <span class="math-inline">y=<sup>12-2x</sup>⁄<sub>3</sub></span>
 
 
 Solve the formula <span class="math-inline">5x+2y=10</span> for <span class="math-inline">y:</span>
@@ -1334,7 +1203,7 @@ Solve the formula <span class="math-inline">-5x+y=−1</span> for <span class="m
 Solve the formula <span class="math-inline">4x+3y=7</span> for <span class="math-inline">y.</span>
 
 
-<span class="math-inline">y=<sup>7-4x</sup>∕<sub>3</sub></span>
+<span class="math-inline">y=<sup>7-4x</sup>⁄<sub>3</sub></span>
 
 
 Solve the formula <span class="math-inline">3x+2y=11</span> for <span class="math-inline">y.</span>
@@ -1352,7 +1221,7 @@ Solve the formula <span class="math-inline">x-y=−3</span> for <span class="mat
 Solve the formula <span class="math-inline">P=2L+2W</span> for <span class="math-inline">L.</span>
 
 
-<span class="math-inline">L=<sup>P-2W</sup>∕<sub>2</sub></span>
+<span class="math-inline">L=<sup>P-2W</sup>⁄<sub>2</sub></span>
 
 
 Solve the formula <span class="math-inline">P=2L+2W</span> for <span class="math-inline">W.</span>
@@ -1361,7 +1230,7 @@ Solve the formula <span class="math-inline">P=2L+2W</span> for <span class="math
 Solve the formula <span class="math-inline">C=πd</span> for <span class="math-inline">d.</span>
 
 
-<span class="math-inline">d=<sup>C</sup>∕<sub>π</sub></span>
+<span class="math-inline">d=<sup>C</sup>⁄<sub>π</sub></span>
 
 
 Solve the formula <span class="math-inline">C=πd</span> for <span class="math-inline">π.</span>
@@ -1370,7 +1239,7 @@ Solve the formula <span class="math-inline">C=πd</span> for <span class="math-i
 Solve the formula <span class="math-inline">V=LWH</span> for <span class="math-inline">L.</span>
 
 
-<span class="math-inline">L=<sup>V</sup>∕<sub>WH</sub></span>
+<span class="math-inline">L=<sup>V</sup>⁄<sub>WH</sub></span>
 
 
 Solve the formula <span class="math-inline">V=LWH</span> for <span class="math-inline">H.</span>
@@ -1379,13 +1248,13 @@ Solve the formula <span class="math-inline">V=LWH</span> for <span class="math-i
 ### Everyday Math
 
 
-*Converting temperature* While on a tour in Greece, Tatyana saw that the temperature was <span class="math-inline">40°</span> Celsius. Solve for <span class="math-inline">F</span> in the formula <span class="math-inline">C=<sup>5</sup>∕<sub>9</sub>(F-32)</span> to find the temperature in Fahrenheit.
+*Converting temperature* While on a tour in Greece, Tatyana saw that the temperature was <span class="math-inline">40°</span> Celsius. Solve for <span class="math-inline">F</span> in the formula <span class="math-inline">C=<sup>5</sup>⁄<sub>9</sub>(F-32)</span> to find the temperature in Fahrenheit.
 
 
 104° F
 
 
-*Converting temperature* Yon was visiting the United States and he saw that the temperature in Seattle was <span class="math-inline">50°</span> Fahrenheit. Solve for <span class="math-inline">C</span> in the formula <span class="math-inline">F=<sup>9</sup>∕<sub>5</sub>C+32</span> to find the temperature in Celsius.
+*Converting temperature* Yon was visiting the United States and he saw that the temperature in Seattle was <span class="math-inline">50°</span> Fahrenheit. Solve for <span class="math-inline">C</span> in the formula <span class="math-inline">F=<sup>9</sup>⁄<sub>5</sub>C+32</span> to find the temperature in Celsius.
 
 
 ### Writing Exercises
@@ -1412,81 +1281,3 @@ Solve the equation <span class="math-inline">5x-2y=10</span> for <span class="ma
 
 
 ⓑ Overall, after looking at the checklist, do you think you are well-prepared for the next Chapter? Why or why not?
-
-</div>
-
-</div>
-
-</div>
-
-</div>
-
-</div>
-
-</div>
-
-</div>
-
-</div>
-
-</div>
-
-</div>
-
-</div>
-
-</div>
-
-</div>
-
-</div>
-
-</div>
-
-</div>
-
-</div>
-
-</div>
-
-</div>
-
-</div>
-
-</div>
-
-</div>
-
-</div>
-
-</div>
-
-</div>
-
-</div>
-
-</div>
-
-</div>
-
-</div>
-
-</div>
-
-</div>
-
-</div>
-
-</div>
-
-</div>
-
-</div>
-
-</div>
-
-</div>
-
-</div>
-
-</div>

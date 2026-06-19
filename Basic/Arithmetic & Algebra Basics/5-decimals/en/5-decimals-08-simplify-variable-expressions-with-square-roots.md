@@ -1,81 +1,8 @@
-<style>
-.math-inline {
-    font-style: italic;
-    padding: 2px 6px;
-    border-radius: 4px;
-    background: #f8f9fa;
-    font-family: Georgia, serif;
-}
-.math-display {
-    background: #f8f9fa;
-    border-left: 4px solid #4a90d9;
-    padding: 16px 20px;
-    margin: 16px 0;
-    border-radius: 6px;
-    font-size: 1.15em;
-    font-family: Georgia, serif;
-    text-align: center;
-    line-height: 2;
-    overflow-x: auto;
-}
-.example-box, .example {
-    background: #f0f8ff;
-    border-left: 4px solid #2e86de;
-    padding: 12px 20px;
-    margin: 16px 0;
-    border-radius: 6px;
-}
-.tryit-box, .tryit {
-    background: #f0fff4;
-    border-left: 4px solid #27ae60;
-    padding: 12px 20px;
-    margin: 16px 0;
-    border-radius: 6px;
-}
-.solution-box, .solution {
-    background: #fef9e7;
-    border-left: 4px solid #f39c12;
-    padding: 12px 20px;
-    margin: 12px 0;
-    border-radius: 6px;
-}
-.check-box, .check {
-    background: #fef9e7;
-    border-left: 4px solid #f39c12;
-    padding: 12px 20px;
-    margin: 12px 0;
-    border-radius: 6px;
-}
-.prep-quiz {
-    background: #fff3cd;
-    border: 1px solid #ffc107;
-    padding: 12px 20px;
-    margin: 16px 0;
-    border-radius: 6px;
-}
-.def-label, .definition-label {
-    font-weight: bold;
-    font-size: 1.1em;
-    margin: 20px 0 8px 0;
-    color: #2c3e50;
-    display: block;
-}
-.math-display sup, .math-inline sup { font-size: 0.75em; line-height: 0; }
-.math-display sub, .math-inline sub { font-size: 0.75em; line-height: 0; }
-</style>
-
-
----
-
-
----
-
 ## Simplify Variable Expressions with Square Roots
-
 
 Expressions with square root that we have looked at so far have not had any variables. What happens when we have to find a square root of a variable expression?
 
-Consider <span class="math-inline">√{9x<sup>2</sup>,</span> where <span class="math-inline">x≥ 0.</span> Can you think of an expression whose square is <span class="math-inline">9x<sup>2</sup>?</span>
+Consider <span class="math-inline">√9x<sup>2</sup>,</span> where <span class="math-inline">x≥ 0.</span> Can you think of an expression whose square is <span class="math-inline">9x<sup>2</sup>?</span>
 
 
 <div class="math-display">
@@ -83,178 +10,152 @@ Consider <span class="math-inline">√{9x<sup>2</sup>,</span> where <span class=
 (3x)<sup>2</sup> & = & 9
 </div>
 
-
 When we use a variable in a square root expression, for our work, we will assume that the variable represents a non-negative number. In every example and exercise that follows, each variable in a square root expression is greater than or equal to zero.
 
 
-<div class="example">
 **Example**
 
 
-Simplify: <span class="math-inline">√{x<sup>2</sup>.</span>
+Simplify: <span class="math-inline">√x<sup>2</sup>.</span>
 
 
-<div class="solution">
-<span class="def-label">Solution</span>
-
-
+Solution
 Think about what we would have to square to get <span class="math-inline">x<sup>2</sup></span>. Algebraically, <span class="math-inline">(?)<sup>2</sup>=x<sup>2</sup></span>
 
 
- <span class="math-inline">√{x<sup>2</sup></span>
+ <span class="math-inline">√x<sup>2</sup></span>
 
 
  Since <span class="math-inline">(x)<sup>2</sup>=x<sup>2</sup></span>
  <span class="math-inline">x</span>
 
 
-<div class="tryit">
 **Try It**
 
 
-Simplify: <span class="math-inline">√{y<sup>2</sup>.</span>
+Simplify: <span class="math-inline">√y<sup>2</sup>.</span>
 
 
 *y*
 
 
-<div class="tryit">
 **Try It**
 
 
-Simplify: <span class="math-inline">√{m<sup>2</sup>.</span>
+Simplify: <span class="math-inline">√m<sup>2</sup>.</span>
 
 
 *m*
 
 
-<div class="example">
 **Example**
 
 
-Simplify: <span class="math-inline">√{16x<sup>2</sup>.</span>
+Simplify: <span class="math-inline">√16x<sup>2</sup>.</span>
 
 
-<div class="solution">
-<span class="def-label">Solution</span>
+Solution
 
 
- <span class="math-inline">√{16}</span>
+ <span class="math-inline">√16</span>
 
 
  <span class="math-inline">Since (4x)<sup>2</sup>=16x<sup>2</sup></span>
  <span class="math-inline">4x</span>
 
 
-<div class="tryit">
 **Try It**
 
 
-Simplify: <span class="math-inline">√{64x<sup>2</sup>.</span>
+Simplify: <span class="math-inline">√64x<sup>2</sup>.</span>
 
 
 8*x*
 
 
-<div class="tryit">
 **Try It**
 
 
-Simplify: <span class="math-inline">√{169y<sup>2</sup>.</span>
+Simplify: <span class="math-inline">√169y<sup>2</sup>.</span>
 
 
 13*y*
 
 
-<div class="example">
 **Example**
 
 
-Simplify: <span class="math-inline">-√{81y<sup>2</sup>.</span>
+Simplify: <span class="math-inline">-√81y<sup>2</sup>.</span>
 
 
-<div class="solution">
-<span class="def-label">Solution</span>
+Solution
 
 
- <span class="math-inline">-√{81}</span>
+ <span class="math-inline">-√81</span>
 
 
  <span class="math-inline">Since (9y)<sup>2</sup>=81y<sup>2</sup></span>
  <span class="math-inline">-9y</span>
 
 
-<div class="tryit">
 **Try It**
 
 
-Simplify: <span class="math-inline">-√{121y<sup>2</sup>.</span>
+Simplify: <span class="math-inline">-√121y<sup>2</sup>.</span>
 
 
 −11*y*
 
 
-<div class="tryit">
 **Try It**
 
 
-Simplify: <span class="math-inline">-√{100p<sup>2</sup>.</span>
+Simplify: <span class="math-inline">-√100p<sup>2</sup>.</span>
 
 
 −10*p*
 
 
-<div class="example">
 **Example**
 
 
-Simplify: <span class="math-inline">√{36x<sup>2</sup>y<sup>2</sup>.</span>
+Simplify: <span class="math-inline">√36x<sup>2</sup>y<sup>2</sup>.</span>
 
 
-<div class="solution">
-<span class="def-label">Solution</span>
+Solution
 
 
- <span class="math-inline">√{36}</span>
+ <span class="math-inline">√36</span>
 
 
  <span class="math-inline">Since (6xy)<sup>2</sup>=36x<sup>2</sup>y<sup>2</sup></span>
  <span class="math-inline">6xy</span>
 
 
-<div class="tryit">
 **Try It**
 
 
-Simplify: <span class="math-inline">√{100a<sup>2</sup>b<sup>2</sup>.</span>
+Simplify: <span class="math-inline">√100a<sup>2</sup>b<sup>2</sup>.</span>
 
 
 10*ab*
 
 
-<div class="tryit">
 **Try It**
 
 
-Simplify: <span class="math-inline">√{225m<sup>2</sup>n<sup>2</sup>.</span>
+Simplify: <span class="math-inline">√225m<sup>2</sup>n<sup>2</sup>.</span>
 
 
 15*mn*
 
 
----
-
-
----
-
 ## Use Square Roots in Applications
-
 
 As you progress through your college courses, you’ll encounter several applications of square roots. Once again, if we use our strategy for applications, it will give us a plan for finding the answer!
 
 
-<div class="definition-label">**Use a strategy for applications with square roots.**</div>
-
+**Use a strategy for applications with square roots.**
 
 - Identify what you are asked to find.
 
@@ -271,21 +172,17 @@ As you progress through your college courses, you’ll encounter several applica
 
 We have solved applications with **area** before. If we were given the length of the sides of a square, we could find its area by squaring the length of its sides. Now we can find the length of the sides of a square if we are given the area, by finding the square root of the area.
 
-If the area of the square is <span class="math-inline">A</span> square units, the length of a side is <span class="math-inline">√{A}</span> units. See .
+If the area of the square is <span class="math-inline">A</span> square units, the length of a side is <span class="math-inline">√A</span> units. See .
 
 
-<div class="example">
 **Example**
 
 
 Mike and Lychelle want to make a square patio. They have enough concrete for an area of <span class="math-inline">200</span> square feet. To the nearest tenth of a foot, how long can a side of their square patio be?
 
 
-<div class="solution">
-<span class="def-label">Solution</span>
-
-
-We know the area of the square is <span class="math-inline">200</span> square feet and want to find the length of the side. If the area of the square is <span class="math-inline">A</span> square units, the length of a side is <span class="math-inline">√{A}</span> units.
+Solution
+We know the area of the square is <span class="math-inline">200</span> square feet and want to find the length of the side. If the area of the square is <span class="math-inline">A</span> square units, the length of a side is <span class="math-inline">√A</span> units.
 
 
  What are you asked to find?
@@ -297,11 +194,11 @@ We know the area of the square is <span class="math-inline">200</span> square fe
 
 
  Translate to an expression.
- <span class="math-inline">√{A}</span>
+ <span class="math-inline">√A</span>
 
 
- Evaluate <span class="math-inline">√{A}</span> when <span class="math-inline">A=200</span>.
- <span class="math-inline">√{200}</span>
+ Evaluate <span class="math-inline">√A</span> when <span class="math-inline">A=200</span>.
+ <span class="math-inline">√200</span>
 
 
  Use your calculator.
@@ -316,7 +213,6 @@ Write a sentence.
 Each side of the patio should be <span class="math-inline">14.1</span> feet.
 
 
-<div class="tryit">
 **Try It**
 
 
@@ -326,7 +222,6 @@ Katie wants to plant a square lawn in her front yard. She has enough sod to cove
 19.2 feet
 
 
-<div class="tryit">
 **Try It**
 
 
@@ -338,14 +233,16 @@ Sergio wants to make a square mosaic as an inlay for a table he is building. He 
 
 ### Square Roots and Gravity
 
-Another application of **square root**s involves **gravity**. On Earth, if an object is dropped from a height of <span class="math-inline">h</span> feet, the time in seconds it will take to reach the ground is found by evaluating the expression <span class="math-inline">\frac√{h}{4}.</span> For example, if an object is dropped from a height of <span class="math-inline">64</span> feet, we can find the time it takes to reach the ground by evaluating <span class="math-inline">\frac√{64}{4}.</span>
+
+Another application of **square root**s involves **gravity**.
+On Earth, if an object is dropped from a height of <span class="math-inline">h</span> feet, the time in seconds it will take to reach the ground is found by evaluating the expression <span class="math-inline"><sup>√h</sup>⁄<sub>4</sub>.</span> For example, if an object is dropped from a height of <span class="math-inline">64</span> feet, we can find the time it takes to reach the ground by evaluating <span class="math-inline"><sup>√64</sup>⁄<sub>4</sub>.</span>
 
 
- <span class="math-inline">\frac√{64}{4}</span>
+ <span class="math-inline"><sup>√64</sup>⁄<sub>4</sub></span>
 
 
  Take the square root of 64.
- <span class="math-inline"><sup>8</sup>∕<sub>4</sub></span>
+ <span class="math-inline"><sup>8</sup>⁄<sub>4</sub></span>
 
 
  Simplify the fraction.
@@ -355,15 +252,13 @@ Another application of **square root**s involves **gravity**. On Earth, if an ob
 It would take <span class="math-inline">2</span> seconds for an object dropped from a height of <span class="math-inline">64</span> feet to reach the ground.
 
 
-<div class="example">
 **Example**
 
 
 Christy dropped her sunglasses from a bridge <span class="math-inline">400</span> feet above a river. How many seconds does it take for the sunglasses to reach the river?
 
 
-<div class="solution">
-<span class="def-label">Solution</span>
+Solution
 
 
  What are you asked to find?
@@ -375,15 +270,15 @@ Christy dropped her sunglasses from a bridge <span class="math-inline">400</span
 
 
  Translate to an expression.
- <span class="math-inline">\frac√{h}{4}</span>
+ <span class="math-inline"><sup>√h</sup>⁄<sub>4</sub></span>
 
 
- Evaluate <span class="math-inline">\frac√{h}{4}</span> when <span class="math-inline">h=400</span>.
- <span class="math-inline">\frac√{400}{4}</span>
+ Evaluate <span class="math-inline"><sup>√h</sup>⁄<sub>4</sub></span> when <span class="math-inline">h=400</span>.
+ <span class="math-inline"><sup>√400</sup>⁄<sub>4</sub></span>
 
 
  Find the square root of 400.
- <span class="math-inline"><sup>20</sup>∕<sub>4</sub></span>
+ <span class="math-inline"><sup>20</sup>⁄<sub>4</sub></span>
 
 
 Simplify.
@@ -394,7 +289,6 @@ Write a sentence.
 It will take 5 seconds for the sunglasses to reach the river.
 
 
-<div class="tryit">
 **Try It**
 
 
@@ -404,7 +298,6 @@ A helicopter drops a rescue package from a height of <span class="math-inline">1
 9 seconds
 
 
-<div class="tryit">
 **Try It**
 
 
@@ -416,18 +309,19 @@ A window washer drops a squeegee from a platform <span class="math-inline">196</
 
 ### Square Roots and Accident Investigations
 
-Police officers investigating car accidents measure the length of the skid marks on the pavement. Then they use square roots to determine the speed, in miles per hour, a car was going before applying the brakes. According to some formulas, if the length of the skid marks is <span class="math-inline">d</span> feet, then the speed of the car can be found by evaluating <span class="math-inline">√{24d}.</span>
+
+Police officers investigating car accidents measure the length of the skid marks on the pavement.
+Then they use square roots to determine the speed, in miles per hour, a car was going before applying the brakes.
+According to some formulas, if the length of the skid marks is <span class="math-inline">d</span> feet, then the speed of the car can be found by evaluating <span class="math-inline">√24d.</span>
 
 
-<div class="example">
 **Example**
 
 
 After a car accident, the skid marks for one car measured <span class="math-inline">190</span> feet. To the nearest tenth, what was the speed of the car (in mph) before the brakes were applied?
 
 
-<div class="solution">
-<span class="def-label">Solution</span>
+Solution
 
 
  What are you asked to find?
@@ -439,15 +333,15 @@ After a car accident, the skid marks for one car measured <span class="math-inli
 
 
  Translate to an expression.
- <span class="math-inline">√{24}</span>
+ <span class="math-inline">√24</span>
 
 
- Evaluate<span class="math-inline">√{24}</span>when<span class="math-inline">d=190.</span>
- <span class="math-inline">√{24}</span>
+ Evaluate<span class="math-inline">√24</span>when<span class="math-inline">d=190.</span>
+ <span class="math-inline">√24</span>
 
 
  Multiply.
- <span class="math-inline">√{4,560}</span>
+ <span class="math-inline">√4,560</span>
 
 
 Use your calculator.
@@ -462,7 +356,6 @@ Write a sentence.
 The speed of the car was approximately 67.5 miles per hour.
 
 
-<div class="tryit">
 **Try It**
 
 
@@ -472,7 +365,6 @@ An accident investigator measured the skid marks of a car and found their length
 42.7 mph
 
 
-<div class="tryit">
 **Try It**
 
 
@@ -482,25 +374,18 @@ The skid marks of a vehicle involved in an accident were <span class="math-inlin
 54.1 mph
 
 
-<div class="definition-label">**ACCESS ADDITIONAL ONLINE RESOURCES**</div>
-
+**ACCESS ADDITIONAL ONLINE RESOURCES**
 
 - Introduction to Square Roots
 
 - Estimating Square Roots with a Calculator
 
 
----
-
-
----
-
 ## Key Concepts
 
+- *Square Root Notation* <span class="math-inline">√m</span> is read ‘the square root of <span class="math-inline">m</span>’
 
-- *Square Root Notation* <span class="math-inline">√{m}</span> is read ‘the square root of <span class="math-inline">m</span>’
-
-If <span class="math-inline">m=n<sup>2</sup></span>, then <span class="math-inline">√{m}=n</span>, for <span class="math-inline">n≥ 0</span>.
+If <span class="math-inline">m=n<sup>2</sup></span>, then <span class="math-inline">√m=n</span>, for <span class="math-inline">n≥ 0</span>.
 
 
 - *Use a strategy for applications with square roots.*
@@ -512,11 +397,6 @@ If <span class="math-inline">m=n<sup>2</sup></span>, then <span class="math-inli
   - Write a complete sentence that answers the question.
 
 
----
-
-
----
-
 ## Section Exercises
 
 
@@ -527,76 +407,76 @@ If <span class="math-inline">m=n<sup>2</sup></span>, then <span class="math-inli
 In the following exercises, simplify.
 
 
-<span class="math-inline">√{36}</span>
+<span class="math-inline">√36</span>
 
 
 6
 
 
-<span class="math-inline">√{4}</span>
+<span class="math-inline">√4</span>
 
 
-<span class="math-inline">√{64}</span>
+<span class="math-inline">√64</span>
 
 
 8
 
 
-<span class="math-inline">√{144}</span>
+<span class="math-inline">√144</span>
 
 
-<span class="math-inline">-√{4}</span>
+<span class="math-inline">-√4</span>
 
 
 −2
 
 
-<span class="math-inline">-√{100}</span>
+<span class="math-inline">-√100</span>
 
 
-<span class="math-inline">-√{1}</span>
+<span class="math-inline">-√1</span>
 
 
 −1
 
 
-<span class="math-inline">-√{121}</span>
+<span class="math-inline">-√121</span>
 
 
-<span class="math-inline">√−121}</span>
-
-
-not a real number
-
-
-<span class="math-inline">√−36}</span>
-
-
-<span class="math-inline">√−9}</span>
+<span class="math-inline">√−121</span>
 
 
 not a real number
 
 
-<span class="math-inline">√−49}</span>
+<span class="math-inline">√−36</span>
 
 
-<span class="math-inline">√{9+16}</span>
+<span class="math-inline">√−9</span>
+
+
+not a real number
+
+
+<span class="math-inline">√−49</span>
+
+
+<span class="math-inline">√9+16</span>
 
 
 5
 
 
-<span class="math-inline">√{25+144}</span>
+<span class="math-inline">√25+144</span>
 
 
-<span class="math-inline">√{9}+√{16}</span>
+<span class="math-inline">√9+√16</span>
 
 
 7
 
 
-<span class="math-inline">√{25}+√{144}</span>
+<span class="math-inline">√25+√144</span>
 
 
 *Estimate Square Roots*
@@ -604,22 +484,22 @@ not a real number
 In the following exercises, estimate each square root between two consecutive whole numbers.
 
 
-<span class="math-inline">√{70}</span>
+<span class="math-inline">√70</span>
 
 
-<span class="math-inline">8<√{70}<9</span>
+<span class="math-inline">8<√70<9</span>
 
 
-<span class="math-inline">√{55}</span>
+<span class="math-inline">√55</span>
 
 
-<span class="math-inline">√{200}</span>
+<span class="math-inline">√200</span>
 
 
-<span class="math-inline">14<√{200}<15</span>
+<span class="math-inline">14<√200<15</span>
 
 
-<span class="math-inline">√{172}</span>
+<span class="math-inline">√172</span>
 
 
 *Approximate Square Roots with a Calculator*
@@ -627,22 +507,22 @@ In the following exercises, estimate each square root between two consecutive wh
 In the following exercises, use a calculator to approximate each square root and round to two decimal places.
 
 
-<span class="math-inline">√{19}</span>
+<span class="math-inline">√19</span>
 
 
 4.36
 
 
-<span class="math-inline">√{21}</span>
+<span class="math-inline">√21</span>
 
 
-<span class="math-inline">√{53}</span>
+<span class="math-inline">√53</span>
 
 
 7.28
 
 
-<span class="math-inline">√{47}</span>
+<span class="math-inline">√47</span>
 
 
 *Simplify Variable Expressions with Square Roots*
@@ -650,40 +530,40 @@ In the following exercises, use a calculator to approximate each square root and
 In the following exercises, simplify. (Assume all variables are greater than or equal to zero.)
 
 
-<span class="math-inline">√{y<sup>2</sup></span>
+<span class="math-inline">√y<sup>2</sup></span>
 
 
 *y*
 
 
-<span class="math-inline">√{b<sup>2</sup></span>
+<span class="math-inline">√b<sup>2</sup></span>
 
 
-<span class="math-inline">√{49x<sup>2</sup></span>
+<span class="math-inline">√49x<sup>2</sup></span>
 
 
 7*x*
 
 
-<span class="math-inline">√{100y<sup>2</sup></span>
+<span class="math-inline">√100y<sup>2</sup></span>
 
 
-<span class="math-inline">-√{64a<sup>2</sup></span>
+<span class="math-inline">-√64a<sup>2</sup></span>
 
 
 −8*a*
 
 
-<span class="math-inline">-√{25x<sup>2</sup></span>
+<span class="math-inline">-√25x<sup>2</sup></span>
 
 
-<span class="math-inline">√{144x<sup>2</sup>y<sup>2</sup></span>
+<span class="math-inline">√144x<sup>2</sup>y<sup>2</sup></span>
 
 
 12*xy*
 
 
-<span class="math-inline">√{196a<sup>2</sup>b<sup>2</sup></span>
+<span class="math-inline">√196a<sup>2</sup>b<sup>2</sup></span>
 
 
 *Use Square Roots in Applications*
@@ -748,13 +628,13 @@ In the following exercises, solve. Round to one decimal place.
 ### Writing Exercises
 
 
-Why is there no real number equal to <span class="math-inline">√−64}?</span>
+Why is there no real number equal to <span class="math-inline">√−64?</span>
 
 
-What is the difference between <span class="math-inline">9<sup>2</sup></span> and <span class="math-inline">√{9}?</span>
+What is the difference between <span class="math-inline">9<sup>2</sup></span> and <span class="math-inline">√9?</span>
 
 
-Answers will vary. 92 reads: “nine squared” and means nine times itself. The expression <span class="math-inline">√{9}</span> reads: “the square root of nine” which gives us the number such that if it were multiplied by itself would give you the number inside of the square root.
+Answers will vary. 92 reads: “nine squared” and means nine times itself. The expression <span class="math-inline">√9</span> reads: “the square root of nine” which gives us the number such that if it were multiplied by itself would give you the number inside of the square root.
 
 
 ### Self Check
@@ -765,13 +645,7 @@ Answers will vary. 92 reads: “nine squared” and means nine times itself. The
 ⓑ Overall, after looking at the checklist, do you think you are well-prepared for the next Chapter? Why or why not?
 
 
----
-
-
----
-
 ## Chapter Review Exercises
-
 
 *Name Decimals*
 
@@ -848,7 +722,7 @@ In the following exercises, convert each decimal to a fraction. Simplify the ans
 <span class="math-inline">0.825</span>
 
 
-<span class="math-inline"><sup>33</sup>∕<sub>40</sub></span>
+<span class="math-inline"><sup>33</sup>⁄<sub>40</sub></span>
 
 
 <span class="math-inline">9.7</span>
@@ -857,7 +731,7 @@ In the following exercises, convert each decimal to a fraction. Simplify the ans
 <span class="math-inline">3.64</span>
 
 
-<span class="math-inline">3<sup>16</sup>∕<sub>25</sub></span>
+<span class="math-inline">3<sup>16</sup>⁄<sub>25</sub></span>
 
 
 *Locate Decimals on the Number Line*
@@ -1026,28 +900,28 @@ $1.79
 In the following exercises, convert each fraction to a decimal.
 
 
-<span class="math-inline"><sup>3</sup>∕<sub>5</sub></span>
+<span class="math-inline"><sup>3</sup>⁄<sub>5</sub></span>
 
 
-<span class="math-inline"><sup>7</sup>∕<sub>8</sub></span>
+<span class="math-inline"><sup>7</sup>⁄<sub>8</sub></span>
 
 
 0.875
 
 
-<span class="math-inline">-<sup>19</sup>∕<sub>20</sub></span>
+<span class="math-inline">-<sup>19</sup>⁄<sub>20</sub></span>
 
 
-<span class="math-inline">-<sup>21</sup>∕<sub>4</sub></span>
+<span class="math-inline">-<sup>21</sup>⁄<sub>4</sub></span>
 
 
 −5.25
 
 
-<span class="math-inline"><sup>1</sup>∕<sub>3</sub></span>
+<span class="math-inline"><sup>1</sup>⁄<sub>3</sub></span>
 
 
-<span class="math-inline"><sup>6</sup>∕<sub>11</sub></span>
+<span class="math-inline"><sup>6</sup>⁄<sub>11</sub></span>
 
 
 <span class="math-inline">0.54<sup>—</sup></span>
@@ -1058,28 +932,28 @@ In the following exercises, convert each fraction to a decimal.
 In the following exercises, order each pair of numbers, using <span class="math-inline"><</span> or <span class="math-inline">>.</span>
 
 
-<span class="math-inline"><sup>1</sup>∕<sub>2</sub>__<sub>0</sub>.2</span>
+<span class="math-inline"><sup>1</sup>⁄<sub>2</sub>__<sub>0</sub>.2</span>
 
 
-<span class="math-inline"><sup>3</sup>∕<sub>5</sub>__<sub>0</sub>.</span>
-
-
->
-
-
-<span class="math-inline">-<sup>7</sup>∕<sub>8</sub>___−0.84</span>
-
-
-<span class="math-inline">-<sup>5</sup>∕<sub>12</sub>___−0.42</span>
+<span class="math-inline"><sup>3</sup>⁄<sub>5</sub>__<sub>0</sub>.</span>
 
 
 >
 
 
-<span class="math-inline">0.625___<sup>13</sup>∕<sub>20</sub></span>
+<span class="math-inline">-<sup>7</sup>⁄<sub>8</sub>___−0.84</span>
 
 
-<span class="math-inline">0.33___<sup>5</sup>∕<sub>16</sub></span>
+<span class="math-inline">-<sup>5</sup>⁄<sub>12</sub>___−0.42</span>
+
+
+>
+
+
+<span class="math-inline">0.625___<sup>13</sup>⁄<sub>20</sub></span>
+
+
+<span class="math-inline">0.33___<sup>5</sup>⁄<sub>16</sub></span>
 
 
 >
@@ -1088,13 +962,13 @@ In the following exercises, order each pair of numbers, using <span class="math-
 In the following exercises, write each set of numbers in order from least to greatest.
 
 
-<span class="math-inline"><sup>2</sup>∕<sub>3</sub>,<sup>17</sup>∕<sub>20</sub>,0.65</span>
+<span class="math-inline"><sup>2</sup>⁄<sub>3</sub>,<sup>17</sup>⁄<sub>20</sub>,0.65</span>
 
 
-<span class="math-inline"><sup>7</sup>∕<sub>9</sub>,0.75,<sup>11</sup>∕<sub>15</sub></span>
+<span class="math-inline"><sup>7</sup>⁄<sub>9</sub>,0.75,<sup>11</sup>⁄<sub>15</sub></span>
 
 
-<span class="math-inline"><sup>11</sup>∕<sub>15</sub>,0.75,<sup>7</sup>∕<sub>9</sub></span>
+<span class="math-inline"><sup>11</sup>⁄<sub>15</sub>,0.75,<sup>7</sup>⁄<sub>9</sub></span>
 
 
 *Simplify Expressions Using the Order of Operations*
@@ -1105,7 +979,7 @@ In the following exercises, simplify
 <span class="math-inline">4(10.3-5.8)</span>
 
 
-<span class="math-inline"><sup>3</sup>∕<sub>4</sub>(15.44-7.4)</span>
+<span class="math-inline"><sup>3</sup>⁄<sub>4</sub>(15.44-7.4)</span>
 
 
 6.03
@@ -1114,7 +988,7 @@ In the following exercises, simplify
 <span class="math-inline">30÷ (0.45+0.15)</span>
 
 
-<span class="math-inline">1.6+<sup>3</sup>∕<sub>8</sub></span>
+<span class="math-inline">1.6+<sup>3</sup>⁄<sub>8</sub></span>
 
 
 1.975
@@ -1123,7 +997,7 @@ In the following exercises, simplify
 <span class="math-inline">52(0.5)+(0.4)<sup>2</sup></span>
 
 
-<span class="math-inline">-<sup>2</sup>∕<sub>5</sub>· <sup>9</sup>∕<sub>10</sub>+0.14</span>
+<span class="math-inline">-<sup>2</sup>⁄<sub>5</sub>· <sup>9</sup>⁄<sub>10</sub>+0.14</span>
 
 
 −0.22
@@ -1144,7 +1018,7 @@ In the following exercises, approximate the ⓐ circumference and ⓑ area of ea
   - ⓑ 38.465 sq.ft.
 
 
-<span class="math-inline">radius=<sup>7</sup>∕<sub>33</sub> m</span>
+<span class="math-inline">radius=<sup>7</sup>⁄<sub>33</sub> m</span>
 
 
 <span class="math-inline">diameter=11 cm</span>
@@ -1171,7 +1045,7 @@ In the following exercises, determine whether the each number is a solution of t
   - ⓑ yes
 
 
-<span class="math-inline"><sup>u</sup>∕<sub>2.5</sub>=−12.5</span>
+<span class="math-inline"><sup>u</sup>⁄<sub>2.5</sub>=−12.5</span>
 ⓐ <span class="math-inline">u=−5</span>ⓑ <span class="math-inline">u=−31.25</span>
 
 
@@ -1226,16 +1100,16 @@ In the following exercises, solve.
 <span class="math-inline">−22.32=−2.4z</span>
 
 
-<span class="math-inline"><sup>a</sup>∕<sub>0.3</sub>=−24</span>
+<span class="math-inline"><sup>a</sup>⁄<sub>0.3</sub>=−24</span>
 
 
 *a* = −7.2
 
 
-<span class="math-inline"><sup>p</sup>∕<sub>−7</sub>=−4.2</span>
+<span class="math-inline"><sup>p</sup>⁄<sub>−7</sub>=−4.2</span>
 
 
-<span class="math-inline"><sup>s</sup>∕<sub>−2.5</sub>=−10</span>
+<span class="math-inline"><sup>s</sup>⁄<sub>−2.5</sub>=−10</span>
 
 
 *s* = 25
@@ -1335,7 +1209,7 @@ The Sustainability Club sells <span class="math-inline">200</span> tickets to a 
 Luc has to read <span class="math-inline">3</span> novels and <span class="math-inline">12</span> short stories for his literature class. The professor will choose one reading at random for the final exam. Find the probability that the professor will choose a novel for the final exam. Express your answer as a fraction and as a decimal.
 
 
-<span class="math-inline"><sup>1</sup>∕<sub>5</sub>; 0.2</span>
+<span class="math-inline"><sup>1</sup>⁄<sub>5</sub>; 0.2</span>
 
 
 *Write a Ratio as a Fraction*
@@ -1349,7 +1223,7 @@ In the following exercises, write each ratio as a fraction. Simplify the answer 
 <span class="math-inline">56</span> to <span class="math-inline">32</span>
 
 
-<span class="math-inline"><sup>7</sup>∕<sub>4</sub></span>
+<span class="math-inline"><sup>7</sup>⁄<sub>4</sub></span>
 
 
 <span class="math-inline">3.5</span> to <span class="math-inline">0.5</span>
@@ -1358,16 +1232,16 @@ In the following exercises, write each ratio as a fraction. Simplify the answer 
 <span class="math-inline">1.2</span> to <span class="math-inline">1.8</span>
 
 
-<span class="math-inline"><sup>2</sup>∕<sub>3</sub></span>
+<span class="math-inline"><sup>2</sup>⁄<sub>3</sub></span>
 
 
-<span class="math-inline">1<sup>3</sup>∕<sub>4</sub> to 1<sup>5</sup>∕<sub>8</sub></span>
+<span class="math-inline">1<sup>3</sup>⁄<sub>4</sub> to 1<sup>5</sup>⁄<sub>8</sub></span>
 
 
-<span class="math-inline">2<sup>1</sup>∕<sub>3</sub> to 5<sup>1</sup>∕<sub>4</sub></span>
+<span class="math-inline">2<sup>1</sup>⁄<sub>3</sub> to 5<sup>1</sup>⁄<sub>4</sub></span>
 
 
-<span class="math-inline"><sup>4</sup>∕<sub>9</sub></span>
+<span class="math-inline"><sup>4</sup>⁄<sub>9</sub></span>
 
 
 <span class="math-inline">64</span> ounces to <span class="math-inline">30</span> ounces
@@ -1376,7 +1250,7 @@ In the following exercises, write each ratio as a fraction. Simplify the answer 
 <span class="math-inline">28</span> inches to <span class="math-inline">3</span> feet
 
 
-<span class="math-inline"><sup>7</sup>∕<sub>9</sub></span>
+<span class="math-inline"><sup>7</sup>⁄<sub>9</sub></span>
 
 
 *Write a Rate as a Fraction*
@@ -1390,7 +1264,7 @@ In the following exercises, write each rate as a fraction. Simplify the answer i
 <span class="math-inline">90</span> pounds per <span class="math-inline">7.5</span> square inches
 
 
-<span class="math-inline"><sup>12 pounds</sup>∕<sub>1 square inch</sub></span>
+<span class="math-inline"><sup>12 pounds</sup>⁄<sub>1 square inch</sub></span>
 
 
 <span class="math-inline">126</span> miles in <span class="math-inline">4</span> hours
@@ -1399,7 +1273,7 @@ In the following exercises, write each rate as a fraction. Simplify the answer i
 <span class="math-inline">$612.50</span> for <span class="math-inline">35</span> hours
 
 
-<span class="math-inline"><sup>$35</sup>∕<sub>2 hours</sub></span>
+<span class="math-inline"><sup>$35</sup>⁄<sub>2 hours</sub></span>
 
 
 *Find Unit Rates*
@@ -1471,7 +1345,7 @@ In the following exercises, translate the English phrase into an algebraic expre
 <span class="math-inline">a</span> adults to <span class="math-inline">45</span> children
 
 
-<span class="math-inline"><sup>a adults</sup>∕<sub>45 children</sub></span>
+<span class="math-inline"><sup>a adults</sup>⁄<sub>45 children</sub></span>
 
 
 the ratio of <span class="math-inline">4y</span> and the difference of <span class="math-inline">x</span> and <span class="math-inline">10</span>
@@ -1480,7 +1354,7 @@ the ratio of <span class="math-inline">4y</span> and the difference of <span cla
 the ratio of <span class="math-inline">19</span> and the sum of <span class="math-inline">3</span> and <span class="math-inline">n</span>
 
 
-<span class="math-inline"><sup>19</sup>∕<sub>3+n</sub></span>
+<span class="math-inline"><sup>19</sup>⁄<sub>3+n</sub></span>
 
 
 *Simplify Expressions with Square Roots*
@@ -1488,37 +1362,37 @@ the ratio of <span class="math-inline">19</span> and the sum of <span class="mat
 In the following exercises, simplify.
 
 
-<span class="math-inline">√{64}</span>
+<span class="math-inline">√64</span>
 
 
-<span class="math-inline">√{144}</span>
+<span class="math-inline">√144</span>
 
 
 12
 
 
-<span class="math-inline">-√{25}</span>
+<span class="math-inline">-√25</span>
 
 
-<span class="math-inline">-√{81}</span>
+<span class="math-inline">-√81</span>
 
 
 −9
 
 
-<span class="math-inline">√−9}</span>
+<span class="math-inline">√−9</span>
 
 
-<span class="math-inline">√−36}</span>
+<span class="math-inline">√−36</span>
 
 
 not a real number
 
 
-<span class="math-inline">√{64}+√{225}</span>
+<span class="math-inline">√64+√225</span>
 
 
-<span class="math-inline">√{64+225}</span>
+<span class="math-inline">√64+225</span>
 
 
 17
@@ -1529,13 +1403,13 @@ not a real number
 In the following exercises, estimate each square root between two consecutive whole numbers.
 
 
-<span class="math-inline">√{28}</span>
+<span class="math-inline">√28</span>
 
 
-<span class="math-inline">√{155}</span>
+<span class="math-inline">√155</span>
 
 
-<span class="math-inline">12<√{155}<13</span>
+<span class="math-inline">12<√155<13</span>
 
 
 *Approximate Square Roots*
@@ -1543,10 +1417,10 @@ In the following exercises, estimate each square root between two consecutive wh
 In the following exercises, approximate each square root and round to two decimal places.
 
 
-<span class="math-inline">√{15}</span>
+<span class="math-inline">√15</span>
 
 
-<span class="math-inline">√{57}</span>
+<span class="math-inline">√57</span>
 
 
 7.55
@@ -1557,37 +1431,37 @@ In the following exercises, approximate each square root and round to two decima
 In the following exercises, simplify. (Assume all variables are greater than or equal to zero.)
 
 
-<span class="math-inline">√{q<sup>2</sup></span>
+<span class="math-inline">√q<sup>2</sup></span>
 
 
-<span class="math-inline">√{64b<sup>2</sup></span>
+<span class="math-inline">√64b<sup>2</sup></span>
 
 
 8*b*
 
 
-<span class="math-inline">-√{121a<sup>2</sup></span>
+<span class="math-inline">-√121a<sup>2</sup></span>
 
 
-<span class="math-inline">√{225m<sup>2</sup>n<sup>2</sup></span>
+<span class="math-inline">√225m<sup>2</sup>n<sup>2</sup></span>
 
 
 15*mn*
 
 
-<span class="math-inline">-√{100q<sup>2</sup></span>
+<span class="math-inline">-√100q<sup>2</sup></span>
 
 
-<span class="math-inline">√{49y<sup>2</sup></span>
+<span class="math-inline">√49y<sup>2</sup></span>
 
 
 7*y*
 
 
-<span class="math-inline">√{4a<sup>2</sup>b<sup>2</sup></span>
+<span class="math-inline">√4a<sup>2</sup>b<sup>2</sup></span>
 
 
-<span class="math-inline">√{121c<sup>2</sup>d<sup>2</sup></span>
+<span class="math-inline">√121c<sup>2</sup>d<sup>2</sup></span>
 
 
 11*cd*
@@ -1614,59 +1488,3 @@ In the following exercises, solve. Round to one decimal place.
 
 
 72 mph
-
-</div>
-
-</div>
-
-</div>
-
-</div>
-
-</div>
-
-</div>
-
-</div>
-
-</div>
-
-</div>
-
-</div>
-
-</div>
-
-</div>
-
-</div>
-
-</div>
-
-</div>
-
-</div>
-
-</div>
-
-</div>
-
-</div>
-
-</div>
-
-</div>
-
-</div>
-
-</div>
-
-</div>
-
-</div>
-
-</div>
-
-</div>
-
-</div>

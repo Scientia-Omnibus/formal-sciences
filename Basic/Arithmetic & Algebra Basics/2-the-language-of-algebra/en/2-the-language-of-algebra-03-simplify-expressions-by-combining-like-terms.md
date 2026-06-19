@@ -1,91 +1,27 @@
-<style>
-.math-inline {
-    font-style: italic;
-    padding: 2px 6px;
-    border-radius: 4px;
-    background: #f8f9fa;
-    font-family: Georgia, serif;
-}
-.math-display {
-    background: #f8f9fa;
-    border-left: 4px solid #4a90d9;
-    padding: 16px 20px;
-    margin: 16px 0;
-    border-radius: 6px;
-    font-size: 1.15em;
-    font-family: Georgia, serif;
-    text-align: center;
-    line-height: 2;
-    overflow-x: auto;
-}
-.example-box, .example {
-    background: #f0f8ff;
-    border-left: 4px solid #2e86de;
-    padding: 12px 20px;
-    margin: 16px 0;
-    border-radius: 6px;
-}
-.tryit-box, .tryit {
-    background: #f0fff4;
-    border-left: 4px solid #27ae60;
-    padding: 12px 20px;
-    margin: 16px 0;
-    border-radius: 6px;
-}
-.solution-box, .solution {
-    background: #fef9e7;
-    border-left: 4px solid #f39c12;
-    padding: 12px 20px;
-    margin: 12px 0;
-    border-radius: 6px;
-}
-.check-box, .check {
-    background: #fef9e7;
-    border-left: 4px solid #f39c12;
-    padding: 12px 20px;
-    margin: 12px 0;
-    border-radius: 6px;
-}
-.prep-quiz {
-    background: #fff3cd;
-    border: 1px solid #ffc107;
-    padding: 12px 20px;
-    margin: 16px 0;
-    border-radius: 6px;
-}
-.def-label, .definition-label {
-    font-weight: bold;
-    font-size: 1.1em;
-    margin: 20px 0 8px 0;
-    color: #2c3e50;
-    display: block;
-}
-.math-display sup, .math-inline sup { font-size: 0.75em; line-height: 0; }
-.math-display sub, .math-inline sub { font-size: 0.75em; line-height: 0; }
-</style>
-
-
----
-
-
----
-
 ## Simplify Expressions by Combining Like Terms
-
 
 We can simplify an expression by combining the **like terms**. What do you think <span class="math-inline">3x+6x</span> would simplify to? If you thought <span class="math-inline">9x,</span> you would be right!
 
 We can see why this works by writing both terms as addition problems.
 
-Add the **coefficients** and keep the same variable. It doesn’t matter what <span class="math-inline">x</span> is. If you have <span class="math-inline">3</span> of something and add <span class="math-inline">6</span> more of the same thing, the result is <span class="math-inline">9</span> of them. For example, <span class="math-inline">3</span> oranges plus <span class="math-inline">6</span> oranges is <span class="math-inline">9</span> oranges. We will discuss the mathematical properties behind this later.
 
-The expression <span class="math-inline">3x+6x</span> has only two terms. When an expression contains more terms, it may be helpful to rearrange the terms so that like terms are together. The **Commutative Property of Addition** says that we can change the order of addends without changing the sum. So we could rearrange the following expression before combining like terms.
+Add the **coefficients** and keep the same variable.
+It doesn’t matter what <span class="math-inline">x</span> is.
+If you have <span class="math-inline">3</span> of something and add <span class="math-inline">6</span> more of the same thing, the result is <span class="math-inline">9</span> of them.
+For example, <span class="math-inline">3</span> oranges plus <span class="math-inline">6</span> oranges is <span class="math-inline">9</span> oranges.
+We will discuss the mathematical properties behind this later.
+
+
+The expression <span class="math-inline">3x+6x</span> has only two terms.
+When an expression contains more terms, it may be helpful to rearrange the terms so that like terms are together.
+The **Commutative Property of Addition** says that we can change the order of addends without changing the sum.
+So we could rearrange the following expression before combining like terms.
+
 
 Now it is easier to see the like terms to be combined.
 
 
-<div class="definition-label">**Combine like terms.**</div>
-
+**Combine like terms.**
 
 -  Identify like terms.
 
@@ -94,15 +30,13 @@ Now it is easier to see the like terms to be combined.
 -  Add the coefficients of the like terms.
 
 
-<div class="example">
 **Example**
 
 
 Simplify the expression: <span class="math-inline">3x+7+4x+5.</span>
 
 
-<div class="solution">
-<span class="def-label">Solution</span>
+Solution
 
 
     Identify the like terms.
@@ -117,7 +51,6 @@ Simplify the expression: <span class="math-inline">3x+7+4x+5.</span>
     The original expression is simplified to...
 
 
-<div class="tryit">
 **Try It**
 
 
@@ -128,7 +61,6 @@ Simplify:
 16*x* + 17
 
 
-<div class="tryit">
 **Try It**
 
 
@@ -142,15 +74,13 @@ Simplify:
 When any of the terms have negative coefficients, the procedure is the same, except that you have to subtract instead of adding to combine like terms.
 
 
-<div class="example">
 **Example**
 
 
 Simplify the expression: <span class="math-inline">7x<sup>2</sup>+8x-x<sup>2</sup>-4x.</span>
 
 
-<div class="solution">
-<span class="def-label">Solution</span>
+Solution
 
 
     Identify the like terms.
@@ -165,7 +95,6 @@ Simplify the expression: <span class="math-inline">7x<sup>2</sup>+8x-x<sup>2</su
 These are not like terms and cannot be combined. So <span class="math-inline">6x<sup>2</sup>+4x</span> is in simplest form.
 
 
-<div class="tryit">
 **Try It**
 
 
@@ -176,7 +105,6 @@ Simplify:
 4*x*2 + 14*x*
 
 
-<div class="tryit">
 **Try It**
 
 
@@ -187,13 +115,7 @@ Simplify:
 12*y*2 + 15*y*
 
 
----
-
-
----
-
 ## Translate Words to Algebraic Expressions
-
 
 In the previous section, we listed many operation symbols that are used in algebra, and then we translated expressions and equations into word phrases and sentences. Now we’ll reverse the process and translate word phrases into algebraic expressions. The symbols and variables we’ve talked about will help us do that. They are summarized in .
 
@@ -211,7 +133,6 @@ Look closely at these phrases using the four operations:
 Each phrase tells you to operate on two numbers. Look for the words **of** and **and** to find the numbers.
 
 
-<div class="example">
 **Example**
 
 
@@ -224,22 +145,18 @@ Translate each word phrase into an algebraic expression:
 ⓑ the quotient of <span class="math-inline">10x</span> and <span class="math-inline">3</span>
 
 
-<div class="solution">
-<span class="def-label">Solution</span>
-
-
-ⓐ The key word is *difference*, which tells us the operation is subtraction. Look for the words *of* and *and* to find the numbers to subtract.\(\\
+Solution
+ⓐ The key word is *difference*, which tells us the operation is subtraction. Look for the words *of* and *and* to find the numbers to subtract.<span class="math-inline">\\
 the difference \\
 20 \\
-20\)
-ⓑ The key word is *quotient*, which tells us the operation is division.\(\\
+20</span>
+ⓑ The key word is *quotient*, which tells us the operation is division.<span class="math-inline">\\
 the quotient of \\
 divide \\
-10\)
-This can also be written as <span class="math-inline">10x/3 or <sup>10x</sup>∕<sub>3</sub></span>
+10</span>
+This can also be written as <span class="math-inline">10x/3 or <sup>10x</sup>⁄<sub>3</sub></span>
 
 
-<div class="tryit">
 **Try It**
 
 
@@ -258,7 +175,6 @@ Translate the given word phrase into an algebraic expression:
 ⓑ 5*x* ÷ 2
 
 
-<div class="tryit">
 **Try It**
 
 
@@ -283,7 +199,6 @@ How old will you be in eight years? What age is eight more years than your age n
 How old were you seven years ago? This is seven years less than your age now. You subtract <span class="math-inline">7</span> from your present age. Seven *less than* means seven subtracted from your present age.
 
 
-<div class="example">
 **Example**
 
 
@@ -296,19 +211,15 @@ Translate each word phrase into an algebraic expression:
 ⓑ Seven less than <span class="math-inline">9z</span>
 
 
-<div class="solution">
-<span class="def-label">Solution</span>
-
-
-ⓐ The key words are *more than*. They tell us the operation is addition. *More than* means “added to”.\(Eight more than \\
+Solution
+ⓐ The key words are *more than*. They tell us the operation is addition. *More than* means “added to”.<span class="math-inline">Eight more than \\
 Eight added to \\
-y\)
-ⓑ The key words are *less than*. They tell us the operation is subtraction. *Less than* means “subtracted from”.\(Seven less than \\
+y</span>
+ⓑ The key words are *less than*. They tell us the operation is subtraction. *Less than* means “subtracted from”.<span class="math-inline">Seven less than \\
 Seven subtracted from \\
-9\)
+9</span>
 
 
-<div class="tryit">
 **Try It**
 
 
@@ -328,7 +239,6 @@ Translate each word phrase into an algebraic expression:
 ⓑ 11*a* − 14
 
 
-<div class="tryit">
 **Try It**
 
 
@@ -348,7 +258,6 @@ Translate each word phrase into an algebraic expression:
 ⓑ 2*x* − 21
 
 
-<div class="example">
 **Example**
 
 
@@ -361,20 +270,19 @@ Translate each word phrase into an algebraic expression:
 ⓑ the sum of five times <span class="math-inline">m</span> and <span class="math-inline">n</span>
 
 
-<div class="solution">
-<span class="def-label">Solution</span>
+Solution
+
+ⓐ There are two operation words: *times* tells us to multiply and *sum* tells us to add.
+Because we are multiplying <span class="math-inline">5</span> times the sum, we need parentheses around the sum of <span class="math-inline">m</span> and <span class="math-inline">n.</span>five times the sum of <span class="math-inline">m</span> and <span class="math-inline">n</span>
 
 
-ⓐ There are two operation words: *times* tells us to multiply and *sum* tells us to add. Because we are multiplying <span class="math-inline">5</span> times the sum, we need parentheses around the sum of <span class="math-inline">m</span> and <span class="math-inline">n.</span>five times the sum of <span class="math-inline">m</span> and <span class="math-inline">n</span>
+<span class="math-inline">\\
+ \\</span>ⓑ To take a sum, we look for the words *of* and *and* to see what is being added. Here we are taking the sum *of* five times <span class="math-inline">m</span> and <span class="math-inline">n.</span>the sum of five times <span class="math-inline">m</span> and <span class="math-inline">n</span>
 
-\(\\
- \\\)ⓑ To take a sum, we look for the words *of* and *and* to see what is being added. Here we are taking the sum *of* five times <span class="math-inline">m</span> and <span class="math-inline">n.</span>the sum of five times <span class="math-inline">m</span> and <span class="math-inline">n</span>
-
-\(\\
- \\\)Notice how the use of parentheses changes the result. In part ⓐ , we add first and in part ⓑ , we multiply first.
+<span class="math-inline">\\
+ \\</span>Notice how the use of parentheses changes the result. In part ⓐ , we add first and in part ⓑ , we multiply first.
 
 
-<div class="tryit">
 **Try It**
 
 
@@ -396,7 +304,6 @@ the sum of four times <span class="math-inline">p</span> and <span class="math-i
 ⓐ 4*p* + *q*
 
 
-<div class="tryit">
 **Try It**
 
 
@@ -422,15 +329,13 @@ two times the difference of <span class="math-inline">x and 8</span>
 Later in this course, we’ll apply our skills in algebra to solving equations. We’ll usually start by translating a word phrase to an **algebraic expression**. We’ll need to be clear about what the expression will represent. We’ll see how to do this in the next two examples.
 
 
-<div class="example">
 **Example**
 
 
 The height of a rectangular window is <span class="math-inline">6</span> inches less than the width. Let <span class="math-inline">w</span> represent the width of the window. Write an expression for the height of the window.
 
 
-<div class="solution">
-<span class="def-label">Solution</span>
+Solution
 
 
     Write a phrase about the height.
@@ -449,7 +354,6 @@ The height of a rectangular window is <span class="math-inline">6</span> inches 
     <span class="math-inline">w-6</span>
 
 
-<div class="tryit">
 **Try It**
 
 
@@ -459,7 +363,6 @@ The length of a rectangle is <span class="math-inline">5</span> inches less than
 *w* − 5
 
 
-<div class="tryit">
 **Try It**
 
 
@@ -469,15 +372,13 @@ The width of a rectangle is <span class="math-inline">2</span> meters greater th
 *l* + 2
 
 
-<div class="example">
 **Example**
 
 
 Blanca has dimes and quarters in her purse. The number of dimes is <span class="math-inline">2</span> less than <span class="math-inline">5</span> times the number of quarters. Let <span class="math-inline">q</span> represent the number of quarters. Write an expression for the number of dimes.
 
 
-<div class="solution">
-<span class="def-label">Solution</span>
+Solution
 
 
     Write a phrase about the number of dimes.
@@ -496,7 +397,6 @@ Blanca has dimes and quarters in her purse. The number of dimes is <span class="
     <span class="math-inline">5q-2</span>
 
 
-<div class="tryit">
 **Try It**
 
 
@@ -506,7 +406,6 @@ Geoffrey has dimes and quarters in his pocket. The number of dimes is seven less
 6*q* − 7
 
 
-<div class="tryit">
 **Try It**
 
 
@@ -516,19 +415,12 @@ Lauren has dimes and nickels in her purse. The number of dimes is eight more tha
 4*n* + 8
 
 
-<div class="definition-label">**ACCESS ADDITIONAL ONLINE RESOURCES**</div>
-
+**ACCESS ADDITIONAL ONLINE RESOURCES**
 
 - Algebraic Expression Vocabulary
 
 
----
-
-
----
-
 ## Key Concepts
-
 
 - *Combine like terms.*
 
@@ -909,13 +801,15 @@ Jeannette has <span class="math-inline">$5</span> and <span class="math-inline">
 In the following exercises, use algebraic expressions to solve the problem.
 
 
-*Car insurance* Justin’s car insurance has a <span class="math-inline">$750</span> deductible per incident. This means that he pays <span class="math-inline">$750</span> and his insurance company will pay all costs beyond <span class="math-inline">$750.</span> If Justin files a claim for <span class="math-inline">$2,100,</span> how much will he pay, and how much will his insurance company pay?
+*Car insurance* Justin’s car insurance has a <span class="math-inline">$750</span> deductible per incident.
+This means that he pays <span class="math-inline">$750</span> and his insurance company will pay all costs beyond <span class="math-inline">$750.</span> If Justin files a claim for <span class="math-inline">$2,100,</span> how much will he pay, and how much will his insurance company pay?
 
 
 He will pay $750. His insurance company will pay $1350.
 
 
-*Home insurance* Pam and Armando’s home insurance has a <span class="math-inline">$2,500</span> deductible per incident. This means that they pay <span class="math-inline">$2,500</span> and their insurance company will pay all costs beyond <span class="math-inline">$2,500.</span> If Pam and Armando file a claim for <span class="math-inline">$19,400,</span> how much will they pay, and how much will their insurance company pay?
+*Home insurance* Pam and Armando’s home insurance has a <span class="math-inline">$2,500</span> deductible per incident.
+This means that they pay <span class="math-inline">$2,500</span> and their insurance company will pay all costs beyond <span class="math-inline">$2,500.</span> If Pam and Armando file a claim for <span class="math-inline">$19,400,</span> how much will they pay, and how much will their insurance company pay?
 
 
 ### Writing Exercises
@@ -935,64 +829,64 @@ Explain the difference between <span class="math-inline">“4</span> times the s
 ⓑ After reviewing this checklist, what will you do to become confident for all objectives?
 
 
-<div class="prep-quiz">
 **Be Prepared!**
-
 
 Before you get started, take this readiness quiz.
 
 
 <span class="math-inline">Evaluate x+8 when x=11.</span>
-If you missed this problem, review .
+If you missed this problem, review
 
 
 <span class="math-inline">19</span>
 
 
-<div class="prep-quiz">
 **Be Prepared!**
 
 
 <span class="math-inline">Evaluate 5x-3 when x=9.</span>
-If you missed this problem, review .
+If you missed this problem, review
 
 
 <span class="math-inline">42</span>
 
 
-<div class="prep-quiz">
 **Be Prepared!**
 
 
 Translate into algebra: the difference of <span class="math-inline">x</span> and <span class="math-inline">8.</span>
-If you missed this problem, review .
+If you missed this problem, review
 
 
 <span class="math-inline">x-8</span>
 
 
-When some people hear the word *algebra*, they think of solving equations. The applications of solving equations are limitless and extend to all careers and fields. In this section, we will begin solving equations. We will start by solving basic equations, and then as we proceed through the course we will build up our skills to cover many different forms of equations.
+When some people hear the word *algebra*, they think of solving equations.
+The applications of solving equations are limitless and extend to all careers and fields.
+In this section, we will begin solving equations.
+We will start by solving basic equations, and then as we proceed through the course we will build up our skills to cover many different forms of equations.
 
-
----
-
-
----
 
 ## Determine Whether a Number is a Solution of an Equation
 
 
-Solving an equation is like discovering the answer to a puzzle. An algebraic equation states that two algebraic expressions are equal. To solve an equation is to determine the values of the variable that make the equation a true statement. Any number that makes the equation true is called a **solution** of the equation. It is the answer to the puzzle!
+Solving an equation is like discovering the answer to a puzzle.
+An algebraic equation states that two algebraic expressions are equal.
+To solve an equation is to determine the values of the variable that make the equation a true statement.
+Any number that makes the equation true is called a **solution** of the equation.
+It is the answer to the puzzle!
 
 
-<div class="definition-label">**Solution of an Equation**</div>
-
+**Solution of an Equation**
 
 A **solution to an equation** is a value of a variable that makes a true statement when substituted into the equation.
 
 The process of finding the solution to an equation is called solving the equation.
 
-To find the solution to an equation means to find the value of the variable that makes the equation true. Can you recognize the solution of <span class="math-inline">x+2=7?</span> If you said <span class="math-inline">5,</span> you’re right! We say <span class="math-inline">5</span> is a solution to the equation <span class="math-inline">x+2=7</span> because when we substitute <span class="math-inline">5</span> for <span class="math-inline">x</span> the resulting statement is true.
+
+To find the solution to an equation means to find the value of the variable that makes the equation true.
+Can you recognize the solution of <span class="math-inline">x+2=7?</span> If you said <span class="math-inline">5,</span> you’re right!
+We say <span class="math-inline">5</span> is a solution to the equation <span class="math-inline">x+2=7</span> because when we substitute <span class="math-inline">5</span> for <span class="math-inline">x</span> the resulting statement is true.
 
 
 <div class="math-display">
@@ -1002,14 +896,12 @@ x \\
  \\
 </div>
 
-
 Since <span class="math-inline">5+2=7</span> is a true statement, we know that <span class="math-inline">5</span> is indeed a solution to the equation.
 
 The symbol <span class="math-inline">=<sup>?</sup></span> asks whether the left side of the equation is equal to the right side. Once we know, we can change to an equal sign <span class="math-inline">(=)</span> or not-equal sign <span class="math-inline">(≠).</span>
 
 
-<div class="definition-label">**Determine whether a number is a solution to an equation.**</div>
-
+**Determine whether a number is a solution to an equation.**
 
 - Substitute the number for the variable in the equation.
 
@@ -1021,15 +913,13 @@ The symbol <span class="math-inline">=<sup>?</sup></span> asks whether the left 
   - If it is not true, the number is not a solution.
 
 
-<div class="example">
 **Example**
 
 
 <span class="math-inline">Determine whether x=5 is a solution of 6x-17=16.</span>
 
 
-<div class="solution">
-<span class="def-label">Solution</span>
+Solution
 
 
     Multiply.
@@ -1041,7 +931,6 @@ The symbol <span class="math-inline">=<sup>?</sup></span> asks whether the left 
 So <span class="math-inline">x=5</span> is not a solution to the equation <span class="math-inline">6x-17=16.</span>
 
 
-<div class="tryit">
 **Try It**
 
 
@@ -1051,7 +940,6 @@ So <span class="math-inline">x=5</span> is not a solution to the equation <span 
 no
 
 
-<div class="tryit">
 **Try It**
 
 
@@ -1061,17 +949,13 @@ no
 yes
 
 
-<div class="example">
 **Example**
 
 
 <span class="math-inline">Determine whether y=2 is a solution of 6y-4=5y-2.</span>
 
 
-<div class="solution">
-<span class="def-label">Solution</span>
-
-
+Solution
 Here, the variable appears on both sides of the equation. We must substitute <span class="math-inline">2</span> for each <span class="math-inline">y.</span>
 
 
@@ -1084,7 +968,6 @@ Here, the variable appears on both sides of the equation. We must substitute <sp
 Since <span class="math-inline">y=2</span> results in a true equation, we know that <span class="math-inline">2</span> is a solution to the equation <span class="math-inline">6y-4=5y-2.</span>
 
 
-<div class="tryit">
 **Try It**
 
 
@@ -1094,7 +977,6 @@ Since <span class="math-inline">y=2</span> results in a true equation, we know t
 yes
 
 
-<div class="tryit">
 **Try It**
 
 
@@ -1102,81 +984,3 @@ yes
 
 
 yes
-
-</div>
-
-</div>
-
-</div>
-
-</div>
-
-</div>
-
-</div>
-
-</div>
-
-</div>
-
-</div>
-
-</div>
-
-</div>
-
-</div>
-
-</div>
-
-</div>
-
-</div>
-
-</div>
-
-</div>
-
-</div>
-
-</div>
-
-</div>
-
-</div>
-
-</div>
-
-</div>
-
-</div>
-
-</div>
-
-</div>
-
-</div>
-
-</div>
-
-</div>
-
-</div>
-
-</div>
-
-</div>
-
-</div>
-
-</div>
-
-</div>
-
-</div>
-
-</div>
-
-</div>
-
-</div>

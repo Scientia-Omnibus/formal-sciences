@@ -1,90 +1,15 @@
-<style>
-.math-inline {
-    font-style: italic;
-    padding: 2px 6px;
-    border-radius: 4px;
-    background: #f8f9fa;
-    font-family: Georgia, serif;
-}
-.math-display {
-    background: #f8f9fa;
-    border-left: 4px solid #4a90d9;
-    padding: 16px 20px;
-    margin: 16px 0;
-    border-radius: 6px;
-    font-size: 1.15em;
-    font-family: Georgia, serif;
-    text-align: center;
-    line-height: 2;
-    overflow-x: auto;
-}
-.example-box, .example {
-    background: #f0f8ff;
-    border-left: 4px solid #2e86de;
-    padding: 12px 20px;
-    margin: 16px 0;
-    border-radius: 6px;
-}
-.tryit-box, .tryit {
-    background: #f0fff4;
-    border-left: 4px solid #27ae60;
-    padding: 12px 20px;
-    margin: 16px 0;
-    border-radius: 6px;
-}
-.solution-box, .solution {
-    background: #fef9e7;
-    border-left: 4px solid #f39c12;
-    padding: 12px 20px;
-    margin: 12px 0;
-    border-radius: 6px;
-}
-.check-box, .check {
-    background: #fef9e7;
-    border-left: 4px solid #f39c12;
-    padding: 12px 20px;
-    margin: 12px 0;
-    border-radius: 6px;
-}
-.prep-quiz {
-    background: #fff3cd;
-    border: 1px solid #ffc107;
-    padding: 12px 20px;
-    margin: 16px 0;
-    border-radius: 6px;
-}
-.def-label, .definition-label {
-    font-weight: bold;
-    font-size: 1.1em;
-    margin: 20px 0 8px 0;
-    color: #2c3e50;
-    display: block;
-}
-.math-display sup, .math-inline sup { font-size: 0.75em; line-height: 0; }
-.math-display sub, .math-inline sub { font-size: 0.75em; line-height: 0; }
-</style>
-
-
----
-
-
----
-
 ## Multiply a Polynomial by a Monomial
-
 
 In Distributive Property you learned to use the **Distributive Property** to simplify expressions such as <span class="math-inline">2(x-3).</span> You multiplied both terms in the parentheses, <span class="math-inline">x and 3,</span> by <span class="math-inline">2,</span> to get <span class="math-inline">2x-6.</span> With this chapter's new vocabulary, you can say you were multiplying a binomial, <span class="math-inline">x-3,</span> by a monomial, <span class="math-inline">2.</span> Multiplying a binomial by a monomial is nothing new for you!
 
 
-<div class="example">
 **Example**
 
 
 Multiply: <span class="math-inline">3(x+7).</span>
 
 
-<div class="solution">
-<span class="def-label">Solution</span>
+Solution
 
 
    <span class="math-inline">3(x+7)</span>
@@ -100,7 +25,6 @@ Multiply: <span class="math-inline">3(x+7).</span>
    <span class="math-inline">3x+21</span>
 
 
-<div class="tryit">
 **Try It**
 
 
@@ -110,7 +34,6 @@ Multiply: <span class="math-inline">6(x+8).</span>
 6*x* + 48
 
 
-<div class="tryit">
 **Try It**
 
 
@@ -120,15 +43,13 @@ Multiply: <span class="math-inline">2(y+12).</span>
 2*y* + 24
 
 
-<div class="example">
 **Example**
 
 
 Multiply: <span class="math-inline">x(x-8).</span>
 
 
-<div class="solution">
-<span class="def-label">Solution</span>
+Solution
 
 
    Distribute.
@@ -137,7 +58,6 @@ Multiply: <span class="math-inline">x(x-8).</span>
    Simplify.
 
 
-<div class="tryit">
 **Try It**
 
 
@@ -147,7 +67,6 @@ Multiply: <span class="math-inline">y(y-9).</span>
 *y*2 − 9*y*
 
 
-<div class="tryit">
 **Try It**
 
 
@@ -157,15 +76,13 @@ Multiply: <span class="math-inline">p(p-13).</span>
 *p*2 − 13*p*
 
 
-<div class="example">
 **Example**
 
 
 Multiply: <span class="math-inline">10x(4x+y).</span>
 
 
-<div class="solution">
-<span class="def-label">Solution</span>
+Solution
 
 
    Distribute.
@@ -174,7 +91,6 @@ Multiply: <span class="math-inline">10x(4x+y).</span>
    Simplify.
 
 
-<div class="tryit">
 **Try It**
 
 
@@ -184,7 +100,6 @@ Multiply: <span class="math-inline">8x(x+3y).</span>
 8*x*2 + 24*xy*
 
 
-<div class="tryit">
 **Try It**
 
 
@@ -197,15 +112,13 @@ Multiply: <span class="math-inline">3r(6r+s).</span>
 Multiplying a monomial by a **trinomial** works in much the same way.
 
 
-<div class="example">
 **Example**
 
 
 Multiply: <span class="math-inline">−2x(5x<sup>2</sup>+7x-3).</span>
 
 
-<div class="solution">
-<span class="def-label">Solution</span>
+Solution
 
 
    <span class="math-inline">−2x(5x<sup>2</sup>+7x-3)</span>
@@ -220,7 +133,6 @@ Multiply: <span class="math-inline">−2x(5x<sup>2</sup>+7x-3).</span>
    <span class="math-inline">−10x<sup>3</sup>-14x<sup>2</sup>+6x</span>
 
 
-<div class="tryit">
 **Try It**
 
 
@@ -230,7 +142,6 @@ Multiply: <span class="math-inline">−4y(8y<sup>2</sup>+5y-9).</span>
 −32*y*3 − 20*y*2 + 36*y*
 
 
-<div class="tryit">
 **Try It**
 
 
@@ -240,15 +151,13 @@ Multiply: <span class="math-inline">−6x(9x<sup>2</sup>+x-1).</span>
 −54*x*3 − 6*x*2 + 6*x*
 
 
-<div class="example">
 **Example**
 
 
 Multiply: <span class="math-inline">4y<sup>3</sup>(y<sup>2</sup>-8y+1).</span>
 
 
-<div class="solution">
-<span class="def-label">Solution</span>
+Solution
 
 
 <span class="math-inline">4y<sup>3</sup>(y<sup>2</sup>-8y+1)</span>
@@ -264,7 +173,6 @@ Simplify.
 <span class="math-inline">4y<sup>5</sup>-32y<sup>4</sup>+4y<sup>3</sup></span>
 
 
-<div class="tryit">
 **Try It**
 
 
@@ -274,7 +182,6 @@ Multiply: <span class="math-inline">3x<sup>2</sup>(4x<sup>2</sup>-3x+9).</span>
 12*x*4 − 9*x*3 + 27*x*2
 
 
-<div class="tryit">
 **Try It**
 
 
@@ -287,15 +194,13 @@ Multiply: <span class="math-inline">8y<sup>2</sup>(3y<sup>2</sup>-2y-4).</span>
 Now we will have the **monomial** as the second factor.
 
 
-<div class="example">
 **Example**
 
 
 Multiply: <span class="math-inline">(x+3)p.</span>
 
 
-<div class="solution">
-<span class="def-label">Solution</span>
+Solution
 
 
    <span class="math-inline">(x+3)p</span>
@@ -310,7 +215,6 @@ Multiply: <span class="math-inline">(x+3)p.</span>
    <span class="math-inline">xp+3p</span>
 
 
-<div class="tryit">
 **Try It**
 
 
@@ -320,7 +224,6 @@ Multiply: <span class="math-inline">(x+8)p.</span>
 *xp* + 8*p*
 
 
-<div class="tryit">
 **Try It**
 
 
@@ -330,13 +233,7 @@ Multiply: <span class="math-inline">(a+4)p.</span>
 *ap* + 4*p*
 
 
----
-
-
----
-
 ## Multiply a Binomial by a Binomial
-
 
 Just like there are different ways to represent multiplication of numbers, there are several methods that can be used to multiply a binomial times a binomial.
 
@@ -352,22 +249,20 @@ Be careful to distinguish between a sum and a product.
 
 
 <div class="math-display">
-Sum &  &  & Product \\
-x+x &  &  & x· x \\
-2x &  &  & x<sup>2</sup> \\
-combine like terms &  &  & add exponents of like bases
+Sum & & & Product \\
+x+x & & & x· x \\
+2x & & & x<sup>2</sup> \\
+combine like terms & & & add exponents of like bases
 </div>
 
 
-<div class="example">
 **Example**
 
 
 Multiply: <span class="math-inline">(x+6)(x+8).</span>
 
 
-<div class="solution">
-<span class="def-label">Solution</span>
+Solution
 
 
    <span class="math-inline">(x+6)(x+8)</span>
@@ -383,7 +278,6 @@ Multiply: <span class="math-inline">(x+6)(x+8).</span>
    <span class="math-inline">x<sup>2</sup>+14x+48</span>
 
 
-<div class="tryit">
 **Try It**
 
 
@@ -393,7 +287,6 @@ Multiply: <span class="math-inline">(x+8)(x+9).</span>
 *x*2 + 17*x* + 72
 
 
-<div class="tryit">
 **Try It**
 
 
@@ -406,15 +299,13 @@ Multiply: <span class="math-inline">(a+4)(a+5).</span>
 Now we'll see how to multiply binomials where the variable has a **coefficient**.
 
 
-<div class="example">
 **Example**
 
 
 Multiply: <span class="math-inline">(2x+9)(3x+4).</span>
 
 
-<div class="solution">
-<span class="def-label">Solution</span>
+Solution
 
 
    <span class="math-inline">(2x+9)(3x+4)</span>
@@ -429,7 +320,6 @@ Multiply: <span class="math-inline">(2x+9)(3x+4).</span>
    <span class="math-inline">6x<sup>2</sup>+35x+36</span>
 
 
-<div class="tryit">
 **Try It**
 
 
@@ -439,7 +329,6 @@ Multiply: <span class="math-inline">(5x+9)(4x+3).</span>
 20*x*2 + 51*x* + 27
 
 
-<div class="tryit">
 **Try It**
 
 
@@ -452,15 +341,13 @@ Multiply: <span class="math-inline">(10m+9)(8m+7).</span>
 In the previous examples, the binomials were sums. When there are differences, we pay special attention to make sure the signs of the product are correct.
 
 
-<div class="example">
 **Example**
 
 
 Multiply: <span class="math-inline">(4y+3)(6y-5).</span>
 
 
-<div class="solution">
-<span class="def-label">Solution</span>
+Solution
 
 
    <span class="math-inline">(4y+3)(6y-5)</span>
@@ -475,7 +362,6 @@ Multiply: <span class="math-inline">(4y+3)(6y-5).</span>
    <span class="math-inline">24y<sup>2</sup>-2y-15</span>
 
 
-<div class="tryit">
 **Try It**
 
 
@@ -485,7 +371,6 @@ Multiply: <span class="math-inline">(7y+1)(8y-3).</span>
 56*y*2 − 13*y* − 3
 
 
-<div class="tryit">
 **Try It**
 
 
@@ -498,15 +383,13 @@ Multiply: <span class="math-inline">(3x+2)(5x-8).</span>
 Up to this point, the product of two binomials has been a trinomial. This is not always the case.
 
 
-<div class="example">
 **Example**
 
 
 Multiply: <span class="math-inline">(x+2)(x-y).</span>
 
 
-<div class="solution">
-<span class="def-label">Solution</span>
+Solution
 
 
    Distribute.
@@ -519,7 +402,6 @@ Multiply: <span class="math-inline">(x+2)(x-y).</span>
    There are no like terms to combine.
 
 
-<div class="tryit">
 **Try It**
 
 
@@ -529,7 +411,6 @@ Multiply: <span class="math-inline">(x+5)(x-y).</span>
 *x*2 − *xy* + 5*x* − 5*y*
 
 
-<div class="tryit">
 **Try It**
 
 
@@ -553,7 +434,6 @@ Remember that when you multiply a binomial by a binomial you get four terms. Som
 x<sup>2</sup>-xy+2x-2y
 </div>
 
-
 Where did the first term, <span class="math-inline">x<sup>2</sup>,</span> come from?
 
 It is the product of <span class="math-inline">x and x,</span> the *first* terms in <span class="math-inline">(x+2) and (x-y).</span>
@@ -569,15 +449,13 @@ We abbreviate “First, Outer, Inner, Last” as FOIL. The letters stand for ‘
 Let's look at <span class="math-inline">(x+3)(x+7)</span> again. Now we will work through an example where we use the FOIL pattern to multiply two binomials.
 
 
-<div class="example">
 **Example**
 
 
 Multiply using the FOIL method: <span class="math-inline">(x+6)(x+9).</span>
 
 
-<div class="solution">
-<span class="def-label">Solution</span>
+Solution
 
 
    *Step 1*: Multiply the *First* terms.
@@ -595,7 +473,6 @@ Multiply using the FOIL method: <span class="math-inline">(x+6)(x+9).</span>
    *Step 5*: Combine like terms, when possible.
 
 
-<div class="tryit">
 **Try It**
 
 
@@ -605,7 +482,6 @@ Multiply using the FOIL method: <span class="math-inline">(x+7)(x+8).</span>
 *x*2 + 15*x* + 56
 
 
-<div class="tryit">
 **Try It**
 
 
@@ -618,8 +494,7 @@ Multiply using the FOIL method: <span class="math-inline">(y+14)(y+2).</span>
 We summarize the steps of the FOIL method below. The **FOIL method** only applies to multiplying binomials, not other polynomials!
 
 
-<div class="definition-label">**Use the FOIL method for multiplying two binomials.**</div>
-
+**Use the FOIL method for multiplying two binomials.**
 
 - Multiply the *First* terms.
 
@@ -632,15 +507,13 @@ We summarize the steps of the FOIL method below. The **FOIL method** only applie
 - Combine like terms, when possible.
 
 
-<div class="example">
 **Example**
 
 
 Multiply: <span class="math-inline">(y-8)(y+6).</span>
 
 
-<div class="solution">
-<span class="def-label">Solution</span>
+Solution
 
 
    *Step 1*: Multiply the *First* terms.
@@ -658,7 +531,6 @@ Multiply: <span class="math-inline">(y-8)(y+6).</span>
    *Step 5*: Combine like terms
 
 
-<div class="tryit">
 **Try It**
 
 
@@ -668,7 +540,6 @@ Multiply: <span class="math-inline">(y-3)(y+8).</span>
 *y*2 + 5*y* − 24
 
 
-<div class="tryit">
 **Try It**
 
 
@@ -678,15 +549,13 @@ Multiply: <span class="math-inline">(q-4)(q+5).</span>
 *q*2 + *q* − 20
 
 
-<div class="example">
 **Example**
 
 
 Multiply: <span class="math-inline">(2a+3)(3a-1).</span>
 
 
-<div class="solution">
-<span class="def-label">Solution</span>
+Solution
 
 
    Multiply the *First* terms.
@@ -704,7 +573,6 @@ Multiply: <span class="math-inline">(2a+3)(3a-1).</span>
    Combine like terms.
 
 
-<div class="tryit">
 **Try It**
 
 
@@ -714,7 +582,6 @@ Multiply: <span class="math-inline">(4a+9)(5a-2).</span>
 20*a*2 + 37*a* − 18
 
 
-<div class="tryit">
 **Try It**
 
 
@@ -724,15 +591,13 @@ Multiply: <span class="math-inline">(7x+4)(7x-8).</span>
 49*x*2 − 28*x* − 32
 
 
-<div class="example">
 **Example**
 
 
 Multiply: <span class="math-inline">(5x-y)(2x-7).</span>
 
 
-<div class="solution">
-<span class="def-label">Solution</span>
+Solution
 
 
    Multiply the *First* terms.
@@ -750,7 +615,6 @@ Multiply: <span class="math-inline">(5x-y)(2x-7).</span>
    Combine like terms. There are none.
 
 
-<div class="tryit">
 **Try It**
 
 
@@ -760,7 +624,6 @@ Multiply: <span class="math-inline">(12x-y)(x-5).</span>
 12*x*2 − 60*x* − *xy* + 5*y*
 
 
-<div class="tryit">
 **Try It**
 
 
@@ -772,7 +635,13 @@ Multiply: <span class="math-inline">(6a-b)(2a-9).</span>
 
 ### Using the Vertical Method
 
-The FOIL method is usually the quickest method for multiplying two binomials, but it works *only* for binomials. You can use the **Distributive Property** to find the product of any two polynomials. Another method that works for all polynomials is the **Vertical Method**. It is very much like the method you use to multiply whole numbers. Look carefully at this example of multiplying two-digit numbers.
+
+The FOIL method is usually the quickest method for multiplying two binomials, but it works *only* for binomials.
+You can use the **Distributive Property** to find the product of any two polynomials.
+Another method that works for all polynomials is the **Vertical Method**.
+It is very much like the method you use to multiply whole numbers.
+Look carefully at this example of multiplying two-digit numbers.
+
 
 You start by multiplying <span class="math-inline">23</span> by <span class="math-inline">6</span> to get <span class="math-inline">138.</span>
 
@@ -783,17 +652,13 @@ Last, you add the partial products.
 Now we'll apply this same method to multiply two binomials.
 
 
-<div class="example">
 **Example**
 
 
 Multiply using the vertical method: <span class="math-inline">(5x-1)(2x-7).</span>
 
 
-<div class="solution">
-<span class="def-label">Solution</span>
-
-
+Solution
 It does not matter which binomial goes on the top. Line up the columns when you multiply as we did when we multiplied <span class="math-inline">23(46).</span>
 
 
@@ -809,7 +674,6 @@ Add like terms.
 Notice the partial products are the same as the terms in the FOIL method.
 
 
-<div class="tryit">
 **Try It**
 
 
@@ -819,7 +683,6 @@ Multiply using the vertical method: <span class="math-inline">(4m-9)(3m-7).</spa
 12*m*2 − 55*m* + 63
 
 
-<div class="tryit">
 **Try It**
 
 
@@ -832,8 +695,7 @@ Multiply using the vertical method: <span class="math-inline">(6n-5)(7n-2).</spa
 We have now used three methods for multiplying binomials. Be sure to practice each method, and try to decide which one you prefer. The three methods are listed here to help you remember them.
 
 
-<div class="definition-label">**Multiplying Two Binomials**</div>
-
+**Multiplying Two Binomials**
 
 - Distributive Property
 
@@ -842,26 +704,18 @@ We have now used three methods for multiplying binomials. Be sure to practice ea
 - Vertical Method
 
 
----
-
-
----
-
 ## Multiply a Trinomial by a Binomial
-
 
 We have multiplied monomials by monomials, monomials by polynomials, and binomials by binomials. Now we're ready to multiply a trinomial by a binomial. Remember, the FOIL method will not work in this case, but we can use either the **Distributive Property** or the **Vertical Method**. We first look at an example using the Distributive Property.
 
 
-<div class="example">
 **Example**
 
 
 Multiply using the Distributive Property: <span class="math-inline">(x+3)(2x<sup>2</sup>-5x+8).</span>
 
 
-<div class="solution">
-<span class="def-label">Solution</span>
+Solution
 
 
 Distribute.
@@ -875,7 +729,6 @@ Combine like terms.
 <span class="math-inline">2x<sup>3</sup>+x<sup>2</sup>-7x+24</span>
 
 
-<div class="tryit">
 **Try It**
 
 
@@ -885,7 +738,6 @@ Multiply using the Distributive Property: <span class="math-inline">(y-1)(y<sup>
 *y*3 − 8*y*2 + 9*y* − 2
 
 
-<div class="tryit">
 **Try It**
 
 
@@ -898,17 +750,13 @@ Multiply using the Distributive Property: <span class="math-inline">(x+2)(3x<sup
 Now let's do this same multiplication using the Vertical Method.
 
 
-<div class="example">
 **Example**
 
 
 Multiply using the Vertical Method: <span class="math-inline">(x+3)(2x<sup>2</sup>-5x+8).</span>
 
 
-<div class="solution">
-<span class="def-label">Solution</span>
-
-
+Solution
 It is easier to put the polynomial with fewer terms on the bottom because we get fewer partial products this way.
 
 
@@ -921,7 +769,6 @@ Multiply <span class="math-inline">(2x<sup>2</sup>-5x+8)</span> by <span class="
 Add like terms.
 
 
-<div class="tryit">
 **Try It**
 
 
@@ -931,7 +778,6 @@ Multiply using the Vertical Method: <span class="math-inline">(y-1)(y<sup>2</sup
 *y*3 − 8*y*2 + 9*y* − 2
 
 
-<div class="tryit">
 **Try It**
 
 
@@ -941,8 +787,7 @@ Multiply using the Vertical Method: <span class="math-inline">(x+2)(3x<sup>2</su
 3*x*3 + 2*x*2 − 3*x* + 10
 
 
-<div class="definition-label">**ACCESS ADDITIONAL ONLINE RESOURCES**</div>
-
+**ACCESS ADDITIONAL ONLINE RESOURCES**
 
 - Multiply Monomials
 
@@ -957,13 +802,7 @@ Multiply using the Vertical Method: <span class="math-inline">(x+2)(3x<sup>2</su
 - Multiply Binomials
 
 
----
-
-
----
-
 ## Key Concepts
-
 
 - *Use the FOIL method for multiplying two binomials.*
 
@@ -1147,13 +986,13 @@ In the following exercises, multiply.
 <span class="math-inline">(8b-1)b</span>
 
 
-<span class="math-inline">(w-6) ·  8</span>
+<span class="math-inline">(w-6) · 8</span>
 
 
 8*w* − 48
 
 
-<span class="math-inline">(k-4) ·  5</span>
+<span class="math-inline">(k-4) · 5</span>
 
 
 *Multiply a Binomial by a Binomial*
@@ -1337,10 +1176,12 @@ In the following exercises, multiply. Use either method.
 ### Everyday Math
 
 
-*Mental math* You can use binomial multiplication to multiply numbers without a calculator. Say you need to multiply <span class="math-inline">13</span> times <span class="math-inline">15.</span> Think of <span class="math-inline">13</span> as <span class="math-inline">10+3</span> and <span class="math-inline">15</span> as <span class="math-inline">10+5.</span>
+*Mental math* You can use binomial multiplication to multiply numbers without a calculator.
+Say you need to multiply <span class="math-inline">13</span> times <span class="math-inline">15.</span> Think of <span class="math-inline">13</span> as <span class="math-inline">10+3</span> and <span class="math-inline">15</span> as <span class="math-inline">10+5.</span>
+
 
   - ⓐ Multiply <span class="math-inline">(10+3)(10+5)</span> by the FOIL method.
-  - ⓑ Multiply <span class="math-inline">13 ·  15</span> without using a calculator.
+  - ⓑ Multiply <span class="math-inline">13 · 15</span> without using a calculator.
   - ⓒ Which way is easier for you? Why?
 
 
@@ -1349,10 +1190,12 @@ In the following exercises, multiply. Use either method.
   - ⓒ Answers will vary.
 
 
-*Mental math* You can use binomial multiplication to multiply numbers without a calculator. Say you need to multiply <span class="math-inline">18</span> times <span class="math-inline">17.</span> Think of <span class="math-inline">18</span> as <span class="math-inline">20-2</span> and <span class="math-inline">17</span> as <span class="math-inline">20-3.</span>
+*Mental math* You can use binomial multiplication to multiply numbers without a calculator.
+Say you need to multiply <span class="math-inline">18</span> times <span class="math-inline">17.</span> Think of <span class="math-inline">18</span> as <span class="math-inline">20-2</span> and <span class="math-inline">17</span> as <span class="math-inline">20-3.</span>
+
 
   - ⓐ Multiply <span class="math-inline">(20-2)(20-3)</span> by the FOIL method.
-  - ⓑ Multiply <span class="math-inline">18 ·  17</span> without using a calculator.
+  - ⓑ Multiply <span class="math-inline">18 · 17</span> without using a calculator.
   - ⓒ Which way is easier for you? Why?
 
 
@@ -1376,179 +1219,33 @@ Which method do you prefer to use when multiplying a trinomial by a binomial—t
 ⓑ What does this checklist tell you about your mastery of this section? What steps will you take to improve?
 
 
-<div class="prep-quiz">
 **Be Prepared!**
-
 
 Before you get started, take this readiness quiz.
 
 
-Simplify: <span class="math-inline"><sup>8</sup>∕<sub>24</sub>.</span>
-If you missed the problem, review .
+Simplify: <span class="math-inline"><sup>8</sup>⁄<sub>24</sub>.</span>
+If you missed the problem, review
 
 
-<span class="math-inline"><sup>1</sup>∕<sub>3</sub></span>
+<span class="math-inline"><sup>1</sup>⁄<sub>3</sub></span>
 
 
-<div class="prep-quiz">
 **Be Prepared!**
 
 
 Simplify: <span class="math-inline">(2m<sup>3</sup>)<sup>5</sup>.</span>
-If you missed the problem, review .
+If you missed the problem, review
 
 
 <span class="math-inline">32m<sup>15</sup></span>
 
 
-<div class="prep-quiz">
 **Be Prepared!**
 
 
-Simplify: <span class="math-inline">\frac{12x<sup></sup>{12y}.</span>
-If you missed the problem, review .
+Simplify: <span class="math-inline"><sup>12x<sup></sup></sup>⁄<sub>12y</sub>.</span>
+If you missed the problem, review
 
 
-<span class="math-inline"><sup>x</sup>∕<sub>y</sub></span>
-
-</div>
-
-</div>
-
-</div>
-
-</div>
-
-</div>
-
-</div>
-
-</div>
-
-</div>
-
-</div>
-
-</div>
-
-</div>
-
-</div>
-
-</div>
-
-</div>
-
-</div>
-
-</div>
-
-</div>
-
-</div>
-
-</div>
-
-</div>
-
-</div>
-
-</div>
-
-</div>
-
-</div>
-
-</div>
-
-</div>
-
-</div>
-
-</div>
-
-</div>
-
-</div>
-
-</div>
-
-</div>
-
-</div>
-
-</div>
-
-</div>
-
-</div>
-
-</div>
-
-</div>
-
-</div>
-
-</div>
-
-</div>
-
-</div>
-
-</div>
-
-</div>
-
-</div>
-
-</div>
-
-</div>
-
-</div>
-
-</div>
-
-</div>
-
-</div>
-
-</div>
-
-</div>
-
-</div>
-
-</div>
-
-</div>
-
-</div>
-
-</div>
-
-</div>
-
-</div>
-
-</div>
-
-</div>
-
-</div>
-
-</div>
-
-</div>
-
-</div>
-
-</div>
-
-</div>
-
-</div>
-
-</div>
-
-</div>
+<span class="math-inline"><sup>x</sup>⁄<sub>y</sub></span>

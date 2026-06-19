@@ -1,74 +1,4 @@
-<style>
-.math-inline {
-    font-style: italic;
-    padding: 2px 6px;
-    border-radius: 4px;
-    background: #f8f9fa;
-    font-family: Georgia, serif;
-}
-.math-display {
-    background: #f8f9fa;
-    border-left: 4px solid #4a90d9;
-    padding: 16px 20px;
-    margin: 16px 0;
-    border-radius: 6px;
-    font-size: 1.15em;
-    font-family: Georgia, serif;
-    text-align: center;
-    line-height: 2;
-    overflow-x: auto;
-}
-.example-box, .example {
-    background: #f0f8ff;
-    border-left: 4px solid #2e86de;
-    padding: 12px 20px;
-    margin: 16px 0;
-    border-radius: 6px;
-}
-.tryit-box, .tryit {
-    background: #f0fff4;
-    border-left: 4px solid #27ae60;
-    padding: 12px 20px;
-    margin: 16px 0;
-    border-radius: 6px;
-}
-.solution-box, .solution {
-    background: #fef9e7;
-    border-left: 4px solid #f39c12;
-    padding: 12px 20px;
-    margin: 12px 0;
-    border-radius: 6px;
-}
-.check-box, .check {
-    background: #fef9e7;
-    border-left: 4px solid #f39c12;
-    padding: 12px 20px;
-    margin: 12px 0;
-    border-radius: 6px;
-}
-.prep-quiz {
-    background: #fff3cd;
-    border: 1px solid #ffc107;
-    padding: 12px 20px;
-    margin: 16px 0;
-    border-radius: 6px;
-}
-.def-label, .definition-label {
-    font-weight: bold;
-    font-size: 1.1em;
-    margin: 20px 0 8px 0;
-    color: #2c3e50;
-    display: block;
-}
-.math-display sup, .math-inline sup { font-size: 0.75em; line-height: 0; }
-.math-display sub, .math-inline sub { font-size: 0.75em; line-height: 0; }
-</style>
-
-
----
-
 ## Chapter Review Exercises
-
 
 In the following exercises, write each percent as a ratio.
 
@@ -76,7 +6,7 @@ In the following exercises, write each percent as a ratio.
 <span class="math-inline">32%</span> admission rate for the university
 
 
-<span class="math-inline"><sup>32</sup>∕<sub>100</sub></span>
+<span class="math-inline"><sup>32</sup>⁄<sub>100</sub></span>
 
 
 <span class="math-inline">53.3%</span> rate of college students with student loans
@@ -88,7 +18,7 @@ In the following exercises, write as a ratio and then as a percent.
 <span class="math-inline">13</span> out of <span class="math-inline">100</span> architects are women.
 
 
-<span class="math-inline"><sup>13</sup>∕<sub>100</sub>,13%</span>
+<span class="math-inline"><sup>13</sup>⁄<sub>100</sub>,13%</span>
 
 
 <span class="math-inline">9</span> out of every <span class="math-inline">100</span> nurses are men.
@@ -100,7 +30,7 @@ In the following exercises, convert each percent to a fraction.
 <span class="math-inline">48%</span>
 
 
-<span class="math-inline"><sup>12</sup>∕<sub>25</sub></span>
+<span class="math-inline"><sup>12</sup>⁄<sub>25</sub></span>
 
 
 <span class="math-inline">175%</span>
@@ -109,10 +39,10 @@ In the following exercises, convert each percent to a fraction.
 <span class="math-inline">64.1%</span>
 
 
-<span class="math-inline"><sup>641</sup>∕<sub>1000</sub></span>
+<span class="math-inline"><sup>641</sup>⁄<sub>1000</sub></span>
 
 
-<span class="math-inline">8<sup>1</sup>∕<sub>4</sub>%</span>
+<span class="math-inline">8<sup>1</sup>⁄<sub>4</sub>%</span>
 
 
 In the following exercises, convert each percent to a decimal.
@@ -142,7 +72,7 @@ In the following exercises, convert each percent to ⓐ a simplified fraction an
 In <span class="math-inline">2012,13.5%</span> of the United States population was age <span class="math-inline">65</span> or over. (Source: www.census.gov)
 
 
-  - ⓐ <span class="math-inline"><sup>27</sup>∕<sub>200</sub></span>
+  - ⓐ <span class="math-inline"><sup>27</sup>⁄<sub>200</sub></span>
   - ⓑ <span class="math-inline">0.135</span>
 
 
@@ -152,7 +82,7 @@ In <span class="math-inline">2012,6.5%</span> of the United States population wa
 When a die is tossed, the probability it will land with an even number of dots on the top side is <span class="math-inline">50%.</span>
 
 
-  - ⓐ <span class="math-inline"><sup>1</sup>∕<sub>2</sub></span>
+  - ⓐ <span class="math-inline"><sup>1</sup>⁄<sub>2</sub></span>
   - ⓑ <span class="math-inline">0.5</span>
 
 
@@ -192,31 +122,31 @@ In the following exercises, convert each decimal to a percent.
 In the following exercises, convert each fraction to a percent.
 
 
-<span class="math-inline"><sup>3</sup>∕<sub>4</sub></span>
+<span class="math-inline"><sup>3</sup>⁄<sub>4</sub></span>
 
 
 75%
 
 
-<span class="math-inline"><sup>11</sup>∕<sub>5</sub></span>
+<span class="math-inline"><sup>11</sup>⁄<sub>5</sub></span>
 
 
-<span class="math-inline">3<sup>5</sup>∕<sub>8</sub></span>
+<span class="math-inline">3<sup>5</sup>⁄<sub>8</sub></span>
 
 
 362.5%
 
 
-<span class="math-inline"><sup>2</sup>∕<sub>9</sub></span>
+<span class="math-inline"><sup>2</sup>⁄<sub>9</sub></span>
 
 
-According to the Centers for Disease Control, <span class="math-inline"><sup>2</sup>∕<sub>5</sub></span> of adults do not take a vitamin or supplement.
+According to the Centers for Disease Control, <span class="math-inline"><sup>2</sup>⁄<sub>5</sub></span> of adults do not take a vitamin or supplement.
 
 
 40%
 
 
-According to the Centers for Disease Control, among adults who do take a vitamin or supplement, <span class="math-inline"><sup>3</sup>∕<sub>4</sub></span> take a multivitamin.
+According to the Centers for Disease Control, among adults who do take a vitamin or supplement, <span class="math-inline"><sup>3</sup>⁄<sub>4</sub></span> take a multivitamin.
 
 
 In the following exercises, translate and solve.
@@ -438,7 +368,7 @@ In the following exercises, write each sentence as a proportion.
 <span class="math-inline">3</span> is to <span class="math-inline">8</span> as <span class="math-inline">12</span> is to <span class="math-inline">32.</span>
 
 
-<span class="math-inline"><sup>3</sup>∕<sub>8</sub>=<sup>12</sup>∕<sub>32</sub></span>
+<span class="math-inline"><sup>3</sup>⁄<sub>8</sub>=<sup>12</sup>⁄<sub>32</sub></span>
 
 
 <span class="math-inline">95</span> miles to <span class="math-inline">3</span> gallons is the same as <span class="math-inline">475</span> miles to <span class="math-inline">15</span> gallons.
@@ -447,7 +377,7 @@ In the following exercises, write each sentence as a proportion.
 <span class="math-inline">1</span> teacher to <span class="math-inline">18</span> students is the same as <span class="math-inline">23</span> teachers to <span class="math-inline">414</span> students.
 
 
-<span class="math-inline"><sup>1</sup>∕<sub>18</sub>=<sup>23</sup>∕<sub>414</sub></span>
+<span class="math-inline"><sup>1</sup>⁄<sub>18</sub>=<sup>23</sup>⁄<sub>414</sub></span>
 
 
 <span class="math-inline">$7.35</span> for <span class="math-inline">15</span> ounces is the same as <span class="math-inline">$2.94</span> for <span class="math-inline">6</span> ounces.
@@ -456,43 +386,43 @@ In the following exercises, write each sentence as a proportion.
 In the following exercises, determine whether each equation is a proportion.
 
 
-<span class="math-inline"><sup>5</sup>∕<sub>13</sub>=<sup>30</sup>∕<sub>78</sub></span>
+<span class="math-inline"><sup>5</sup>⁄<sub>13</sub>=<sup>30</sup>⁄<sub>78</sub></span>
 
 
 yes
 
 
-<span class="math-inline"><sup>16</sup>∕<sub>7</sub>=<sup>48</sup>∕<sub>23</sub></span>
+<span class="math-inline"><sup>16</sup>⁄<sub>7</sub>=<sup>48</sup>⁄<sub>23</sub></span>
 
 
-<span class="math-inline"><sup>12</sup>∕<sub>18</sub>=<sup>6.99</sup>∕<sub>10.99</sub></span>
+<span class="math-inline"><sup>12</sup>⁄<sub>18</sub>=<sup>6.99</sup>⁄<sub>10.99</sub></span>
 
 
 no
 
 
-<span class="math-inline"><sup>11.6</sup>∕<sub>9.2</sub>=<sup>37.12</sup>∕<sub>29.44</sub></span>
+<span class="math-inline"><sup>11.6</sup>⁄<sub>9.2</sub>=<sup>37.12</sup>⁄<sub>29.44</sub></span>
 
 
 In the following exercises, solve each proportion.
 
 
-<span class="math-inline"><sup>x</sup>∕<sub>36</sub>=<sup>5</sup>∕<sub>9</sub></span>
+<span class="math-inline"><sup>x</sup>⁄<sub>36</sub>=<sup>5</sup>⁄<sub>9</sub></span>
 
 
 20
 
 
-<span class="math-inline"><sup>7</sup>∕<sub>a</sub>=<sup>−6</sup>∕<sub>84</sub></span>
+<span class="math-inline"><sup>7</sup>⁄<sub>a</sub>=<sup>−6</sup>⁄<sub>84</sub></span>
 
 
-<span class="math-inline"><sup>1.2</sup>∕<sub>1.8</sub>=<sup>d</sup>∕<sub>6</sub></span>
+<span class="math-inline"><sup>1.2</sup>⁄<sub>1.8</sub>=<sup>d</sup>⁄<sub>6</sub></span>
 
 
 4
 
 
-<span class="math-inline"><sup>\frac{1</sup>∕<sub>2</sub>{2}=<sup>m</sup>∕<sub>20</sub></span>
+<span class="math-inline"><sup><sup>1</sup>⁄<sub>2</sub></sup>⁄<sub>2</sub>=<sup>m</sup>⁄<sub>20</sub></span>
 
 
 In the following exercises, solve the proportion problem.
@@ -531,7 +461,7 @@ In the following exercises, translate to a proportion.
 What number is <span class="math-inline">62%</span> of <span class="math-inline">395?</span>
 
 
-<span class="math-inline"><sup>n</sup>∕<sub>395</sub>=<sup>62</sup>∕<sub>100</sub></span>
+<span class="math-inline"><sup>n</sup>⁄<sub>395</sub>=<sup>62</sup>⁄<sub>100</sub></span>
 
 
 <span class="math-inline">42</span> is <span class="math-inline">70%</span> of what number?
@@ -540,7 +470,7 @@ What number is <span class="math-inline">62%</span> of <span class="math-inline"
 What percent of <span class="math-inline">1,000</span> is <span class="math-inline">15?</span>
 
 
-<span class="math-inline"><sup>15</sup>∕<sub>1000</sub>=<sup>p</sup>∕<sub>100</sub></span>
+<span class="math-inline"><sup>15</sup>⁄<sub>1000</sub>=<sup>p</sup>⁄<sub>100</sub></span>
 
 
 What percent of <span class="math-inline">140</span> is <span class="math-inline">210?</span>
@@ -552,7 +482,7 @@ In the following exercises, translate and solve using proportions.
 What number is <span class="math-inline">85%</span> of <span class="math-inline">900?</span>
 
 
-<span class="math-inline"><sup>n</sup>∕<sub>900</sub>=<sup>85</sup>∕<sub>100</sub>,765</span>
+<span class="math-inline"><sup>n</sup>⁄<sub>900</sub>=<sup>85</sup>⁄<sub>100</sub>,765</span>
 
 
 <span class="math-inline">6%</span> of what number is <span class="math-inline">$24?</span>
@@ -561,7 +491,7 @@ What number is <span class="math-inline">85%</span> of <span class="math-inline"
 <span class="math-inline">$3.51</span> is <span class="math-inline">4.5%</span> of what number?
 
 
-<span class="math-inline"><sup>3.51</sup>∕<sub>n</sub>=<sup>4.5</sup>∕<sub>100</sub>,$78</span>
+<span class="math-inline"><sup>3.51</sup>⁄<sub>n</sub>=<sup>4.5</sup>⁄<sub>100</sub>,$78</span>
 
 
 What percent of <span class="math-inline">3,100</span> is <span class="math-inline">930?</span>
@@ -573,7 +503,7 @@ In the following exercises, convert each percent to ⓐ a decimal ⓑ a simplifi
 <span class="math-inline">24%</span>
 
 
-<span class="math-inline">0.24,<sup>6</sup>∕<sub>25</sub></span>
+<span class="math-inline">0.24,<sup>6</sup>⁄<sub>25</sub></span>
 
 
 <span class="math-inline">5%</span>
@@ -582,22 +512,22 @@ In the following exercises, convert each percent to ⓐ a decimal ⓑ a simplifi
 <span class="math-inline">350%</span>
 
 
-<span class="math-inline">3.5,<sup>7</sup>∕<sub>2</sub></span>
+<span class="math-inline">3.5,<sup>7</sup>⁄<sub>2</sub></span>
 
 
 In the following exercises, convert each fraction to a percent. (Round to <span class="math-inline">3</span> decimal places if needed.)
 
 
-<span class="math-inline"><sup>7</sup>∕<sub>8</sub></span>
+<span class="math-inline"><sup>7</sup>⁄<sub>8</sub></span>
 
 
-<span class="math-inline"><sup>1</sup>∕<sub>3</sub></span>
+<span class="math-inline"><sup>1</sup>⁄<sub>3</sub></span>
 
 
-<span class="math-inline">33.3<sup>¯</sup>% or 33<sup>1</sup>∕<sub>3</sub>%</span>
+<span class="math-inline">33.3<sup>¯</sup>% or 33<sup>1</sup>⁄<sub>3</sub>%</span>
 
 
-<span class="math-inline"><sup>11</sup>∕<sub>12</sub></span>
+<span class="math-inline"><sup>11</sup>⁄<sub>12</sub></span>
 
 
 In the following exercises, solve the percent problem.
@@ -661,7 +591,7 @@ Brenda borrowed <span class="math-inline">$400</span> from her brother. Two year
 Write as a proportion: <span class="math-inline">4</span> gallons to <span class="math-inline">144</span> miles is the same as <span class="math-inline">10</span> gallons to <span class="math-inline">360</span> miles.
 
 
-Solve for a: <span class="math-inline"><sup>12</sup>∕<sub>a</sub>=<sup>−15</sup>∕<sub>65</sub></span>
+Solve for a: <span class="math-inline"><sup>12</sup>⁄<sub>a</sub>=<sup>−15</sup>⁄<sub>65</sub></span>
 
 
 −52

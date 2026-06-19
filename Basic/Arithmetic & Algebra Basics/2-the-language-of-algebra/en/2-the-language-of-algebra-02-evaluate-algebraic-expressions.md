@@ -1,75 +1,3 @@
-<style>
-.math-inline {
-    font-style: italic;
-    padding: 2px 6px;
-    border-radius: 4px;
-    background: #f8f9fa;
-    font-family: Georgia, serif;
-}
-.math-display {
-    background: #f8f9fa;
-    border-left: 4px solid #4a90d9;
-    padding: 16px 20px;
-    margin: 16px 0;
-    border-radius: 6px;
-    font-size: 1.15em;
-    font-family: Georgia, serif;
-    text-align: center;
-    line-height: 2;
-    overflow-x: auto;
-}
-.example-box, .example {
-    background: #f0f8ff;
-    border-left: 4px solid #2e86de;
-    padding: 12px 20px;
-    margin: 16px 0;
-    border-radius: 6px;
-}
-.tryit-box, .tryit {
-    background: #f0fff4;
-    border-left: 4px solid #27ae60;
-    padding: 12px 20px;
-    margin: 16px 0;
-    border-radius: 6px;
-}
-.solution-box, .solution {
-    background: #fef9e7;
-    border-left: 4px solid #f39c12;
-    padding: 12px 20px;
-    margin: 12px 0;
-    border-radius: 6px;
-}
-.check-box, .check {
-    background: #fef9e7;
-    border-left: 4px solid #f39c12;
-    padding: 12px 20px;
-    margin: 12px 0;
-    border-radius: 6px;
-}
-.prep-quiz {
-    background: #fff3cd;
-    border: 1px solid #ffc107;
-    padding: 12px 20px;
-    margin: 16px 0;
-    border-radius: 6px;
-}
-.def-label, .definition-label {
-    font-weight: bold;
-    font-size: 1.1em;
-    margin: 20px 0 8px 0;
-    color: #2c3e50;
-    display: block;
-}
-.math-display sup, .math-inline sup { font-size: 0.75em; line-height: 0; }
-.math-display sub, .math-inline sub { font-size: 0.75em; line-height: 0; }
-</style>
-
-
----
-
-
----
-
 ## Key Concepts
 
 
@@ -463,11 +391,11 @@ Ray Allen
 <span class="math-inline">77″</span>
 
 
-  - ⓐ Height of Tim Duncan____Height of Rashard Lewis
-  - ⓑ Height of Boris Diaw____Height of LeBron James
-  - ⓒ Height of Kawhi Leonard____Height of Chris Bosh
-  - ⓓ Height of Tony Parker____Height of Dwyane Wade
-  - ⓔ Height of Danny Green____Height of Ray Allen
+  - ⓐ Height of Tim Duncan___<sub>H</sub>eight of Rashard Lewis
+  - ⓑ Height of Boris Diaw___<sub>H</sub>eight of LeBron James
+  - ⓒ Height of Kawhi Leonard___<sub>H</sub>eight of Chris Bosh
+  - ⓓ Height of Tony Parker___<sub>H</sub>eight of Dwyane Wade
+  - ⓔ Height of Danny Green___<sub>H</sub>eight of Ray Allen
 
 
 *Elevation* In Colorado there are more than <span class="math-inline">50</span> mountains with an elevation of over <span class="math-inline">14,000 feet.</span> The table shows the ten tallest. Use this table to fill in the appropriate inequality symbol.
@@ -517,11 +445,11 @@ Mt. Antero
 <span class="math-inline">14,269′</span>
 
 
-  - ⓐ Elevation of La Plata Peak____Elevation of Mt. Antero
-  - ⓑ Elevation of Blanca Peak____Elevation of Mt. Elbert
-  - ⓒ Elevation of Gray’s Peak____Elevation of Mt. Lincoln
-  - ⓓ Elevation of Mt. Massive____Elevation of Crestone Peak
-  - ⓔ Elevation of Mt. Harvard____Elevation of Uncompahgre Peak
+  - ⓐ Elevation of La Plata Peak___<sub>E</sub>levation of Mt. Antero
+  - ⓑ Elevation of Blanca Peak___<sub>E</sub>levation of Mt. Elbert
+  - ⓒ Elevation of Gray’s Peak___<sub>E</sub>levation of Mt. Lincoln
+  - ⓓ Elevation of Mt. Massive___<sub>E</sub>levation of Crestone Peak
+  - ⓔ Elevation of Mt. Harvard___<sub>E</sub>levation of Uncompahgre Peak
 
 
 ### Writing Exercises
@@ -541,63 +469,61 @@ Why is it important to use the order of operations to simplify an expression?
 ⓑ If most of your checks were:
 
 
-\dotsconfidently. Congratulations! You have achieved the objectives in this section. Reflect on the study skills you used so that you can continue to use them. What did you do to become confident of your ability to do these things? Be specific.
+…confidently. Congratulations! You have achieved the objectives in this section. Reflect on the study skills you used so that you can continue to use them. What did you do to become confident of your ability to do these things? Be specific.
 
-…with some help. This must be addressed quickly because topics you do not master become potholes in your road to success. In math, every topic builds upon previous work. It is important to make sure you have a strong foundation before you move on. Whom can you ask for help? Your fellow classmates and instructor are good resources. Is there a place on campus where math tutors are available? Can your study skills be improved?
+
+…with some help.
+This must be addressed quickly because topics you do not master become potholes in your road to success.
+In math, every topic builds upon previous work.
+It is important to make sure you have a strong foundation before you move on.
+Whom can you ask for help?
+Your fellow classmates and instructor are good resources.
+Is there a place on campus where math tutors are available?
+Can your study skills be improved?
+
 
 …no—I don’t get it! This is a warning sign and you must not ignore it. You should get help right away or you will quickly be overwhelmed. See your instructor as soon as you can to discuss your situation. Together you can come up with a plan to get you the help you need.
 
 
-<div class="prep-quiz">
 **Be Prepared!**
-
 
 Before you get started, take this readiness quiz.
 
 
 Is <span class="math-inline">n÷ 5</span> an expression or an equation?
-If you missed this problem, review .
+If you missed this problem, review
 
 
 expression
 
 
-<div class="prep-quiz">
 **Be Prepared!**
 
 
 Simplify <span class="math-inline">4<sup>5</sup>.</span>
-If you missed this problem, review .
+If you missed this problem, review
 
 
 <span class="math-inline">1,024</span>
 
 
-<div class="prep-quiz">
 **Be Prepared!**
 
 
 Simplify <span class="math-inline">1+8· 9.</span>
-If you missed this problem, review .
+If you missed this problem, review
 
 
 <span class="math-inline">73</span>
 
 
----
-
-
----
-
 ## Evaluate Algebraic Expressions
-
 
 In the last section, we simplified expressions using the order of operations. In this section, we’ll evaluate expressions—again following the order of operations.
 
 To **evaluate** an algebraic expression means to find the value of the expression when the **variable** is replaced by a given number. To evaluate an **expression**, we substitute the given number for the variable in the expression and then simplify the expression using the order of operations.
 
 
-<div class="example">
 **Example**
 
 
@@ -612,10 +538,7 @@ Evaluate <span class="math-inline">x+7</span> when
 <span class="math-inline">x=12</span>
 
 
-<div class="solution">
-<span class="def-label">Solution</span>
-
-
+Solution
 ⓐ To evaluate, substitute <span class="math-inline">3</span> for <span class="math-inline">x</span> in the expression, and then simplify.
 
 
@@ -639,7 +562,6 @@ When <span class="math-inline">x=12,</span> the expression <span class="math-inl
 Notice that we got different results for parts ⓐ and ⓑ even though we started with the same expression. This is because the values used for <span class="math-inline">x</span> were different. When we evaluate an expression, the value varies depending on the value used for the variable.
 
 
-<div class="tryit">
 **Try It**
 
 
@@ -661,7 +583,6 @@ Evaluate:
 ⓑ 19
 
 
-<div class="tryit">
 **Try It**
 
 
@@ -683,7 +604,6 @@ Evaluate:
 ⓑ 12
 
 
-<div class="example">
 **Example**
 
 
@@ -696,10 +616,7 @@ Evaluate <span class="math-inline">9x-2,when</span>
 <span class="math-inline">x=1</span>
 
 
-<div class="solution">
-<span class="def-label">Solution</span>
-
-
+Solution
 Remember <span class="math-inline">ab</span> means <span class="math-inline">a</span> times <span class="math-inline">b,</span> so <span class="math-inline">9x</span> means <span class="math-inline">9</span> times <span class="math-inline">x.</span>
 ⓐ To evaluate the expression when <span class="math-inline">x=5,</span> we substitute <span class="math-inline">5</span> for <span class="math-inline">x,</span> and then simplify.
 
@@ -722,7 +639,6 @@ Remember <span class="math-inline">ab</span> means <span class="math-inline">a</
 Notice that in part ⓐ that we wrote <span class="math-inline">9· 5</span> and in part ⓑ we wrote <span class="math-inline">9(1).</span> Both the dot and the parentheses tell us to multiply.
 
 
-<div class="tryit">
 **Try It**
 
 
@@ -743,7 +659,6 @@ Evaluate:
 ⓑ 5
 
 
-<div class="tryit">
 **Try It**
 
 
@@ -766,17 +681,13 @@ Evaluate:
 ⓑ 16
 
 
-<div class="example">
 **Example**
 
 
 Evaluate <span class="math-inline">x<sup>2</sup></span> when <span class="math-inline">x=10.</span>
 
 
-<div class="solution">
-<span class="def-label">Solution</span>
-
-
+Solution
 We substitute <span class="math-inline">10</span> for <span class="math-inline">x,</span> and then simplify the expression.
 
 
@@ -789,7 +700,6 @@ We substitute <span class="math-inline">10</span> for <span class="math-inline">
 When <span class="math-inline">x=10,</span> the expression <span class="math-inline">x<sup>2</sup></span> has a value of <span class="math-inline">100.</span>
 
 
-<div class="tryit">
 **Try It**
 
 
@@ -800,7 +710,6 @@ Evaluate:
 64
 
 
-<div class="tryit">
 **Try It**
 
 
@@ -811,17 +720,13 @@ Evaluate:
 216
 
 
-<div class="example">
 **Example**
 
 
 <span class="math-inline">Evaluate 2<sup>x</sup> when x=5.</span>
 
 
-<div class="solution">
-<span class="def-label">Solution</span>
-
-
+Solution
 In this expression, the variable is an exponent.
 
 
@@ -834,7 +739,6 @@ In this expression, the variable is an exponent.
 When <span class="math-inline">x=5,</span> the expression <span class="math-inline">2<sup>x</sup></span> has a value of <span class="math-inline">32.</span>
 
 
-<div class="tryit">
 **Try It**
 
 
@@ -845,7 +749,6 @@ Evaluate:
 64
 
 
-<div class="tryit">
 **Try It**
 
 
@@ -856,17 +759,13 @@ Evaluate:
 81
 
 
-<div class="example">
 **Example**
 
 
 <span class="math-inline">Evaluate 3x+4y-6 when x=10 and y=2.</span>
 
 
-<div class="solution">
-<span class="def-label">Solution</span>
-
-
+Solution
 This expression contains two variables, so we must make two substitutions.
 
 
@@ -879,7 +778,6 @@ This expression contains two variables, so we must make two substitutions.
 When <span class="math-inline">x=10</span> and <span class="math-inline">y=2,</span> the expression <span class="math-inline">3x+4y-6</span> has a value of <span class="math-inline">32.</span>
 
 
-<div class="tryit">
 **Try It**
 
 
@@ -890,7 +788,6 @@ Evaluate:
 33
 
 
-<div class="tryit">
 **Try It**
 
 
@@ -901,17 +798,13 @@ Evaluate:
 10
 
 
-<div class="example">
 **Example**
 
 
 <span class="math-inline">Evaluate 2x<sup>2</sup>+3x+8 when x=4.</span>
 
 
-<div class="solution">
-<span class="def-label">Solution</span>
-
-
+Solution
 We need to be careful when an expression has a variable with an exponent. In this expression, <span class="math-inline">2x<sup>2</sup></span> means <span class="math-inline">2· x· x</span> and is different from the expression <span class="math-inline">(2x)<sup>2</sup>,</span> which means <span class="math-inline">2x· 2x.</span>
 
 
@@ -924,7 +817,6 @@ We need to be careful when an expression has a variable with an exponent. In thi
     Add.
 
 
-<div class="tryit">
 **Try It**
 
 
@@ -935,7 +827,6 @@ Evaluate:
 40
 
 
-<div class="tryit">
 **Try It**
 
 
@@ -946,33 +837,26 @@ Evaluate:
 9
 
 
----
-
-
----
-
 ## Identify Terms, Coefficients, and Like Terms
-
 
 Algebraic expressions are made up of *terms*. A **term** is a constant or the product of a constant and one or more variables. Some examples of terms are <span class="math-inline">7,y,5x<sup>2</sup>,9a,and 13xy.</span>
 
-The constant that multiplies the variable(s) in a term is called the **coefficient**. We can think of the coefficient as the number *in front of* the variable. The coefficient of the term <span class="math-inline">3x</span> is <span class="math-inline">3.</span> When we write <span class="math-inline">x,</span> the coefficient is <span class="math-inline">1,</span> since <span class="math-inline">x=1· x.</span>  gives the coefficients for each of the terms in the left column.
+
+The constant that multiplies the variable(s) in a term is called the **coefficient**.
+We can think of the coefficient as the number *in front of* the variable.
+The coefficient of the term <span class="math-inline">3x</span> is <span class="math-inline">3.</span> When we write <span class="math-inline">x,</span> the coefficient is <span class="math-inline">1,</span> since <span class="math-inline">x=1· x.</span>  gives the coefficients for each of the terms in the left column.
 
 
 An algebraic expression may consist of one or more terms added or subtracted. In this chapter, we will only work with terms that are added together.  gives some examples of algebraic expressions with various numbers of terms. Notice that we include the operation before a term with it.
 
 
-<div class="example">
 **Example**
 
 
 Identify each term in the expression <span class="math-inline">9b+15x<sup>2</sup>+a+6.</span> Then identify the coefficient of each term.
 
 
-<div class="solution">
-<span class="def-label">Solution</span>
-
-
+Solution
 The expression has four terms. They are <span class="math-inline">9b,15x<sup>2</sup>,a,</span> and <span class="math-inline">6.</span>
 The coefficient of <span class="math-inline">9b</span> is <span class="math-inline">9.</span>
 The coefficient of <span class="math-inline">15x<sup>2</sup></span> is <span class="math-inline">15.</span>
@@ -980,7 +864,6 @@ Remember that if no number is written before a variable, the coefficient is <spa
 The coefficient of a constant is the constant, so the coefficient of <span class="math-inline">6</span> is <span class="math-inline">6.</span>
 
 
-<div class="tryit">
 **Try It**
 
 
@@ -991,7 +874,6 @@ Identify all terms in the given expression, and their coefficients:
 The terms are 4*x*, 3*b*, and 2. The coefficients are 4, 3, and 2.
 
 
-<div class="tryit">
 **Try It**
 
 
@@ -1008,7 +890,6 @@ Some terms share common traits. Look at the following terms. Which ones seem to 
 <div class="math-display">
 5x,7,n<sup>2</sup>,4,3x,9n<sup>2</sup>
 </div>
-
 
 Which of these terms are like terms?
 
@@ -1036,13 +917,11 @@ n<sup>2</sup> and 9n<sup>2</sup> are like terms.
 </div>
 
 
-<div class="definition-label">**Like Terms**</div>
-
+**Like Terms**
 
 Terms that are either constants or have the same variables with the same exponents are like terms.
 
 
-<div class="example">
 **Example**
 
 
@@ -1055,10 +934,7 @@ Identify the like terms:
 ⓑ <span class="math-inline">4x<sup>2</sup>+2x+5x<sup>2</sup>+6x+40x+8xy</span>
 
 
-<div class="solution">
-<span class="def-label">Solution</span>
-
-
+Solution
 ⓐ
 <span class="math-inline">y<sup>3</sup>,7x<sup>2</sup>,14,23,4y<sup>3</sup>,9x,5x<sup>2</sup></span>Look at the variables and exponents. The expression contains <span class="math-inline">y<sup>3</sup>,x<sup>2</sup>,x,</span> and constants.
 The terms <span class="math-inline">y<sup>3</sup></span> and <span class="math-inline">4y<sup>3</sup></span> are like terms because they both have <span class="math-inline">y<sup>3</sup>.</span>
@@ -1071,7 +947,6 @@ The terms <span class="math-inline">2x,6x,and 40x</span> are like terms because 
 The term <span class="math-inline">8xy</span> has no like terms in the given expression because no other terms contain the two variables <span class="math-inline">xy.</span>
 
 
-<div class="tryit">
 **Try It**
 
 
@@ -1082,7 +957,6 @@ Identify the like terms in the list or the expression:
 9 and 15; 2*x*3 and 8*x*3; *y*2 and 11*y*2
 
 
-<div class="tryit">
 **Try It**
 
 
@@ -1091,73 +965,3 @@ Identify the like terms in the list or the expression:
 
 
 4*x*3 and 6*x*3; 8*x*2 and 3*x*2; 19 and 24
-
-</div>
-
-</div>
-
-</div>
-
-</div>
-
-</div>
-
-</div>
-
-</div>
-
-</div>
-
-</div>
-
-</div>
-
-</div>
-
-</div>
-
-</div>
-
-</div>
-
-</div>
-
-</div>
-
-</div>
-
-</div>
-
-</div>
-
-</div>
-
-</div>
-
-</div>
-
-</div>
-
-</div>
-
-</div>
-
-</div>
-
-</div>
-
-</div>
-
-</div>
-
-</div>
-
-</div>
-
-</div>
-
-</div>
-
-</div>
-
-</div>

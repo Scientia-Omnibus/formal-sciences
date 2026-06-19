@@ -1,74 +1,4 @@
-<style>
-.math-inline {
-    font-style: italic;
-    padding: 2px 6px;
-    border-radius: 4px;
-    background: #f8f9fa;
-    font-family: Georgia, serif;
-}
-.math-display {
-    background: #f8f9fa;
-    border-left: 4px solid #4a90d9;
-    padding: 16px 20px;
-    margin: 16px 0;
-    border-radius: 6px;
-    font-size: 1.15em;
-    font-family: Georgia, serif;
-    text-align: center;
-    line-height: 2;
-    overflow-x: auto;
-}
-.example-box, .example {
-    background: #f0f8ff;
-    border-left: 4px solid #2e86de;
-    padding: 12px 20px;
-    margin: 16px 0;
-    border-radius: 6px;
-}
-.tryit-box, .tryit {
-    background: #f0fff4;
-    border-left: 4px solid #27ae60;
-    padding: 12px 20px;
-    margin: 16px 0;
-    border-radius: 6px;
-}
-.solution-box, .solution {
-    background: #fef9e7;
-    border-left: 4px solid #f39c12;
-    padding: 12px 20px;
-    margin: 12px 0;
-    border-radius: 6px;
-}
-.check-box, .check {
-    background: #fef9e7;
-    border-left: 4px solid #f39c12;
-    padding: 12px 20px;
-    margin: 12px 0;
-    border-radius: 6px;
-}
-.prep-quiz {
-    background: #fff3cd;
-    border: 1px solid #ffc107;
-    padding: 12px 20px;
-    margin: 16px 0;
-    border-radius: 6px;
-}
-.def-label, .definition-label {
-    font-weight: bold;
-    font-size: 1.1em;
-    margin: 20px 0 8px 0;
-    color: #2c3e50;
-    display: block;
-}
-.math-display sup, .math-inline sup { font-size: 0.75em; line-height: 0; }
-.math-display sub, .math-inline sub { font-size: 0.75em; line-height: 0; }
-</style>
-
-
----
-
 ## Chapter Review Exercises
-
 
 *Plot Points in a Rectangular Coordinate System*
 
@@ -87,7 +17,7 @@ In the following exercises, plot each point in a rectangular coordinate system a
   - ⓐ <span class="math-inline">(−1,−5)</span>
   - ⓑ <span class="math-inline">(−3,4)</span>
   - ⓒ <span class="math-inline">(2,−3)</span>
-  - ⓓ <span class="math-inline">(1,<sup>5</sup>∕<sub>2</sub>)</span>
+  - ⓓ <span class="math-inline">(1,<sup>5</sup>⁄<sub>2</sub>)</span>
 
 
   - ⓐ III
@@ -99,7 +29,7 @@ In the following exercises, plot each point in a rectangular coordinate system a
   - ⓐ <span class="math-inline">(3,−2)</span>
   - ⓑ <span class="math-inline">(−4,−1)</span>
   - ⓒ <span class="math-inline">(−5,4)</span>
-  - ⓓ <span class="math-inline">(2,<sup>10</sup>∕<sub>3</sub>)</span>
+  - ⓓ <span class="math-inline">(2,<sup>10</sup>⁄<sub>3</sub>)</span>
 
 *Identify Points on a Graph*
 
@@ -135,7 +65,7 @@ In the following exercises, find the ordered pairs that are solutions to the giv
 <span class="math-inline">y=6x-2</span>
 
   - ⓐ <span class="math-inline">(1,4)</span>
-  - ⓑ <span class="math-inline">(<sup>1</sup>∕<sub>3</sub>,0)</span>
+  - ⓑ <span class="math-inline">(<sup>1</sup>⁄<sub>3</sub>,0)</span>
   - ⓒ <span class="math-inline">(6,−2)</span>
 
 *Complete a Table of Solutions to a Linear Equation in Two Variables*
@@ -180,7 +110,7 @@ In the following exercises, complete the table to find solutions to each linear 
 <span class="math-inline">(−2,−9)</span>
 
 
-<span class="math-inline">y=-<sup>1</sup>∕<sub>2</sub>x+3</span>
+<span class="math-inline">y=-<sup>1</sup>⁄<sub>2</sub>x+3</span>
 
 
 <span class="math-inline">x</span>
@@ -298,7 +228,7 @@ In each of the following exercises, an equation and its graph is shown. For each
   - ⓐ yes ⓑ yes
 
 
-<span class="math-inline">y=<sup>2</sup>∕<sub>3</sub>x-1</span>
+<span class="math-inline">y=<sup>2</sup>⁄<sub>3</sub>x-1</span>
 
 
   - <span class="math-inline">(0,−1)</span>
@@ -354,7 +284,7 @@ In the following exercises, find the intercepts.
 (−1,0) (0,1)
 
 
-<span class="math-inline">y=<sup>3</sup>∕<sub>4</sub>x-12</span>
+<span class="math-inline">y=<sup>3</sup>⁄<sub>4</sub>x-12</span>
 
 
 <span class="math-inline">y=3x</span>
@@ -397,10 +327,10 @@ horizontal line
 intercepts
 
 
-<span class="math-inline">y=<sup>1</sup>∕<sub>2</sub>x+2</span>
+<span class="math-inline">y=<sup>1</sup>⁄<sub>2</sub>x+2</span>
 
 
-<span class="math-inline">y=<sup>3</sup>∕<sub>4</sub>x-1</span>
+<span class="math-inline">y=<sup>3</sup>⁄<sub>4</sub>x-1</span>
 
 
 plotting points
@@ -411,25 +341,25 @@ plotting points
 In the following exercises, find the slope modeled on each geoboard.
 
 
-<span class="math-inline"><sup>4</sup>∕<sub>3</sub></span>
+<span class="math-inline"><sup>4</sup>⁄<sub>3</sub></span>
 
 
-<span class="math-inline">-<sup>2</sup>∕<sub>3</sub></span>
+<span class="math-inline">-<sup>2</sup>⁄<sub>3</sub></span>
 
 
 In the following exercises, model each slope. Draw a picture to show your results.
 
 
-<span class="math-inline"><sup>1</sup>∕<sub>3</sub></span>
+<span class="math-inline"><sup>1</sup>⁄<sub>3</sub></span>
 
 
-<span class="math-inline"><sup>3</sup>∕<sub>2</sub></span>
+<span class="math-inline"><sup>3</sup>⁄<sub>2</sub></span>
 
 
-<span class="math-inline">-<sup>2</sup>∕<sub>3</sub></span>
+<span class="math-inline">-<sup>2</sup>⁄<sub>3</sub></span>
 
 
-<span class="math-inline">-<sup>1</sup>∕<sub>2</sub></span>
+<span class="math-inline">-<sup>1</sup>⁄<sub>2</sub></span>
 
 
 *Find the Slope of a Line from its Graph*
@@ -440,7 +370,7 @@ In the following exercises, find the slope of each line shown.
 1
 
 
-<span class="math-inline">-<sup>1</sup>∕<sub>2</sub></span>
+<span class="math-inline">-<sup>1</sup>⁄<sub>2</sub></span>
 
 
 *Find the Slope of Horizontal and Vertical Lines*
@@ -486,7 +416,7 @@ In the following exercises, use the slope formula to find the slope of the line 
 <span class="math-inline">(−5,−2),(3,2)</span>
 
 
-<span class="math-inline"><sup>1</sup>∕<sub>2</sub></span>
+<span class="math-inline"><sup>1</sup>⁄<sub>2</sub></span>
 
 
 *Graph a Line Given a Point and the Slope*
@@ -494,10 +424,10 @@ In the following exercises, use the slope formula to find the slope of the line 
 In the following exercises, graph the line given a point and the slope.
 
 
-<span class="math-inline">(2,−2);m=<sup>5</sup>∕<sub>2</sub></span>
+<span class="math-inline">(2,−2);m=<sup>5</sup>⁄<sub>2</sub></span>
 
 
-<span class="math-inline">(−3,4);m=-<sup>1</sup>∕<sub>3</sub></span>
+<span class="math-inline">(−3,4);m=-<sup>1</sup>⁄<sub>3</sub></span>
 
 
 *Solve Slope Applications*
@@ -507,8 +437,6 @@ In the following exercise, solve the slope application.
 
 A roof has rise <span class="math-inline">10</span> feet and run <span class="math-inline">15</span> feet. What is its slope?
 
-
----
 
 ## Chapter Practice Test
 
@@ -609,7 +537,7 @@ In the following exercises, find three solutions to each equation and then graph
 In the following exercises, find the slope of each line.
 
 
-<span class="math-inline">-<sup>5</sup>∕<sub>2</sub></span>
+<span class="math-inline">-<sup>5</sup>⁄<sub>2</sub></span>
 
 
 Use the slope formula to find the slope of the line between <span class="math-inline">(0,−4)</span> and <span class="math-inline">(5,2).</span>
@@ -621,10 +549,10 @@ Find the slope of the line <span class="math-inline">y=2.</span>
 0
 
 
-Graph the line passing through <span class="math-inline">(1,1)</span> with slope <span class="math-inline">m=<sup>3</sup>∕<sub>2</sub>.</span>
+Graph the line passing through <span class="math-inline">(1,1)</span> with slope <span class="math-inline">m=<sup>3</sup>⁄<sub>2</sub>.</span>
 
 
 A bicycle route climbs <span class="math-inline">20</span> feet for <span class="math-inline">1,000</span> feet of horizontal distance. What is the slope of the route?
 
 
-<span class="math-inline"><sup>1</sup>∕<sub>50</sub></span>
+<span class="math-inline"><sup>1</sup>⁄<sub>50</sub></span>

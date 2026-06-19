@@ -1,77 +1,4 @@
-<style>
-.math-inline {
-    font-style: italic;
-    padding: 2px 6px;
-    border-radius: 4px;
-    background: #f8f9fa;
-    font-family: Georgia, serif;
-}
-.math-display {
-    background: #f8f9fa;
-    border-left: 4px solid #4a90d9;
-    padding: 16px 20px;
-    margin: 16px 0;
-    border-radius: 6px;
-    font-size: 1.15em;
-    font-family: Georgia, serif;
-    text-align: center;
-    line-height: 2;
-    overflow-x: auto;
-}
-.example-box, .example {
-    background: #f0f8ff;
-    border-left: 4px solid #2e86de;
-    padding: 12px 20px;
-    margin: 16px 0;
-    border-radius: 6px;
-}
-.tryit-box, .tryit {
-    background: #f0fff4;
-    border-left: 4px solid #27ae60;
-    padding: 12px 20px;
-    margin: 16px 0;
-    border-radius: 6px;
-}
-.solution-box, .solution {
-    background: #fef9e7;
-    border-left: 4px solid #f39c12;
-    padding: 12px 20px;
-    margin: 12px 0;
-    border-radius: 6px;
-}
-.check-box, .check {
-    background: #fef9e7;
-    border-left: 4px solid #f39c12;
-    padding: 12px 20px;
-    margin: 12px 0;
-    border-radius: 6px;
-}
-.prep-quiz {
-    background: #fff3cd;
-    border: 1px solid #ffc107;
-    padding: 12px 20px;
-    margin: 16px 0;
-    border-radius: 6px;
-}
-.def-label, .definition-label {
-    font-weight: bold;
-    font-size: 1.1em;
-    margin: 20px 0 8px 0;
-    color: #2c3e50;
-    display: block;
-}
-.math-display sup, .math-inline sup { font-size: 0.75em; line-height: 0; }
-.math-display sub, .math-inline sub { font-size: 0.75em; line-height: 0; }
-</style>
-
-
----
-
-
----
-
 ## Solve Sales Tax Applications
-
 
 Sales tax and commissions are applications of percent in our everyday lives. To solve these applications, we will follow the same strategy we used in the section on decimal operations. We show it again here for easy reference.
 
@@ -97,8 +24,7 @@ To find the sales tax multiply the purchase price by the sales tax rate. Remembe
 *The sales tax is calculated as a percent of the purchase price.*
 
 
-<div class="definition-label">**Sales Tax**</div>
-
+**Sales Tax**
 
 The **sales tax** is a percent of the purchase price.
 
@@ -109,7 +35,6 @@ Total Cost & = & Purchase Price
 </div>
 
 
-<div class="example">
 **Example**
 
 
@@ -122,8 +47,7 @@ Cathy bought a bicycle in Washington, where the sales tax rate was <span class="
 ⓑ the total cost of a bicycle if the purchase price of the bicycle was <span class="math-inline">$392?</span>
 
 
-<div class="solution">
-<span class="def-label">Solution</span>
+Solution
 
 
 ⓐ
@@ -147,8 +71,7 @@ The sales tax is 6.5% of the purchase price.
 Simplify.
 
 
-<div class="check">
-<span class="def-label">Check</span>
+ Check: Is this answer reasonable?
 
 
  Yes, because the sales tax amount is less than 10% of the purchase price.
@@ -179,8 +102,7 @@ The total cost is the purchase price plus the sales tax.
 Simplify.
 
 
-<div class="check">
-<span class="def-label">Check</span>
+ Check: Is this answer reasonable?
 
 
  Yes, because the total cost is a little more than the purchase price.
@@ -190,7 +112,6 @@ Simplify.
  The total cost of the bicycle is $417.48.
 
 
-<div class="tryit">
 **Try It**
 
 
@@ -204,7 +125,6 @@ Find ⓐ the sales tax and ⓑ the total cost: Alexandra bought a television set
 ⓑ $769.25
 
 
-<div class="tryit">
 **Try It**
 
 
@@ -218,15 +138,13 @@ Find ⓐ the sales tax and ⓑ the total cost: Kim bought a winter coat for <spa
 ⓑ $270.50
 
 
-<div class="example">
 **Example**
 
 
 Evelyn bought a new smartphone for <span class="math-inline">$499</span> plus tax. She was surprised when she got the receipt and saw that the tax was <span class="math-inline">$42.42.</span> What was the sales tax rate for this purchase?
 
 
-<div class="solution">
-<span class="def-label">Solution</span>
+Solution
 
 
 Identify what you are asked to find.
@@ -250,8 +168,7 @@ Divide.
 Simplify.
 
 
-<div class="check-box">
-<span class="def-label">Check. Is this answer reasonable?</span>
+ Check. Is this answer reasonable?
 
 
  Yes, because 8.5% is close to 10%.
@@ -263,7 +180,6 @@ Simplify.
  The sales tax rate is 8.5%.
 
 
-<div class="tryit">
 **Try It**
 
 
@@ -273,7 +189,6 @@ Diego bought a new car for <span class="math-inline">$26,525.</span> He was surp
 9%
 
 
-<div class="tryit">
 **Try It**
 
 
@@ -283,19 +198,16 @@ What is the sales tax rate if a <span class="math-inline">$7,594</span> purchase
 7.5%
 
 
----
-
-
----
-
 ## Solve Commission Applications
 
 
-Sales people often receive a **commission**, or percent of total sales, for their sales. Their income may be just the commission they earn, or it may be their commission added to their hourly wages or salary. The commission they earn is calculated as a certain percent of the price of each item they sell. That percent is called the *rate of commission*.
+Sales people often receive a **commission**, or percent of total sales, for their sales.
+Their income may be just the commission they earn, or it may be their commission added to their hourly wages or salary.
+The commission they earn is calculated as a certain percent of the price of each item they sell.
+That percent is called the *rate of commission*.
 
 
-<div class="definition-label">**Commission**</div>
-
+**Commission**
 
 A commission is a percentage of total sales as determined by the rate of commission.
 
@@ -304,19 +216,16 @@ A commission is a percentage of total sales as determined by the rate of commiss
 commission=rate of commission· total sales
 </div>
 
-
 To find the commission on a sale, multiply the rate of commission by the total sales. Just as we did for computing sales tax, remember to first convert the rate of commission from a percent to a decimal.
 
 
-<div class="example">
 **Example**
 
 
 Helene is a realtor. She receives <span class="math-inline">3%</span> commission when she sells a house. How much commission will she receive for selling a house that costs <span class="math-inline">$260,000?</span>
 
 
-<div class="solution">
-<span class="def-label">Solution</span>
+Solution
 
 
 Identify what you are asked to find.
@@ -337,8 +246,7 @@ The commission is 3% of the price.
 Simplify.
 
 
-<div class="check-box">
-<span class="def-label">Check. Is this answer reasonable?</span>
+ Check. Is this answer reasonable?
 
 
  Yes. 1% of $260,000 is $2,600, and $7,800 is three times $2,600.
@@ -348,7 +256,6 @@ Simplify.
  Helene will receive a commission of $7,800.
 
 
-<div class="tryit">
 **Try It**
 
 
@@ -358,7 +265,6 @@ Bob is a travel agent. He receives <span class="math-inline">7%</span> commissio
 $273
 
 
-<div class="tryit">
 **Try It**
 
 
@@ -368,15 +274,13 @@ Fernando receives <span class="math-inline">18%</span> commission when he makes 
 $394.20
 
 
-<div class="example">
 **Example**
 
 
 Rikki earned <span class="math-inline">$87</span> commission when she sold a <span class="math-inline">$1,450</span> stove. What rate of commission did she get?
 
 
-<div class="solution">
-<span class="def-label">Solution</span>
+Solution
 
 
 Identify what you are asked to find.
@@ -414,7 +318,6 @@ Change to percent form.
  The commission was 6% of the price of the stove.
 
 
-<div class="tryit">
 **Try It**
 
 
@@ -424,7 +327,6 @@ Homer received <span class="math-inline">$1,140</span> commission when he sold a
 4%
 
 
-<div class="tryit">
 **Try It**
 
 
@@ -434,22 +336,20 @@ Bernice earned <span class="math-inline">$451</span> commission when she sold an
 5.5%
 
 
----
-
-
----
-
 ## Solve Discount Applications
 
 
-Applications of discount are very common in retail settings . When you buy an item on sale, the *original price* of the item has been reduced by some dollar amount. The *discount rate*, usually given as a percent, is used to determine the amount of the discount. To determine the *amount of discount*, we multiply the discount rate by the original price. We summarize the discount model in the box below.
+Applications of discount are very common in retail settings .
+When you buy an item on sale, the *original price* of the item has been reduced by some dollar amount.
+The *discount rate*, usually given as a percent, is used to determine the amount of the discount.
+To determine the *amount of discount*, we multiply the discount rate by the original price.
+We summarize the discount model in the box below.
 
 
 *Applications of discounts are common in everyday life. (credit: Charleston's TheDigitel, Flickr)*
 
 
-<div class="definition-label">**Discount**</div>
-
+**Discount**
 
 An amount of **discount** is a percent off the original price.
 
@@ -459,19 +359,16 @@ amount of discount & = & discount rate \\
 sale price & = & original price
 </div>
 
-
 The sale price should always be less than the original price. In some cases, the amount of discount is a fixed dollar amount. Then we just find the sale price by subtracting the amount of discount from the original price.
 
 
-<div class="example">
 **Example**
 
 
 Jason bought a pair of sunglasses that were on sale for <span class="math-inline">$10</span> off. The original price of the sunglasses was <span class="math-inline">$39.</span> What was the sale price of the sunglasses?
 
 
-<div class="solution">
-<span class="def-label">Solution</span>
+Solution
 
 
 Identify what you are asked to find.
@@ -492,8 +389,7 @@ The sale price is the original price minus the discount.
 Simplify.
 
 
-<div class="check-box">
-<span class="def-label">Check if this answer is reasonable.</span>
+ Check if this answer is reasonable.
 
 
  Yes. The sale price, $29, is less than the original price, $39.
@@ -503,7 +399,6 @@ Simplify.
  The sale price of the sunglasses was $29.
 
 
-<div class="tryit">
 **Try It**
 
 
@@ -513,7 +408,6 @@ Marta bought a dishwasher that was on sale for <span class="math-inline">$75</sp
 $450
 
 
-<div class="tryit">
 **Try It**
 
 
@@ -526,17 +420,13 @@ $82
 In , the amount of discount was a set amount, <span class="math-inline">$10.</span> In  the discount is given as a percent of the original price.
 
 
-<div class="example">
 **Example**
 
 
 Elise bought a dress that was discounted <span class="math-inline">35%</span> off of the original price of <span class="math-inline">$140.</span> What was ⓐ the amount of discount and ⓑ the sale price of the dress?
 
 
-<div class="solution">
-<span class="def-label">Solution</span>
-
-
+Solution
 ⓐ Before beginning, you may find it helpful to organize the information in a list.
 
 Original price = $140
@@ -611,7 +501,6 @@ Simplify.
  The sale price of the dress was $91.
 
 
-<div class="tryit">
 **Try It**
 
 
@@ -625,7 +514,6 @@ Find ⓐ the amount of discount and ⓑ the sale price: Sergio bought a belt tha
 ⓑ $17.40
 
 
-<div class="tryit">
 **Try It**
 
 
@@ -642,17 +530,13 @@ Find ⓐ the amount of discount and ⓑ the sale price: Oscar bought a barbecue 
 There may be times when you buy something on sale and want to know the discount rate. The next example will show this case.
 
 
-<div class="example">
 **Example**
 
 
 Jeannette bought a swimsuit at a sale price of <span class="math-inline">$13.95.</span> The original price of the swimsuit was <span class="math-inline">$31.</span> Find the ⓐ amount of discount and ⓑ discount rate.
 
 
-<div class="solution">
-<span class="def-label">Solution</span>
-
-
+Solution
 ⓐ Before beginning, you may find it helpful to organize the information in a list.
 
 Original price = $31
@@ -730,7 +614,6 @@ Divide.
  The rate of discount was 55%.
 
 
-<div class="tryit">
 **Try It**
 
 
@@ -744,7 +627,6 @@ Find ⓐ the amount of discount and ⓑ the discount rate: Lena bought a kitchen
 ⓑ 33%
 
 
-<div class="tryit">
 **Try It**
 
 
@@ -758,19 +640,19 @@ Find ⓐ the amount of discount and ⓑ the discount rate: Nick bought a multi-r
 ⓑ 15%
 
 
----
-
-
----
-
 ## Solve Mark-up Applications
 
 
-Applications of mark-up are very common in retail settings. The price a retailer pays for an item is called the *wholesale price*. The retailer then adds a *mark-up* to the wholesale price to get the *list price*, the price he sells the item for. The mark-up is usually calculated as a percent of the wholesale price. The percent is called the *mark-up rate*. To determine the amount of mark-up, multiply the mark-up rate by the wholesale price. We summarize the mark-up model in the box below.
+Applications of mark-up are very common in retail settings.
+The price a retailer pays for an item is called the *wholesale price*.
+The retailer then adds a *mark-up* to the wholesale price to get the *list price*, the price he sells the item for.
+The mark-up is usually calculated as a percent of the wholesale price.
+The percent is called the *mark-up rate*.
+To determine the amount of mark-up, multiply the mark-up rate by the wholesale price.
+We summarize the mark-up model in the box below.
 
 
-<div class="definition-label">**Mark-up**</div>
-
+**Mark-up**
 
 The mark-up is the amount added to the wholesale price.
 
@@ -780,19 +662,16 @@ amount of mark-up & = & mark-up rate \\
 list price & = & wholesale price
 </div>
 
-
 The list price should always be more than the wholesale price.
 
 
-<div class="example">
 **Example**
 
 
 Adam's art gallery bought a photograph at the wholesale price of <span class="math-inline">$250.</span> Adam marked the price up <span class="math-inline">40%.</span> Find the ⓐ amount of mark-up and ⓑ the list price of the photograph.
 
 
-<div class="solution">
-<span class="def-label">Solution</span>
+Solution
 
 
 ⓐ
@@ -816,8 +695,7 @@ The mark-up is 40% of the wholesale price.
  Simplify.
 
 
-<div class="check-box">
-<span class="def-label">Check if this answer is reasonable.</span>
+ Check if this answer is reasonable.
 
 
 Yes. The markup rate is less than 50% and $100 is less than half of $250.
@@ -858,7 +736,6 @@ The list price is the wholesale price plus the mark-up.
  The list price of the photograph was $350.
 
 
-<div class="tryit">
 **Try It**
 
 
@@ -872,7 +749,6 @@ Jim's music store bought a guitar at wholesale price <span class="math-inline">$
 ⓑ $1,800
 
 
-<div class="tryit">
 **Try It**
 
 
@@ -886,13 +762,7 @@ The Auto Resale Store bought Pablo's Toyota for <span class="math-inline">$8,500
 ⓑ $11,475
 
 
----
-
-
----
-
 ## Key Concepts
-
 
 - *Sales Tax* The sales tax is a percent of the purchase price.
 
@@ -910,7 +780,7 @@ The Auto Resale Store bought Pablo's Toyota for <span class="math-inline">$8,500
 
 - *Mark-up* The mark-up is the amount added to the wholesale price, determined by the mark-up rate.
 
-  - <span class="math-inline">amount of mark-up=mark-up rate   wholesale price</span>
+  - <span class="math-inline">amount of mark-up=mark-up rate wholesale price</span>
   - <span class="math-inline">list price=wholesale price+mark up</span>
 
 
@@ -1246,7 +1116,9 @@ Michael bought a classic car for <span class="math-inline">$8,500.</span> He res
 ### Writing Exercises
 
 
-Priam bought a jacket that was on sale for <span class="math-inline">40%</span> off. The original price of the jacket was <span class="math-inline">$150.</span> While the sales clerk figured the price by calculating the amount of discount and then subtracting that amount from <span class="math-inline">$150,</span> Priam found the price faster by calculating <span class="math-inline">60%</span> of <span class="math-inline">$150.</span>
+Priam bought a jacket that was on sale for <span class="math-inline">40%</span> off.
+The original price of the jacket was <span class="math-inline">$150.</span> While the sales clerk figured the price by calculating the amount of discount and then subtracting that amount from <span class="math-inline">$150,</span> Priam found the price faster by calculating <span class="math-inline">60%</span> of <span class="math-inline">$150.</span>
+
 
   -
 ⓐ Explain why Priam was correct.
@@ -1273,108 +1145,25 @@ Roxy bought a scarf on sale for <span class="math-inline">50%</span> off. The or
 ⓑ What does this checklist tell you about your mastery of this section? What steps will you take to improve?
 
 
-<div class="prep-quiz">
 **Be Prepared!**
-
 
 Before you get started, take this readiness quiz.
 
 
 Solve <span class="math-inline">0.6y=45.</span>
 
-If you missed this problem, review .
+If you missed this problem, review
 
 
 <span class="math-inline">75</span>
 
 
-<div class="prep-quiz">
 **Be Prepared!**
 
 
-Solve <span class="math-inline"><sup>n</sup>∕<sub>1.45</sub>=4.6.</span>
+Solve <span class="math-inline"><sup>n</sup>⁄<sub>1.45</sub>=4.6.</span>
 
-If you missed this problem, review .
+If you missed this problem, review
 
 
 <span class="math-inline">6.67</span>
-
-</div>
-
-</div>
-
-</div>
-
-</div>
-
-</div>
-
-</div>
-
-</div>
-
-</div>
-
-</div>
-
-</div>
-
-</div>
-
-</div>
-
-</div>
-
-</div>
-
-</div>
-
-</div>
-
-</div>
-
-</div>
-
-</div>
-
-</div>
-
-</div>
-
-</div>
-
-</div>
-
-</div>
-
-</div>
-
-</div>
-
-</div>
-
-</div>
-
-</div>
-
-</div>
-
-</div>
-
-</div>
-
-</div>
-
-</div>
-
-</div>
-
-</div>
-
-</div>
-
-</div>
-
-</div>
-
-</div>

@@ -1,85 +1,11 @@
-<style>
-.math-inline {
-    font-style: italic;
-    padding: 2px 6px;
-    border-radius: 4px;
-    background: #f8f9fa;
-    font-family: Georgia, serif;
-}
-.math-display {
-    background: #f8f9fa;
-    border-left: 4px solid #4a90d9;
-    padding: 16px 20px;
-    margin: 16px 0;
-    border-radius: 6px;
-    font-size: 1.15em;
-    font-family: Georgia, serif;
-    text-align: center;
-    line-height: 2;
-    overflow-x: auto;
-}
-.example-box, .example {
-    background: #f0f8ff;
-    border-left: 4px solid #2e86de;
-    padding: 12px 20px;
-    margin: 16px 0;
-    border-radius: 6px;
-}
-.tryit-box, .tryit {
-    background: #f0fff4;
-    border-left: 4px solid #27ae60;
-    padding: 12px 20px;
-    margin: 16px 0;
-    border-radius: 6px;
-}
-.solution-box, .solution {
-    background: #fef9e7;
-    border-left: 4px solid #f39c12;
-    padding: 12px 20px;
-    margin: 12px 0;
-    border-radius: 6px;
-}
-.check-box, .check {
-    background: #fef9e7;
-    border-left: 4px solid #f39c12;
-    padding: 12px 20px;
-    margin: 12px 0;
-    border-radius: 6px;
-}
-.prep-quiz {
-    background: #fff3cd;
-    border: 1px solid #ffc107;
-    padding: 12px 20px;
-    margin: 16px 0;
-    border-radius: 6px;
-}
-.def-label, .definition-label {
-    font-weight: bold;
-    font-size: 1.1em;
-    margin: 20px 0 8px 0;
-    color: #2c3e50;
-    display: block;
-}
-.math-display sup, .math-inline sup { font-size: 0.75em; line-height: 0; }
-.math-display sub, .math-inline sub { font-size: 0.75em; line-height: 0; }
-</style>
-
-
----
-
-
----
-
 ## Determine Whether a Number is a Solution of an Equation
-
 
 In Solve Equations with the Subtraction and Addition Properties of Equality, we saw that a solution of an equation is a value of a variable that makes a true statement when substituted into that equation. In that section, we found solutions that were whole numbers. Now that we’ve worked with integers, we’ll find integer solutions to equations.
 
 The steps we take to determine whether a number is a solution to an equation are the same whether the solution is a whole number or an integer.
 
 
-<div class="definition-label">**How to determine whether a number is a solution to an equation.**</div>
-
+**How to determine whether a number is a solution to an equation.**
 
 - Substitute the number for the variable in the equation.
 
@@ -91,7 +17,6 @@ The steps we take to determine whether a number is a solution to an equation are
   - If it is not true, the number is not a solution.
 
 
-<div class="example">
 **Example**
 
 
@@ -103,8 +28,7 @@ Determine whether each of the following is a solution of <span class="math-inlin
   - ⓒ <span class="math-inline">x=−9.</span>
 
 
-<div class="solution">
-<span class="def-label">Solution</span>
+Solution
 
 
    ⓐ Substitute 4 for x in the equation to determine if it is true.
@@ -146,7 +70,6 @@ Since <span class="math-inline">x=−4</span> results in a true equation, <span 
 Since <span class="math-inline">x=−9</span> does not result in a true equation, <span class="math-inline">−9</span> is not a solution to the equation.
 
 
-<div class="tryit">
 **Try It**
 
 
@@ -162,7 +85,6 @@ Determine whether each of the following is a solution of <span class="math-inlin
   - ⓒ yes
 
 
-<div class="tryit">
 **Try It**
 
 
@@ -178,31 +100,23 @@ Determine whether each of the following is a solution of <span class="math-inlin
   - ⓒ yes
 
 
----
-
-
----
-
 ## Solve Equations with Integers Using the Addition and Subtraction Properties of Equality
-
 
 In Solve Equations with the Subtraction and Addition Properties of Equality, we solved equations similar to the two shown here using the Subtraction and Addition Properties of Equality. Now we can use them again with integers.
 
 When you add or subtract the same quantity from both sides of an equation, you still have equality.
 
 
-<div class="definition-label">**Properties of Equalities**</div>
+**Properties of Equalities**
 
 
-<div class="example">
 **Example**
 
 
 Solve: <span class="math-inline">y+9=5.</span>
 
 
-<div class="solution">
-<span class="def-label">Solution</span>
+Solution
 
 
   Subtract 9 from each side to undo the addition.
@@ -211,8 +125,7 @@ Solve: <span class="math-inline">y+9=5.</span>
  Simplify.
 
 
-<div class="check-box">
-<span class="def-label">Check the result by substituting <span class="math-inline">−4</span> into the original equation.</span>
+Check the result by substituting <span class="math-inline">−4</span> into the original equation.
 
 
    <span class="math-inline">y+9=5</span>
@@ -228,7 +141,6 @@ Solve: <span class="math-inline">y+9=5.</span>
 Since <span class="math-inline">y=−4</span> makes <span class="math-inline">y+9=5</span> a true statement, we found the solution to this equation.
 
 
-<div class="tryit">
 **Try It**
 
 
@@ -239,7 +151,6 @@ Solve:
 −4
 
 
-<div class="tryit">
 **Try It**
 
 
@@ -250,15 +161,13 @@ Solve:
 −19
 
 
-<div class="example">
 **Example**
 
 
 Solve: <span class="math-inline">a-6=−8</span>
 
 
-<div class="solution">
-<span class="def-label">Solution</span>
+Solution
 
 
   Add 6 to each side to undo the subtraction.
@@ -277,7 +186,6 @@ The solution to <span class="math-inline">a-6=−8</span> is <span class="math-i
 Since <span class="math-inline">a=−2</span> makes <span class="math-inline">a-6=−8</span> a true statement, we found the solution to this equation.
 
 
-<div class="tryit">
 **Try It**
 
 
@@ -288,7 +196,6 @@ Solve:
 −6
 
 
-<div class="tryit">
 **Try It**
 
 
@@ -299,13 +206,7 @@ Solve:
 −4
 
 
----
-
-
----
-
 ## Model the Division Property of Equality
-
 
 All of the equations we have solved so far have been of the form <span class="math-inline">x+a=b</span> or <span class="math-inline">x-a=b.</span> We were able to isolate the variable by adding or subtracting the constant term. Now we’ll see how to solve equations that involve division.
 
@@ -313,7 +214,10 @@ We will model an **equation** with envelopes and counters in .
 
 Here, there are two identical envelopes that contain the same number of counters. Remember, the left side of the workspace must equal the right side, but the counters on the left side are “hidden” in the envelopes. So how many counters are in each envelope?
 
-To determine the number, separate the counters on the right side into <span class="math-inline">2</span> groups of the same size. So <span class="math-inline">6</span> counters divided into <span class="math-inline">2</span> groups means there must be <span class="math-inline">3</span> counters in each group (since <span class="math-inline">6÷ 2=3).</span>
+
+To determine the number, separate the counters on the right side into <span class="math-inline">2</span> groups of the same size.
+So <span class="math-inline">6</span> counters divided into <span class="math-inline">2</span> groups means there must be <span class="math-inline">3</span> counters in each group (since <span class="math-inline">6÷ 2=3).</span>
+
 
 What equation models the situation shown in ? There are two envelopes, and each contains <span class="math-inline">x</span> counters. Together, the two envelopes must contain a total of <span class="math-inline">6</span> counters. So the equation that models the situation is <span class="math-inline">2x=6.</span>
 
@@ -323,24 +227,24 @@ We found that each envelope contains <span class="math-inline">3 counters.</span
 
  shows another example.
 
-Now we have <span class="math-inline">3</span> identical envelopes and <span class="math-inline">12 counters.</span> How many counters are in each envelope? We have to separate the <span class="math-inline">12 counters</span> into <span class="math-inline">3 groups.</span> Since <span class="math-inline">12÷ 3=4,</span> there must be <span class="math-inline">4 counters</span> in each envelope. See .
+
+Now we have <span class="math-inline">3</span> identical envelopes and <span class="math-inline">12 counters.</span> How many counters are in each envelope?
+We have to separate the <span class="math-inline">12 counters</span> into <span class="math-inline">3 groups.</span> Since <span class="math-inline">12÷ 3=4,</span> there must be <span class="math-inline">4 counters</span> in each envelope.
+See .
+
 
 The equation that models the situation is <span class="math-inline">3x=12.</span> We can divide both sides of the equation by <span class="math-inline">3.</span>
 
 Does this check? It does because <span class="math-inline">3· 4=12.</span>
 
 
-<div class="example">
 **Example**
 
 
 Write an equation modeled by the envelopes and counters, and then solve it.
 
 
-<div class="solution">
-<span class="def-label">Solution</span>
-
-
+Solution
 There are <span class="math-inline">4 envelopes,</span> or <span class="math-inline">4</span> unknown values, on the left that match the <span class="math-inline">8 counters</span> on the right. Let’s call the unknown quantity in the envelopes <span class="math-inline">x.</span>
 
 
@@ -356,7 +260,6 @@ There are <span class="math-inline">4 envelopes,</span> or <span class="math-inl
 There are <span class="math-inline">2 counters</span> in each envelope.
 
 
-<div class="tryit">
 **Try It**
 
 
@@ -366,7 +269,6 @@ Write the equation modeled by the envelopes and counters. Then solve it.
 4*x* = 12; *x* = 3
 
 
-<div class="tryit">
 **Try It**
 
 
@@ -376,37 +278,27 @@ Write the equation modeled by the envelopes and counters. Then solve it.
 3*x* = 6; *x* = 2
 
 
----
-
-
----
-
 ## Solve Equations Using the Division Property of Equality
-
 
 The previous examples lead to the **Division Property of Equality**. When you divide both sides of an **equation** by any nonzero number, you still have equality.
 
 
-<div class="definition-label">**Division Property of Equality**</div>
+**Division Property of Equality**
 
 
 <div class="math-display">
 For any numbers & a & c \\
-If & a & <sup>a</sup>∕<sub>c</sub>
+If & a & <sup>a</sup>⁄<sub>c</sub>
 </div>
 
 
-<div class="example">
 **Example**
 
 
 <span class="math-inline">Solve: 7x=−49.</span>
 
 
-<div class="solution">
-<span class="def-label">Solution</span>
-
-
+Solution
 To isolate <span class="math-inline">x,</span> we need to undo multiplication.
 
 
@@ -416,8 +308,7 @@ To isolate <span class="math-inline">x,</span> we need to undo multiplication.
  Simplify.
 
 
-<div class="check-box">
-<span class="def-label">Check the solution.</span>
+Check the solution.
 
 
    <span class="math-inline">7x=−49</span>
@@ -433,7 +324,6 @@ To isolate <span class="math-inline">x,</span> we need to undo multiplication.
 Therefore, <span class="math-inline">−7</span> is the solution to the equation.
 
 
-<div class="tryit">
 **Try It**
 
 
@@ -444,7 +334,6 @@ Solve:
 7
 
 
-<div class="tryit">
 **Try It**
 
 
@@ -455,17 +344,13 @@ Solve:
 11
 
 
-<div class="example">
 **Example**
 
 
 Solve: <span class="math-inline">−3y=63.</span>
 
 
-<div class="solution">
-<span class="def-label">Solution</span>
-
-
+Solution
 To isolate <span class="math-inline">y,</span> we need to undo the multiplication.
 
 
@@ -491,7 +376,6 @@ Check the solution.
 Since this is a true statement, <span class="math-inline">y=−21</span> is the solution to the equation.
 
 
-<div class="tryit">
 **Try It**
 
 
@@ -502,7 +386,6 @@ Solve:
 −12
 
 
-<div class="tryit">
 **Try It**
 
 
@@ -513,26 +396,18 @@ Solve:
 −9
 
 
----
-
-
----
-
 ## Translate to an Equation and Solve
-
 
 In the past several examples, we were given an **equation** containing a variable. In the next few examples, we’ll have to first translate word sentences into equations with variables and then we will solve the equations.
 
 
-<div class="example">
 **Example**
 
 
 Translate and solve: five more than <span class="math-inline">x</span> is equal to <span class="math-inline">−3.</span>
 
 
-<div class="solution">
-<span class="def-label">Solution</span>
+Solution
 
 
    five more than <span class="math-inline">x</span> is equal to <span class="math-inline">−3</span>
@@ -550,16 +425,14 @@ Translate and solve: five more than <span class="math-inline">x</span> is equal 
  <span class="math-inline">x=−8</span>
 
 
-<div class="check-box">
-**Check the answer by substituting it into the original equation.
-\(\\
+Check the answer by substituting it into the original equation.
+<span class="math-inline">\\
  \\
 x \\
 −8 \\
-−3\)**
+−3</span>
 
 
-<div class="tryit">
 **Try It**
 
 
@@ -570,7 +443,6 @@ Seven more than <span class="math-inline">x</span> is equal to <span class="math
 *x* + 7 = −2; *x* = −9
 
 
-<div class="tryit">
 **Try It**
 
 
@@ -581,15 +453,13 @@ Translate and solve:
 *y* + 11 = 2; *y* = −9
 
 
-<div class="example">
 **Example**
 
 
 Translate and solve: the difference of <span class="math-inline">n</span> and <span class="math-inline">6</span> is <span class="math-inline">−10.</span>
 
 
-<div class="solution">
-<span class="def-label">Solution</span>
+Solution
 
 
    the difference of <span class="math-inline">n</span> and <span class="math-inline">6</span> is <span class="math-inline">−10</span>
@@ -608,13 +478,12 @@ Translate and solve: the difference of <span class="math-inline">n</span> and <s
 
 
 Check the answer by substituting it into the original equation.
-\(\\
+<span class="math-inline">\\
  \\
 −4 \\
-−10\)
+−10</span>
 
 
-<div class="tryit">
 **Try It**
 
 
@@ -625,7 +494,6 @@ The difference of <span class="math-inline">p</span> and <span class="math-inlin
 *p* − 2 = −4; *p* = −2
 
 
-<div class="tryit">
 **Try It**
 
 
@@ -636,15 +504,13 @@ The difference of <span class="math-inline">q</span> and <span class="math-inlin
 *q* − 7 = −3; *q* = 4
 
 
-<div class="example">
 **Example**
 
 
 Translate and solve: the number <span class="math-inline">108</span> is the product of <span class="math-inline">−9</span> and <span class="math-inline">y.</span>
 
 
-<div class="solution">
-<span class="def-label">Solution</span>
+Solution
 
 
    the number of <span class="math-inline">108</span> is the product of <span class="math-inline">−9</span> and <span class="math-inline">y</span>
@@ -655,7 +521,7 @@ Translate and solve: the number <span class="math-inline">108</span> is the prod
 
 
  Divide by <span class="math-inline">−9</span>.
- <span class="math-inline"><sup>108</sup>∕<sub>−9</sub>=<sup>−9y</sup>∕<sub>−9</sub></span>
+ <span class="math-inline"><sup>108</sup>⁄<sub>−9</sub>=<sup>−9y</sup>⁄<sub>−9</sub></span>
 
 
  Simplify.
@@ -663,12 +529,11 @@ Translate and solve: the number <span class="math-inline">108</span> is the prod
 
 
 Check the answer by substituting it into the original equation.
-\(108 \\
+<span class="math-inline">108 \\
 108 \\
-108\)
+108</span>
 
 
-<div class="tryit">
 **Try It**
 
 
@@ -679,7 +544,6 @@ The number <span class="math-inline">132</span> is the product of <span class="m
 132 = −12*y*; *y* = −11
 
 
-<div class="tryit">
 **Try It**
 
 
@@ -690,21 +554,14 @@ The number <span class="math-inline">117</span> is the product of <span class="m
 117 = −13*z*; *z* = −9
 
 
-<div class="definition-label">**ACCESS ADDITIONAL ONLINE RESOURCES**</div>
-
+**ACCESS ADDITIONAL ONLINE RESOURCES**
 
 - One-Step Equations With Adding Or Subtracting
 
 - One-Step Equations With Multiplying Or Dividing
 
 
----
-
-
----
-
 ## Key Concepts
-
 
 - *How to determine whether a number is a solution to an equation.*
 
@@ -735,13 +592,8 @@ Addition Property of Equality
   - For any numbers <span class="math-inline">a,b,c,</span> and <span class="math-inline">c≠ 0</span>
  If <span class="math-inline">a=b</span>, then
 
-<span class="math-inline"><sup>a</sup>∕<sub>c</sub>=<sup>b</sup>∕<sub>c</sub></span>.
+<span class="math-inline"><sup>a</sup>⁄<sub>c</sub>=<sup>b</sup>⁄<sub>c</sub></span>.
 
-
----
-
-
----
 
 ## Section Exercises
 
@@ -1109,81 +961,3 @@ Raoul started to solve the equation <span class="math-inline">4y=40</span> by su
 
 
 ⓑ Overall, after looking at the checklist, do you think you are well-prepared for the next Chapter? Why or why not?
-
-</div>
-
-</div>
-
-</div>
-
-</div>
-
-</div>
-
-</div>
-
-</div>
-
-</div>
-
-</div>
-
-</div>
-
-</div>
-
-</div>
-
-</div>
-
-</div>
-
-</div>
-
-</div>
-
-</div>
-
-</div>
-
-</div>
-
-</div>
-
-</div>
-
-</div>
-
-</div>
-
-</div>
-
-</div>
-
-</div>
-
-</div>
-
-</div>
-
-</div>
-
-</div>
-
-</div>
-
-</div>
-
-</div>
-
-</div>
-
-</div>
-
-</div>
-
-</div>
-
-</div>
-
-</div>

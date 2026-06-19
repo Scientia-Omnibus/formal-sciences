@@ -1,85 +1,14 @@
-<style>
-.math-inline {
-    font-style: italic;
-    padding: 2px 6px;
-    border-radius: 4px;
-    background: #f8f9fa;
-    font-family: Georgia, serif;
-}
-.math-display {
-    background: #f8f9fa;
-    border-left: 4px solid #4a90d9;
-    padding: 16px 20px;
-    margin: 16px 0;
-    border-radius: 6px;
-    font-size: 1.15em;
-    font-family: Georgia, serif;
-    text-align: center;
-    line-height: 2;
-    overflow-x: auto;
-}
-.example-box, .example {
-    background: #f0f8ff;
-    border-left: 4px solid #2e86de;
-    padding: 12px 20px;
-    margin: 16px 0;
-    border-radius: 6px;
-}
-.tryit-box, .tryit {
-    background: #f0fff4;
-    border-left: 4px solid #27ae60;
-    padding: 12px 20px;
-    margin: 16px 0;
-    border-radius: 6px;
-}
-.solution-box, .solution {
-    background: #fef9e7;
-    border-left: 4px solid #f39c12;
-    padding: 12px 20px;
-    margin: 12px 0;
-    border-radius: 6px;
-}
-.check-box, .check {
-    background: #fef9e7;
-    border-left: 4px solid #f39c12;
-    padding: 12px 20px;
-    margin: 12px 0;
-    border-radius: 6px;
-}
-.prep-quiz {
-    background: #fff3cd;
-    border: 1px solid #ffc107;
-    padding: 12px 20px;
-    margin: 16px 0;
-    border-radius: 6px;
-}
-.def-label, .definition-label {
-    font-weight: bold;
-    font-size: 1.1em;
-    margin: 20px 0 8px 0;
-    color: #2c3e50;
-    display: block;
-}
-.math-display sup, .math-inline sup { font-size: 0.75em; line-height: 0; }
-.math-display sub, .math-inline sub { font-size: 0.75em; line-height: 0; }
-</style>
-
-
----
-
-
----
-
 ## Solve Equations Using the Division and Multiplication Properties of Equality
 
 
-We introduced the Multiplication and Division Properties of Equality in Solve Equations Using Integers; The Division Property of Equality and Solve Equations with Fractions. We modeled how these properties worked using envelopes and counters and then applied them to solving equations (See Solve Equations Using Integers; The Division Property of Equality). We restate them again here as we prepare to use these properties again.
+We introduced the Multiplication and Division Properties of Equality in Solve Equations Using Integers; The Division Property of Equality and Solve Equations with Fractions.
+We modeled how these properties worked using envelopes and counters and then applied them to solving equations (See Solve Equations Using Integers; The Division Property of Equality).
+We restate them again here as we prepare to use these properties again.
 
 
-<div class="definition-label">**Division and Multiplication Properties of Equality**</div>
+**Division and Multiplication Properties of Equality**
 
-
-**Division Property of Equality**: For all real numbers <span class="math-inline">a,b,c,</span> and <span class="math-inline">c≠ 0,</span> if <span class="math-inline">a=b,</span> then <span class="math-inline"><sup>a</sup>∕<sub>c</sub>=<sup>b</sup>∕<sub>c</sub>.</span>
+**Division Property of Equality**: For all real numbers <span class="math-inline">a,b,c,</span> and <span class="math-inline">c≠ 0,</span> if <span class="math-inline">a=b,</span> then <span class="math-inline"><sup>a</sup>⁄<sub>c</sub>=<sup>b</sup>⁄<sub>c</sub>.</span>
 
 **Multiplication Property of Equality**: For all real numbers <span class="math-inline">a,b,c,</span> if <span class="math-inline">a=b,</span> then <span class="math-inline">ac=bc.</span>
 
@@ -88,17 +17,13 @@ When you divide or multiply both sides of an equation by the same quantity, you 
 Let’s review how these properties of equality can be applied in order to solve equations. Remember, the goal is to ‘undo’ the operation on the variable. In the example below the variable is multiplied by <span class="math-inline">4,</span> so we will divide both sides by <span class="math-inline">4</span> to ‘undo’ the multiplication.
 
 
-<div class="example">
 **Example**
 
 
 Solve: <span class="math-inline">4x=−28.</span>
 
 
-<div class="solution">
-<span class="def-label">Solution</span>
-
-
+Solution
 We use the Division Property of Equality to divide both sides by <span class="math-inline">4.</span>
 
 
@@ -108,14 +33,12 @@ We use the Division Property of Equality to divide both sides by <span class="ma
    Simplify.
 
 
-<div class="check-box">
-<span class="def-label">Check your answer. Let <span class="math-inline">x=−7</span>.</span>
+   Check your answer. Let <span class="math-inline">x=−7</span>.
 
 
 Since this is a true statement, <span class="math-inline">x=−7</span> is a solution to <span class="math-inline">4x=−28.</span>
 
 
-<div class="tryit">
 **Try It**
 
 
@@ -125,7 +48,6 @@ Solve: <span class="math-inline">3y=−48.</span>
 *y* = −16
 
 
-<div class="tryit">
 **Try It**
 
 
@@ -138,17 +60,13 @@ Solve: <span class="math-inline">4z=−52.</span>
 In the previous example, to ‘undo’ multiplication, we divided. How do you think we ‘undo’ division?
 
 
-<div class="example">
 **Example**
 
 
-Solve: <span class="math-inline"><sup> a</sup>∕<sub>−7</sub>=−42.</span>
+Solve: <span class="math-inline"><sup>a</sup>⁄<sub>−7</sub>=−42.</span>
 
 
-<div class="solution">
-<span class="def-label">Solution</span>
-
-
+Solution
 Here <span class="math-inline">a</span> is divided by <span class="math-inline">−7.</span> We can multiply both sides by <span class="math-inline">−7</span> to isolate <span class="math-inline">a.</span>
 
 
@@ -161,37 +79,31 @@ Here <span class="math-inline">a</span> is divided by <span class="math-inline">
    Check your answer. Let <span class="math-inline">a=294</span>.
 
 
-<div class="tryit">
 **Try It**
 
 
-Solve: <span class="math-inline"><sup> b</sup>∕<sub>−6</sub>=−24.</span>
+Solve: <span class="math-inline"><sup>b</sup>⁄<sub>−6</sub>=−24.</span>
 
 
 *b* = 144
 
 
-<div class="tryit">
 **Try It**
 
 
-Solve: <span class="math-inline"><sup> c</sup>∕<sub>−8</sub>=−16.</span>
+Solve: <span class="math-inline"><sup>c</sup>⁄<sub>−8</sub>=−16.</span>
 
 
 *c* = 128
 
 
-<div class="example">
 **Example**
 
 
 Solve: <span class="math-inline">-r=2.</span>
 
 
-<div class="solution">
-<span class="def-label">Solution</span>
-
-
+Solution
 Remember <span class="math-inline">-r</span> is equivalent to <span class="math-inline">−1r.</span>
 
 
@@ -214,7 +126,6 @@ In Solve Equations with Fractions, we saw that there are two other ways to solve
 We could take the opposite of both sides.
 
 
-<div class="tryit">
 **Try It**
 
 
@@ -224,7 +135,6 @@ Solve: <span class="math-inline">-k=8.</span>
 *k* = −8
 
 
-<div class="tryit">
 **Try It**
 
 
@@ -234,21 +144,17 @@ Solve: <span class="math-inline">-g=3.</span>
 *g* = −3
 
 
-<div class="example">
 **Example**
 
 
-Solve: <span class="math-inline"><sup>2</sup>∕<sub>3</sub> x=18.</span>
+Solve: <span class="math-inline"><sup>2</sup>⁄<sub>3</sub> x=18.</span>
 
 
-<div class="solution">
-<span class="def-label">Solution</span>
+Solution
+Since the product of a number and its reciprocal is <span class="math-inline">1,</span> our strategy will be to isolate <span class="math-inline">x</span> by multiplying by the reciprocal of <span class="math-inline"><sup>2</sup>⁄<sub>3</sub>.</span>
 
 
-Since the product of a number and its reciprocal is <span class="math-inline">1,</span> our strategy will be to isolate <span class="math-inline">x</span> by multiplying by the reciprocal of <span class="math-inline"><sup>2</sup>∕<sub>3</sub>.</span>
-
-
-   Multiply by the reciprocal of <span class="math-inline"><sup>2</sup>∕<sub>3</sub></span>.
+   Multiply by the reciprocal of <span class="math-inline"><sup>2</sup>⁄<sub>3</sub></span>.
 
 
    Reciprocals multiply to one.
@@ -260,51 +166,39 @@ Since the product of a number and its reciprocal is <span class="math-inline">1,
    Check your answer. Let <span class="math-inline">x=27</span>
 
 
-Notice that we could have divided both sides of the equation <span class="math-inline"><sup>2</sup>∕<sub>3</sub> x=18</span> by <span class="math-inline"><sup>2</sup>∕<sub>3</sub></span> to isolate <span class="math-inline">x.</span> While this would work, multiplying by the reciprocal requires fewer steps.
+Notice that we could have divided both sides of the equation <span class="math-inline"><sup>2</sup>⁄<sub>3</sub> x=18</span> by <span class="math-inline"><sup>2</sup>⁄<sub>3</sub></span> to isolate <span class="math-inline">x.</span> While this would work, multiplying by the reciprocal requires fewer steps.
 
 
-<div class="tryit">
 **Try It**
 
 
-Solve: <span class="math-inline"><sup>2</sup>∕<sub>5</sub> n=14.</span>
+Solve: <span class="math-inline"><sup>2</sup>⁄<sub>5</sub> n=14.</span>
 
 
 *n* = 35
 
 
-<div class="tryit">
 **Try It**
 
 
-Solve: <span class="math-inline"><sup>5</sup>∕<sub>6</sub> y=15.</span>
+Solve: <span class="math-inline"><sup>5</sup>⁄<sub>6</sub> y=15.</span>
 
 
 *y* = 18
 
 
----
-
-
----
-
 ## Solve Equations That Need to be Simplified
-
 
 Many equations start out more complicated than the ones we’ve just solved. First, we need to simplify both sides of the equation as much as possible
 
 
-<div class="example">
 **Example**
 
 
 Solve: <span class="math-inline">8x+9x-5x=−3+15.</span>
 
 
-<div class="solution">
-<span class="def-label">Solution</span>
-
-
+Solution
 Start by combining like terms to simplify each side.
 
 
@@ -317,11 +211,9 @@ Start by combining like terms to simplify each side.
    Simplify.
 
 
-<div class="check-box">
-<span class="def-label">Check your answer. Let <span class="math-inline">x=1</span></span>
+   Check your answer. Let <span class="math-inline">x=1</span>
 
 
-<div class="tryit">
 **Try It**
 
 
@@ -331,7 +223,6 @@ Solve: <span class="math-inline">7x+6x-4x=−8+26.</span>
 *x* = 2
 
 
-<div class="tryit">
 **Try It**
 
 
@@ -341,17 +232,13 @@ Solve: <span class="math-inline">11n-3n-6n=7-17.</span>
 *n* = −5
 
 
-<div class="example">
 **Example**
 
 
 Solve: <span class="math-inline">11-20=17y-8y-6y.</span>
 
 
-<div class="solution">
-<span class="def-label">Solution</span>
-
-
+Solution
 Simplify each side by combining like terms.
 
 
@@ -370,7 +257,6 @@ Simplify each side by combining like terms.
 Notice that the variable ended up on the right side of the equal sign when we solved the equation. You may prefer to take one more step to write the solution with the variable on the left side of the equal sign.
 
 
-<div class="tryit">
 **Try It**
 
 
@@ -380,27 +266,22 @@ Solve: <span class="math-inline">18-27=15c-9c-3c.</span>
 *c* = −3
 
 
-<div class="tryit">
 **Try It**
 
 
 Solve: <span class="math-inline">18-22=12x-x-4x.</span>
 
 
-<span class="math-inline">x=-<sup>4</sup>∕<sub>7</sub></span>
+<span class="math-inline">x=-<sup>4</sup>⁄<sub>7</sub></span>
 
 
-<div class="example">
 **Example**
 
 
 Solve: <span class="math-inline">−3(n-2)-6=21.</span>
 
 
-<div class="solution">
-<span class="def-label">Solution</span>
-
-
+Solution
 Remember—always simplify each side first.
 
 
@@ -416,7 +297,6 @@ Remember—always simplify each side first.
    Check your answer. Let <span class="math-inline">n=−7</span>.
 
 
-<div class="tryit">
 **Try It**
 
 
@@ -426,7 +306,6 @@ Solve: <span class="math-inline">−4(n-2)-8=24.</span>
 *n* = −6
 
 
-<div class="tryit">
 **Try It**
 
 
@@ -436,8 +315,7 @@ Solve: <span class="math-inline">−6(n-2)-12=30.</span>
 *n* = −5
 
 
-<div class="definition-label">**ACCESS ADDITIONAL ONLINE RESOURCES**</div>
-
+**ACCESS ADDITIONAL ONLINE RESOURCES**
 
 - Solving One Step Equation by Mult/Div. Integers (Var on Left)
 
@@ -446,16 +324,10 @@ Solve: <span class="math-inline">−6(n-2)-12=30.</span>
 - Solving One Step Equation in the Form: −*x* = −*a*
 
 
----
-
-
----
-
 ## Key Concepts
 
-
 - *Division and Multiplication Properties of Equality*
-  - *Division Property of Equality:* For all real numbers *a, b, c,* and <span class="math-inline">c≠ 0</span>, if <span class="math-inline">a=b</span>, then <span class="math-inline"><sup>a</sup>∕<sub>c</sub>=<sup>b</sup>∕<sub>c</sub></span>.
+  - *Division Property of Equality:* For all real numbers *a, b, c,* and <span class="math-inline">c≠ 0</span>, if <span class="math-inline">a=b</span>, then <span class="math-inline"><sup>a</sup>⁄<sub>c</sub>=<sup>b</sup>⁄<sub>c</sub></span>.
   - *Multiplication Property of Equality:* For all real numbers *a, b, c,* if <span class="math-inline">a=b</span>, then <span class="math-inline">ac=bc</span>.
 
 
@@ -523,67 +395,67 @@ In the following exercises, solve each equation for the variable using the Divis
 In the following exercises, solve each equation for the variable using the Multiplication Property of Equality and check the solution.
 
 
-<span class="math-inline"><sup>x</sup>∕<sub>4</sub>=15</span>
+<span class="math-inline"><sup>x</sup>⁄<sub>4</sub>=15</span>
 
 
-<span class="math-inline"><sup>z</sup>∕<sub>2</sub>=14</span>
+<span class="math-inline"><sup>z</sup>⁄<sub>2</sub>=14</span>
 
 
 *z* = 28
 
 
-<span class="math-inline">−20=<sup> q</sup>∕<sub>−5</sub></span>
+<span class="math-inline">−20=<sup>q</sup>⁄<sub>−5</sub></span>
 
 
-<span class="math-inline"><sup> c</sup>∕<sub>−3</sub>=−12</span>
+<span class="math-inline"><sup>c</sup>⁄<sub>−3</sub>=−12</span>
 
 
 *c* = 36
 
 
-<span class="math-inline"><sup>y</sup>∕<sub>9</sub>=−6</span>
+<span class="math-inline"><sup>y</sup>⁄<sub>9</sub>=−6</span>
 
 
-<span class="math-inline"><sup>q</sup>∕<sub>6</sub>=−8</span>
+<span class="math-inline"><sup>q</sup>⁄<sub>6</sub>=−8</span>
 
 
 *q* = −48
 
 
-<span class="math-inline"><sup>m</sup>∕<sub>−12</sub>=5</span>
+<span class="math-inline"><sup>m</sup>⁄<sub>−12</sub>=5</span>
 
 
-<span class="math-inline">−4=<sup>p</sup>∕<sub>−20</sub></span>
+<span class="math-inline">−4=<sup>p</sup>⁄<sub>−20</sub></span>
 
 
 *p* = 80
 
 
-<span class="math-inline"><sup>2</sup>∕<sub>3</sub> y=18</span>
+<span class="math-inline"><sup>2</sup>⁄<sub>3</sub> y=18</span>
 
 
-<span class="math-inline"><sup>3</sup>∕<sub>5</sub> r=15</span>
+<span class="math-inline"><sup>3</sup>⁄<sub>5</sub> r=15</span>
 
 
 *r* = 25
 
 
-<span class="math-inline">-<sup>5</sup>∕<sub>8</sub> w=40</span>
+<span class="math-inline">-<sup>5</sup>⁄<sub>8</sub> w=40</span>
 
 
-<span class="math-inline">24=-<sup>3</sup>∕<sub>4</sub> x</span>
+<span class="math-inline">24=-<sup>3</sup>⁄<sub>4</sub> x</span>
 
 
 *x* = −32
 
 
-<span class="math-inline">-<sup>2</sup>∕<sub>5</sub>=<sup>1</sup>∕<sub>10</sub> a</span>
+<span class="math-inline">-<sup>2</sup>⁄<sub>5</sub>=<sup>1</sup>⁄<sub>10</sub> a</span>
 
 
-<span class="math-inline">-<sup>1</sup>∕<sub>3</sub> q=-<sup>5</sup>∕<sub>6</sub></span>
+<span class="math-inline">-<sup>1</sup>⁄<sub>3</sub> q=-<sup>5</sup>⁄<sub>6</sub></span>
 
 
-<span class="math-inline">q=<sup>5</sup>∕<sub>2</sub></span>
+<span class="math-inline">q=<sup>5</sup>⁄<sub>2</sub></span>
 
 
 *Solve Equations That Need to be Simplified*
@@ -615,13 +487,13 @@ In the following exercises, solve the equation.
 <span class="math-inline">−18-7=5t-9t-6t</span>
 
 
-<span class="math-inline">t=<sup>5</sup>∕<sub>2</sub></span>
+<span class="math-inline">t=<sup>5</sup>⁄<sub>2</sub></span>
 
 
-<span class="math-inline"><sup>7</sup>∕<sub>8</sub> n-<sup>3</sup>∕<sub>4</sub> n=9+2</span>
+<span class="math-inline"><sup>7</sup>⁄<sub>8</sub> n-<sup>3</sup>⁄<sub>4</sub> n=9+2</span>
 
 
-<span class="math-inline"><sup>5</sup>∕<sub>12</sub> q+<sup>1</sup>∕<sub>2</sub> q=25-3</span>
+<span class="math-inline"><sup>5</sup>⁄<sub>12</sub> q+<sup>1</sup>⁄<sub>2</sub> q=25-3</span>
 
 
 *q* = 24
@@ -657,10 +529,10 @@ In the following exercises, solve the equation.
 $1.08
 
 
-*Fuel economy* Tania’s SUV gets half as many miles per gallon (mpg) as her husband’s hybrid car. The SUV gets <span class="math-inline">18 mpg.</span> Find the miles per gallons, <span class="math-inline">m,</span> of the hybrid car, by solving the equation <span class="math-inline"><sup>1</sup>∕<sub>2</sub> m=18.</span>
+*Fuel economy* Tania’s SUV gets half as many miles per gallon (mpg) as her husband’s hybrid car. The SUV gets <span class="math-inline">18 mpg.</span> Find the miles per gallons, <span class="math-inline">m,</span> of the hybrid car, by solving the equation <span class="math-inline"><sup>1</sup>⁄<sub>2</sub> m=18.</span>
 
 
-*Fabric* The drill team used <span class="math-inline">14</span> yards of fabric to make flags for one-third of the members. Find how much fabric, <span class="math-inline">f,</span> they would need to make flags for the whole team by solving the equation <span class="math-inline"><sup>1</sup>∕<sub>3</sub> f=14.</span>
+*Fabric* The drill team used <span class="math-inline">14</span> yards of fabric to make flags for one-third of the members. Find how much fabric, <span class="math-inline">f,</span> they would need to make flags for the whole team by solving the equation <span class="math-inline"><sup>1</sup>⁄<sub>3</sub> f=14.</span>
 
 
 42 yards
@@ -672,7 +544,7 @@ $1.08
 Frida started to solve the equation <span class="math-inline">−3x=36</span> by adding <span class="math-inline">3</span> to both sides. Explain why Frida’s method will result in the correct solution.
 
 
-Emiliano thinks <span class="math-inline">x=40</span> is the solution to the equation <span class="math-inline"><sup>1</sup>∕<sub>2</sub> x=80.</span> Explain why he is wrong.
+Emiliano thinks <span class="math-inline">x=40</span> is the solution to the equation <span class="math-inline"><sup>1</sup>⁄<sub>2</sub> x=80.</span> Explain why he is wrong.
 
 
 Answer will vary.
@@ -686,52 +558,42 @@ Answer will vary.
 ⓑ After reviewing this checklist, what will you do to become confident for all objectives?
 
 
-<div class="prep-quiz">
 **Be Prepared!**
-
 
 Before you get started, take this readiness quiz.
 
 
 Simplify: <span class="math-inline">4y-9+9.</span>
 
-If you missed this problem, review .
+If you missed this problem, review
 
 
 <span class="math-inline">4y</span>
 
 
-<div class="prep-quiz">
 **Be Prepared!**
 
 
 Solve: <span class="math-inline">y+12=16.</span>
 
-If you missed this problem, review .
+If you missed this problem, review
 
 
 <span class="math-inline">4</span>
 
 
-<div class="prep-quiz">
 **Be Prepared!**
 
 
 Solve: <span class="math-inline">−3y=63.</span>
 
-If you missed this problem, review .
+If you missed this problem, review
 
 
 <span class="math-inline">-21</span>
 
 
----
-
-
----
-
 ## Solve an Equation with Constants on Both Sides
-
 
 You may have noticed that in all the equations we have solved so far, all the **variable** terms were on only one side of the equation with the **constants** on the other side. This does not happen all the time—so now we’ll see how to solve equations where the variable terms and/or constant terms are on both sides of the equation.
 
@@ -740,17 +602,13 @@ Our strategy will involve choosing one side of the equation to be the variable s
 By doing this, we will transform the equation that started with variables and constants on both sides into the form <span class="math-inline">ax=b.</span> We already know how to solve equations of this form by using the Division or Multiplication Properties of Equality.
 
 
-<div class="example">
 **Example**
 
 
 Solve: <span class="math-inline">4x+6=−14.</span>
 
 
-<div class="solution">
-<span class="def-label">Solution</span>
-
-
+Solution
 In this equation, the variable is only on the left side. It makes sense to call the left side the variable side. Therefore, the right side will be the constant side. We’ll write the labels above the equation to help us remember what goes where.
 
 
@@ -772,14 +630,12 @@ In this equation, the variable is only on the left side. It makes sense to call 
   Simplify.
 
 
-<div class="check">
-<span class="def-label">Check</span>
+  Check:
 
 
    Let <span class="math-inline">x=−5</span>.
 
 
-<div class="tryit">
 **Try It**
 
 
@@ -789,7 +645,6 @@ Solve: <span class="math-inline">3x+4=−8.</span>
 *x* = −4
 
 
-<div class="tryit">
 **Try It**
 
 
@@ -799,18 +654,17 @@ Solve: <span class="math-inline">5a+3=−37.</span>
 *a* = −8
 
 
-<div class="example">
 **Example**
 
 
 Solve: <span class="math-inline">2y-7=15.</span>
 
 
-<div class="solution">
-<span class="def-label">Solution</span>
+Solution
 
-
-Notice that the variable is only on the left side of the equation, so this will be the variable side and the right side will be the constant side. Since the left side is the variable side, the <span class="math-inline">7</span> is out of place. It is subtracted from the <span class="math-inline">2y,</span> so to ‘undo’ subtraction, add <span class="math-inline">7</span> to both sides.
+Notice that the variable is only on the left side of the equation, so this will be the variable side and the right side will be the constant side.
+Since the left side is the variable side, the <span class="math-inline">7</span> is out of place.
+It is subtracted from the <span class="math-inline">2y,</span> so to ‘undo’ subtraction, add <span class="math-inline">7</span> to both sides.
 
 
    Add 7 to both sides.
@@ -828,14 +682,12 @@ Notice that the variable is only on the left side of the equation, so this will 
   Simplify.
 
 
-<div class="check">
-<span class="def-label">Check</span>
+  Check:
 
 
    Substitute: <span class="math-inline">y=11</span>.
 
 
-<div class="tryit">
 **Try It**
 
 
@@ -845,7 +697,6 @@ Solve: <span class="math-inline">5y-9=16.</span>
 *y* = 5
 
 
-<div class="tryit">
 **Try It**
 
 
@@ -855,28 +706,21 @@ Solve: <span class="math-inline">3m-8=19.</span>
 *m* = 9
 
 
----
-
-
----
-
 ## Solve an Equation with Variables on Both Sides
 
 
-What if there are variables on both sides of the equation? We will start like we did above—choosing a **variable** side and a constant side, and then use the Subtraction and Addition Properties of Equality to collect all variables on one side and all **constants** on the other side. Remember, what you do to the left side of the equation, you must do to the right side too.
+What if there are variables on both sides of the equation?
+We will start like we did above—choosing a **variable** side and a constant side, and then use the Subtraction and Addition Properties of Equality to collect all variables on one side and all **constants** on the other side.
+Remember, what you do to the left side of the equation, you must do to the right side too.
 
 
-<div class="example">
 **Example**
 
 
 Solve: <span class="math-inline">5x=4x+7.</span>
 
 
-<div class="solution">
-<span class="def-label">Solution</span>
-
-
+Solution
 Here the variable, <span class="math-inline">x,</span> is on both sides, but the constants appear only on the right side, so let’s make the right side the “constant” side. Then the left side will be the “variable” side.
 
 
@@ -889,14 +733,12 @@ Here the variable, <span class="math-inline">x,</span> is on both sides, but the
 We have all the variables on one side and the constants on the other. We have solved the equation.
 
 
-<div class="check">
-<span class="def-label">Check</span>
+  Check:
 
 
   Substitute 7 for <span class="math-inline">x</span>.
 
 
-<div class="tryit">
 **Try It**
 
 
@@ -906,7 +748,6 @@ Solve: <span class="math-inline">6n=5n+10.</span>
 *n* = 10
 
 
-<div class="tryit">
 **Try It**
 
 
@@ -916,17 +757,13 @@ Solve: <span class="math-inline">−6c=−7c+1.</span>
 *c* = 1
 
 
-<div class="example">
 **Example**
 
 
 Solve: <span class="math-inline">5y-8=7y.</span>
 
 
-<div class="solution">
-<span class="def-label">Solution</span>
-
-
+Solution
 The only constant, <span class="math-inline">−8,</span> is on the left side of the equation and variable, <span class="math-inline">y,</span> is on both sides. Let’s leave the constant on the left and collect the variables to the right.
 
 
@@ -945,11 +782,9 @@ The only constant, <span class="math-inline">−8,</span> is on the left side of
    Rewrite with the variable on the left.
 
 
-<div class="check">
-<span class="def-label">Check</span>
+   Check: Let <span class="math-inline">y=−4</span>.
 
 
-<div class="tryit">
 **Try It**
 
 
@@ -959,7 +794,6 @@ Solve: <span class="math-inline">3p-14=5p.</span>
 *p* = −7
 
 
-<div class="tryit">
 **Try It**
 
 
@@ -969,17 +803,13 @@ Solve: <span class="math-inline">8m+9=5m.</span>
 *m* = −3
 
 
-<div class="example">
 **Example**
 
 
 Solve: <span class="math-inline">7x=-x+24.</span>
 
 
-<div class="solution">
-<span class="def-label">Solution</span>
-
-
+Solution
 The only constant, <span class="math-inline">24,</span> is on the right, so let the left side be the variable side.
 
 
@@ -995,11 +825,9 @@ The only constant, <span class="math-inline">24,</span> is on the right, so let 
   Simplify.
 
 
-<div class="check">
-<span class="def-label">Check</span>
+   Check: Substitute <span class="math-inline">x=3</span>.
 
 
-<div class="tryit">
 **Try It**
 
 
@@ -1009,7 +837,6 @@ Solve: <span class="math-inline">12j=−4j+32.</span>
 *j* = 2
 
 
-<div class="tryit">
 **Try It**
 
 
@@ -1017,119 +844,3 @@ Solve: <span class="math-inline">8h=−4h+12.</span>
 
 
 *h* = 1
-
-</div>
-
-</div>
-
-</div>
-
-</div>
-
-</div>
-
-</div>
-
-</div>
-
-</div>
-
-</div>
-
-</div>
-
-</div>
-
-</div>
-
-</div>
-
-</div>
-
-</div>
-
-</div>
-
-</div>
-
-</div>
-
-</div>
-
-</div>
-
-</div>
-
-</div>
-
-</div>
-
-</div>
-
-</div>
-
-</div>
-
-</div>
-
-</div>
-
-</div>
-
-</div>
-
-</div>
-
-</div>
-
-</div>
-
-</div>
-
-</div>
-
-</div>
-
-</div>
-
-</div>
-
-</div>
-
-</div>
-
-</div>
-
-</div>
-
-</div>
-
-</div>
-
-</div>
-
-</div>
-
-</div>
-
-</div>
-
-</div>
-
-</div>
-
-</div>
-
-</div>
-
-</div>
-
-</div>
-
-</div>
-
-</div>
-
-</div>
-
-</div>

@@ -1,77 +1,4 @@
-<style>
-.math-inline {
-    font-style: italic;
-    padding: 2px 6px;
-    border-radius: 4px;
-    background: #f8f9fa;
-    font-family: Georgia, serif;
-}
-.math-display {
-    background: #f8f9fa;
-    border-left: 4px solid #4a90d9;
-    padding: 16px 20px;
-    margin: 16px 0;
-    border-radius: 6px;
-    font-size: 1.15em;
-    font-family: Georgia, serif;
-    text-align: center;
-    line-height: 2;
-    overflow-x: auto;
-}
-.example-box, .example {
-    background: #f0f8ff;
-    border-left: 4px solid #2e86de;
-    padding: 12px 20px;
-    margin: 16px 0;
-    border-radius: 6px;
-}
-.tryit-box, .tryit {
-    background: #f0fff4;
-    border-left: 4px solid #27ae60;
-    padding: 12px 20px;
-    margin: 16px 0;
-    border-radius: 6px;
-}
-.solution-box, .solution {
-    background: #fef9e7;
-    border-left: 4px solid #f39c12;
-    padding: 12px 20px;
-    margin: 12px 0;
-    border-radius: 6px;
-}
-.check-box, .check {
-    background: #fef9e7;
-    border-left: 4px solid #f39c12;
-    padding: 12px 20px;
-    margin: 12px 0;
-    border-radius: 6px;
-}
-.prep-quiz {
-    background: #fff3cd;
-    border: 1px solid #ffc107;
-    padding: 12px 20px;
-    margin: 16px 0;
-    border-radius: 6px;
-}
-.def-label, .definition-label {
-    font-weight: bold;
-    font-size: 1.1em;
-    margin: 20px 0 8px 0;
-    color: #2c3e50;
-    display: block;
-}
-.math-display sup, .math-inline sup { font-size: 0.75em; line-height: 0; }
-.math-display sub, .math-inline sub { font-size: 0.75em; line-height: 0; }
-</style>
-
-
----
-
-
----
-
 ## Solve Coin Word Problems
-
 
 Imagine taking a handful of coins from your pocket or purse and placing them on your desk. How would you determine the value of that pile of coins?
 
@@ -84,7 +11,11 @@ One way to bring some order to the mess of coins would be to separate the coins 
 
 How would you determine the value of each pile? Think about the dime pile—how much is it worth? If you count the number of dimes, you'll know how many you have—the *number* of dimes.
 
-But this does not tell you the *value* of all the dimes. Say you counted <span class="math-inline">17</span> dimes, how much are they worth? Each dime is worth <span class="math-inline">$0.10</span>—that is the *value* of one dime. To find the total value of the pile of <span class="math-inline">17</span> dimes, multiply <span class="math-inline">17</span> by <span class="math-inline">$0.10</span> to get <span class="math-inline">$1.70.</span> This is the total value of all <span class="math-inline">17</span> dimes.
+
+But this does not tell you the *value* of all the dimes.
+Say you counted <span class="math-inline">17</span> dimes, how much are they worth?
+Each dime is worth <span class="math-inline">$0.10</span>—that is the *value* of one dime.
+To find the total value of the pile of <span class="math-inline">17</span> dimes, multiply <span class="math-inline">17</span> by <span class="math-inline">$0.10</span> to get <span class="math-inline">$1.70.</span> This is the total value of all <span class="math-inline">17</span> dimes.
 
 
 <div class="math-display">
@@ -93,8 +24,7 @@ number
 </div>
 
 
-<div class="definition-label">**Finding the Total Value for Coins of the Same Type**</div>
-
+**Finding the Total Value for Coins of the Same Type**
 
 For coins of the same type, the total value can be found as follows:
 
@@ -102,7 +32,6 @@ For coins of the same type, the total value can be found as follows:
 <div class="math-display">
 number· value=total value
 </div>
-
 
 where *number* is the number of coins, *value* is the value of each coin, and *total value* is the total value of all the coins.
 
@@ -114,17 +43,13 @@ Let's look at a specific case. Suppose there are <span class="math-inline">14</s
 The total value of all the coins is <span class="math-inline">$6.64.</span> Notice how  helped us organize all the information. Let's see how this method is used to solve a coin word problem.
 
 
-<div class="example">
 **Example**
 
 
 Adalberto has <span class="math-inline">$2.25</span> in dimes and nickels in his pocket. He has nine more nickels than dimes. How many of each type of coin does he have?
 
 
-<div class="solution">
-<span class="def-label">Solution</span>
-
-
+Solution
 Step 1. *Read* the problem. Make sure you understand all the words and ideas.
   - Determine the types of coins involved.
 Think about the strategy we used to find the value of the handful of coins. The first thing you need is to notice what types of coins are involved. Adalberto has dimes and nickels.
@@ -240,23 +165,18 @@ Write the equation.
  The number of nickels is *d* + 9
 
 
-Step 6. *Check.*\(12 & = &  \\
-21 & = &  \\
- &  &\)
+Step 6. *Check.*<span class="math-inline">12 & = & \\
+21 & = & \\
+ & &</span>
 Step 7. *Answer* the question.<span class="math-inline">Adalberto has twelve dimes and twenty-one nickels.</span>
 If this were a homework exercise, our work might look like this:
 
-
-<div class="check">
-<span class="def-label">Check</span>
-
-
-\(12 dimes &  &  & 12(0.10) & = &  \\
-21 nickels &  &  & 21(0.05) & = &  \\
- &  &  &  &  & $2.25\)
+Check:
+<span class="math-inline">12 dimes & & & 12(0.10) & = & \\
+21 nickels & & & 21(0.05) & = & \\
+ & & & & & $2.25</span>
 
 
-<div class="tryit">
 **Try It**
 
 
@@ -266,7 +186,6 @@ Michaela has <span class="math-inline">$2.05</span> in dimes and nickels in her 
 9 nickels, 16 dimes
 
 
-<div class="tryit">
 **Try It**
 
 
@@ -276,8 +195,7 @@ Liliana has <span class="math-inline">$2.10</span> in nickels and quarters in he
 17 nickels, 5 quarters
 
 
-<div class="definition-label">**Solve a coin word problem.**</div>
-
+**Solve a coin word problem.**
 
 - *Read* the problem. Make sure you understand all the words and ideas, and create a table to organize the information.
 
@@ -299,17 +217,13 @@ Liliana has <span class="math-inline">$2.10</span> in nickels and quarters in he
 You may find it helpful to put all the numbers into the table to make sure they check.
 
 
-<div class="example">
 **Example**
 
 
 Maria has <span class="math-inline">$2.43</span> in quarters and pennies in her wallet. She has twice as many pennies as quarters. How many coins of each type does she have?
 
 
-<div class="solution">
-<span class="def-label">Solution</span>
-
-
+Solution
 Step 1. *Read* the problem.
   - Determine the types of coins involved.
 
@@ -390,7 +304,7 @@ Pennies
 <span class="math-inline">2.43</span>
 
 
-Step 4. *Translate.* Write the equation by adding the 'total value’ of all the types of coins.Step 5. *Solve* the equation.
+Step 4. *Translate.* Write the equation by adding the 'total value’ of all the types of coins. Step 5. *Solve* the equation.
 
 
 Write the equation.
@@ -408,14 +322,13 @@ Write the equation.
  The number of pennies is 2*q*.
 
 
-Step 6. *Check* the answer in the problem.Maria has <span class="math-inline">9</span> quarters and <span class="math-inline">18</span> pennies. Does this make <span class="math-inline">$2.43?</span>
-\(9 quarters &  &  & 9(0.25) & = &  \\
-18 pennies &  &  & 18(0.01) & = &  \\
-Total &  &  &  &  & $2.43✓\)
+Step 6. *Check* the answer in the problem. Maria has <span class="math-inline">9</span> quarters and <span class="math-inline">18</span> pennies. Does this make <span class="math-inline">$2.43?</span>
+<span class="math-inline">9 quarters & & & 9(0.25) & = & \\
+18 pennies & & & 18(0.01) & = & \\
+Total & & & & & $2.43✓</span>
 Step 7. *Answer* the question. Maria has nine quarters and eighteen pennies.
 
 
-<div class="tryit">
 **Try It**
 
 
@@ -425,7 +338,6 @@ Sumanta has <span class="math-inline">$4.20</span> in nickels and dimes in her d
 42 nickels, 21 dimes
 
 
-<div class="tryit">
 **Try It**
 
 
@@ -438,15 +350,13 @@ Alison has three times as many dimes as quarters in her purse. She has <span cla
 In the next example, we'll show only the completed table—make sure you understand how to fill it in step by step.
 
 
-<div class="example">
 **Example**
 
 
 Danny has <span class="math-inline">$2.14</span> worth of pennies and nickels in his piggy bank. The number of nickels is two more than ten times the number of pennies. How many nickels and how many pennies does Danny have?
 
 
-<div class="solution">
-<span class="def-label">Solution</span>
+Solution
 
 
 Step 1: *Read* the problem.
@@ -500,18 +410,17 @@ nickels
 <span class="math-inline">$2.14</span>
 
 
-Step 4. *Translate:* Write the equation by adding the total value of all the types of coins.Step 5. *Solve* the equation.
+Step 4. *Translate:* Write the equation by adding the total value of all the types of coins. Step 5. *Solve* the equation.
 
 
     How many nickels?
 
 
-Step 6. *Check.* Is the total value of <span class="math-inline">4</span> pennies and <span class="math-inline">42</span> nickels equal to <span class="math-inline">$2.14?</span>\(\\
-4 \\\)
+Step 6. *Check.* Is the total value of <span class="math-inline">4</span> pennies and <span class="math-inline">42</span> nickels equal to <span class="math-inline">$2.14?</span><span class="math-inline">\\
+4 \\</span>
 Step 7. *Answer* the question. Danny has <span class="math-inline">4</span> pennies and <span class="math-inline">42</span> nickels.
 
 
-<div class="tryit">
 **Try It**
 
 
@@ -521,7 +430,6 @@ Jesse has <span class="math-inline">$6.55</span> worth of quarters and nickels i
 41 nickels, 18 quarters
 
 
-<div class="tryit">
 **Try It**
 
 
@@ -531,28 +439,20 @@ Elaine has <span class="math-inline">$7.00</span> in dimes and nickels in her co
 22 nickels, 59 dimes
 
 
----
-
-
----
-
 ## Solve Ticket and Stamp Word Problems
-
 
 The strategies we used for coin problems can be easily applied to some other kinds of problems too. Problems involving tickets or stamps are very similar to coin problems, for example. Like coins, tickets and stamps have different values; so we can organize the information in tables much like we did for coin problems.
 
 
-<div class="example">
 **Example**
 
 
-At a school concert, the total value of tickets sold was <span class="math-inline">$1,506.</span> Student tickets sold for <span class="math-inline">$6</span> each and adult tickets sold for <span class="math-inline">$9</span> each. The number of adult tickets sold was <span class="math-inline">5</span> less than three times the number of student tickets sold. How many student tickets and how many adult tickets were sold?
+At a school concert, the total value of tickets sold was <span class="math-inline">$1,506.</span> Student tickets sold for <span class="math-inline">$6</span> each and adult tickets sold for <span class="math-inline">$9</span> each.
+The number of adult tickets sold was <span class="math-inline">5</span> less than three times the number of student tickets sold.
+How many student tickets and how many adult tickets were sold?
 
 
-<div class="solution">
-<span class="def-label">Solution</span>
-
-
+Solution
 Step 1: *Read the problem.*
 
   - Determine the types of tickets involved.
@@ -609,32 +509,36 @@ Adult
 
 
 Step 4. *Translate:* Write the equation by adding the total values of each type of ticket.<span class="math-inline">6s+9(3s-5)=1506</span>
-Step 5. *Solve* the equation.\(6 \\
+Step 5. *Solve* the equation.<span class="math-inline">6 \\
  \\
- \\\)
+ \\</span>
 Substitute to find the number of adults.
 
-Step 6. *Check.* There were <span class="math-inline">47</span> student tickets at <span class="math-inline">$6</span> each and <span class="math-inline">136</span> adult tickets at <span class="math-inline">$9</span> each. Is the total value <span class="math-inline">$1506?</span> We find the total value of each type of ticket by multiplying the number of tickets times its value; we then add to get the total value of all the tickets sold.\(47 & = &  \\
-136 & = & \underset{_____}{1224} \\
- &  &\)
+
+Step 6. *Check.* There were <span class="math-inline">47</span> student tickets at <span class="math-inline">$6</span> each and <span class="math-inline">136</span> adult tickets at <span class="math-inline">$9</span> each.
+Is the total value <span class="math-inline">$1506?</span> We find the total value of each type of ticket by multiplying the number of tickets times its value; we then add to get the total value of all the tickets sold.<span class="math-inline">47 & = & \\
+
+136 & = & 1224<sub>_____</sub> \\
+ & &</span>
 Step 7. *Answer* the question. They sold <span class="math-inline">47</span> student tickets and <span class="math-inline">136</span> adult tickets.
 
 
-<div class="tryit">
 **Try It**
 
 
-The first day of a water polo tournament, the total value of tickets sold was <span class="math-inline">$17,610.</span> One-day passes sold for <span class="math-inline">$20</span> and tournament passes sold for <span class="math-inline">$30.</span> The number of tournament passes sold was <span class="math-inline">37</span> more than the number of day passes sold. How many day passes and how many tournament passes were sold?
+The first day of a water polo tournament, the total value of tickets sold was <span class="math-inline">$17,610.</span> One-day passes sold for <span class="math-inline">$20</span> and tournament passes sold for <span class="math-inline">$30.</span> The number of tournament passes sold was <span class="math-inline">37</span> more than the number of day passes sold.
+How many day passes and how many tournament passes were sold?
 
 
 330 day passes, 367 tournament passes
 
 
-<div class="tryit">
 **Try It**
 
 
-At the movie theater, the total value of tickets sold was <span class="math-inline">$2,612.50.</span> Adult tickets sold for <span class="math-inline">$10</span> each and senior/child tickets sold for <span class="math-inline">$7.50</span> each. The number of senior/child tickets sold was <span class="math-inline">25</span> less than twice the number of adult tickets sold. How many senior/child tickets and how many adult tickets were sold?
+At the movie theater, the total value of tickets sold was <span class="math-inline">$2,612.50.</span> Adult tickets sold for <span class="math-inline">$10</span> each and senior/child tickets sold for <span class="math-inline">$7.50</span> each.
+The number of senior/child tickets sold was <span class="math-inline">25</span> less than twice the number of adult tickets sold.
+How many senior/child tickets and how many adult tickets were sold?
 
 
 112 adult tickets, 199 senior/child tickets
@@ -643,21 +547,19 @@ At the movie theater, the total value of tickets sold was <span class="math-inli
 Now we'll do one where we fill in the table all at once.
 
 
-<div class="example">
 **Example**
 
 
-Monica paid <span class="math-inline">$10.44</span> for stamps she needed to mail the invitations to her sister's baby shower. The number of <span class="math-inline">49-cent</span> stamps was four more than twice the number of <span class="math-inline">8-cent</span> stamps. How many <span class="math-inline">49-cent</span> stamps and how many <span class="math-inline">8-cent</span> stamps did Monica buy?
+Monica paid <span class="math-inline">$10.44</span> for stamps she needed to mail the invitations to her sister's baby shower.
+The number of <span class="math-inline">49-cent</span> stamps was four more than twice the number of <span class="math-inline">8-cent</span> stamps.
+How many <span class="math-inline">49-cent</span> stamps and how many <span class="math-inline">8-cent</span> stamps did Monica buy?
 
 
-<div class="solution">
-<span class="def-label">Solution</span>
-
-
+Solution
 The type of stamps are <span class="math-inline">49-cent</span> stamps and <span class="math-inline">8-cent</span> stamps. Their names also give the value.
 “The number of <span class="math-inline">49</span> cent stamps was four more than twice the number of <span class="math-inline">8</span> cent stamps.”
-\(Let x=number of 8-cent stamps \\
-2x+4=number of 49-cent stamps\)
+<span class="math-inline">Let x=number of 8-cent stamps \\
+2x+4=number of 49-cent stamps</span>
 
 
 Type
@@ -708,43 +610,38 @@ Write the equation from the total values.
 <span class="math-inline">20</span>
 
 
-<div class="check-box">
-**Check.
+ Check.
 <span class="math-inline">8(0.08)+20(0.49)=<sup>?</sup>10.44</span>
 <span class="math-inline">0.64+9.80=<sup>?</sup>10.44</span>
-<span class="math-inline">10.44=10.44✓</span>**
+<span class="math-inline">10.44=10.44✓</span>
 
 
 Monica bought eight <span class="math-inline">8-cent</span> stamps and twenty <span class="math-inline">49-cent</span> stamps.
 
 
-<div class="tryit">
 **Try It**
 
 
-Eric paid <span class="math-inline">$16.64</span> for stamps so he could mail thank you notes for his wedding gifts. The number of <span class="math-inline">49-cent</span> stamps was eight more than twice the number of <span class="math-inline">8-cent</span> stamps. How many <span class="math-inline">49-cent</span> stamps and how many <span class="math-inline">8-cent</span> stamps did Eric buy?
+Eric paid <span class="math-inline">$16.64</span> for stamps so he could mail thank you notes for his wedding gifts.
+The number of <span class="math-inline">49-cent</span> stamps was eight more than twice the number of <span class="math-inline">8-cent</span> stamps.
+How many <span class="math-inline">49-cent</span> stamps and how many <span class="math-inline">8-cent</span> stamps did Eric buy?
 
 
 32 at 49 cents, 12 at 8 cents
 
 
-<div class="tryit">
 **Try It**
 
 
-Kailee paid <span class="math-inline">$14.84</span> for stamps. The number of <span class="math-inline">49-cent</span> stamps was four less than three times the number of <span class="math-inline">21-cent</span> stamps. How many <span class="math-inline">49-cent</span> stamps and how many <span class="math-inline">21-cent</span> stamps did Kailee buy?
+Kailee paid <span class="math-inline">$14.84</span> for stamps.
+The number of <span class="math-inline">49-cent</span> stamps was four less than three times the number of <span class="math-inline">21-cent</span> stamps.
+How many <span class="math-inline">49-cent</span> stamps and how many <span class="math-inline">21-cent</span> stamps did Kailee buy?
 
 
 26 at 49 cents, 10 at 21 cents
 
 
----
-
-
----
-
 ## Key Concepts
-
 
 - *Finding the Total Value for Coins of the Same Type*
 
@@ -873,7 +770,8 @@ Julie went to the post office and bought both <span class="math-inline">$0.49</s
 40 postcards, 100 stamps
 
 
-Before he left for college out of state, Jason went to the post office and bought both <span class="math-inline">$0.49</span> stamps and <span class="math-inline">$0.34</span> postcards and spent <span class="math-inline">$12.52.</span> The number of stamps was <span class="math-inline">4</span> more than twice the number of postcards. How many of each did he buy?
+Before he left for college out of state, Jason went to the post office and bought both <span class="math-inline">$0.49</span> stamps and <span class="math-inline">$0.34</span> postcards and spent <span class="math-inline">$12.52.</span> The number of stamps was <span class="math-inline">4</span> more than twice the number of postcards.
+How many of each did he buy?
 
 
 Maria spent <span class="math-inline">$16.80</span> at the post office. She bought three times as many <span class="math-inline">$0.49</span> stamps as <span class="math-inline">$0.21</span> stamps. How many of each did she buy?
@@ -885,25 +783,33 @@ Maria spent <span class="math-inline">$16.80</span> at the post office. She boug
 Hector spent <span class="math-inline">$43.40</span> at the post office. He bought four times as many <span class="math-inline">$0.49</span> stamps as <span class="math-inline">$0.21</span> stamps. How many of each did he buy?
 
 
-Hilda has <span class="math-inline">$210</span> worth of <span class="math-inline">$10</span> and <span class="math-inline">$12</span> stock shares. The numbers of <span class="math-inline">$10</span> shares is <span class="math-inline">5</span> more than twice the number of <span class="math-inline">$12</span> shares. How many of each does she have?
+Hilda has <span class="math-inline">$210</span> worth of <span class="math-inline">$10</span> and <span class="math-inline">$12</span> stock shares.
+The numbers of <span class="math-inline">$10</span> shares is <span class="math-inline">5</span> more than twice the number of <span class="math-inline">$12</span> shares.
+How many of each does she have?
 
 
 15 at $10 shares, 5 at $12 shares
 
 
-Mario invested <span class="math-inline">$475</span> in <span class="math-inline">$45</span> and <span class="math-inline">$25</span> stock shares. The number of <span class="math-inline">$25</span> shares was <span class="math-inline">5</span> less than three times the number of <span class="math-inline">$45</span> shares. How many of each type of share did he buy?
+Mario invested <span class="math-inline">$475</span> in <span class="math-inline">$45</span> and <span class="math-inline">$25</span> stock shares.
+The number of <span class="math-inline">$25</span> shares was <span class="math-inline">5</span> less than three times the number of <span class="math-inline">$45</span> shares.
+How many of each type of share did he buy?
 
 
 ### Everyday Math
 
 
-*Parent Volunteer* As the treasurer of her daughter's Girl Scout troop, Laney collected money for some girls and adults to go to a <span class="math-inline">3-day</span> camp. Each girl paid <span class="math-inline">$75</span> and each adult paid <span class="math-inline">$30.</span> The total amount of money collected for camp was <span class="math-inline">$765.</span> If the number of girls is three times the number of adults, how many girls and how many adults paid for camp?
+*Parent Volunteer* As the treasurer of her daughter's Girl Scout troop, Laney collected money for some girls and adults to go to a <span class="math-inline">3-day</span> camp.
+Each girl paid <span class="math-inline">$75</span> and each adult paid <span class="math-inline">$30.</span> The total amount of money collected for camp was <span class="math-inline">$765.</span> If the number of girls is three times the number of adults, how many girls and how many adults paid for camp?
 
 
 9 girls, 3 adults
 
 
-*Parent Volunteer* Laurie was completing the treasurer's report for her son's Boy Scout troop at the end of the school year. She didn't remember how many boys had paid the <span class="math-inline">$24</span> full-year registration fee and how many had paid a <span class="math-inline">$16</span> partial-year fee. She knew that the number of boys who paid for a full-year was ten more than the number who paid for a partial-year. If <span class="math-inline">$400</span> was collected for all the registrations, how many boys had paid the full-year fee and how many had paid the partial-year fee?
+*Parent Volunteer* Laurie was completing the treasurer's report for her son's Boy Scout troop at the end of the school year.
+She didn't remember how many boys had paid the <span class="math-inline">$24</span> full-year registration fee and how many had paid a <span class="math-inline">$16</span> partial-year fee.
+She knew that the number of boys who paid for a full-year was ten more than the number who paid for a partial-year.
+If <span class="math-inline">$400</span> was collected for all the registrations, how many boys had paid the full-year fee and how many had paid the partial-year fee?
 
 
 ### Writing Exercises
@@ -935,40 +841,36 @@ What similarities and differences did you see between solving the coin problems 
 ⓑ After reviewing this checklist, what will you do to become confident for all objectives?
 
 
-<div class="prep-quiz">
 **Be Prepared!**
-
 
 Before you get started, take this readiness quiz.
 
 
 Solve: <span class="math-inline">x+3+6=11.</span>
 
-If you missed this problem, review .
+If you missed this problem, review
 
 
 <span class="math-inline">x=2</span>
 
 
-<div class="prep-quiz">
 **Be Prepared!**
 
 
-Solve: <span class="math-inline"><sup>a</sup>∕<sub>45</sub>=<sup>4</sup>∕<sub>3</sub>.</span>
+Solve: <span class="math-inline"><sup>a</sup>⁄<sub>45</sub>=<sup>4</sup>⁄<sub>3</sub>.</span>
 
-If you missed this problem, review .
+If you missed this problem, review
 
 
 <span class="math-inline">60</span>
 
 
-<div class="prep-quiz">
 **Be Prepared!**
 
 
-Simplify: <span class="math-inline">√{36+64}.</span>
+Simplify: <span class="math-inline">√36+64.</span>
 
-If you missed this problem, review .
+If you missed this problem, review
 
 
 <span class="math-inline">10</span>
@@ -977,17 +879,15 @@ If you missed this problem, review .
 So far in this chapter, we have focused on solving word problems, which are similar to many real-world applications of algebra. In the next few sections, we will apply our problem-solving strategies to some common geometry problems.
 
 
----
-
-
----
-
 ## Use the Properties of Angles
-
 
 Are you familiar with the phrase ‘do a <span class="math-inline">180’?</span> It means to turn so that you face the opposite direction. It comes from the fact that the measure of an angle that makes a straight line is <span class="math-inline">180</span> degrees. See .
 
-An **angle** is formed by two rays that share a common endpoint. Each ray is called a side of the angle and the common endpoint is called the **vertex**. An angle is named by its vertex. In , <span class="math-inline">∠A</span> is the angle with vertex at point <span class="math-inline">A.</span> The measure of <span class="math-inline">∠A</span> is written <span class="math-inline">m∠A.</span>
+
+An **angle** is formed by two rays that share a common endpoint.
+Each ray is called a side of the angle and the common endpoint is called the **vertex**.
+An angle is named by its vertex.
+In , <span class="math-inline">∠A</span> is the angle with vertex at point <span class="math-inline">A.</span> The measure of <span class="math-inline">∠A</span> is written <span class="math-inline">m∠A.</span>
 
 
 *<span class="math-inline">∠A</span> is the angle with vertex at <span class="math-inline">point A.</span>*
@@ -1005,8 +905,7 @@ If the sum of the measures of two angles is <span class="math-inline">90°,</spa
 *The sum of the measures of complementary angles is <span class="math-inline">90°.</span>*
 
 
-<div class="definition-label">**Supplementary and Complementary Angles**</div>
-
+**Supplementary and Complementary Angles**
 
 If the sum of the measures of two angles is <span class="math-inline">180°,</span> then the angles are supplementary.
 
@@ -1021,8 +920,7 @@ In this section and the next, you will be introduced to some common geometry for
 In addition, since these applications will all involve geometric shapes, it will be helpful to draw a figure and then label it with the information from the problem. We will include this step in the Problem Solving Strategy for Geometry Applications.
 
 
-<div class="definition-label">**Use a Problem Solving Strategy for Geometry Applications.**</div>
-
+**Use a Problem Solving Strategy for Geometry Applications.**
 
 - *Read* the problem and make sure you understand all the words and ideas. Draw a figure and label it with the given information.
 
@@ -1041,15 +939,13 @@ In addition, since these applications will all involve geometric shapes, it will
 The next example will show how you can use the Problem Solving Strategy for Geometry Applications to answer questions about supplementary and complementary angles.
 
 
-<div class="example">
 **Example**
 
 
 An angle measures <span class="math-inline">40°.</span> Find ⓐ its supplement, and ⓑ its complement.
 
 
-<div class="solution">
-<span class="def-label">Solution</span>
+Solution
 
 
 ⓐ
@@ -1100,7 +996,6 @@ Write the appropriate formula for the situation and substitute in the given info
  Step 7. *Answer* the question.
 
 
-<div class="tryit">
 **Try It**
 
 
@@ -1111,7 +1006,6 @@ An angle measures <span class="math-inline">25°.</span> Find its: ⓐ supplemen
   - ⓑ 65°
 
 
-<div class="tryit">
 **Try It**
 
 
@@ -1124,15 +1018,13 @@ An angle measures <span class="math-inline">77°.</span> Find its: ⓐ supplemen
 Did you notice that the words complementary and supplementary are in alphabetical order just like <span class="math-inline">90</span> and <span class="math-inline">180</span> are in numerical order?
 
 
-<div class="example">
 **Example**
 
 
 Two angles are supplementary. The larger angle is <span class="math-inline">30°</span> more than the smaller angle. Find the measure of both angles.
 
 
-<div class="solution">
-<span class="def-label">Solution</span>
+Solution
 
 
 Step 1. *Read* the problem. Draw the figure and label it with the given information.
@@ -1158,7 +1050,6 @@ Write the appropriate formula and substitute.
  Step 7. *Answer* the question.
 
 
-<div class="tryit">
 **Try It**
 
 
@@ -1168,7 +1059,6 @@ Two angles are supplementary. The larger angle is <span class="math-inline">100�
 40°, 140°
 
 
-<div class="tryit">
 **Try It**
 
 
@@ -1176,69 +1066,3 @@ Two angles are complementary. The larger angle is <span class="math-inline">40°
 
 
 25°, 65°
-
-</div>
-
-</div>
-
-</div>
-
-</div>
-
-</div>
-
-</div>
-
-</div>
-
-</div>
-
-</div>
-
-</div>
-
-</div>
-
-</div>
-
-</div>
-
-</div>
-
-</div>
-
-</div>
-
-</div>
-
-</div>
-
-</div>
-
-</div>
-
-</div>
-
-</div>
-
-</div>
-
-</div>
-
-</div>
-
-</div>
-
-</div>
-
-</div>
-
-</div>
-
-</div>
-
-</div>
-
-</div>
-
-</div>

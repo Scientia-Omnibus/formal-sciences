@@ -1,74 +1,4 @@
-<style>
-.math-inline {
-    font-style: italic;
-    padding: 2px 6px;
-    border-radius: 4px;
-    background: #f8f9fa;
-    font-family: Georgia, serif;
-}
-.math-display {
-    background: #f8f9fa;
-    border-left: 4px solid #4a90d9;
-    padding: 16px 20px;
-    margin: 16px 0;
-    border-radius: 6px;
-    font-size: 1.15em;
-    font-family: Georgia, serif;
-    text-align: center;
-    line-height: 2;
-    overflow-x: auto;
-}
-.example-box, .example {
-    background: #f0f8ff;
-    border-left: 4px solid #2e86de;
-    padding: 12px 20px;
-    margin: 16px 0;
-    border-radius: 6px;
-}
-.tryit-box, .tryit {
-    background: #f0fff4;
-    border-left: 4px solid #27ae60;
-    padding: 12px 20px;
-    margin: 16px 0;
-    border-radius: 6px;
-}
-.solution-box, .solution {
-    background: #fef9e7;
-    border-left: 4px solid #f39c12;
-    padding: 12px 20px;
-    margin: 12px 0;
-    border-radius: 6px;
-}
-.check-box, .check {
-    background: #fef9e7;
-    border-left: 4px solid #f39c12;
-    padding: 12px 20px;
-    margin: 12px 0;
-    border-radius: 6px;
-}
-.prep-quiz {
-    background: #fff3cd;
-    border: 1px solid #ffc107;
-    padding: 12px 20px;
-    margin: 16px 0;
-    border-radius: 6px;
-}
-.def-label, .definition-label {
-    font-weight: bold;
-    font-size: 1.1em;
-    margin: 20px 0 8px 0;
-    color: #2c3e50;
-    display: block;
-}
-.math-display sup, .math-inline sup { font-size: 0.75em; line-height: 0; }
-.math-display sub, .math-inline sub { font-size: 0.75em; line-height: 0; }
-</style>
-
-
----
-
 ## Chapter Review Exercises
-
 
 *Approach Word Problems with a Positive Attitude*
 
@@ -164,7 +94,9 @@ A church luncheon made <span class="math-inline">$842.</span> Adult tickets cost
 35 adults, 82 children
 
 
-Tickets for a basketball game cost <span class="math-inline">$2</span> for students and <span class="math-inline">$5</span> for adults. The number of students was <span class="math-inline">3</span> less than <span class="math-inline">10</span> times the number of adults. The total amount of money from ticket sales was <span class="math-inline">$619.</span> How many of each ticket were sold?
+Tickets for a basketball game cost <span class="math-inline">$2</span> for students and <span class="math-inline">$5</span> for adults.
+The number of students was <span class="math-inline">3</span> less than <span class="math-inline">10</span> times the number of adults.
+The total amount of money from ticket sales was <span class="math-inline">$619.</span> How many of each ticket were sold?
 
 
 Ana spent <span class="math-inline">$4.06</span> buying stamps. The number of <span class="math-inline">$0.41</span> stamps she bought was <span class="math-inline">5</span> more than the number of <span class="math-inline">$0.26</span> stamps. How many of each did she buy?
@@ -566,7 +498,7 @@ A plane flew <span class="math-inline">4</span> hours at <span class="math-inlin
 1520 miles
 
 
-Gus rode his bike for <span class="math-inline">1<sup>1</sup>∕<sub>2</sub></span> hours at <span class="math-inline">8</span> miles per hour. How far did he ride?
+Gus rode his bike for <span class="math-inline">1<sup>1</sup>⁄<sub>2</sub></span> hours at <span class="math-inline">8</span> miles per hour. How far did he ride?
 
 
 Jack is driving from Bangor to Portland at a rate of <span class="math-inline">68</span> miles per hour. The distance is <span class="math-inline">107</span> miles. To the nearest tenth of an hour, how long will the trip take?
@@ -590,7 +522,7 @@ Solve for <span class="math-inline">t:</span>
 
 
   - ⓐ <span class="math-inline">t=6.2</span>
-  - ⓑ <span class="math-inline">t=<sup>d</sup>∕<sub>r</sub></span>
+  - ⓑ <span class="math-inline">t=<sup>d</sup>⁄<sub>r</sub></span>
 
 
 Solve for <span class="math-inline">r:</span>
@@ -598,7 +530,7 @@ Solve for <span class="math-inline">r:</span>
   - ⓐ when <span class="math-inline">d=750</span> and <span class="math-inline">t=15</span>
   - ⓑ in general
 
-In the following exercises, use the formula <span class="math-inline">A=<sup>1</sup>∕<sub>2</sub>bh.</span>
+In the following exercises, use the formula <span class="math-inline">A=<sup>1</sup>⁄<sub>2</sub>bh.</span>
 
 
 Solve for <span class="math-inline">b:</span>
@@ -608,7 +540,7 @@ Solve for <span class="math-inline">b:</span>
 
 
   - ⓐ <span class="math-inline">b=26</span>
-  - ⓑ <span class="math-inline">b=<sup>2A</sup>∕<sub>h</sub></span>
+  - ⓑ <span class="math-inline">b=<sup>2A</sup>⁄<sub>h</sub></span>
 
 
 Solve for <span class="math-inline">h:</span>
@@ -626,7 +558,7 @@ Solve for the principal, <span class="math-inline">P,</span> for:
 
 
   - ⓐ <span class="math-inline">P=$6000</span>
-  - ⓑ <span class="math-inline">P=<sup>I</sup>∕<sub>(r· t)</sub></span>
+  - ⓑ <span class="math-inline">P=<sup>I</sup>⁄<sub>(r· t)</sub></span>
 
 
 Solve for the time, <span class="math-inline">t</span> for:
@@ -643,7 +575,7 @@ Solve the formula <span class="math-inline">6x+5y=20</span> for <span class="mat
 
 
   - ⓐ <span class="math-inline">y=4</span>
-  - ⓑ <span class="math-inline">y=<sup>20-6x</sup>∕<sub>5</sub></span>
+  - ⓑ <span class="math-inline">y=<sup>20-6x</sup>⁄<sub>5</sub></span>
 
 
 Solve the formula <span class="math-inline">2x+y=15</span> for <span class="math-inline">y:</span>
@@ -672,7 +604,7 @@ Solve the formula <span class="math-inline">-3x+y=−6</span> for <span class="m
 Solve the formula <span class="math-inline">P=2L+2W</span> for <span class="math-inline">W.</span>
 
 
-<span class="math-inline">W=<sup>P-2L</sup>∕<sub>2</sub></span>
+<span class="math-inline">W=<sup>P-2L</sup>⁄<sub>2</sub></span>
 
 
 Solve the formula <span class="math-inline">V=LWH</span> for <span class="math-inline">H.</span>
@@ -680,8 +612,6 @@ Solve the formula <span class="math-inline">V=LWH</span> for <span class="math-i
 
 Describe how you have used two topics from this chapter in your life outside of math class during the past month.
 
-
----
 
 ## Chapter Practice Test
 
@@ -704,7 +634,9 @@ Bonita has <span class="math-inline">$2.95</span> in dimes and quarters in her p
 7 quarters, 12 dimes
 
 
-At a concert, <span class="math-inline">$1600</span> in tickets were sold. Adult tickets were <span class="math-inline">$9</span> each and children’s tickets were <span class="math-inline">$4</span> each. If the number of adult tickets was <span class="math-inline">30</span> fewer than twice the number of children’s tickets, how many of each kind were sold?
+At a concert, <span class="math-inline">$1600</span> in tickets were sold.
+Adult tickets were <span class="math-inline">$9</span> each and children’s tickets were <span class="math-inline">$4</span> each.
+If the number of adult tickets was <span class="math-inline">30</span> fewer than twice the number of children’s tickets, how many of each kind were sold?
 
 
 Find the complement of a <span class="math-inline">52°</span> angle.
@@ -779,7 +711,7 @@ A traffic cone has height <span class="math-inline">75</span> centimeters. The r
 Leon drove from his house in Cincinnati to his sister’s house in Cleveland. He drove at a uniform rate of <span class="math-inline">63</span> miles per hour and the trip took <span class="math-inline">4</span> hours. What was the distance?
 
 
-The Catalina Express takes <span class="math-inline">1<sup>1</sup>∕<sub>2</sub></span> hours to travel from Long Beach to Catalina Island, a distance of <span class="math-inline">22</span> miles. To the nearest tenth, what is the speed of the boat?
+The Catalina Express takes <span class="math-inline">1<sup>1</sup>⁄<sub>2</sub></span> hours to travel from Long Beach to Catalina Island, a distance of <span class="math-inline">22</span> miles. To the nearest tenth, what is the speed of the boat?
 
 
 14.7 miles per hour
@@ -790,13 +722,13 @@ Use the formula <span class="math-inline">I=Prt</span> to solve for the principa
   - ⓑ in general
 
 
-Solve the formula <span class="math-inline">A=<sup>1</sup>∕<sub>2</sub>bh</span> for <span class="math-inline">h:</span>
+Solve the formula <span class="math-inline">A=<sup>1</sup>⁄<sub>2</sub>bh</span> for <span class="math-inline">h:</span>
   - ⓐ when <span class="math-inline">A=1716</span> and <span class="math-inline">b=66</span>
   - ⓑ in general
 
 
   - ⓐ <span class="math-inline">height=52</span>
-  - ⓑ <span class="math-inline">h=<sup>2A</sup>∕<sub>b</sub></span>
+  - ⓑ <span class="math-inline">h=<sup>2A</sup>⁄<sub>b</sub></span>
 
 
 Solve <span class="math-inline">x+5y=14</span> for <span class="math-inline">y.</span>

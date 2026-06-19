@@ -1,146 +1,80 @@
 # Percents
 
-<style>
-.math-inline {
-    font-style: italic;
-    padding: 2px 6px;
-    border-radius: 4px;
-    background: #f8f9fa;
-    font-family: Georgia, serif;
-}
-.math-display {
-    background: #f8f9fa;
-    border-left: 4px solid #4a90d9;
-    padding: 16px 20px;
-    margin: 16px 0;
-    border-radius: 6px;
-    font-size: 1.15em;
-    font-family: Georgia, serif;
-    text-align: center;
-    line-height: 2;
-    overflow-x: auto;
-}
-.example-box, .example {
-    background: #f0f8ff;
-    border-left: 4px solid #2e86de;
-    padding: 12px 20px;
-    margin: 16px 0;
-    border-radius: 6px;
-}
-.tryit-box, .tryit {
-    background: #f0fff4;
-    border-left: 4px solid #27ae60;
-    padding: 12px 20px;
-    margin: 16px 0;
-    border-radius: 6px;
-}
-.solution-box, .solution {
-    background: #fef9e7;
-    border-left: 4px solid #f39c12;
-    padding: 12px 20px;
-    margin: 12px 0;
-    border-radius: 6px;
-}
-.check-box, .check {
-    background: #fef9e7;
-    border-left: 4px solid #f39c12;
-    padding: 12px 20px;
-    margin: 12px 0;
-    border-radius: 6px;
-}
-.prep-quiz {
-    background: #fff3cd;
-    border: 1px solid #ffc107;
-    padding: 12px 20px;
-    margin: 16px 0;
-    border-radius: 6px;
-}
-.def-label, .definition-label {
-    font-weight: bold;
-    font-size: 1.1em;
-    margin: 20px 0 8px 0;
-    color: #2c3e50;
-    display: block;
-}
-.math-display sup, .math-inline sup { font-size: 0.75em; line-height: 0; }
-.math-display sub, .math-inline sub { font-size: 0.75em; line-height: 0; }
-</style>
-
 
 *Banks provide money for savings and charge money for loans. The interest on savings and loans is usually given as a percent. (credit: Mike Mozart, Flickr)*
 
 When you deposit money in a savings account at a bank, it earns additional money. Figuring out how your money will grow involves understanding and applying concepts of percents. In this chapter, we will find out what percents are and how we can use them to solve problems.
 
 
-<div class="prep-quiz">
 **Be Prepared!**
-
 
 Before you get started, take this readiness quiz.
 
 
 Translate “the ratio of <span class="math-inline">33</span> to <span class="math-inline">5”</span> into an algebraic expression.
 
-If you missed this problem, review .
+If you missed this problem, review
 
 
-<span class="math-inline"><sup>33</sup>∕<sub>5</sub></span>
+<span class="math-inline"><sup>33</sup>⁄<sub>5</sub></span>
 
 
-<div class="prep-quiz">
 **Be Prepared!**
 
 
-Write <span class="math-inline"><sup>3</sup>∕<sub>5</sub></span> as a decimal.
+Write <span class="math-inline"><sup>3</sup>⁄<sub>5</sub></span> as a decimal.
 
-If you missed this problem, review .
+If you missed this problem, review
 
 
 <span class="math-inline">0.6</span>
 
 
-<div class="prep-quiz">
 **Be Prepared!**
 
 
 Write <span class="math-inline">0.62</span> as a fraction.
 
-If you missed this problem, review .
+If you missed this problem, review
 
 
-<span class="math-inline"><sup>31</sup>∕<sub>50</sub></span>
+<span class="math-inline"><sup>31</sup>⁄<sub>50</sub></span>
 
-
----
 
 ## Use the Definition of Percent
 
 
-How many cents are in one dollar? There are <span class="math-inline">100</span> cents in a dollar. How many years are in a century? There are <span class="math-inline">100</span> years in a century. Does this give you a clue about what the word “percent” means? It is really two words, “per cent,” and means per one hundred. A **percent** is a ratio whose denominator is <span class="math-inline">100.</span> We use the percent symbol <span class="math-inline">%,</span> to show percent.
+How many cents are in one dollar?
+There are <span class="math-inline">100</span> cents in a dollar.
+How many years are in a century?
+There are <span class="math-inline">100</span> years in a century.
+Does this give you a clue about what the word “percent” means?
+It is really two words, “per cent,” and means per one hundred.
+A **percent** is a ratio whose denominator is <span class="math-inline">100.</span> We use the percent symbol <span class="math-inline">%,</span> to show percent.
 
 
-<div class="definition-label">**Percent**</div>
-
+**Percent**
 
 A percent is a ratio whose denominator is <span class="math-inline">100.</span>
 
-According to data from the American Association of Community Colleges <span class="math-inline">(2015),</span> about <span class="math-inline">57%</span> of community college students are female. This means <span class="math-inline">57</span> out of every <span class="math-inline">100</span> community college students are female, as  shows. Out of the <span class="math-inline">100</span> squares on the grid, <span class="math-inline">57</span> are shaded, which we write as the ratio <span class="math-inline"><sup>57</sup>∕<sub>100</sub>.</span>
+
+According to data from the American Association of Community Colleges <span class="math-inline">(2015),</span> about <span class="math-inline">57%</span> of community college students are female.
+This means <span class="math-inline">57</span> out of every <span class="math-inline">100</span> community college students are female, as  shows.
+Out of the <span class="math-inline">100</span> squares on the grid, <span class="math-inline">57</span> are shaded, which we write as the ratio <span class="math-inline"><sup>57</sup>⁄<sub>100</sub>.</span>
 
 
 *Among every <span class="math-inline">100</span> community college students, <span class="math-inline">57</span> are female.*
 
-Similarly, <span class="math-inline">25%</span> means a ratio of <span class="math-inline"><sup>25</sup>∕<sub>100</sub>,3%</span> means a ratio of <span class="math-inline"><sup>3</sup>∕<sub>100</sub></span> and <span class="math-inline">100%</span> means a ratio of <span class="math-inline"><sup>100</sup>∕<sub>100</sub>.</span> In words, "one hundred percent" means the total <span class="math-inline">100%</span> is <span class="math-inline"><sup>100</sup>∕<sub>100</sub>,</span> and since <span class="math-inline"><sup>100</sup>∕<sub>100</sub>=1,</span> we see that <span class="math-inline">100%</span> means <span class="math-inline">1</span> whole.
+Similarly, <span class="math-inline">25%</span> means a ratio of <span class="math-inline"><sup>25</sup>⁄<sub>100</sub>,3%</span> means a ratio of <span class="math-inline"><sup>3</sup>⁄<sub>100</sub></span> and <span class="math-inline">100%</span> means a ratio of <span class="math-inline"><sup>100</sup>⁄<sub>100</sub>.</span> In words, "one hundred percent" means the total <span class="math-inline">100%</span> is <span class="math-inline"><sup>100</sup>⁄<sub>100</sub>,</span> and since <span class="math-inline"><sup>100</sup>⁄<sub>100</sub>=1,</span> we see that <span class="math-inline">100%</span> means <span class="math-inline">1</span> whole.
 
 
-<div class="example">
 **Example**
 
 
 According to the Public Policy Institute of California <span class="math-inline">(2010), 44%</span> of parents of public school children would like their youngest child to earn a graduate degree. Write this percent as a ratio.
 
 
-<div class="solution">
-**Solution**
+Solution
 
 
  The amount we want to convert is 44%.
@@ -148,10 +82,9 @@ According to the Public Policy Institute of California <span class="math-inline"
 
 
 Write the percent as a ratio. Remember that *percent* means per 100.
-<span class="math-inline"><sup>44</sup>∕<sub>100</sub></span>
+<span class="math-inline"><sup>44</sup>⁄<sub>100</sub></span>
 
 
-<div class="tryit">
 **Try It**
 
 
@@ -159,10 +92,9 @@ Write the percent as a ratio.
 According to a survey, <span class="math-inline">89%</span> of college students have a smartphone.
 
 
-<span class="math-inline"><sup>89</sup>∕<sub>100</sub></span>
+<span class="math-inline"><sup>89</sup>⁄<sub>100</sub></span>
 
 
-<div class="tryit">
 **Try It**
 
 
@@ -170,18 +102,18 @@ Write the percent as a ratio.
 A study found that <span class="math-inline">72%</span> of U.S. teens send text messages regularly.
 
 
-<span class="math-inline"><sup>72</sup>∕<sub>100</sub></span>
+<span class="math-inline"><sup>72</sup>⁄<sub>100</sub></span>
 
 
-<div class="example">
 **Example**
 
 
-In <span class="math-inline">2007,</span> according to a U.S. Department of Education report, <span class="math-inline">21</span> out of every <span class="math-inline">100</span> first-time freshmen college students at <span class="math-inline">4-year</span> public institutions took at least one remedial course. Write this as a ratio and then as a percent.
+In <span class="math-inline">2007,</span> according to a U.S.
+Department of Education report, <span class="math-inline">21</span> out of every <span class="math-inline">100</span> first-time freshmen college students at <span class="math-inline">4-year</span> public institutions took at least one remedial course.
+Write this as a ratio and then as a percent.
 
 
-<div class="solution">
-**Solution**
+Solution
 
 
 The amount we want to convert is <span class="math-inline">21</span> out of <span class="math-inline">100</span>.
@@ -189,50 +121,43 @@ The amount we want to convert is <span class="math-inline">21</span> out of <spa
 
 
 Write as a ratio.
-<span class="math-inline"><sup>21</sup>∕<sub>100</sub></span>
+<span class="math-inline"><sup>21</sup>⁄<sub>100</sub></span>
 
 
 Convert the 21 per 100 to percent.
 <span class="math-inline">21%</span>
 
 
-<div class="tryit">
 **Try It**
 
 
 Write as a ratio and then as a percent: The American Association of Community Colleges reported that <span class="math-inline">62</span> out of <span class="math-inline">100</span> full-time community college students balance their studies with full-time or part time employment.
 
 
-<span class="math-inline"><sup>62</sup>∕<sub>100</sub>,62%</span>
+<span class="math-inline"><sup>62</sup>⁄<sub>100</sub>,62%</span>
 
 
-<div class="tryit">
 **Try It**
 
 
 Write as a ratio and then as a percent: In response to a student survey, <span class="math-inline">41</span> out of <span class="math-inline">100</span> Santa Ana College students expressed a goal of earning an Associate's degree or transferring to a four-year college.
 
 
-<span class="math-inline"><sup>41</sup>∕<sub>100</sub>,41%</span>
+<span class="math-inline"><sup>41</sup>⁄<sub>100</sub>,41%</span>
 
-
----
 
 ## Convert Percents to Fractions and Decimals
-
 
 Since percents are ratios, they can easily be expressed as fractions. Remember that **percent** means per <span class="math-inline">100,</span> so the denominator of the fraction is <span class="math-inline">100.</span>
 
 
-<div class="definition-label">**Convert a percent to a fraction.**</div>
-
+**Convert a percent to a fraction.**
 
 -  Write the percent as a ratio with the denominator <span class="math-inline">100.</span>
 
 -  Simplify the fraction if possible.
 
 
-<div class="example">
 **Example**
 
 
@@ -243,8 +168,7 @@ Convert each percent to a fraction:
   - ⓑ <span class="math-inline">125%</span>
 
 
-<div class="solution">
-**Solution**
+Solution
 
 
 ⓐ
@@ -254,11 +178,11 @@ Convert each percent to a fraction:
 
 
 Write as a ratio with denominator 100.
-<span class="math-inline"><sup>36</sup>∕<sub>100</sub></span>
+<span class="math-inline"><sup>36</sup>⁄<sub>100</sub></span>
 
 
 Simplify.
-<span class="math-inline"><sup>9</sup>∕<sub>25</sub></span>
+<span class="math-inline"><sup>9</sup>⁄<sub>25</sub></span>
 
 
 ⓑ
@@ -268,14 +192,13 @@ Simplify.
 
 
 Write as a ratio with denominator 100.
-<span class="math-inline"><sup>125</sup>∕<sub>100</sub></span>
+<span class="math-inline"><sup>125</sup>⁄<sub>100</sub></span>
 
 
 Simplify.
-<span class="math-inline"><sup>5</sup>∕<sub>4</sub></span>
+<span class="math-inline"><sup>5</sup>⁄<sub>4</sub></span>
 
 
-<div class="tryit">
 **Try It**
 
 
@@ -288,12 +211,11 @@ Convert each percent to a fraction:
 
 
   -
-ⓐ <span class="math-inline"><sup>12</sup>∕<sub>25</sub></span>
+ⓐ <span class="math-inline"><sup>12</sup>⁄<sub>25</sub></span>
   -
-ⓑ <span class="math-inline"><sup>11</sup>∕<sub>10</sub></span>
+ⓑ <span class="math-inline"><sup>11</sup>⁄<sub>10</sub></span>
 
 
-<div class="tryit">
 **Try It**
 
 
@@ -306,14 +228,13 @@ Convert each percent to a fraction:
 
 
   -
-ⓐ <span class="math-inline"><sup>16</sup>∕<sub>25</sub></span>
+ⓐ <span class="math-inline"><sup>16</sup>⁄<sub>25</sub></span>
   -
-ⓑ <span class="math-inline"><sup>3</sup>∕<sub>2</sub></span>
+ⓑ <span class="math-inline"><sup>3</sup>⁄<sub>2</sub></span>
 
-The previous example shows that a **percent** can be greater than <span class="math-inline">1.</span> We saw that <span class="math-inline">125%</span> means <span class="math-inline"><sup>125</sup>∕<sub>100</sub>,</span> or <span class="math-inline"><sup>5</sup>∕<sub>4</sub>.</span> These are improper fractions, and their values are greater than one.
+The previous example shows that a **percent** can be greater than <span class="math-inline">1.</span> We saw that <span class="math-inline">125%</span> means <span class="math-inline"><sup>125</sup>⁄<sub>100</sub>,</span> or <span class="math-inline"><sup>5</sup>⁄<sub>4</sub>.</span> These are improper fractions, and their values are greater than one.
 
 
-<div class="example">
 **Example**
 
 
@@ -322,11 +243,10 @@ Convert each percent to a fraction:
   -
 ⓐ <span class="math-inline">24.5%</span>
   -
-ⓑ <span class="math-inline">33<sup>1</sup>∕<sub>3</sub>%</span>
+ⓑ <span class="math-inline">33<sup>1</sup>⁄<sub>3</sub>%</span>
 
 
-<div class="solution">
-**Solution**
+Solution
 
 
 ⓐ
@@ -336,52 +256,51 @@ Convert each percent to a fraction:
 
 
 Write as a ratio with denominator 100.
-<span class="math-inline"><sup>24.5</sup>∕<sub>100</sub></span>
+<span class="math-inline"><sup>24.5</sup>⁄<sub>100</sub></span>
 
 
 Clear the decimal by multiplying numerator and denominator by 10.
-<span class="math-inline"><sup>24.5(10)</sup>∕<sub>100(10)</sub></span>
+<span class="math-inline"><sup>24.5(10)</sup>⁄<sub>100(10)</sub></span>
 
 
 Multiply.
-<span class="math-inline"><sup>245</sup>∕<sub>1000</sub></span>
+<span class="math-inline"><sup>245</sup>⁄<sub>1000</sub></span>
 
 
 Rewrite showing common factors.
-<span class="math-inline"><sup>5· 49</sup>∕<sub>5· 200</sub></span>
+<span class="math-inline"><sup>5· 49</sup>⁄<sub>5· 200</sub></span>
 
 
 Simplify.
-<span class="math-inline"><sup>49</sup>∕<sub>200</sub></span>
+<span class="math-inline"><sup>49</sup>⁄<sub>200</sub></span>
 
 
 ⓑ
 
 
-<span class="math-inline">33<sup>1</sup>∕<sub>3</sub>%</span>
+<span class="math-inline">33<sup>1</sup>⁄<sub>3</sub>%</span>
 
 
 Write as a ratio with denominator 100.
-<span class="math-inline"><sup>33\frac{1</sup>∕<sub>3</sub>{100}</span>
+<span class="math-inline"><sup>33<sup>1</sup>⁄<sub>3</sub></sup>⁄<sub>100</sub></span>
 
 
 Write the numerator as an improper fraction.
-<span class="math-inline"><sup>   \frac{100</sup>∕<sub>3</sub>    {100}</span>
+<span class="math-inline"><sup><sup>100</sup>⁄<sub>3</sub></sup>⁄<sub>100</sub></span>
 
 
-Rewrite as fraction division, replacing 100 with <span class="math-inline"><sup>100</sup>∕<sub>1</sub></span>.
-<span class="math-inline"><sup>100</sup>∕<sub>3</sub>÷ <sup>100</sup>∕<sub>1</sub></span>
+Rewrite as fraction division, replacing 100 with <span class="math-inline"><sup>100</sup>⁄<sub>1</sub></span>.
+<span class="math-inline"><sup>100</sup>⁄<sub>3</sub>÷ <sup>100</sup>⁄<sub>1</sub></span>
 
 
 Multiply by the reciprocal.
-<span class="math-inline"><sup>100</sup>∕<sub>3</sub>· <sup>1</sup>∕<sub>100</sub></span>
+<span class="math-inline"><sup>100</sup>⁄<sub>3</sub>· <sup>1</sup>⁄<sub>100</sub></span>
 
 
 Simplify.
-<span class="math-inline"><sup>1</sup>∕<sub>3</sub></span>
+<span class="math-inline"><sup>1</sup>⁄<sub>3</sub></span>
 
 
-<div class="tryit">
 **Try It**
 
 
@@ -390,16 +309,15 @@ Convert each percent to a fraction:
   -
 ⓐ <span class="math-inline">64.4%</span>
   -
-ⓑ <span class="math-inline">66<sup>2</sup>∕<sub>3</sub>%</span>
+ⓑ <span class="math-inline">66<sup>2</sup>⁄<sub>3</sub>%</span>
 
 
   -
-ⓐ <span class="math-inline"><sup>161</sup>∕<sub>250</sub></span>
+ⓐ <span class="math-inline"><sup>161</sup>⁄<sub>250</sub></span>
   -
-ⓑ <span class="math-inline"><sup>2</sup>∕<sub>3</sub></span>
+ⓑ <span class="math-inline"><sup>2</sup>⁄<sub>3</sub></span>
 
 
-<div class="tryit">
 **Try It**
 
 
@@ -408,26 +326,24 @@ Convert each percent to a fraction:
   -
 ⓐ <span class="math-inline">42.5%</span>
   -
-ⓑ <span class="math-inline">8<sup>3</sup>∕<sub>4</sub>%</span>
+ⓑ <span class="math-inline">8<sup>3</sup>⁄<sub>4</sub>%</span>
 
 
   -
-ⓐ <span class="math-inline"><sup>17</sup>∕<sub>40</sub></span>
+ⓐ <span class="math-inline"><sup>17</sup>⁄<sub>40</sub></span>
   -
-ⓑ <span class="math-inline"><sup>7</sup>∕<sub>80</sub></span>
+ⓑ <span class="math-inline"><sup>7</sup>⁄<sub>80</sub></span>
 
 In Decimals, we learned how to convert fractions to decimals. To convert a percent to a decimal, we first convert it to a fraction and then change the fraction to a decimal.
 
 
-<div class="definition-label">**Convert a percent to a decimal.**</div>
-
+**Convert a percent to a decimal.**
 
 - Write the percent as a ratio with the denominator <span class="math-inline">100.</span>
 
 -  Convert the fraction to a decimal by dividing the numerator by the denominator.
 
 
-<div class="example">
 **Example**
 
 
@@ -439,10 +355,7 @@ Convert each percent to a decimal:
 ⓑ <span class="math-inline">78%</span>
 
 
-<div class="solution">
-**Solution**
-
-
+Solution
 Because we want to change to a decimal, we will leave the fractions with denominator <span class="math-inline">100</span> instead of removing common factors.
 
 
@@ -453,7 +366,7 @@ Because we want to change to a decimal, we will leave the fractions with denomin
 
 
 Write as a ratio with denominator 100.
-<span class="math-inline"><sup>6</sup>∕<sub>100</sub></span>
+<span class="math-inline"><sup>6</sup>⁄<sub>100</sub></span>
 
 
 Change the fraction to a decimal by dividing the numerator by the denominator.
@@ -467,14 +380,13 @@ Change the fraction to a decimal by dividing the numerator by the denominator.
 
 
 Write as a ratio with denominator 100.
-<span class="math-inline"><sup>78</sup>∕<sub>100</sub></span>
+<span class="math-inline"><sup>78</sup>⁄<sub>100</sub></span>
 
 
 Change the fraction to a decimal by dividing the numerator by the denominator.
 <span class="math-inline">0.78</span>
 
 
-<div class="tryit">
 **Try It**
 
 
@@ -493,7 +405,6 @@ Convert each percent to a decimal:
 ⓑ 0.87
 
 
-<div class="tryit">
 **Try It**
 
 
@@ -512,7 +423,6 @@ Convert each percent to a decimal:
 ⓑ 0.91
 
 
-<div class="example">
 **Example**
 
 
@@ -524,8 +434,7 @@ Convert each percent to a decimal:
 ⓑ <span class="math-inline">12.5%</span>
 
 
-<div class="solution">
-**Solution**
+Solution
 
 
 ⓐ
@@ -535,7 +444,7 @@ Convert each percent to a decimal:
 
 
 Write as a ratio with denominator 100.
-<span class="math-inline"><sup>135</sup>∕<sub>100</sub></span>
+<span class="math-inline"><sup>135</sup>⁄<sub>100</sub></span>
 
 
 Change the fraction to a decimal by dividing the numerator by the denominator.
@@ -549,14 +458,13 @@ Change the fraction to a decimal by dividing the numerator by the denominator.
 
 
 Write as a ratio with denominator 100.
-<span class="math-inline"><sup>12.5</sup>∕<sub>100</sub></span>
+<span class="math-inline"><sup>12.5</sup>⁄<sub>100</sub></span>
 
 
 Change the fraction to a decimal by dividing the numerator by the denominator.
 <span class="math-inline">0.125</span>
 
 
-<div class="tryit">
 **Try It**
 
 
@@ -575,7 +483,6 @@ Convert each percent to a decimal:
 ⓑ 0.235
 
 
-<div class="tryit">
 **Try It**
 
 
@@ -599,12 +506,14 @@ Let's summarize the results from the previous examples in , and look for a patte
 
 Do you see the pattern?
 
-To convert a **percent** number to a decimal number, we move the decimal point two places to the left and remove the <span class="math-inline">%</span> sign. (Sometimes the decimal point does not appear in the percent number, but just like we can think of the integer <span class="math-inline">6</span> as <span class="math-inline">6.0,</span> we can think of <span class="math-inline">6%</span> as <span class="math-inline">6.0%.</span>) Notice that we may need to add zeros in front of the number when moving the decimal to the left.
+
+To convert a **percent** number to a decimal number, we move the decimal point two places to the left and remove the <span class="math-inline">%</span> sign.
+(Sometimes the decimal point does not appear in the percent number, but just like we can think of the integer <span class="math-inline">6</span> as <span class="math-inline">6.0,</span> we can think of <span class="math-inline">6%</span> as <span class="math-inline">6.0%.</span>) Notice that we may need to add zeros in front of the number when moving the decimal to the left.
+
 
  uses the percents in  and shows visually how to convert them to decimals by moving the decimal point two places to the left.
 
 
-<div class="example">
 **Example**
 
 
@@ -612,8 +521,7 @@ Among a group of business leaders, <span class="math-inline">77%</span> believe 
 Convert the percent to: ⓐ a fraction ⓑ a decimal
 
 
-<div class="solution">
-**Solution**
+Solution
 
 
 ⓐ
@@ -623,20 +531,19 @@ Convert the percent to: ⓐ a fraction ⓑ a decimal
 
 
 Write as a ratio with denominator 100.
-<span class="math-inline"><sup>77</sup>∕<sub>100</sub></span>
+<span class="math-inline"><sup>77</sup>⁄<sub>100</sub></span>
 
 
 ⓑ
 
 
-<span class="math-inline"><sup>77</sup>∕<sub>100</sub></span>
+<span class="math-inline"><sup>77</sup>⁄<sub>100</sub></span>
 
 
 Change the fraction to a decimal by dividing the numerator by the denominator.
 <span class="math-inline">0.77</span>
 
 
-<div class="tryit">
 **Try It**
 
 
@@ -646,12 +553,11 @@ Twitter's share of web traffic jumped <span class="math-inline">24%</span> when 
 
 
   -
-ⓐ <span class="math-inline"><sup>6</sup>∕<sub>25</sub></span>
+ⓐ <span class="math-inline"><sup>6</sup>⁄<sub>25</sub></span>
   -
 ⓑ <span class="math-inline">0.24</span>
 
 
-<div class="tryit">
 **Try It**
 
 
@@ -661,12 +567,11 @@ Convert the percent to:
 
 
   -
-ⓐ <span class="math-inline"><sup>11</sup>∕<sub>25</sub></span>
+ⓐ <span class="math-inline"><sup>11</sup>⁄<sub>25</sub></span>
   -
 ⓑ <span class="math-inline">0.44</span>
 
 
-<div class="example">
 **Example**
 
 
@@ -679,8 +584,7 @@ There are four suits of cards in a deck of cards—hearts, diamonds, clubs, and 
 ⓑ a decimal
 
 
-<div class="solution">
-**Solution**
+Solution
 
 
 ⓐ
@@ -690,22 +594,21 @@ There are four suits of cards in a deck of cards—hearts, diamonds, clubs, and 
 
 
 Write as a ratio with denominator 100.
-<span class="math-inline"><sup>25</sup>∕<sub>100</sub></span>
+<span class="math-inline"><sup>25</sup>⁄<sub>100</sub></span>
 
 
 Simplify.
-<span class="math-inline"><sup>1</sup>∕<sub>4</sub></span>
+<span class="math-inline"><sup>1</sup>⁄<sub>4</sub></span>
 
 
 ⓑ
-<span class="math-inline"><sup>1</sup>∕<sub>4</sub></span>
+<span class="math-inline"><sup>1</sup>⁄<sub>4</sub></span>
 
 
 Change the fraction to a decimal by dividing the numerator by the denominator.
 <span class="math-inline">0.25</span>
 
 
-<div class="tryit">
 **Try It**
 
 
@@ -717,12 +620,11 @@ The probability that it will rain Monday is <span class="math-inline">30%.</span
 
 
   -
-ⓐ <span class="math-inline"><sup>3</sup>∕<sub>10</sub></span>
+ⓐ <span class="math-inline"><sup>3</sup>⁄<sub>10</sub></span>
   -
 ⓑ <span class="math-inline">0.3</span>
 
 
-<div class="tryit">
 **Try It**
 
 
@@ -733,21 +635,17 @@ The probability of getting heads three times when tossing a coin three times is 
 
 
   -
-ⓐ <span class="math-inline"><sup>1</sup>∕<sub>8</sub></span>
+ⓐ <span class="math-inline"><sup>1</sup>⁄<sub>8</sub></span>
   -
 ⓑ <span class="math-inline">0.125</span>
 
 
----
-
 ## Convert Decimals and Fractions to Percents
-
 
 To convert a decimal to a **percent**, remember that percent means per hundred. If we change the decimal to a fraction whose denominator is <span class="math-inline">100,</span> it is easy to change that fraction to a percent.
 
 
-<div class="definition-label">**Convert a decimal to a percent.**</div>
-
+**Convert a decimal to a percent.**
 
 -  Write the decimal as a fraction.
 
@@ -756,7 +654,6 @@ To convert a decimal to a **percent**, remember that percent means per hundred. 
 -  Write this ratio as a percent.
 
 
-<div class="example">
 **Example**
 
 
@@ -765,8 +662,7 @@ Convert each decimal to a percent:
 ⓑ <span class="math-inline">0.83</span>
 
 
-<div class="solution">
-**Solution**
+Solution
 
 
 ⓐ
@@ -776,7 +672,7 @@ Convert each decimal to a percent:
 
 
 Write as a fraction. The denominator is 100.
-<span class="math-inline"><sup>5</sup>∕<sub>100</sub></span>
+<span class="math-inline"><sup>5</sup>⁄<sub>100</sub></span>
 
 
 Write this ratio as a percent.
@@ -790,14 +686,13 @@ Write this ratio as a percent.
 
 
 The denominator is 100.
-<span class="math-inline"><sup>83</sup>∕<sub>100</sub></span>
+<span class="math-inline"><sup>83</sup>⁄<sub>100</sub></span>
 
 
 Write this ratio as a percent.
 <span class="math-inline">83%</span>
 
 
-<div class="tryit">
 **Try It**
 
 
@@ -813,7 +708,6 @@ Convert each decimal to a percent:
 ⓑ 17%
 
 
-<div class="tryit">
 **Try It**
 
 
@@ -832,7 +726,6 @@ Convert each decimal to a percent:
 To convert a mixed number to a percent, we first write it as an improper fraction.
 
 
-<div class="example">
 **Example**
 
 
@@ -841,8 +734,7 @@ Convert each decimal to a percent:
 ⓑ <span class="math-inline">0.075</span>
 
 
-<div class="solution">
-**Solution**
+Solution
 
 
 ⓐ
@@ -852,11 +744,11 @@ Convert each decimal to a percent:
 
 
 Write as a fraction.
-<span class="math-inline">1<sup>5</sup>∕<sub>100</sub></span>
+<span class="math-inline">1<sup>5</sup>⁄<sub>100</sub></span>
 
 
 Write as an improper fraction. The denominator is 100.
-<span class="math-inline"><sup>105</sup>∕<sub>100</sub></span>
+<span class="math-inline"><sup>105</sup>⁄<sub>100</sub></span>
 
 
 Write this ratio as a percent.
@@ -873,18 +765,17 @@ Notice that since <span class="math-inline">1.05>1,</span> the result is more th
 
 
 Write as a fraction. The denominator is 1,000.
-<span class="math-inline"><sup>75</sup>∕<sub>1,000</sub></span>
+<span class="math-inline"><sup>75</sup>⁄<sub>1,000</sub></span>
 
 
 Divide the numerator and denominator by 10, so that the denominator is 100.
-<span class="math-inline"><sup>7.5</sup>∕<sub>100</sub></span>
+<span class="math-inline"><sup>7.5</sup>⁄<sub>100</sub></span>
 
 
 Write this ratio as a percent.
 <span class="math-inline">7.5%</span>
 
 
-<div class="tryit">
 **Try It**
 
 
@@ -900,7 +791,6 @@ Convert each decimal to a percent:
 ⓑ 8.25%
 
 
-<div class="tryit">
 **Try It**
 
 
@@ -926,28 +816,23 @@ Do you see the pattern? To convert a decimal to a percent, we move the decimal p
 In Decimals, we learned how to convert fractions to decimals. Now we also know how to change decimals to percents. So to convert a fraction to a percent, we first change it to a decimal and then convert that decimal to a percent.
 
 
-<div class="definition-label">**Convert a fraction to a percent.**</div>
-
+**Convert a fraction to a percent.**
 
 -  Convert the fraction to a decimal.
 
 -  Convert the decimal to a percent.
 
 
-<div class="example">
 **Example**
 
 
 Convert each fraction or mixed number to a percent:
-ⓐ <span class="math-inline"><sup>3</sup>∕<sub>4</sub></span>
-ⓑ <span class="math-inline"><sup>11</sup>∕<sub>8</sub></span>
-ⓒ <span class="math-inline">2<sup>1</sup>∕<sub>5</sub></span>
+ⓐ <span class="math-inline"><sup>3</sup>⁄<sub>4</sub></span>
+ⓑ <span class="math-inline"><sup>11</sup>⁄<sub>8</sub></span>
+ⓒ <span class="math-inline">2<sup>1</sup>⁄<sub>5</sub></span>
 
 
-<div class="solution">
-**Solution**
-
-
+Solution
 To convert a fraction to a decimal, divide the numerator by the denominator.
 
 
@@ -955,7 +840,7 @@ To convert a fraction to a decimal, divide the numerator by the denominator.
 
 
 Change to a decimal.
-<span class="math-inline"><sup>3</sup>∕<sub>4</sub></span>
+<span class="math-inline"><sup>3</sup>⁄<sub>4</sub></span>
 
 
 Write as a percent by moving the decimal two places.
@@ -968,7 +853,7 @@ Write as a percent by moving the decimal two places.
 
 
 Change to a decimal.
-<span class="math-inline"><sup>11</sup>∕<sub>8</sub></span>
+<span class="math-inline"><sup>11</sup>⁄<sub>8</sub></span>
 
 
 Write as a percent by moving the decimal two places.
@@ -981,11 +866,11 @@ Write as a percent by moving the decimal two places.
 
 
 Write as an improper fraction.
-<span class="math-inline">2<sup>1</sup>∕<sub>5</sub></span>
+<span class="math-inline">2<sup>1</sup>⁄<sub>5</sub></span>
 
 
 Change to a decimal.
-<span class="math-inline"><sup>11</sup>∕<sub>5</sub></span>
+<span class="math-inline"><sup>11</sup>⁄<sub>5</sub></span>
 
 
 Write as a percent.
@@ -997,14 +882,13 @@ Write as a percent.
 Notice that we needed to add zeros at the end of the number when moving the decimal two places to the right.
 
 
-<div class="tryit">
 **Try It**
 
 
 Convert each fraction or mixed number to a percent:
-ⓐ <span class="math-inline"><sup>5</sup>∕<sub>8</sub></span>
-ⓑ <span class="math-inline"><sup>11</sup>∕<sub>4</sub></span>
-ⓒ <span class="math-inline">3<sup>2</sup>∕<sub>5</sub></span>
+ⓐ <span class="math-inline"><sup>5</sup>⁄<sub>8</sub></span>
+ⓑ <span class="math-inline"><sup>11</sup>⁄<sub>4</sub></span>
+ⓒ <span class="math-inline">3<sup>2</sup>⁄<sub>5</sub></span>
 
 
   -
@@ -1017,14 +901,13 @@ Convert each fraction or mixed number to a percent:
 ⓒ 340%
 
 
-<div class="tryit">
 **Try It**
 
 
 Convert each fraction or mixed number to a percent:
-ⓐ <span class="math-inline"><sup>7</sup>∕<sub>8</sub></span>
-ⓑ <span class="math-inline"><sup>9</sup>∕<sub>4</sub></span>
-ⓒ <span class="math-inline">1<sup>3</sup>∕<sub>5</sub></span>
+ⓐ <span class="math-inline"><sup>7</sup>⁄<sub>8</sub></span>
+ⓑ <span class="math-inline"><sup>9</sup>⁄<sub>4</sub></span>
+ⓒ <span class="math-inline">1<sup>3</sup>⁄<sub>5</sub></span>
 
 
   -
@@ -1037,24 +920,23 @@ Convert each fraction or mixed number to a percent:
 ⓒ 160%
 
 
-Sometimes when changing a fraction to a decimal, the division continues for many decimal places and we will **round** off the quotient. The number of decimal places we round to will depend on the situation. If the decimal involves money, we round to the hundredths place. For most other cases in this book we will round the number to the nearest thousandth, so the percent will be rounded to the nearest tenth.
+Sometimes when changing a fraction to a decimal, the division continues for many decimal places and we will **round** off the quotient.
+The number of decimal places we round to will depend on the situation.
+If the decimal involves money, we round to the hundredths place.
+For most other cases in this book we will round the number to the nearest thousandth, so the percent will be rounded to the nearest tenth.
 
 
-<div class="example">
 **Example**
 
 
-Convert <span class="math-inline"><sup>5</sup>∕<sub>7</sub></span> to a percent.
+Convert <span class="math-inline"><sup>5</sup>⁄<sub>7</sub></span> to a percent.
 
 
-<div class="solution">
-**Solution**
-
-
+Solution
 To change a fraction to a decimal, we divide the numerator by the denominator.
 
 
-<span class="math-inline"><sup>5</sup>∕<sub>7</sub></span>
+<span class="math-inline"><sup>5</sup>⁄<sub>7</sub></span>
 
 
 Change to a decimal—rounding to the nearest thousandth.
@@ -1065,41 +947,38 @@ Write as a percent.
 <span class="math-inline">71.4%</span>
 
 
-<div class="tryit">
 **Try It**
 
 
-Convert the fraction to a percent: <span class="math-inline"><sup>3</sup>∕<sub>7</sub></span>
+Convert the fraction to a percent: <span class="math-inline"><sup>3</sup>⁄<sub>7</sub></span>
 
 
 42.9%
 
 
-<div class="tryit">
 **Try It**
 
 
-Convert the fraction to a percent: <span class="math-inline"><sup>4</sup>∕<sub>7</sub></span>
+Convert the fraction to a percent: <span class="math-inline"><sup>4</sup>⁄<sub>7</sub></span>
 
 
 57.1%
 
 
-When we first looked at fractions and decimals, we saw that some fractions converted to a **repeating decimal**. For example, when we converted the fraction <span class="math-inline"><sup>4</sup>∕<sub>3</sub></span> to a decimal, we wrote the answer as <span class="math-inline">1.3<sup>¯</sup>.</span> We will use this same notation, as well as fraction notation, when we convert fractions to percents in the next example.
+When we first looked at fractions and decimals, we saw that some fractions converted to a **repeating decimal**.
+For example, when we converted the fraction <span class="math-inline"><sup>4</sup>⁄<sub>3</sub></span> to a decimal, we wrote the answer as <span class="math-inline">1.3<sup>¯</sup>.</span> We will use this same notation, as well as fraction notation, when we convert fractions to percents in the next example.
 
 
-<div class="example">
 **Example**
 
 
-An article in a medical journal claimed that approximately <span class="math-inline"><sup>1</sup>∕<sub>3</sub></span> of American adults are obese. Convert the fraction <span class="math-inline"><sup>1</sup>∕<sub>3</sub></span> to a percent.
+An article in a medical journal claimed that approximately <span class="math-inline"><sup>1</sup>⁄<sub>3</sub></span> of American adults are obese. Convert the fraction <span class="math-inline"><sup>1</sup>⁄<sub>3</sub></span> to a percent.
 
 
-<div class="solution">
-**Solution**
+Solution
 
 
-<span class="math-inline"><sup>1</sup>∕<sub>3</sub></span>
+<span class="math-inline"><sup>1</sup>⁄<sub>3</sub></span>
 
 
 Change to a decimal.
@@ -1110,38 +989,33 @@ Write as a repeating decimal.
 
 
 Write as a percent.
-<span class="math-inline">33<sup>1</sup>∕<sub>3</sub>%</span>
+<span class="math-inline">33<sup>1</sup>⁄<sub>3</sub>%</span>
 
 
 We could also write the percent as <span class="math-inline">33.3<sup>_</sup>%</span>.
 
 
-<div class="tryit">
 **Try It**
 
 
 Convert the fraction to a percent:
-According to the U.S. Census Bureau, about <span class="math-inline"><sup>1</sup>∕<sub>9</sub></span> of United States housing units have just <span class="math-inline">1</span> bedroom.
+According to the U.S. Census Bureau, about <span class="math-inline"><sup>1</sup>⁄<sub>9</sub></span> of United States housing units have just <span class="math-inline">1</span> bedroom.
 
 
-<span class="math-inline">11.1<sup>-</sup>%, or 11<sup>1</sup>∕<sub>9</sub>%</span>
+<span class="math-inline">11.1<sup>-</sup>%, or 11<sup>1</sup>⁄<sub>9</sub>%</span>
 
 
-<div class="tryit">
 **Try It**
 
 
 Convert the fraction to a percent:
-According to the U.S. Census Bureau, about <span class="math-inline"><sup>1</sup>∕<sub>6</sub></span> of Colorado residents speak a language other than English at home.
+According to the U.S. Census Bureau, about <span class="math-inline"><sup>1</sup>⁄<sub>6</sub></span> of Colorado residents speak a language other than English at home.
 
 
-<span class="math-inline">16.6<sup>-</sup>%, or 16<sup>2</sup>∕<sub>3</sub>%</span>
+<span class="math-inline">16.6<sup>-</sup>%, or 16<sup>2</sup>⁄<sub>3</sub>%</span>
 
-
----
 
 ## Key Concepts
-
 
 - *Convert a percent to a fraction.*
 
@@ -1179,7 +1053,7 @@ In the following exercises, write each percent as a ratio.
 In <span class="math-inline">2014,</span> the unemployment rate for those with only a high school degree was <span class="math-inline">6.0%.</span>
 
 
-<span class="math-inline"><sup>6</sup>∕<sub>100</sub></span>
+<span class="math-inline"><sup>6</sup>⁄<sub>100</sub></span>
 
 
 In <span class="math-inline">2015,</span> among the unemployed, <span class="math-inline">29%</span> were long-term unemployed.
@@ -1188,7 +1062,7 @@ In <span class="math-inline">2015,</span> among the unemployed, <span class="mat
 The unemployment rate for those with Bachelor's degrees was <span class="math-inline">3.2%</span> in <span class="math-inline">2014.</span>
 
 
-<span class="math-inline"><sup>32</sup>∕<sub>1000</sub></span>
+<span class="math-inline"><sup>32</sup>⁄<sub>1000</sub></span>
 
 
 The unemployment rate in Michigan in <span class="math-inline">2014</span> was <span class="math-inline">7.3%.</span>
@@ -1207,7 +1081,7 @@ In the following exercises, write as
 
 
   -
-ⓐ <span class="math-inline"><sup>57</sup>∕<sub>100</sub></span>
+ⓐ <span class="math-inline"><sup>57</sup>⁄<sub>100</sub></span>
   -
 ⓑ <span class="math-inline">57%</span>
 
@@ -1219,7 +1093,7 @@ In the following exercises, write as
 
 
   -
-ⓐ <span class="math-inline"><sup>42</sup>∕<sub>100</sub></span>
+ⓐ <span class="math-inline"><sup>42</sup>⁄<sub>100</sub></span>
   -
 ⓑ <span class="math-inline">42%</span>
 
@@ -1235,7 +1109,7 @@ In the following exercises, convert each percent to a fraction and simplify all 
 <span class="math-inline">4%</span>
 
 
-<span class="math-inline"><sup>1</sup>∕<sub>25</sub></span>
+<span class="math-inline"><sup>1</sup>⁄<sub>25</sub></span>
 
 
 <span class="math-inline">8%</span>
@@ -1244,7 +1118,7 @@ In the following exercises, convert each percent to a fraction and simplify all 
 <span class="math-inline">17%</span>
 
 
-<span class="math-inline"><sup>17</sup>∕<sub>100</sub></span>
+<span class="math-inline"><sup>17</sup>⁄<sub>100</sub></span>
 
 
 <span class="math-inline">19%</span>
@@ -1253,7 +1127,7 @@ In the following exercises, convert each percent to a fraction and simplify all 
 <span class="math-inline">52%</span>
 
 
-<span class="math-inline"><sup>13</sup>∕<sub>25</sub></span>
+<span class="math-inline"><sup>13</sup>⁄<sub>25</sub></span>
 
 
 <span class="math-inline">78%</span>
@@ -1262,7 +1136,7 @@ In the following exercises, convert each percent to a fraction and simplify all 
 <span class="math-inline">125%</span>
 
 
-<span class="math-inline"><sup>5</sup>∕<sub>4</sub></span>
+<span class="math-inline"><sup>5</sup>⁄<sub>4</sub></span>
 
 
 <span class="math-inline">135%</span>
@@ -1271,7 +1145,7 @@ In the following exercises, convert each percent to a fraction and simplify all 
 <span class="math-inline">37.5%</span>
 
 
-<span class="math-inline"><sup>3</sup>∕<sub>8</sub></span>
+<span class="math-inline"><sup>3</sup>⁄<sub>8</sub></span>
 
 
 <span class="math-inline">42.5%</span>
@@ -1280,28 +1154,28 @@ In the following exercises, convert each percent to a fraction and simplify all 
 <span class="math-inline">18.4%</span>
 
 
-<span class="math-inline"><sup>23</sup>∕<sub>125</sub></span>
+<span class="math-inline"><sup>23</sup>⁄<sub>125</sub></span>
 
 
 <span class="math-inline">46.4%</span>
 
 
-<span class="math-inline">9<sup>1</sup>∕<sub>2</sub>%</span>
+<span class="math-inline">9<sup>1</sup>⁄<sub>2</sub>%</span>
 
 
-<span class="math-inline"><sup>19</sup>∕<sub>200</sub></span>
+<span class="math-inline"><sup>19</sup>⁄<sub>200</sub></span>
 
 
-<span class="math-inline">8<sup>1</sup>∕<sub>2</sub>%</span>
+<span class="math-inline">8<sup>1</sup>⁄<sub>2</sub>%</span>
 
 
-<span class="math-inline">5<sup>1</sup>∕<sub>3</sub>%</span>
+<span class="math-inline">5<sup>1</sup>⁄<sub>3</sub>%</span>
 
 
-<span class="math-inline"><sup>4</sup>∕<sub>75</sub></span>
+<span class="math-inline"><sup>4</sup>⁄<sub>75</sub></span>
 
 
-<span class="math-inline">6<sup>2</sup>∕<sub>3</sub>%</span>
+<span class="math-inline">6<sup>2</sup>⁄<sub>3</sub>%</span>
 
 
 In the following exercises, convert each percent to a decimal.
@@ -1392,7 +1266,7 @@ In <span class="math-inline">2010,1.5%</span> of home sales had owner financing.
 
 
   -
-ⓐ <span class="math-inline"><sup>3</sup>∕<sub>200</sub></span>
+ⓐ <span class="math-inline"><sup>3</sup>⁄<sub>200</sub></span>
   -
 ⓑ <span class="math-inline">0.015</span>
 
@@ -1404,7 +1278,7 @@ According to government data, in <span class="math-inline">2013</span> the numbe
 
 
   -
-ⓐ <span class="math-inline"><sup>7023</sup>∕<sub>10,000</sub></span>
+ⓐ <span class="math-inline"><sup>7023</sup>⁄<sub>10,000</sub></span>
   -
 ⓑ <span class="math-inline">0.7023</span>
 
@@ -1416,7 +1290,7 @@ A couple plans to have two children. The probability they will have two girls is
 
 
   -
-ⓐ <span class="math-inline"><sup>1</sup>∕<sub>4</sub></span>
+ⓐ <span class="math-inline"><sup>1</sup>⁄<sub>4</sub></span>
   -
 ⓑ <span class="math-inline">0.25</span>
 
@@ -1428,7 +1302,7 @@ According to the local weather report, the probability of thunderstorms in New Y
 
 
   -
-ⓐ <span class="math-inline"><sup>3</sup>∕<sub>5</sub></span>
+ⓐ <span class="math-inline"><sup>3</sup>⁄<sub>5</sub></span>
   -
 ⓑ <span class="math-inline">0.6</span>
 
@@ -1516,94 +1390,94 @@ In the following exercises, convert each decimal to a percent.
 In the following exercises, convert each fraction to a percent.
 
 
-<span class="math-inline"><sup>1</sup>∕<sub>4</sub></span>
+<span class="math-inline"><sup>1</sup>⁄<sub>4</sub></span>
 
 
 25%
 
 
-<span class="math-inline"><sup>1</sup>∕<sub>5</sub></span>
+<span class="math-inline"><sup>1</sup>⁄<sub>5</sub></span>
 
 
-<span class="math-inline"><sup>3</sup>∕<sub>8</sub></span>
+<span class="math-inline"><sup>3</sup>⁄<sub>8</sub></span>
 
 
 37.5%
 
 
-<span class="math-inline"><sup>5</sup>∕<sub>8</sub></span>
+<span class="math-inline"><sup>5</sup>⁄<sub>8</sub></span>
 
 
-<span class="math-inline"><sup>7</sup>∕<sub>4</sub></span>
+<span class="math-inline"><sup>7</sup>⁄<sub>4</sub></span>
 
 
 175%
 
 
-<span class="math-inline"><sup>9</sup>∕<sub>8</sub></span>
+<span class="math-inline"><sup>9</sup>⁄<sub>8</sub></span>
 
 
-<span class="math-inline">6<sup>4</sup>∕<sub>5</sub></span>
+<span class="math-inline">6<sup>4</sup>⁄<sub>5</sub></span>
 
 
 680%
 
 
-<span class="math-inline">5<sup>1</sup>∕<sub>4</sub></span>
+<span class="math-inline">5<sup>1</sup>⁄<sub>4</sub></span>
 
 
-<span class="math-inline"><sup>5</sup>∕<sub>12</sub></span>
+<span class="math-inline"><sup>5</sup>⁄<sub>12</sub></span>
 
 
-<span class="math-inline">41<sup>2</sup>∕<sub>3</sub>% or 41.6<sup>-</sup>%</span>
+<span class="math-inline">41<sup>2</sup>⁄<sub>3</sub>% or 41.6<sup>-</sup>%</span>
 
 
-<span class="math-inline"><sup>11</sup>∕<sub>12</sub></span>
+<span class="math-inline"><sup>11</sup>⁄<sub>12</sub></span>
 
 
-<span class="math-inline">2<sup>2</sup>∕<sub>3</sub></span>
+<span class="math-inline">2<sup>2</sup>⁄<sub>3</sub></span>
 
 
 <span class="math-inline">266.6<sup>-</sup>%</span>
 
 
-<span class="math-inline">1<sup>2</sup>∕<sub>3</sub></span>
+<span class="math-inline">1<sup>2</sup>⁄<sub>3</sub></span>
 
 
-<span class="math-inline"><sup>3</sup>∕<sub>7</sub></span>
+<span class="math-inline"><sup>3</sup>⁄<sub>7</sub></span>
 
 
 42.9%
 
 
-<span class="math-inline"><sup>6</sup>∕<sub>7</sub></span>
+<span class="math-inline"><sup>6</sup>⁄<sub>7</sub></span>
 
 
-<span class="math-inline"><sup>5</sup>∕<sub>9</sub></span>
+<span class="math-inline"><sup>5</sup>⁄<sub>9</sub></span>
 
 
 <span class="math-inline">55.5<sup>-</sup>%</span>
 
 
-<span class="math-inline"><sup>4</sup>∕<sub>9</sub></span>
+<span class="math-inline"><sup>4</sup>⁄<sub>9</sub></span>
 
 
 In the following exercises, convert each fraction to a percent.
 
 
-<span class="math-inline"><sup>1</sup>∕<sub>4</sub></span> of washing machines needed repair.
+<span class="math-inline"><sup>1</sup>⁄<sub>4</sub></span> of washing machines needed repair.
 
 
 25%
 
 
-<span class="math-inline"><sup>1</sup>∕<sub>5</sub></span> of dishwashers needed repair.
+<span class="math-inline"><sup>1</sup>⁄<sub>5</sub></span> of dishwashers needed repair.
 
 
 In the following exercises, convert each fraction to a percent.
 
 
-According to the National Center for Health Statistics, in <span class="math-inline">2012,<sup>7</sup>∕<sub>20</sub></span> of American adults were obese.
+According to the National Center for Health Statistics, in <span class="math-inline">2012,<sup>7</sup>⁄<sub>20</sub></span> of American adults were obese.
 
 
 35%
@@ -1620,7 +1494,7 @@ Decimal
 Percent
 
 
-<span class="math-inline"><sup>1</sup>∕<sub>2</sub></span>
+<span class="math-inline"><sup>1</sup>⁄<sub>2</sub></span>
 
 
 <span class="math-inline">0.45</span>
@@ -1629,7 +1503,7 @@ Percent
 <span class="math-inline">18%</span>
 
 
-<span class="math-inline"><sup>1</sup>∕<sub>3</sub></span>
+<span class="math-inline"><sup>1</sup>⁄<sub>3</sub></span>
 
 
 <span class="math-inline">0.008</span>
@@ -1643,27 +1517,27 @@ Decimal
 Percent
 
 
-<span class="math-inline"><sup>1</sup>∕<sub>2</sub></span>
+<span class="math-inline"><sup>1</sup>⁄<sub>2</sub></span>
 <span class="math-inline">0.5</span>
 <span class="math-inline">50%</span>
 
 
-<span class="math-inline"><sup>9</sup>∕<sub>20</sub></span>
+<span class="math-inline"><sup>9</sup>⁄<sub>20</sub></span>
 <span class="math-inline">0.45</span>
 <span class="math-inline">45%</span>
 
 
-<span class="math-inline"><sup>9</sup>∕<sub>50</sub></span>
+<span class="math-inline"><sup>9</sup>⁄<sub>50</sub></span>
 <span class="math-inline">0.18</span>
 <span class="math-inline">18%</span>
 
 
-<span class="math-inline"><sup>1</sup>∕<sub>3</sub></span>
+<span class="math-inline"><sup>1</sup>⁄<sub>3</sub></span>
 <span class="math-inline">0.3</span>
 <span class="math-inline">33.3%</span>
 
 
-<span class="math-inline"><sup>1</sup>∕<sub>125</sub></span>
+<span class="math-inline"><sup>1</sup>⁄<sub>125</sub></span>
 <span class="math-inline">0.008</span>
 <span class="math-inline">0.8%</span>
 
@@ -1678,7 +1552,7 @@ Decimal
 Percent
 
 
-<span class="math-inline"><sup>1</sup>∕<sub>4</sub></span>
+<span class="math-inline"><sup>1</sup>⁄<sub>4</sub></span>
 
 
 <span class="math-inline">0.65</span>
@@ -1687,7 +1561,7 @@ Percent
 <span class="math-inline">22%</span>
 
 
-<span class="math-inline"><sup>2</sup>∕<sub>3</sub></span>
+<span class="math-inline"><sup>2</sup>⁄<sub>3</sub></span>
 
 
 <span class="math-inline">0.004</span>
@@ -1708,7 +1582,7 @@ Percent
 
 
   -
-ⓐ <span class="math-inline"><sup>1</sup>∕<sub>10</sub></span>
+ⓐ <span class="math-inline"><sup>1</sup>⁄<sub>10</sub></span>
   -
 ⓑ <span class="math-inline">approximately $9.50</span>
 
@@ -1729,7 +1603,7 @@ Use the chart to answer the following questions
 Write seller <span class="math-inline">C’s</span> rating as a fraction and a decimal.
 
 
-<span class="math-inline"><sup>17</sup>∕<sub>20</sub>; 0.85</span>
+<span class="math-inline"><sup>17</sup>⁄<sub>20</sub>; 0.85</span>
 
 
 Write seller <span class="math-inline">B’s</span> rating as a percent and a decimal.
@@ -1750,10 +1624,12 @@ Which seller should Amelio buy from and why?
 Convert <span class="math-inline">25%,50%,75%,and 100%</span> to fractions. Do you notice a pattern? Explain what the pattern is.
 
 
-<span class="math-inline"><sup>1</sup>∕<sub>4</sub>,<sup>1</sup>∕<sub>2</sub>,<sup>3</sup>∕<sub>4</sub>,1.</span>
+<span class="math-inline"><sup>1</sup>⁄<sub>4</sub>,<sup>1</sup>⁄<sub>2</sub>,<sup>3</sup>⁄<sub>4</sub>,1.</span>
 
 
-Convert <span class="math-inline"><sup>1</sup>∕<sub>10</sub>,<sup>2</sup>∕<sub>10</sub>,<sup>3</sup>∕<sub>10</sub>,<sup>4</sup>∕<sub>10</sub>,<sup>5</sup>∕<sub>10</sub>,<sup>6</sup>∕<sub>10</sub>,<sup>7</sup>∕<sub>10</sub>,<sup>8</sup>∕<sub>10</sub>,</span> and <span class="math-inline"><sup>9</sup>∕<sub>10</sub></span> to percents. Do you notice a pattern? Explain what the pattern is.
+Convert <span class="math-inline"><sup>1</sup>⁄<sub>10</sub>,<sup>2</sup>⁄<sub>10</sub>,<sup>3</sup>⁄<sub>10</sub>,<sup>4</sup>⁄<sub>10</sub>,<sup>5</sup>⁄<sub>10</sub>,<sup>6</sup>⁄<sub>10</sub>,<sup>7</sup>⁄<sub>10</sub>,<sup>8</sup>⁄<sub>10</sub>,</span> and <span class="math-inline"><sup>9</sup>⁄<sub>10</sub></span> to percents.
+Do you notice a pattern?
+Explain what the pattern is.
 
 
 When the Szetos sold their home, the selling price was <span class="math-inline">500%</span> of what they had paid for the house <span class="math-inline">30 years</span> ago. Explain what <span class="math-inline">500%</span> means in this context.
@@ -1775,161 +1651,50 @@ According to cnn.com, cell phone use in <span class="math-inline">2008</span> wa
 
 …confidently. Congratulations! You have achieved the objectives in this section. Reflect on the study skills you used so that you can continue to use them. What did you do to become confident of your ability to do these things? Be specific.
 
-…with some help. This must be addressed quickly because topics you do not master become potholes in your road to success. In math, every topic builds upon previous work. It is important to make sure you have a strong foundation before you move on. Whom can you ask for help? Your fellow classmates and instructor are good resources. Is there a place on campus where math tutors are available? Can your study skills be improved?
+
+…with some help.
+This must be addressed quickly because topics you do not master become potholes in your road to success.
+In math, every topic builds upon previous work.
+It is important to make sure you have a strong foundation before you move on.
+Whom can you ask for help?
+Your fellow classmates and instructor are good resources.
+Is there a place on campus where math tutors are available?
+Can your study skills be improved?
+
 
 …no—I don’t get it! This is a warning sign and you must not ignore it. You should get help right away or you will quickly be overwhelmed. See your instructor as soon as you can to discuss your situation. Together you can come up with a plan to get you the help you need.
 
 
-<div class="prep-quiz">
 **Be Prepared!**
-
 
 Before you get started, take this readiness quiz.
 
 
-Translate and solve: <span class="math-inline"><sup>3</sup>∕<sub>4</sub></span> of <span class="math-inline">x</span> is <span class="math-inline">24.</span>
+Translate and solve: <span class="math-inline"><sup>3</sup>⁄<sub>4</sub></span> of <span class="math-inline">x</span> is <span class="math-inline">24.</span>
 
-If you missed this problem, review .
+If you missed this problem, review
 
 
 <span class="math-inline">32</span>
 
 
-<div class="prep-quiz">
 **Be Prepared!**
 
 
 Simplify: <span class="math-inline">(4.5)(2.38).</span>
 
-If you missed this problem, review .
+If you missed this problem, review
 
 
 <span class="math-inline">10.71</span>
 
 
-<div class="prep-quiz">
 **Be Prepared!**
 
 
 Solve: <span class="math-inline">3.5=0.7n.</span>
 
-If you missed this problem, review .
+If you missed this problem, review
 
 
 <span class="math-inline">5</span>
-
-</div>
-
-</div>
-
-</div>
-
-</div>
-
-</div>
-
-</div>
-
-</div>
-
-</div>
-
-</div>
-
-</div>
-
-</div>
-
-</div>
-
-</div>
-
-</div>
-
-</div>
-
-</div>
-
-</div>
-
-</div>
-
-</div>
-
-</div>
-
-</div>
-
-</div>
-
-</div>
-
-</div>
-
-</div>
-
-</div>
-
-</div>
-
-</div>
-
-</div>
-
-</div>
-
-</div>
-
-</div>
-
-</div>
-
-</div>
-
-</div>
-
-</div>
-
-</div>
-
-</div>
-
-</div>
-
-</div>
-
-</div>
-
-</div>
-
-</div>
-
-</div>
-
-</div>
-
-</div>
-
-</div>
-
-</div>
-
-</div>
-
-</div>
-
-</div>
-
-</div>
-
-</div>
-
-</div>
-
-</div>
-
-</div>
-
-</div>
-
-</div>

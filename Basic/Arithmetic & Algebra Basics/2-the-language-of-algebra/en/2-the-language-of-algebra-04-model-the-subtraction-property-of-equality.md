@@ -1,91 +1,25 @@
-<style>
-.math-inline {
-    font-style: italic;
-    padding: 2px 6px;
-    border-radius: 4px;
-    background: #f8f9fa;
-    font-family: Georgia, serif;
-}
-.math-display {
-    background: #f8f9fa;
-    border-left: 4px solid #4a90d9;
-    padding: 16px 20px;
-    margin: 16px 0;
-    border-radius: 6px;
-    font-size: 1.15em;
-    font-family: Georgia, serif;
-    text-align: center;
-    line-height: 2;
-    overflow-x: auto;
-}
-.example-box, .example {
-    background: #f0f8ff;
-    border-left: 4px solid #2e86de;
-    padding: 12px 20px;
-    margin: 16px 0;
-    border-radius: 6px;
-}
-.tryit-box, .tryit {
-    background: #f0fff4;
-    border-left: 4px solid #27ae60;
-    padding: 12px 20px;
-    margin: 16px 0;
-    border-radius: 6px;
-}
-.solution-box, .solution {
-    background: #fef9e7;
-    border-left: 4px solid #f39c12;
-    padding: 12px 20px;
-    margin: 12px 0;
-    border-radius: 6px;
-}
-.check-box, .check {
-    background: #fef9e7;
-    border-left: 4px solid #f39c12;
-    padding: 12px 20px;
-    margin: 12px 0;
-    border-radius: 6px;
-}
-.prep-quiz {
-    background: #fff3cd;
-    border: 1px solid #ffc107;
-    padding: 12px 20px;
-    margin: 16px 0;
-    border-radius: 6px;
-}
-.def-label, .definition-label {
-    font-weight: bold;
-    font-size: 1.1em;
-    margin: 20px 0 8px 0;
-    color: #2c3e50;
-    display: block;
-}
-.math-display sup, .math-inline sup { font-size: 0.75em; line-height: 0; }
-.math-display sub, .math-inline sub { font-size: 0.75em; line-height: 0; }
-</style>
-
-
----
-
-
----
-
 ## Model the Subtraction Property of Equality
-
 
 We will use a model to help you understand how the process of solving an equation is like solving a puzzle. An envelope represents the variable – since its contents are unknown – and each counter represents one.
 
 Suppose a desk has an imaginary line dividing it in half. We place three counters and an envelope on the left side of desk, and eight counters on the right side of the desk as in . Both sides of the desk have the same number of counters, but some counters are hidden in the envelope. Can you tell how many counters are in the envelope?
 
-What steps are you taking in your mind to figure out how many counters are in the envelope? Perhaps you are thinking “I need to remove the <span class="math-inline">3</span> counters from the left side to get the envelope by itself. Those <span class="math-inline">3</span> counters on the left match with <span class="math-inline">3</span> on the right, so I can take them away from both sides. That leaves five counters on the right, so there must be <span class="math-inline">5</span> counters in the envelope.”  shows this process.
 
-What algebraic equation is modeled by this situation? Each side of the desk represents an **expression** and the center line takes the place of the equal sign. We will call the contents of the envelope <span class="math-inline">x,</span> so the number of counters on the left side of the desk is <span class="math-inline">x+3.</span> On the right side of the desk are <span class="math-inline">8</span> counters. We are told that <span class="math-inline">x+3</span> is equal to <span class="math-inline">8</span> so our equation is<span class="math-inline">x+3=8.</span>
+What steps are you taking in your mind to figure out how many counters are in the envelope?
+Perhaps you are thinking “I need to remove the <span class="math-inline">3</span> counters from the left side to get the envelope by itself.
+Those <span class="math-inline">3</span> counters on the left match with <span class="math-inline">3</span> on the right, so I can take them away from both sides.
+That leaves five counters on the right, so there must be <span class="math-inline">5</span> counters in the envelope.”  shows this process.
+
+
+What algebraic equation is modeled by this situation?
+Each side of the desk represents an **expression** and the center line takes the place of the equal sign.
+We will call the contents of the envelope <span class="math-inline">x,</span> so the number of counters on the left side of the desk is <span class="math-inline">x+3.</span> On the right side of the desk are <span class="math-inline">8</span> counters.
+We are told that <span class="math-inline">x+3</span> is equal to <span class="math-inline">8</span> so our equation is<span class="math-inline">x+3=8.</span>
 
 
 <div class="math-display">
 x+3=8
 </div>
-
 
 Let’s write algebraically the steps we took to discover how many counters were in the envelope.
 
@@ -95,15 +29,13 @@ Now let’s check our solution. We substitute <span class="math-inline">5</span>
 Our solution is correct. Five counters in the envelope plus three more equals eight.
 
 
-<div class="example">
 **Example**
 
 
 Write an equation modeled by the envelopes and counters, and then solve the equation:
 
 
-<div class="solution">
-<span class="def-label">Solution</span>
+Solution
 
 
     On the left, write <span class="math-inline">x</span> for the contents of the envelope, add the <span class="math-inline">4</span> counters, so we have <span class="math-inline">x+4</span>.
@@ -128,7 +60,6 @@ Substitute <span class="math-inline">1</span> for <span class="math-inline">x</s
 Since <span class="math-inline">x=1</span> makes the statement true, we know that <span class="math-inline">1</span> is indeed a solution.
 
 
-<div class="tryit">
 **Try It**
 
 
@@ -138,7 +69,6 @@ Write the equation modeled by the envelopes and counters, and then solve the equ
 *x* + 1 = 7; *x* = 6
 
 
-<div class="tryit">
 **Try It**
 
 
@@ -148,19 +78,12 @@ Write the equation modeled by the envelopes and counters, and then solve the equ
 *x* + 3 = 4; *x* = 1
 
 
----
-
-
----
-
 ## Solve Equations Using the Subtraction Property of Equality
-
 
 Our puzzle has given us an idea of what we need to do to solve an equation. The goal is to isolate the variable by itself on one side of the equations. In the previous examples, we used the Subtraction Property of Equality, which states that when we subtract the same quantity from both sides of an equation, we still have equality.
 
 
-<div class="definition-label">**Subtraction Property of Equality**</div>
-
+**Subtraction Property of Equality**
 
 For any numbers <span class="math-inline">a,b,</span> and <span class="math-inline">c,</span> if
 
@@ -168,7 +91,6 @@ For any numbers <span class="math-inline">a,b,</span> and <span class="math-inli
 <div class="math-display">
 a=b
 </div>
-
 
 then
 
@@ -178,7 +100,12 @@ a-c=b-c
 </div>
 
 
-Think about twin brothers Andy and Bobby. They are <span class="math-inline">17</span> years old. How old was Andy <span class="math-inline">3</span> years ago? He was <span class="math-inline">3</span> years less than <span class="math-inline">17,</span> so his age was <span class="math-inline">17-3,</span> or <span class="math-inline">14.</span> What about Bobby’s age <span class="math-inline">3</span> years ago? Of course, he was <span class="math-inline">14</span> also. Their ages are equal now, and subtracting the same quantity from both of them resulted in equal ages <span class="math-inline">3</span> years ago.
+Think about twin brothers Andy and Bobby.
+They are <span class="math-inline">17</span> years old.
+How old was Andy <span class="math-inline">3</span> years ago?
+He was <span class="math-inline">3</span> years less than <span class="math-inline">17,</span> so his age was <span class="math-inline">17-3,</span> or <span class="math-inline">14.</span> What about Bobby’s age <span class="math-inline">3</span> years ago?
+Of course, he was <span class="math-inline">14</span> also.
+Their ages are equal now, and subtracting the same quantity from both of them resulted in equal ages <span class="math-inline">3</span> years ago.
 
 
 <div class="math-display">
@@ -187,8 +114,7 @@ a
 </div>
 
 
-<div class="definition-label">**Solve an equation using the Subtraction Property of Equality.**</div>
-
+**Solve an equation using the Subtraction Property of Equality.**
 
 - Use the Subtraction Property of Equality to isolate the variable.
 
@@ -197,17 +123,13 @@ a
 - Check the solution.
 
 
-<div class="example">
 **Example**
 
 
 Solve: <span class="math-inline">x+8=17.</span>
 
 
-<div class="solution">
-<span class="def-label">Solution</span>
-
-
+Solution
 We will use the Subtraction Property of Equality to isolate <span class="math-inline">x.</span>
 
 
@@ -220,7 +142,6 @@ We will use the Subtraction Property of Equality to isolate <span class="math-in
 Since <span class="math-inline">x=9</span> makes <span class="math-inline">x+8=17</span> a true statement, we know <span class="math-inline">9</span> is the solution to the equation.
 
 
-<div class="tryit">
 **Try It**
 
 
@@ -231,7 +152,6 @@ Solve:
 *x* = 13
 
 
-<div class="tryit">
 **Try It**
 
 
@@ -242,17 +162,13 @@ Solve:
 *x* = 5
 
 
-<div class="example">
 **Example**
 
 
 Solve: <span class="math-inline">100=y+74.</span>
 
 
-<div class="solution">
-<span class="def-label">Solution</span>
-
-
+Solution
 To solve an equation, we must always isolate the variable—it doesn’t matter which side it is on. To isolate <span class="math-inline">y,</span> we will subtract <span class="math-inline">74</span> from both sides.
 
 
@@ -268,7 +184,6 @@ To solve an equation, we must always isolate the variable—it doesn’t matter 
 Since <span class="math-inline">y=26</span> makes <span class="math-inline">100=y+74</span> a true statement, we have found the solution to this equation.
 
 
-<div class="tryit">
 **Try It**
 
 
@@ -279,7 +194,6 @@ Solve:
 *y* = 28
 
 
-<div class="tryit">
 **Try It**
 
 
@@ -290,13 +204,7 @@ Solve:
 *y* = 46
 
 
----
-
-
----
-
 ## Solve Equations Using the Addition Property of Equality
-
 
 In all the equations we have solved so far, a number was added to the variable on one side of the equation. We used subtraction to “undo” the addition in order to isolate the variable.
 
@@ -305,8 +213,7 @@ But suppose we have an equation with a number subtracted from the variable, such
 We use the Addition Property of Equality, which says we can add the same number to both sides of the equation without changing the equality. Notice how it mirrors the Subtraction Property of Equality.
 
 
-<div class="definition-label">**Addition Property of Equality**</div>
-
+**Addition Property of Equality**
 
 For any numbers <span class="math-inline">a,b</span>, and <span class="math-inline">c</span>, if
 
@@ -315,14 +222,12 @@ For any numbers <span class="math-inline">a,b</span>, and <span class="math-inli
 a=b
 </div>
 
-
 then
 
 
 <div class="math-display">
 a+c=b+c
 </div>
-
 
 Remember the <span class="math-inline">17-year-old</span> twins, Andy and Bobby? In ten years, Andy’s age will still equal Bobby’s age. They will both be <span class="math-inline">27.</span>
 
@@ -332,12 +237,10 @@ a \\
 a
 </div>
 
-
 We can add the same number to both sides and still keep the equality.
 
 
-<div class="definition-label">**Solve an equation using the Addition Property of Equality.**</div>
-
+**Solve an equation using the Addition Property of Equality.**
 
 - Use the Addition Property of Equality to isolate the variable.
 
@@ -346,17 +249,13 @@ We can add the same number to both sides and still keep the equality.
 - Check the solution.
 
 
-<div class="example">
 **Example**
 
 
 Solve: <span class="math-inline">x-5=8.</span>
 
 
-<div class="solution">
-<span class="def-label">Solution</span>
-
-
+Solution
 We will use the **Addition Property of Equality** to isolate the variable.
 
 
@@ -366,7 +265,6 @@ We will use the **Addition Property of Equality** to isolate the variable.
     Simplify.
 
 
-<div class="tryit">
 **Try It**
 
 
@@ -377,7 +275,6 @@ Solve:
 *x* = 22
 
 
-<div class="tryit">
 **Try It**
 
 
@@ -388,17 +285,13 @@ Solve:
 *y* = 4
 
 
-<div class="example">
 **Example**
 
 
 Solve: <span class="math-inline">27=a-16.</span>
 
 
-<div class="solution">
-<span class="def-label">Solution</span>
-
-
+Solution
 We will add <span class="math-inline">16</span> to each side to isolate the variable.
 
 
@@ -411,7 +304,6 @@ We will add <span class="math-inline">16</span> to each side to isolate the vari
 The solution to <span class="math-inline">27=a-16</span> is <span class="math-inline">a=43.</span>
 
 
-<div class="tryit">
 **Try It**
 
 
@@ -422,7 +314,6 @@ Solve:
 *a* = 37
 
 
-<div class="tryit">
 **Try It**
 
 
@@ -433,13 +324,7 @@ Solve:
 *n* = 41
 
 
----
-
-
----
-
 ## Translate Word Phrases to Algebraic Equations
-
 
 Remember, an equation has an equal sign between two algebraic expressions. So if we have a sentence that tells us that two phrases are equal, we can translate it into an equation. We look for clue words that mean *equals*. Some words that translate to the equal sign are:
 
@@ -460,17 +345,13 @@ It may be helpful to put a box around the *equals* word(s) in the sentence to he
 We will practice translating word sentences into algebraic equations. Some of the sentences will be basic number facts with no variables to solve for. Some sentences will translate into equations with variables. The focus right now is just to translate the words into algebra.
 
 
-<div class="example">
 **Example**
 
 
 Translate the sentence into an algebraic equation: The sum of <span class="math-inline">6</span> and <span class="math-inline">9</span> is <span class="math-inline">15.</span>
 
 
-<div class="solution">
-<span class="def-label">Solution</span>
-
-
+Solution
 The word *is* tells us the equal sign goes between 9 and 15.
 
 
@@ -486,7 +367,6 @@ The word *is* tells us the equal sign goes between 9 and 15.
     Translate the words to the right of the *equals* word into an algebraic expression.
 
 
-<div class="tryit">
 **Try It**
 
 
@@ -497,7 +377,6 @@ The sum of <span class="math-inline">7</span> and <span class="math-inline">6</s
 7 + 6 = 13
 
 
-<div class="tryit">
 **Try It**
 
 
@@ -508,17 +387,13 @@ The sum of <span class="math-inline">8</span> and <span class="math-inline">6</s
 8 + 6 = 14
 
 
-<div class="example">
 **Example**
 
 
 Translate the sentence into an algebraic equation: The product of <span class="math-inline">8</span> and <span class="math-inline">7</span> is <span class="math-inline">56.</span>
 
 
-<div class="solution">
-<span class="def-label">Solution</span>
-
-
+Solution
 The location of the word *is* tells us that the equal sign goes between 7 and 56.
 
 
@@ -534,7 +409,6 @@ The location of the word *is* tells us that the equal sign goes between 7 and 56
     Translate the words to the right of the *equals* word into an algebraic expression.
 
 
-<div class="tryit">
 **Try It**
 
 
@@ -545,7 +419,6 @@ The product of <span class="math-inline">6</span> and <span class="math-inline">
 6 ⋅ 9 = 54
 
 
-<div class="tryit">
 **Try It**
 
 
@@ -556,28 +429,25 @@ The product of <span class="math-inline">21</span> and <span class="math-inline"
 21 ⋅ 3 = 63
 
 
-<div class="example">
 **Example**
 
 
 Translate the sentence into an algebraic equation: Twice the difference of <span class="math-inline">x</span> and <span class="math-inline">3</span> gives <span class="math-inline">18.</span>
 
 
-<div class="solution">
-<span class="def-label">Solution</span>
+Solution
 
 
     Locate the “equals” word(s).
 
 
-    Recognize the key words: *twice; difference of \dots. and …*.
+    Recognize the key words: *twice; difference of …. and …*.
     *Twice* means two times.
 
 
     Translate.
 
 
-<div class="tryit">
 **Try It**
 
 
@@ -588,7 +458,6 @@ Twice the difference of <span class="math-inline">x</span> and <span class="math
 2(*x* − 5) = 30
 
 
-<div class="tryit">
 **Try It**
 
 
@@ -599,26 +468,18 @@ Twice the difference of <span class="math-inline">y</span> and <span class="math
 2(*y* − 4) = 16
 
 
----
-
-
----
-
 ## Translate to an Equation and Solve
-
 
 Now let’s practice translating sentences into algebraic equations and then solving them. We will solve the equations by using the Subtraction and Addition Properties of Equality.
 
 
-<div class="example">
 **Example**
 
 
 Translate and solve: Three more than <span class="math-inline">x</span> is equal to <span class="math-inline">47.</span>
 
 
-<div class="solution">
-<span class="def-label">Solution</span>
+Solution
 
 
     Three more than *x* is equal to 47.
@@ -639,7 +500,6 @@ Translate and solve: Three more than <span class="math-inline">x</span> is equal
 So <span class="math-inline">x= 44</span> is the solution.
 
 
-<div class="tryit">
 **Try It**
 
 
@@ -650,7 +510,6 @@ Seven more than <span class="math-inline">x</span> is equal to <span class="math
 *x* + 7 = 37; *x* = 30
 
 
-<div class="tryit">
 **Try It**
 
 
@@ -661,15 +520,13 @@ Eleven more than <span class="math-inline">y</span> is equal to <span class="mat
 *y* + 11 = 28; *y* = 17
 
 
-<div class="example">
 **Example**
 
 
 Translate and solve: The difference of <span class="math-inline">y</span> and <span class="math-inline">14</span> is <span class="math-inline">18.</span>
 
 
-<div class="solution">
-<span class="def-label">Solution</span>
+Solution
 
 
     The difference of *y* and 14 is 18.
@@ -690,7 +547,6 @@ Translate and solve: The difference of <span class="math-inline">y</span> and <s
 So <span class="math-inline">y=32</span> is the solution.
 
 
-<div class="tryit">
 **Try It**
 
 
@@ -701,7 +557,6 @@ The difference of <span class="math-inline">z</span> and <span class="math-inlin
 *z* − 17 = 37; *z* = 54
 
 
-<div class="tryit">
 **Try It**
 
 
@@ -712,19 +567,12 @@ The difference of <span class="math-inline">x</span> and <span class="math-inlin
 *x* − 19 = 45; *x* = 64
 
 
-<div class="definition-label">**ACCESS ADDITIONAL ONLINE RESOURCES**</div>
-
+**ACCESS ADDITIONAL ONLINE RESOURCES**
 
 - Solving One Step Equations By Addition and Subtraction
 
 
----
-
-
----
-
 ## Key Concepts
-
 
 - *Determine whether a number is a solution to an equation.*
 
@@ -1133,7 +981,9 @@ The difference of <span class="math-inline">c</span> and <span class="math-inlin
 $1300
 
 
-*Insurance* Marta’s homeowner’s insurance policy has a <span class="math-inline">$750</span> deductible. The insurance company paid <span class="math-inline">$5800</span> to repair damages caused by a storm. Find the total cost of the storm damage, <span class="math-inline">d,</span> by solving the equation <span class="math-inline">d-750=5800.</span>
+*Insurance* Marta’s homeowner’s insurance policy has a <span class="math-inline">$750</span> deductible.
+The insurance company paid <span class="math-inline">$5800</span> to repair damages caused by a storm.
+Find the total cost of the storm damage, <span class="math-inline">d,</span> by solving the equation <span class="math-inline">d-750=5800.</span>
 
 
 *Sale purchase* Arthur bought a suit that was on sale for <span class="math-inline">$120</span> off. He paid <span class="math-inline">$340</span> for the suit. Find the original price, <span class="math-inline">p,</span> of the suit by solving the equation <span class="math-inline">p-120=340.</span>
@@ -1162,9 +1012,7 @@ Write the equation <span class="math-inline">y-5=21</span> in words. Then make u
 ⓑ What does this checklist tell you about your mastery of this section? What steps will you take to improve?
 
 
-<div class="prep-quiz">
 **Be Prepared!**
-
 
 Before you get started, take this readiness quiz.
 
@@ -1172,102 +1020,17 @@ Before you get started, take this readiness quiz.
 Which of the following numbers are counting numbers (natural numbers)?
 
 <span class="math-inline">0,4,215</span>
-If you missed this problem, review .
+If you missed this problem, review
 
 
 <span class="math-inline">4</span> and <span class="math-inline">215</span>
 
 
-<div class="prep-quiz">
 **Be Prepared!**
 
 
 Find the sum of <span class="math-inline">3,5,</span> and <span class="math-inline">7.</span>
-If you missed the problem, review .
+If you missed the problem, review
 
 
 <span class="math-inline">15</span>
-
-</div>
-
-</div>
-
-</div>
-
-</div>
-
-</div>
-
-</div>
-
-</div>
-
-</div>
-
-</div>
-
-</div>
-
-</div>
-
-</div>
-
-</div>
-
-</div>
-
-</div>
-
-</div>
-
-</div>
-
-</div>
-
-</div>
-
-</div>
-
-</div>
-
-</div>
-
-</div>
-
-</div>
-
-</div>
-
-</div>
-
-</div>
-
-</div>
-
-</div>
-
-</div>
-
-</div>
-
-</div>
-
-</div>
-
-</div>
-
-</div>
-
-</div>
-
-</div>
-
-</div>
-
-</div>
-
-</div>
-
-</div>
-
-</div>

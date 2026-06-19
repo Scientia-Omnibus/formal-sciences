@@ -1,83 +1,15 @@
-<style>
-.math-inline {
-    font-style: italic;
-    padding: 2px 6px;
-    border-radius: 4px;
-    background: #f8f9fa;
-    font-family: Georgia, serif;
-}
-.math-display {
-    background: #f8f9fa;
-    border-left: 4px solid #4a90d9;
-    padding: 16px 20px;
-    margin: 16px 0;
-    border-radius: 6px;
-    font-size: 1.15em;
-    font-family: Georgia, serif;
-    text-align: center;
-    line-height: 2;
-    overflow-x: auto;
-}
-.example-box, .example {
-    background: #f0f8ff;
-    border-left: 4px solid #2e86de;
-    padding: 12px 20px;
-    margin: 16px 0;
-    border-radius: 6px;
-}
-.tryit-box, .tryit {
-    background: #f0fff4;
-    border-left: 4px solid #27ae60;
-    padding: 12px 20px;
-    margin: 16px 0;
-    border-radius: 6px;
-}
-.solution-box, .solution {
-    background: #fef9e7;
-    border-left: 4px solid #f39c12;
-    padding: 12px 20px;
-    margin: 12px 0;
-    border-radius: 6px;
-}
-.check-box, .check {
-    background: #fef9e7;
-    border-left: 4px solid #f39c12;
-    padding: 12px 20px;
-    margin: 12px 0;
-    border-radius: 6px;
-}
-.prep-quiz {
-    background: #fff3cd;
-    border: 1px solid #ffc107;
-    padding: 12px 20px;
-    margin: 16px 0;
-    border-radius: 6px;
-}
-.def-label, .definition-label {
-    font-weight: bold;
-    font-size: 1.1em;
-    margin: 20px 0 8px 0;
-    color: #2c3e50;
-    display: block;
-}
-.math-display sup, .math-inline sup { font-size: 0.75em; line-height: 0; }
-.math-display sub, .math-inline sub { font-size: 0.75em; line-height: 0; }
-</style>
-
-
----
-
-
----
-
 ## Find the Prime Factorization of a Composite Number
 
 
-In the previous section, we found the factors of a number. Prime numbers have only two factors, the number <span class="math-inline">1</span> and the prime number itself. Composite numbers have more than two factors, and every composite number can be written as a unique product of primes. This is called the **prime factorization** of a number. When we write the prime factorization of a number, we are rewriting the number as a product of primes. Finding the prime factorization of a composite number will help you later in this course.
+In the previous section, we found the factors of a number.
+Prime numbers have only two factors, the number <span class="math-inline">1</span> and the prime number itself.
+Composite numbers have more than two factors, and every composite number can be written as a unique product of primes.
+This is called the **prime factorization** of a number.
+When we write the prime factorization of a number, we are rewriting the number as a product of primes.
+Finding the prime factorization of a composite number will help you later in this course.
 
 
-<div class="definition-label">**Prime Factorization**</div>
-
+**Prime Factorization**
 
 The prime factorization of a number is the product of prime numbers that equals the number.
 
@@ -101,7 +33,10 @@ For example, let’s find the prime factorization of <span class="math-inline">3
 
 The factor <span class="math-inline">3</span> is prime, so we circle it. The factor <span class="math-inline">12</span> is composite, so we need to find its factors. Let’s use <span class="math-inline">3</span> and <span class="math-inline">4.</span> We write these factors on the tree under the <span class="math-inline">12.</span>
 
-The factor <span class="math-inline">3</span> is prime, so we circle it. The factor <span class="math-inline">4</span> is composite, and it factors into <span class="math-inline">2· 2.</span> We write these factors under the <span class="math-inline">4.</span> Since <span class="math-inline">2</span> is prime, we circle both <span class="math-inline">2s.</span>
+
+The factor <span class="math-inline">3</span> is prime, so we circle it.
+The factor <span class="math-inline">4</span> is composite, and it factors into <span class="math-inline">2· 2.</span> We write these factors under the <span class="math-inline">4.</span> Since <span class="math-inline">2</span> is prime, we circle both <span class="math-inline">2s.</span>
+
 
 The prime factorization is the product of the circled primes. We generally write the prime factorization in order from least to greatest.
 
@@ -109,7 +44,6 @@ The prime factorization is the product of the circled primes. We generally write
 <div class="math-display">
 2· 2· 3· 3
 </div>
-
 
 In cases like this, where some of the prime factors are repeated, we can write prime factorization in exponential form.
 
@@ -120,12 +54,10 @@ In cases like this, where some of the prime factors are repeated, we can write p
 2<sup>2</sup>
 </div>
 
-
 Note that we could have started our factor tree with any factor pair of <span class="math-inline">36.</span> We chose <span class="math-inline">12</span> and <span class="math-inline">3,</span> but the same result would have been the same if we had started with <span class="math-inline">2</span> and <span class="math-inline">18,4</span> and <span class="math-inline">9,or 6 and 6.</span>
 
 
-<div class="definition-label">**Find the prime factorization of a composite number using the tree method.**</div>
-
+**Find the prime factorization of a composite number using the tree method.**
 
 - Find any factor pair of the given number, and use these numbers to create two branches.
 
@@ -136,18 +68,16 @@ Note that we could have started our factor tree with any factor pair of <span cl
 - Write the composite number as the product of all the circled primes.
 
 
-<div class="example">
 **Example**
 
 
 Find the prime factorization of <span class="math-inline">48</span> using the factor tree method.
 
 
-<div class="solution">
-<span class="def-label">Solution</span>
+Solution
 
 
-    We can start our tree using any factor pair of 48. Let's use 2 and 24.We circle the 2 because it is prime and so that branch is complete.
+    We can start our tree using any factor pair of 48. Let's use 2 and 24. We circle the 2 because it is prime and so that branch is complete.
 
 
     Now we will factor 24. Let's use 4 and 6.
@@ -155,7 +85,7 @@ Find the prime factorization of <span class="math-inline">48</span> using the fa
 
     Neither factor is prime, so we do not circle either.
 We factor the 4, using 2 and 2.
-We factor 6, using 2 and 3.We circle the 2s and the 3 since they are prime. Now all of the branches end in a prime.
+We factor 6, using 2 and 3. We circle the 2s and the 3 since they are prime. Now all of the branches end in a prime.
 
 
     Write the product of the circled numbers.
@@ -166,11 +96,9 @@ We factor 6, using 2 and 3.We circle the 2s and the 3 since they are prime. Now 
     <span class="math-inline">2<sup>4</sup>· 3</span>
 
 
-<div class="check-box">
-<span class="def-label">Check this on your own by multiplying all the factors together. The result should be <span class="math-inline">48.</span></span>
+Check this on your own by multiplying all the factors together. The result should be <span class="math-inline">48.</span>
 
 
-<div class="tryit">
 **Try It**
 
 
@@ -180,7 +108,6 @@ Find the prime factorization using the factor tree method: <span class="math-inl
 2 ⋅ 2 ⋅ 2 ⋅ 2 ⋅ 5, or 24 ⋅ 5
 
 
-<div class="tryit">
 **Try It**
 
 
@@ -190,18 +117,16 @@ Find the prime factorization using the factor tree method: <span class="math-inl
 2 ⋅ 2 ⋅ 3 ⋅ 5, or 22 ⋅ 3 ⋅ 5
 
 
-<div class="example">
 **Example**
 
 
 Find the prime factorization of 84 using the factor tree method.
 
 
-<div class="solution">
-<span class="def-label">Solution</span>
+Solution
 
 
-    We start with the factor pair 4 and 21.Neither factor is prime so we factor them further.
+    We start with the factor pair 4 and 21. Neither factor is prime so we factor them further.
 
 
     Now the factors are all prime, so we circle them.
@@ -216,7 +141,6 @@ Find the prime factorization of 84 using the factor tree method.
 Draw a factor tree of <span class="math-inline">84.</span>
 
 
-<div class="tryit">
 **Try It**
 
 
@@ -226,7 +150,6 @@ Find the prime factorization using the factor tree method: <span class="math-inl
 2 ⋅ 3 ⋅ 3 ⋅ 7, or 2 ⋅ 32 ⋅ 7
 
 
-<div class="tryit">
 **Try It**
 
 
@@ -259,12 +182,10 @@ The prime factorization is the product of all the primes on the sides and top of
 2<sup>2</sup>
 </div>
 
-
 Notice that the result is the same as we obtained with the factor tree method.
 
 
-<div class="definition-label">**Find the prime factorization of a composite number using the ladder method.**</div>
-
+**Find the prime factorization of a composite number using the ladder method.**
 
 - Divide the number by the smallest prime.
 
@@ -277,15 +198,13 @@ Notice that the result is the same as we obtained with the factor tree method.
 - Write the composite number as the product of all the primes on the sides and top of the ladder.
 
 
-<div class="example">
 **Example**
 
 
 Find the prime factorization of <span class="math-inline">120</span> using the ladder method.
 
 
-<div class="solution">
-<span class="def-label">Solution</span>
+Solution
 
 
     Divide the number by the smallest prime, which is 2.
@@ -306,7 +225,6 @@ Find the prime factorization of <span class="math-inline">120</span> using the l
 Check this yourself by multiplying the factors. The result should be <span class="math-inline">120.</span>
 
 
-<div class="tryit">
 **Try It**
 
 
@@ -316,7 +234,6 @@ Find the prime factorization using the ladder method: <span class="math-inline">
 2 ⋅ 2 ⋅ 2 ⋅ 2 ⋅ 5, or 24 ⋅ 5
 
 
-<div class="tryit">
 **Try It**
 
 
@@ -326,15 +243,13 @@ Find the prime factorization using the ladder method: <span class="math-inline">
 2 ⋅ 2 ⋅ 3 ⋅ 5, or 22 ⋅ 3 ⋅ 5
 
 
-<div class="example">
 **Example**
 
 
 Find the prime factorization of <span class="math-inline">48</span> using the ladder method.
 
 
-<div class="solution">
-<span class="def-label">Solution</span>
+Solution
 
 
     Divide the number by the smallest prime, 2.
@@ -349,7 +264,6 @@ Find the prime factorization of <span class="math-inline">48</span> using the la
     <span class="math-inline">2<sup>4</sup>· 3</span>
 
 
-<div class="tryit">
 **Try It**
 
 
@@ -359,7 +273,6 @@ Find the prime factorization using the ladder method. <span class="math-inline">
 2 ⋅ 3 ⋅ 3 ⋅ 7, or 2 ⋅ 32 ⋅ 7
 
 
-<div class="tryit">
 **Try It**
 
 
@@ -369,13 +282,7 @@ Find the prime factorization using the ladder method. <span class="math-inline">
 2 ⋅ 3 ⋅ 7 ⋅ 7, or 2 ⋅ 3 ⋅ 72
 
 
----
-
-
----
-
 ## Find the Least Common Multiple (LCM) of Two Numbers
-
 
 One of the reasons we look at multiples and primes is to use these techniques to find the least common multiple of two numbers. This will be useful when we add and subtract fractions with different denominators.
 
@@ -390,14 +297,12 @@ A common multiple of two numbers is a number that is a multiple of both numbers.
 25:25, 50,75, 100,125,…
 </div>
 
-
 We see that <span class="math-inline">50</span> and <span class="math-inline">100</span> appear in both lists. They are common multiples of <span class="math-inline">10</span> and <span class="math-inline">25.</span> We would find more common multiples if we continued the list of multiples for each.
 
 The smallest number that is a multiple of two numbers is called the **least common multiple** (LCM). So the least LCM of <span class="math-inline">10</span> and <span class="math-inline">25</span> is <span class="math-inline">50.</span>
 
 
-<div class="definition-label">**Find the least common multiple (LCM) of two numbers by listing multiples.**</div>
-
+**Find the least common multiple (LCM) of two numbers by listing multiples.**
 
 - List the first several multiples of each number.
 
@@ -408,25 +313,20 @@ The smallest number that is a multiple of two numbers is called the **least comm
 - This number is the LCM.
 
 
-<div class="example">
 **Example**
 
 
 Find the LCM of <span class="math-inline">15</span> and <span class="math-inline">20</span> by listing multiples.
 
 
-<div class="solution">
-<span class="def-label">Solution</span>
-
-
+Solution
 List the first several multiples of <span class="math-inline">15</span> and of <span class="math-inline">20.</span> Identify the first common multiple.
-\(15: \\
-20:\)
+<span class="math-inline">15: \\
+20:</span>
 The smallest number to appear on both lists is <span class="math-inline">60,</span> so <span class="math-inline">60</span> is the least common multiple of <span class="math-inline">15</span> and <span class="math-inline">20.</span>
 Notice that <span class="math-inline">120</span> is on both lists, too. It is a common multiple, but it is not the least common multiple.
 
 
-<div class="tryit">
 **Try It**
 
 
@@ -436,7 +336,6 @@ Find the least common multiple (LCM) of the given numbers: <span class="math-inl
 36
 
 
-<div class="tryit">
 **Try It**
 
 
@@ -457,7 +356,6 @@ We start by finding the prime factorization of each number.
 12=2· 2· 3 18=2· 3· 3
 </div>
 
-
 Then we write each number as a product of primes, matching primes vertically when possible.
 
 
@@ -466,14 +364,12 @@ Then we write each number as a product of primes, matching primes vertically whe
 18
 </div>
 
-
 Now we bring down the primes in each column. The LCM is the product of these factors.
 
 Notice that the prime factors of <span class="math-inline">12</span> and the prime factors of <span class="math-inline">18</span> are included in the LCM. By matching up the common primes, each common prime factor is used only once. This ensures that <span class="math-inline">36</span> is the least common multiple.
 
 
-<div class="definition-label">**Find the LCM using the prime factors method.**</div>
-
+**Find the LCM using the prime factors method.**
 
 - Find the prime factorization of each number.
 
@@ -484,15 +380,13 @@ Notice that the prime factors of <span class="math-inline">12</span> and the pri
 - Multiply the factors to get the LCM.
 
 
-<div class="example">
 **Example**
 
 
 Find the LCM of <span class="math-inline">15</span> and <span class="math-inline">18</span> using the prime factors method.
 
 
-<div class="solution">
-<span class="def-label">Solution</span>
+Solution
 
 
     Write each number as a product of primes.
@@ -510,7 +404,6 @@ Find the LCM of <span class="math-inline">15</span> and <span class="math-inline
     The LCM of 15 and 18 is 90.
 
 
-<div class="tryit">
 **Try It**
 
 
@@ -520,7 +413,6 @@ Find the LCM using the prime factors method. <span class="math-inline">15 and 20
 60
 
 
-<div class="tryit">
 **Try It**
 
 
@@ -530,15 +422,13 @@ Find the LCM using the prime factors method. <span class="math-inline">15 and 35
 105
 
 
-<div class="example">
 **Example**
 
 
 Find the LCM of <span class="math-inline">50</span> and <span class="math-inline">100</span> using the prime factors method.
 
 
-<div class="solution">
-<span class="def-label">Solution</span>
+Solution
 
 
     Write the prime factorization of each number.
@@ -556,7 +446,6 @@ Find the LCM of <span class="math-inline">50</span> and <span class="math-inline
     The LCM of 50 and 100 is 100.
 
 
-<div class="tryit">
 **Try It**
 
 
@@ -566,7 +455,6 @@ Find the LCM using the prime factors method: <span class="math-inline">55,88</sp
 440
 
 
-<div class="tryit">
 **Try It**
 
 
@@ -576,8 +464,7 @@ Find the LCM using the prime factors method: <span class="math-inline">60,72</sp
 360
 
 
-<div class="definition-label">**ACCESS ADDITIONAL ONLINE RESOURCES**</div>
-
+**ACCESS ADDITIONAL ONLINE RESOURCES**
 
 - Ex 1: Prime Factorization
 
@@ -596,13 +483,7 @@ Find the LCM using the prime factors method: <span class="math-inline">60,72</sp
 - Example: Determining the Least Common Multiple Using Prime Factorization
 
 
----
-
-
----
-
 ## Key Concepts
-
 
 - *Find the prime factorization of a composite number using the tree method.*
 
@@ -633,11 +514,6 @@ Find the LCM using the prime factors method: <span class="math-inline">60,72</sp
   - Bring down the primes in each column.
   - Multiply the factors to get the LCM.
 
-
----
-
-
----
 
 ## Section Exercises
 
@@ -902,13 +778,7 @@ Do you prefer to find the LCM by listing multiples or by using the prime factors
 ⓑ Overall, after looking at the checklist, do you think you are well-prepared for the next Chapter? Why or why not?
 
 
----
-
-
----
-
 ## Chapter Review Exercises
-
 
 *Use Variables and Algebraic Symbols*
 
@@ -1571,61 +1441,3 @@ Describe how you have used two topics from The Language of Algebra chapter in yo
 
 
 Answers will vary
-
-</div>
-
-</div>
-
-</div>
-
-</div>
-
-</div>
-
-</div>
-
-</div>
-
-</div>
-
-</div>
-
-</div>
-
-</div>
-
-</div>
-
-</div>
-
-</div>
-
-</div>
-
-</div>
-
-</div>
-
-</div>
-
-</div>
-
-</div>
-
-</div>
-
-</div>
-
-</div>
-
-</div>
-
-</div>
-
-</div>
-
-</div>
-
-</div>
-
-</div>

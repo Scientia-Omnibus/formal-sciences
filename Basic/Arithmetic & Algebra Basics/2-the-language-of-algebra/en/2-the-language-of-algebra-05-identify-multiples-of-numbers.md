@@ -1,77 +1,4 @@
-<style>
-.math-inline {
-    font-style: italic;
-    padding: 2px 6px;
-    border-radius: 4px;
-    background: #f8f9fa;
-    font-family: Georgia, serif;
-}
-.math-display {
-    background: #f8f9fa;
-    border-left: 4px solid #4a90d9;
-    padding: 16px 20px;
-    margin: 16px 0;
-    border-radius: 6px;
-    font-size: 1.15em;
-    font-family: Georgia, serif;
-    text-align: center;
-    line-height: 2;
-    overflow-x: auto;
-}
-.example-box, .example {
-    background: #f0f8ff;
-    border-left: 4px solid #2e86de;
-    padding: 12px 20px;
-    margin: 16px 0;
-    border-radius: 6px;
-}
-.tryit-box, .tryit {
-    background: #f0fff4;
-    border-left: 4px solid #27ae60;
-    padding: 12px 20px;
-    margin: 16px 0;
-    border-radius: 6px;
-}
-.solution-box, .solution {
-    background: #fef9e7;
-    border-left: 4px solid #f39c12;
-    padding: 12px 20px;
-    margin: 12px 0;
-    border-radius: 6px;
-}
-.check-box, .check {
-    background: #fef9e7;
-    border-left: 4px solid #f39c12;
-    padding: 12px 20px;
-    margin: 12px 0;
-    border-radius: 6px;
-}
-.prep-quiz {
-    background: #fff3cd;
-    border: 1px solid #ffc107;
-    padding: 12px 20px;
-    margin: 16px 0;
-    border-radius: 6px;
-}
-.def-label, .definition-label {
-    font-weight: bold;
-    font-size: 1.1em;
-    margin: 20px 0 8px 0;
-    color: #2c3e50;
-    display: block;
-}
-.math-display sup, .math-inline sup { font-size: 0.75em; line-height: 0; }
-.math-display sub, .math-inline sub { font-size: 0.75em; line-height: 0; }
-</style>
-
-
----
-
-
----
-
 ## Identify Multiples of Numbers
-
 
 Annie is counting the shoes in her closet. The shoes are matched in pairs, so she doesn’t have to count each one. She counts by twos: <span class="math-inline">2,4,6,8,10,12.</span> She has <span class="math-inline">12</span> shoes in her closet.
 
@@ -87,7 +14,6 @@ The numbers <span class="math-inline">2,4,6,8,10,12</span> are called multiples 
 6
 </div>
 
-
 A **multiple of a number** is the product of the number and a counting number. So a multiple of <span class="math-inline">3</span> would be the product of a counting number and <span class="math-inline">3.</span> Below are the first six multiples of <span class="math-inline">3.</span>
 
 
@@ -100,12 +26,10 @@ A **multiple of a number** is the product of the number and a counting number. S
 6
 </div>
 
-
 We can find the multiples of any number by continuing this process.  shows the multiples of <span class="math-inline">2</span> through <span class="math-inline">9</span> for the first twelve counting numbers.
 
 
-<div class="definition-label">**Multiple of a Number**</div>
-
+**Multiple of a Number**
 
 A number is a **multiple** of <span class="math-inline">n</span> if it is the product of a counting number and <span class="math-inline">n.</span>
 
@@ -116,10 +40,12 @@ Recognizing the patterns for multiples of <span class="math-inline">2,5,10,and 3
 
 *Multiples of <span class="math-inline">2</span> between <span class="math-inline">1</span> and <span class="math-inline">50</span>*
 
-The last digit of each highlighted number in  is either <span class="math-inline">0,2,4,6,or 8.</span> This is true for the product of <span class="math-inline">2</span> and any counting number. So, to tell if any number is a multiple of <span class="math-inline">2</span> look at the last digit. If it is <span class="math-inline">0,2,4,6, or 8,</span> then the number is a multiple of <span class="math-inline">2.</span>
+
+The last digit of each highlighted number in  is either <span class="math-inline">0,2,4,6,or 8.</span> This is true for the product of <span class="math-inline">2</span> and any counting number.
+So, to tell if any number is a multiple of <span class="math-inline">2</span> look at the last digit.
+If it is <span class="math-inline">0,2,4,6, or 8,</span> then the number is a multiple of <span class="math-inline">2.</span>
 
 
-<div class="example">
 **Example**
 
 
@@ -133,8 +59,7 @@ Determine whether each of the following is a multiple of <span class="math-inlin
 <span class="math-inline">3,714</span>
 
 
-<div class="solution">
-<span class="def-label">Solution</span>
+Solution
 
 
     ⓐ
@@ -163,7 +88,6 @@ Determine whether each of the following is a multiple of <span class="math-inlin
     3,714 is a multiple of 2.
 
 
-<div class="tryit">
 **Try It**
 
 
@@ -184,7 +108,6 @@ Determine whether each number is a multiple of <span class="math-inline">2:</spa
 ⓑ no
 
 
-<div class="tryit">
 **Try It**
 
 
@@ -213,7 +136,6 @@ Now let’s look at multiples of <span class="math-inline">5.</span>  highlights
 All multiples of <span class="math-inline">5</span> end with either <span class="math-inline">5</span> or <span class="math-inline">0.</span> Just like we identify multiples of <span class="math-inline">2</span> by looking at the last digit, we can identify multiples of <span class="math-inline">5</span> by looking at the last digit.
 
 
-<div class="example">
 **Example**
 
 
@@ -227,8 +149,7 @@ Determine whether each of the following is a multiple of <span class="math-inlin
 <span class="math-inline">880</span>
 
 
-<div class="solution">
-<span class="def-label">Solution</span>
+Solution
 
 
     ⓐ
@@ -257,7 +178,6 @@ Determine whether each of the following is a multiple of <span class="math-inlin
     880 is a multiple of 5.
 
 
-<div class="tryit">
 **Try It**
 
 
@@ -278,7 +198,6 @@ Determine whether each number is a multiple of <span class="math-inline">5.</spa
 ⓑ no
 
 
-<div class="tryit">
 **Try It**
 
 
@@ -305,7 +224,6 @@ Determine whether each number is a multiple of <span class="math-inline">5.</spa
 *Multiples of <span class="math-inline">10</span> between <span class="math-inline">1</span> and <span class="math-inline">50</span>*
 
 
-<div class="example">
 **Example**
 
 
@@ -319,8 +237,7 @@ Determine whether each of the following is a multiple of <span class="math-inlin
 <span class="math-inline">350</span>
 
 
-<div class="solution">
-<span class="def-label">Solution</span>
+Solution
 
 
     ⓐ
@@ -349,7 +266,6 @@ Determine whether each of the following is a multiple of <span class="math-inlin
     350 is a multiple of 10.
 
 
-<div class="tryit">
 **Try It**
 
 
@@ -370,7 +286,6 @@ Determine whether each number is a multiple of <span class="math-inline">10:</sp
 ⓑ yes
 
 
-<div class="tryit">
 **Try It**
 
 
@@ -396,13 +311,15 @@ Determine whether each number is a multiple of <span class="math-inline">10:</sp
 
 *Multiples of <span class="math-inline">3</span> between <span class="math-inline">1</span> and <span class="math-inline">50</span>*
 
-Unlike the other patterns we’ve examined so far, this pattern does not involve the last digit. The pattern for multiples of <span class="math-inline">3</span> is based on the sum of the digits. If the sum of the digits of a number is a multiple of <span class="math-inline">3,</span> then the number itself is a multiple of <span class="math-inline">3.</span> See .
+
+Unlike the other patterns we’ve examined so far, this pattern does not involve the last digit.
+The pattern for multiples of <span class="math-inline">3</span> is based on the sum of the digits.
+If the sum of the digits of a number is a multiple of <span class="math-inline">3,</span> then the number itself is a multiple of <span class="math-inline">3.</span> See .
 
 
 Consider the number <span class="math-inline">42.</span> The digits are <span class="math-inline">4</span> and <span class="math-inline">2,</span> and their sum is <span class="math-inline">4+2=6.</span> Since <span class="math-inline">6</span> is a multiple of <span class="math-inline">3,</span> we know that <span class="math-inline">42</span> is also a multiple of <span class="math-inline">3.</span>
 
 
-<div class="example">
 **Example**
 
 
@@ -416,10 +333,7 @@ Determine whether each of the given numbers is a multiple of <span class="math-i
 <span class="math-inline">10,519</span>
 
 
-<div class="solution">
-<span class="def-label">Solution</span>
-
-
+Solution
 ⓐ Is <span class="math-inline">645</span> a multiple of <span class="math-inline">3?</span>
 
 
@@ -455,14 +369,13 @@ Determine whether each of the given numbers is a multiple of <span class="math-i
 
 
     We can check this by dividing by 10,519 by 3.
-    \(3,506 \\
-3\)
+    <span class="math-inline">3,506 \\
+3</span>
 
 
 When we divide <span class="math-inline">10,519</span> by <span class="math-inline">3,</span> we do not get a counting number, so <span class="math-inline">10,519</span> is not the product of a counting number and <span class="math-inline">3.</span> It is not a multiple of <span class="math-inline">3.</span>
 
 
-<div class="tryit">
 **Try It**
 
 
@@ -483,7 +396,6 @@ Determine whether each number is a multiple of <span class="math-inline">3:</spa
 ⓑ no
 
 
-<div class="tryit">
 **Try It**
 
 
@@ -508,40 +420,29 @@ Determine whether each number is a multiple of <span class="math-inline">3:</spa
 Look back at the charts where you highlighted the multiples of <span class="math-inline">2,</span> of <span class="math-inline">5,</span> and of <span class="math-inline">10.</span> Notice that the multiples of <span class="math-inline">10</span> are the numbers that are multiples of both <span class="math-inline">2</span> and <span class="math-inline">5.</span> That is because <span class="math-inline">10=2· 5.</span> Likewise, since <span class="math-inline">6=2· 3,</span> the multiples of <span class="math-inline">6</span> are the numbers that are multiples of both <span class="math-inline">2</span> and <span class="math-inline">3.</span>
 
 
----
-
-
----
-
 ## Use Common Divisibility Tests
-
 
 Another way to say that <span class="math-inline">375</span> is a multiple of <span class="math-inline">5</span> is to say that <span class="math-inline">375</span> is divisible by <span class="math-inline">5.</span> In fact, <span class="math-inline">375÷ 5</span> is <span class="math-inline">75,</span> so <span class="math-inline">375</span> is <span class="math-inline">5· 75.</span> Notice in  that <span class="math-inline">10,519</span> is not a multiple <span class="math-inline">3.</span> When we divided <span class="math-inline">10,519</span> by <span class="math-inline">3</span> we did not get a counting number, so <span class="math-inline">10,519</span> is not divisible by <span class="math-inline">3.</span>
 
 
-<div class="definition-label">**Divisibility**</div>
-
+**Divisibility**
 
 If a number <span class="math-inline">m</span> is a multiple of <span class="math-inline">n,</span> then we say that <span class="math-inline">m</span> is divisible by <span class="math-inline">n.</span>
 
 Since multiplication and division are inverse operations, the patterns of multiples that we found can be used as divisibility tests.  summarizes **divisibility tests** for some of the counting numbers between one and ten.
 
 
-<div class="example">
 **Example**
 
 
 Determine whether <span class="math-inline">1,290</span> is divisible by <span class="math-inline">2,3,5,and 10.</span>
 
 
-<div class="solution">
-<span class="def-label">Solution</span>
-
-
+Solution
  applies the divisibility tests to <span class="math-inline">1,290.</span> In the far right column, we check the results of the divisibility tests by seeing if the quotient is a whole number.
 
 
-*Divisible by\dots?*
+*Divisible by…?*
 *Test*
 *Divisible?*
 *Check*
@@ -575,7 +476,6 @@ yes
 Thus, <span class="math-inline">1,290</span> is divisible by <span class="math-inline">2,3,5,and 10.</span>
 
 
-<div class="tryit">
 **Try It**
 
 
@@ -586,7 +486,6 @@ Determine whether the given number is divisible by <span class="math-inline">2,3
 Divisible by 2, 3, 5, and 10
 
 
-<div class="tryit">
 **Try It**
 
 
@@ -597,17 +496,13 @@ Determine whether the given number is divisible by <span class="math-inline">2,3
 Divisible by 2 and 3, not 5 or 10.
 
 
-<div class="example">
 **Example**
 
 
 Determine whether <span class="math-inline">5,625</span> is divisible by <span class="math-inline">2,3,5,and 10.</span>
 
 
-<div class="solution">
-<span class="def-label">Solution</span>
-
-
+Solution
  applies the divisibility tests to <span class="math-inline">5,625</span> and tests the results by finding the quotients.
 
 
@@ -645,7 +540,6 @@ no
 Thus, <span class="math-inline">5,625</span> is divisible by <span class="math-inline">3</span> and <span class="math-inline">5,</span> but not <span class="math-inline">2,</span> or <span class="math-inline">10.</span>
 
 
-<div class="tryit">
 **Try It**
 
 
@@ -656,7 +550,6 @@ Determine whether the given number is divisible <span class="math-inline">by 2,3
 Divisible by 2 and 3, not 5 or 10.
 
 
-<div class="tryit">
 **Try It**
 
 
@@ -667,22 +560,18 @@ Determine whether the given number is divisible <span class="math-inline">by 2,3
 Divisible by 3 and 5.
 
 
----
-
-
----
-
 ## Find All the Factors of a Number
-
 
 There are often several ways to talk about the same idea. So
 far, we’ve seen that if <span class="math-inline">m</span> is a multiple of <span class="math-inline">n,</span> we can say that <span class="math-inline">m</span> is **divisible** by <span class="math-inline">n.</span> We know that <span class="math-inline">72</span> is the product of <span class="math-inline">8</span> and <span class="math-inline">9,</span> so we can say <span class="math-inline">72</span> is a multiple of <span class="math-inline">8</span> and <span class="math-inline">72</span> is a multiple of <span class="math-inline">9.</span> We can also say <span class="math-inline">72</span> is divisible by <span class="math-inline">8</span> and by <span class="math-inline">9.</span> Another way to talk about this is to say that <span class="math-inline">8</span> and <span class="math-inline">9</span> are factors of <span class="math-inline">72.</span> When we write <span class="math-inline">72=8· 9</span> we can say that we have factored <span class="math-inline">72.</span>
 
 
-<div class="definition-label">**Factors**</div>
+**Factors**
 
 
-In the expression <span class="math-inline">a· b</span>, both *a* and *b* are called *factors*. If <span class="math-inline">a· b=m,</span> and both *a* and *b* are integers, then <span class="math-inline">a and b</span> are factors of <span class="math-inline">m,</span> and <span class="math-inline">m</span> is the product of <span class="math-inline">a and b.</span>
+In the expression <span class="math-inline">a· b</span>, both *a* and *b* are called *factors*.
+If <span class="math-inline">a· b=m,</span> and both *a* and *b* are integers, then <span class="math-inline">a and b</span> are factors of <span class="math-inline">m,</span> and <span class="math-inline">m</span> is the product of <span class="math-inline">a and b.</span>
+
 
 In algebra, it can be useful to determine all of the factors of a number. This is called factoring a number, and it can help us solve many kinds of problems.
 
@@ -700,12 +589,10 @@ You may notice another pattern if you look carefully at the first two columns. T
 1,2,3,4,6,8,12,24
 </div>
 
-
 We can find all the factors of any counting number by systematically dividing the number by each counting number, starting with <span class="math-inline">1.</span> If the **quotient** is also a counting number, then the divisor and the quotient are factors of the number. We can stop when the quotient becomes smaller than the divisor.
 
 
-<div class="definition-label">**Find all the factors of a counting number.**</div>
-
+**Find all the factors of a counting number.**
 
 - Divide the number by each of the counting numbers, in order, until the quotient is smaller than the divisor.
 
@@ -717,17 +604,13 @@ We can find all the factors of any counting number by systematically dividing th
 - Write all the **factors** in order from smallest to largest.
 
 
-<div class="example">
 **Example**
 
 
 Find all the factors of <span class="math-inline">72.</span>
 
 
-<div class="solution">
-<span class="def-label">Solution</span>
-
-
+Solution
 Divide <span class="math-inline">72</span> by each of the counting numbers starting with <span class="math-inline">1.</span> If the quotient is a whole number, the divisor and quotient are a pair of factors.
 
 
@@ -735,7 +618,6 @@ The next line would have a divisor of <span class="math-inline">9</span> and a q
 <span class="math-inline">1,2,3,4,6,8,9,12,18,24,36,and 72</span>
 
 
-<div class="tryit">
 **Try It**
 
 
@@ -746,7 +628,6 @@ Find all the factors of the given number:
 1, 2, 3, 4, 6, 8, 12, 16, 24, 32, 48, 96
 
 
-<div class="tryit">
 **Try It**
 
 
@@ -757,19 +638,18 @@ Find all the factors of the given number:
 1, 2, 4, 5, 8, 10, 16, 20, 40, 80
 
 
----
-
-
----
-
 ## Identify Prime and Composite Numbers
 
 
-Some numbers, like <span class="math-inline">72,</span> have many factors. Other numbers, such as <span class="math-inline">7,</span> have only two factors: <span class="math-inline">1</span> and the number. A number with only two factors is called a **prime number**. A number with more than two factors is called a **composite number**. The number <span class="math-inline">1</span> is neither prime nor composite. It has only one factor, itself.
+Some numbers, like <span class="math-inline">72,</span> have many factors.
+Other numbers, such as <span class="math-inline">7,</span> have only two factors: <span class="math-inline">1</span> and the number.
+A number with only two factors is called a **prime number**.
+A number with more than two factors is called a **composite number**.
+The number <span class="math-inline">1</span> is neither prime nor composite.
+It has only one factor, itself.
 
 
-<div class="definition-label">**Prime Numbers and Composite Numbers**</div>
-
+**Prime Numbers and Composite Numbers**
 
 A prime number is a counting number greater than <span class="math-inline">1</span> whose only factors are <span class="math-inline">1</span> and itself.
 
@@ -780,11 +660,14 @@ A composite number is a counting number that is not prime.
 
 *Factors of the counting numbers from <span class="math-inline">2</span> through <span class="math-inline">20,</span> with prime numbers highlighted*
 
-The prime numbers less than <span class="math-inline">20</span> are <span class="math-inline">2,3,5,7,11,13,17,and 19.</span> There are many larger prime numbers too. In order to determine whether a number is prime or composite, we need to see if the number has any factors other than <span class="math-inline">1</span> and itself. To do this, we can test each of the smaller prime numbers in order to see if it is a factor of the number. If none of the prime numbers are factors, then that number is also prime.
+
+The prime numbers less than <span class="math-inline">20</span> are <span class="math-inline">2,3,5,7,11,13,17,and 19.</span> There are many larger prime numbers too.
+In order to determine whether a number is prime or composite, we need to see if the number has any factors other than <span class="math-inline">1</span> and itself.
+To do this, we can test each of the smaller prime numbers in order to see if it is a factor of the number.
+If none of the prime numbers are factors, then that number is also prime.
 
 
-<div class="definition-label">**Determine if a number is prime.**</div>
-
+**Determine if a number is prime.**
 
 -  Test each of the primes, in order, to see if it is a factor of the number.
 
@@ -793,7 +676,6 @@ The prime numbers less than <span class="math-inline">20</span> are <span class=
 -  If the number has a **prime factor**, then it is a **composite number**. If it has no prime factors, then the number is prime.
 
 
-<div class="example">
 **Example**
 
 
@@ -808,10 +690,7 @@ Identify each number as prime or composite:
 <span class="math-inline">77</span>
 
 
-<div class="solution">
-<span class="def-label">Solution</span>
-
-
+Solution
 ⓐ Test each prime, in order, to see if it is a factor of <span class="math-inline">83</span>, starting with <span class="math-inline">2,</span> as shown. We will stop when the quotient is smaller than the divisor.
 
 
@@ -878,7 +757,6 @@ Yes.
 Since <span class="math-inline">77</span> is divisible by <span class="math-inline">7,</span> we know it is not a prime number. It is composite.
 
 
-<div class="tryit">
 **Try It**
 
 
@@ -889,7 +767,6 @@ Identify the number as prime or composite:
 composite
 
 
-<div class="tryit">
 **Try It**
 
 
@@ -900,8 +777,7 @@ Identify the number as prime or composite:
 prime
 
 
-<div class="definition-label">**ACCESS ADDITIONAL ONLINE RESOURCES**</div>
-
+**ACCESS ADDITIONAL ONLINE RESOURCES**
 
 - Divisibility Rules
 
@@ -913,11 +789,6 @@ prime
 
 - Ex 3: Determine Factors of a Number
 
-
----
-
-
----
 
 ## Key Concepts
 
@@ -1181,7 +1052,11 @@ composite
 ### Everyday Math
 
 
-*Banking* Frank’s grandmother gave him <span class="math-inline">$100</span> at his high school graduation. Instead of spending it, Frank opened a bank account. Every week, he added <span class="math-inline">$15</span> to the account. The table shows how much money Frank had put in the account by the end of each week. Complete the table by filling in the blanks.
+*Banking* Frank’s grandmother gave him <span class="math-inline">$100</span> at his high school graduation.
+Instead of spending it, Frank opened a bank account.
+Every week, he added <span class="math-inline">$15</span> to the account.
+The table shows how much money Frank had put in the account by the end of each week.
+Complete the table by filling in the blanks.
 
 
 *Weeks after graduation*
@@ -1225,7 +1100,11 @@ composite
 <span class="math-inline">x</span>
 
 
-*Banking* In March, Gina opened a Christmas club savings account at her bank. She deposited <span class="math-inline">$75</span> to open the account. Every week, she added <span class="math-inline">$20</span> to the account. The table shows how much money Gina had put in the account by the end of each week. Complete the table by filling in the blanks.
+*Banking* In March, Gina opened a Christmas club savings account at her bank.
+She deposited <span class="math-inline">$75</span> to open the account.
+Every week, she added <span class="math-inline">$20</span> to the account.
+The table shows how much money Gina had put in the account by the end of each week.
+Complete the table by filling in the blanks.
 
 
 *Weeks after opening the account*
@@ -1286,101 +1165,30 @@ What is the difference between prime numbers and composite numbers?
 ⓑ On a scale of 1–10, how would you rate your mastery of this section in light of your responses on the checklist? How can you improve this?
 
 
-<div class="prep-quiz">
 **Be Prepared!**
-
 
 Before you get started, take this readiness quiz.
 
 
 Is <span class="math-inline">810</span> divisible by <span class="math-inline">2,3,5,6,or 10?</span>
-If you missed this problem, review .
+If you missed this problem, review
 
 
 <span class="math-inline">2,3,5,6,10</span>
 
 
-<div class="prep-quiz">
 **Be Prepared!**
 
 
 Is <span class="math-inline">127</span> prime or composite?
-If you missed this problem, review .
+If you missed this problem, review
 
 
 prime
 
 
 Write <span class="math-inline">2· 2· 2· 2</span> in exponential notation.
-If you missed this problem, review .
+If you missed this problem, review
 
 
 <span class="math-inline">2<sup>4</sup></span>
-
-</div>
-
-</div>
-
-</div>
-
-</div>
-
-</div>
-
-</div>
-
-</div>
-
-</div>
-
-</div>
-
-</div>
-
-</div>
-
-</div>
-
-</div>
-
-</div>
-
-</div>
-
-</div>
-
-</div>
-
-</div>
-
-</div>
-
-</div>
-
-</div>
-
-</div>
-
-</div>
-
-</div>
-
-</div>
-
-</div>
-
-</div>
-
-</div>
-
-</div>
-
-</div>
-
-</div>
-
-</div>
-
-</div>
-
-</div>

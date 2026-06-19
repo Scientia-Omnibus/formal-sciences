@@ -1,85 +1,20 @@
-<style>
-.math-inline {
-    font-style: italic;
-    padding: 2px 6px;
-    border-radius: 4px;
-    background: #f8f9fa;
-    font-family: Georgia, serif;
-}
-.math-display {
-    background: #f8f9fa;
-    border-left: 4px solid #4a90d9;
-    padding: 16px 20px;
-    margin: 16px 0;
-    border-radius: 6px;
-    font-size: 1.15em;
-    font-family: Georgia, serif;
-    text-align: center;
-    line-height: 2;
-    overflow-x: auto;
-}
-.example-box, .example {
-    background: #f0f8ff;
-    border-left: 4px solid #2e86de;
-    padding: 12px 20px;
-    margin: 16px 0;
-    border-radius: 6px;
-}
-.tryit-box, .tryit {
-    background: #f0fff4;
-    border-left: 4px solid #27ae60;
-    padding: 12px 20px;
-    margin: 16px 0;
-    border-radius: 6px;
-}
-.solution-box, .solution {
-    background: #fef9e7;
-    border-left: 4px solid #f39c12;
-    padding: 12px 20px;
-    margin: 12px 0;
-    border-radius: 6px;
-}
-.check-box, .check {
-    background: #fef9e7;
-    border-left: 4px solid #f39c12;
-    padding: 12px 20px;
-    margin: 12px 0;
-    border-radius: 6px;
-}
-.prep-quiz {
-    background: #fff3cd;
-    border: 1px solid #ffc107;
-    padding: 12px 20px;
-    margin: 16px 0;
-    border-radius: 6px;
-}
-.def-label, .definition-label {
-    font-weight: bold;
-    font-size: 1.1em;
-    margin: 20px 0 8px 0;
-    color: #2c3e50;
-    display: block;
-}
-.math-display sup, .math-inline sup { font-size: 0.75em; line-height: 0; }
-.math-display sub, .math-inline sub { font-size: 0.75em; line-height: 0; }
-</style>
-
-
----
-
-
----
-
 ## Translate and Solve Basic Percent Equations
 
 
-We will solve percent equations by using the methods we used to solve equations with fractions or decimals. In the past, you may have solved percent problems by setting them up as proportions. That was the best method available when you did not have the tools of algebra. Now as a prealgebra student, you can translate word sentences into algebraic equations, and then solve the equations.
+We will solve percent equations by using the methods we used to solve equations with fractions or decimals.
+In the past, you may have solved percent problems by setting them up as proportions.
+That was the best method available when you did not have the tools of algebra.
+Now as a prealgebra student, you can translate word sentences into algebraic equations, and then solve the equations.
+
 
 We'll look at a common application of percent—tips to a server at a restaurant—to see how to set up a basic percent application.
 
 When Aolani and her friends ate dinner at a restaurant, the bill came to <span class="math-inline">$80.</span> They wanted to leave a <span class="math-inline">20%</span> tip. What amount would the tip be?
 
-To solve this, we want to find what *amount* is <span class="math-inline">20%</span> of <span class="math-inline">$80.</span> The <span class="math-inline">$80</span> is called the *base*. The amount of the tip would be <span class="math-inline">0.20(80),</span> or <span class="math-inline">$16</span> See . To find the amount of the tip, we multiplied the percent by the base.
+
+To solve this, we want to find what *amount* is <span class="math-inline">20%</span> of <span class="math-inline">$80.</span> The <span class="math-inline">$80</span> is called the *base*.
+The amount of the tip would be <span class="math-inline">0.20(80),</span> or <span class="math-inline">$16</span> See .
+To find the amount of the tip, we multiplied the percent by the base.
 
 
 *A <span class="math-inline">20%</span> tip for an <span class="math-inline">$80</span> restaurant bill comes out to <span class="math-inline">$16.</span>*
@@ -87,15 +22,13 @@ To solve this, we want to find what *amount* is <span class="math-inline">20%</s
 In the next examples, we will find the amount. We must be sure to change the given percent to a decimal when we translate the words into an equation.
 
 
-<div class="example">
 **Example**
 
 
 What number is <span class="math-inline">35%</span> of <span class="math-inline">90?</span>
 
 
-<div class="solution">
-<span class="def-label">Solution</span>
+Solution
 
 
    Translate into algebra. Let <span class="math-inline">n=</span>the number.
@@ -107,7 +40,6 @@ What number is <span class="math-inline">35%</span> of <span class="math-inline"
    <span class="math-inline">31.5</span> is <span class="math-inline">35%</span> of <span class="math-inline">90</span>
 
 
-<div class="tryit">
 **Try It**
 
 
@@ -117,7 +49,6 @@ What number is <span class="math-inline">45%</span> of <span class="math-inline"
 36
 
 
-<div class="tryit">
 **Try It**
 
 
@@ -127,15 +58,13 @@ What number is <span class="math-inline">55%</span> of <span class="math-inline"
 33
 
 
-<div class="example">
 **Example**
 
 
 <span class="math-inline">125%</span> of <span class="math-inline">28</span> is what number?
 
 
-<div class="solution">
-<span class="def-label">Solution</span>
+Solution
 
 
    Translate into algebra. Let <span class="math-inline">a =</span>the number.
@@ -150,7 +79,6 @@ What number is <span class="math-inline">55%</span> of <span class="math-inline"
 Remember that a percent over <span class="math-inline">100</span> is a number greater than <span class="math-inline">1.</span> We found that <span class="math-inline">125%</span> of <span class="math-inline">28</span> is <span class="math-inline">35,</span> which is greater than <span class="math-inline">28.</span>
 
 
-<div class="tryit">
 **Try It**
 
 
@@ -160,7 +88,6 @@ Remember that a percent over <span class="math-inline">100</span> is a number gr
 117
 
 
-<div class="tryit">
 **Try It**
 
 
@@ -173,15 +100,13 @@ Remember that a percent over <span class="math-inline">100</span> is a number gr
 In the next examples, we are asked to find the base.
 
 
-<div class="example">
 **Example**
 
 
 Translate and solve: <span class="math-inline">36</span> is <span class="math-inline">75%</span> of what number?
 
 
-<div class="solution">
-<span class="def-label">Solution</span>
+Solution
 
 
    Translate. Let <span class="math-inline">b=</span> the number.
@@ -193,7 +118,6 @@ Translate and solve: <span class="math-inline">36</span> is <span class="math-in
    Simplify.
 
 
-<div class="tryit">
 **Try It**
 
 
@@ -203,7 +127,6 @@ Translate and solve: <span class="math-inline">36</span> is <span class="math-in
 68
 
 
-<div class="tryit">
 **Try It**
 
 
@@ -213,15 +136,13 @@ Translate and solve: <span class="math-inline">36</span> is <span class="math-in
 64
 
 
-<div class="example">
 **Example**
 
 
 <span class="math-inline">6.5%</span> of what number is <span class="math-inline">$1.17?</span>
 
 
-<div class="solution">
-<span class="def-label">Solution</span>
+Solution
 
 
    Translate. Let <span class="math-inline">b=</span> the number.
@@ -233,7 +154,6 @@ Translate and solve: <span class="math-inline">36</span> is <span class="math-in
    Simplify.
 
 
-<div class="tryit">
 **Try It**
 
 
@@ -243,7 +163,6 @@ Translate and solve: <span class="math-inline">36</span> is <span class="math-in
 $26
 
 
-<div class="tryit">
 **Try It**
 
 
@@ -256,15 +175,13 @@ $36
 In the next examples, we will solve for the percent.
 
 
-<div class="example">
 **Example**
 
 
 What percent of <span class="math-inline">36</span> is <span class="math-inline">9?</span>
 
 
-<div class="solution">
-<span class="def-label">Solution</span>
+Solution
 
 
    Translate into algebra. Let <span class="math-inline">p=</span> the percent.
@@ -282,7 +199,6 @@ What percent of <span class="math-inline">36</span> is <span class="math-inline"
    Convert to percent.
 
 
-<div class="tryit">
 **Try It**
 
 
@@ -292,7 +208,6 @@ What percent of <span class="math-inline">76</span> is <span class="math-inline"
 75%
 
 
-<div class="tryit">
 **Try It**
 
 
@@ -302,15 +217,13 @@ What percent of <span class="math-inline">120</span> is <span class="math-inline
 80%
 
 
-<div class="example">
 **Example**
 
 
 <span class="math-inline">144</span> is what percent of <span class="math-inline">96?</span>
 
 
-<div class="solution">
-<span class="def-label">Solution</span>
+Solution
 
 
    Translate into algebra. Let <span class="math-inline">p=</span> the percent.
@@ -325,7 +238,6 @@ What percent of <span class="math-inline">120</span> is <span class="math-inline
    Convert to percent.
 
 
-<div class="tryit">
 **Try It**
 
 
@@ -335,7 +247,6 @@ What percent of <span class="math-inline">120</span> is <span class="math-inline
 125%
 
 
-<div class="tryit">
 **Try It**
 
 
@@ -345,21 +256,14 @@ What percent of <span class="math-inline">120</span> is <span class="math-inline
 175%
 
 
----
-
-
----
-
 ## Solve Applications of Percent
-
 
 Many applications of percent occur in our daily lives, such as tips, sales tax, discount, and interest. To solve these applications we'll translate to a basic percent equation, just like those we solved in the previous examples in this section. Once you translate the sentence into a percent equation, you know how to solve it.
 
 We will update the strategy we used in our earlier applications to include equations now. Notice that we will translate a sentence into an equation.
 
 
-<div class="definition-label">**Solve an application**</div>
-
+**Solve an application**
 
 - Identify what you are asked to find and choose a variable to represent it.
 
@@ -376,15 +280,13 @@ We will update the strategy we used in our earlier applications to include equat
 Now that we have the strategy to refer to, and have practiced solving basic percent equations, we are ready to solve percent applications. Be sure to ask yourself if your final answer makes sense—since many of the applications we'll solve involve everyday situations, you can rely on your own experience.
 
 
-<div class="example">
 **Example**
 
 
 Dezohn and his girlfriend enjoyed a dinner at a restaurant, and the bill was <span class="math-inline">$68.50.</span> They want to leave an <span class="math-inline">18%</span> tip. If the tip will be <span class="math-inline">18%</span> of the total bill, how much should the tip be?
 
 
-<div class="solution">
-<span class="def-label">Solution</span>
+Solution
 
 
    What are you asked to find?
@@ -405,8 +307,7 @@ Dezohn and his girlfriend enjoyed a dinner at a restaurant, and the bill was <sp
    Multiply.
 
 
-<div class="check-box">
-<span class="def-label">Check. Is this answer reasonable?</span>
+   Check. Is this answer reasonable?
 
 
    If we approximate the bill to $70 and the percent to 20%, we would have a tip of $14.
@@ -417,7 +318,6 @@ Dezohn and his girlfriend enjoyed a dinner at a restaurant, and the bill was <sp
    The couple should leave a tip of $12.33.
 
 
-<div class="tryit">
 **Try It**
 
 
@@ -427,7 +327,6 @@ Cierra and her sister enjoyed a special dinner in a restaurant, and the bill was
 $14.67
 
 
-<div class="tryit">
 **Try It**
 
 
@@ -437,15 +336,13 @@ Kimngoc had lunch at her favorite restaurant. She wants to leave <span class="ma
 $2.16
 
 
-<div class="example">
 **Example**
 
 
 The label on Masao's breakfast cereal said that one serving of cereal provides <span class="math-inline">85</span> milligrams (mg) of potassium, which is <span class="math-inline">2%</span> of the recommended daily amount. What is the total recommended daily amount of potassium?
 
 
-<div class="solution">
-<span class="def-label">Solution</span>
+Solution
 
 
    What are you asked to find?
@@ -469,8 +366,7 @@ The label on Masao's breakfast cereal said that one serving of cereal provides <
    Simplify.
 
 
-<div class="check">
-<span class="def-label">Check</span>
+Check: Is this answer reasonable?
 
 
 Yes. 2% is a small percent and 85 is a small part of 4,250.
@@ -480,7 +376,6 @@ Yes. 2% is a small percent and 85 is a small part of 4,250.
    The amount of potassium that is recommended is 4250 mg.
 
 
-<div class="tryit">
 **Try It**
 
 
@@ -490,7 +385,6 @@ One serving of wheat square cereal has <span class="math-inline">7</span> grams 
 24.1 grams
 
 
-<div class="tryit">
 **Try It**
 
 
@@ -500,15 +394,13 @@ One serving of rice cereal has <span class="math-inline">190</span> mg of sodium
 2,375 mg
 
 
-<div class="example">
 **Example**
 
 
 Mitzi received some gourmet brownies as a gift. The wrapper said each brownie was <span class="math-inline">480</span> calories, and had <span class="math-inline">240</span> calories of fat. What percent of the total calories in each brownie comes from fat?
 
 
-<div class="solution">
-<span class="def-label">Solution</span>
+Solution
 
 
    What are you asked to find?
@@ -545,7 +437,6 @@ Yes. 240 is half of 480, so 50% makes sense.
    Of the total calories in each brownie, 50% is fat.
 
 
-<div class="tryit">
 **Try It**
 
 
@@ -555,7 +446,6 @@ Veronica is planning to make muffins from a mix. The package says each muffin wi
 26%
 
 
-<div class="tryit">
 **Try It**
 
 
@@ -565,21 +455,14 @@ The brownie mix Ricardo plans to use says that each brownie will be <span class=
 37%
 
 
----
-
-
----
-
 ## Find Percent Increase and Percent Decrease
-
 
 People in the media often talk about how much an amount has increased or decreased over a certain period of time. They usually express this increase or decrease as a **percent**.
 
 To find the **percent increase**, first we find the amount of increase, which is the difference between the new amount and the original amount. Then we find what percent the amount of increase is of the original amount.
 
 
-<div class="definition-label">**Find Percent Increase.**</div>
-
+**Find Percent Increase.**
 
 Step 1. Find the amount of increase.
 
@@ -589,15 +472,13 @@ Step 1. Find the amount of increase.
 Step 2. Find the percent increase as a percent of the original amount.
 
 
-<div class="example">
 **Example**
 
 
 In <span class="math-inline">2011,</span> the California governor proposed raising community college fees from <span class="math-inline">$26</span> per unit to <span class="math-inline">$36</span> per unit. Find the percent increase. (Round to the nearest tenth of a percent.)
 
 
-<div class="solution">
-<span class="def-label">Solution</span>
+Solution
 
 
    What are you asked to find?
@@ -631,7 +512,6 @@ Convert to percent form.
    The new fees represent a 38.5% increase over the old fees.
 
 
-<div class="tryit">
 **Try It**
 
 
@@ -641,7 +521,6 @@ In <span class="math-inline">2011,</span> the IRS increased the deductible milea
 8.8%
 
 
-<div class="tryit">
 **Try It**
 
 
@@ -654,8 +533,7 @@ In <span class="math-inline">1995,</span> the standard bus fare in Chicago was <
 Finding the **percent decrease** is very similar to finding the percent increase, but now the amount of decrease is the difference between the original amount and the final amount. Then we find what percent the amount of decrease is of the original amount.
 
 
-<div class="definition-label">**Find percent decrease.**</div>
-
+**Find percent decrease.**
 
 - Find the amount of decrease.
   - <span class="math-inline">decrease=original amount-new amount</span>
@@ -663,15 +541,13 @@ Finding the **percent decrease** is very similar to finding the percent increase
 - Find the percent decrease as a percent of the original amount.
 
 
-<div class="example">
 **Example**
 
 
 The average price of a gallon of gas in one city in June <span class="math-inline">2014</span> was <span class="math-inline">$3.71.</span> The average price in that city in July was <span class="math-inline">$3.64.</span> Find the percent decrease.
 
 
-<div class="solution">
-<span class="def-label">Solution</span>
+Solution
 
 
    What are you asked to find?
@@ -705,7 +581,6 @@ The average price of a gallon of gas in one city in June <span class="math-inlin
    The price of gas decreased 1.9%.
 
 
-<div class="tryit">
 **Try It**
 
 
@@ -715,7 +590,6 @@ The population of one city was about <span class="math-inline">672,000</span> in
 6.3%
 
 
-<div class="tryit">
 **Try It**
 
 
@@ -725,19 +599,12 @@ Last year Sheila's salary was <span class="math-inline">$42,000.</span> Because 
 10%
 
 
-<div class="definition-label">**ACCESS ADDITIONAL ONLINE RESOURCES**</div>
-
+**ACCESS ADDITIONAL ONLINE RESOURCES**
 
 - Percent Increase and Percent Decrease Visualization
 
 
----
-
-
----
-
 ## Key Concepts
-
 
 - *Solve an application.*
 
@@ -1037,124 +904,25 @@ Because of road construction in one city, commuters were advised to plan their M
 ⓑ After reviewing this checklist, what will you do to become confident for all objectives?
 
 
-<div class="prep-quiz">
 **Be Prepared!**
-
 
 Before you get started, take this readiness quiz.
 
 
 Solve <span class="math-inline">0.0875(720)</span> through multiplication.
 
-If you missed this problem, review .
+If you missed this problem, review
 
 
 <span class="math-inline">63</span>
 
 
-<div class="prep-quiz">
 **Be Prepared!**
 
 
 Solve <span class="math-inline">12.96÷ 0.04</span> through division.
 
-If you missed this problem, review .
+If you missed this problem, review
 
 
 <span class="math-inline">324</span>
-
-</div>
-
-</div>
-
-</div>
-
-</div>
-
-</div>
-
-</div>
-
-</div>
-
-</div>
-
-</div>
-
-</div>
-
-</div>
-
-</div>
-
-</div>
-
-</div>
-
-</div>
-
-</div>
-
-</div>
-
-</div>
-
-</div>
-
-</div>
-
-</div>
-
-</div>
-
-</div>
-
-</div>
-
-</div>
-
-</div>
-
-</div>
-
-</div>
-
-</div>
-
-</div>
-
-</div>
-
-</div>
-
-</div>
-
-</div>
-
-</div>
-
-</div>
-
-</div>
-
-</div>
-
-</div>
-
-</div>
-
-</div>
-
-</div>
-
-</div>
-
-</div>
-
-</div>
-
-</div>
-
-</div>
-
-</div>

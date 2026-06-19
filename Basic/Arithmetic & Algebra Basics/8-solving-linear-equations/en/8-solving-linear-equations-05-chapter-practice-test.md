@@ -1,72 +1,3 @@
-<style>
-.math-inline {
-    font-style: italic;
-    padding: 2px 6px;
-    border-radius: 4px;
-    background: #f8f9fa;
-    font-family: Georgia, serif;
-}
-.math-display {
-    background: #f8f9fa;
-    border-left: 4px solid #4a90d9;
-    padding: 16px 20px;
-    margin: 16px 0;
-    border-radius: 6px;
-    font-size: 1.15em;
-    font-family: Georgia, serif;
-    text-align: center;
-    line-height: 2;
-    overflow-x: auto;
-}
-.example-box, .example {
-    background: #f0f8ff;
-    border-left: 4px solid #2e86de;
-    padding: 12px 20px;
-    margin: 16px 0;
-    border-radius: 6px;
-}
-.tryit-box, .tryit {
-    background: #f0fff4;
-    border-left: 4px solid #27ae60;
-    padding: 12px 20px;
-    margin: 16px 0;
-    border-radius: 6px;
-}
-.solution-box, .solution {
-    background: #fef9e7;
-    border-left: 4px solid #f39c12;
-    padding: 12px 20px;
-    margin: 12px 0;
-    border-radius: 6px;
-}
-.check-box, .check {
-    background: #fef9e7;
-    border-left: 4px solid #f39c12;
-    padding: 12px 20px;
-    margin: 12px 0;
-    border-radius: 6px;
-}
-.prep-quiz {
-    background: #fff3cd;
-    border: 1px solid #ffc107;
-    padding: 12px 20px;
-    margin: 16px 0;
-    border-radius: 6px;
-}
-.def-label, .definition-label {
-    font-weight: bold;
-    font-size: 1.1em;
-    margin: 20px 0 8px 0;
-    color: #2c3e50;
-    display: block;
-}
-.math-display sup, .math-inline sup { font-size: 0.75em; line-height: 0; }
-.math-display sub, .math-inline sub { font-size: 0.75em; line-height: 0; }
-</style>
-
-
----
-
 ## Chapter Practice Test
 
 
@@ -74,7 +5,7 @@ Determine whether each number is a solution to the equation.
 
 <span class="math-inline">3x+5=23.</span>
   - ⓐ <span class="math-inline">6</span>
-  - ⓑ <span class="math-inline"><sup>23</sup>∕<sub>5</sub></span>
+  - ⓑ <span class="math-inline"><sup>23</sup>⁄<sub>5</sub></span>
 
 
   - ⓐ yes
@@ -104,7 +35,7 @@ In the following exercises, solve each equation.
 <span class="math-inline">−15a=120</span>
 
 
-<span class="math-inline"><sup>2</sup>∕<sub>3</sub> x=6</span>
+<span class="math-inline"><sup>2</sup>⁄<sub>3</sub> x=6</span>
 
 
 *x* = 9
@@ -137,7 +68,7 @@ In the following exercises, solve each equation.
 *d* = −32
 
 
-<span class="math-inline"><sup>1</sup>∕<sub>3</sub>(6m+21)=m-7</span>
+<span class="math-inline"><sup>1</sup>⁄<sub>3</sub>(6m+21)=m-7</span>
 
 
 <span class="math-inline">2(6x+5)-8=−22</span>
@@ -149,10 +80,10 @@ In the following exercises, solve each equation.
 <span class="math-inline">8(3a+5)-7(4a-3)=20-3a</span>
 
 
-<span class="math-inline"><sup>1</sup>∕<sub>4</sub> p+<sup>1</sup>∕<sub>3</sub>=<sup>1</sup>∕<sub>2</sub></span>
+<span class="math-inline"><sup>1</sup>⁄<sub>4</sub> p+<sup>1</sup>⁄<sub>3</sub>=<sup>1</sup>⁄<sub>2</sub></span>
 
 
-<span class="math-inline">p=<sup>2</sup>∕<sub>3</sub></span>
+<span class="math-inline">p=<sup>2</sup>⁄<sub>3</sub></span>
 
 
 <span class="math-inline">0.1d+0.25(d+8)=4.1</span>

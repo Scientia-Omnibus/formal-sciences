@@ -1,104 +1,28 @@
-<style>
-.math-inline {
-    font-style: italic;
-    padding: 2px 6px;
-    border-radius: 4px;
-    background: #f8f9fa;
-    font-family: Georgia, serif;
-}
-.math-display {
-    background: #f8f9fa;
-    border-left: 4px solid #4a90d9;
-    padding: 16px 20px;
-    margin: 16px 0;
-    border-radius: 6px;
-    font-size: 1.15em;
-    font-family: Georgia, serif;
-    text-align: center;
-    line-height: 2;
-    overflow-x: auto;
-}
-.example-box, .example {
-    background: #f0f8ff;
-    border-left: 4px solid #2e86de;
-    padding: 12px 20px;
-    margin: 16px 0;
-    border-radius: 6px;
-}
-.tryit-box, .tryit {
-    background: #f0fff4;
-    border-left: 4px solid #27ae60;
-    padding: 12px 20px;
-    margin: 16px 0;
-    border-radius: 6px;
-}
-.solution-box, .solution {
-    background: #fef9e7;
-    border-left: 4px solid #f39c12;
-    padding: 12px 20px;
-    margin: 12px 0;
-    border-radius: 6px;
-}
-.check-box, .check {
-    background: #fef9e7;
-    border-left: 4px solid #f39c12;
-    padding: 12px 20px;
-    margin: 12px 0;
-    border-radius: 6px;
-}
-.prep-quiz {
-    background: #fff3cd;
-    border: 1px solid #ffc107;
-    padding: 12px 20px;
-    margin: 16px 0;
-    border-radius: 6px;
-}
-.def-label, .definition-label {
-    font-weight: bold;
-    font-size: 1.1em;
-    margin: 20px 0 8px 0;
-    color: #2c3e50;
-    display: block;
-}
-.math-display sup, .math-inline sup { font-size: 0.75em; line-height: 0; }
-.math-display sub, .math-inline sub { font-size: 0.75em; line-height: 0; }
-</style>
-
-
----
-
-
----
-
 ## Convert from Decimal Notation to Scientific Notation
-
 
 Remember working with place value for whole numbers and decimals? Our number system is based on powers of <span class="math-inline">10.</span> We use tens, hundreds, thousands, and so on. Our decimal numbers are also based on powers of tens—tenths, hundredths, thousandths, and so on.
 
-Consider the numbers <span class="math-inline">4000</span> and <span class="math-inline">0.004.</span> We know that <span class="math-inline">4000</span> means <span class="math-inline">4 ×  1000</span> and <span class="math-inline">0.004</span> means <span class="math-inline">4 ×  <sup>1</sup>∕<sub>1000</sub>.</span> If we write the <span class="math-inline">1000</span> as a power of ten in exponential form, we can rewrite these numbers in this way:
+Consider the numbers <span class="math-inline">4000</span> and <span class="math-inline">0.004.</span> We know that <span class="math-inline">4000</span> means <span class="math-inline">4 × 1000</span> and <span class="math-inline">0.004</span> means <span class="math-inline">4 × <sup>1</sup>⁄<sub>1000</sub>.</span> If we write the <span class="math-inline">1000</span> as a power of ten in exponential form, we can rewrite these numbers in this way:
 
 
 <div class="math-display">
-4000 &  &  & 0.004 \\
-4 ×  1000 &  &  & 4 ×  <sup>1</sup>∕<sub>1000</sub> \\
-4 ×  10<sup>3</sup> &  &  & 4 ×  <sup>1</sup>∕<sub>10<sup>3</sup></sub> \\
- &  &  & 4 ×  10<sup>−3</sup>
+4000 & & & 0.004 \\
+4 × 1000 & & & 4 × <sup>1</sup>⁄<sub>1000</sub> \\
+4 × 10<sup>3</sup> & & & 4 × <sup>1</sup>⁄<sub>10<sup>3</sup></sub> \\
+ & & & 4 × 10<sup>−3</sup>
 </div>
-
 
 When a number is written as a product of two numbers, where the first factor is a number greater than or equal to one but less than <span class="math-inline">10,</span> and the second factor is a power of <span class="math-inline">10</span> written in exponential form, it is said to be in *scientific notation.*
 
 
-<div class="definition-label">**Scientific Notation**</div>
-
+**Scientific Notation**
 
 A number is expressed in **scientific notation** when it is of the form
 
 
 <div class="math-display">
-a ×  10<sup>n</sup>
+a × 10<sup>n</sup>
 </div>
-
 
 where <span class="math-inline">a≥ 1</span> and <span class="math-inline">a<10</span> and <span class="math-inline">n</span> is an integer.
 
@@ -110,20 +34,18 @@ If we look at what happened to the decimal point, we can see a method to easily 
 
 In both cases, the decimal was moved <span class="math-inline">3</span> places to get the first factor, <span class="math-inline">4,</span> by itself.
 
-- The power of <span class="math-inline">10</span> is positive when the number is larger than <span class="math-inline">1: 4000=4 ×  10<sup>3</sup>.</span>
+- The power of <span class="math-inline">10</span> is positive when the number is larger than <span class="math-inline">1: 4000=4 × 10<sup>3</sup>.</span>
 
-- The power of <span class="math-inline">10</span> is negative when the number is between <span class="math-inline">0</span> and <span class="math-inline">1: 0.004=4 ×  10<sup>-3</sup>.</span>
+- The power of <span class="math-inline">10</span> is negative when the number is between <span class="math-inline">0</span> and <span class="math-inline">1: 0.004=4 × 10<sup>-3</sup>.</span>
 
 
-<div class="example">
 **Example**
 
 
 Write <span class="math-inline">37,000</span> in scientific notation.
 
 
-<div class="solution">
-<span class="def-label">Solution</span>
+Solution
 
 
 *Step 1*: Move the decimal point so that the first factor is greater than or equal to 1 but less than 10.
@@ -154,7 +76,6 @@ If the original number is:
 <span class="math-inline">37,000=3.7× 10<sup>4</sup></span>
 
 
-<div class="tryit">
 **Try It**
 
 
@@ -164,7 +85,6 @@ Write in scientific notation: <span class="math-inline">96,000.</span>
 9.6 × 104
 
 
-<div class="tryit">
 **Try It**
 
 
@@ -174,8 +94,7 @@ Write in scientific notation: <span class="math-inline">48,300.</span>
 4.83 × 104
 
 
-<div class="definition-label">**Convert from decimal notation to scientific notation.**</div>
-
+**Convert from decimal notation to scientific notation.**
 
 - Move the decimal point so that the first factor is greater than or equal to <span class="math-inline">1</span> but less than <span class="math-inline">10.</span>
 
@@ -191,15 +110,13 @@ Write in scientific notation: <span class="math-inline">48,300.</span>
 - Check.
 
 
-<div class="example">
 **Example**
 
 
 Write in scientific notation: <span class="math-inline">0.0052.</span>
 
 
-<div class="solution">
-<span class="def-label">Solution</span>
+Solution
 
 
 0.0052
@@ -216,21 +133,19 @@ Write as a product with a power of 10.
 <span class="math-inline">5.2× 10<sup>−3</sup></span>
 
 
-<div class="check-box">
-**Check your answer:
-\(5.2 \times  10^{−3} \\
-5.2 \times  \frac{1}{10^3} \\
+Check your answer:
+<span class="math-inline">5.2 × 10<sup>−3</sup> \\
+5.2 × <sup>1</sup>⁄<sub>10<sup>3</sup></sub> \\
  \\
  \\
  \\
  \\
-0.0052\)**
+0.0052</span>
 
 
-<span class="math-inline">0.0052=5.2 ×  10<sup>−3</sup></span>
+<span class="math-inline">0.0052=5.2 × 10<sup>−3</sup></span>
 
 
-<div class="tryit">
 **Try It**
 
 
@@ -240,7 +155,6 @@ Write in scientific notation: <span class="math-inline">0.0078.</span>
 7.8 × 10−3
 
 
-<div class="tryit">
 **Try It**
 
 
@@ -250,38 +164,29 @@ Write in scientific notation: <span class="math-inline">0.0129.</span>
 1.29 × 10−2
 
 
----
-
-
----
-
 ## Convert Scientific Notation to Decimal Form
-
 
 How can we convert from scientific notation to decimal form? Let’s look at two numbers written in scientific notation and see.
 
 
 <div class="math-display">
-9.12 ×  10<sup>4</sup> &  &  & 9.12 ×  10<sup>−4</sup> \\
-9.12 ×  10,000 &  &  & 9.12 ×  0.0001 \\
-91,200 &  &  & 0.000912
+9.12 × 10<sup>4</sup> & & & 9.12 × 10<sup>−4</sup> \\
+9.12 × 10,000 & & & 9.12 × 0.0001 \\
+91,200 & & & 0.000912
 </div>
-
 
 If we look at the location of the decimal point, we can see an easy method to convert a number from scientific notation to decimal form.
 
 In both cases the decimal point moved 4 places. When the exponent was positive, the decimal moved to the right. When the exponent was negative, the decimal point moved to the left.
 
 
-<div class="example">
 **Example**
 
 
-Convert to decimal form: <span class="math-inline">6.2 ×  10<sup>3</sup>.</span>
+Convert to decimal form: <span class="math-inline">6.2 × 10<sup>3</sup>.</span>
 
 
-<div class="solution">
-<span class="def-label">Solution</span>
+Solution
 
 
 *Step 1*: Determine the exponent, <span class="math-inline">n</span>, on the factor 10.
@@ -305,28 +210,25 @@ Convert to decimal form: <span class="math-inline">6.2 ×  10<sup>3</sup>.</span
 <span class="math-inline">6.2× 10<sup>3</sup>=6,200</span>
 
 
-<div class="tryit">
 **Try It**
 
 
-Convert to decimal form: <span class="math-inline">1.3 ×  10<sup>3</sup>.</span>
+Convert to decimal form: <span class="math-inline">1.3 × 10<sup>3</sup>.</span>
 
 
 1,300
 
 
-<div class="tryit">
 **Try It**
 
 
-Convert to decimal form: <span class="math-inline">9.25 ×  10<sup>4</sup>.</span>
+Convert to decimal form: <span class="math-inline">9.25 × 10<sup>4</sup>.</span>
 
 
 92,500
 
 
-<div class="definition-label">**Convert scientific notation to decimal form.**</div>
-
+**Convert scientific notation to decimal form.**
 
 - Determine the exponent, <span class="math-inline">n,</span> on the factor <span class="math-inline">10.</span>
 
@@ -339,15 +241,13 @@ Convert to decimal form: <span class="math-inline">9.25 ×  10<sup>4</sup>.</spa
 - Check.
 
 
-<div class="example">
 **Example**
 
 
-Convert to decimal form: <span class="math-inline">8.9 ×  10<sup>−2</sup>.</span>
+Convert to decimal form: <span class="math-inline">8.9 × 10<sup>−2</sup>.</span>
 
 
-<div class="solution">
-<span class="def-label">Solution</span>
+Solution
 
 
 <span class="math-inline">8.9× 10<sup>−2</sup></span>
@@ -370,49 +270,39 @@ Add zeros as needed for placeholders.
 The Check is left to you.
 
 
-<div class="tryit">
 **Try It**
 
 
-Convert to decimal form: <span class="math-inline">1.2 ×  10<sup>−4</sup>.</span>
+Convert to decimal form: <span class="math-inline">1.2 × 10<sup>−4</sup>.</span>
 
 
 0.00012
 
 
-<div class="tryit">
 **Try It**
 
 
-Convert to decimal form: <span class="math-inline">7.5 ×  10<sup>−2</sup>.</span>
+Convert to decimal form: <span class="math-inline">7.5 × 10<sup>−2</sup>.</span>
 
 
 0.075
 
 
----
-
-
----
-
 ## Multiply and Divide Using Scientific Notation
-
 
 We use the Properties of Exponents to multiply and divide numbers in scientific notation.
 
 
-<div class="example">
 **Example**
 
 
-Multiply. Write answers in decimal form: <span class="math-inline">(4 ×  10<sup>5</sup>)(2 ×  10<sup>−7</sup>).</span>
+Multiply. Write answers in decimal form: <span class="math-inline">(4 × 10<sup>5</sup>)(2 × 10<sup>−7</sup>).</span>
 
 
-<div class="solution">
-<span class="def-label">Solution</span>
+Solution
 
 
-<span class="math-inline">(4 ×  10<sup>5</sup>)(2 ×  10<sup>−7</sup>)</span>
+<span class="math-inline">(4 × 10<sup>5</sup>)(2 × 10<sup>−7</sup>)</span>
 
 
 Use the Commutative Property to rearrange the factors.
@@ -420,81 +310,74 @@ Use the Commutative Property to rearrange the factors.
 
 
 Multiply 4 by 2 and use the Product Property to multiply <span class="math-inline">10<sup>5</sup></span> by <span class="math-inline">10<sup>−7</sup></span>.
-<span class="math-inline">8 ×  10<sup>−2</sup></span>
+<span class="math-inline">8 × 10<sup>−2</sup></span>
 
 
 Change to decimal form by moving the decimal two places left.
 <span class="math-inline">0.08</span>
 
 
-<div class="tryit">
 **Try It**
 
 
-Multiply. Write answers in decimal form: <span class="math-inline">(3 ×  10<sup>6</sup>)(2 ×  10<sup>−8</sup>).</span>
+Multiply. Write answers in decimal form: <span class="math-inline">(3 × 10<sup>6</sup>)(2 × 10<sup>−8</sup>).</span>
 
 
 0.06
 
 
-<div class="tryit">
 **Try It**
 
 
-Multiply. Write answers in decimal form: <span class="math-inline">(3 ×  10<sup>−2</sup>)(3 ×  10<sup>−1</sup>).</span>
+Multiply. Write answers in decimal form: <span class="math-inline">(3 × 10<sup>−2</sup>)(3 × 10<sup>−1</sup>).</span>
 
 
 0.009
 
 
-<div class="example">
 **Example**
 
 
-Divide. Write answers in decimal form: <span class="math-inline"><sup>9 ×  10<sup>3</sup></sup>∕<sub>3 ×  10<sup>−2</sub></sup>.</span>
+Divide. Write answers in decimal form: <span class="math-inline"><sup>9 × 10<sup>3</sup></sup>⁄<sub>3 × 10<sup>−2</sup></sub>.</span>
 
 
-<div class="solution">
-<span class="def-label">Solution</span>
+Solution
 
 
-<span class="math-inline"><sup>9 ×  10<sup>3</sup></sup>∕<sub>3 ×  10<sup>−2</sub></sup></span>
+<span class="math-inline"><sup>9 × 10<sup>3</sup></sup>⁄<sub>3 × 10<sup>−2</sup></sub></span>
 
 
 Separate the factors.
-<span class="math-inline"><sup>9</sup>∕<sub>3</sub> ×  <sup>10<sup>3</sup></sup>∕<sub>10<sup>−2</sub></sup></span>
+<span class="math-inline"><sup>9</sup>⁄<sub>3</sub> × <sup>10<sup>3</sup></sup>⁄<sub>10<sup>−2</sup></sub></span>
 
 
 Divide 9 by 3 and use the Quotient Property to divide <span class="math-inline">10<sup>3</sup></span> by <span class="math-inline">10<sup>−2</sup></span>.
-<span class="math-inline">3 ×  10<sup>5</sup></span>
+<span class="math-inline">3 × 10<sup>5</sup></span>
 
 
 Change to decimal form by moving the decimal five places right.
 <span class="math-inline">300,000</span>
 
 
-<div class="tryit">
 **Try It**
 
 
-Divide. Write answers in decimal form: <span class="math-inline"><sup>8 ×  10<sup>4</sup></sup>∕<sub>2 ×  10<sup>−1</sub></sup>.</span>
+Divide. Write answers in decimal form: <span class="math-inline"><sup>8 × 10<sup>4</sup></sup>⁄<sub>2 × 10<sup>−1</sup></sub>.</span>
 
 
 400,000
 
 
-<div class="tryit">
 **Try It**
 
 
-Divide. Write answers in decimal form: <span class="math-inline"><sup>8 ×  10<sup>2</sup></sup>∕<sub>4 ×  10<sup>−2</sub></sup>.</span>
+Divide. Write answers in decimal form: <span class="math-inline"><sup>8 × 10<sup>2</sup></sup>⁄<sub>4 × 10<sup>−2</sup></sub>.</span>
 
 
 20,000
 
 
-<div class="definition-label">**ACCESS ADDITIONAL ONLINE RESOURCES**</div>
-
+**ACCESS ADDITIONAL ONLINE RESOURCES**
 
 - Negative Exponents
 
@@ -503,24 +386,18 @@ Divide. Write answers in decimal form: <span class="math-inline"><sup>8 ×  10<s
 - Scientific Notation
 
 
----
-
-
----
-
 ## Key Concepts
-
 
 - *Summary of Exponent Properties*
 
   - If <span class="math-inline">a,b</span> are real numbers and <span class="math-inline">m,n</span> are integers, then
-\(Product Property &  &  & a^m\cdot a^n=a^{m+n} \\
-Power Property &  &  & (a^m)^n=a^{m\cdot n} \\
-Product to a Power Property &  &  & (ab)^m=a^mb^m \\
-Quotient Property &  &  & \frac{a^m}{a^n}=a^{m-n}, a\ne 0 \\
-Zero Exponent Property &  &  & a^0=1, \\
-Quotient to a Power Property &  &  & (\frac{a}{b})^m=\frac{a^m}{b^m}, b\ne 0 \\
-Definition of Negative Exponent &  &  & a^{-n}=\frac{1}{a^n}\)
+<span class="math-inline">Product Property & & & a<sup>m</sup>· a<sup>n</sup>=a<sup>m+n</sup> \\
+Power Property & & & (a<sup>m</sup>)<sup>n</sup>=a<sup>m· n</sup> \\
+Product to a Power Property & & & (ab)<sup>m</sup>=a<sup>m</sup>b<sup>m</sup> \\
+Quotient Property & & & <sup>a<sup>m</sup></sup>⁄<sub>a<sup>n</sup></sub>=a<sup>m-n</sup>, a≠ 0 \\
+Zero Exponent Property & & & a<sup>0</sup>=1, \\
+Quotient to a Power Property & & & (<sup>a</sup>⁄<sub>b</sub>)<sup>m</sup>=<sup>a<sup>m</sup></sup>⁄<sub>b<sup>m</sup></sub>, b≠ 0 \\
+Definition of Negative Exponent & & & a<sup>-n</sup>=<sup>1</sup>⁄<sub>a<sup>n</sup></sub></span>
 
 
 - *Convert from Decimal Notation to Scientific Notation:* To convert a decimal to scientific notation:
@@ -556,7 +433,7 @@ In the following exercises, simplify.
 <span class="math-inline">8<sup>−2</sup></span>
 
 
-<span class="math-inline"><sup>1</sup>∕<sub>64</sub></span>
+<span class="math-inline"><sup>1</sup>⁄<sub>64</sub></span>
 
 
 <span class="math-inline">3<sup>−4</sup></span>
@@ -565,7 +442,7 @@ In the following exercises, simplify.
 <span class="math-inline">2<sup>−5</sup></span>
 
 
-<span class="math-inline"><sup>1</sup>∕<sub>32</sub></span>
+<span class="math-inline"><sup>1</sup>⁄<sub>32</sub></span>
 
 
 <span class="math-inline">7<sup>−1</sup></span>
@@ -574,7 +451,7 @@ In the following exercises, simplify.
 <span class="math-inline">10<sup>−1</sup></span>
 
 
-<span class="math-inline"><sup>1</sup>∕<sub>10</sub></span>
+<span class="math-inline"><sup>1</sup>⁄<sub>10</sub></span>
 
 
 <span class="math-inline">2<sup>−3</sup>+2<sup>−2</sup></span>
@@ -583,7 +460,7 @@ In the following exercises, simplify.
 <span class="math-inline">3<sup>−2</sup>+3<sup>−1</sup></span>
 
 
-<span class="math-inline"><sup>4</sup>∕<sub>9</sub></span>
+<span class="math-inline"><sup>4</sup>⁄<sub>9</sub></span>
 
 
 <span class="math-inline">3<sup>−1</sup>+4<sup>−1</sup></span>
@@ -592,7 +469,7 @@ In the following exercises, simplify.
 <span class="math-inline">10<sup>−1</sup>+2<sup>−1</sup></span>
 
 
-<span class="math-inline"><sup>3</sup>∕<sub>5</sub></span>
+<span class="math-inline"><sup>3</sup>⁄<sub>5</sub></span>
 
 
 <span class="math-inline">10<sup>0</sup>-10<sup>−1</sup>+10<sup>−2</sup></span>
@@ -601,7 +478,7 @@ In the following exercises, simplify.
 <span class="math-inline">2<sup>0</sup>-2<sup>−1</sup>+2<sup>−2</sup></span>
 
 
-<span class="math-inline"><sup>3</sup>∕<sub>4</sub></span>
+<span class="math-inline"><sup>3</sup>⁄<sub>4</sub></span>
 
 
   - ⓐ <span class="math-inline">(−6)<sup>−2</sup></span>
@@ -612,8 +489,8 @@ In the following exercises, simplify.
   - ⓑ <span class="math-inline">-8<sup>−2</sup></span>
 
 
-  - ⓐ <span class="math-inline"><sup>1</sup>∕<sub>64</sub></span>
-  - ⓑ <span class="math-inline">-<sup>1</sup>∕<sub>64</sub></span>
+  - ⓐ <span class="math-inline"><sup>1</sup>⁄<sub>64</sub></span>
+  - ⓑ <span class="math-inline">-<sup>1</sup>⁄<sub>64</sub></span>
 
 
   - ⓐ <span class="math-inline">(−10)<sup>−4</sup></span>
@@ -624,8 +501,8 @@ In the following exercises, simplify.
   - ⓑ <span class="math-inline">-4<sup>−6</sup></span>
 
 
-  - ⓐ <span class="math-inline"><sup>1</sup>∕<sub>4096</sub></span>
-  - ⓑ <span class="math-inline">-<sup>1</sup>∕<sub>4096</sub></span>
+  - ⓐ <span class="math-inline"><sup>1</sup>⁄<sub>4096</sub></span>
+  - ⓑ <span class="math-inline">-<sup>1</sup>⁄<sub>4096</sub></span>
 
 
   - ⓐ <span class="math-inline">5· 2<sup>−1</sup></span>
@@ -636,8 +513,8 @@ In the following exercises, simplify.
   - ⓑ <span class="math-inline">(10· 3)<sup>−1</sup></span>
 
 
-  - ⓐ <span class="math-inline"><sup>10</sup>∕<sub>3</sub></span>
-  - ⓑ <span class="math-inline"><sup>1</sup>∕<sub>30</sub></span>
+  - ⓐ <span class="math-inline"><sup>10</sup>⁄<sub>3</sub></span>
+  - ⓑ <span class="math-inline"><sup>1</sup>⁄<sub>30</sub></span>
 
 
   - ⓐ <span class="math-inline">4· 10<sup>−3</sup></span>
@@ -648,8 +525,8 @@ In the following exercises, simplify.
   - ⓑ <span class="math-inline">(3· 5)<sup>−2</sup></span>
 
 
-  - ⓐ <span class="math-inline"><sup>3</sup>∕<sub>25</sub></span>
-  - ⓑ <span class="math-inline"><sup>1</sup>∕<sub>225</sub></span>
+  - ⓐ <span class="math-inline"><sup>3</sup>⁄<sub>25</sub></span>
+  - ⓑ <span class="math-inline"><sup>1</sup>⁄<sub>225</sub></span>
 
 
 <span class="math-inline">n<sup>−4</sup></span>
@@ -658,7 +535,7 @@ In the following exercises, simplify.
 <span class="math-inline">p<sup>−3</sup></span>
 
 
-<span class="math-inline"><sup>1</sup>∕<sub>p<sup>3</sup></sub></span>
+<span class="math-inline"><sup>1</sup>⁄<sub>p<sup>3</sup></sub></span>
 
 
 <span class="math-inline">c<sup>−10</sup></span>
@@ -667,7 +544,7 @@ In the following exercises, simplify.
 <span class="math-inline">m<sup>−5</sup></span>
 
 
-<span class="math-inline"><sup>1</sup>∕<sub>m<sup>5</sup></sub></span>
+<span class="math-inline"><sup>1</sup>⁄<sub>m<sup>5</sup></sub></span>
 
 
   - ⓐ <span class="math-inline">4x<sup>−1</sup></span>
@@ -680,9 +557,9 @@ In the following exercises, simplify.
   - ⓒ <span class="math-inline">(−3q)<sup>−1</sup></span>
 
 
-  - ⓐ <span class="math-inline"><sup>3</sup>∕<sub>q</sub></span>
-  - ⓑ <span class="math-inline"><sup>1</sup>∕<sub>3q</sub></span>
-  - ⓒ <span class="math-inline">-<sup>1</sup>∕<sub>3q</sub></span>
+  - ⓐ <span class="math-inline"><sup>3</sup>⁄<sub>q</sub></span>
+  - ⓑ <span class="math-inline"><sup>1</sup>⁄<sub>3q</sub></span>
+  - ⓒ <span class="math-inline">-<sup>1</sup>⁄<sub>3q</sub></span>
 
 
   - ⓐ <span class="math-inline">6m<sup>−1</sup></span>
@@ -695,9 +572,9 @@ In the following exercises, simplify.
   - ⓒ <span class="math-inline">(−10k)<sup>−1</sup></span>
 
 
-  - ⓐ <span class="math-inline"><sup>10</sup>∕<sub>k</sub></span>
-  - ⓑ <span class="math-inline"><sup>1</sup>∕<sub>10k</sub></span>
-  - ⓒ <span class="math-inline">-<sup>1</sup>∕<sub>10k</sub></span>
+  - ⓐ <span class="math-inline"><sup>10</sup>⁄<sub>k</sub></span>
+  - ⓑ <span class="math-inline"><sup>1</sup>⁄<sub>10k</sub></span>
+  - ⓒ <span class="math-inline">-<sup>1</sup>⁄<sub>10k</sub></span>
 
 *Simplify Expressions with Integer Exponents*
 
@@ -719,7 +596,7 @@ In the following exercises, simplify*.*
 <span class="math-inline">q<sup>−8</sup>· q<sup>3</sup></span>
 
 
-<span class="math-inline"><sup>1</sup>∕<sub>q<sup>5</sup></sub></span>
+<span class="math-inline"><sup>1</sup>⁄<sub>q<sup>5</sup></sub></span>
 
 
 <span class="math-inline">k<sup>−3</sup>· k<sup>−2</sup></span>
@@ -728,7 +605,7 @@ In the following exercises, simplify*.*
 <span class="math-inline">z<sup>−6</sup>· z<sup>−2</sup></span>
 
 
-<span class="math-inline"><sup>1</sup>∕<sub>z<sup>8</sup></sub></span>
+<span class="math-inline"><sup>1</sup>⁄<sub>z<sup>8</sup></sub></span>
 
 
 <span class="math-inline">a· a<sup>−4</sup></span>
@@ -737,7 +614,7 @@ In the following exercises, simplify*.*
 <span class="math-inline">m· m<sup>−2</sup></span>
 
 
-<span class="math-inline"><sup>1</sup>∕<sub>m</sub></span>
+<span class="math-inline"><sup>1</sup>⁄<sub>m</sub></span>
 
 
 <span class="math-inline">p<sup>5</sup>· p<sup>−2</sup>· p<sup>−4</sup></span>
@@ -746,7 +623,7 @@ In the following exercises, simplify*.*
 <span class="math-inline">x<sup>4</sup>· x<sup>−2</sup>· x<sup>−3</sup></span>
 
 
-<span class="math-inline"><sup>1</sup>∕<sub>x</sub></span>
+<span class="math-inline"><sup>1</sup>⁄<sub>x</sub></span>
 
 
 <span class="math-inline">a<sup>3</sup>b<sup>−3</sup></span>
@@ -755,7 +632,7 @@ In the following exercises, simplify*.*
 <span class="math-inline">u<sup>2</sup>v<sup>−2</sup></span>
 
 
-<span class="math-inline"><sup>u<sup>2</sup></sup>∕<sub>v<sup>2</sup></sub></span>
+<span class="math-inline"><sup>u<sup>2</sup></sup>⁄<sub>v<sup>2</sup></sub></span>
 
 
 <span class="math-inline">(x<sup>5</sup>y<sup>−1</sup>)(x<sup>−10</sup>y<sup>−3</sup>)</span>
@@ -764,7 +641,7 @@ In the following exercises, simplify*.*
 <span class="math-inline">(a<sup>3</sup>b<sup>−3</sup>)(a<sup>−5</sup>b<sup>−1</sup>)</span>
 
 
-<span class="math-inline"><sup>1</sup>∕<sub>a<sup>2</sup>b<sup>4</sup></sub></span>
+<span class="math-inline"><sup>1</sup>⁄<sub>a<sup>2</sup>b<sup>4</sup></sub></span>
 
 
 <span class="math-inline">(uv<sup>−2</sup>)(u<sup>−5</sup>v<sup>−4</sup>)</span>
@@ -773,7 +650,7 @@ In the following exercises, simplify*.*
 <span class="math-inline">(pq<sup>−4</sup>)(p<sup>−6</sup>q<sup>−3</sup>)</span>
 
 
-<span class="math-inline"><sup>1</sup>∕<sub>p<sup>5</sup>q<sup>7</sup></sub></span>
+<span class="math-inline"><sup>1</sup>⁄<sub>p<sup>5</sup>q<sup>7</sup></sub></span>
 
 
 <span class="math-inline">(−2r<sup>−3</sup>s<sup>9</sup>)(6r<sup>4</sup>s<sup>−5</sup>)</span>
@@ -782,7 +659,7 @@ In the following exercises, simplify*.*
 <span class="math-inline">(−3p<sup>−5</sup>q<sup>8</sup>)(7p<sup>2</sup>q<sup>−3</sup>)</span>
 
 
-<span class="math-inline">-<sup>21q<sup>5</sup></sup>∕<sub>p<sup>3</sup></sub></span>
+<span class="math-inline">-<sup>21q<sup>5</sup></sup>⁄<sub>p<sup>3</sup></sub></span>
 
 
 <span class="math-inline">(−6m<sup>−8</sup>n<sup>−5</sup>)(−9m<sup>4</sup>n<sup>2</sup>)</span>
@@ -791,7 +668,7 @@ In the following exercises, simplify*.*
 <span class="math-inline">(−8a<sup>−5</sup>b<sup>−4</sup>)(−4a<sup>2</sup>b<sup>3</sup>)</span>
 
 
-<span class="math-inline"><sup>32</sup>∕<sub>a<sup>3</sup>b</sub></span>
+<span class="math-inline"><sup>32</sup>⁄<sub>a<sup>3</sup>b</sub></span>
 
 
 <span class="math-inline">(a<sup>3</sup>)<sup>−3</sup></span>
@@ -800,7 +677,7 @@ In the following exercises, simplify*.*
 <span class="math-inline">(q<sup>10</sup>)<sup>−10</sup></span>
 
 
-<span class="math-inline"><sup>1</sup>∕<sub>q<sup>100</sub></sup></span>
+<span class="math-inline"><sup>1</sup>⁄<sub>q<sup>100</sup></sub></span>
 
 
 <span class="math-inline">(n<sup>2</sup>)<sup>−1</sup></span>
@@ -809,7 +686,7 @@ In the following exercises, simplify*.*
 <span class="math-inline">(x<sup>4</sup>)<sup>−1</sup></span>
 
 
-<span class="math-inline"><sup>1</sup>∕<sub>x<sup>4</sup></sub></span>
+<span class="math-inline"><sup>1</sup>⁄<sub>x<sup>4</sup></sub></span>
 
 
 <span class="math-inline">(y<sup>−5</sup>)<sup>4</sup></span>
@@ -818,7 +695,7 @@ In the following exercises, simplify*.*
 <span class="math-inline">(p<sup>−3</sup>)<sup>2</sup></span>
 
 
-<span class="math-inline"><sup>1</sup>∕<sub>p<sup>6</sup></sub></span>
+<span class="math-inline"><sup>1</sup>⁄<sub>p<sup>6</sup></sub></span>
 
 
 <span class="math-inline">(q<sup>−5</sup>)<sup>−2</sup></span>
@@ -836,7 +713,7 @@ In the following exercises, simplify*.*
 <span class="math-inline">(3q<sup>−5</sup>)<sup>2</sup></span>
 
 
-<span class="math-inline"><sup>9</sup>∕<sub>q<sup>10</sub></sup></span>
+<span class="math-inline"><sup>9</sup>⁄<sub>q<sup>10</sup></sub></span>
 
 
 <span class="math-inline">(10p<sup>−2</sup>)<sup>−5</sup></span>
@@ -845,40 +722,40 @@ In the following exercises, simplify*.*
 <span class="math-inline">(2n<sup>−3</sup>)<sup>−6</sup></span>
 
 
-<span class="math-inline">\frac{n<sup>18</sup>{64}</span>
+<span class="math-inline"><sup>n<sup>18</sup></sup>⁄<sub>64</sub></span>
 
 
-<span class="math-inline"><sup>u<sup>9</sup></sup>∕<sub>u<sup>−2</sub></sup></span>
+<span class="math-inline"><sup>u<sup>9</sup></sup>⁄<sub>u<sup>−2</sup></sub></span>
 
 
-<span class="math-inline"><sup>b<sup>5</sup></sup>∕<sub>b<sup>−3</sub></sup></span>
+<span class="math-inline"><sup>b<sup>5</sup></sup>⁄<sub>b<sup>−3</sup></sub></span>
 
 
 *b*8
 
 
-<span class="math-inline">\frac{x<sup>−6</sup>{x<sup>4</sup></span>
+<span class="math-inline"><sup>x<sup>−6</sup></sup>⁄<sub>x<sup>4</sup></sub></span>
 
 
-<span class="math-inline"><sup>m<sup>5</sup></sup>∕<sub>m<sup>−2</sub></sup></span>
+<span class="math-inline"><sup>m<sup>5</sup></sup>⁄<sub>m<sup>−2</sup></sub></span>
 
 
 *m*7
 
 
-<span class="math-inline"><sup>q<sup>3</sup></sup>∕<sub>q<sup>12</sub></sup></span>
+<span class="math-inline"><sup>q<sup>3</sup></sup>⁄<sub>q<sup>12</sup></sub></span>
 
 
-<span class="math-inline"><sup>r<sup>6</sup></sup>∕<sub>r<sup>9</sup></sub></span>
+<span class="math-inline"><sup>r<sup>6</sup></sup>⁄<sub>r<sup>9</sup></sub></span>
 
 
-<span class="math-inline"><sup>1</sup>∕<sub>r<sup>3</sup></sub></span>
+<span class="math-inline"><sup>1</sup>⁄<sub>r<sup>3</sup></sub></span>
 
 
-<span class="math-inline">\frac{n<sup>−4</sup>{n<sup>−10</sup></span>
+<span class="math-inline"><sup>n<sup>−4</sup></sup>⁄<sub>n<sup>−10</sup></sub></span>
 
 
-<span class="math-inline">\frac{p<sup>−3</sup>{p<sup>−6</sup></span>
+<span class="math-inline"><sup>p<sup>−3</sup></sup>⁄<sub>p<sup>−6</sup></sub></span>
 
 
 *p*3
@@ -948,55 +825,55 @@ The probability of winning the <span class="math-inline">2010</span> Megamillion
 In the following exercises, convert each number to decimal form.
 
 
-<span class="math-inline">4.1 ×  10<sup>2</sup></span>
+<span class="math-inline">4.1 × 10<sup>2</sup></span>
 
 
-<span class="math-inline">8.3 ×  10<sup>2</sup></span>
+<span class="math-inline">8.3 × 10<sup>2</sup></span>
 
 
 830
 
 
-<span class="math-inline">5.5 ×  10<sup>8</sup></span>
+<span class="math-inline">5.5 × 10<sup>8</sup></span>
 
 
-<span class="math-inline">1.6 ×  10<sup>10</sup></span>
+<span class="math-inline">1.6 × 10<sup>10</sup></span>
 
 
 16,000,000,000
 
 
-<span class="math-inline">3.5 ×  10<sup>−2</sup></span>
+<span class="math-inline">3.5 × 10<sup>−2</sup></span>
 
 
-<span class="math-inline">2.8 ×  10<sup>−2</sup></span>
+<span class="math-inline">2.8 × 10<sup>−2</sup></span>
 
 
 0.028
 
 
-<span class="math-inline">1.93 ×  10<sup>−5</sup></span>
+<span class="math-inline">1.93 × 10<sup>−5</sup></span>
 
 
-<span class="math-inline">6.15 ×  10<sup>−8</sup></span>
+<span class="math-inline">6.15 × 10<sup>−8</sup></span>
 
 
 0.0000000615
 
 
-In 2010, the number of Facebook users each day who changed their status to ‘engaged’ was <span class="math-inline">2 ×  10<sup>4</sup>.</span>
+In 2010, the number of Facebook users each day who changed their status to ‘engaged’ was <span class="math-inline">2 × 10<sup>4</sup>.</span>
 
 
-At the start of 2012, the US federal budget had a deficit of more than <span class="math-inline">$1.5 ×  10<sup>13</sup>.</span>
+At the start of 2012, the US federal budget had a deficit of more than <span class="math-inline">$1.5 × 10<sup>13</sup>.</span>
 
 
 $15,000,000,000,000
 
 
-The concentration of carbon dioxide in the atmosphere is <span class="math-inline">3.9 ×  10<sup>−4</sup>.</span>
+The concentration of carbon dioxide in the atmosphere is <span class="math-inline">3.9 × 10<sup>−4</sup>.</span>
 
 
-The width of a proton is <span class="math-inline">1 ×  10<sup>−5</sup></span> of the width of an atom.
+The width of a proton is <span class="math-inline">1 × 10<sup>−5</sup></span> of the width of an atom.
 
 
 0.00001
@@ -1007,37 +884,37 @@ The width of a proton is <span class="math-inline">1 ×  10<sup>−5</sup></span
 In the following exercises, multiply or divide and write your answer in decimal form.
 
 
-<span class="math-inline">(2 ×  10<sup>5</sup>)(2 ×  10<sup>−9</sup>)</span>
+<span class="math-inline">(2 × 10<sup>5</sup>)(2 × 10<sup>−9</sup>)</span>
 
 
-<span class="math-inline">(3 ×  10<sup>2</sup>)(1 ×  10<sup>−5</sup>)</span>
+<span class="math-inline">(3 × 10<sup>2</sup>)(1 × 10<sup>−5</sup>)</span>
 
 
 0.003
 
 
-<span class="math-inline">(1.6 ×  10<sup>−2</sup>)(5.2 ×  10<sup>−6</sup>)</span>
+<span class="math-inline">(1.6 × 10<sup>−2</sup>)(5.2 × 10<sup>−6</sup>)</span>
 
 
-<span class="math-inline">(2.1 ×  10<sup>−4</sup>)(3.5 ×  10<sup>−2</sup>)</span>
+<span class="math-inline">(2.1 × 10<sup>−4</sup>)(3.5 × 10<sup>−2</sup>)</span>
 
 
 0.00000735
 
 
-<span class="math-inline"><sup>6 ×  10<sup>4</sup></sup>∕<sub>3 ×  10<sup>−2</sub></sup></span>
+<span class="math-inline"><sup>6 × 10<sup>4</sup></sup>⁄<sub>3 × 10<sup>−2</sup></sub></span>
 
 
-<span class="math-inline"><sup>8 ×  10<sup>6</sup></sup>∕<sub>4 ×  10<sup>−1</sub></sup></span>
+<span class="math-inline"><sup>8 × 10<sup>6</sup></sup>⁄<sub>4 × 10<sup>−1</sup></sub></span>
 
 
 20,000,000
 
 
-<span class="math-inline">\frac{7 ×  10<sup>−2</sup>{1 ×  10<sup>−8</sup></span>
+<span class="math-inline"><sup>7 × 10<sup>−2</sup></sup>⁄<sub>1 × 10<sup>−8</sup></sub></span>
 
 
-<span class="math-inline">\frac{5 ×  10<sup>−3</sup>{1 ×  10<sup>−10</sup></span>
+<span class="math-inline"><sup>5 × 10<sup>−3</sup></sup>⁄<sub>1 × 10<sup>−10</sup></sub></span>
 
 
 50,000,000
@@ -1062,10 +939,12 @@ In the following exercises, multiply or divide and write your answer in decimal 
   - ⓐ 8,000
 
 
-*Calculator display* Many calculators automatically show answers in scientific notation if there are more digits than can fit in the calculator’s display. To find the probability of getting a particular 5-card hand from a deck of cards, Mario divided <span class="math-inline">1</span> by <span class="math-inline">2,598,960</span> and saw the answer <span class="math-inline">3.848 ×  10<sup>−7</sup>.</span> Write the number in decimal notation.
+*Calculator display* Many calculators automatically show answers in scientific notation if there are more digits than can fit in the calculator’s display.
+To find the probability of getting a particular 5-card hand from a deck of cards, Mario divided <span class="math-inline">1</span> by <span class="math-inline">2,598,960</span> and saw the answer <span class="math-inline">3.848 × 10<sup>−7</sup>.</span> Write the number in decimal notation.
 
 
-*Calculator display* Many calculators automatically show answers in scientific notation if there are more digits than can fit in the calculator’s display. To find the number of ways Barbara could make a collage with <span class="math-inline">6</span> of her <span class="math-inline">50</span> favorite photographs, she multiplied <span class="math-inline">50· 49· 48· 47· 46· 45.</span> Her calculator gave the answer <span class="math-inline">1.1441304 ×  10<sup>10</sup>.</span> Write the number in decimal notation.
+*Calculator display* Many calculators automatically show answers in scientific notation if there are more digits than can fit in the calculator’s display.
+To find the number of ways Barbara could make a collage with <span class="math-inline">6</span> of her <span class="math-inline">50</span> favorite photographs, she multiplied <span class="math-inline">50· 49· 48· 47· 46· 45.</span> Her calculator gave the answer <span class="math-inline">1.1441304 × 10<sup>10</sup>.</span> Write the number in decimal notation.
 
 
 11,441,304,000
@@ -1092,96 +971,36 @@ Answers will vary.
 ⓑ After looking at the checklist, do you think you are well prepared for the next section? Why or why not?
 
 
-<div class="prep-quiz">
 **Be Prepared!**
-
 
 Before you get started, take this readiness quiz.
 
 
 Factor <span class="math-inline">56</span> into primes.
 
-If you missed this problem, review .
+If you missed this problem, review
 
 
 <span class="math-inline">2· 2· 2· 7</span>
 
 
-<div class="prep-quiz">
 **Be Prepared!**
 
 
 Multiply: <span class="math-inline">−3(6a+11).</span>
 
-If you missed this problem, review .
+If you missed this problem, review
 
 
 <span class="math-inline">-18a-33</span>
 
 
-<div class="prep-quiz">
 **Be Prepared!**
 
 
 Multiply: <span class="math-inline">4x<sup>2</sup>(x<sup>2</sup>+3x-1).</span>
 
-If you missed this problem, review .
+If you missed this problem, review
 
 
 <span class="math-inline">4x<sup>4</sup>+12x<sup>3</sup>-4x<sup>2</sup></span>
-
-</div>
-
-</div>
-
-</div>
-
-</div>
-
-</div>
-
-</div>
-
-</div>
-
-</div>
-
-</div>
-
-</div>
-
-</div>
-
-</div>
-
-</div>
-
-</div>
-
-</div>
-
-</div>
-
-</div>
-
-</div>
-
-</div>
-
-</div>
-
-</div>
-
-</div>
-
-</div>
-
-</div>
-
-</div>
-
-</div>
-
-</div>
-
-</div>

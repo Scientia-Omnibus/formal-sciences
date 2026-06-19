@@ -1,90 +1,15 @@
-<style>
-.math-inline {
-    font-style: italic;
-    padding: 2px 6px;
-    border-radius: 4px;
-    background: #f8f9fa;
-    font-family: Georgia, serif;
-}
-.math-display {
-    background: #f8f9fa;
-    border-left: 4px solid #4a90d9;
-    padding: 16px 20px;
-    margin: 16px 0;
-    border-radius: 6px;
-    font-size: 1.15em;
-    font-family: Georgia, serif;
-    text-align: center;
-    line-height: 2;
-    overflow-x: auto;
-}
-.example-box, .example {
-    background: #f0f8ff;
-    border-left: 4px solid #2e86de;
-    padding: 12px 20px;
-    margin: 16px 0;
-    border-radius: 6px;
-}
-.tryit-box, .tryit {
-    background: #f0fff4;
-    border-left: 4px solid #27ae60;
-    padding: 12px 20px;
-    margin: 16px 0;
-    border-radius: 6px;
-}
-.solution-box, .solution {
-    background: #fef9e7;
-    border-left: 4px solid #f39c12;
-    padding: 12px 20px;
-    margin: 12px 0;
-    border-radius: 6px;
-}
-.check-box, .check {
-    background: #fef9e7;
-    border-left: 4px solid #f39c12;
-    padding: 12px 20px;
-    margin: 12px 0;
-    border-radius: 6px;
-}
-.prep-quiz {
-    background: #fff3cd;
-    border: 1px solid #ffc107;
-    padding: 12px 20px;
-    margin: 16px 0;
-    border-radius: 6px;
-}
-.def-label, .definition-label {
-    font-weight: bold;
-    font-size: 1.1em;
-    margin: 20px 0 8px 0;
-    color: #2c3e50;
-    display: block;
-}
-.math-display sup, .math-inline sup { font-size: 0.75em; line-height: 0; }
-.math-display sub, .math-inline sub { font-size: 0.75em; line-height: 0; }
-</style>
-
-
----
-
-
----
-
 ## Translate to an Equation and Solve
-
 
 Now that we have solved equations with decimals, we are ready to translate word sentences to equations and solve. Remember to look for words and phrases that indicate the operations to use.
 
 
-<div class="example">
 **Example**
 
 
 Translate and solve: The difference of <span class="math-inline">n</span> and <span class="math-inline">4.3</span> is <span class="math-inline">2.1.</span>
 
 
-<div class="solution">
-<span class="def-label">Solution</span>
+Solution
 
 
 Translate.
@@ -110,7 +35,6 @@ Translate.
 Simplify.
 
 
-<div class="tryit">
 **Try It**
 
 
@@ -120,7 +44,6 @@ Translate and solve: The difference of <span class="math-inline">y</span> and <s
 *y* − 4.9 = 2.8; *y* = 7.7
 
 
-<div class="tryit">
 **Try It**
 
 
@@ -130,15 +53,13 @@ Translate and solve: The difference of <span class="math-inline">z</span> and <s
 *z* − 5.7 = 3.4; *z* = 9.1
 
 
-<div class="example">
 **Example**
 
 
 Translate and solve: The product of <span class="math-inline">−3.1</span> and <span class="math-inline">x</span> is <span class="math-inline">5.27.</span>
 
 
-<div class="solution">
-<span class="def-label">Solution</span>
+Solution
 
 
 Translate.
@@ -164,7 +85,6 @@ Translate.
 Simplify.
 
 
-<div class="tryit">
 **Try It**
 
 
@@ -174,7 +94,6 @@ Translate and solve: The product of <span class="math-inline">−4.3</span> and 
 −4.3*x* = 12.04; *x* = −2.8
 
 
-<div class="tryit">
 **Try It**
 
 
@@ -184,15 +103,13 @@ Translate and solve: The product of <span class="math-inline">−3.1</span> and 
 −3.1*m* = 26.66; *m* = −8.6
 
 
-<div class="example">
 **Example**
 
 
 Translate and solve: The quotient of <span class="math-inline">p</span> and <span class="math-inline">−2.4</span> is <span class="math-inline">6.5.</span>
 
 
-<div class="solution">
-<span class="def-label">Solution</span>
+Solution
 
 
 Translate.
@@ -218,35 +135,31 @@ Translate.
 Simplify.
 
 
-<div class="tryit">
 **Try It**
 
 
 Translate and solve: The quotient of <span class="math-inline">q</span> and <span class="math-inline">−3.4</span> is <span class="math-inline">4.5.</span>
 
 
-<span class="math-inline"><sup>q</sup>∕<sub>−3.4</sub>=4.5; q=−15.3</span>
+<span class="math-inline"><sup>q</sup>⁄<sub>−3.4</sub>=4.5; q=−15.3</span>
 
 
-<div class="tryit">
 **Try It**
 
 
 Translate and solve: The quotient of <span class="math-inline">r</span> and <span class="math-inline">−2.6</span> is <span class="math-inline">2.5.</span>
 
 
-<span class="math-inline"><sup>r</sup>∕<sub>−2.6</sub>=2.5; r=−6.5</span>
+<span class="math-inline"><sup>r</sup>⁄<sub>−2.6</sub>=2.5; r=−6.5</span>
 
 
-<div class="example">
 **Example**
 
 
 Translate and solve: The sum of <span class="math-inline">n</span> and <span class="math-inline">2.9</span> is <span class="math-inline">1.7.</span>
 
 
-<div class="solution">
-<span class="def-label">Solution</span>
+Solution
 
 
 Translate.
@@ -272,7 +185,6 @@ Translate.
 Simplify.
 
 
-<div class="tryit">
 **Try It**
 
 
@@ -282,7 +194,6 @@ Translate and solve: The sum of <span class="math-inline">j</span> and <span cla
 *j* + 3.8 = 2.6; *j* = −1.2
 
 
-<div class="tryit">
 **Try It**
 
 
@@ -292,8 +203,7 @@ Translate and solve: The sum of <span class="math-inline">k</span> and <span cla
 *k* + 4.7 = 0.3; *k* = −4.4
 
 
-<div class="definition-label">**ACCESS ADDITIONAL ONLINE RESOURCES**</div>
-
+**ACCESS ADDITIONAL ONLINE RESOURCES**
 
 - Solving One Step Equations Involving Decimals
 
@@ -304,13 +214,7 @@ Translate and solve: The sum of <span class="math-inline">k</span> and <span cla
 - Solve a One Step Equation With Decimals by Dividing
 
 
----
-
-
----
-
 ## Key Concepts
-
 
 - *Determine whether a number is a solution to an equation.*
 
@@ -347,7 +251,7 @@ In the following exercises, determine whether each number is a solution of the g
 ⓐ <span class="math-inline">y=−4</span>ⓑ <span class="math-inline">y=−2.8</span>ⓒ <span class="math-inline">y=2.6</span>
 
 
-<span class="math-inline"><sup>h</sup>∕<sub>1.5</sub>=−4.3</span>
+<span class="math-inline"><sup>h</sup>⁄<sub>1.5</sub>=−4.3</span>
 
 ⓐ <span class="math-inline">h=6.45</span>ⓑ <span class="math-inline">h=−6.45</span>ⓒ <span class="math-inline">h=−2.1</span>
 
@@ -492,40 +396,40 @@ In the following exercises, solve the equation.
 <span class="math-inline">−2.7u=−9.72</span>
 
 
-<span class="math-inline"><sup>a</sup>∕<sub>0.4</sub>=−20</span>
+<span class="math-inline"><sup>a</sup>⁄<sub>0.4</sub>=−20</span>
 
 
 *a* = −8
 
 
-<span class="math-inline"><sup>b</sup>∕<sub>0.3</sub>=−9</span>
+<span class="math-inline"><sup>b</sup>⁄<sub>0.3</sub>=−9</span>
 
 
-<span class="math-inline"><sup>x</sup>∕<sub>0.7</sub>=−0.4</span>
+<span class="math-inline"><sup>x</sup>⁄<sub>0.7</sub>=−0.4</span>
 
 
 *x* = −0.28
 
 
-<span class="math-inline"><sup>y</sup>∕<sub>0.8</sub>=−0.7</span>
+<span class="math-inline"><sup>y</sup>⁄<sub>0.8</sub>=−0.7</span>
 
 
-<span class="math-inline"><sup>p</sup>∕<sub>-5</sub>=−1.65</span>
+<span class="math-inline"><sup>p</sup>⁄<sub>-5</sub>=−1.65</span>
 
 
 *p* = 8.25
 
 
-<span class="math-inline"><sup>q</sup>∕<sub>-4</sub>=−5.92</span>
+<span class="math-inline"><sup>q</sup>⁄<sub>-4</sub>=−5.92</span>
 
 
-<span class="math-inline"><sup>r</sup>∕<sub>-1.2</sub>=−6</span>
+<span class="math-inline"><sup>r</sup>⁄<sub>-1.2</sub>=−6</span>
 
 
 *r* = 7.2
 
 
-<span class="math-inline"><sup>s</sup>∕<sub>-1.5</sub>=−3</span>
+<span class="math-inline"><sup>s</sup>⁄<sub>-1.5</sub>=−3</span>
 
 
 *Mixed Practice*
@@ -539,7 +443,7 @@ In the following exercises, solve the equation. Then check your solution.
 *x* = −6
 
 
-<span class="math-inline">-<sup>2</sup>∕<sub>5</sub>=x+<sup>3</sup>∕<sub>4</sub></span>
+<span class="math-inline">-<sup>2</sup>⁄<sub>5</sub>=x+<sup>3</sup>⁄<sub>4</sub></span>
 
 
 <span class="math-inline">p+8=−2</span>
@@ -548,7 +452,7 @@ In the following exercises, solve the equation. Then check your solution.
 *p* = −10
 
 
-<span class="math-inline">p+<sup>2</sup>∕<sub>3</sub>=<sup>1</sup>∕<sub>12</sub></span>
+<span class="math-inline">p+<sup>2</sup>⁄<sub>3</sub>=<sup>1</sup>⁄<sub>12</sub></span>
 
 
 <span class="math-inline">−4.2m=−33.6</span>
@@ -560,37 +464,37 @@ In the following exercises, solve the equation. Then check your solution.
 <span class="math-inline">q+9.5=−14</span>
 
 
-<span class="math-inline">q+<sup>5</sup>∕<sub>6</sub>=<sup>1</sup>∕<sub>12</sub></span>
+<span class="math-inline">q+<sup>5</sup>⁄<sub>6</sub>=<sup>1</sup>⁄<sub>12</sub></span>
 
 
-<span class="math-inline">q=-<sup>3</sup>∕<sub>4</sub></span>
+<span class="math-inline">q=-<sup>3</sup>⁄<sub>4</sub></span>
 
 
-<span class="math-inline"><sup>8.6</sup>∕<sub>15</sub>=-d</span>
+<span class="math-inline"><sup>8.6</sup>⁄<sub>15</sub>=-d</span>
 
 
-<span class="math-inline"><sup>7</sup>∕<sub>8</sub>m=<sup>1</sup>∕<sub>10</sub></span>
+<span class="math-inline"><sup>7</sup>⁄<sub>8</sub>m=<sup>1</sup>⁄<sub>10</sub></span>
 
 
-<span class="math-inline">m=<sup>4</sup>∕<sub>35</sub></span>
+<span class="math-inline">m=<sup>4</sup>⁄<sub>35</sub></span>
 
 
-<span class="math-inline"><sup>j</sup>∕<sub>-6.2</sub>=−3</span>
+<span class="math-inline"><sup>j</sup>⁄<sub>-6.2</sub>=−3</span>
 
 
-<span class="math-inline">-<sup>2</sup>∕<sub>3</sub>=y+<sup>3</sup>∕<sub>8</sub></span>
+<span class="math-inline">-<sup>2</sup>⁄<sub>3</sub>=y+<sup>3</sup>⁄<sub>8</sub></span>
 
 
-<span class="math-inline">y=-<sup>25</sup>∕<sub>24</sub></span>
+<span class="math-inline">y=-<sup>25</sup>⁄<sub>24</sub></span>
 
 
 <span class="math-inline">s-1.75=−3.2</span>
 
 
-<span class="math-inline"><sup>11</sup>∕<sub>20</sub>=-f</span>
+<span class="math-inline"><sup>11</sup>⁄<sub>20</sub>=-f</span>
 
 
-<span class="math-inline">f=-<sup>11</sup>∕<sub>20</sub></span>
+<span class="math-inline">f=-<sup>11</sup>⁄<sub>20</sub></span>
 
 
 <span class="math-inline">−3.6b=2.52</span>
@@ -611,10 +515,10 @@ In the following exercises, solve the equation. Then check your solution.
 *r* = −1.45
 
 
-<span class="math-inline"><sup>1</sup>∕<sub>4</sub>n=<sup>7</sup>∕<sub>10</sub></span>
+<span class="math-inline"><sup>1</sup>⁄<sub>4</sub>n=<sup>7</sup>⁄<sub>10</sub></span>
 
 
-<span class="math-inline"><sup>h</sup>∕<sub>-3</sub>=−8</span>
+<span class="math-inline"><sup>h</sup>⁄<sub>-3</sub>=−8</span>
 
 
 *h* = 24
@@ -649,7 +553,7 @@ The product of <span class="math-inline">−4.6</span> and <span class="math-inl
 The quotient of <span class="math-inline">y</span> and <span class="math-inline">−1.7</span> is <span class="math-inline">−5.</span>
 
 
-<span class="math-inline"><sup>y</sup>∕<sub>-1.7</sub>=−5; 8.5</span>
+<span class="math-inline"><sup>y</sup>⁄<sub>-1.7</sub>=−5; 8.5</span>
 
 
 The quotient of <span class="math-inline">z</span> and <span class="math-inline">−3.6</span> is <span class="math-inline">3.</span>
@@ -696,55 +600,50 @@ Think about solving the equation <span class="math-inline">0.8x=200,</span> but 
 ⓑ On a scale of 1–10, how would you rate your mastery of this section in light of your responses on the checklist? How can you improve this?
 
 
-<div class="prep-quiz">
 **Be Prepared!**
-
 
 Before you get started, take this readiness quiz.
 
 
-Simplify: <span class="math-inline"><sup>4+9+2</sup>∕<sub>3</sub>.</span>
+Simplify: <span class="math-inline"><sup>4+9+2</sup>⁄<sub>3</sub>.</span>
 
-If you missed this problem, review .
+If you missed this problem, review
 
 
 <span class="math-inline">5</span>
 
 
-<div class="prep-quiz">
 **Be Prepared!**
 
 
 Simplify: <span class="math-inline">4(8)+6(3).</span>
 
-If you missed this problem, review .
+If you missed this problem, review
 
 
 <span class="math-inline">50</span>
 
 
-<div class="prep-quiz">
 **Be Prepared!**
 
 
-Convert <span class="math-inline"><sup>5</sup>∕<sub>2</sub></span> to a decimal.
+Convert <span class="math-inline"><sup>5</sup>⁄<sub>2</sub></span> to a decimal.
 
-If you missed this problem, review .
+If you missed this problem, review
 
 
 <span class="math-inline">2.5</span>
 
 
-One application of decimals that arises often is finding the *average* of a set of numbers. What do you think of when you hear the word *average*? Is it your grade point average, the average rent for an apartment in your city, the batting average of a player on your favorite baseball team? The average is a typical value in a set of numerical data. Calculating an average sometimes involves working with decimal numbers. In this section, we will look at three different ways to calculate an average.
+One application of decimals that arises often is finding the *average* of a set of numbers.
+What do you think of when you hear the word *average*?
+Is it your grade point average, the average rent for an apartment in your city, the batting average of a player on your favorite baseball team?
+The average is a typical value in a set of numerical data.
+Calculating an average sometimes involves working with decimal numbers.
+In this section, we will look at three different ways to calculate an average.
 
-
----
-
-
----
 
 ## Calculate the Mean of a Set of Numbers
-
 
 The **mean** is often called the arithmetic average. It is computed by dividing the sum of the values by the number of values. Students want to know the mean of their test scores. Climatologists report that the mean temperature has, or has not, changed. City planners are interested in the mean household size.
 
@@ -753,31 +652,28 @@ Suppose Ethan’s first three test scores were <span class="math-inline">85,88,a
 
 <div class="math-display">
 \\
-<sup>85+88+94</sup>∕<sub>3</sub> \\
-<sup>267</sup>∕<sub>3</sub> \\
+<sup>85+88+94</sup>⁄<sub>3</sub> \\
+<sup>267</sup>⁄<sub>3</sub> \\
 89
 </div>
-
 
 His mean test score is <span class="math-inline">89</span> points.
 
 
-<div class="definition-label">**The Mean**</div>
-
+**The Mean**
 
 The **mean** of a set of <span class="math-inline">n</span> numbers is the arithmetic average of the numbers.
 
 
 <div class="math-display">
-mean=<sup>sum of values in data set</sup>∕<sub>n</sub>
+mean=<sup>sum of values in data set</sup>⁄<sub>n</sub>
 </div>
 
 
-<div class="definition-label">**Calculate the mean of a set of numbers.**</div>
-
+**Calculate the mean of a set of numbers.**
 
 - Write the formula for the mean
-<span class="math-inline">mean=<sup>sum of values in data set</sup>∕<sub>n</sub></span>
+<span class="math-inline">mean=<sup>sum of values in data set</sup>⁄<sub>n</sub></span>
 
 -  Find the sum of all the values in the set. Write the sum in the numerator.
 
@@ -788,43 +684,39 @@ mean=<sup>sum of values in data set</sup>∕<sub>n</sub>
 -  Check to see that the mean is reasonable. It should be greater than the least number and less than the greatest number in the set.
 
 
-<div class="example">
 **Example**
 
 
 Find the mean of the numbers <span class="math-inline">8,12,15,9,and 6.</span>
 
 
-<div class="solution">
-<span class="def-label">Solution</span>
+Solution
 
 
    Write the formula for the mean:
-   <span class="math-inline">mean=<sup>sum of all the numbers</sup>∕<sub>n</sub></span>
+   <span class="math-inline">mean=<sup>sum of all the numbers</sup>⁄<sub>n</sub></span>
 
 
    Write the sum of the numbers in the numerator.
-   <span class="math-inline">mean=<sup>8+12+15+9+6</sup>∕<sub>n</sub></span>
+   <span class="math-inline">mean=<sup>8+12+15+9+6</sup>⁄<sub>n</sub></span>
 
 
    Count how many numbers are in the set. There are 5 numbers in the set, so <span class="math-inline">n=5</span>.
-   <span class="math-inline">mean=<sup>8+12+15+9+6</sup>∕<sub>5</sub></span>
+   <span class="math-inline">mean=<sup>8+12+15+9+6</sup>⁄<sub>5</sub></span>
 
 
    Add the numbers in the numerator.
-   <span class="math-inline">mean=<sup>50</sup>∕<sub>5</sub></span>
+   <span class="math-inline">mean=<sup>50</sup>⁄<sub>5</sub></span>
 
 
    Then divide.
    <span class="math-inline">mean=10</span>
 
 
-<div class="check-box">
-**Check to see that the mean is 'typical': 10 is neither less than 6 nor greater than 15.
-   The mean is 10.**
+   Check to see that the mean is 'typical': 10 is neither less than 6 nor greater than 15.
+   The mean is 10.
 
 
-<div class="tryit">
 **Try It**
 
 
@@ -834,7 +726,6 @@ Find the mean of the numbers: <span class="math-inline">8,9,7,12,10,5.</span>
 8.5
 
 
-<div class="tryit">
 **Try It**
 
 
@@ -844,31 +735,29 @@ Find the mean of the numbers: <span class="math-inline">9,13,11,7,5.</span>
 9
 
 
-<div class="example">
 **Example**
 
 
 The ages of the members of a family who got together for a birthday celebration were <span class="math-inline">16,26,53,56,65,70,93,and 97</span> years. Find the mean age.
 
 
-<div class="solution">
-<span class="def-label">Solution</span>
+Solution
 
 
    Write the formula for the mean:
-   <span class="math-inline">mean=<sup>sum of all the numbers</sup>∕<sub>n</sub></span>
+   <span class="math-inline">mean=<sup>sum of all the numbers</sup>⁄<sub>n</sub></span>
 
 
    Write the sum of the numbers in the numerator.
-   <span class="math-inline">mean=<sup>16+26+53+56+65+70+93+97</sup>∕<sub>n</sub></span>
+   <span class="math-inline">mean=<sup>16+26+53+56+65+70+93+97</sup>⁄<sub>n</sub></span>
 
 
    Count how many numbers are in the set. Call this <span class="math-inline">n</span> and write it in the denominator.
-   <span class="math-inline">mean=<sup>16+26+53+56+65+70+93+97</sup>∕<sub>8</sub></span>
+   <span class="math-inline">mean=<sup>16+26+53+56+65+70+93+97</sup>⁄<sub>8</sub></span>
 
 
    Simplify the fraction.
-   <span class="math-inline">mean=<sup>476</sup>∕<sub>8</sub></span>
+   <span class="math-inline">mean=<sup>476</sup>⁄<sub>8</sub></span>
 
 
    <span class="math-inline">mean=59.5</span>
@@ -877,7 +766,6 @@ The ages of the members of a family who got together for a birthday celebration 
 Is <span class="math-inline">59.5</span> ‘typical’? Yes, it is neither less than <span class="math-inline">16</span> nor greater than <span class="math-inline">97.</span> The mean age is <span class="math-inline">59.5</span> years.
 
 
-<div class="tryit">
 **Try It**
 
 
@@ -887,7 +775,6 @@ The ages of the four students in Ben’s carpool are <span class="math-inline">2
 21.5 years
 
 
-<div class="tryit">
 **Try It**
 
 
@@ -897,34 +784,34 @@ Yen counted the number of emails she received last week. The numbers were <span 
 10
 
 
-Did you notice that in the last example, while all the numbers were whole numbers, the mean was <span class="math-inline">59.5,</span> a number with one decimal place? It is customary to report the mean to one more decimal place than the original numbers. In the next example, all the numbers represent money, and it will make sense to report the mean in dollars and cents.
+Did you notice that in the last example, while all the numbers were whole numbers, the mean was <span class="math-inline">59.5,</span> a number with one decimal place?
+It is customary to report the mean to one more decimal place than the original numbers.
+In the next example, all the numbers represent money, and it will make sense to report the mean in dollars and cents.
 
 
-<div class="example">
 **Example**
 
 
 For the past four months, Daisy’s cell phone bills were <span class="math-inline">$42.75,$50.12,$41.54,$48.15.</span> Find the mean cost of Daisy’s cell phone bills.
 
 
-<div class="solution">
-<span class="def-label">Solution</span>
+Solution
 
 
    Write the formula for the mean.
-   <span class="math-inline">mean=<sup>sum of all the numbers</sup>∕<sub>n</sub></span>
+   <span class="math-inline">mean=<sup>sum of all the numbers</sup>⁄<sub>n</sub></span>
 
 
    Count how many numbers are in the set. Call this <span class="math-inline">n</span> and write it in the denominator.
-   <span class="math-inline">mean=<sup>sum of all the numbers</sup>∕<sub>4</sub></span>
+   <span class="math-inline">mean=<sup>sum of all the numbers</sup>⁄<sub>4</sub></span>
 
 
    Write the sum of all the numbers in the numerator.
-   <span class="math-inline">mean=<sup>42.75+50.12+41.54+48.15</sup>∕<sub>4</sub></span>
+   <span class="math-inline">mean=<sup>42.75+50.12+41.54+48.15</sup>⁄<sub>4</sub></span>
 
 
  Simplify the fraction.
-   <span class="math-inline">mean=<sup>182.56</sup>∕<sub>4</sub></span>
+   <span class="math-inline">mean=<sup>182.56</sup>⁄<sub>4</sub></span>
 
 
    <span class="math-inline">mean=45.64</span>
@@ -934,7 +821,6 @@ Does <span class="math-inline">$45.64</span> seem ‘typical’ of this set of n
 The mean cost of her cell phone bill was <span class="math-inline">$45.64</span>
 
 
-<div class="tryit">
 **Try It**
 
 
@@ -944,7 +830,6 @@ Last week Ray recorded how much he spent for lunch each workday. He spent <span 
 $7.19
 
 
-<div class="tryit">
 **Try It**
 
 
@@ -954,13 +839,7 @@ Lisa has kept the receipts from the past four trips to the gas station. The rece
 $39.62
 
 
----
-
-
----
-
 ## Find the Median of a Set of Numbers
-
 
 When Ann, Bianca, Dora, Eve, and Francine sing together on stage, they line up in order of their heights. Their heights, in inches, are shown in .
 
@@ -968,8 +847,7 @@ When Ann, Bianca, Dora, Eve, and Francine sing together on stage, they line up i
 Dora is in the middle of the group. Her height, <span class="math-inline">65″,</span> is the *median* of the girls’ heights. Half of the heights are less than or equal to Dora’s height, and half are greater than or equal. The median is the middle value.
 
 
-<div class="definition-label">**Median**</div>
-
+**Median**
 
 The **median** of a set of data values is the middle value.
 
@@ -984,16 +862,16 @@ What if Carmen, the pianist, joins the singing group on stage? Carmen is <span c
 59,60,62,65,68,70
 </div>
 
-
 There is no single middle value. The heights of the six girls can be divided into two equal parts.
 
-Statisticians have agreed that in cases like this the median is the mean of the two values closest to the middle. So the median is the mean of <span class="math-inline">62 and 65, <sup>62+65</sup>∕<sub>2</sub>.</span> The median height is <span class="math-inline">63.5</span> inches.
-
-Notice that when the number of girls was <span class="math-inline">5,</span> the median was the third height, but when the number of girls was <span class="math-inline">6,</span> the median was the mean of the third and fourth heights. In general, when the number of values is odd, the median will be the one value in the middle, but when the number is even, the median is the mean of the two middle values.
+Statisticians have agreed that in cases like this the median is the mean of the two values closest to the middle. So the median is the mean of <span class="math-inline">62 and 65, <sup>62+65</sup>⁄<sub>2</sub>.</span> The median height is <span class="math-inline">63.5</span> inches.
 
 
-<div class="definition-label">**Find the median of a set of numbers.**</div>
+Notice that when the number of girls was <span class="math-inline">5,</span> the median was the third height, but when the number of girls was <span class="math-inline">6,</span> the median was the mean of the third and fourth heights.
+In general, when the number of values is odd, the median will be the one value in the middle, but when the number is even, the median is the mean of the two middle values.
 
+
+**Find the median of a set of numbers.**
 
 -  List the numbers from smallest to largest.
 
@@ -1005,15 +883,13 @@ Notice that when the number of girls was <span class="math-inline">5,</span> the
   - If <span class="math-inline">n</span> is an even number, the median is the mean of the two middle values.
 
 
-<div class="example">
 **Example**
 
 
 Find the median of <span class="math-inline">12,13,19,9,11,15,and 18.</span>
 
 
-<div class="solution">
-<span class="def-label">Solution</span>
+Solution
 
 
    List the numbers in order from smallest to largest.
@@ -1035,7 +911,6 @@ Find the median of <span class="math-inline">12,13,19,9,11,15,and 18.</span>
    So the median of the data is 13.
 
 
-<div class="tryit">
 **Try It**
 
 
@@ -1045,7 +920,6 @@ Find the median of the data set: <span class="math-inline">43,38,51,40,46.</span
 43
 
 
-<div class="tryit">
 **Try It**
 
 
@@ -1055,7 +929,6 @@ Find the median of the data set: <span class="math-inline">15,35,20,45,50,25,30.
 30
 
 
-<div class="example">
 **Example**
 
 
@@ -1063,8 +936,7 @@ Kristen received the following scores on her weekly math quizzes:
 <span class="math-inline">83,79,85,86,92,100,76,90,88,and 64.</span> Find her median score.
 
 
-<div class="solution">
-<span class="def-label">Solution</span>
+Solution
 
 
    Find the median of 83, 79, 85, 86, 92, 100, 76, 90, 88, and 64.
@@ -1086,7 +958,7 @@ Kristen received the following scores on her weekly math quizzes:
 
 
  Find the mean of 85 and 86.
- <span class="math-inline">mean=<sup>85+86</sup>∕<sub>2</sub></span>
+ <span class="math-inline">mean=<sup>85+86</sup>⁄<sub>2</sub></span>
 
 
  <span class="math-inline">mean=85.5</span>
@@ -1095,7 +967,6 @@ Kristen received the following scores on her weekly math quizzes:
  Kristen's median score is 85.5.
 
 
-<div class="tryit">
 **Try It**
 
 
@@ -1105,7 +976,6 @@ Find the median of the data set: <span class="math-inline">8,7,5,10,9,12.</span>
 8.5
 
 
-<div class="tryit">
 **Try It**
 
 
@@ -1115,19 +985,20 @@ Find the median of the data set: <span class="math-inline">21,25,19,17,22,18,20,
 20.5
 
 
----
-
-
----
-
 ## Identify the Mode of a Set of Numbers
 
 
-The *average* is one number in a set of numbers that is somehow typical of the whole set of numbers. The mean and median are both often called the average.  Yes, it can be confusing when the word average refers to two different numbers, the mean and the median!  In fact, there is a third number that is also an average.  This average is the **mode**. The mode of a set of numbers is the number that occurs the most. The **frequency**, is the number of times a number occurs. So the mode of a set of numbers is the number with the highest frequency.
+The *average* is one number in a set of numbers that is somehow typical of the whole set of numbers.
+The mean and median are both often called the average.
+Yes, it can be confusing when the word average refers to two different numbers, the mean and the median!
+In fact, there is a third number that is also an average.
+This average is the **mode**.
+The mode of a set of numbers is the number that occurs the most.
+The **frequency**, is the number of times a number occurs.
+So the mode of a set of numbers is the number with the highest frequency.
 
 
-<div class="definition-label">**Mode**</div>
-
+**Mode**
 
 The **mode** of a set of numbers is the number with the highest frequency.
 
@@ -1140,12 +1011,10 @@ If we list the numbers in order it is easier to identify the one with the highes
 2,3,5,8,8,8,15
 </div>
 
-
 Jolene ran <span class="math-inline">8</span> miles three times, and every other distance is listed only once. So the mode of the data is <span class="math-inline">8</span> miles.
 
 
-<div class="definition-label">**Identify the mode of a set of numbers.**</div>
-
+**Identify the mode of a set of numbers.**
 
 -  List the data values in numerical order.
 
@@ -1154,7 +1023,6 @@ Jolene ran <span class="math-inline">8</span> miles three times, and every other
 -  The mode is the value with the highest frequency.
 
 
-<div class="example">
 **Example**
 
 
@@ -1162,15 +1030,11 @@ The ages of students in a college math class are listed below. Identify the mode
 <span class="math-inline">18,18,18,18,19,19,19,20,20,20,20,20,20,20,21,21,22,22,22,22,22,23,24,24,25,29,30,40,44</span>
 
 
-<div class="solution">
-<span class="def-label">Solution</span>
-
-
+Solution
 The ages are already listed in order. We will make a table of frequencies to help identify the age with the highest frequency.
 Now look for the highest frequency. The highest frequency is <span class="math-inline">7,</span> which corresponds to the age <span class="math-inline">20.</span> So the mode of the ages in this class is <span class="math-inline">20</span> years.
 
 
-<div class="tryit">
 **Try It**
 
 
@@ -1180,7 +1044,6 @@ The number of sick days employees used last year: <span class="math-inline">3,6,
 2
 
 
-<div class="tryit">
 **Try It**
 
 
@@ -1190,7 +1053,6 @@ The number of handbags owned by women in a book club: <span class="math-inline">
 5
 
 
-<div class="example">
 **Example**
 
 
@@ -1236,130 +1098,31 @@ The data lists the heights (in inches) of students in a statistics class. Identi
 <span class="math-inline">67</span>
 
 
-<div class="solution">
-<span class="def-label">Solution</span>
-
-
+Solution
 List each number with its frequency.
 
 
 Now look for the highest frequency. The highest frequency is <span class="math-inline">6,</span> which corresponds to the height <span class="math-inline">67</span> inches. So the mode of this set of heights is <span class="math-inline">67</span> inches.
 
 
-<div class="tryit">
 **Try It**
 
 
-The ages of the students in a statistics class are listed here: <span class="math-inline">19</span>, <span class="math-inline">20</span>, <span class="math-inline">23</span>, <span class="math-inline">23</span>, <span class="math-inline">38</span>, <span class="math-inline">21</span>, <span class="math-inline">19</span>, <span class="math-inline">21</span>, <span class="math-inline">19</span>, <span class="math-inline">21</span>, <span class="math-inline">20</span>, <span class="math-inline">43</span>, <span class="math-inline">20</span>, <span class="math-inline">23</span>, <span class="math-inline">17</span>, <span class="math-inline">21</span>, <span class="math-inline">21</span>, <span class="math-inline">20</span>, <span class="math-inline">29</span>, <span class="math-inline">18</span>, <span class="math-inline">28</span>. What is the mode?
+The ages of the students in a statistics class are listed here: <span class="math-inline">19</span>, <span class="math-inline">20</span>, <span class="math-inline">23</span>, <span class="math-inline">23</span>, <span class="math-inline">38</span>, <span class="math-inline">21</span>, <span class="math-inline">19</span>, <span class="math-inline">21</span>, <span class="math-inline">19</span>, <span class="math-inline">21</span>, <span class="math-inline">20</span>, <span class="math-inline">43</span>, <span class="math-inline">20</span>, <span class="math-inline">23</span>, <span class="math-inline">17</span>, <span class="math-inline">21</span>, <span class="math-inline">21</span>, <span class="math-inline">20</span>, <span class="math-inline">29</span>, <span class="math-inline">18</span>, <span class="math-inline">28</span>.
+What is the mode?
 
 
 21
 
 
-<div class="tryit">
 **Try It**
 
 
-Students listed the number of members in their household as follows: <span class="math-inline">6</span>, <span class="math-inline">2</span>, <span class="math-inline">5</span>, <span class="math-inline">6</span>, <span class="math-inline">3</span>, <span class="math-inline">7</span>, <span class="math-inline">5</span>, <span class="math-inline">6</span>, <span class="math-inline">5</span>, <span class="math-inline">3</span>, <span class="math-inline">4</span>, <span class="math-inline">4</span>, <span class="math-inline">5</span>, <span class="math-inline">7</span>, <span class="math-inline">6</span>, <span class="math-inline">4</span>, <span class="math-inline">5</span>, <span class="math-inline">2</span>, <span class="math-inline">1</span>, <span class="math-inline">5</span>. What is the mode?
+Students listed the number of members in their household as follows: <span class="math-inline">6</span>, <span class="math-inline">2</span>, <span class="math-inline">5</span>, <span class="math-inline">6</span>, <span class="math-inline">3</span>, <span class="math-inline">7</span>, <span class="math-inline">5</span>, <span class="math-inline">6</span>, <span class="math-inline">5</span>, <span class="math-inline">3</span>, <span class="math-inline">4</span>, <span class="math-inline">4</span>, <span class="math-inline">5</span>, <span class="math-inline">7</span>, <span class="math-inline">6</span>, <span class="math-inline">4</span>, <span class="math-inline">5</span>, <span class="math-inline">2</span>, <span class="math-inline">1</span>, <span class="math-inline">5</span>.
+What is the mode?
 
 
 5
 
 
 Some data sets do not have a mode because no value appears more than any other. And some data sets have more than one mode. In a given set, if two or more data values have the same highest frequency, we say they are all modes.
-
-</div>
-
-</div>
-
-</div>
-
-</div>
-
-</div>
-
-</div>
-
-</div>
-
-</div>
-
-</div>
-
-</div>
-
-</div>
-
-</div>
-
-</div>
-
-</div>
-
-</div>
-
-</div>
-
-</div>
-
-</div>
-
-</div>
-
-</div>
-
-</div>
-
-</div>
-
-</div>
-
-</div>
-
-</div>
-
-</div>
-
-</div>
-
-</div>
-
-</div>
-
-</div>
-
-</div>
-
-</div>
-
-</div>
-
-</div>
-
-</div>
-
-</div>
-
-</div>
-
-</div>
-
-</div>
-
-</div>
-
-</div>
-
-</div>
-
-</div>
-
-</div>
-
-</div>
-
-</div>
-
-</div>
-
-</div>

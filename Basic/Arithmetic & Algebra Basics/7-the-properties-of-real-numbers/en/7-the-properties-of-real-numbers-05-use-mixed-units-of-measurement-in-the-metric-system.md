@@ -1,103 +1,25 @@
-<style>
-.math-inline {
-    font-style: italic;
-    padding: 2px 6px;
-    border-radius: 4px;
-    background: #f8f9fa;
-    font-family: Georgia, serif;
-}
-.math-display {
-    background: #f8f9fa;
-    border-left: 4px solid #4a90d9;
-    padding: 16px 20px;
-    margin: 16px 0;
-    border-radius: 6px;
-    font-size: 1.15em;
-    font-family: Georgia, serif;
-    text-align: center;
-    line-height: 2;
-    overflow-x: auto;
-}
-.example-box, .example {
-    background: #f0f8ff;
-    border-left: 4px solid #2e86de;
-    padding: 12px 20px;
-    margin: 16px 0;
-    border-radius: 6px;
-}
-.tryit-box, .tryit {
-    background: #f0fff4;
-    border-left: 4px solid #27ae60;
-    padding: 12px 20px;
-    margin: 16px 0;
-    border-radius: 6px;
-}
-.solution-box, .solution {
-    background: #fef9e7;
-    border-left: 4px solid #f39c12;
-    padding: 12px 20px;
-    margin: 12px 0;
-    border-radius: 6px;
-}
-.check-box, .check {
-    background: #fef9e7;
-    border-left: 4px solid #f39c12;
-    padding: 12px 20px;
-    margin: 12px 0;
-    border-radius: 6px;
-}
-.prep-quiz {
-    background: #fff3cd;
-    border: 1px solid #ffc107;
-    padding: 12px 20px;
-    margin: 16px 0;
-    border-radius: 6px;
-}
-.def-label, .definition-label {
-    font-weight: bold;
-    font-size: 1.1em;
-    margin: 20px 0 8px 0;
-    color: #2c3e50;
-    display: block;
-}
-.math-display sup, .math-inline sup { font-size: 0.75em; line-height: 0; }
-.math-display sub, .math-inline sub { font-size: 0.75em; line-height: 0; }
-</style>
-
-
----
-
-
----
-
 ## Use Mixed Units of Measurement in the Metric System
-
 
 Performing arithmetic operations on measurements with mixed units of measures in the **metric system** requires the same care we used in the **U.S. system**. But it may be easier because of the relation of the units to the powers of <span class="math-inline">10.</span> We still must make sure to add or subtract like units.
 
 
-<div class="example">
 **Example**
 
 
 Ryland is <span class="math-inline">1.6</span> meters tall. His younger brother is <span class="math-inline">85</span> centimeters tall. How much taller is Ryland than his younger brother?
 
 
-<div class="solution">
-<span class="def-label">Solution</span>
-
-
+Solution
 We will subtract the lengths in meters. Convert <span class="math-inline">85</span> centimeters to meters by moving the decimal <span class="math-inline">2</span> places to the left; <span class="math-inline">85</span> cm is the same as <span class="math-inline">0.85</span> m.
 Now that both measurements are in meters, subtract to find out how much taller Ryland is than his brother.
-\(\\
+<span class="math-inline">\\
  \\
 1.60 m \\
-\underset{_______}{−0.85 m} \\
-0.75 m\)
+−0.85 m<sub>_______</sub> \\
+0.75 m</span>
 Ryland is <span class="math-inline">0.75</span> meters taller than his brother.
 
 
-<div class="tryit">
 **Try It**
 
 
@@ -107,7 +29,6 @@ Mariella is <span class="math-inline">1.58</span> meters tall. Her daughter is <
 83 cm
 
 
-<div class="tryit">
 **Try It**
 
 
@@ -117,17 +38,13 @@ The fence around Hank’s yard is <span class="math-inline">2</span> meters high
 1.04 m
 
 
-<div class="example">
 **Example**
 
 
 Dena’s recipe for lentil soup calls for <span class="math-inline">150</span> milliliters of olive oil. Dena wants to triple the recipe. How many liters of olive oil will she need?
 
 
-<div class="solution">
-<span class="def-label">Solution</span>
-
-
+Solution
 We will find the amount of olive oil in milliliters then convert to liters.
 
 
@@ -143,7 +60,7 @@ We will find the amount of olive oil in milliliters then convert to liters.
 
 
    Convert to liters.
-   <span class="math-inline">450 mL· <sup>0.001 L</sup>∕<sub>1 mL</sub></span>
+   <span class="math-inline">450 mL· <sup>0.001 L</sup>⁄<sub>1 mL</sub></span>
 
 
    Simplify.
@@ -153,7 +70,6 @@ We will find the amount of olive oil in milliliters then convert to liters.
    Dena needs 0.45 liter of olive oil.
 
 
-<div class="tryit">
 **Try It**
 
 
@@ -163,7 +79,6 @@ A recipe for Alfredo sauce calls for <span class="math-inline">250</span> millil
 2 L
 
 
-<div class="tryit">
 **Try It**
 
 
@@ -173,15 +88,13 @@ To make one pan of baklava, Dorothea needs <span class="math-inline">400</span> 
 2.4 kg
 
 
----
-
-
----
-
 ## Convert Between U.S. and Metric Systems of Measurement
 
 
-Many measurements in the United States are made in metric units. A drink may come in <span class="math-inline">2-liter</span> bottles, calcium may come in <span class="math-inline">500-mg</span> capsules, and we may run a <span class="math-inline">5-K</span> race. To work easily in both systems, we need to be able to convert between the two systems.
+Many measurements in the United States are made in metric units.
+A drink may come in <span class="math-inline">2-liter</span> bottles, calcium may come in <span class="math-inline">500-mg</span> capsules, and we may run a <span class="math-inline">5-K</span> race.
+To work easily in both systems, we need to be able to convert between the two systems.
+
 
  shows some of the most common conversions.
 
@@ -189,26 +102,24 @@ Many measurements in the United States are made in metric units. A drink may com
 We make conversions between the systems just as we do within the systems—by multiplying by unit conversion factors.
 
 
-<div class="example">
 **Example**
 
 
 Lee’s water bottle holds <span class="math-inline">500</span> mL of water. How many fluid ounces are in the bottle? Round to the nearest tenth of an ounce.
 
 
-<div class="solution">
-<span class="def-label">Solution</span>
+Solution
 
 
    500 mL
 
 
    Multiply by a unit conversion factor relating mL and ounces.
-   <span class="math-inline">500 mL· <sup>1 fl oz</sup>∕<sub>30 mL</sub></span>
+   <span class="math-inline">500 mL· <sup>1 fl oz</sup>⁄<sub>30 mL</sub></span>
 
 
    Simplify.
-   <span class="math-inline"><sup>500 fl oz</sup>∕<sub>30</sub></span>
+   <span class="math-inline"><sup>500 fl oz</sup>⁄<sub>30</sub></span>
 
 
    Divide.
@@ -218,7 +129,6 @@ Lee’s water bottle holds <span class="math-inline">500</span> mL of water. How
    The water bottle holds 16.7 fluid ounces.
 
 
-<div class="tryit">
 **Try It**
 
 
@@ -228,7 +138,6 @@ How many quarts of soda are in a <span class="math-inline">2-liter</span> bottle
 2.12 quarts
 
 
-<div class="tryit">
 **Try It**
 
 
@@ -241,28 +150,26 @@ How many liters are in <span class="math-inline">4</span> quarts of milk?
 The conversion factors in  are not exact, but the approximations they give are close enough for everyday purposes. In , we rounded the number of fluid ounces to the nearest tenth.
 
 
-<div class="example">
 **Example**
 
 
 Soleil lives in Minnesota but often travels in Canada for work. While driving on a Canadian highway, she passes a sign that says the next rest stop is in <span class="math-inline">100</span> kilometers. How many miles until the next rest stop? Round your answer to the nearest mile.
 
 
-<div class="solution">
-<span class="def-label">Solution</span>
+Solution
 
 
    100 kilometers
 
 
    Multiply by a unit conversion factor relating kilometers and miles.
-   <span class="math-inline">100 kilometers· <sup>1 mile</sup>∕<sub>1.61 kilometers</sub></span>
+   <span class="math-inline">100 kilometers· <sup>1 mile</sup>⁄<sub>1.61 kilometers</sub></span>
 
-   <span class="math-inline">100· <sup>1 mi</sup>∕<sub>1.61 km</sub></span>
+   <span class="math-inline">100· <sup>1 mi</sup>⁄<sub>1.61 km</sub></span>
 
 
    Simplify.
-    <span class="math-inline"><sup>100 mi</sup>∕<sub>1.61</sub></span>
+    <span class="math-inline"><sup>100 mi</sup>⁄<sub>1.61</sub></span>
 
 
    Divide.
@@ -272,7 +179,6 @@ Soleil lives in Minnesota but often travels in Canada for work. While driving on
    It is about 62 miles to the next rest stop.
 
 
-<div class="tryit">
 **Try It**
 
 
@@ -282,7 +188,6 @@ The height of Mount Kilimanjaro is <span class="math-inline">5,895</span> meters
 19,336 ft
 
 
-<div class="tryit">
 **Try It**
 
 
@@ -292,13 +197,7 @@ The flight distance from New York City to London is <span class="math-inline">5,
 3,470 mi
 
 
----
-
-
----
-
 ## Convert Between Fahrenheit and Celsius Temperatures
-
 
 Have you ever been in a foreign country and heard the weather forecast? If the forecast is for <span class="math-inline">22°C.</span> What does that mean?
 
@@ -310,45 +209,39 @@ The U.S. and metric systems use different scales to measure temperature. The **U
 If we know the temperature in one system, we can use a formula to convert it to the other system.
 
 
-<div class="definition-label">**Temperature Conversion**</div>
-
+**Temperature Conversion**
 
 To convert from Fahrenheit temperature, <span class="math-inline">F,</span> to Celsius temperature, <span class="math-inline">C,</span> use the formula
 
 
 <div class="math-display">
-C=<sup>5</sup>∕<sub>9</sub>(F-32)
+C=<sup>5</sup>⁄<sub>9</sub>(F-32)
 </div>
-
 
 To convert from Celsius temperature, <span class="math-inline">C,</span> to Fahrenheit temperature, <span class="math-inline">F,</span> use the formula
 
 
 <div class="math-display">
-F=<sup>9</sup>∕<sub>5</sub>C+32
+F=<sup>9</sup>⁄<sub>5</sub>C+32
 </div>
 
 
-<div class="example">
 **Example**
 
 
 Convert <span class="math-inline">50°F</span> into degrees Celsius.
 
 
-<div class="solution">
-<span class="def-label">Solution</span>
-
-
+Solution
 We will substitute <span class="math-inline">50°F</span> into the formula to find <span class="math-inline">C.</span>
 
 
    Use the formula for converting °F to °C
-   <span class="math-inline">C=<sup>5</sup>∕<sub>9</sub>(F-32)</span>
+   <span class="math-inline">C=<sup>5</sup>⁄<sub>9</sub>(F-32)</span>
 
 
    Simplify in parentheses.
-   <span class="math-inline">C=<sup>5</sup>∕<sub>9</sub>(18)</span>
+   <span class="math-inline">C=<sup>5</sup>⁄<sub>9</sub>(18)</span>
 
 
    Multiply.
@@ -358,7 +251,6 @@ We will substitute <span class="math-inline">50°F</span> into the formula to fi
    A temperature of 50°F is equivalent to 10°C.
 
 
-<div class="tryit">
 **Try It**
 
 
@@ -368,7 +260,6 @@ Convert the Fahrenheit temperatures to degrees Celsius: <span class="math-inline
 15°C
 
 
-<div class="tryit">
 **Try It**
 
 
@@ -378,22 +269,18 @@ Convert the Fahrenheit temperatures to degrees Celsius: <span class="math-inline
 5°C
 
 
-<div class="example">
 **Example**
 
 
 The weather forecast for Paris predicts a high of <span class="math-inline">20°C.</span> Convert the temperature into degrees Fahrenheit.
 
 
-<div class="solution">
-<span class="def-label">Solution</span>
-
-
+Solution
 We will substitute <span class="math-inline">20°C</span> into the formula to find <span class="math-inline">F.</span>
 
 
    Use the formula for converting °F to °C
-   <span class="math-inline">F=<sup>9</sup>∕<sub>5</sub>C+32</span>
+   <span class="math-inline">F=<sup>9</sup>⁄<sub>5</sub>C+32</span>
 
 
    Multiply.
@@ -407,7 +294,6 @@ We will substitute <span class="math-inline">20°C</span> into the formula to fi
    So 20°C is equivalent to 68°F.
 
 
-<div class="tryit">
 **Try It**
 
 
@@ -418,7 +304,6 @@ The temperature in Helsinki, Finland was <span class="math-inline">15°C.</span>
 59°F
 
 
-<div class="tryit">
 **Try It**
 
 
@@ -429,8 +314,7 @@ The temperature in Sydney, Australia was <span class="math-inline">10°C.</span>
 50°F
 
 
-<div class="definition-label">**ACCESS ADDITIONAL ONLINE RESOURCES**</div>
-
+**ACCESS ADDITIONAL ONLINE RESOURCES**
 
 - American Unit Conversion
 
@@ -444,11 +328,6 @@ The temperature in Sydney, Australia was <span class="math-inline">10°C.</span>
 
 - Convert from Fahrenheit to Celsius
 
-
----
-
-
----
 
 ## Section Exercises
 
@@ -532,10 +411,10 @@ Lynn’s cruise lasted <span class="math-inline">6</span> days and <span class="
 162 hours
 
 
-Rocco waited <span class="math-inline">1<sup>1</sup>∕<sub>2</sub></span> hours for his appointment. Convert the time to seconds.
+Rocco waited <span class="math-inline">1<sup>1</sup>⁄<sub>2</sub></span> hours for his appointment. Convert the time to seconds.
 
 
-Misty’s surgery lasted <span class="math-inline">2<sup>1</sup>∕<sub>4</sub></span> hours. Convert the time to seconds.
+Misty’s surgery lasted <span class="math-inline">2<sup>1</sup>⁄<sub>4</sub></span> hours. Convert the time to seconds.
 
 
 8100 seconds
@@ -582,7 +461,9 @@ Lance needs <span class="math-inline">500</span> cups of water for the runners i
 In the following exercises, solve and write your answer in mixed units.
 
 
-Eli caught three fish. The weights of the fish were <span class="math-inline">2</span> pounds <span class="math-inline">4</span> ounces, <span class="math-inline">1</span> pound <span class="math-inline">11</span> ounces, and <span class="math-inline">4</span> pounds <span class="math-inline">14</span> ounces. What was the total weight of the three fish?
+Eli caught three fish.
+The weights of the fish were <span class="math-inline">2</span> pounds <span class="math-inline">4</span> ounces, <span class="math-inline">1</span> pound <span class="math-inline">11</span> ounces, and <span class="math-inline">4</span> pounds <span class="math-inline">14</span> ounces.
+What was the total weight of the three fish?
 
 
 Judy bought <span class="math-inline">1</span> pound <span class="math-inline">6</span> ounces of almonds, <span class="math-inline">2</span> pounds <span class="math-inline">3</span> ounces of walnuts, and <span class="math-inline">8</span> ounces of cashews. What was the total weight of the nuts?
@@ -901,13 +782,7 @@ Some people think that <span class="math-inline">65°</span> to <span class="mat
 ⓑ Overall, after looking at the checklist, do you think you are well-prepared for the next chapter? Why or why not?
 
 
----
-
-
----
-
 ## Chapter Review Exercises
-
 
 In the following exercises, write as the ratio of two integers.
 
@@ -918,7 +793,7 @@ In the following exercises, write as the ratio of two integers.
 <span class="math-inline">−5</span>
 
 
-<span class="math-inline"><sup>-5</sup>∕<sub>1</sub></span>
+<span class="math-inline"><sup>-5</sup>⁄<sub>1</sub></span>
 
 
 <span class="math-inline">2.9</span>
@@ -927,7 +802,7 @@ In the following exercises, write as the ratio of two integers.
 <span class="math-inline">1.8</span>
 
 
-<span class="math-inline"><sup>18</sup>∕<sub>10</sub></span>
+<span class="math-inline"><sup>18</sup>⁄<sub>10</sub></span>
 
 
 In the following exercises, determine which of the numbers is rational.
@@ -945,10 +820,10 @@ In the following exercises, determine which of the numbers is rational.
 In the following exercises, identify whether each given number is rational or irrational.
 
 
-ⓐ <span class="math-inline">√{49}</span> ⓑ <span class="math-inline">√{55}</span>
+ⓐ <span class="math-inline">√49</span> ⓑ <span class="math-inline">√55</span>
 
 
-ⓐ <span class="math-inline">√{72}</span> ⓑ <span class="math-inline">√{64}</span>
+ⓐ <span class="math-inline">√72</span> ⓑ <span class="math-inline">√64</span>
 
 
   - ⓐ irrational
@@ -957,17 +832,17 @@ In the following exercises, identify whether each given number is rational or ir
 In the following exercises, list the ⓐ whole numbers, ⓑ integers, ⓒ rational numbers, ⓓ irrational numbers, ⓔ real numbers for each set of numbers.
 
 
-<span class="math-inline">−9,0,0.361....,<sup>8</sup>∕<sub>9</sub>,√{16},9</span>
+<span class="math-inline">−9,0,0.361....,<sup>8</sup>⁄<sub>9</sub>,√16,9</span>
 
 
-<span class="math-inline">−5, -2<sup>1</sup>∕<sub>4</sub>, -√{4}, 0.25<sup>—</sup>, <sup>13</sup>∕<sub>5</sub>, 4</span>
+<span class="math-inline">−5, -2<sup>1</sup>⁄<sub>4</sub>, -√4, 0.25<sup>—</sup>, <sup>13</sup>⁄<sub>5</sub>, 4</span>
 
 
   - ⓐ <span class="math-inline">4</span>
-  - ⓑ <span class="math-inline">-5, -√{4}, 4</span>
-  - ⓒ <span class="math-inline">-5, -2<sup>1</sup>∕<sub>4</sub>, -√{4}, 0.25<sup>—</sup>, <sup>13</sup>∕<sub>5</sub>, 4</span>
+  - ⓑ <span class="math-inline">-5, -√4, 4</span>
+  - ⓒ <span class="math-inline">-5, -2<sup>1</sup>⁄<sub>4</sub>, -√4, 0.25<sup>—</sup>, <sup>13</sup>⁄<sub>5</sub>, 4</span>
   - ⓓ none
-  - ⓔ <span class="math-inline">-5, -2<sup>1</sup>∕<sub>4</sub>,-√{4},0.25<sup>—</sup>, <sup>13</sup>∕<sub>5</sub>, 4</span>
+  - ⓔ <span class="math-inline">-5, -2<sup>1</sup>⁄<sub>4</sub>,-√4,0.25<sup>—</sup>, <sup>13</sup>⁄<sub>5</sub>, 4</span>
 
 In the following exercises, use the commutative property to rewrite the given expression.
 
@@ -1005,21 +880,21 @@ In the following exercises, use the associative property to rewrite the given ex
 <span class="math-inline">(4+9x)+x=_____</span>
 
 
-<span class="math-inline"><sup>1</sup>∕<sub>2</sub>(22y)=_____</span>
+<span class="math-inline"><sup>1</sup>⁄<sub>2</sub>(22y)=_____</span>
 
 
-<span class="math-inline"><sup>1</sup>∕<sub>2</sub>(22y)=(<sup>1</sup>∕<sub>2</sub>· 22)y</span>
+<span class="math-inline"><sup>1</sup>⁄<sub>2</sub>(22y)=(<sup>1</sup>⁄<sub>2</sub>· 22)y</span>
 
 
 In the following exercises, evaluate each expression for the given value.
 
 
-If <span class="math-inline">y=<sup>11</sup>∕<sub>12</sub>,</span> evaluate:
+If <span class="math-inline">y=<sup>11</sup>⁄<sub>12</sub>,</span> evaluate:
 ⓐ <span class="math-inline">y+0.7+(-y)</span>
 ⓑ <span class="math-inline">y+(-y)+0.7</span>
 
 
-If <span class="math-inline">z=-<sup>5</sup>∕<sub>3</sub>,</span> evaluate:
+If <span class="math-inline">z=-<sup>5</sup>⁄<sub>3</sub>,</span> evaluate:
  ⓐ <span class="math-inline">z+5.39+(-z)</span>
 ⓑ <span class="math-inline">z+(-z)+5.39</span>
 
@@ -1029,13 +904,13 @@ If <span class="math-inline">z=-<sup>5</sup>∕<sub>3</sub>,</span> evaluate:
 
 
 If <span class="math-inline">k=65,</span> evaluate:
-ⓐ <span class="math-inline"><sup>4</sup>∕<sub>9</sub>(<sup>9</sup>∕<sub>4</sub>k)</span>
-ⓑ <span class="math-inline">(<sup>4</sup>∕<sub>9</sub>· <sup>9</sup>∕<sub>4</sub>)k</span>
+ⓐ <span class="math-inline"><sup>4</sup>⁄<sub>9</sub>(<sup>9</sup>⁄<sub>4</sub>k)</span>
+ⓑ <span class="math-inline">(<sup>4</sup>⁄<sub>9</sub>· <sup>9</sup>⁄<sub>4</sub>)k</span>
 
 
 If <span class="math-inline">m=−13,</span> evaluate:
-ⓐ <span class="math-inline">-<sup>2</sup>∕<sub>5</sub>(<sup>5</sup>∕<sub>2</sub>m)</span>
-ⓑ <span class="math-inline">(-<sup>2</sup>∕<sub>5</sub>· <sup>5</sup>∕<sub>2</sub>)m</span>
+ⓐ <span class="math-inline">-<sup>2</sup>⁄<sub>5</sub>(<sup>5</sup>⁄<sub>2</sub>m)</span>
+ⓑ <span class="math-inline">(-<sup>2</sup>⁄<sub>5</sub>· <sup>5</sup>⁄<sub>2</sub>)m</span>
 
 
   - ⓐ 13
@@ -1047,22 +922,22 @@ In the following exercises, simplify using the commutative and associative prope
 <span class="math-inline">6y+37+(−6y)</span>
 
 
-<span class="math-inline"><sup>1</sup>∕<sub>4</sub>+<sup>11</sup>∕<sub>15</sub>+(-<sup>1</sup>∕<sub>4</sub>)</span>
+<span class="math-inline"><sup>1</sup>⁄<sub>4</sub>+<sup>11</sup>⁄<sub>15</sub>+(-<sup>1</sup>⁄<sub>4</sub>)</span>
 
 
-<span class="math-inline"><sup>11</sup>∕<sub>15</sub></span>
+<span class="math-inline"><sup>11</sup>⁄<sub>15</sub></span>
 
 
-<span class="math-inline"><sup>14</sup>∕<sub>11</sub>· <sup>35</sup>∕<sub>9</sub>· <sup>11</sup>∕<sub>14</sub></span>
+<span class="math-inline"><sup>14</sup>⁄<sub>11</sub>· <sup>35</sup>⁄<sub>9</sub>· <sup>11</sup>⁄<sub>14</sub></span>
 
 
-<span class="math-inline">−18· 15· <sup>2</sup>∕<sub>9</sub></span>
+<span class="math-inline">−18· 15· <sup>2</sup>⁄<sub>9</sub></span>
 
 
 −60
 
 
-<span class="math-inline">(<sup>7</sup>∕<sub>12</sub>+<sup>4</sup>∕<sub>5</sub>)+<sup>1</sup>∕<sub>5</sub></span>
+<span class="math-inline">(<sup>7</sup>⁄<sub>12</sub>+<sup>4</sup>⁄<sub>5</sub>)+<sup>1</sup>⁄<sub>5</sub></span>
 
 
 <span class="math-inline">(3.98d+0.75d)+1.25d</span>
@@ -1074,7 +949,7 @@ In the following exercises, simplify using the commutative and associative prope
 <span class="math-inline">−12(4m)</span>
 
 
-<span class="math-inline">30(<sup>5</sup>∕<sub>6</sub>q)</span>
+<span class="math-inline">30(<sup>5</sup>⁄<sub>6</sub>q)</span>
 
 
 25 *q*
@@ -1110,7 +985,7 @@ In the following exercises, simplify using the distributive property.
 56*a* + 96
 
 
-<span class="math-inline"><sup>1</sup>∕<sub>3</sub>(15n-6)</span>
+<span class="math-inline"><sup>1</sup>⁄<sub>3</sub>(15n-6)</span>
 
 
 <span class="math-inline">(y+10)· p</span>
@@ -1136,9 +1011,9 @@ If <span class="math-inline">u=2,</span> evaluate
 ⓑ <span class="math-inline">3· 8u+3· 9</span> to show that <span class="math-inline">3(8u+9)=3· 8u+3· 9</span>
 
 
-If <span class="math-inline">n=<sup>7</sup>∕<sub>8</sub>,</span> evaluate
-ⓐ <span class="math-inline">8(n+<sup>1</sup>∕<sub>4</sub>)</span> and
-ⓑ <span class="math-inline">8· n+8· <sup>1</sup>∕<sub>4</sub></span> to show that <span class="math-inline">8(n+<sup>1</sup>∕<sub>4</sub>)=8· n+8· <sup>1</sup>∕<sub>4</sub></span>
+If <span class="math-inline">n=<sup>7</sup>⁄<sub>8</sub>,</span> evaluate
+ⓐ <span class="math-inline">8(n+<sup>1</sup>⁄<sub>4</sub>)</span> and
+ⓑ <span class="math-inline">8· n+8· <sup>1</sup>⁄<sub>4</sub></span> to show that <span class="math-inline">8(n+<sup>1</sup>⁄<sub>4</sub>)=8· n+8· <sup>1</sup>⁄<sub>4</sub></span>
 
 
   - ⓐ 9
@@ -1191,34 +1066,34 @@ In the following exercises, find the additive inverse.
 −19.4
 
 
-<span class="math-inline"><sup>3</sup>∕<sub>5</sub></span>
+<span class="math-inline"><sup>3</sup>⁄<sub>5</sub></span>
 
 
-<span class="math-inline">-<sup>7</sup>∕<sub>15</sub></span>
+<span class="math-inline">-<sup>7</sup>⁄<sub>15</sub></span>
 
 
-<span class="math-inline"><sup>7</sup>∕<sub>15</sub></span>
+<span class="math-inline"><sup>7</sup>⁄<sub>15</sub></span>
 
 
 In the following exercises, find the multiplicative inverse.
 
 
-<span class="math-inline"><sup>9</sup>∕<sub>2</sub></span>
+<span class="math-inline"><sup>9</sup>⁄<sub>2</sub></span>
 
 
 <span class="math-inline">−5</span>
 
 
-<span class="math-inline">-<sup>1</sup>∕<sub>5</sub></span>
+<span class="math-inline">-<sup>1</sup>⁄<sub>5</sub></span>
 
 
-<span class="math-inline"><sup>1</sup>∕<sub>10</sub></span>
+<span class="math-inline"><sup>1</sup>⁄<sub>10</sub></span>
 
 
-<span class="math-inline">-<sup>4</sup>∕<sub>9</sub></span>
+<span class="math-inline">-<sup>4</sup>⁄<sub>9</sub></span>
 
 
-<span class="math-inline">-<sup>9</sup>∕<sub>4</sub></span>
+<span class="math-inline">-<sup>9</sup>⁄<sub>4</sub></span>
 
 
 In the following exercises, simplify.
@@ -1227,16 +1102,16 @@ In the following exercises, simplify.
 <span class="math-inline">83· 0</span>
 
 
-<span class="math-inline"><sup>0</sup>∕<sub>9</sub></span>
+<span class="math-inline"><sup>0</sup>⁄<sub>9</sub></span>
 
 
 0
 
 
-<span class="math-inline"><sup>5</sup>∕<sub>0</sub></span>
+<span class="math-inline"><sup>5</sup>⁄<sub>0</sub></span>
 
 
-<span class="math-inline">0÷ <sup>2</sup>∕<sub>3</sub></span>
+<span class="math-inline">0÷ <sup>2</sup>⁄<sub>3</sub></span>
 
 
 0
@@ -1251,16 +1126,16 @@ In the following exercises, simplify.
 *n* + 7
 
 
-<span class="math-inline"><sup>5</sup>∕<sub>13</sub>· 57· <sup>13</sup>∕<sub>5</sub></span>
+<span class="math-inline"><sup>5</sup>⁄<sub>13</sub>· 57· <sup>13</sup>⁄<sub>5</sub></span>
 
 
-<span class="math-inline"><sup>1</sup>∕<sub>6</sub>· 17· 12</span>
+<span class="math-inline"><sup>1</sup>⁄<sub>6</sub>· 17· 12</span>
 
 
 34
 
 
-<span class="math-inline"><sup>2</sup>∕<sub>3</sub>· 28· <sup>3</sup>∕<sub>7</sub></span>
+<span class="math-inline"><sup>2</sup>⁄<sub>3</sub>· 28· <sup>3</sup>⁄<sub>7</sub></span>
 
 
 <span class="math-inline">9(6x-11)+15</span>
@@ -1299,7 +1174,7 @@ Shamu weighs <span class="math-inline">4.5</span> tons. Convert the weight to po
 9000 pounds
 
 
-The play lasted <span class="math-inline">1<sup>3</sup>∕<sub>4</sub></span> hours. Convert the time to minutes.
+The play lasted <span class="math-inline">1<sup>3</sup>⁄<sub>4</sub></span> hours. Convert the time to minutes.
 
 
 How many tablespoons are in a quart?
@@ -1320,7 +1195,9 @@ Trinh needs <span class="math-inline">30</span> cups of paint for her class art 
 In the following exercises, solve, and state your answer in mixed units.
 
 
-John caught <span class="math-inline">4</span> lobsters. The weights of the lobsters were <span class="math-inline">1</span> pound <span class="math-inline">9</span> ounces, <span class="math-inline">1</span> pound <span class="math-inline">12</span> ounces, <span class="math-inline">4</span> pounds <span class="math-inline">2</span> ounces, and <span class="math-inline">2</span> pounds <span class="math-inline">15</span> ounces. What was the total weight of the lobsters?
+John caught <span class="math-inline">4</span> lobsters.
+The weights of the lobsters were <span class="math-inline">1</span> pound <span class="math-inline">9</span> ounces, <span class="math-inline">1</span> pound <span class="math-inline">12</span> ounces, <span class="math-inline">4</span> pounds <span class="math-inline">2</span> ounces, and <span class="math-inline">2</span> pounds <span class="math-inline">15</span> ounces.
+What was the total weight of the lobsters?
 
 
 Every day last week, Pedro recorded the amount of time he spent reading. He read for <span class="math-inline">50,25,83,45,32,60,and 135</span> minutes. How much time, in hours and minutes, did Pedro spend reading?
@@ -1459,51 +1336,3 @@ In the following exercises, convert the Celsius temperatures to degrees Fahrenhe
 
 
 75.2°F
-
-</div>
-
-</div>
-
-</div>
-
-</div>
-
-</div>
-
-</div>
-
-</div>
-
-</div>
-
-</div>
-
-</div>
-
-</div>
-
-</div>
-
-</div>
-
-</div>
-
-</div>
-
-</div>
-
-</div>
-
-</div>
-
-</div>
-
-</div>
-
-</div>
-
-</div>
-
-</div>
-
-</div>

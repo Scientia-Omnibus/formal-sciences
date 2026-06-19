@@ -1,122 +1,62 @@
 # Math Models and Geometry
 
-<style>
-.math-inline {
-    font-style: italic;
-    padding: 2px 6px;
-    border-radius: 4px;
-    background: #f8f9fa;
-    font-family: Georgia, serif;
-}
-.math-display {
-    background: #f8f9fa;
-    border-left: 4px solid #4a90d9;
-    padding: 16px 20px;
-    margin: 16px 0;
-    border-radius: 6px;
-    font-size: 1.15em;
-    font-family: Georgia, serif;
-    text-align: center;
-    line-height: 2;
-    overflow-x: auto;
-}
-.example-box, .example {
-    background: #f0f8ff;
-    border-left: 4px solid #2e86de;
-    padding: 12px 20px;
-    margin: 16px 0;
-    border-radius: 6px;
-}
-.tryit-box, .tryit {
-    background: #f0fff4;
-    border-left: 4px solid #27ae60;
-    padding: 12px 20px;
-    margin: 16px 0;
-    border-radius: 6px;
-}
-.solution-box, .solution {
-    background: #fef9e7;
-    border-left: 4px solid #f39c12;
-    padding: 12px 20px;
-    margin: 12px 0;
-    border-radius: 6px;
-}
-.check-box, .check {
-    background: #fef9e7;
-    border-left: 4px solid #f39c12;
-    padding: 12px 20px;
-    margin: 12px 0;
-    border-radius: 6px;
-}
-.prep-quiz {
-    background: #fff3cd;
-    border: 1px solid #ffc107;
-    padding: 12px 20px;
-    margin: 16px 0;
-    border-radius: 6px;
-}
-.def-label, .definition-label {
-    font-weight: bold;
-    font-size: 1.1em;
-    margin: 20px 0 8px 0;
-    color: #2c3e50;
-    display: block;
-}
-.math-display sup, .math-inline sup { font-size: 0.75em; line-height: 0; }
-.math-display sub, .math-inline sub { font-size: 0.75em; line-height: 0; }
-</style>
-
 
 *Note the many individual shapes in this building. (credit: Bert Kaufmann, Flickr)*
 
-We are surrounded by all sorts of geometry. Architects use geometry to design buildings. Artists create vivid images out of colorful geometric shapes. Street signs, automobiles, and product packaging all take advantage of geometric properties. In this chapter, we will begin by considering a formal approach to solving problems and use it to solve a variety of common problems, including making decisions about money. Then we will explore geometry and relate it to everyday situations, using the problem-solving strategy we develop.
+
+We are surrounded by all sorts of geometry.
+Architects use geometry to design buildings.
+Artists create vivid images out of colorful geometric shapes.
+Street signs, automobiles, and product packaging all take advantage of geometric properties.
+In this chapter, we will begin by considering a formal approach to solving problems and use it to solve a variety of common problems, including making decisions about money.
+Then we will explore geometry and relate it to everyday situations, using the problem-solving strategy we develop.
 
 
-<div class="prep-quiz">
 **Be Prepared!**
-
 
 Before you get started, take this readiness quiz.
 
 
 Translate <span class="math-inline">“6</span> less than twice <span class="math-inline">x”</span> into an algebraic expression.
 
-If you missed this problem, review .
+If you missed this problem, review
 
 
 <span class="math-inline">2x-6</span>
 
 
-<div class="prep-quiz">
 **Be Prepared!**
 
 
-Solve: <span class="math-inline"><sup>2</sup>∕<sub>3</sub>x=24.</span>
+Solve: <span class="math-inline"><sup>2</sup>⁄<sub>3</sub>x=24.</span>
 
-If you missed this problem, review .
+If you missed this problem, review
 
 
 <span class="math-inline">36</span>
 
 
-<div class="prep-quiz">
 **Be Prepared!**
 
 
 Solve: <span class="math-inline">3x+8=14.</span>
 
-If you missed this problem, review .
+If you missed this problem, review
 
 
 <span class="math-inline">2</span>
 
 
----
-
 ## Approach Word Problems with a Positive Attitude
 
 
-The world is full of word problems. How much money do I need to fill the car with gas? How much should I tip the server at a restaurant? How many socks should I pack for vacation? How big a turkey do I need to buy for Thanksgiving dinner, and what time do I need to put it in the oven? If my sister and I buy our mother a present, how much will each of us pay?
+The world is full of word problems.
+How much money do I need to fill the car with gas?
+How much should I tip the server at a restaurant?
+How many socks should I pack for vacation?
+How big a turkey do I need to buy for Thanksgiving dinner, and what time do I need to put it in the oven?
+If my sister and I buy our mother a present, how much will each of us pay?
+
 
 Now that we can solve equations, we are ready to apply our new skills to word problems. Do you know anyone who has had negative experiences in the past with word problems? Have you ever had thoughts like the student in ?
 
@@ -132,32 +72,34 @@ Start with a fresh slate and begin to think positive thoughts like the student i
 
 If we take control and believe we can be successful, we will be able to master word problems.
 
-Think of something that you can do now but couldn't do three years ago. Whether it's driving a car, snowboarding, cooking a gourmet meal, or speaking a new language, you have been able to learn and master a new skill. Word problems are no different. Even if you have struggled with word problems in the past, you have acquired many new math skills that will help you succeed now!
 
+Think of something that you can do now but couldn't do three years ago.
+Whether it's driving a car, snowboarding, cooking a gourmet meal, or speaking a new language, you have been able to learn and master a new skill.
+Word problems are no different.
+Even if you have struggled with word problems in the past, you have acquired many new math skills that will help you succeed now!
 
----
 
 ## Use a Problem-solving Strategy for Word Problems
 
-
 In earlier chapters, you translated word phrases into algebraic expressions, using some basic mathematical vocabulary and symbols. Since then you've increased your math vocabulary as you learned about more algebraic procedures, and you've had more practice translating from words into algebra.
 
-You have also translated word sentences into algebraic equations and solved some word problems. The word problems applied math to everyday situations. You had to restate the situation in one sentence, assign a variable, and then write an equation to solve. This method works as long as the situation is familiar to you and the math is not too complicated.
+
+You have also translated word sentences into algebraic equations and solved some word problems.
+The word problems applied math to everyday situations.
+You had to restate the situation in one sentence, assign a variable, and then write an equation to solve.
+This method works as long as the situation is familiar to you and the math is not too complicated.
+
 
 Now we'll develop a strategy you can use to solve any word problem. This strategy will help you become successful with word problems. We'll demonstrate the strategy as we solve the following problem.
 
 
-<div class="example">
 **Example**
 
 
 Pete bought a shirt on sale for <span class="math-inline">$18,</span> which is one-half the original price. What was the original price of the shirt?
 
 
-<div class="solution">
-**Solution**
-
-
+Solution
 Step 1. *Read* the problem. Make sure you understand all the words and ideas. You may need to read the problem two or more times. If there are words you don't understand, look them up in a dictionary or on the Internet.
   - *In this problem, do you understand what is being discussed? Do you understand every word?*
 Step 2. *Identify* what you are looking for. It's hard to find something if you are not sure what it is! Read the problem again and look for words that tell you what you are looking for!
@@ -179,13 +121,14 @@ Step 5. *Solve* the equation using good algebra techniques. Even if you know the
 Step 6. *Check* the answer in the problem and make sure it makes sense.
 
 
-  - *We found that* <span class="math-inline">p=36,</span> *which means the original price was* <span class="math-inline">$36.</span> *Does* <span class="math-inline">$36</span> *make sense in the problem? Yes, because* <span class="math-inline">18</span> *is one-half of* <span class="math-inline">36,</span> *and the shirt was on sale at half the original price.*
+  - *We found that* <span class="math-inline">p=36,</span> *which means the original price was* <span class="math-inline">$36.</span> *Does* <span class="math-inline">$36</span> *make sense in the problem?
+Yes, because* <span class="math-inline">18</span> *is one-half of* <span class="math-inline">36,</span> *and the shirt was on sale at half the original price.*
+
 Step 7. *Answer* the question with a complete sentence.
   - *The problem asked “What was the original price of the shirt?” The answer to the question is: “The original price of the shirt was* <span class="math-inline">$36.”</span>
 If this were a homework exercise, our work might look like this:
 
 
-<div class="tryit">
 **Try It**
 
 
@@ -195,7 +138,6 @@ Joaquin bought a bookcase on sale for <span class="math-inline">$120,</span> whi
 $180
 
 
-<div class="tryit">
 **Try It**
 
 
@@ -208,8 +150,7 @@ Two-fifths of the people in the senior center dining room are men. If there are 
 We list the steps we took to solve the previous example.
 
 
-<div class="definition-label">**Problem-Solving Strategy**</div>
-
+**Problem-Solving Strategy**
 
 - *Read* the word problem. Make sure you understand all the words and ideas. You may need to read the problem two or more times. If there are words you don't understand, look them up in a dictionary or on the internet.
 
@@ -228,15 +169,13 @@ We list the steps we took to solve the previous example.
 Let's use this approach with another example.
 
 
-<div class="example">
 **Example**
 
 
 Yash brought apples and bananas to a picnic. The number of apples was three more than twice the number of bananas. Yash brought <span class="math-inline">11</span> apples to the picnic. How many bananas did he bring?
 
 
-<div class="solution">
-**Solution**
+Solution
 
 
 Step 1. *Read* the problem.
@@ -277,7 +216,6 @@ Simplify.
  Yash brought 4 bananas to the picnic.
 
 
-<div class="tryit">
 **Try It**
 
 
@@ -287,7 +225,6 @@ Guillermo bought textbooks and notebooks at the bookstore. The number of textboo
 2
 
 
-<div class="tryit">
 **Try It**
 
 
@@ -300,15 +237,13 @@ Gerry worked Sudoku puzzles and crossword puzzles this week. The number of Sudok
 In Solve Sales Tax, Commission, and Discount Applications, we learned how to translate and solve basic percent equations and used them to solve sales tax and commission applications. In the next example, we will apply our **Problem Solving Strategy** to more applications of percent.
 
 
-<div class="example">
 **Example**
 
 
 Nga's car insurance premium increased by <span class="math-inline">$60,</span> which was <span class="math-inline">8%</span> of the original cost. What was the original cost of the premium?
 
 
-<div class="solution">
-**Solution**
+Solution
 
 
 Step 1. *Read* the problem. Remember, if there are words you don't understand, look them up.
@@ -342,7 +277,6 @@ Simplify.
  The original cost of Nga's premium was $750.
 
 
-<div class="tryit">
 **Try It**
 
 
@@ -352,7 +286,6 @@ Pilar's rent increased by <span class="math-inline">4%.</span> The increase was 
 $950
 
 
-<div class="tryit">
 **Try It**
 
 
@@ -362,23 +295,22 @@ Steve saves <span class="math-inline">12%</span> of his paycheck each month. If 
 $4,200
 
 
----
-
 ## Solve Number Problems
 
 
-Now we will translate and solve **number problems**. In number problems, you are given some clues about one or more numbers, and you use these clues to build an equation. Number problems don't usually arise on an everyday basis, but they provide a good introduction to practicing the **Problem Solving Strategy**. Remember to look for clue words such as *difference*, *of*, and *and*.
+Now we will translate and solve **number problems**.
+In number problems, you are given some clues about one or more numbers, and you use these clues to build an equation.
+Number problems don't usually arise on an everyday basis, but they provide a good introduction to practicing the **Problem Solving Strategy**.
+Remember to look for clue words such as *difference*, *of*, and *and*.
 
 
-<div class="example">
 **Example**
 
 
 The difference of a number and six is <span class="math-inline">13.</span> Find the number.
 
 
-<div class="solution">
-**Solution**
+Solution
 
 
 Step 1. *Read* the problem. Do you understand all the words?
@@ -409,7 +341,6 @@ The difference of 19 and 6 is 13. It checks.
  The number is 19.
 
 
-<div class="tryit">
 **Try It**
 
 
@@ -419,7 +350,6 @@ The difference of a number and eight is <span class="math-inline">17.</span> Fin
 25
 
 
-<div class="tryit">
 **Try It**
 
 
@@ -429,15 +359,13 @@ The difference of a number and eleven is <span class="math-inline">−7.</span> 
 4
 
 
-<div class="example">
 **Example**
 
 
 The sum of twice a number and seven is <span class="math-inline">15.</span> Find the number.
 
 
-<div class="solution">
-**Solution**
+Solution
 
 
 Step 1. *Read* the problem.
@@ -471,7 +399,6 @@ Divide each side by 2 and simplify.
  The number is 4.
 
 
-<div class="tryit">
 **Try It**
 
 
@@ -481,7 +408,6 @@ The sum of four times a number and two is <span class="math-inline">14.</span> F
 3
 
 
-<div class="tryit">
 **Try It**
 
 
@@ -494,15 +420,13 @@ The sum of three times a number and seven is <span class="math-inline">25.</span
 Some number word problems ask you to find two or more numbers. It may be tempting to name them all with different variables, but so far we have only solved equations with one variable. We will define the numbers in terms of the same variable. Be sure to read the problem carefully to discover how all the numbers relate to each other.
 
 
-<div class="example">
 **Example**
 
 
 One number is five more than another. The sum of the numbers is twenty-one. Find the numbers.
 
 
-<div class="solution">
-**Solution**
+Solution
 
 
 Step 1. *Read* the problem.
@@ -567,7 +491,6 @@ Is the sum of the two numbers 21?
  The numbers are 8 and 13.
 
 
-<div class="tryit">
 **Try It**
 
 
@@ -577,7 +500,6 @@ One number is six more than another. The sum of the numbers is twenty-four. Find
 9, 15
 
 
-<div class="tryit">
 **Try It**
 
 
@@ -587,15 +509,13 @@ The sum of two numbers is fifty-eight. One number is four more than the other. F
 27, 31
 
 
-<div class="example">
 **Example**
 
 
 The sum of two numbers is negative fourteen. One number is four less than the other. Find the numbers.
 
 
-<div class="solution">
-**Solution**
+Solution
 
 
 Step 1. *Read* the problem.
@@ -654,7 +574,6 @@ Is their sum −14?
  The numbers are −5 and −9.
 
 
-<div class="tryit">
 **Try It**
 
 
@@ -664,7 +583,6 @@ The sum of two numbers is negative twenty-three. One number is <span class="math
 −8, −15
 
 
-<div class="tryit">
 **Try It**
 
 
@@ -674,15 +592,13 @@ The sum of two numbers is negative eighteen. One number is <span class="math-inl
 −29, 11
 
 
-<div class="example">
 **Example**
 
 
 One number is ten more than twice another. Their sum is one. Find the numbers.
 
 
-<div class="solution">
-**Solution**
+Solution
 
 
 Step 1. *Read* the problem.
@@ -735,7 +651,6 @@ Is their sum 1?
  The numbers are −3 and 4.
 
 
-<div class="tryit">
 **Try It**
 
 
@@ -745,7 +660,6 @@ One number is eight more than twice another. Their sum is negative four. Find th
 −4, 0
 
 
-<div class="tryit">
 **Try It**
 
 
@@ -777,25 +691,24 @@ Consecutive integers are integers that immediately follow each other. Some examp
 </div>
 
 
-Notice that each number is one more than the number preceding it. So if we define the first integer as <span class="math-inline">n,</span> the next consecutive integer is <span class="math-inline">n+1.</span> The one after that is one more than <span class="math-inline">n+1,</span> so it is <span class="math-inline">n+1+1,</span> or <span class="math-inline">n+2.</span>
+Notice that each number is one more than the number preceding it.
+So if we define the first integer as <span class="math-inline">n,</span> the next consecutive integer is <span class="math-inline">n+1.</span> The one after that is one more than <span class="math-inline">n+1,</span> so it is <span class="math-inline">n+1+1,</span> or <span class="math-inline">n+2.</span>
 
 
 <div class="math-display">
-n &  &  & 1st integer \\
-n &  &  & 2nd consecutive integer \\
-n &  &  & 3rd consecutive integer
+n & & & 1st integer \\
+n & & & 2nd consecutive integer \\
+n & & & 3rd consecutive integer
 </div>
 
 
-<div class="example">
 **Example**
 
 
 The sum of two consecutive integers is <span class="math-inline">47.</span> Find the numbers.
 
 
-<div class="solution">
-**Solution**
+Solution
 
 
 Step 1. *Read* the problem.
@@ -840,7 +753,6 @@ Substitute to get the second number.
  The two consecutive integers are 23 and 24.
 
 
-<div class="tryit">
 **Try It**
 
 
@@ -850,7 +762,6 @@ The sum of two consecutive integers is <span class="math-inline">95.</span> Find
 47, 48
 
 
-<div class="tryit">
 **Try It**
 
 
@@ -860,15 +771,13 @@ The sum of two consecutive integers is <span class="math-inline">−31.</span> F
 −15, −16
 
 
-<div class="example">
 **Example**
 
 
 Find three consecutive integers whose sum is <span class="math-inline">42.</span>
 
 
-<div class="solution">
-**Solution**
+Solution
 
 
 Step 1. *Read* the problem.
@@ -917,7 +826,6 @@ Substitute to get the third number.
  The three consecutive integers are 13, 14, and 15.
 
 
-<div class="tryit">
 **Try It**
 
 
@@ -927,7 +835,6 @@ Find three consecutive integers whose sum is <span class="math-inline">96.</span
 31, 32, 33
 
 
-<div class="tryit">
 **Try It**
 
 
@@ -937,10 +844,7 @@ Find three consecutive integers whose sum is <span class="math-inline">−36.</s
 −11, −12, −13
 
 
----
-
 ## Key Concepts
-
 
 - *Problem Solving Strategy*
   - Read the word problem. Make sure you understand all the words and ideas. You may need to read the problem two or more times. If there are words you don't understand, look them up in a dictionary or on the internet.
@@ -1203,139 +1107,52 @@ When you start to solve a word problem, how do you decide what to let the variab
 ⓑ If most of your checks were:
 
 
-\dotsconfidently. Congratulations! You have achieved the objectives in this section. Reflect on the study skills you used so that you can continue to use them. What did you do to become confident of your ability to do these things? Be specific.
+…confidently. Congratulations! You have achieved the objectives in this section. Reflect on the study skills you used so that you can continue to use them. What did you do to become confident of your ability to do these things? Be specific.
 
-…with some help. This must be addressed quickly because topics you do not master become potholes in your road to success. In math, every topic builds upon previous work. It is important to make sure you have a strong foundation before you move on. Whom can you ask for help? Your fellow classmates and instructor are good resources. Is there a place on campus where math tutors are available? Can your study skills be improved?
+
+…with some help.
+This must be addressed quickly because topics you do not master become potholes in your road to success.
+In math, every topic builds upon previous work.
+It is important to make sure you have a strong foundation before you move on.
+Whom can you ask for help?
+Your fellow classmates and instructor are good resources.
+Is there a place on campus where math tutors are available?
+Can your study skills be improved?
+
 
 …no—I don’t get it! This is a warning sign and you must not ignore it. You should get help right away or you will quickly be overwhelmed. See your instructor as soon as you can to discuss your situation. Together you can come up with a plan to get you the help you need.
 
 
-<div class="prep-quiz">
 **Be Prepared!**
-
 
 Before you get started, take this readiness quiz.
 
 
 Multiply: <span class="math-inline">14(0.25).</span>
 
-If you missed this problem, review .
+If you missed this problem, review
 
 
 <span class="math-inline">3.5</span>
 
 
-<div class="prep-quiz">
 **Be Prepared!**
 
 
 Simplify: <span class="math-inline">100(0.2+0.05n).</span>
 
-If you missed this problem, review .
+If you missed this problem, review
 
 
 <span class="math-inline">20+5n</span>
 
 
-<div class="prep-quiz">
 **Be Prepared!**
 
 
 Solve: <span class="math-inline">0.25x+0.10(x+4)=2.5</span>
 
-If you missed this problem, review .
+If you missed this problem, review
 
 
 <span class="math-inline">6</span>
-
-</div>
-
-</div>
-
-</div>
-
-</div>
-
-</div>
-
-</div>
-
-</div>
-
-</div>
-
-</div>
-
-</div>
-
-</div>
-
-</div>
-
-</div>
-
-</div>
-
-</div>
-
-</div>
-
-</div>
-
-</div>
-
-</div>
-
-</div>
-
-</div>
-
-</div>
-
-</div>
-
-</div>
-
-</div>
-
-</div>
-
-</div>
-
-</div>
-
-</div>
-
-</div>
-
-</div>
-
-</div>
-
-</div>
-
-</div>
-
-</div>
-
-</div>
-
-</div>
-
-</div>
-
-</div>
-
-</div>
-
-</div>
-
-</div>
-
-</div>
-
-</div>
-
-</div>
-
-</div>

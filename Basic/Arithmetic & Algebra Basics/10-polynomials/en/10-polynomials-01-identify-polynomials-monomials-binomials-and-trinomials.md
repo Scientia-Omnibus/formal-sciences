@@ -1,126 +1,56 @@
 # Polynomials
 
-<style>
-.math-inline {
-    font-style: italic;
-    padding: 2px 6px;
-    border-radius: 4px;
-    background: #f8f9fa;
-    font-family: Georgia, serif;
-}
-.math-display {
-    background: #f8f9fa;
-    border-left: 4px solid #4a90d9;
-    padding: 16px 20px;
-    margin: 16px 0;
-    border-radius: 6px;
-    font-size: 1.15em;
-    font-family: Georgia, serif;
-    text-align: center;
-    line-height: 2;
-    overflow-x: auto;
-}
-.example-box, .example {
-    background: #f0f8ff;
-    border-left: 4px solid #2e86de;
-    padding: 12px 20px;
-    margin: 16px 0;
-    border-radius: 6px;
-}
-.tryit-box, .tryit {
-    background: #f0fff4;
-    border-left: 4px solid #27ae60;
-    padding: 12px 20px;
-    margin: 16px 0;
-    border-radius: 6px;
-}
-.solution-box, .solution {
-    background: #fef9e7;
-    border-left: 4px solid #f39c12;
-    padding: 12px 20px;
-    margin: 12px 0;
-    border-radius: 6px;
-}
-.check-box, .check {
-    background: #fef9e7;
-    border-left: 4px solid #f39c12;
-    padding: 12px 20px;
-    margin: 12px 0;
-    border-radius: 6px;
-}
-.prep-quiz {
-    background: #fff3cd;
-    border: 1px solid #ffc107;
-    padding: 12px 20px;
-    margin: 16px 0;
-    border-radius: 6px;
-}
-.def-label, .definition-label {
-    font-weight: bold;
-    font-size: 1.1em;
-    margin: 20px 0 8px 0;
-    color: #2c3e50;
-    display: block;
-}
-.math-display sup, .math-inline sup { font-size: 0.75em; line-height: 0; }
-.math-display sub, .math-inline sub { font-size: 0.75em; line-height: 0; }
-</style>
-
 
 *The paths of rockets are calculated using polynomials. (credit: NASA, Public Domain)*
 
 Expressions known as polynomials are used widely in algebra. Applications of these expressions are essential to many careers, including economists, engineers, and scientists. In this chapter, we will find out what polynomials are and how to manipulate them through basic mathematical operations.
 
 
-<div class="prep-quiz">
 **Be Prepared!**
-
 
 Before you get started, take this readiness quiz.
 
 
 Simplify: <span class="math-inline">8x+3x.</span>
 
-If you missed this problem, review .
+If you missed this problem, review
 
 
 <span class="math-inline">11x</span>
 
 
-<div class="prep-quiz">
 **Be Prepared!**
 
 
 Subtract: <span class="math-inline">(5n+8)-(2n-1).</span>
 
-If you missed this problem, review .
+If you missed this problem, review
 
 
 <span class="math-inline">3n+9</span>
 
 
-<div class="prep-quiz">
 **Be Prepared!**
 
 
 Evaluate: <span class="math-inline">4y<sup>2</sup></span> when <span class="math-inline">y=5</span>
 
-If you missed this problem, review .
+If you missed this problem, review
 
 
 <span class="math-inline">100</span>
 
 
----
-
 ## Identify Polynomials, Monomials, Binomials, and Trinomials
 
 
-In Evaluate, Simplify, and Translate Expressions, you learned that a **term** is a constant or the product of a constant and one or more variables. The constant is called a coefficient. When it is of the form <span class="math-inline">ax<sup>m</sup>,</span> where <span class="math-inline">a</span> is a constant and <span class="math-inline">m</span> is a whole number, it is called a monomial. A monomial, or a sum and/or difference of monomials, is called a polynomial.
+In Evaluate, Simplify, and Translate Expressions, you learned that a **term** is a constant or the product of a constant and one or more variables.
+The constant is called a coefficient.
+When it is of the form <span class="math-inline">ax<sup>m</sup>,</span> where <span class="math-inline">a</span> is a constant and <span class="math-inline">m</span> is a whole number, it is called a monomial.
+A monomial, or a sum and/or difference of monomials, is called a polynomial.
 
 
-<div class="definition-label">**Polynomials**</div>
-
+**Polynomials**
 
 **polynomial**—A monomial, or two or more monomials, combined by addition or subtraction
 
@@ -146,7 +76,6 @@ Here are some examples of polynomials:
 Notice that every monomial, binomial, and trinomial is also a polynomial. They are special members of the family of polynomials and so they have special names. We use the words ‘monomial’, ‘binomial’, and  ‘trinomial’ when referring to these special polynomials and just call all the rest ‘polynomials’.
 
 
-<div class="example">
 **Example**
 
 
@@ -159,8 +88,7 @@ Determine whether each polynomial is a monomial, binomial, trinomial, or other p
   - ⓔ <span class="math-inline">n</span>
 
 
-<div class="solution">
-**Solution**
+Solution
 
 
   	Polynomial
@@ -198,7 +126,6 @@ Determine whether each polynomial is a monomial, binomial, trinomial, or other p
     Monomial
 
 
-<div class="tryit">
 **Try It**
 
 
@@ -219,7 +146,6 @@ Determine whether each polynomial is a monomial, binomial, trinomial, or other p
   - ⓔ monomial
 
 
-<div class="tryit">
 **Try It**
 
 
@@ -239,18 +165,14 @@ Determine whether each polynomial is a monomial, binomial, trinomial, or other p
   - ⓒ monomial
 
 
----
-
 ## Determine the Degree of Polynomials
-
 
 In this section, we will work with polynomials that have only one variable in each term. The degree of a polynomial and the degree of its terms are determined by the exponents of the variable.
 
 A monomial that has no variable, just a constant, is a special case. The degree of a constant is <span class="math-inline">0</span>—it has no variable.
 
 
-<div class="definition-label">**Degree of a Polynomial**</div>
-
+**Degree of a Polynomial**
 
 The **degree of a term** is the exponent of its variable.
 
@@ -263,7 +185,6 @@ Let's see how this works by looking at several polynomials. We'll take it step b
 Remember: Any base written without an exponent has an implied exponent of <span class="math-inline">1.</span>
 
 
-<div class="example">
 **Example**
 
 
@@ -276,8 +197,7 @@ Find the degree of the following polynomials:
   - ⓔ <span class="math-inline">8x+2</span>
 
 
-<div class="solution">
-**Solution**
+Solution
 
 
 ⓐ
@@ -320,7 +240,6 @@ The highest degree of all the terms is 1.
 The degree is 1.
 
 
-<div class="tryit">
 **Try It**
 
 
@@ -340,7 +259,6 @@ Find the degree of the following polynomials:
   - ⓔ 0
 
 
-<div class="tryit">
 **Try It**
 
 
@@ -362,23 +280,18 @@ Find the degree of the following polynomials:
 Working with polynomials is easier when you list the terms in descending order of degrees. When a polynomial is written this way, it is said to be in **standard form**. Look back at the polynomials in . Notice that they are all written in standard form. Get in the habit of writing the term with the highest degree first.
 
 
----
-
 ## Add and Subtract Monomials
-
 
 In The Language of Algebra, you simplified expressions by combining like terms. Adding and subtracting monomials is the same as combining like terms. Like terms must have the same variable with the same exponent. Recall that when combining like terms only the coefficients are combined, never the exponents.
 
 
-<div class="example">
 **Example**
 
 
 Add: <span class="math-inline">17x<sup>2</sup>+6x<sup>2</sup>.</span>
 
 
-<div class="solution">
-**Solution**
+Solution
 
 
 <span class="math-inline">17x<sup>2</sup>+6x<sup>2</sup></span>
@@ -388,7 +301,6 @@ Combine like terms.
 <span class="math-inline">23x<sup>2</sup></span>
 
 
-<div class="tryit">
 **Try It**
 
 
@@ -398,7 +310,6 @@ Add: <span class="math-inline">12x<sup>2</sup>+5x<sup>2</sup>.</span>
 17*x*2
 
 
-<div class="tryit">
 **Try It**
 
 
@@ -408,15 +319,13 @@ Add: <span class="math-inline">−11y<sup>2</sup>+8y<sup>2</sup>.</span>
 −3*y*2
 
 
-<div class="example">
 **Example**
 
 
 Subtract: <span class="math-inline">11n-(−8n).</span>
 
 
-<div class="solution">
-**Solution**
+Solution
 
 
 <span class="math-inline">11n-(−8n)</span>
@@ -426,7 +335,6 @@ Combine like terms.
 <span class="math-inline">19n</span>
 
 
-<div class="tryit">
 **Try It**
 
 
@@ -436,7 +344,6 @@ Subtract: <span class="math-inline">9n-(−5n).</span>
 14*n*
 
 
-<div class="tryit">
 **Try It**
 
 
@@ -446,15 +353,13 @@ Subtract: <span class="math-inline">−7a<sup>3</sup>-(−5a<sup>3</sup>).</span
 −2*a*3
 
 
-<div class="example">
 **Example**
 
 
 Simplify: <span class="math-inline">a<sup>2</sup>+4b<sup>2</sup>-7a<sup>2</sup>.</span>
 
 
-<div class="solution">
-**Solution**
+Solution
 
 
 <span class="math-inline">a<sup>2</sup>+4b<sup>2</sup>-7a<sup>2</sup></span>
@@ -467,7 +372,6 @@ Combine like terms.
 Remember, <span class="math-inline">−6a<sup>2</sup></span> and <span class="math-inline">4b<sup>2</sup></span> are not like terms. The variables are not the same.
 
 
-<div class="tryit">
 **Try It**
 
 
@@ -477,7 +381,6 @@ Add: <span class="math-inline">3x<sup>2</sup>+3y<sup>2</sup>-5x<sup>2</sup>.</sp
 −2*x*2 + 3*y*2
 
 
-<div class="tryit">
 **Try It**
 
 
@@ -487,23 +390,18 @@ Add: <span class="math-inline">2a<sup>2</sup>+b<sup>2</sup>-4a<sup>2</sup>.</spa
 −2*a*2 + *b*2
 
 
----
-
 ## Add and Subtract Polynomials
-
 
 Adding and subtracting polynomials can be thought of as just adding and subtracting like terms. Look for like terms—those with the same variables with the same exponent. The **Commutative Property** allows us to rearrange the terms to put like terms together. It may also be helpful to underline, circle, or box like terms.
 
 
-<div class="example">
 **Example**
 
 
 Find the sum: <span class="math-inline">(4x<sup>2</sup>-5x+1)+(3x<sup>2</sup>-8x-9).</span>
 
 
-<div class="solution">
-**Solution**
+Solution
 
 
 Identify like terms.
@@ -515,7 +413,6 @@ Rearrange to get the like terms together.
 Combine like terms.
 
 
-<div class="tryit">
 **Try It**
 
 
@@ -525,7 +422,6 @@ Find the sum: <span class="math-inline">(3x<sup>2</sup>-2x+8)+(x<sup>2</sup>-6x+
 4*x*2 − 8*x* + 10
 
 
-<div class="tryit">
 **Try It**
 
 
@@ -538,15 +434,13 @@ Find the sum: <span class="math-inline">(7y<sup>2</sup>+4y-6)+(4y<sup>2</sup>+5y
 Parentheses are grouping symbols. When we add polynomials as we did in , we can rewrite the expression without parentheses and then combine like terms. But when we subtract polynomials, we must be very careful with the signs.
 
 
-<div class="example">
 **Example**
 
 
 Find the difference: <span class="math-inline">(7u<sup>2</sup>-5u+3)-(4u<sup>2</sup>-2).</span>
 
 
-<div class="solution">
-**Solution**
+Solution
 
 
 Distribute and identify like terms.
@@ -558,7 +452,6 @@ Rearrange the terms.
 Combine like terms.
 
 
-<div class="tryit">
 **Try It**
 
 
@@ -568,7 +461,6 @@ Find the difference: <span class="math-inline">(6y<sup>2</sup>+3y-1)-(3y<sup>2</
 3*y*2 + 3*y* + 3
 
 
-<div class="tryit">
 **Try It**
 
 
@@ -578,15 +470,13 @@ Find the difference: <span class="math-inline">(8u<sup>2</sup>-7u-2)-(5u<sup>2</
 3*u*2 − *u* + 2
 
 
-<div class="example">
 **Example**
 
 
 Subtract: <span class="math-inline">(m<sup>2</sup>-3m+8)</span> from <span class="math-inline">(9m<sup>2</sup>-7m+4).</span>
 
 
-<div class="solution">
-**Solution**
+Solution
 
 
 Distribute and identify like terms.
@@ -598,7 +488,6 @@ Rearrange the terms.
 Combine like terms.
 
 
-<div class="tryit">
 **Try It**
 
 
@@ -608,7 +497,6 @@ Subtract: <span class="math-inline">(4n<sup>2</sup>-7n-3)</span> from <span clas
 4*n*2 + 12*n*
 
 
-<div class="tryit">
 **Try It**
 
 
@@ -618,15 +506,11 @@ Subtract: <span class="math-inline">(a<sup>2</sup>-4a-9)</span> from <span class
 5*a*2 + 8*a* + 8
 
 
----
-
 ## Evaluate a Polynomial for a Given Value
-
 
 In The Language of Algebra we evaluated expressions. Since polynomials are expressions, we'll follow the same procedures to evaluate polynomials—substitute the given value for the variable into the polynomial, and then simplify.
 
 
-<div class="example">
 **Example**
 
 
@@ -635,8 +519,7 @@ Evaluate <span class="math-inline">3x<sup>2</sup>-9x+7</span> when
   - ⓑ <span class="math-inline">x=−1</span>
 
 
-<div class="solution">
-**Solution**
+Solution
 
 
 ⓐ <span class="math-inline">x=3</span>
@@ -683,7 +566,6 @@ Simplify.
 <span class="math-inline">19</span>
 
 
-<div class="tryit">
 **Try It**
 
 
@@ -696,7 +578,6 @@ Evaluate: <span class="math-inline">2x<sup>2</sup>+4x-3</span> when
   - ⓑ  3
 
 
-<div class="tryit">
 **Try It**
 
 
@@ -709,15 +590,13 @@ Evaluate: <span class="math-inline">7y<sup>2</sup>-y-2</span> when
   - ⓑ −2
 
 
-<div class="example">
 **Example**
 
 
 The polynomial <span class="math-inline">−16t<sup>2</sup>+300</span> gives the height of an object <span class="math-inline">t</span> seconds after it is dropped from a <span class="math-inline">300</span> foot tall bridge. Find the height after <span class="math-inline">t=3</span> seconds.
 
 
-<div class="solution">
-**Solution**
+Solution
 
 
 Substitute 3 for <span class="math-inline">t</span>
@@ -732,7 +611,6 @@ Multiply.
 Simplify.
 
 
-<div class="tryit">
 **Try It**
 
 
@@ -742,7 +620,6 @@ The polynomial <span class="math-inline">−8t<sup>2</sup>+24t+4</span> gives th
 4 feet
 
 
-<div class="tryit">
 **Try It**
 
 
@@ -752,8 +629,7 @@ The polynomial <span class="math-inline">−8t<sup>2</sup>+24t+4</span> gives th
 20 feet
 
 
-<div class="definition-label">**ACCESS ADDITIONAL ONLINE RESOURCES**</div>
-
+**ACCESS ADDITIONAL ONLINE RESOURCES**
 
 - Adding Polynomials
 
@@ -1031,7 +907,7 @@ A manufacturer of microwave ovens has found that the revenue received from selli
 ### Everyday Math
 
 
-*Fuel Efficiency* The fuel efficiency (in miles per gallon) of a bus going at a speed of <span class="math-inline">x</span> miles per hour is given by the polynomial <span class="math-inline">-<sup>1</sup>∕<sub>160</sub> x<sup>2</sup>+<sup>1</sup>∕<sub>2</sub> x.</span> Find the fuel efficiency when <span class="math-inline">x=40 mph.</span>
+*Fuel Efficiency* The fuel efficiency (in miles per gallon) of a bus going at a speed of <span class="math-inline">x</span> miles per hour is given by the polynomial <span class="math-inline">-<sup>1</sup>⁄<sub>160</sub> x<sup>2</sup>+<sup>1</sup>⁄<sub>2</sub> x.</span> Find the fuel efficiency when <span class="math-inline">x=40 mph.</span>
 
 
 10 mpg
@@ -1062,48 +938,52 @@ Eloise thinks the sum <span class="math-inline">5x<sup>2</sup>+3x<sup>4</sup></s
 
 …confidently. Congratulations! You have achieved the objectives in this section. Reflect on the study skills you used so that you can continue to use them. What did you do to become confident of your ability to do these things? Be specific.
 
-…with some help. This must be addressed quickly because topics you do not master become potholes in your road to success. In math, every topic builds upon previous work. It is important to make sure you have a strong foundation before you move on. Whom can you ask for help? Your fellow classmates and instructor are good resources. Is there a place on campus where math tutors are available? Can your study skills be improved?
+
+…with some help.
+This must be addressed quickly because topics you do not master become potholes in your road to success.
+In math, every topic builds upon previous work.
+It is important to make sure you have a strong foundation before you move on.
+Whom can you ask for help?
+Your fellow classmates and instructor are good resources.
+Is there a place on campus where math tutors are available?
+Can your study skills be improved?
+
 
 …no—I don’t get it! This is a warning sign and you must not ignore it. You should get help right away or you will quickly be overwhelmed. See your instructor as soon as you can to discuss your situation. Together you can come up with a plan to get you the help you need.
 
 
-<div class="prep-quiz">
 **Be Prepared!**
-
 
 Before you get started, take this readiness quiz.
 
 
-Simplify: <span class="math-inline"><sup>3</sup>∕<sub>4</sub>· <sup>3</sup>∕<sub>4</sub>.</span>
+Simplify: <span class="math-inline"><sup>3</sup>⁄<sub>4</sub>· <sup>3</sup>⁄<sub>4</sub>.</span>
 
-If you missed the problem, review .
-
-
-<span class="math-inline"><sup>9</sup>∕<sub>16</sub></span>
+If you missed the problem, review
 
 
-<div class="prep-quiz">
+<span class="math-inline"><sup>9</sup>⁄<sub>16</sub></span>
+
+
 **Be Prepared!**
 
 
 Simplify: <span class="math-inline">(−2)(−2)(−2).</span>
 
-If you missed the problem, review .
+If you missed the problem, review
 
 
 <span class="math-inline">-8</span>
 
 
----
-
 ## Simplify Expressions with Exponents
 
 
-Remember that an exponent indicates repeated multiplication of the same quantity. For example, <span class="math-inline">2<sup>4</sup></span> means to multiply four factors of <span class="math-inline">2,</span> so <span class="math-inline">2<sup>4</sup></span> means <span class="math-inline">2· 2· 2· 2.</span> This format is known as **exponential notation**.
+Remember that an exponent indicates repeated multiplication of the same quantity.
+For example, <span class="math-inline">2<sup>4</sup></span> means to multiply four factors of <span class="math-inline">2,</span> so <span class="math-inline">2<sup>4</sup></span> means <span class="math-inline">2· 2· 2· 2.</span> This format is known as **exponential notation**.
 
 
-<div class="definition-label">**Exponential Notation**</div>
-
+**Exponential Notation**
 
 This is read <span class="math-inline">a</span> to the <span class="math-inline">m<sup>th</sup></span> power.
 
@@ -1112,7 +992,6 @@ In the expression <span class="math-inline">a<sup>m</sup>,</span> the **exponent
 Before we begin working with variable expressions containing exponents, let’s simplify a few expressions involving only numbers.
 
 
-<div class="example">
 **Example**
 
 
@@ -1121,8 +1000,7 @@ Simplify:
   - ⓑ <span class="math-inline">9<sup>1</sup></span>
 
 
-<div class="solution">
-**Solution**
+Solution
 
 
  ⓐ
@@ -1149,7 +1027,6 @@ Simplify:
  <span class="math-inline">9</span>
 
 
-<div class="tryit">
 **Try It**
 
 
@@ -1162,7 +1039,6 @@ Simplify:
   - ⓑ 11
 
 
-<div class="tryit">
 **Try It**
 
 
@@ -1175,31 +1051,29 @@ Simplify:
   - ⓐ 21
 
 
-<div class="example">
 **Example**
 
 
 Simplify:
-  - ⓐ <span class="math-inline">(<sup>7</sup>∕<sub>8</sub>)<sup>2</sup></span>
+  - ⓐ <span class="math-inline">(<sup>7</sup>⁄<sub>8</sub>)<sup>2</sup></span>
   - ⓑ <span class="math-inline">(0.74)<sup>2</sup></span>
 
 
-<div class="solution">
-**Solution**
+Solution
 
 
  ⓐ
 
 
- <span class="math-inline">(<sup>7</sup>∕<sub>8</sub>)<sup>2</sup></span>
+ <span class="math-inline">(<sup>7</sup>⁄<sub>8</sub>)<sup>2</sup></span>
 
 
  Multiply two factors.
- <span class="math-inline">(<sup>7</sup>∕<sub>8</sub>)(<sup>7</sup>∕<sub>8</sub>)</span>
+ <span class="math-inline">(<sup>7</sup>⁄<sub>8</sub>)(<sup>7</sup>⁄<sub>8</sub>)</span>
 
 
  Simplify.
- <span class="math-inline"><sup>49</sup>∕<sub>64</sub></span>
+ <span class="math-inline"><sup>49</sup>⁄<sub>64</sub></span>
 
 
  ⓑ
@@ -1216,33 +1090,30 @@ Simplify:
  <span class="math-inline">0.5476</span>
 
 
-<div class="tryit">
 **Try It**
 
 
 Simplify:
-  - ⓐ <span class="math-inline">(<sup>5</sup>∕<sub>8</sub>)<sup>2</sup></span>
+  - ⓐ <span class="math-inline">(<sup>5</sup>⁄<sub>8</sub>)<sup>2</sup></span>
   - ⓑ <span class="math-inline">(0.67)<sup>2</sup></span>
 
 
-  - ⓐ <span class="math-inline"><sup>25</sup>∕<sub>64</sub></span>
+  - ⓐ <span class="math-inline"><sup>25</sup>⁄<sub>64</sub></span>
   - ⓑ <span class="math-inline">0.4489</span>
 
 
-<div class="tryit">
 **Try It**
 
 
 Simplify:
-  - ⓐ <span class="math-inline">(<sup>2</sup>∕<sub>5</sub>)<sup>3</sup></span>
+  - ⓐ <span class="math-inline">(<sup>2</sup>⁄<sub>5</sub>)<sup>3</sup></span>
   - ⓑ <span class="math-inline">(0.127)<sup>2</sup></span>
 
 
-  - ⓐ <span class="math-inline"><sup>8</sup>∕<sub>125</sub></span>
+  - ⓐ <span class="math-inline"><sup>8</sup>⁄<sub>125</sub></span>
   - ⓑ <span class="math-inline">0.016129</span>
 
 
-<div class="example">
 **Example**
 
 
@@ -1251,8 +1122,7 @@ Simplify:
   - ⓑ <span class="math-inline">−3<sup>4</sup></span>
 
 
-<div class="solution">
-**Solution**
+Solution
 
 
  ⓐ
@@ -1286,7 +1156,6 @@ Simplify:
 Notice the similarities and differences in parts ⓐ and ⓑ. Why are the answers different? In part ⓐ the parentheses tell us to raise the (−3) to the 4th power. In part ⓑ we raise only the 3 to the 4th power and then find the opposite.
 
 
-<div class="tryit">
 **Try It**
 
 
@@ -1300,7 +1169,6 @@ Simplify:
   - ⓑ −16
 
 
-<div class="tryit">
 **Try It**
 
 
@@ -1312,117 +1180,3 @@ Simplify:
 
   - ⓐ 64
   - ⓑ −64
-
-</div>
-
-</div>
-
-</div>
-
-</div>
-
-</div>
-
-</div>
-
-</div>
-
-</div>
-
-</div>
-
-</div>
-
-</div>
-
-</div>
-
-</div>
-
-</div>
-
-</div>
-
-</div>
-
-</div>
-
-</div>
-
-</div>
-
-</div>
-
-</div>
-
-</div>
-
-</div>
-
-</div>
-
-</div>
-
-</div>
-
-</div>
-
-</div>
-
-</div>
-
-</div>
-
-</div>
-
-</div>
-
-</div>
-
-</div>
-
-</div>
-
-</div>
-
-</div>
-
-</div>
-
-</div>
-
-</div>
-
-</div>
-
-</div>
-
-</div>
-
-</div>
-
-</div>
-
-</div>
-
-</div>
-
-</div>
-
-</div>
-
-</div>
-
-</div>
-
-</div>
-
-</div>
-
-</div>
-
-</div>
-
-</div>
-
-</div>

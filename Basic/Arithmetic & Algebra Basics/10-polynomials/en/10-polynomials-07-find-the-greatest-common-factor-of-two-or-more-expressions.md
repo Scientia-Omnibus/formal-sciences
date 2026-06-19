@@ -1,100 +1,24 @@
-<style>
-.math-inline {
-    font-style: italic;
-    padding: 2px 6px;
-    border-radius: 4px;
-    background: #f8f9fa;
-    font-family: Georgia, serif;
-}
-.math-display {
-    background: #f8f9fa;
-    border-left: 4px solid #4a90d9;
-    padding: 16px 20px;
-    margin: 16px 0;
-    border-radius: 6px;
-    font-size: 1.15em;
-    font-family: Georgia, serif;
-    text-align: center;
-    line-height: 2;
-    overflow-x: auto;
-}
-.example-box, .example {
-    background: #f0f8ff;
-    border-left: 4px solid #2e86de;
-    padding: 12px 20px;
-    margin: 16px 0;
-    border-radius: 6px;
-}
-.tryit-box, .tryit {
-    background: #f0fff4;
-    border-left: 4px solid #27ae60;
-    padding: 12px 20px;
-    margin: 16px 0;
-    border-radius: 6px;
-}
-.solution-box, .solution {
-    background: #fef9e7;
-    border-left: 4px solid #f39c12;
-    padding: 12px 20px;
-    margin: 12px 0;
-    border-radius: 6px;
-}
-.check-box, .check {
-    background: #fef9e7;
-    border-left: 4px solid #f39c12;
-    padding: 12px 20px;
-    margin: 12px 0;
-    border-radius: 6px;
-}
-.prep-quiz {
-    background: #fff3cd;
-    border: 1px solid #ffc107;
-    padding: 12px 20px;
-    margin: 16px 0;
-    border-radius: 6px;
-}
-.def-label, .definition-label {
-    font-weight: bold;
-    font-size: 1.1em;
-    margin: 20px 0 8px 0;
-    color: #2c3e50;
-    display: block;
-}
-.math-display sup, .math-inline sup { font-size: 0.75em; line-height: 0; }
-.math-display sub, .math-inline sub { font-size: 0.75em; line-height: 0; }
-</style>
-
-
----
-
-
----
-
 ## Find the Greatest Common Factor of Two or More Expressions
-
 
 Earlier we multiplied factors together to get a product. Now, we will be reversing this process; we will start with a product and then break it down into its factors. Splitting a product into factors is called factoring.
 
 In The Language of Algebra we factored numbers to find the **least common multiple** (LCM) of two or more numbers. Now we will factor expressions and find the *greatest common factor* of two or more expressions. The method we use is similar to what we used to find the LCM.
 
 
-<div class="definition-label">**Greatest Common Factor**</div>
-
+**Greatest Common Factor**
 
 The **greatest common factor** (GCF) of two or more expressions is the largest expression that is a factor of all the expressions.
 
 First we will find the greatest common factor of two numbers.
 
 
-<div class="example">
 **Example**
 
 
 Find the greatest common factor of <span class="math-inline">24</span> and <span class="math-inline">36.</span>
 
 
-<div class="solution">
-<span class="def-label">Solution</span>
+Solution
 
 
   *Step 1:* Factor each coefficient into primes. Write all variables with exponents in expanded form.
@@ -118,11 +42,10 @@ Circle the 2, 2, and 3 that are shared by both numbers.
 
 
 Notice that since the GCF is a factor of both numbers, <span class="math-inline">24</span> and <span class="math-inline">36</span> can be written as multiples of <span class="math-inline">12.</span>
-\(24 \\
-36\)
+<span class="math-inline">24 \\
+36</span>
 
 
-<div class="tryit">
 **Try It**
 
 
@@ -132,7 +55,6 @@ Find the greatest common factor: <span class="math-inline">54,36.</span>
 18
 
 
-<div class="tryit">
 **Try It**
 
 
@@ -145,8 +67,7 @@ Find the greatest common factor: <span class="math-inline">48,80.</span>
 In the previous example, we found the greatest common factor of constants. The greatest common factor of an algebraic expression can contain variables raised to powers along with coefficients. We summarize the steps we use to find the **greatest common factor**.
 
 
-<div class="definition-label">**Find the greatest common factor.**</div>
-
+**Find the greatest common factor.**
 
 - Factor each coefficient into primes. Write all variables with exponents in expanded form.
 
@@ -157,15 +78,13 @@ In the previous example, we found the greatest common factor of constants. The g
 - Multiply the factors.
 
 
-<div class="example">
 **Example**
 
 
 Find the greatest common factor of <span class="math-inline">5x and 15.</span>
 
 
-<div class="solution">
-<span class="def-label">Solution</span>
+Solution
 
 
   Factor each number into primes.
@@ -178,7 +97,6 @@ Find the greatest common factor of <span class="math-inline">5x and 15.</span>
  The GCF of 5x and 15 is 5.
 
 
-<div class="tryit">
 **Try It**
 
 
@@ -188,7 +106,6 @@ Find the greatest common factor: <span class="math-inline">7y, 14.</span>
 7
 
 
-<div class="tryit">
 **Try It**
 
 
@@ -201,15 +118,13 @@ Find the greatest common factor: <span class="math-inline">22, 11m.</span>
 In the examples so far, the greatest common factor was a constant. In the next two examples we will get variables in the greatest common factor.
 
 
-<div class="example">
 **Example**
 
 
 Find the greatest common factor of <span class="math-inline">12x<sup>2</sup></span> and <span class="math-inline">18x<sup>3</sup>.</span>
 
 
-<div class="solution">
-<span class="def-label">Solution</span>
+Solution
 
 
   Factor each coefficient into primes and write
@@ -226,7 +141,6 @@ Multiply the factors.
  <span class="math-inline">The GCF of 12x<sup>2</sup> and 18x<sup>3</sup> is 6x<sup>2</sup></span>
 
 
-<div class="tryit">
 **Try It**
 
 
@@ -236,7 +150,6 @@ Find the greatest common factor: <span class="math-inline">16x<sup>2</sup>, 24x<
 8*x*2
 
 
-<div class="tryit">
 **Try It**
 
 
@@ -246,15 +159,13 @@ Find the greatest common factor: <span class="math-inline">27y<sup>3</sup>, 18y<
 9*y*3
 
 
-<div class="example">
 **Example**
 
 
 Find the greatest common factor of <span class="math-inline">14x<sup>3</sup>, 8x<sup>2</sup>, 10x.</span>
 
 
-<div class="solution">
-<span class="def-label">Solution</span>
+Solution
 
 
   Factor each coefficient into primes and write
@@ -271,7 +182,6 @@ Multiply the factors.
  <span class="math-inline">The GCF of 14x<sup>3</sup> and 8x<sup>2</sup>, and10x is 2x</span>
 
 
-<div class="tryit">
 **Try It**
 
 
@@ -281,7 +191,6 @@ Find the greatest common factor: <span class="math-inline">21x<sup>3</sup>, 9x<s
 3*x*
 
 
-<div class="tryit">
 **Try It**
 
 
@@ -291,15 +200,12 @@ Find the greatest common factor: <span class="math-inline">25m<sup>4</sup>, 35m<
 5*m*2
 
 
----
-
-
----
-
 ## Factor the Greatest Common Factor from a Polynomial
 
 
-Just like in arithmetic, where it is sometimes useful to represent a number in factored form (for example, <span class="math-inline">12</span> as <span class="math-inline">2· 6 or 3· 4),</span> in algebra it can be useful to represent a polynomial in factored form. One way to do this is by finding the greatest common factor of all the terms. Remember that you can multiply a polynomial by a monomial as follows:
+Just like in arithmetic, where it is sometimes useful to represent a number in factored form (for example, <span class="math-inline">12</span> as <span class="math-inline">2· 6 or 3· 4),</span> in algebra it can be useful to represent a polynomial in factored form.
+One way to do this is by finding the greatest common factor of all the terms.
+Remember that you can multiply a polynomial by a monomial as follows:
 
 
 <div class="math-display">
@@ -308,12 +214,10 @@ Just like in arithmetic, where it is sometimes useful to represent a number in f
 2 & + & 14
 </div>
 
-
 Here, we will start with a product, like <span class="math-inline">2x+14,</span> and end with its factors, <span class="math-inline">2(x+7).</span> To do this we apply the **Distributive Property** “in reverse”.
 
 
-<div class="definition-label">**Distributive Property**</div>
-
+**Distributive Property**
 
 If <span class="math-inline">a, b, c</span> are real numbers, then
 
@@ -322,21 +226,18 @@ If <span class="math-inline">a, b, c</span> are real numbers, then
 a(b+c)=ab+ac and ab+ac=a(b+c)
 </div>
 
-
 The form on the left is used to multiply. The form on the right is used to factor.
 
 So how do we use the Distributive Property to factor a polynomial? We find the GCF of all the terms and write the polynomial as a product!
 
 
-<div class="example">
 **Example**
 
 
 Factor: <span class="math-inline">2x+14.</span>
 
 
-<div class="solution">
-<span class="def-label">Solution</span>
+Solution
 
 
   *Step 1:* Find the GCF of all the terms of the polynomial.
@@ -356,12 +257,9 @@ Factor: <span class="math-inline">2x+14.</span>
 
  *Step 4:* Check by multiplying the factors.
 
-
-<div class="check">
-<span class="def-label">Check</span>
+ Check:
 
 
-<div class="tryit">
 **Try It**
 
 
@@ -371,7 +269,6 @@ Factor: <span class="math-inline">4x+12.</span>
 4(*x* + 3)
 
 
-<div class="tryit">
 **Try It**
 
 
@@ -385,13 +282,12 @@ Notice that in , we used the word *factor* as both a noun and a verb:
 
 
 <div class="math-display">
-Noun &  &  & 7 \\
-Verb &  &  & factor
+Noun & & & 7 \\
+Verb & & & factor
 </div>
 
 
-<div class="definition-label">**Factor the greatest common factor from a polynomial.**</div>
-
+**Factor the greatest common factor from a polynomial.**
 
 - Find the GCF of all the terms of the polynomial.
 
@@ -402,15 +298,13 @@ Verb &  &  & factor
 - Check by multiplying the factors.
 
 
-<div class="example">
 **Example**
 
 
 Factor: <span class="math-inline">3a+3.</span>
 
 
-<div class="solution">
-<span class="def-label">Solution</span>
+Solution
 
 
   Rewrite each term as a product using the GCF.
@@ -419,11 +313,9 @@ Factor: <span class="math-inline">3a+3.</span>
   Use the Distributive Property 'in reverse' to factor the GCF.
 
 
-<div class="check-box">
-<span class="def-label">Check by multiplying the factors to get the original polynomial.</span>
+ Check by multiplying the factors to get the original polynomial.
 
 
-<div class="tryit">
 **Try It**
 
 
@@ -433,7 +325,6 @@ Factor: <span class="math-inline">9a+9.</span>
 9(*a* + 1)
 
 
-<div class="tryit">
 **Try It**
 
 
@@ -446,15 +337,13 @@ Factor: <span class="math-inline">11x+11.</span>
 The expressions in the next example have several factors in common. Remember to write the GCF as the product of all the common factors.
 
 
-<div class="example">
 **Example**
 
 
 Factor: <span class="math-inline">12x-60.</span>
 
 
-<div class="solution">
-<span class="def-label">Solution</span>
+Solution
 
 
   Rewrite each term as a product using the GCF.
@@ -466,7 +355,6 @@ Factor: <span class="math-inline">12x-60.</span>
  Check by multiplying the factors.
 
 
-<div class="tryit">
 **Try It**
 
 
@@ -476,7 +364,6 @@ Factor: <span class="math-inline">11x-44.</span>
 11(*x* − 4)
 
 
-<div class="tryit">
 **Try It**
 
 
@@ -489,15 +376,13 @@ Factor: <span class="math-inline">13y-52.</span>
 Now we’ll factor the **greatest common factor** from a **trinomial**. We start by finding the GCF of all three terms.
 
 
-<div class="example">
 **Example**
 
 
 Factor: <span class="math-inline">3y<sup>2</sup>+6y+9.</span>
 
 
-<div class="solution">
-<span class="def-label">Solution</span>
+Solution
 
 
   Rewrite each term as a product using the GCF.
@@ -509,7 +394,6 @@ Factor: <span class="math-inline">3y<sup>2</sup>+6y+9.</span>
  Check by multiplying.
 
 
-<div class="tryit">
 **Try It**
 
 
@@ -519,7 +403,6 @@ Factor: <span class="math-inline">4y<sup>2</sup>+8y+12.</span>
 4(*y*2 + 2*y* + 3)
 
 
-<div class="tryit">
 **Try It**
 
 
@@ -532,15 +415,13 @@ Factor: <span class="math-inline">6x<sup>2</sup>+42x-12.</span>
 In the next example, we factor a variable from a **binomial**.
 
 
-<div class="example">
 **Example**
 
 
 Factor: <span class="math-inline">6x<sup>2</sup>+5x.</span>
 
 
-<div class="solution">
-<span class="def-label">Solution</span>
+Solution
 
 
   <span class="math-inline">6x<sup>2</sup>+5x</span>
@@ -564,7 +445,6 @@ Rewrite each term as a product.
 <span class="math-inline">6x<sup>2</sup>+5x✓</span>
 
 
-<div class="tryit">
 **Try It**
 
 
@@ -574,7 +454,6 @@ Factor: <span class="math-inline">9x<sup>2</sup>+7x.</span>
 *x*(9*x* + 7)
 
 
-<div class="tryit">
 **Try It**
 
 
@@ -587,15 +466,13 @@ Factor: <span class="math-inline">5a<sup>2</sup>-12a.</span>
 When there are several common factors, as we’ll see in the next two examples, good organization and neat work helps!
 
 
-<div class="example">
 **Example**
 
 
 Factor: <span class="math-inline">4x<sup>3</sup>-20x<sup>2</sup>.</span>
 
 
-<div class="solution">
-<span class="def-label">Solution</span>
+Solution
 
 
 Rewrite each term.
@@ -607,7 +484,6 @@ Rewrite each term.
  Check.
 
 
-<div class="tryit">
 **Try It**
 
 
@@ -617,7 +493,6 @@ Factor: <span class="math-inline">2x<sup>3</sup>+12x<sup>2</sup>.</span>
 2*x*2(*x* + 6)
 
 
-<div class="tryit">
 **Try It**
 
 
@@ -627,15 +502,13 @@ Factor: <span class="math-inline">6y<sup>3</sup>-15y<sup>2</sup>.</span>
 3*y*2(2*y* − 5)
 
 
-<div class="example">
 **Example**
 
 
 Factor: <span class="math-inline">21y<sup>2</sup>+35y.</span>
 
 
-<div class="solution">
-<span class="def-label">Solution</span>
+Solution
 
 
   Find the GCF of <span class="math-inline">21y<sup>2</sup></span> and <span class="math-inline">35y</span>
@@ -647,7 +520,6 @@ Rewrite each term.
   Factor the GCF.
 
 
-<div class="tryit">
 **Try It**
 
 
@@ -657,7 +529,6 @@ Factor: <span class="math-inline">18y<sup>2</sup>+63y.</span>
 9*y*(2*y* + 7)
 
 
-<div class="tryit">
 **Try It**
 
 
@@ -667,17 +538,13 @@ Factor: <span class="math-inline">32k<sup>2</sup>+56k.</span>
 8*k*(4*k* + 7)
 
 
-<div class="example">
 **Example**
 
 
 Factor: <span class="math-inline">14x<sup>3</sup>+8x<sup>2</sup>-10x.</span>
 
 
-<div class="solution">
-<span class="def-label">Solution</span>
-
-
+Solution
 Previously, we found the GCF of <span class="math-inline">14x<sup>3</sup>, 8x<sup>2</sup>, and 10x</span> to be <span class="math-inline">2x.</span>
 
 
@@ -691,7 +558,6 @@ Factor the GCF.
 <span class="math-inline">2x(7x<sup>2</sup>+4x-5)</span>
 
 
-<div class="tryit">
 **Try It**
 
 
@@ -701,7 +567,6 @@ Factor: <span class="math-inline">18y<sup>3</sup>-6y<sup>2</sup>-24y.</span>
 6*y*(3*y*2 − *y* − 4)
 
 
-<div class="tryit">
 **Try It**
 
 
@@ -714,15 +579,13 @@ Factor: <span class="math-inline">16x<sup>3</sup>+8x<sup>2</sup>-12x.</span>
 When the **leading coefficient**, the coefficient of the first term, is negative, we factor the negative out as part of the GCF.
 
 
-<div class="example">
 **Example**
 
 
 Factor: <span class="math-inline">−9y-27.</span>
 
 
-<div class="solution">
-<span class="def-label">Solution</span>
+Solution
 
 
   When the leading coefficient is negative, the GCF will be negative. Ignoring the signs of the terms, we first find the GCF of 9*y* and 27 is 9.
@@ -741,7 +604,6 @@ Factor the GCF.
 <span class="math-inline">-9(y+3)</span>
 
 
-<div class="tryit">
 **Try It**
 
 
@@ -751,7 +613,6 @@ Factor: <span class="math-inline">−5y-35.</span>
 −5(*y* + 7)
 
 
-<div class="tryit">
 **Try It**
 
 
@@ -764,15 +625,13 @@ Factor: <span class="math-inline">−16z-56.</span>
 Pay close attention to the signs of the terms in the next example.
 
 
-<div class="example">
 **Example**
 
 
 Factor: <span class="math-inline">−4a<sup>2</sup>+16a.</span>
 
 
-<div class="solution">
-<span class="def-label">Solution</span>
+Solution
 
 
   The leading coefficient is negative, so the GCF will be negative.
@@ -794,7 +653,6 @@ Factor the GCF.
 Check on your own by multiplying.
 
 
-<div class="tryit">
 **Try It**
 
 
@@ -804,7 +662,6 @@ Factor: <span class="math-inline">−7a<sup>2</sup>+21a.</span>
 −7*a*(*a* − 3)
 
 
-<div class="tryit">
 **Try It**
 
 
@@ -814,8 +671,7 @@ Factor: <span class="math-inline">−6x<sup>2</sup>+x.</span>
 −*x*(6*x* − 1)
 
 
-<div class="definition-label">**ACCESS ADDITIONAL ONLINE RESOURCES**</div>
-
+**ACCESS ADDITIONAL ONLINE RESOURCES**
 
 - Factor GCF
 
@@ -824,13 +680,7 @@ Factor: <span class="math-inline">−6x<sup>2</sup>+x.</span>
 - Identify GCF
 
 
----
-
-
----
-
 ## Key Concepts
-
 
 - *Find the greatest common factor.*
 
@@ -852,11 +702,6 @@ Factor: <span class="math-inline">−6x<sup>2</sup>+x.</span>
   - Use the Distributive Property ‘in reverse’ to factor the expression.
   - Check by multiplying the factors.
 
-
----
-
-
----
 
 ## Section Exercises
 
@@ -1185,7 +1030,8 @@ In the following exercises, factor the greatest common factor from each polynomi
 *Revenue* A manufacturer of microwave ovens has found that the revenue received from selling microwaves a cost of <span class="math-inline">p</span> dollars each is given by the polynomial <span class="math-inline">−5p<sup>2</sup>+150p.</span> Factor the greatest common factor from this polynomial.
 
 
-*Height of a baseball* The height of a baseball hit with velocity <span class="math-inline">80</span> feet/second at <span class="math-inline">4</span> feet above ground level is <span class="math-inline">−16t<sup>2</sup>+80t+4,</span> with <span class="math-inline">t=</span> the number of seconds since it was hit. Factor the greatest common factor from this polynomial.
+*Height of a baseball* The height of a baseball hit with velocity <span class="math-inline">80</span> feet/second at <span class="math-inline">4</span> feet above ground level is <span class="math-inline">−16t<sup>2</sup>+80t+4,</span> with <span class="math-inline">t=</span> the number of seconds since it was hit.
+Factor the greatest common factor from this polynomial.
 
 
 −4(4*t*2 − 20*t* − 1)
@@ -1197,7 +1043,8 @@ In the following exercises, factor the greatest common factor from each polynomi
 The greatest common factor of <span class="math-inline">36</span> and <span class="math-inline">60</span> is <span class="math-inline">12.</span> Explain what this means.
 
 
-    What is the GCF of <span class="math-inline">y<sup>4</sup></span>, <span class="math-inline">y<sup>5</sup></span>, and <span class="math-inline">y<sup>10</sup></span>? Write a general rule that tells how to find the GCF of <span class="math-inline">y<sup>a</sup></span>, <span class="math-inline">y<sup>b</sup></span>, and <span class="math-inline">y<sup>c</sup></span>.
+    What is the GCF of <span class="math-inline">y<sup>4</sup></span>, <span class="math-inline">y<sup>5</sup></span>, and <span class="math-inline">y<sup>10</sup></span>?
+Write a general rule that tells how to find the GCF of <span class="math-inline">y<sup>a</sup></span>, <span class="math-inline">y<sup>b</sup></span>, and <span class="math-inline">y<sup>c</sup></span>.
 
 
 Answers will vary.
@@ -1209,119 +1056,3 @@ Answers will vary.
 
 
 ⓑ Overall, after looking at the checklist, do you think you are well-prepared for the next Chapter? Why or why not?
-
-</div>
-
-</div>
-
-</div>
-
-</div>
-
-</div>
-
-</div>
-
-</div>
-
-</div>
-
-</div>
-
-</div>
-
-</div>
-
-</div>
-
-</div>
-
-</div>
-
-</div>
-
-</div>
-
-</div>
-
-</div>
-
-</div>
-
-</div>
-
-</div>
-
-</div>
-
-</div>
-
-</div>
-
-</div>
-
-</div>
-
-</div>
-
-</div>
-
-</div>
-
-</div>
-
-</div>
-
-</div>
-
-</div>
-
-</div>
-
-</div>
-
-</div>
-
-</div>
-
-</div>
-
-</div>
-
-</div>
-
-</div>
-
-</div>
-
-</div>
-
-</div>
-
-</div>
-
-</div>
-
-</div>
-
-</div>
-
-</div>
-
-</div>
-
-</div>
-
-</div>
-
-</div>
-
-</div>
-
-</div>
-
-</div>
-
-</div>
-
-</div>

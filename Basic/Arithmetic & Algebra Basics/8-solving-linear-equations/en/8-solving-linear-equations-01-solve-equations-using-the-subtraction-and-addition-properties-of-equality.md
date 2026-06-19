@@ -1,139 +1,67 @@
 # Solving Linear Equations
 
-<style>
-.math-inline {
-    font-style: italic;
-    padding: 2px 6px;
-    border-radius: 4px;
-    background: #f8f9fa;
-    font-family: Georgia, serif;
-}
-.math-display {
-    background: #f8f9fa;
-    border-left: 4px solid #4a90d9;
-    padding: 16px 20px;
-    margin: 16px 0;
-    border-radius: 6px;
-    font-size: 1.15em;
-    font-family: Georgia, serif;
-    text-align: center;
-    line-height: 2;
-    overflow-x: auto;
-}
-.example-box, .example {
-    background: #f0f8ff;
-    border-left: 4px solid #2e86de;
-    padding: 12px 20px;
-    margin: 16px 0;
-    border-radius: 6px;
-}
-.tryit-box, .tryit {
-    background: #f0fff4;
-    border-left: 4px solid #27ae60;
-    padding: 12px 20px;
-    margin: 16px 0;
-    border-radius: 6px;
-}
-.solution-box, .solution {
-    background: #fef9e7;
-    border-left: 4px solid #f39c12;
-    padding: 12px 20px;
-    margin: 12px 0;
-    border-radius: 6px;
-}
-.check-box, .check {
-    background: #fef9e7;
-    border-left: 4px solid #f39c12;
-    padding: 12px 20px;
-    margin: 12px 0;
-    border-radius: 6px;
-}
-.prep-quiz {
-    background: #fff3cd;
-    border: 1px solid #ffc107;
-    padding: 12px 20px;
-    margin: 16px 0;
-    border-radius: 6px;
-}
-.def-label, .definition-label {
-    font-weight: bold;
-    font-size: 1.1em;
-    margin: 20px 0 8px 0;
-    color: #2c3e50;
-    display: block;
-}
-.math-display sup, .math-inline sup { font-size: 0.75em; line-height: 0; }
-.math-display sub, .math-inline sub { font-size: 0.75em; line-height: 0; }
-</style>
-
 
 *A Calder mobile is balanced and has several elements on each side. (credit: paurian, Flickr)*
 
 Teetering high above the floor, this amazing mobile remains aloft thanks to its carefully balanced mass. Any shift in either direction could cause the mobile to become lopsided, or even crash downward. In this chapter, we will solve equations by keeping quantities on both sides of an equal sign in perfect balance.
 
 
-<div class="prep-quiz">
 **Be Prepared!**
-
 
 Before you get started, take this readiness quiz.
 
 
 Solve: <span class="math-inline">n-12=16.</span>
 
-If you missed this problem, review .
+If you missed this problem, review
 
 
 <span class="math-inline">28</span>
 
 
-<div class="prep-quiz">
 **Be Prepared!**
 
 
 Translate into algebra ‘five less than <span class="math-inline">x.’</span>
 
-If you missed this problem, review .
+If you missed this problem, review
 
 
 <span class="math-inline">x-5</span>
 
 
-<div class="prep-quiz">
 **Be Prepared!**
 
 
 Is <span class="math-inline">x=2</span> a solution to <span class="math-inline">5x-3=7?</span>
 
-If you missed this problem, review .
+If you missed this problem, review
 
 
 yes
 
 
-We are now ready to “get to the good stuff.” You have the basics down and are ready to begin one of the most important topics in algebra: solving equations. The applications are limitless and extend to all careers and fields. Also, the skills and techniques you learn here will help improve your critical thinking and problem-solving skills. This is a great benefit of studying mathematics and will be useful in your life in ways you may not see right now.
+We are now ready to “get to the good stuff.” You have the basics down and are ready to begin one of the most important topics in algebra: solving equations.
+The applications are limitless and extend to all careers and fields.
+Also, the skills and techniques you learn here will help improve your critical thinking and problem-solving skills.
+This is a great benefit of studying mathematics and will be useful in your life in ways you may not see right now.
 
-
----
 
 ## Solve Equations Using the Subtraction and Addition Properties of Equality
-
 
 We began our work solving equations in previous chapters. It has been a while since we have seen an **equation**, so we will review some of the key concepts before we go any further.
 
 We said that solving an equation is like discovering the answer to a puzzle. The purpose in solving an equation is to find the value or values of the **variable** that make each side of the equation the same. Any value of the variable that makes the equation true is called a solution to the equation. It is the answer to the puzzle.
 
 
-<div class="definition-label">**Solution of an Equation**</div>
-
+**Solution of an Equation**
 
 A **solution of an equation** is a value of a variable that makes a true statement when substituted into the equation.
 
 In the earlier sections, we listed the steps to determine if a value is a solution. We restate them here.
 
 
-<div class="definition-label">**Determine whether a number is a solution to an equation.**</div>
-
+**Determine whether a number is a solution to an equation.**
 
 - Substitute the number for the variable in the equation.
 
@@ -145,15 +73,13 @@ In the earlier sections, we listed the steps to determine if a value is a soluti
   - If it is not true, the number is not a solution.
 
 
-<div class="example">
 **Example**
 
 
-Determine whether <span class="math-inline">y=<sup>3</sup>∕<sub>4</sub></span> is a solution for <span class="math-inline">4y+3=8y.</span>
+Determine whether <span class="math-inline">y=<sup>3</sup>⁄<sub>4</sub></span> is a solution for <span class="math-inline">4y+3=8y.</span>
 
 
-<div class="solution">
-**Solution**
+Solution
 
 
    Multiply.
@@ -162,24 +88,22 @@ Determine whether <span class="math-inline">y=<sup>3</sup>∕<sub>4</sub></span>
    Add.
 
 
-Since <span class="math-inline">y=<sup>3</sup>∕<sub>4</sub></span> results in a true equation, <span class="math-inline"><sup>3</sup>∕<sub>4</sub></span> is a solution to the equation <span class="math-inline">4y+3=8y.</span>
+Since <span class="math-inline">y=<sup>3</sup>⁄<sub>4</sub></span> results in a true equation, <span class="math-inline"><sup>3</sup>⁄<sub>4</sub></span> is a solution to the equation <span class="math-inline">4y+3=8y.</span>
 
 
-<div class="tryit">
 **Try It**
 
 
-Is <span class="math-inline">y=<sup>2</sup>∕<sub>3</sub></span> a solution for <span class="math-inline">9y+2=6y?</span>
+Is <span class="math-inline">y=<sup>2</sup>⁄<sub>3</sub></span> a solution for <span class="math-inline">9y+2=6y?</span>
 
 
 no
 
 
-<div class="tryit">
 **Try It**
 
 
-Is <span class="math-inline">y=<sup>2</sup>∕<sub>5</sub></span> a solution for <span class="math-inline">5y-3=10y?</span>
+Is <span class="math-inline">y=<sup>2</sup>⁄<sub>5</sub></span> a solution for <span class="math-inline">5y-3=10y?</span>
 
 
 no
@@ -189,8 +113,7 @@ We introduced the Subtraction and Addition Properties of Equality in Solving Equ
 Addition Properties of Equality. In that section, we modeled how these properties work and then applied them to solving equations with whole numbers. We used these properties again each time we introduced a new system of numbers. Let’s review those properties here.
 
 
-<div class="definition-label">**Subtraction and Addition Properties of Equality**</div>
-
+**Subtraction and Addition Properties of Equality**
 
 *Subtraction Property of Equality*
 
@@ -213,17 +136,13 @@ The quantities on both sides of the equal sign in an equation are equal, or bala
 Let’s review how to use Subtraction and Addition Properties of Equality to solve equations. We need to isolate the variable on one side of the equation. And we check our solutions by substituting the value into the equation to make sure we have a true statement.
 
 
-<div class="example">
 **Example**
 
 
 Solve: <span class="math-inline">x-11=−3.</span>
 
 
-<div class="solution">
-**Solution**
-
-
+Solution
 To isolate <span class="math-inline">x,</span> we undo the addition of <span class="math-inline">11</span> by using the Subtraction Property of Equality.
 
 
@@ -233,8 +152,7 @@ To isolate <span class="math-inline">x,</span> we undo the addition of <span cla
    Simplify.
 
 
-<div class="check">
-**Check**
+   Check:
 
 
    Substitute <span class="math-inline">x=8</span>.
@@ -243,7 +161,6 @@ To isolate <span class="math-inline">x,</span> we undo the addition of <span cla
 Since <span class="math-inline">x=8</span> makes <span class="math-inline">x-11=−3</span> a true statement, we know that it is a solution to the equation.
 
 
-<div class="tryit">
 **Try It**
 
 
@@ -253,7 +170,6 @@ Solve: <span class="math-inline">x+9=−7.</span>
 *x* = −16
 
 
-<div class="tryit">
 **Try It**
 
 
@@ -266,15 +182,13 @@ Solve: <span class="math-inline">x+16=−4.</span>
 In the original equation in the previous example, <span class="math-inline">11</span> was added to the <span class="math-inline">x</span>, so we subtracted <span class="math-inline">11</span> to ‘undo’ the addition. In the next example, we will need to ‘undo’ subtraction by using the **Addition Property of Equality**.
 
 
-<div class="example">
 **Example**
 
 
 Solve: <span class="math-inline">m+4=−5.</span>
 
 
-<div class="solution">
-**Solution**
+Solution
 
 
    Subtract 4 from each side to "undo" the addition.
@@ -283,8 +197,7 @@ Solve: <span class="math-inline">m+4=−5.</span>
    Simplify.
 
 
-<div class="check">
-**Check**
+   Check:
 
 
    Substitute <span class="math-inline">m=−9</span>.
@@ -293,7 +206,6 @@ Solve: <span class="math-inline">m+4=−5.</span>
    The solution to <span class="math-inline">m-4=−5</span> is <span class="math-inline">m=−1</span>.
 
 
-<div class="tryit">
 **Try It**
 
 
@@ -303,7 +215,6 @@ Solve: <span class="math-inline">n-6=−7.</span>
 *n* = −1
 
 
-<div class="tryit">
 **Try It**
 
 
@@ -316,15 +227,13 @@ Solve: <span class="math-inline">x-5=−9.</span>
 Now let’s review solving equations with fractions.
 
 
-<div class="example">
 **Example**
 
 
-Solve: <span class="math-inline">n-<sup>3</sup>∕<sub>8</sub>=<sup>1</sup>∕<sub>2</sub>.</span>
+Solve: <span class="math-inline">n-<sup>3</sup>⁄<sub>8</sub>=<sup>1</sup>⁄<sub>2</sub>.</span>
 
 
-<div class="solution">
-**Solution**
+Solution
 
 
    Use the Addition Property of Equality.
@@ -336,8 +245,7 @@ Solve: <span class="math-inline">n-<sup>3</sup>∕<sub>8</sub>=<sup>1</sup>∕<s
    Simplify
 
 
-<div class="check">
-**Check**
+   Check:
 
 
    Subtract.
@@ -349,38 +257,34 @@ Solve: <span class="math-inline">n-<sup>3</sup>∕<sub>8</sub>=<sup>1</sup>∕<s
    The solution checks.
 
 
-<div class="tryit">
 **Try It**
 
 
-Solve: <span class="math-inline">p-<sup>1</sup>∕<sub>3</sub>=<sup>5</sup>∕<sub>6</sub>.</span>
+Solve: <span class="math-inline">p-<sup>1</sup>⁄<sub>3</sub>=<sup>5</sup>⁄<sub>6</sub>.</span>
 
 
-<span class="math-inline">p=<sup>7</sup>∕<sub>6</sub></span>
+<span class="math-inline">p=<sup>7</sup>⁄<sub>6</sub></span>
 
 
-<div class="tryit">
 **Try It**
 
 
-Solve: <span class="math-inline">q-<sup>1</sup>∕<sub>2</sub>=<sup>1</sup>∕<sub>6</sub>.</span>
+Solve: <span class="math-inline">q-<sup>1</sup>⁄<sub>2</sub>=<sup>1</sup>⁄<sub>6</sub>.</span>
 
 
-<span class="math-inline">q=<sup>2</sup>∕<sub>3</sub></span>
+<span class="math-inline">q=<sup>2</sup>⁄<sub>3</sub></span>
 
 
 In Solve Equations with Decimals, we solved equations that contained decimals. We’ll review this next.
 
 
-<div class="example">
 **Example**
 
 
 Solve <span class="math-inline">a-3.7=4.3.</span>
 
 
-<div class="solution">
-**Solution**
+Solution
 
 
    Use the Addition Property of Equality.
@@ -389,8 +293,7 @@ Solve <span class="math-inline">a-3.7=4.3.</span>
    Add.
 
 
-<div class="check">
-**Check**
+   Check:
 
 
    Substitute <span class="math-inline">a=8</span>.
@@ -402,7 +305,6 @@ Solve <span class="math-inline">a-3.7=4.3.</span>
    The solution checks.
 
 
-<div class="tryit">
 **Try It**
 
 
@@ -412,7 +314,6 @@ Solve: <span class="math-inline">b-2.8=3.6.</span>
 *b* = 6.4
 
 
-<div class="tryit">
 **Try It**
 
 
@@ -422,25 +323,22 @@ Solve: <span class="math-inline">c-6.9=7.1.</span>
 *c* = 14
 
 
----
-
 ## Solve Equations That Need to Be Simplified
 
 
-In the examples up to this point, we have been able to isolate the variable with just one operation. Many of the equations we encounter in algebra will take more steps to solve. Usually, we will need to simplify one or both sides of an equation before using the Subtraction or Addition Properties of Equality. You should always simplify as much as possible before trying to isolate the variable.
+In the examples up to this point, we have been able to isolate the variable with just one operation.
+Many of the equations we encounter in algebra will take more steps to solve.
+Usually, we will need to simplify one or both sides of an equation before using the Subtraction or Addition Properties of Equality.
+You should always simplify as much as possible before trying to isolate the variable.
 
 
-<div class="example">
 **Example**
 
 
 Solve: <span class="math-inline">3x-7-2x-4=1.</span>
 
 
-<div class="solution">
-**Solution**
-
-
+Solution
 The left side of the equation has an expression that we should simplify before trying to isolate the variable.
 
 
@@ -463,7 +361,6 @@ The left side of the equation has an expression that we should simplify before t
 The solution checks.
 
 
-<div class="tryit">
 **Try It**
 
 
@@ -473,7 +370,6 @@ Solve: <span class="math-inline">8y-4-7y-7=4.</span>
 *y* = 15
 
 
-<div class="tryit">
 **Try It**
 
 
@@ -483,17 +379,13 @@ Solve: <span class="math-inline">6z+5-5z-4=3.</span>
 *z* = 2
 
 
-<div class="example">
 **Example**
 
 
 Solve: <span class="math-inline">3(n-4)-2n=−3.</span>
 
 
-<div class="solution">
-**Solution**
-
-
+Solution
 The left side of the equation has an expression that we should simplify.
 
 
@@ -519,7 +411,6 @@ Substitute <span class="math-inline">n=9</span> into the original equation.
  The solution checks.
 
 
-<div class="tryit">
 **Try It**
 
 
@@ -529,7 +420,6 @@ Solve: <span class="math-inline">5(p-3)-4p=−10.</span>
 *p* = 5
 
 
-<div class="tryit">
 **Try It**
 
 
@@ -539,17 +429,13 @@ Solve: <span class="math-inline">4(q+2)-3q=−8.</span>
 *q* = −16
 
 
-<div class="example">
 **Example**
 
 
 Solve: <span class="math-inline">2(3k-1)-5k=−2-7.</span>
 
 
-<div class="solution">
-**Solution**
-
-
+Solution
 Both sides of the equation have expressions that we should simplify before we isolate the variable.
 
 
@@ -575,7 +461,6 @@ Let <span class="math-inline">k=−7.</span>
 The solution checks.
 
 
-<div class="tryit">
 **Try It**
 
 
@@ -585,7 +470,6 @@ Solve: <span class="math-inline">4(2h-3)-7h=−6-7.</span>
 *h* = −1
 
 
-<div class="tryit">
 **Try It**
 
 
@@ -595,10 +479,7 @@ Solve: <span class="math-inline">2(5x+2)-9x=−2+7.</span>
 *x* = 1
 
 
----
-
 ## Translate an Equation and Solve
-
 
 In previous chapters, we translated word sentences into equations. The first step is to look for the word (or words) that translate(s) to the equal sign.  reminds us of some of the words that translate to the equal sign.
 
@@ -606,8 +487,7 @@ In previous chapters, we translated word sentences into equations. The first ste
 Let’s review the steps we used to translate a sentence into an equation.
 
 
-<div class="definition-label">**Translate a word sentence to an algebraic equation.**</div>
-
+**Translate a word sentence to an algebraic equation.**
 
 - Locate the "equals" word(s). Translate to an equal sign.
 
@@ -618,15 +498,13 @@ Let’s review the steps we used to translate a sentence into an equation.
 Now we are ready to try an example.
 
 
-<div class="example">
 **Example**
 
 
 Translate and solve: five more than <span class="math-inline">x</span> is equal to <span class="math-inline">26.</span>
 
 
-<div class="solution">
-**Solution**
+Solution
 
 
    Translate.
@@ -638,17 +516,13 @@ Translate and solve: five more than <span class="math-inline">x</span> is equal 
    Simplify.
 
 
-<div class="check">
-**Check**
-
-
+   Check:
 Is <span class="math-inline">26</span> five more than <span class="math-inline">21</span>?
 
 
 The solution checks.
 
 
-<div class="tryit">
 **Try It**
 
 
@@ -658,7 +532,6 @@ Translate and solve: Eleven more than <span class="math-inline">x</span> is equa
 *x* + 11 = 41; *x* = 30
 
 
-<div class="tryit">
 **Try It**
 
 
@@ -668,15 +541,13 @@ Translate and solve: Twelve less than <span class="math-inline">y</span> is equa
 *y* − 12 = 51; *y* = 63
 
 
-<div class="example">
 **Example**
 
 
 Translate and solve: The difference of <span class="math-inline">5p</span> and <span class="math-inline">4p</span> is <span class="math-inline">23.</span>
 
 
-<div class="solution">
-**Solution**
+Solution
 
 
    Translate.
@@ -685,14 +556,12 @@ Translate and solve: The difference of <span class="math-inline">5p</span> and <
    Simplify.
 
 
-<div class="check">
-**Check**
+   Check:
 
 
 The solution checks.
 
 
-<div class="tryit">
 **Try It**
 
 
@@ -702,7 +571,6 @@ Translate and solve: The difference of <span class="math-inline">4x</span> and <
 4*x* − 3*x* = 14; *x* = 14
 
 
-<div class="tryit">
 **Try It**
 
 
@@ -712,15 +580,15 @@ Translate and solve: The difference of <span class="math-inline">7a</span> and <
 7*a* − 6*a* = −8; *a* = −8
 
 
----
-
 ## Translate and Solve Applications
 
 
-In most of the application problems we solved earlier, we were able to find the quantity we were looking for by simplifying an algebraic expression. Now we will be using equations to solve application problems. We’ll start by restating the problem in just one sentence, assign a variable, and then translate the sentence into an equation to solve. When assigning a variable, choose a letter that reminds you of what you are looking for.
+In most of the application problems we solved earlier, we were able to find the quantity we were looking for by simplifying an algebraic expression.
+Now we will be using equations to solve application problems.
+We’ll start by restating the problem in just one sentence, assign a variable, and then translate the sentence into an equation to solve.
+When assigning a variable, choose a letter that reminds you of what you are looking for.
 
 
-<div class="example">
 **Example**
 
 
@@ -728,8 +596,7 @@ The Robles family has two dogs, Buster and Chandler. Together, they weigh <span 
 Chandler weighs <span class="math-inline">28</span> pounds. How much does Buster weigh?
 
 
-<div class="solution">
-**Solution**
+Solution
 
 
    Read the problem carefully.
@@ -771,7 +638,6 @@ Write a complete sentence that answers the question, "How much does Buster weigh
 Buster weighs 43 pounds
 
 
-<div class="tryit">
 **Try It**
 
 
@@ -781,7 +647,6 @@ Translate into an algebraic equation and solve: The Pappas family has two cats, 
 *a* + 6 = 13; Athena weighs 7 pounds.
 
 
-<div class="tryit">
 **Try It**
 
 
@@ -791,8 +656,7 @@ Translate into an algebraic equation and solve: Sam and Henry are roommates. Tog
 26 + *h* = 68; Henry has 42 books.
 
 
-<div class="definition-label">**Devise a problem-solving strategy.**</div>
-
+**Devise a problem-solving strategy.**
 
 - Read the problem. Make sure you understand all the words and ideas.
 
@@ -809,15 +673,13 @@ Translate into an algebraic equation and solve: Sam and Henry are roommates. Tog
 - Answer the question with a complete sentence.
 
 
-<div class="example">
 **Example**
 
 
 Shayla paid <span class="math-inline">$24,575</span> for her new car. This was <span class="math-inline">$875</span> less than the sticker price. What was the sticker price of the car?
 
 
-<div class="solution">
-**Solution**
+Solution
 
 
    What are you asked to find?
@@ -840,8 +702,7 @@ Shayla paid <span class="math-inline">$24,575</span> for her new car. This was <
   Solve.
 
 
-<div class="check">
-**Check**
+   Check:
 
 
    Is $875 less than $25,450 equal to $24,575?
@@ -857,7 +718,6 @@ Write a sentence that answers the question.
 The sticker price was $25,450.
 
 
-<div class="tryit">
 **Try It**
 
 
@@ -867,7 +727,6 @@ Translate into an algebraic equation and solve: Eddie paid <span class="math-inl
 19,875 = *s* − 1025; the sticker price is $20,900.
 
 
-<div class="tryit">
 **Try It**
 
 
@@ -877,8 +736,7 @@ Translate into an algebraic equation and solve: The admission price for the movi
 7.75 = *n* − 3.25; the price at night is $11.00.
 
 
-<div class="definition-label">**ACCESS ADDITIONAL ONLINE RESOURCES**</div>
-
+**ACCESS ADDITIONAL ONLINE RESOURCES**
 
 - Solving One Step Equations By Addition and Subtraction
 
@@ -887,10 +745,7 @@ Translate into an algebraic equation and solve: The admission price for the movi
 - Solve One Step Equations By Add and Subtract Whole Numbers (Variable on Right)
 
 
----
-
 ## Key Concepts
-
 
 - *Determine whether a number is a solution to an equation.*
   - Substitute the number for the variable in the equation.
@@ -931,22 +786,22 @@ if * a = b* then <span class="math-inline">a+c=b+c</span>.
 In the following exercises, determine whether the given value is a solution to the equation.
 
 
-Is <span class="math-inline">y=<sup>1</sup>∕<sub>3</sub></span> a solution of <span class="math-inline">4y+2=10y?</span>
+Is <span class="math-inline">y=<sup>1</sup>⁄<sub>3</sub></span> a solution of <span class="math-inline">4y+2=10y?</span>
 
 
 yes
 
 
-Is <span class="math-inline">x=<sup>3</sup>∕<sub>4</sub></span> a solution of <span class="math-inline">5x+3=9x?</span>
+Is <span class="math-inline">x=<sup>3</sup>⁄<sub>4</sub></span> a solution of <span class="math-inline">5x+3=9x?</span>
 
 
-Is <span class="math-inline">u=−<sup>1</sup>∕<sub>2</sub></span> a solution of <span class="math-inline">8u-1=6u?</span>
+Is <span class="math-inline">u=−<sup>1</sup>⁄<sub>2</sub></span> a solution of <span class="math-inline">8u-1=6u?</span>
 
 
 no
 
 
-Is <span class="math-inline">v=−<sup>1</sup>∕<sub>3</sub></span> a solution of <span class="math-inline">9v-2=3v?</span>
+Is <span class="math-inline">v=−<sup>1</sup>⁄<sub>3</sub></span> a solution of <span class="math-inline">9v-2=3v?</span>
 
 
 In the following exercises, solve each equation.
@@ -961,13 +816,13 @@ In the following exercises, solve each equation.
 <span class="math-inline">y+5=−6</span>
 
 
-<span class="math-inline">b+<sup>1</sup>∕<sub>4</sub>=<sup>3</sup>∕<sub>4</sub></span>
+<span class="math-inline">b+<sup>1</sup>⁄<sub>4</sub>=<sup>3</sup>⁄<sub>4</sub></span>
 
 
-<span class="math-inline">b=<sup>1</sup>∕<sub>2</sub></span>
+<span class="math-inline">b=<sup>1</sup>⁄<sub>2</sub></span>
 
 
-<span class="math-inline">a+<sup>2</sup>∕<sub>5</sub>=<sup>4</sup>∕<sub>5</sub></span>
+<span class="math-inline">a+<sup>2</sup>⁄<sub>5</sub>=<sup>4</sup>⁄<sub>5</sub></span>
 
 
 <span class="math-inline">p+2.4=−9.3</span>
@@ -988,13 +843,13 @@ In the following exercises, solve each equation.
 <span class="math-inline">m-8=−20</span>
 
 
-<span class="math-inline">x-<sup>1</sup>∕<sub>3</sub>=2</span>
+<span class="math-inline">x-<sup>1</sup>⁄<sub>3</sub>=2</span>
 
 
-<span class="math-inline">x=<sup>7</sup>∕<sub>3</sub></span>
+<span class="math-inline">x=<sup>7</sup>⁄<sub>3</sub></span>
 
 
-<span class="math-inline">x-<sup>1</sup>∕<sub>5</sub>=4</span>
+<span class="math-inline">x-<sup>1</sup>⁄<sub>5</sub>=4</span>
 
 
 <span class="math-inline">y-3.8=10</span>
@@ -1015,19 +870,19 @@ In the following exercises, solve each equation.
 <span class="math-inline">z+5.2=−8.5</span>
 
 
-<span class="math-inline">q+<sup>3</sup>∕<sub>4</sub>=<sup>1</sup>∕<sub>2</sub></span>
+<span class="math-inline">q+<sup>3</sup>⁄<sub>4</sub>=<sup>1</sup>⁄<sub>2</sub></span>
 
 
-<span class="math-inline">q=-<sup>1</sup>∕<sub>4</sub></span>
+<span class="math-inline">q=-<sup>1</sup>⁄<sub>4</sub></span>
 
 
-<span class="math-inline">p-<sup>2</sup>∕<sub>5</sub>=<sup>2</sup>∕<sub>3</sub></span>
+<span class="math-inline">p-<sup>2</sup>⁄<sub>5</sub>=<sup>2</sup>⁄<sub>3</sub></span>
 
 
-<span class="math-inline">y-<sup>3</sup>∕<sub>4</sub>=<sup>3</sup>∕<sub>5</sub></span>
+<span class="math-inline">y-<sup>3</sup>⁄<sub>4</sub>=<sup>3</sup>⁄<sub>5</sub></span>
 
 
-<span class="math-inline">y=<sup>27</sup>∕<sub>20</sub></span>
+<span class="math-inline">y=<sup>27</sup>⁄<sub>20</sub></span>
 
 
 *Solve Equations that Need to be Simplified*
@@ -1166,13 +1021,13 @@ The difference of <span class="math-inline">5c</span> and <span class="math-inli
 5*c* − 4*c* = 60; *c* = 60
 
 
-The difference of <span class="math-inline">n</span> and <span class="math-inline"><sup>1</sup>∕<sub>6</sub></span> is <span class="math-inline"><sup>1</sup>∕<sub>2</sub>.</span>
+The difference of <span class="math-inline">n</span> and <span class="math-inline"><sup>1</sup>⁄<sub>6</sub></span> is <span class="math-inline"><sup>1</sup>⁄<sub>2</sub>.</span>
 
 
-The difference of <span class="math-inline">f</span> and <span class="math-inline"><sup>1</sup>∕<sub>3</sub></span> is <span class="math-inline"><sup>1</sup>∕<sub>12</sub>.</span>
+The difference of <span class="math-inline">f</span> and <span class="math-inline"><sup>1</sup>⁄<sub>3</sub></span> is <span class="math-inline"><sup>1</sup>⁄<sub>12</sub>.</span>
 
 
-<span class="math-inline">f-<sup>1</sup>∕<sub>3</sub>=<sup>1</sup>∕<sub>12</sub>; f=<sup>5</sup>∕<sub>12</sub></span>
+<span class="math-inline">f-<sup>1</sup>⁄<sub>3</sub>=<sup>1</sup>⁄<sub>12</sub>; f=<sup>5</sup>⁄<sub>12</sub></span>
 
 
 The sum of <span class="math-inline">−4n</span> and <span class="math-inline">5n</span> is <span class="math-inline">−32.</span>
@@ -1237,13 +1092,19 @@ $121.19
 ### Everyday Math
 
 
-*Baking* Kelsey needs <span class="math-inline"><sup>2</sup>∕<sub>3</sub></span> cup of sugar for the cookie recipe she wants to make. She only has <span class="math-inline"><sup>1</sup>∕<sub>4</sub></span> cup of sugar and will borrow the rest from her neighbor. Let <span class="math-inline">s</span> equal the amount of sugar she will borrow. Solve the equation <span class="math-inline"><sup>1</sup>∕<sub>4</sub>+s=<sup>2</sup>∕<sub>3</sub></span> to find the amount of sugar she should ask to borrow.
+*Baking* Kelsey needs <span class="math-inline"><sup>2</sup>⁄<sub>3</sub></span> cup of sugar for the cookie recipe she wants to make.
+She only has <span class="math-inline"><sup>1</sup>⁄<sub>4</sub></span> cup of sugar and will borrow the rest from her neighbor.
+Let <span class="math-inline">s</span> equal the amount of sugar she will borrow.
+Solve the equation <span class="math-inline"><sup>1</sup>⁄<sub>4</sub>+s=<sup>2</sup>⁄<sub>3</sub></span> to find the amount of sugar she should ask to borrow.
 
 
-*Construction* Miguel wants to drill a hole for a <span class="math-inline"><sup>5</sup>∕<sub>8</sub> -inch</span> screw. The screw should be <span class="math-inline"><sup>1</sup>∕<sub>12</sub></span> inch larger than the hole. Let <span class="math-inline">d</span> equal the size of the hole he should drill. Solve the equation <span class="math-inline">d+<sup>1</sup>∕<sub>12</sub>=<sup>5</sup>∕<sub>8</sub></span> to see what size the hole should be.
+*Construction* Miguel wants to drill a hole for a <span class="math-inline"><sup>5</sup>⁄<sub>8</sub> -inch</span> screw.
+The screw should be <span class="math-inline"><sup>1</sup>⁄<sub>12</sub></span> inch larger than the hole.
+Let <span class="math-inline">d</span> equal the size of the hole he should drill.
+Solve the equation <span class="math-inline">d+<sup>1</sup>⁄<sub>12</sub>=<sup>5</sup>⁄<sub>8</sub></span> to see what size the hole should be.
 
 
-<span class="math-inline">d=<sup>13</sup>∕<sub>24</sub></span>
+<span class="math-inline">d=<sup>13</sup>⁄<sub>24</sub></span>
 
 
 ### Writing Exercises
@@ -1268,167 +1129,50 @@ Answers will vary.
 
 …confidently. Congratulations! You have achieved the objectives in this section. Reflect on the study skills you used so that you can continue to use them. What did you do to become confident of your ability to do these things? Be specific.
 
-…with some help. This must be addressed quickly because topics you do not master become potholes in your road to success. In math, every topic builds upon previous work. It is important to make sure you have a strong foundation before you move on. Whom can you ask for help? Your fellow classmates and instructor are good resources. Is there a place on campus where math tutors are available? Can your study skills be improved?
+
+…with some help.
+This must be addressed quickly because topics you do not master become potholes in your road to success.
+In math, every topic builds upon previous work.
+It is important to make sure you have a strong foundation before you move on.
+Whom can you ask for help?
+Your fellow classmates and instructor are good resources.
+Is there a place on campus where math tutors are available?
+Can your study skills be improved?
+
 
 …no—I don’t get it! This is a warning sign and you must not ignore it. You should get help right away or you will quickly be overwhelmed. See your instructor as soon as you can to discuss your situation. Together you can come up with a plan to get you the help you need.
 
 
-<div class="prep-quiz">
 **Be Prepared!**
-
 
 Before you get started, take this readiness quiz.
 
 
-Simplify: <span class="math-inline">−7(<sup>1</sup>∕<sub>−7</sub>).</span>
+Simplify: <span class="math-inline">−7(<sup>1</sup>⁄<sub>−7</sub>).</span>
 
-If you missed this problem, review .
+If you missed this problem, review
 
 
 <span class="math-inline">1</span>
 
 
-<div class="prep-quiz">
 **Be Prepared!**
 
 
-What is the reciprocal of <span class="math-inline">-<sup>3</sup>∕<sub>8</sub>?</span>
+What is the reciprocal of <span class="math-inline">-<sup>3</sup>⁄<sub>8</sub>?</span>
 
-If you missed this problem, review .
-
-
-<span class="math-inline">-<sup>8</sup>∕<sub>3</sub></span>
+If you missed this problem, review
 
 
-<div class="prep-quiz">
+<span class="math-inline">-<sup>8</sup>⁄<sub>3</sub></span>
+
+
 **Be Prepared!**
 
 
 Evaluate <span class="math-inline">9x+2</span> when <span class="math-inline">x=−3.</span>
 
-If you missed this problem, review .
+If you missed this problem, review
 
 
 <span class="math-inline">-25</span>
-
-</div>
-
-</div>
-
-</div>
-
-</div>
-
-</div>
-
-</div>
-
-</div>
-
-</div>
-
-</div>
-
-</div>
-
-</div>
-
-</div>
-
-</div>
-
-</div>
-
-</div>
-
-</div>
-
-</div>
-
-</div>
-
-</div>
-
-</div>
-
-</div>
-
-</div>
-
-</div>
-
-</div>
-
-</div>
-
-</div>
-
-</div>
-
-</div>
-
-</div>
-
-</div>
-
-</div>
-
-</div>
-
-</div>
-
-</div>
-
-</div>
-
-</div>
-
-</div>
-
-</div>
-
-</div>
-
-</div>
-
-</div>
-
-</div>
-
-</div>
-
-</div>
-
-</div>
-
-</div>
-
-</div>
-
-</div>
-
-</div>
-
-</div>
-
-</div>
-
-</div>
-
-</div>
-
-</div>
-
-</div>
-
-</div>
-
-</div>
-
-</div>
-
-</div>
-
-</div>
-
-</div>

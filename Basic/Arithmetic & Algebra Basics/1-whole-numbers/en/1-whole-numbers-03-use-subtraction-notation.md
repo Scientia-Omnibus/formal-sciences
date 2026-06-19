@@ -1,113 +1,39 @@
-<style>
-.math-inline {
-    font-style: italic;
-    padding: 2px 6px;
-    border-radius: 4px;
-    background: #f8f9fa;
-    font-family: Georgia, serif;
-}
-.math-display {
-    background: #f8f9fa;
-    border-left: 4px solid #4a90d9;
-    padding: 16px 20px;
-    margin: 16px 0;
-    border-radius: 6px;
-    font-size: 1.15em;
-    font-family: Georgia, serif;
-    text-align: center;
-    line-height: 2;
-    overflow-x: auto;
-}
-.example-box, .example {
-    background: #f0f8ff;
-    border-left: 4px solid #2e86de;
-    padding: 12px 20px;
-    margin: 16px 0;
-    border-radius: 6px;
-}
-.tryit-box, .tryit {
-    background: #f0fff4;
-    border-left: 4px solid #27ae60;
-    padding: 12px 20px;
-    margin: 16px 0;
-    border-radius: 6px;
-}
-.solution-box, .solution {
-    background: #fef9e7;
-    border-left: 4px solid #f39c12;
-    padding: 12px 20px;
-    margin: 12px 0;
-    border-radius: 6px;
-}
-.check-box, .check {
-    background: #fef9e7;
-    border-left: 4px solid #f39c12;
-    padding: 12px 20px;
-    margin: 12px 0;
-    border-radius: 6px;
-}
-.prep-quiz {
-    background: #fff3cd;
-    border: 1px solid #ffc107;
-    padding: 12px 20px;
-    margin: 16px 0;
-    border-radius: 6px;
-}
-.def-label, .definition-label {
-    font-weight: bold;
-    font-size: 1.1em;
-    margin: 20px 0 8px 0;
-    color: #2c3e50;
-    display: block;
-}
-.math-display sup, .math-inline sup { font-size: 0.75em; line-height: 0; }
-.math-display sub, .math-inline sub { font-size: 0.75em; line-height: 0; }
-</style>
-
-
----
-
-
----
-
 ## Use Subtraction Notation
 
 
-Suppose there are seven bananas in a bowl. Elana uses three of them to make a smoothie. How many bananas are left in the bowl? To answer the question, we subtract three from seven. When we subtract, we take one number away from another to find the **difference**. The notation we use to subtract <span class="math-inline">3</span> from <span class="math-inline">7</span> is
+Suppose there are seven bananas in a bowl.
+Elana uses three of them to make a smoothie.
+How many bananas are left in the bowl?
+To answer the question, we subtract three from seven.
+When we subtract, we take one number away from another to find the **difference**.
+The notation we use to subtract <span class="math-inline">3</span> from <span class="math-inline">7</span> is
 
 
 <div class="math-display">
 7-3
 </div>
 
-
 We read <span class="math-inline">7-3</span> as *seven minus three* and the result is *the difference of seven and three*.
 
 
-<div class="definition-label">**Subtraction Notation**</div>
-
+**Subtraction Notation**
 
 To describe subtraction, we can use symbols and words.
 
 
-<div class="example">
 **Example**
 
 
 Translate from math notation to words: ⓐ <span class="math-inline">8-1</span> ⓑ <span class="math-inline">26-14</span>.
 
 
-<div class="solution">
-<span class="def-label">Solution</span>
-
+Solution
 
   - ⓐ We read this as *eight minus one*. The result is *the difference of eight and one*.
   - ⓑ We read this as *twenty-six minus fourteen*. The result is *the difference of twenty-six and fourteen*.
 
 
-<div class="tryit">
 **Try It**
-
 
 Translate from math notation to words:
 
@@ -120,9 +46,7 @@ Translate from math notation to words:
   - ⓑ twenty-nine minus eleven; the difference of twenty-nine and eleven
 
 
-<div class="tryit">
 **Try It**
-
 
 Translate from math notation to words:
 
@@ -135,26 +59,18 @@ Translate from math notation to words:
   - ⓑ twenty-nine minus twelve; the difference of twenty-nine and twelve
 
 
----
-
-
----
-
 ## Model Subtraction of Whole Numbers
-
 
 A model can help us visualize the process of subtraction much as it did with addition. Again, we will use <span class="math-inline">base-10</span> blocks. Remember a block represents 1 and a rod represents 10. Let’s start by modeling the subtraction expression we just considered, <span class="math-inline">7-3.</span>
 
 
-<div class="example">
 **Example**
 
 
 Model the subtraction: <span class="math-inline">8-2.</span>
 
 
-<div class="solution">
-<span class="def-label">Solution</span>
+Solution
 
 
     <span class="math-inline">8-2</span> means the difference of 8 and 2.
@@ -174,29 +90,25 @@ Model the subtraction: <span class="math-inline">8-2.</span>
     We have shown that <span class="math-inline">8-2=6</span>.
 
 
-<div class="tryit">
 **Try It**
 
 
 Model: <span class="math-inline">9-6.</span>
 
 
-<div class="tryit">
 **Try It**
 
 
 Model: <span class="math-inline">6-1.</span>
 
 
-<div class="example">
 **Example**
 
 
 Model the subtraction: <span class="math-inline">13-8.</span>
 
 
-<div class="solution">
-<span class="def-label">Solution</span>
+Solution
 
 
     Model the first number, 13. We use 1 ten and 3 ones.
@@ -219,34 +131,32 @@ Model the subtraction: <span class="math-inline">13-8.</span>
 As we did with addition, we can describe the models as ones blocks and tens rods, or we can simply say ones and tens.
 
 
-<div class="tryit">
 **Try It**
 
 
 Model the subtraction: <span class="math-inline">12-7.</span>
 
 
-<div class="tryit">
 **Try It**
 
 
 Model the subtraction: <span class="math-inline">14-8.</span>
 
 
-<div class="example">
 **Example**
 
 
 Model the subtraction: <span class="math-inline">43-26.</span>
 
 
-<div class="solution">
-<span class="def-label">Solution</span>
-
-
+Solution
 Because <span class="math-inline">43-26</span> means <span class="math-inline">43</span> take away <span class="math-inline">26,</span> we begin by modeling the <span class="math-inline">43.</span>
 
-Now, we need to take away <span class="math-inline">26,</span> which is <span class="math-inline">2</span> tens and <span class="math-inline">6</span> ones. We cannot take away <span class="math-inline">6</span> ones from <span class="math-inline">3</span> ones. So, we exchange <span class="math-inline">1</span> ten for <span class="math-inline">10</span> ones.
+
+Now, we need to take away <span class="math-inline">26,</span> which is <span class="math-inline">2</span> tens and <span class="math-inline">6</span> ones.
+We cannot take away <span class="math-inline">6</span> ones from <span class="math-inline">3</span> ones.
+So, we exchange <span class="math-inline">1</span> ten for <span class="math-inline">10</span> ones.
+
 
 Now we can take away <span class="math-inline">2</span> tens and <span class="math-inline">6</span> ones.
 
@@ -254,27 +164,19 @@ Count the number of blocks remaining. There is <span class="math-inline">1</span
 <span class="math-inline">43-26=17</span>
 
 
-<div class="tryit">
 **Try It**
 
 
 Model the subtraction: <span class="math-inline">42-27.</span>
 
 
-<div class="tryit">
 **Try It**
 
 
 Model the subtraction: <span class="math-inline">45-29.</span>
 
 
----
-
-
----
-
 ## Subtract Whole Numbers
-
 
 Addition and subtraction are inverse operations. Addition undoes subtraction, and subtraction undoes addition.
 
@@ -282,13 +184,12 @@ We know <span class="math-inline">7-3=4</span> because <span class="math-inline"
 
 
 <div class="math-display">
-&  &  & because &  &  &  \\
- &  &  & because &  &  &  \\
-43 &  &  & because &  &  & 17
+& & & because & & & \\
+ & & & because & & & \\
+43 & & & because & & & 17
 </div>
 
 
-<div class="example">
 **Example**
 
 
@@ -297,9 +198,7 @@ Subtract and then check by adding:
   - ⓑ <span class="math-inline">8-3.</span>
 
 
-<div class="solution">
-<span class="def-label">Solution</span>
-
+Solution
 
   ⓐ
 
@@ -310,9 +209,8 @@ Subtract and then check by adding:
     Subtract 7 from 9.
     <span class="math-inline">2</span>
 
-<div class="check-box">
-**Check with addition.
-<span class="math-inline">2+7=9✓</span>**
+Check with addition.
+<span class="math-inline">2+7=9✓</span>
 
 
 ⓑ
@@ -329,7 +227,6 @@ Check with addition.
 <span class="math-inline">5+3=8✓</span>
 
 
-<div class="tryit">
 **Try It**
 
 
@@ -340,7 +237,6 @@ Subtract and then check by adding:
 7 − 0 = 7; 7 + 0 = 7
 
 
-<div class="tryit">
 **Try It**
 
 
@@ -354,21 +250,19 @@ Subtract and then check by adding:
 To subtract numbers with more than one digit, it is usually easier to write the numbers vertically in columns just as we did for addition. Align the digits by place value, and then subtract each column starting with the ones and then working to the left.
 
 
-<div class="example">
 **Example**
 
 
 Subtract and then check by adding: <span class="math-inline">89-61.</span>
 
 
-<div class="solution">
-<span class="def-label">Solution</span>
+Solution
 
 
     Write the numbers so the ones and tens digits line up vertically.
 
-    \(89 \\
-\underset{____}{-61}\)
+    <span class="math-inline">89 \\
+-61<sub>____</sub></span>
 
 
     Subtract the digits in each place value.
@@ -376,21 +270,20 @@ Subtract and then check by adding: <span class="math-inline">89-61.</span>
 Subtract the ones: <span class="math-inline">9-1=8</span>
 Subtract the tens: <span class="math-inline">8-6=2</span>
 
-    \(89 \\
-\underset{____}{-61} \\
-28\)
+    <span class="math-inline">89 \\
+-61<sub>____</sub> \\
+28</span>
 
 
 Check using addition.
-\(28 \\
-\underset{____}{+61} \\
-89\)
+<span class="math-inline">28 \\
++61<sub>____</sub> \\
+89</span>
 
 
 Our answer is correct.
 
 
-<div class="tryit">
 **Try It**
 
 
@@ -400,7 +293,6 @@ Subtract and then check by adding: <span class="math-inline">86-54.</span>
 86 − 54 = 32 because 54 + 32 = 86
 
 
-<div class="tryit">
 **Try It**
 
 
@@ -410,11 +302,11 @@ Subtract and then check by adding: <span class="math-inline">99-74.</span>
 99 − 74 = 25 because 74 + 25 = 99
 
 
-When we modeled subtracting <span class="math-inline">26</span> from <span class="math-inline">43,</span> we exchanged <span class="math-inline">1</span> ten for <span class="math-inline">10</span> ones. When we do this without the model, we say we borrow <span class="math-inline">1</span> from the tens place and add <span class="math-inline">10</span> to the ones place.
+When we modeled subtracting <span class="math-inline">26</span> from <span class="math-inline">43,</span> we exchanged <span class="math-inline">1</span> ten for <span class="math-inline">10</span> ones.
+When we do this without the model, we say we borrow <span class="math-inline">1</span> from the tens place and add <span class="math-inline">10</span> to the ones place.
 
 
-<div class="definition-label">**Find the difference of whole numbers.**</div>
-
+**Find the difference of whole numbers.**
 
 - Write the numbers so each place value lines up vertically.
 
@@ -425,15 +317,13 @@ When we modeled subtracting <span class="math-inline">26</span> from <span class
 - Check by adding.
 
 
-<div class="example">
 **Example**
 
 
 Subtract: <span class="math-inline">43-26.</span>
 
 
-<div class="solution">
-<span class="def-label">Solution</span>
+Solution
 
 
       Write the numbers so each place value lines up vertically.
@@ -454,7 +344,6 @@ Subtract: <span class="math-inline">43-26.</span>
  Our answer is correct.
 
 
-<div class="tryit">
 **Try It**
 
 
@@ -464,7 +353,6 @@ Subtract and then check by adding: <span class="math-inline">93-58.</span>
 93 − 58 = 35 because 58 + 35 = 93
 
 
-<div class="tryit">
 **Try It**
 
 
@@ -474,15 +362,13 @@ Subtract and then check by adding: <span class="math-inline">81-39.</span>
 81 − 39 = 42 because 42 + 39 = 81
 
 
-<div class="example">
 **Example**
 
 
 Subtract and then check by adding: <span class="math-inline">207-64.</span>
 
 
-<div class="solution">
-<span class="def-label">Solution</span>
+Solution
 
 
     Write the numbers so each place value lines up vertically.
@@ -506,7 +392,6 @@ Check by adding.
 Our answer is correct.
 
 
-<div class="tryit">
 **Try It**
 
 
@@ -516,7 +401,6 @@ Subtract and then check by adding: <span class="math-inline">439-52.</span>
 439 − 52 = 387 because 387 + 52 = 439
 
 
-<div class="tryit">
 **Try It**
 
 
@@ -526,15 +410,13 @@ Subtract and then check by adding: <span class="math-inline">318-75.</span>
 318 − 75 = 243 because 243 + 75 = 318
 
 
-<div class="example">
 **Example**
 
 
 Subtract and then check by adding: <span class="math-inline">910-586.</span>
 
 
-<div class="solution">
-<span class="def-label">Solution</span>
+Solution
 
 
     Write the numbers so each place value lines up vertically.
@@ -561,7 +443,6 @@ Subtract the ones. We cannot subtract 6 from 0, so we borrow 1 ten and add 10 on
 Our answer is correct.
 
 
-<div class="tryit">
 **Try It**
 
 
@@ -571,7 +452,6 @@ Subtract and then check by adding: <span class="math-inline">832-376.</span>
 832 − 376 = 456 because 456 + 376 = 832
 
 
-<div class="tryit">
 **Try It**
 
 
@@ -581,15 +461,13 @@ Subtract and then check by adding: <span class="math-inline">847-578.</span>
 847 − 578 = 269 because 269 + 578 = 847
 
 
-<div class="example">
 **Example**
 
 
 Subtract and then check by adding: <span class="math-inline">2,162-479.</span>
 
 
-<div class="solution">
-<span class="def-label">Solution</span>
+Solution
 
 
     Write the numbers so each place value lines up vertically.
@@ -615,15 +493,14 @@ Write 6 in the hundreds place in the difference.
 Subtract the thousands. There is no digit in the thousands place of the bottom number, so we imagine a 0. <span class="math-inline">1-0=1.</span> Write 1 in the thousands place of the difference.
 Check by adding.
 
-\(\\
+<span class="math-inline">\\
  \\
- \\\)
+ \\</span>
 
 
 Our answer is correct.
 
 
-<div class="tryit">
 **Try It**
 
 
@@ -633,7 +510,6 @@ Subtract and then check by adding: <span class="math-inline">4,585-697.</span>
 4,585 − 697 = 3,888 because 3,888 + 697 = 4,585
 
 
-<div class="tryit">
 **Try It**
 
 
@@ -643,18 +519,11 @@ Subtract and then check by adding: <span class="math-inline">5,637-899.</span>
 5,637 − 899 = 4,738 because 4,738 + 899 = 5,637
 
 
----
-
-
----
-
 ## Translate Word Phrases to Math Notation
-
 
 As with addition, **word phrases** can tell us to operate on two numbers using subtraction. To translate from a word phrase to math notation, we look for key words that indicate subtraction. Some of the words that indicate subtraction are listed in .
 
 
-<div class="example">
 **Example**
 
 
@@ -664,9 +533,7 @@ Translate and then simplify:
   - ⓑ subtract <span class="math-inline">24</span> from <span class="math-inline">43</span>
 
 
-<div class="solution">
-<span class="def-label">Solution</span>
-
+Solution
 
   - ⓐ The word *difference* tells us to subtract the two numbers. The numbers stay in the same order as in the phrase.
 
@@ -700,7 +567,6 @@ Translate and then simplify:
     19
 
 
-<div class="tryit">
 **Try It**
 
 
@@ -714,7 +580,6 @@ Translate and simplify:
   - ⓑ 37 − 21 = 16
 
 
-<div class="tryit">
 **Try It**
 
 
@@ -728,28 +593,23 @@ Translate and simplify:
   - ⓑ 67 − 18 = 49
 
 
----
-
-
----
-
 ## Subtract Whole Numbers in Applications
 
 
-To solve **applications** with subtraction, we will use the same plan that we used with addition. First, we need to determine what we are asked to find. Then we write a phrase that gives the information to find it. We translate the phrase into math notation and then simplify to get the answer. Finally, we write a sentence to answer the question, using the appropriate units.
+To solve **applications** with subtraction, we will use the same plan that we used with addition.
+First, we need to determine what we are asked to find.
+Then we write a phrase that gives the information to find it.
+We translate the phrase into math notation and then simplify to get the answer.
+Finally, we write a sentence to answer the question, using the appropriate units.
 
 
-<div class="example">
 **Example**
 
 
 The temperature in Chicago one morning was <span class="math-inline">73</span> degrees Fahrenheit. A cold front arrived and by noon the temperature was <span class="math-inline">27</span> degrees Fahrenheit. What was the difference between the temperature in the morning and the temperature at noon?
 
 
-<div class="solution">
-<span class="def-label">Solution</span>
-
-
+Solution
 We are asked to find the difference between the morning temperature and the noon temperature.
 
 
@@ -771,7 +631,6 @@ We are asked to find the difference between the morning temperature and the noon
     The difference in temperatures was 46 degrees Fahrenheit.
 
 
-<div class="tryit">
 **Try It**
 
 
@@ -781,7 +640,6 @@ The high temperature on <span class="math-inline">June 1<sup>st</sup></span> in 
 The difference is 19 degrees Fahrenheit.
 
 
-<div class="tryit">
 **Try It**
 
 
@@ -791,17 +649,13 @@ The weather forecast for June <span class="math-inline">2</span> in St Louis pre
 The difference is 17 degrees Fahrenheit.
 
 
-<div class="example">
 **Example**
 
 
 A washing machine is on sale for <span class="math-inline">$399.</span> Its regular price is <span class="math-inline">$588.</span> What is the difference between the regular price and the sale price?
 
 
-<div class="solution">
-<span class="def-label">Solution</span>
-
-
+Solution
 We are asked to find the difference between the regular price and the sale price.
 
 
@@ -823,7 +677,6 @@ We are asked to find the difference between the regular price and the sale price
     The difference between the regular price and the sale price is $189.
 
 
-<div class="tryit">
 **Try It**
 
 
@@ -833,7 +686,6 @@ A television set is on sale for <span class="math-inline">$499.</span> Its regul
 The difference is $149.
 
 
-<div class="tryit">
 **Try It**
 
 
@@ -843,8 +695,7 @@ A patio set is on sale for <span class="math-inline">$149.</span> Its regular pr
 The difference is $136.
 
 
-<div class="definition-label">**ACCESS ADDITIONAL ONLINE RESOURCES**</div>
-
+**ACCESS ADDITIONAL ONLINE RESOURCES**
 
 - Model subtraction of two-digit whole numbers
 
@@ -852,11 +703,6 @@ The difference is $136.
 
 - Subtract Whole Numbers
 
-
----
-
-
----
 
 ## Key Concepts
 
@@ -1277,138 +1123,25 @@ How does knowing addition facts help you to subtract numbers?
 ⓑ What does this checklist tell you about your mastery of this section? What steps will you take to improve?
 
 
-<div class="prep-quiz">
 **Be Prepared!**
-
 
 Before you get started, take this readiness quiz.
 
 
 Add: <span class="math-inline">1,683+479.</span>
 
-If you missed this problem, review .
+If you missed this problem, review
 
 
 <span class="math-inline">2,162</span>
 
 
-<div class="prep-quiz">
 **Be Prepared!**
 
 
 Subtract: <span class="math-inline">605-321.</span>
 
-If you missed this problem, review .
+If you missed this problem, review
 
 
 <span class="math-inline">284</span>
-
-</div>
-
-</div>
-
-</div>
-
-</div>
-
-</div>
-
-</div>
-
-</div>
-
-</div>
-
-</div>
-
-</div>
-
-</div>
-
-</div>
-
-</div>
-
-</div>
-
-</div>
-
-</div>
-
-</div>
-
-</div>
-
-</div>
-
-</div>
-
-</div>
-
-</div>
-
-</div>
-
-</div>
-
-</div>
-
-</div>
-
-</div>
-
-</div>
-
-</div>
-
-</div>
-
-</div>
-
-</div>
-
-</div>
-
-</div>
-
-</div>
-
-</div>
-
-</div>
-
-</div>
-
-</div>
-
-</div>
-
-</div>
-
-</div>
-
-</div>
-
-</div>
-
-</div>
-
-</div>
-
-</div>
-
-</div>
-
-</div>
-
-</div>
-
-</div>
-
-</div>
-
-</div>
-
-</div>
-
-</div>

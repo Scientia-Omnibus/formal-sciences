@@ -1,82 +1,8 @@
-<style>
-.math-inline {
-    font-style: italic;
-    padding: 2px 6px;
-    border-radius: 4px;
-    background: #f8f9fa;
-    font-family: Georgia, serif;
-}
-.math-display {
-    background: #f8f9fa;
-    border-left: 4px solid #4a90d9;
-    padding: 16px 20px;
-    margin: 16px 0;
-    border-radius: 6px;
-    font-size: 1.15em;
-    font-family: Georgia, serif;
-    text-align: center;
-    line-height: 2;
-    overflow-x: auto;
-}
-.example-box, .example {
-    background: #f0f8ff;
-    border-left: 4px solid #2e86de;
-    padding: 12px 20px;
-    margin: 16px 0;
-    border-radius: 6px;
-}
-.tryit-box, .tryit {
-    background: #f0fff4;
-    border-left: 4px solid #27ae60;
-    padding: 12px 20px;
-    margin: 16px 0;
-    border-radius: 6px;
-}
-.solution-box, .solution {
-    background: #fef9e7;
-    border-left: 4px solid #f39c12;
-    padding: 12px 20px;
-    margin: 12px 0;
-    border-radius: 6px;
-}
-.check-box, .check {
-    background: #fef9e7;
-    border-left: 4px solid #f39c12;
-    padding: 12px 20px;
-    margin: 12px 0;
-    border-radius: 6px;
-}
-.prep-quiz {
-    background: #fff3cd;
-    border: 1px solid #ffc107;
-    padding: 12px 20px;
-    margin: 16px 0;
-    border-radius: 6px;
-}
-.def-label, .definition-label {
-    font-weight: bold;
-    font-size: 1.1em;
-    margin: 20px 0 8px 0;
-    color: #2c3e50;
-    display: block;
-}
-.math-display sup, .math-inline sup { font-size: 0.75em; line-height: 0; }
-.math-display sub, .math-inline sub { font-size: 0.75em; line-height: 0; }
-</style>
-
-
----
-
-
----
-
 ## Evaluate Variable Expressions with Integers
-
 
 Remember that to evaluate an expression means to substitute a number for the **variable** in the expression. Now we can use negative numbers as well as positive numbers when evaluating **expressions**.
 
 
-<div class="example">
 **Example**
 
 
@@ -87,8 +13,7 @@ Evaluate <span class="math-inline">x+7 when</span>
   - ⓑ <span class="math-inline">x=−11.</span>
 
 
-<div class="solution">
-<span class="def-label">Solution</span>
+Solution
 
 
    ⓐ Evaluate <span class="math-inline">x+7</span> when <span class="math-inline">x=−2</span>
@@ -103,7 +28,6 @@ Evaluate <span class="math-inline">x+7 when</span>
    Simplify.
 
 
-<div class="tryit">
 **Try It**
 
 
@@ -117,7 +41,6 @@ Evaluate each expression for the given values:<span class="math-inline">x+5 when
   - ⓑ −12
 
 
-<div class="tryit">
 **Try It**
 
 
@@ -131,7 +54,6 @@ Evaluate each expression for the given values: <span class="math-inline">y+7</sp
   - ⓑ −1
 
 
-<div class="example">
 **Example**
 
 
@@ -142,8 +64,7 @@ When <span class="math-inline">n=−5,</span> evaluate
   - ⓑ <span class="math-inline">-n+1.</span>
 
 
-<div class="solution">
-<span class="def-label">Solution</span>
+Solution
 
 
    ⓐ Evaluate <span class="math-inline">n+1</span> when <span class="math-inline">n=−5</span>
@@ -161,7 +82,6 @@ When <span class="math-inline">n=−5,</span> evaluate
  	Add.
 
 
-<div class="tryit">
 **Try It**
 
 
@@ -176,7 +96,6 @@ When <span class="math-inline">n=−8,</span> evaluate
   -  ⓑ 10
 
 
-<div class="tryit">
 **Try It**
 
 
@@ -193,15 +112,13 @@ When <span class="math-inline">n=−8,</span> evaluate
 Next we'll evaluate an expression with two variables.
 
 
-<div class="example">
 **Example**
 
 
 Evaluate <span class="math-inline">3a+b</span> when <span class="math-inline">a=12</span> and <span class="math-inline">b=−30.</span>
 
 
-<div class="solution">
-<span class="def-label">Solution</span>
+Solution
 
 
    Multiply.
@@ -210,7 +127,6 @@ Evaluate <span class="math-inline">3a+b</span> when <span class="math-inline">a=
  	Add.
 
 
-<div class="tryit">
 **Try It**
 
 
@@ -221,7 +137,6 @@ Evaluate the expression:
 9
 
 
-<div class="tryit">
 **Try It**
 
 
@@ -232,17 +147,13 @@ Evaluate the expression:
 13
 
 
-<div class="example">
 **Example**
 
 
 Evaluate <span class="math-inline">(x+y)<sup>2</sup></span> when <span class="math-inline">x=−18</span> and <span class="math-inline">y=24.</span>
 
 
-<div class="solution">
-<span class="def-label">Solution</span>
-
-
+Solution
 This expression has two variables. Substitute <span class="math-inline">−18</span> for <span class="math-inline">x</span> and <span class="math-inline">24</span> for <span class="math-inline">y.</span>
 
 
@@ -260,7 +171,6 @@ This expression has two variables. Substitute <span class="math-inline">−18</s
  	<span class="math-inline">36</span>
 
 
-<div class="tryit">
 **Try It**
 
 
@@ -271,7 +181,6 @@ Evaluate:
 196
 
 
-<div class="tryit">
 **Try It**
 
 
@@ -282,26 +191,18 @@ Evaluate:
 8
 
 
----
-
-
----
-
 ## Translate Word Phrases to Algebraic Expressions
-
 
 All our earlier work translating word phrases to algebra also applies to expressions that include both positive and negative numbers. Remember that the phrase *the sum* indicates addition.
 
 
-<div class="example">
 **Example**
 
 
 Translate and simplify: the sum of <span class="math-inline">−9</span> and <span class="math-inline">5.</span>
 
 
-<div class="solution">
-<span class="def-label">Solution</span>
+Solution
 
 
    The sum of −9 and 5 indicates addition.
@@ -316,7 +217,6 @@ Translate and simplify: the sum of <span class="math-inline">−9</span> and <sp
    <span class="math-inline">−4</span>
 
 
-<div class="tryit">
 **Try It**
 
 
@@ -327,7 +227,6 @@ the sum of <span class="math-inline">−7</span> and <span class="math-inline">4
 −7 + 4 = −3
 
 
-<div class="tryit">
 **Try It**
 
 
@@ -338,17 +237,13 @@ the sum of <span class="math-inline">−8</span> and <span class="math-inline">�
 −8 + (−6) = −14
 
 
-<div class="example">
 **Example**
 
 
 Translate and simplify: the sum of <span class="math-inline">8</span> and <span class="math-inline">−12,</span> increased by <span class="math-inline">3.</span>
 
 
-<div class="solution">
-<span class="def-label">Solution</span>
-
-
+Solution
 The phrase *increased by* indicates addition.
 
 
@@ -367,7 +262,6 @@ Add.
 <span class="math-inline">−1</span>
 
 
-<div class="tryit">
 **Try It**
 
 
@@ -378,7 +272,6 @@ the sum of <span class="math-inline">9</span> and <span class="math-inline">−1
 [9 + (−16)] + 4 = −3
 
 
-<div class="tryit">
 **Try It**
 
 
@@ -389,30 +282,20 @@ the sum of <span class="math-inline">−8</span> and <span class="math-inline">�
 [−8 + (−12)] + 7 = −13
 
 
----
-
-
----
-
 ## Add Integers in Applications
-
 
 Recall that we were introduced to some situations in everyday life that use positive and negative numbers, such as temperatures, banking, and sports. For example, a debt of <span class="math-inline">$5</span> could be represented as <span class="math-inline">−$5.</span> Let’s practice translating and solving a few applications.
 
 Solving applications is easy if we have a plan. First, we determine what we are looking for. Then we write a phrase that gives the information to find it. We translate the phrase into math notation and then simplify to get the answer. Finally, we write a sentence to answer the question.
 
 
-<div class="example">
 **Example**
 
 
 The temperature in Buffalo, NY, one morning started at <span class="math-inline">7 degrees</span> below zero Fahrenheit. By noon, it had warmed up <span class="math-inline">12 degrees.</span> What was the temperature at noon?
 
 
-<div class="solution">
-<span class="def-label">Solution</span>
-
-
+Solution
 We are asked to find the temperature at noon.
 
 
@@ -432,17 +315,15 @@ We are asked to find the temperature at noon.
     The temperature at noon was 5 degrees Fahrenheit.
 
 
-<div class="tryit">
 **Try It**
 
 
-The temperature in Chicago at 5 A.M. was <span class="math-inline">10 degrees</span> below zero Celsius. Six hours later, it had warmed up <span class="math-inline">14 degrees Celsius.</span> What is the temperature at 11 A.M.?
+The temperature in Chicago at 5 A. M. was <span class="math-inline">10 degrees</span> below zero Celsius. Six hours later, it had warmed up <span class="math-inline">14 degrees Celsius.</span> What is the temperature at 11 A. M.?
 
 
 4 degrees Celsius
 
 
-<div class="tryit">
 **Try It**
 
 
@@ -452,17 +333,13 @@ A scuba diver was swimming <span class="math-inline">16 feet</span> below the su
 −33 feet
 
 
-<div class="example">
 **Example**
 
 
 A football team took possession of the football on their <span class="math-inline">42-yard line.</span> In the next three plays, they lost <span class="math-inline">6 yards,</span> gained <span class="math-inline">4 yards,</span> and then lost <span class="math-inline">8 yards.</span> On what yard line was the ball at the end of those three plays?
 
 
-<div class="solution">
-<span class="def-label">Solution</span>
-
-
+Solution
 We are asked to find the yard line the ball was on at the end of three plays.
 
 
@@ -482,7 +359,6 @@ We are asked to find the yard line the ball was on at the end of three plays.
     At the end of the three plays, the ball is on the 32-yard line.
 
 
-<div class="tryit">
 **Try It**
 
 
@@ -492,7 +368,6 @@ The Bears took possession of the football on their <span class="math-inline">20-
 14-yard line
 
 
-<div class="tryit">
 **Try It**
 
 
@@ -502,8 +377,7 @@ The Chargers began with the football on their <span class="math-inline">25-yard 
 37-yard line
 
 
-<div class="definition-label">**ACCESS ADDITIONAL ONLINE RESOURCES**</div>
-
+**ACCESS ADDITIONAL ONLINE RESOURCES**
 
 - Adding Integers with Same Sign Using Color Counters
 
@@ -514,13 +388,7 @@ The Chargers began with the football on their <span class="math-inline">25-yard 
 - Ex2: Adding Integers
 
 
----
-
-
----
-
 ## Key Concepts
-
 
 - *Addition of Positive and Negative Integers*
 
@@ -881,8 +749,8 @@ In the following exercises, solve.
 
 
 *Stock Market* The week of September 15, 2008, was one of the most volatile weeks ever for the U.S. stock market. The change in the Dow Jones Industrial Average each day was:
-\(Monday & −504 & Tuesday & +142 & Wednesday & −449 \\
-Thursday & +410 & Friday & +369 &\)
+<span class="math-inline">Monday & −504 & Tuesday & +142 & Wednesday & −449 \\
+Thursday & +410 & Friday & +369 &</span>
 What was the overall change for the week?
 
 
@@ -890,8 +758,8 @@ What was the overall change for the week?
 
 
 *Stock Market* During the week of June 22, 2009, the change in the Dow Jones Industrial Average each day was:
-\(Monday & −201 & Tuesday & −16 & Wednesday & −23 \\
-Thursday & +172 & Friday & −34 &\)
+<span class="math-inline">Monday & −201 & Tuesday & −16 & Wednesday & −23 \\
+Thursday & +172 & Friday & −34 &</span>
 What was the overall change for the week?
 
 
@@ -915,54 +783,51 @@ Give an example from your life experience of adding two negative numbers.
 ⓑ After reviewing this checklist, what will you do to become confident for all objectives?
 
 
-<div class="prep-quiz">
 **Be Prepared!**
-
 
 Before you get started, take this readiness quiz.
 
 
 Simplify: <span class="math-inline">12-(8−1).</span>
 
-If you missed this problem, review .
+If you missed this problem, review
 
 
 <span class="math-inline">5</span>
 
 
-<div class="prep-quiz">
 **Be Prepared!**
 
 
 Translate *the difference of* <span class="math-inline">20</span> *and* <span class="math-inline">−15</span> into an algebraic expression.
 
-If you missed this problem, review .
+If you missed this problem, review
 
 
 <span class="math-inline">20-(-15)</span>
 
 
-<div class="prep-quiz">
 **Be Prepared!**
 
 
 Add: <span class="math-inline">−18+7.</span>
 
-If you missed this problem, review .
+If you missed this problem, review
 
 
 <span class="math-inline">-11</span>
 
 
----
-
-
----
-
 ## Model Subtraction of Integers
 
 
-Remember the story in the last section about the toddler and the cookies? Children learn how to subtract numbers through their everyday experiences. Real-life experiences serve as models for subtracting positive numbers, and in some cases, such as temperature, for adding negative as well as positive numbers. But it is difficult to relate subtracting negative numbers to common life experiences. Most people do not have an intuitive understanding of subtraction when negative numbers are involved. Math teachers use several different models to explain subtracting negative numbers.
+Remember the story in the last section about the toddler and the cookies?
+Children learn how to subtract numbers through their everyday experiences.
+Real-life experiences serve as models for subtracting positive numbers, and in some cases, such as temperature, for adding negative as well as positive numbers.
+But it is difficult to relate subtracting negative numbers to common life experiences.
+Most people do not have an intuitive understanding of subtraction when negative numbers are involved.
+Math teachers use several different models to explain subtracting negative numbers.
+
 
 We will continue to use counters to model subtraction. Remember, the blue counters represent positive numbers and the red counters represent negative numbers.
 
@@ -976,15 +841,13 @@ We will model four subtraction facts using the numbers <span class="math-inline"
 </div>
 
 
-<div class="example">
 **Example**
 
 
 Model: <span class="math-inline">5-3.</span>
 
 
-<div class="solution">
-<span class="def-label">Solution</span>
+Solution
 
 
    Interpret the expression.
@@ -1004,7 +867,6 @@ Model: <span class="math-inline">5-3.</span>
 The difference between <span class="math-inline">5</span> and <span class="math-inline">3</span> is <span class="math-inline">2</span>.
 
 
-<div class="tryit">
 **Try It**
 
 
@@ -1014,7 +876,6 @@ Model the expression:<span class="math-inline">6-4</span>
 2
 
 
-<div class="tryit">
 **Try It**
 
 
@@ -1024,15 +885,13 @@ Model the expression:<span class="math-inline">7-4</span>
 3
 
 
-<div class="example">
 **Example**
 
 
 Model: <span class="math-inline">−5-(−3).</span>
 
 
-<div class="solution">
-<span class="def-label">Solution</span>
+Solution
 
 
    Interpret the expression.
@@ -1052,7 +911,6 @@ Model: <span class="math-inline">−5-(−3).</span>
 The difference between <span class="math-inline">−5</span> and <span class="math-inline">−3</span> is <span class="math-inline">−2</span>.
 
 
-<div class="tryit">
 **Try It**
 
 
@@ -1062,7 +920,6 @@ Model the expression:<span class="math-inline">−6-(−4)</span>
 −2
 
 
-<div class="tryit">
 **Try It**
 
 
@@ -1083,15 +940,13 @@ Each example used counters of only one color, and the “take away” model of s
 Now let’s see what happens when we subtract one positive and one negative number. We will need to use both positive and negative counters and sometimes some neutral pairs, too. Adding a **neutral pair** does not change the value.
 
 
-<div class="example">
 **Example**
 
 
 Model: <span class="math-inline">−5-3.</span>
 
 
-<div class="solution">
-<span class="def-label">Solution</span>
+Solution
 
 
    Interpret the expression.
@@ -1119,7 +974,6 @@ Add neutral pairs until you have 3 positives.
 The difference of <span class="math-inline">−5</span> and <span class="math-inline">3</span> is <span class="math-inline">−8</span>.
 
 
-<div class="tryit">
 **Try It**
 
 
@@ -1129,7 +983,6 @@ Model the expression:<span class="math-inline">−6-4</span>
 −10
 
 
-<div class="tryit">
 **Try It**
 
 
@@ -1139,15 +992,13 @@ Model the expression:<span class="math-inline">−7-4</span>
 −11
 
 
-<div class="example">
 **Example**
 
 
 Model: <span class="math-inline">5-(−3).</span>
 
 
-<div class="solution">
-<span class="def-label">Solution</span>
+Solution
 
 
    Interpret the expression.
@@ -1174,7 +1025,6 @@ Add neutral pairs until you have 3 negatives.
 <span class="math-inline">5-(−3)=8</span>
 
 
-<div class="tryit">
 **Try It**
 
 
@@ -1184,7 +1034,6 @@ Model the expression:<span class="math-inline">6-(−4)</span>
 10
 
 
-<div class="tryit">
 **Try It**
 
 
@@ -1194,7 +1043,6 @@ Model the expression:<span class="math-inline">7-(−4)</span>
 11
 
 
-<div class="example">
 **Example**
 
 
@@ -1297,7 +1145,6 @@ This means <span class="math-inline">−8</span> take away <span class="math-inl
 <span class="math-inline">−8-(−3)=−5</span>
 
 
-<div class="tryit">
 **Try It**
 
 
@@ -1319,7 +1166,6 @@ Model each subtraction.
 ⓓ
 
 
-<div class="tryit">
 **Try It**
 
 
@@ -1341,7 +1187,6 @@ Model each subtraction.
 ⓓ
 
 
-<div class="example">
 **Example**
 
 
@@ -1351,8 +1196,7 @@ Model each subtraction expression:
   - ⓑ <span class="math-inline">−3-(−8)</span>
 
 
-<div class="solution">
-<span class="def-label">Solution</span>
+Solution
 
 
    ⓐ
@@ -1395,7 +1239,6 @@ There are 5 positives.
 <span class="math-inline">−3-(−8)=5</span>
 
 
-<div class="tryit">
 **Try It**
 
 
@@ -1412,7 +1255,6 @@ Model each subtraction expression.
 4
 
 
-<div class="tryit">
 **Try It**
 
 
@@ -1428,119 +1270,3 @@ Model each subtraction expression.
 
 
 3
-
-</div>
-
-</div>
-
-</div>
-
-</div>
-
-</div>
-
-</div>
-
-</div>
-
-</div>
-
-</div>
-
-</div>
-
-</div>
-
-</div>
-
-</div>
-
-</div>
-
-</div>
-
-</div>
-
-</div>
-
-</div>
-
-</div>
-
-</div>
-
-</div>
-
-</div>
-
-</div>
-
-</div>
-
-</div>
-
-</div>
-
-</div>
-
-</div>
-
-</div>
-
-</div>
-
-</div>
-
-</div>
-
-</div>
-
-</div>
-
-</div>
-
-</div>
-
-</div>
-
-</div>
-
-</div>
-
-</div>
-
-</div>
-
-</div>
-
-</div>
-
-</div>
-
-</div>
-
-</div>
-
-</div>
-
-</div>
-
-</div>
-
-</div>
-
-</div>
-
-</div>
-
-</div>
-
-</div>
-
-</div>
-
-</div>
-
-</div>
-
-</div>

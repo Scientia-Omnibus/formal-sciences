@@ -1,77 +1,4 @@
-<style>
-.math-inline {
-    font-style: italic;
-    padding: 2px 6px;
-    border-radius: 4px;
-    background: #f8f9fa;
-    font-family: Georgia, serif;
-}
-.math-display {
-    background: #f8f9fa;
-    border-left: 4px solid #4a90d9;
-    padding: 16px 20px;
-    margin: 16px 0;
-    border-radius: 6px;
-    font-size: 1.15em;
-    font-family: Georgia, serif;
-    text-align: center;
-    line-height: 2;
-    overflow-x: auto;
-}
-.example-box, .example {
-    background: #f0f8ff;
-    border-left: 4px solid #2e86de;
-    padding: 12px 20px;
-    margin: 16px 0;
-    border-radius: 6px;
-}
-.tryit-box, .tryit {
-    background: #f0fff4;
-    border-left: 4px solid #27ae60;
-    padding: 12px 20px;
-    margin: 16px 0;
-    border-radius: 6px;
-}
-.solution-box, .solution {
-    background: #fef9e7;
-    border-left: 4px solid #f39c12;
-    padding: 12px 20px;
-    margin: 12px 0;
-    border-radius: 6px;
-}
-.check-box, .check {
-    background: #fef9e7;
-    border-left: 4px solid #f39c12;
-    padding: 12px 20px;
-    margin: 12px 0;
-    border-radius: 6px;
-}
-.prep-quiz {
-    background: #fff3cd;
-    border: 1px solid #ffc107;
-    padding: 12px 20px;
-    margin: 16px 0;
-    border-radius: 6px;
-}
-.def-label, .definition-label {
-    font-weight: bold;
-    font-size: 1.1em;
-    margin: 20px 0 8px 0;
-    color: #2c3e50;
-    display: block;
-}
-.math-display sup, .math-inline sup { font-size: 0.75em; line-height: 0; }
-.math-display sub, .math-inline sub { font-size: 0.75em; line-height: 0; }
-</style>
-
-
----
-
-
----
-
 ## Key Concepts
-
 
 - *Properties of Rectangles*
 
@@ -94,7 +21,7 @@
   - <span class="math-inline">P=a+b+c</span>
   - The area of a triangle is one-half the base, b, times the height, h.
 
-  - <span class="math-inline">A=<sup>1</sup>∕<sub>2</sub>bh</span>
+  - <span class="math-inline">A=<sup>1</sup>⁄<sub>2</sub>bh</span>
 
 
 ### Practice Makes Perfect
@@ -474,7 +401,11 @@ Elena is knitting a scarf. The scarf will be shaped like a trapezoid with width 
 ### Everyday Math
 
 
-*Fence* Jose just removed the children’s playset from his back yard to make room for a rectangular garden. He wants to put a fence around the garden to keep out the dog. He has a <span class="math-inline">50</span> foot roll of fence in his garage that he plans to use. To fit in the backyard, the width of the garden must be <span class="math-inline">10</span> feet. How long can he make the other side if he wants to use the entire roll of fence?
+*Fence* Jose just removed the children’s playset from his back yard to make room for a rectangular garden.
+He wants to put a fence around the garden to keep out the dog.
+He has a <span class="math-inline">50</span> foot roll of fence in his garage that he plans to use.
+To fit in the backyard, the width of the garden must be <span class="math-inline">10</span> feet.
+How long can he make the other side if he wants to use the entire roll of fence?
 
 
 15 ft
@@ -483,13 +414,18 @@ Elena is knitting a scarf. The scarf will be shaped like a trapezoid with width 
 *Gardening* Lupita wants to fence in her tomato garden. The garden is rectangular and the length is twice the width. It will take <span class="math-inline">48</span> feet of fencing to enclose the garden. Find the length and width of her garden.
 
 
-*Fence* Christa wants to put a fence around her triangular flowerbed. The sides of the flowerbed are <span class="math-inline">6</span> feet, <span class="math-inline">8</span> feet, and <span class="math-inline">10</span> feet. The fence costs <span class="math-inline">$10</span> per foot. How much will it cost for Christa to fence in her flowerbed?
+*Fence* Christa wants to put a fence around her triangular flowerbed.
+The sides of the flowerbed are <span class="math-inline">6</span> feet, <span class="math-inline">8</span> feet, and <span class="math-inline">10</span> feet.
+The fence costs <span class="math-inline">$10</span> per foot.
+How much will it cost for Christa to fence in her flowerbed?
 
 
 $240
 
 
-*Painting* Caleb wants to paint one wall of his attic. The wall is shaped like a trapezoid with height <span class="math-inline">8</span> feet and bases <span class="math-inline">20</span> feet and <span class="math-inline">12</span> feet. The cost of the painting one square foot of wall is about <span class="math-inline">$0.05.</span> About how much will it cost for Caleb to paint the attic wall?
+*Painting* Caleb wants to paint one wall of his attic.
+The wall is shaped like a trapezoid with height <span class="math-inline">8</span> feet and bases <span class="math-inline">20</span> feet and <span class="math-inline">12</span> feet.
+The cost of the painting one square foot of wall is about <span class="math-inline">$0.05.</span> About how much will it cost for Caleb to paint the attic wall?
 
 
 ### Writing Exercises
@@ -523,40 +459,36 @@ The length of a rectangle is <span class="math-inline">5</span> feet more than t
 ⓑ On a scale of 1–10, how would you rate your mastery of this section in light of your responses on the checklist? How can you improve this?
 
 
-<div class="prep-quiz">
 **Be Prepared!**
-
 
 Before you get started, take this readiness quiz.
 
 
 Evaluate <span class="math-inline">x<sup>2</sup></span> when <span class="math-inline">x=5.</span>
 
-If you missed this problem, review .
+If you missed this problem, review
 
 
 <span class="math-inline">25</span>
 
 
-<div class="prep-quiz">
 **Be Prepared!**
 
 
 Using <span class="math-inline">3.14</span> for <span class="math-inline">π,</span> approximate the (a) circumference and (b) the area of a circle with radius <span class="math-inline">8</span> inches.
 
-If you missed this problem, review .
+If you missed this problem, review
 
 
 (a) <span class="math-inline">50.24in.</span>; (b) <span class="math-inline">200.96sq.in</span>.
 
 
-<div class="prep-quiz">
 **Be Prepared!**
 
 
-Simplify <span class="math-inline"><sup>22</sup>∕<sub>7</sub>(0.25)<sup>2</sup></span> and round to the nearest thousandth.
+Simplify <span class="math-inline"><sup>22</sup>⁄<sub>7</sub>(0.25)<sup>2</sup></span> and round to the nearest thousandth.
 
-If you missed this problem, review .
+If you missed this problem, review
 
 
 <span class="math-inline">0.196</span>
@@ -575,19 +507,12 @@ In this section, we’ll continue working with geometry applications. We will ad
   -  * Answer * the question with a complete sentence.
 
 
----
-
-
----
-
 ## Use the Properties of Circles
-
 
 Do you remember the properties of circles from Decimals and Fractions Together? We’ll show them here again to refer to as we use them to solve applications.
 
 
-<div class="definition-label">**Properties of Circles**</div>
-
+**Properties of Circles**
 
 - <span class="math-inline">r</span> is the length of the radius
 
@@ -603,18 +528,19 @@ Do you remember the properties of circles from Decimals and Fractions Together? 
 
 <span class="math-inline">A=πr<sup>2</sup></span>
 
-Remember, that we approximate <span class="math-inline">π</span> with <span class="math-inline">3.14</span> or <span class="math-inline"><sup>22</sup>∕<sub>7</sub></span> depending on whether the radius of the circle is given as a decimal or a fraction. If you use the <span class="math-inline">π</span> key on your calculator to do the calculations in this section, your answers will be slightly different from the answers shown. That is because the <span class="math-inline">π</span> key uses more than two decimal places.
+
+Remember, that we approximate <span class="math-inline">π</span> with <span class="math-inline">3.14</span> or <span class="math-inline"><sup>22</sup>⁄<sub>7</sub></span> depending on whether the radius of the circle is given as a decimal or a fraction.
+If you use the <span class="math-inline">π</span> key on your calculator to do the calculations in this section, your answers will be slightly different from the answers shown.
+That is because the <span class="math-inline">π</span> key uses more than two decimal places.
 
 
-<div class="example">
 **Example**
 
 
 A circular sandbox has a radius of <span class="math-inline">2.5</span> feet. Find the ⓐ circumference and ⓑ area of the sandbox.
 
 
-<div class="solution">
-<span class="def-label">Solution</span>
+Solution
 
 
    ⓐ
@@ -685,7 +611,6 @@ Step 7. *Answer* the question.
 The area of the circle is 19.625 square feet.
 
 
-<div class="tryit">
 **Try It**
 
 
@@ -696,7 +621,6 @@ A circular mirror has radius of <span class="math-inline">5</span> inches. Find 
   - ⓑ 78.5 sq. in.
 
 
-<div class="tryit">
 **Try It**
 
 
@@ -713,30 +637,26 @@ We usually see the formula for circumference in terms of the radius <span class=
 C=2πr
 </div>
 
-
 But since the diameter of a circle is two times the radius, we could write the formula for the circumference in terms <span class="math-inline">of d.</span>
 
 
 <div class="math-display">
-&  &  & C \\
-Using the commutative property, we get &  &  & C \\
-Then substituting &  &  & C \\
-So &  &  & C
+& & & C \\
+Using the commutative property, we get & & & C \\
+Then substituting & & & C \\
+So & & & C
 </div>
-
 
 We will use this form of the circumference when we’re given the length of the diameter instead of the radius.
 
 
-<div class="example">
 **Example**
 
 
 A circular table has a diameter of four feet. What is the circumference of the table?
 
 
-<div class="solution">
-<span class="def-label">Solution</span>
+Solution
 
 
    Step 1. *Read* the problem. Draw the figure and label it with the given information.
@@ -771,7 +691,6 @@ The perimeter would be 16. It makes sense that the circumference of the circle, 
  The diameter of the table is 12.56 feet.
 
 
-<div class="tryit">
 **Try It**
 
 
@@ -781,7 +700,6 @@ Find the circumference of a circular fire pit whose diameter is <span class="mat
 17.27 ft
 
 
-<div class="tryit">
 **Try It**
 
 
@@ -791,15 +709,13 @@ If the diameter of a circular trampoline is <span class="math-inline">12</span> 
 37.68 ft
 
 
-<div class="example">
 **Example**
 
 
 Find the diameter of a circle with a circumference of <span class="math-inline">47.1</span> centimeters.
 
 
-<div class="solution">
-<span class="def-label">Solution</span>
+Solution
 
 
    Step 1. *Read* the problem. Draw the figure and label it with the given information.
@@ -833,7 +749,6 @@ Substitute, using 3.14 to approximate <span class="math-inline">π</span>.
  The diameter of the circle is approximately 15 centimeters.
 
 
-<div class="tryit">
 **Try It**
 
 
@@ -843,7 +758,6 @@ Find the diameter of a circle with circumference of <span class="math-inline">94
 30 cm
 
 
-<div class="tryit">
 **Try It**
 
 
@@ -853,38 +767,35 @@ Find the diameter of a circle with circumference of <span class="math-inline">34
 110 ft
 
 
----
-
-
----
-
 ## Find the Area of Irregular Figures
 
 
-So far, we have found area for rectangles, triangles, trapezoids, and circles. An **irregular figure** is a figure that is not a standard geometric shape. Its area cannot be calculated using any of the standard area formulas. But some irregular figures are made up of two or more standard geometric shapes. To find the area of one of these irregular figures, we can split it into figures whose formulas we know and then add the areas of the figures.
+So far, we have found area for rectangles, triangles, trapezoids, and circles.
+An **irregular figure** is a figure that is not a standard geometric shape.
+Its area cannot be calculated using any of the standard area formulas.
+But some irregular figures are made up of two or more standard geometric shapes.
+To find the area of one of these irregular figures, we can split it into figures whose formulas we know and then add the areas of the figures.
 
 
-<div class="example">
 **Example**
 
 
 Find the area of the shaded region.
 
 
-<div class="solution">
-<span class="def-label">Solution</span>
-
-
+Solution
 The given figure is irregular, but we can break it into two rectangles. The area of the shaded region will be the sum of the areas of both rectangles.
 
-The blue rectangle has a width of <span class="math-inline">12</span> and a length of <span class="math-inline">4.</span> The red rectangle has a width of <span class="math-inline">2,</span> but its length is not labeled. The right side of the figure is the length of the red rectangle plus the length of the blue rectangle. Since the right side of the blue rectangle is <span class="math-inline">4</span> units long, the length of the red rectangle must be <span class="math-inline">6</span> units.
+
+The blue rectangle has a width of <span class="math-inline">12</span> and a length of <span class="math-inline">4.</span> The red rectangle has a width of <span class="math-inline">2,</span> but its length is not labeled.
+The right side of the figure is the length of the red rectangle plus the length of the blue rectangle.
+Since the right side of the blue rectangle is <span class="math-inline">4</span> units long, the length of the red rectangle must be <span class="math-inline">6</span> units.
 
 
 The area of the figure is <span class="math-inline">60</span> square units.
 Is there another way to split this figure into two rectangles? Try it, and make sure you get the same area.
 
 
-<div class="tryit">
 **Try It**
 
 
@@ -894,7 +805,6 @@ Find the area of each shaded region:
 28 sq. units
 
 
-<div class="tryit">
 **Try It**
 
 
@@ -904,20 +814,19 @@ Find the area of each shaded region:
 110 sq. units
 
 
-<div class="example">
 **Example**
 
 
 Find the area of the shaded region.
 
 
-<div class="solution">
-<span class="def-label">Solution</span>
-
-
+Solution
 We can break this irregular figure into a triangle and rectangle. The area of the figure will be the sum of the areas of triangle and rectangle.
-The rectangle has a length of <span class="math-inline">8</span> units and a width of <span class="math-inline">4</span> units.We need to find the base and height of the triangle.
-Since both sides of the rectangle are <span class="math-inline">4,</span> the vertical side of the triangle is <span class="math-inline">3</span>, which is <span class="math-inline">7-4</span>.The length of the rectangle is <span class="math-inline">8,</span> so the base of the triangle will be <span class="math-inline">3</span>, which is <span class="math-inline">8-5</span>.
+The rectangle has a length of <span class="math-inline">8</span> units and a width of <span class="math-inline">4</span> units. We need to find the base and height of the triangle.
+
+Since both sides of the rectangle are <span class="math-inline">4,</span> the vertical side of the triangle is <span class="math-inline">3</span>, which is <span class="math-inline">7-4</span>.
+The length of the rectangle is <span class="math-inline">8,</span> so the base of the triangle will be <span class="math-inline">3</span>, which is <span class="math-inline">8-5</span>.
+
 
 Now we can add the areas to find the area of the irregular figure.
 
@@ -925,7 +834,6 @@ Now we can add the areas to find the area of the irregular figure.
 The area of the figure is <span class="math-inline">36.5</span> square units.
 
 
-<div class="tryit">
 **Try It**
 
 
@@ -935,7 +843,6 @@ Find the area of each shaded region.
 36.5 sq. units
 
 
-<div class="tryit">
 **Try It**
 
 
@@ -945,23 +852,18 @@ Find the area of each shaded region.
 70 sq. units
 
 
-<div class="example">
 **Example**
 
 
 A high school track is shaped like a rectangle with a semi-circle (half a circle) on each end. The rectangle has length <span class="math-inline">105</span> meters and width <span class="math-inline">68</span> meters. Find the area enclosed by the track. Round your answer to the nearest hundredth.
 
 
-<div class="solution">
-<span class="def-label">Solution</span>
-
-
+Solution
 We will break the figure into a rectangle and two semi-circles. The area of the figure will be the sum of the areas of the rectangle and the semicircles.
 
 The rectangle has a length of <span class="math-inline">105</span> m and a width of <span class="math-inline">68</span> m. The semi-circles have a diameter of <span class="math-inline">68</span> m, so each has a radius of <span class="math-inline">34</span> m.
 
 
-<div class="tryit">
 **Try It**
 
 
@@ -971,7 +873,6 @@ Find the area:
 103.2 sq. units
 
 
-<div class="tryit">
 **Try It**
 
 
@@ -981,8 +882,7 @@ Find the area:
 38.24 sq. units
 
 
-<div class="definition-label">**ACCESS ADDITIONAL ONLINE RESOURCES**</div>
-
+**ACCESS ADDITIONAL ONLINE RESOURCES**
 
 - Circumference of a Circle
 
@@ -997,13 +897,7 @@ Find the area:
 - Area Involving a Rectangle and Circle
 
 
----
-
-
----
-
 ## Key Concepts
-
 
 - *Problem Solving Strategy for Geometry Applications*
 
@@ -1159,10 +1053,16 @@ A city park covers one block plus parts of four more blocks, as shown. The block
 187,500 sq. ft
 
 
-A gift box will be made from a rectangular piece of cardboard measuring <span class="math-inline">12</span> inches by <span class="math-inline">20</span> inches, with squares cut out of the corners of the sides, as shown. The sides of the squares are <span class="math-inline">3</span> inches. Find the area of the cardboard after the corners are cut out.
+A gift box will be made from a rectangular piece of cardboard measuring <span class="math-inline">12</span> inches by <span class="math-inline">20</span> inches, with squares cut out of the corners of the sides, as shown.
+The sides of the squares are <span class="math-inline">3</span> inches.
+Find the area of the cardboard after the corners are cut out.
 
 
-Perry needs to put in a new lawn. His lot is a rectangle with a length of <span class="math-inline">120</span> feet and a width of <span class="math-inline">100</span> feet. The house is rectangular and measures <span class="math-inline">50</span> feet by <span class="math-inline">40</span> feet. His driveway is rectangular and measures <span class="math-inline">20</span> feet by <span class="math-inline">30</span> feet, as shown. Find the area of Perry’s lawn.
+Perry needs to put in a new lawn.
+His lot is a rectangle with a length of <span class="math-inline">120</span> feet and a width of <span class="math-inline">100</span> feet.
+The house is rectangular and measures <span class="math-inline">50</span> feet by <span class="math-inline">40</span> feet.
+His driveway is rectangular and measures <span class="math-inline">20</span> feet by <span class="math-inline">30</span> feet, as shown.
+Find the area of Perry’s lawn.
 
 
 9400 sq. ft
@@ -1181,7 +1081,11 @@ Denise is planning to put a deck in her back yard. The deck will be a <span clas
   - ⓑ 10.065 sq. ft
 
 
-*Painting* Leora wants to paint the nursery in her house. The nursery is an <span class="math-inline">8-ft</span> by <span class="math-inline">10-ft</span> rectangle, and the ceiling is <span class="math-inline">8</span> feet tall. There is a <span class="math-inline">3-ft</span> by <span class="math-inline">6.5-ft</span> door on one wall, a <span class="math-inline">3-ft</span> by <span class="math-inline">6.5-ft</span> closet door on another wall, and one <span class="math-inline">4-ft</span> by <span class="math-inline">3.5-ft</span> window on the third wall. The fourth wall has no doors or windows. If she will only paint the four walls, and not the ceiling or doors, how many square feet will she need to paint?
+*Painting* Leora wants to paint the nursery in her house.
+The nursery is an <span class="math-inline">8-ft</span> by <span class="math-inline">10-ft</span> rectangle, and the ceiling is <span class="math-inline">8</span> feet tall.
+There is a <span class="math-inline">3-ft</span> by <span class="math-inline">6.5-ft</span> door on one wall, a <span class="math-inline">3-ft</span> by <span class="math-inline">6.5-ft</span> closet door on another wall, and one <span class="math-inline">4-ft</span> by <span class="math-inline">3.5-ft</span> window on the third wall.
+The fourth wall has no doors or windows.
+If she will only paint the four walls, and not the ceiling or doors, how many square feet will she need to paint?
 
 
 ### Writing Exercises
@@ -1193,7 +1097,7 @@ Describe two different ways to find the area of this figure, and then show your 
 Answers will vary.
 
 
-A circle has a diameter of <span class="math-inline">14</span> feet. Find the area of the circle ⓐ using <span class="math-inline">3.14</span> for<span class="math-inline">π</span> ⓑ using <span class="math-inline"><sup>22</sup>∕<sub>7</sub></span> for <span class="math-inline">π.</span> ⓒ Which calculation to do prefer? Why?
+A circle has a diameter of <span class="math-inline">14</span> feet. Find the area of the circle ⓐ using <span class="math-inline">3.14</span> for<span class="math-inline">π</span> ⓑ using <span class="math-inline"><sup>22</sup>⁄<sub>7</sub></span> for <span class="math-inline">π.</span> ⓒ Which calculation to do prefer? Why?
 
 
 ### Self Check
@@ -1204,40 +1108,36 @@ A circle has a diameter of <span class="math-inline">14</span> feet. Find the ar
 ⓑ After looking at the checklist, do you think you are well prepared for the next section? Why or why not?
 
 
-<div class="prep-quiz">
 **Be Prepared!**
-
 
 Before you get started, take this readiness quiz.
 
 
 Evaluate <span class="math-inline">x<sup>3</sup></span> when <span class="math-inline">x=5.</span>
-If you missed this problem, review .
+If you missed this problem, review
 
 
 <span class="math-inline">125</span>
 
 
-<div class="prep-quiz">
 **Be Prepared!**
 
 
 Evaluate <span class="math-inline">2<sup>x</sup></span> when <span class="math-inline">x=5.</span>
-If you missed this problem, review .
+If you missed this problem, review
 
 
 <span class="math-inline">32</span>
 
 
-<div class="prep-quiz">
 **Be Prepared!**
 
 
-Find the area of a circle with radius <span class="math-inline"><sup>7</sup>∕<sub>2</sub>.</span>
-If you missed this problem, review .
+Find the area of a circle with radius <span class="math-inline"><sup>7</sup>⁄<sub>2</sub>.</span>
+If you missed this problem, review
 
 
-<span class="math-inline"><sup>77</sup>∕<sub>2</sub></span>
+<span class="math-inline"><sup>77</sup>⁄<sub>2</sub></span>
 
 
 In this section, we will finish our study of geometry applications. We find the volume and surface area of some three-dimensional figures. Since we will be solving applications, we will once again show our Problem-Solving Strategy for Geometry Applications.
@@ -1257,63 +1157,3 @@ In this section, we will finish our study of geometry applications. We find the 
 - *Check* the answer in the problem and make sure it makes sense.
 
 - *Answer* the question with a complete sentence.
-
-</div>
-
-</div>
-
-</div>
-
-</div>
-
-</div>
-
-</div>
-
-</div>
-
-</div>
-
-</div>
-
-</div>
-
-</div>
-
-</div>
-
-</div>
-
-</div>
-
-</div>
-
-</div>
-
-</div>
-
-</div>
-
-</div>
-
-</div>
-
-</div>
-
-</div>
-
-</div>
-
-</div>
-
-</div>
-
-</div>
-
-</div>
-
-</div>
-
-</div>
-
-</div>
