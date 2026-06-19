@@ -23,22 +23,26 @@ Equation notation f (x) = mx + b In the example of the train, we might use the n
 linear function A linear function is a function whose graph is a line. Linear functions can be written in the slope-intercept form of a line f (x) = mx + b where b is the initial or starting value of the function (when input, x = 0), and m is the constant rate of change, or slope of the function. The y-intercept is at (0, b).
 
 **Example  1**
-Using a Linear Function to Find the Pressure on a Diver The pressure, P, in pounds per square inch (PSI) on the diver in Figure 4 depends upon her depth below the water surface, d, in feet. This relationship may be modeled by the equation, P(d) = 0.434d + 14.696. Restate this function in words. Solution To restate the function in words, we need to describe each part of the equation. The pressure as a function of depth equals four hundred thirty-four thousandths times depth plus fourteen and six hundred ninety-six thousandths. Analysis The initial value, 14.696, is the pressure in PSI on the diver at a depth of 0 feet, which is the surface of the water. The rate of change, or slope, is 0.434 PSI per foot. This tells us that the pressure on the diver increases 0.434 PSI for each foot her depth increases. Determining Whether a Linear Function Is Increasing, Decreasing, or Constant The linear functions we used in the two previous examples increased over time, but not every linear function does. A linear function may be increasing, decreasing, or constant. For an increasing function, as with the train example, the output values increase as the input values increase. The graph of an increasing function has a positive slope. A line with a positive slope slants upward from left to right as in Figure 5(a). For a decreasing function, the slope is negative. The output values decrease as the input values increase. A line with a negative slope slants downward from left to right as in Figure 5(b). If the function is constant, the output values are the same for all input values so the slope is zero. A line with a slope of zero is horizontal as in Figure 5(c). Increasing function Decreasing function f (x) f f f f (x) f (x) x x x Constant function (c) (b) (a)
+Using a Linear Function to Find the Pressure on a Diver The pressure, P, in pounds per square inch (PSI) on the diver in Figure 4 depends upon her depth below the water surface, d, in feet. This relationship may be modeled by the equation, P(d) = 0.434d + 14.696. Restate this function in words.
+
+**Solution**
+
+To restate the function in words, we need to describe each part of the equation. The pressure as a function of depth equals four hundred thirty-four thousandths times depth plus fourteen and six hundred ninety-six thousandths. Analysis The initial value, 14.696, is the pressure in PSI on the diver at a depth of 0 feet, which is the surface of the water. The rate of change, or slope, is 0.434 PSI per foot. This tells us that the pressure on the diver increases 0.434 PSI for each foot her depth increases. Determining Whether a Linear Function Is Increasing, Decreasing, or Constant The linear functions we used in the two previous examples increased over time, but not every linear function does. A linear function may be increasing, decreasing, or constant. For an increasing function, as with the train example, the output values increase as the input values increase. The graph of an increasing function has a positive slope. A line with a positive slope slants upward from left to right as in Figure 5(a). For a decreasing function, the slope is negative. The output values decrease as the input values increase. A line with a negative slope slants downward from left to right as in Figure 5(b). If the function is constant, the output values are the same for all input values so the slope is zero. A line with a slope of zero is horizontal as in Figure 5(c). Increasing function Decreasing function f (x) f f f f (x) f (x) x x x Constant function (c) (b) (a)
 
 increasing and decreasing functions The slope determines if the function is an increasing linear function, a decreasing linear function, or a constant function. • f (x) = mx + b is an increasing function if m > 0. • f (x) = mx + b is an decreasing function if m < 0. • f (x) = mx + b is a constant function if m = 0.
 
 **Example  2**
-Deciding Whether a Function Is Increasing, Decreasing, or Constant Some recent studies suggest that a teenager sends an average of 60 texts per day.[8] For each of the following scenarios, find the linear function that describes the relationship between the input value and the output value. Then, determine whether the graph of the function is increasing, decreasing, or constant. a. The total number of texts a teen sends is considered a function of time in days. The input is the number of days, and output is the total number of texts sent. b. A teen has a limit of 500 texts per month in his or her data plan. The input is the number of days, and output is the total number of texts remaining for the month. c. A teen has an unlimited number of texts in his or her data plan for a cost of $50 per month. The input is the number of days, and output is the total cost of texting each month. Solution Analyze each function. a. The function can be represented as f (x) = 60x where x is the number of days. The slope, 60, is positive so the function is increasing. This makes sense because the total number of texts increases with each day. b. The function can be represented as f (x) = 500 - 60x where x is the number of days. In this case, the slope is negative so the function is decreasing. This makes sense because the number of texts remaining decreases each day and this function represents the number of texts remaining in the data plan after x days. c. The cost function can be represented as f (x) = 50 because the number of days does not affect the total cost. The slope is 0 so the function is constant. Calculating and Interpreting Slope In the examples we have seen so far, we have had the slope provided for us. However, we often need to calculate the slope given input and output values. Given two values for the input, x^{1} and x^{2}, and two corresponding values for the output, y^{1} and y^{2} —which can be represented by a set of points, (x^{1}, y^{1}) and (x^{2}, y^{2}) —we can calculate the slope m, as follows m =  change in output (rise)
+Deciding Whether a Function Is Increasing, Decreasing, or Constant Some recent studies suggest that a teenager sends an average of 60 texts per day.[8] For each of the following scenarios, find the linear function that describes the relationship between the input value and the output value. Then, determine whether the graph of the function is increasing, decreasing, or constant. a. The total number of texts a teen sends is considered a function of time in days. The input is the number of days, and output is the total number of texts sent. b. A teen has a limit of 500 texts per month in his or her data plan. The input is the number of days, and output is the total number of texts remaining for the month. c. A teen has an unlimited number of texts in his or her data plan for a cost of $50 per month. The input is the number of days, and output is the total cost of texting each month.
+
+**Solution**
+
+Analyze each function. a. The function can be represented as f (x) = 60x where x is the number of days. The slope, 60, is positive so the function is increasing. This makes sense because the total number of texts increases with each day. b. The function can be represented as f (x) = 500 - 60x where x is the number of days. In this case, the slope is negative so the function is decreasing. This makes sense because the number of texts remaining decreases each day and this function represents the number of texts remaining in the data plan after x days. c. The cost function can be represented as f (x) = 50 because the number of days does not affect the total cost. The slope is 0 so the function is constant. Calculating and Interpreting Slope In the examples we have seen so far, we have had the slope provided for us. However, we often need to calculate the slope given input and output values. Given two values for the input, x^{1} and x^{2}, and two corresponding values for the output, y^{1} and y^{2} —which can be represented by a set of points, (x^{1}, y^{1}) and (x^{2}, y^{2}) —we can calculate the slope m, as follows m =  change in output (rise)
 
 __
 
 change in input (run)  =  \Delta y _ \Delta x  =  y^{2} - y^{1} _ x^{2} - x^{1}  where \Delta y is the vertical displacement and \Delta x is the horizontal displacement. Note in function notation two corresponding values for the output y^{1} and y^{2} for the function f, y^{1} = f (x^{1}) and y^{2} = f (x^{2}), so we could equivalently write m =  f (x^{2}) - f (x^{1}) _ x^{2} - x^{1}  measures steepness. The greater the absolute value of the slope, the steeper the line is. 8 http://www.cbsnews.com/8301-501465_162-57400228-501465/teens-are-sending-60-texts-a-day-study-says/
 
-x y (x^{1} , y^{1}) (x^{2} , y^{2}) x^{2} – x^{1} y^{2} – y^{1} m = = ∆y ∆x y^{2} – y^{1} x^{2} – x^{1} is used as the (x^{2}, y^{2}) and which is the (x^{1}, y^{1}), as long as each calculation is started with the elements from the same coordinate pair. Are the units for slope always  units for the output
-
-__
-
-units for the input  ? Yes. Think of the units as the change of output value for each unit of change in input value. An example of slope could be miles per hour or dollars per day. Notice the units appear as a ratio of units for the output per units for the input. calculate slope The slope, or rate of change, of a function m can be calculated according to the following: m =  change in output (rise)
+x y (x^{1} , y^{1}) (x^{2} , y^{2}) x^{2} – x^{1} y^{2} – y^{1} m = = ∆y ∆x y^{2} – y^{1} x^{2} – x^{1} is used as the (x^{2}, y^{2}) and which is the (x^{1}, y^{1}), as long as each calculation is started with the elements from the same coordinate pair. Are the units for slope always  units for the outpu\frac{t}{u}nits for the input  ? Yes. Think of the units as the change of output value for each unit of change in input value. An example of slope could be miles per hour or dollars per day. Notice the units appear as a ratio of units for the output per units for the input. calculate slope The slope, or rate of change, of a function m can be calculated according to the following: m =  change in output (rise)
 
 __
 
@@ -48,18 +52,22 @@ change in input (run)  =  \Delta y _ \Delta x  =  y^{2} - y^{1} _ x^{2} - x^{1} 
 Given two points from a linear function, calculate and interpret the slope. 1. Determine the units for output and input values. 2. Calculate the change of output values and change of input values. 3. Interpret the slope as the change in output values per unit of the input value.
 
 **Example  3**
-Finding the Slope of a Linear Function If f (x) is a linear function, and (3, -2) and (8, 1) are points on the line, find the slope. Is this function increasing or decreasing? Solution The coordinate pairs are (3, -2) and (8, 1). To find the rate of change, we divide the change in output by the change in input. m =  change in output
+Finding the Slope of a Linear Function If f (x) is a linear function, and (3, -2) and (8, 1) are points on the line, find the slope. Is this function increasing or decreasing?
 
-__
+**Solution**
 
-change in input  =  1 - (-2) ________ 8 - 3  =  3 __ 5  We could also write the slope as m = 0.6. The function is increasing because m > 0. Analysis As noted earlier, the order in which we write the points does not matter when we compute the slope of the line as long as the first output value, or y-coordinate, used corresponds with the first input value, or x-coordinate, used.
+The coordinate pairs are (3, -2) and (8, 1). To find the rate of change, we divide the change in output by the change in input. m =  change in outpu\frac{t}{c}hange in input  =  1 - (-2) ________ 8 - 3  =  \frac{3}{5}  We could also write the slope as m = 0.6. The function is increasing because m > 0. Analysis As noted earlier, the order in which we write the points does not matter when we compute the slope of the line as long as the first output value, or y-coordinate, used corresponds with the first input value, or x-coordinate, used.
 
 **Try It #1**
 If f (x) is a linear function, and (2, 3) and (0, 4) are points on the line, find the slope. Is this function increasing or decreasing?
 
 
 **Example  4**
-Finding the Population Change from a Linear Function The population of a city increased from 23,400 to 27,800 between 2008 and 2012. Find the change of population per year if we assume the change was constant from 2008 to 2012. Solution The rate of change relates the change in population to the change in time. The population increased by 27,800 - 23,400 = 4,400 people over the four-year time interval. To find the rate of change, divide the change in the number of people by the number of years. __ 4 years  =  1,100 people __ year  So the population increased by 1,100 people per year. Analysis Because we are told that the population increased, we would expect the slope to be positive. This positive slope we calculated is therefore reasonable.
+Finding the Population Change from a Linear Function The population of a city increased from 23,400 to 27,800 between 2008 and 2012. Find the change of population per year if we assume the change was constant from 2008 to 2012.
+
+**Solution**
+
+The rate of change relates the change in population to the change in time. The population increased by 27,800 - 23,400 = 4,400 people over the four-year time interval. To find the rate of change, divide the change in the number of people by the number of years. __ 4 years  =  1,100 peopl\frac{e}{y}ear  So the population increased by 1,100 people per year. Analysis Because we are told that the population increased, we would expect the slope to be positive. This positive slope we calculated is therefore reasonable.
 
 **Try It #2**
 The population of a small town increased from 1,442 to 1,868 between 2009 and 2012. Find the change of population per year if we assume the change was constant from 2009 to 2012. Writing the Point-Slope Form of a Linear Equation Up until now, we have been using the slope-intercept form of a linear equation to describe linear functions. Here, we will learn another way to write a linear function, the point-slope form.
@@ -72,13 +80,13 @@ m(x - x^{1}) =  y - y^{1} _ x - x^{1} (x - x^{1}) Multiply both sides by (x - x^
 
 m(x - x^{1}) = y - y^{1} Simplify.
 
-y - y^{1} = m(x - x^{1}) Rearrange. Keep in mind that the slope-intercept form and the point-slope form can be used to describe the same function. We can move from one form to another using basic algebra. For example, suppose we are given an equation in point-slope form, y - 4 = - 1 __ 2  (x - 6). We can convert it to the slope-intercept form as shown.
+y - y^{1} = m(x - x^{1}) Rearrange. Keep in mind that the slope-intercept form and the point-slope form can be used to describe the same function. We can move from one form to another using basic algebra. For example, suppose we are given an equation in point-slope form, y - 4 = - \frac{1}{2}  (x - 6). We can convert it to the slope-intercept form as shown.
 
-y - 4 = - 1 __ 2  (x - 6)
+y - 4 = - \frac{1}{2}  (x - 6)
 
-y - 4 = - 1 __ 2 x + 3 Distribute the - 1 __ 2 .
+y - 4 = - \frac{1}{2} x + 3 Distribute the - \frac{1}{2} .
 
-y = - 1 __ 2 x + 7 Add 4 to each side. Therefore, the same line can be described in slope-intercept form as y = - 1 __ 2 x + 7. point-slope form of a linear equation The point-slope form of a linear equation takes the form y - y^{1} = m(x - x^{1}) where m is the slope, x^{1} and y^{1} are the x- and y-coordinates of a specific point through which the line passes.
+y = - \frac{1}{2} x + 7 Add 4 to each side. Therefore, the same line can be described in slope-intercept form as y = - \frac{1}{2} x + 7. point-slope form of a linear equation The point-slope form of a linear equation takes the form y - y^{1} = m(x - x^{1}) where m is the slope, x^{1} and y^{1} are the x- and y-coordinates of a specific point through which the line passes.
 
 
 ### Writing the Equation of a Line Using a Point and the Slope
@@ -97,7 +105,11 @@ y = 2x - 7 Add 1 to each side. Both equations, y - 1 = 2(x - 4) and y = 2x - 7, 
 **Example  5**
 
 ### Writing Linear Equations Using a Point and the Slope
-Write the point-slope form of an equation of a line with a slope of 3 that passes through the point (6, -1). Then rewrite it in the slope-intercept form. Solution Let’s figure out what we know from the given information. The slope is 3, so m = 3. We also know one point, so we know x^{1} = 6 and y^{1} = -1. Now we can substitute these values into the general point-slope equation.
+Write the point-slope form of an equation of a line with a slope of 3 that passes through the point (6, -1). Then rewrite it in the slope-intercept form.
+
+**Solution**
+
+Let’s figure out what we know from the given information. The slope is 3, so m = 3. We also know one point, so we know x^{1} = 6 and y^{1} = -1. Now we can substitute these values into the general point-slope equation.
 
 y - y^{1} = m(x - x^{1})
 
@@ -116,30 +128,34 @@ Write the point-slope form of an equation of a line with a slope of -2 that pass
 
 m =  y^{2} - y^{1} _ x^{2} - x^{1} 
 
-=  2 - 1 _ 3 - 0 
+=  2 - \frac{1}{3} - 0 
 
-=  1 __ 3  Now we can use the slope we found and the coordinates of one of the points to find the equation for the line. Let use (0, 1) for our point.
+=  \frac{1}{3}  Now we can use the slope we found and the coordinates of one of the points to find the equation for the line. Let use (0, 1) for our point.
 
 y - y^{1} = m(x - x^{1})
 
-y - 1 =  1 __ 3 (x - 0) As before, we can use algebra to rewrite the equation in the slope-intercept form.
+y - 1 =  \frac{1}{3} (x - 0) As before, we can use algebra to rewrite the equation in the slope-intercept form.
 
-y - 1 =  1 __ 3 (x - 0)
+y - 1 =  \frac{1}{3} (x - 0)
 
-y - 1 =  1 __ 3 x Distribute the  1 __ 3 .
+y - 1 =  \frac{1}{3} x Distribute the  \frac{1}{3} .
 
-y =  1 __ 3 x + 1 Add 1 to each side. Both equations describe the line shown in Figure 8. x y
+y =  \frac{1}{3} x + 1 Add 1 to each side. Both equations describe the line shown in Figure 8. x y
 
 **Example  6**
 
 ### Writing Linear Equations Using Two Points
-Write the point-slope form of an equation of a line that passes through the points (5, 1) and (8, 7). Then rewrite it in the slope-intercept form. Solution Let’s begin by finding the slope.
+Write the point-slope form of an equation of a line that passes through the points (5, 1) and (8, 7). Then rewrite it in the slope-intercept form.
+
+**Solution**
+
+Let’s begin by finding the slope.
 
 m =  y^{2} - y^{1} _ x^{2} - x^{1} 
 
-=  7 - 1 _ 8 - 5 
+=  7 - \frac{1}{8} - 5 
 
-=  6 __ 3 
+=  \frac{6}{3} 
 
 = 2 So m = 2. Next, we substitute the slope and the coordinates for one of the points into the general point-slope equation. We can choose either point, but we will use (5, 1).
 
@@ -159,23 +175,23 @@ Write the point-slope form of an equation of a line that passes through the poin
 
 m =  y^{2} - y^{1} _ x^{2} - x^{1} 
 
-=  4 - 7 _ 4 - 0 
+=  4 - \frac{7}{4} - 0 
 
-= - 3 __ 4  Now we can substitute the slope and the coordinates of one of the points into the point-slope form.
+= - \frac{3}{4}  Now we can substitute the slope and the coordinates of one of the points into the point-slope form.
 
 y - y^{1} = m(x - x^{1})
 
-y - 4 = - 3 __ 4 (x - 4) If we want to rewrite the equation in the slope-intercept form, we would find
+y - 4 = - \frac{3}{4} (x - 4) If we want to rewrite the equation in the slope-intercept form, we would find
 
-y - 4 = - 3 __ 4 (x - 4)
+y - 4 = - \frac{3}{4} (x - 4)
 
-y - 4 = - 3 __ 4 x + 3
+y - 4 = - \frac{3}{4} x + 3
 
-y = - 3 __ 4 x + 7 If we wanted to find the slope-intercept form without first writing the point-slope form, we could have recognized that the line crosses the y-axis when the output value is 7. Therefore, b = 7. We now have the initial value b and the slope m so we can substitute m and b into the slope-intercept form of a line. f (x) = mx + b
+y = - \frac{3}{4} x + 7 If we wanted to find the slope-intercept form without first writing the point-slope form, we could have recognized that the line crosses the y-axis when the output value is 7. Therefore, b = 7. We now have the initial value b and the slope m so we can substitute m and b into the slope-intercept form of a line. f (x) = mx + b
 
 ↑ ↑
 
-- 3 __ 4  7 f (x) = - 3 __ 4 x + 7 So the function is f (x) = - 3 __ 4 x + 7, and the linear equation would be y = - 3 __ 4 x + 7.
+- \frac{3}{4}  7 f (x) = - \frac{3}{4} x + 7 So the function is f (x) = - \frac{3}{4} x + 7, and the linear equation would be y = - \frac{3}{4} x + 7.
 
 
 **How To…**
@@ -184,7 +200,11 @@ Given the graph of a linear function, write an equation to represent the functio
 **Example  7**
 
 ### Writing an Equation for a Linear Function
-Write an equation for a linear function given a graph of f shown in Figure 10. x f y Solution Identify two points on the line, such as (0, 2) and (-2, -4). Use the points to calculate the slope.
+Write an equation for a linear function given a graph of f shown in Figure 10. x f y
+
+**Solution**
+
+Identify two points on the line, such as (0, 2) and (-2, -4). Use the points to calculate the slope.
 
 m =  y^{2} - y^{1} _ x^{2} - x^{1} 
 
@@ -210,14 +230,22 @@ y = 3x + 2 Analysis This makes sense because we can see from Figure 11 that the 
 **Example  8**
 
 ### Writing an Equation for a Linear Cost Function
-Suppose Ben starts a company in which he incurs a fixed cost of $1,250 per month for the overhead, which includes his office rent. His production costs are $37.50 per item. Write a linear function C where C(x) is the cost for x items produced in a given month. Solution The fixed cost is present every month, $1,250. The costs that can vary include the cost to produce each item, which is $37.50 for Ben. The variable cost, called the marginal cost, is represented by 37.5. The cost Ben incurs is the sum of these two costs, represented by C(x) = 1250 + 37.5x. Analysis If Ben produces 100 items in a month, his monthly cost is represented by
+Suppose Ben starts a company in which he incurs a fixed cost of $1,250 per month for the overhead, which includes his office rent. His production costs are $37.50 per item. Write a linear function C where C(x) is the cost for x items produced in a given month.
+
+**Solution**
+
+The fixed cost is present every month, $1,250. The costs that can vary include the cost to produce each item, which is $37.50 for Ben. The variable cost, called the marginal cost, is represented by 37.5. The cost Ben incurs is the sum of these two costs, represented by C(x) = 1250 + 37.5x. Analysis If Ben produces 100 items in a month, his monthly cost is represented by
 
 So his monthly cost would be $5,000.
 
 **Example  9**
 
 ### Writing an Equation for a Linear Function Given Two Points
-If f is a linear function, with f (3) = -2 , and f (8) = 1 , find an equation for the function in slope-intercept form. Solution We can write the given points using coordinates.
+If f is a linear function, with f (3) = -2 , and f (8) = 1 , find an equation for the function in slope-intercept form.
+
+**Solution**
+
+We can write the given points using coordinates.
 
 f (3) = -2 → (3, -2)
 
@@ -227,17 +255,17 @@ m =  y^{2} - y^{1} _ x^{2} - x^{1}
 
 =  1 - (-2) ________ 8 - 3 
 
-=  3 __ 5  Substitute the slope and the coordinates of one of the points into the point-slope form.
+=  \frac{3}{5}  Substitute the slope and the coordinates of one of the points into the point-slope form.
 
 y - y^{1} = m(x - x^{1})
 
-y - (-2) =  3 __ 5  (x - 3) We can use algebra to rewrite the equation in the slope-intercept form.
+y - (-2) =  \frac{3}{5}  (x - 3) We can use algebra to rewrite the equation in the slope-intercept form.
 
-y + 2 =  3 __ 5 (x - 3)
+y + 2 =  \frac{3}{5} (x - 3)
 
-y + 2 =  3 __ 5 x -  9 __ 5 
+y + 2 =  \frac{3}{5} x -  \frac{9}{5} 
 
-y =  3 __ 5 x -  19 __ 5 
+y =  \frac{3}{5} x -  \frac{19}{5} 
 
 **Try It #5**
 If f (x) is a linear function, with f (2) = -11, and f (4) = -25, find an equation for the function in slope-intercept form. Modeling Real-World Problems with Linear Functions In the real world, problems are not always explicitly stated in terms of a function or represented with a graph. Fortunately, we can analyze the problem by first representing it as a linear function and then interpreting the components of the function. As long as we know, or can figure out, the initial value and the rate of change of a linear function, we can solve many different kinds of real-world problems.
@@ -247,7 +275,11 @@ If f (x) is a linear function, with f (2) = -11, and f (4) = -25, find an equati
 Given a linear function f and the initial value and rate of change, evaluate f (c). 1. Determine the initial value and the rate of change (slope). 2. Substitute the values into f (x) = mx + b. 3. Evaluate the function at x = c.
 
 **Example  10**
-Using a Linear Function to Determine the Number of Songs in a Music Collection Marcus currently has 200 songs in his music collection. Every month, he adds 15 new songs. Write a formula for the number of songs, N, in his collection as a function of time, t, the number of months. How many songs will he own in a year? Solution The initial value for this function is 200 because he currently owns 200 songs, so N(0) = 200, which means that b = 200. The number of songs increases by 15 songs per month, so the rate of change is 15 songs per month. Therefore we know that m = 15. We can substitute the initial value and the rate of change into the slope-intercept form of a line.
+Using a Linear Function to Determine the Number of Songs in a Music Collection Marcus currently has 200 songs in his music collection. Every month, he adds 15 new songs. Write a formula for the number of songs, N, in his collection as a function of time, t, the number of months. How many songs will he own in a year?
+
+**Solution**
+
+The initial value for this function is 200 because he currently owns 200 songs, so N(0) = 200, which means that b = 200. The number of songs increases by 15 songs per month, so the rate of change is 15 songs per month. Therefore we know that m = 15. We can substitute the initial value and the rate of change into the slope-intercept form of a line.
 
 f (x) = mx + b
 
@@ -258,7 +290,11 @@ N(t) = 15t + 200 We can write the formula N(t) = 15t + 200. With this formula, w
 = 380 Marcus will have 380 songs in 12 months. Analysis Notice that N is an increasing linear function. As the input (the number of months) increases, the output (number of songs) increases as well.
 
 **Example  11**
-Using a Linear Function to Calculate Salary Plus Commission Working as an insurance salesperson, Ilya earns a base salary plus a commission on each new policy. Therefore, Ilya’s weekly income, I, depends on the number of new policies, n, he sells during the week. Last week he sold 3 new policies, and earned $760 for the week. The week before, he sold 5 new policies and earned $920. Find an equation for I(n), and interpret the meaning of the components of the equation. Solution The given information gives us two input-output pairs: (3,760) and (5,920). We start by finding the rate of change.
+Using a Linear Function to Calculate Salary Plus Commission Working as an insurance salesperson, Ilya earns a base salary plus a commission on each new policy. Therefore, Ilya’s weekly income, I, depends on the number of new policies, n, he sells during the week. Last week he sold 3 new policies, and earned $760 for the week. The week before, he sold 5 new policies and earned $920. Find an equation for I(n), and interpret the meaning of the components of the equation.
+
+**Solution**
+
+The given information gives us two input-output pairs: (3,760) and (5,920). We start by finding the rate of change.
 
 ________ 5 - 3 
 
@@ -275,7 +311,11 @@ I(n) = 80n + b
 The value of b is the starting value for the function and represents Ilya’s income when n = 0, or when no new policies are sold. We can interpret this as Ilya’s base salary for the week, which does not depend upon the number of policies sold. We can now write the final equation. I(n) = 80n + 520 Our final interpretation is that Ilya’s base salary is $520 per week and he earns an additional $80 commission for each policy sold.
 
 **Example  12**
-Using Tabular Form to Write an Equation for a Linear Function w, number of weeks P(w), number of rats Solution We can see from the table that the initial value for the number of rats is 1000, so b = 1000. Rather than solving for m, we can tell from looking at the table that the population increases by 80 for every 2 weeks that pass. This means that the rate of change is 80 rats per 2 weeks, which can be simplified to 40 rats per week. If we did not notice the rate of change from the table we could still solve for the slope using any two points from the table. For example, using (2, 1080) and (6, 1240)
+Using Tabular Form to Write an Equation for a Linear Function w, number of weeks P(w), number of rats
+
+**Solution**
+
+We can see from the table that the initial value for the number of rats is 1000, so b = 1000. Rather than solving for m, we can tell from looking at the table that the population increases by 80 for every 2 weeks that pass. This means that the rate of change is 80 rats per 2 weeks, which can be simplified to 40 rats per week. If we did not notice the rate of change from the table we could still solve for the slope using any two points from the table. For example, using (2, 1080) and (6, 1240)
 
 __________ 6 - 2 
 
@@ -288,11 +328,11 @@ A new plant food was introduced to a young tree to test its effect on the height
 
 
 ## 2.1 Section Exercises
-2.1 Section EXERCISES Verbal 1. Terry is skiing down a steep hill. Terry’s elevation, E(t), in feet after t seconds is given by E(t) = 3000 - 70t. Write a complete sentence describing Terry’s starting elevation and how it is changing over time. 2. Maria is climbing a mountain. Maria’s elevation, E(t), in feet after t minutes is given by E(t) = 1200 + 40t. Write a complete sentence describing Maria’s starting elevation and how it is changing over time. 3. Jessica is walking home from a friend’s house. After 2 minutes she is 1.4 miles from home. Twelve minutes after leaving, she is 0.9 miles from home. What is her rate in miles per hour? 4. Sonya is currently 10 miles from home and is walking farther away at 2 miles per hour. Write an equation for her distance from home t hours from now. 5. A boat is 100 miles away from the marina, sailing directly toward it at 10 miles per hour. Write an equation for the distance of the boat from the marina after t hours. 6. Timmy goes to the fair with $40. Each ride costs $2. How much money will he have left after riding n rides? Algebraic For the following exercises, determine whether the equation of the curve can be written as a linear function. 7. y =  1 __ 4 x + 6 8. y = 3x - 5 9. y = 3x 2 - 2 14. - x - 3 ______  = 2y For the following exercises, determine whether each function is increasing or decreasing. 15. f (x) = 4x + 3 16. g(x) = 5x + 6 17. a(x) = 5 - 2x 18. b(x) = 8 - 3x 19. h(x) = -2x + 4 20. k(x) = -4x + 1 21. j(x) =  1 __ 2 x - 3 22. p(x) =  1 __ 4 x - 5 23. n(x) = - 1 __ 3 x - 2 24. m(x) = - 3 __ 8 x + 3 For the following exercises, find the slope of the line that passes through the two given points.
+2.1 Section EXERCISES Verbal 1. Terry is skiing down a steep hill. Terry’s elevation, E(t), in feet after t seconds is given by E(t) = 3000 - 70t. Write a complete sentence describing Terry’s starting elevation and how it is changing over time. 2. Maria is climbing a mountain. Maria’s elevation, E(t), in feet after t minutes is given by E(t) = 1200 + 40t. Write a complete sentence describing Maria’s starting elevation and how it is changing over time. 3. Jessica is walking home from a friend’s house. After 2 minutes she is 1.4 miles from home. Twelve minutes after leaving, she is 0.9 miles from home. What is her rate in miles per hour? 4. Sonya is currently 10 miles from home and is walking farther away at 2 miles per hour. Write an equation for her distance from home t hours from now. 5. A boat is 100 miles away from the marina, sailing directly toward it at 10 miles per hour. Write an equation for the distance of the boat from the marina after t hours. 6. Timmy goes to the fair with $40. Each ride costs $2. How much money will he have left after riding n rides? Algebraic For the following exercises, determine whether the equation of the curve can be written as a linear function. 7. y =  \frac{1}{4} x + 6 8. y = 3x - 5 9. y = 3x 2 - 2 14. - x - 3 ______  = 2y For the following exercises, determine whether each function is increasing or decreasing. 15. f (x) = 4x + 3 16. g(x) = 5x + 6 17. a(x) = 5 - 2x 18. b(x) = 8 - 3x 19. h(x) = -2x + 4 20. k(x) = -4x + 1 21. j(x) =  \frac{1}{2} x - 3 22. p(x) =  \frac{1}{4} x - 5 23. n(x) = - \frac{1}{3} x - 2 24. m(x) = - \frac{3}{8} x + 3 For the following exercises, find the slope of the line that passes through the two given points.
 
 For the following exercises, given each set of information, find a linear equation satisfying the conditions, if possible. 30. f (-5) = -4, and f (5) = 2 31. f (-1) = 4 and f (5) = 1 33. Passes through (1, 5) and (4, 11) 34. Passes through (-1, 4) and (5, 2) 35. Passes through (-2, 8) and (4, 6) 36. x-intercept at (-2, 0) and y-intercept at (0, -3) 37. x-intercept at (-5, 0) and y-intercept at (0, 4) Graphical For the following exercises, find the slope of the lines graphed. x y x y x y For the following exercises, write an equation for the lines graphed. x y x y x y x y x y x y
 
-Numeric For the following exercises, which of the tables could represent a linear function? For each that could be linear, find a linear equation that models the data. x g(x) -10 -25 -40 x h(x) x f (x) -5 x k(x) x g(x) -19 -44 -69 x f (x) x f (x) -4 x k(x) Technology 55. If f is a linear function, f (0.1) = 11.5, and f (0.4) = -5.9, find an equation for the function. 56. Graph the function f on a domain of [-10, 10] : f (x) = 0.02x - 0.01. Enter the function in a graphing utility. For the viewing window, set the minimum value of x to be -10 and the maximum value of x to be 10. 57. Graph the function f on a domain of [-10, 10] : f (x) = 2,500x + 4,000 58. Table 3 shows the input, w, and output, k, for a linear function k. a. Fill in the missing values of the table. b. Write the linear function k, round to 3 decimal places. w -10 5.5 67.5 b k -26 a -44 59. Table 4 shows the input, p, and output, q, for a linear function q. a. Fill in the missing values of the table. b. Write the linear function k. p 0.5 0.8 b q a 60. Graph the linear function f on a domain of [-10, 10] for the function whose slope is  1 __ 8  and y-intercept is  31 __ 16 . Label the points for the input values of -10 and 10. 61. Graph the linear function f on a domain of [-0.1, 0.1] for the function whose slope is 75 and y-intercept is -22.5. Label the points for the input values of -0.1 and 0.1. 62. Graph the linear function f where f (x) = ax + b on the same set of axes on a domain of [-4, 4] for the following values of a and b. a. a = 2; b = 3 b. a = 2; b = 4 c. a = 2; b = -4 d. a = 2; b = -5 Extensions 63. Find the value of x if a linear function goes through the following points and has the following slope: 64. Find the value of y if a linear function goes through the following points and has the following slope: 65. Find the equation of the line that passes through the following points: (a, b) and (a, b + 1) 66. Find the equation of the line that passes through the following points: (2a, b) and (a, b + 1) 67. Find the equation of the line that passes through the following points: (a, 0) and (c, d)
+Numeric For the following exercises, which of the tables could represent a linear function? For each that could be linear, find a linear equation that models the data. x g(x) -10 -25 -40 x h(x) x f (x) -5 x k(x) x g(x) -19 -44 -69 x f (x) x f (x) -4 x k(x) Technology 55. If f is a linear function, f (0.1) = 11.5, and f (0.4) = -5.9, find an equation for the function. 56. Graph the function f on a domain of [-10, 10] : f (x) = 0.02x - 0.01. Enter the function in a graphing utility. For the viewing window, set the minimum value of x to be -10 and the maximum value of x to be 10. 57. Graph the function f on a domain of [-10, 10] : f (x) = 2,500x + 4,000 58. Table 3 shows the input, w, and output, k, for a linear function k. a. Fill in the missing values of the table. b. Write the linear function k, round to 3 decimal places. w -10 5.5 67.5 b k -26 a -44 59. Table 4 shows the input, p, and output, q, for a linear function q. a. Fill in the missing values of the table. b. Write the linear function k. p 0.5 0.8 b q a 60. Graph the linear function f on a domain of [-10, 10] for the function whose slope is  \frac{1}{8}  and y-intercept is  \frac{31}{16} . Label the points for the input values of -10 and 10. 61. Graph the linear function f on a domain of [-0.1, 0.1] for the function whose slope is 75 and y-intercept is -22.5. Label the points for the input values of -0.1 and 0.1. 62. Graph the linear function f where f (x) = ax + b on the same set of axes on a domain of [-4, 4] for the following values of a and b. a. a = 2; b = 3 b. a = 2; b = 4 c. a = 2; b = -4 d. a = 2; b = -5 Extensions 63. Find the value of x if a linear function goes through the following points and has the following slope: 64. Find the value of y if a linear function goes through the following points and has the following slope: 65. Find the equation of the line that passes through the following points: (a, b) and (a, b + 1) 66. Find the equation of the line that passes through the following points: (2a, b) and (a, b + 1) 67. Find the equation of the line that passes through the following points: (a, 0) and (c, d)
 
 Real-World Applications 68. At noon, a barista notices that she has $20 in her tip jar. If she makes an average of $0.50 from each customer, how much will she have in her tip jar if she serves n more customers during her shift? 69. A gym membership with two personal training sessions costs $125, while gym membership with five personal training sessions costs $260. What is cost per session? 70. A clothing business finds there is a linear relationship between the number of shirts, n, it can sell and the price, p, it can charge per shirt. In particular, historical data shows that 1,000 shirts can be sold at a price of $30, while 3,000 shirts can be sold at a price of $22. Find a linear equation in the form p(n) = mn + b that gives the price p they can charge for n shirts. 71. A phone company charges for service according to the formula: C(n) = 24 + 0.1n, where n is the number of minutes talked, and C(n) is the monthly charge, in dollars. Find and interpret the rate of change and initial value. 72. A farmer finds there is a linear relationship between the number of bean stalks, n, she plants and the yield, y, each plant produces. When she plants 30 stalks, each plant yields 30 oz of beans. When she plants 34 stalks, each plant produces 28 oz of beans. Find a linear relationship in the form y = mn + b that gives the yield when n stalks are planted. 73. A city’s population in the year 1960 was 287,500. In 1989 the population was 275,900. Compute the rate of growth of the population and make a statement about the population rate of change in people per year. 74. A town’s population has been growing linearly. In 2003, the population was 45,000, and the population has been growing by 1,700 people each year. Write an equation, P(t), for the population t years after 2003. 75. Suppose that average annual income (in dollars) for the years 1990 through 1999 is given by the linear function: I(x) = 1,054x + 23,286, where x is the number of years after 1990. Which of the following interprets the slope in the context of the problem? a. As of 1990, average annual income was $23,286. b. In the ten-year period from 1990–1999, average annual income increased by a total of $1,054. c. Each year in the decade of the 1990s, average annual income increased by $1,054. d. Average annual income rose to a level of $23,286 by the end of 1999. 76. When temperature is 0 degrees Celsius, the Fahrenheit temperature is 32. When the Celsius temperature is 100, the corresponding Fahrenheit temperature is 212. Express the Fahrenheit temperature as a linear function of C, the Celsius temperature, F (C). a. Find the rate of change of Fahrenheit temperature for each unit change temperature of Celsius. b. Find and interpret F (28). c. Find and interpret F (-40).
 
@@ -306,7 +346,11 @@ Given a linear function, graph by plotting points. 1. Choose a minimum of two in
 **Example  1**
 
 ### Graphing by Plotting Points
-Graph f (x) = - 2 __ 3 x + 5 by plotting points. Solution Begin by choosing input values. This function includes a fraction with a denominator of 3, so let’s choose multiples of 3 as input values. We will choose 0, 3, and 6. Learning Objectives
+Graph f (x) = - \frac{2}{3} x + 5 by plotting points.
+
+**Solution**
+
+Begin by choosing input values. This function includes a fraction with a denominator of 3, so let’s choose multiples of 3 as input values. We will choose 0, 3, and 6. Learning Objectives
 In this section, you will:
 • Graph linear functions.
 • Write the equation for a linear function from the graph of a line.
@@ -315,17 +359,17 @@ In this section, you will:
 • Solve a system of linear equations.
 Evaluate the function at each input value, and use the output value to identify coordinate pairs.
 
-x = 0 f (0) = - 2 __ 3 (0) + 5 = 5
+x = 0 f (0) = - \frac{2}{3} (0) + 5 = 5
 
-x = 3 f (3) = - 2 __ 3 (3) + 5 = 3
+x = 3 f (3) = - \frac{2}{3} (3) + 5 = 3
 
-x = 6 f (6) = - 2 __ 3 (6) + 5 = 1 Plot the coordinate pairs and draw a line through the points. Figure 1 represents the graph of the function f (x) = - 2 __ 3 x + 5. f f(x) x __ 3 x + 5.
+x = 6 f (6) = - \frac{2}{3} (6) + 5 = 1 Plot the coordinate pairs and draw a line through the points. Figure 1 represents the graph of the function f (x) = - \frac{2}{3} x + 5. f f(x) \frac{x}{3} x + 5.
 
 **Analysis**
 The graph of the function is a line as expected for a linear function. In addition, the graph has a downward slant, which indicates a negative slope. This is also expected from the negative constant rate of change in the equation for the function.
 
 **Try It #1**
-Graph f (x) = - 3 __ 4 x + 6 by plotting points. Graphing a Function Using y-intercept and Slope Another way to graph linear functions is by using specific characteristics of the function rather than plotting points. The first characteristic is its y-intercept, which is the point at which the input value is zero. To find the y-intercept, we can set x = 0 in the equation. The other characteristic of the linear function is its slope m, which is a measure of its steepness. Recall that the slope is the rate of change of the function. The slope of a function is equal to the ratio of the change in outputs to the change in inputs. Another way to think about the slope is by dividing the vertical difference, or rise, by the horizontal difference, or run. We encountered both the y-intercept and the slope in Linear Functions. Let’s consider the following function. f (x) =  1 __ 2 x + 1 The slope is  1 __ 2 . Because the slope is positive, we know the graph will slant upward from left to right. The y-intercept is the point on the graph when x = 0. The graph crosses the y-axis at (0, 1). Now we know the slope and the y-intercept. We can begin graphing by plotting the point (0, 1). We know that the slope is rise over run, m =  rise ___ run . From our example, we have m =  1 __ 2 , which means that the rise is 1 and the run is 2. So starting from our y-intercept (0, 1), we can rise 1 and then run 2, or run 2 and then rise 1. We repeat until we have a few points, and then we draw a line through the points as shown in Figure 2. f y-intercept ↑Run = 2 ←Rise = 1 y x
+Graph f (x) = - \frac{3}{4} x + 6 by plotting points. Graphing a Function Using y-intercept and Slope Another way to graph linear functions is by using specific characteristics of the function rather than plotting points. The first characteristic is its y-intercept, which is the point at which the input value is zero. To find the y-intercept, we can set x = 0 in the equation. The other characteristic of the linear function is its slope m, which is a measure of its steepness. Recall that the slope is the rate of change of the function. The slope of a function is equal to the ratio of the change in outputs to the change in inputs. Another way to think about the slope is by dividing the vertical difference, or rise, by the horizontal difference, or run. We encountered both the y-intercept and the slope in Linear Functions. Let’s consider the following function. f (x) =  \frac{1}{2} x + 1 The slope is  \frac{1}{2} . Because the slope is positive, we know the graph will slant upward from left to right. The y-intercept is the point on the graph when x = 0. The graph crosses the y-axis at (0, 1). Now we know the slope and the y-intercept. We can begin graphing by plotting the point (0, 1). We know that the slope is rise over run, m =  rise ___ run . From our example, we have m =  \frac{1}{2} , which means that the rise is 1 and the run is 2. So starting from our y-intercept (0, 1), we can rise 1 and then run 2, or run 2 and then rise 1. We repeat until we have a few points, and then we draw a line through the points as shown in Figure 2. f y-intercept ↑Run = 2 ←Rise = 1 y x
 
 graphical interpretation of a linear function In the equation f (x) = mx + b • b is the y-intercept of the graph and indicates the point (0, b) at which the graph crosses the y-axis. • m is the slope of the line and indicates the vertical displacement (rise) and horizontal displacement (run) between each successive pair of points. Recall the formula for the slope: m =  change in output (rise)
 
@@ -339,7 +383,11 @@ Given the equation for a linear function, graph the function using the y-interce
 **Example  2**
 
 ### Graphing by Using the y-intercept and Slope
-Graph f (x) = - 2 __ 3 x + 5 using the y-intercept and slope. Solution Evaluate the function at x = 0 to find the y-intercept. The output value when x = 0 is 5, so the graph will cross the y-axis at (0, 5). According to the equation for the function, the slope of the line is - 2 __ 3 . This tells us that for each vertical decrease in the “rise” of -2 units, the “run” increases by 3 units in the horizontal direction. We can now graph the function by first plotting the y-intercept on the graph in Figure 3. From the initial value (0, 5) we move down 2 units and to the right 3 units. We can extend the line to the left and right by repeating, and then draw a line through the points. f(x) f x Analysis The graph slants downward from left to right, which means it has a negative slope as expected.
+Graph f (x) = - \frac{2}{3} x + 5 using the y-intercept and slope.
+
+**Solution**
+
+Evaluate the function at x = 0 to find the y-intercept. The output value when x = 0 is 5, so the graph will cross the y-axis at (0, 5). According to the equation for the function, the slope of the line is - \frac{2}{3} . This tells us that for each vertical decrease in the “rise” of -2 units, the “run” increases by 3 units in the horizontal direction. We can now graph the function by first plotting the y-intercept on the graph in Figure 3. From the initial value (0, 5) we move down 2 units and to the right 3 units. We can extend the line to the left and right by repeating, and then draw a line through the points. f(x) f x Analysis The graph slants downward from left to right, which means it has a negative slope as expected.
 
 **Try It #2**
 Find a point on the graph we drew in Example 2 that has a negative x-value.
@@ -355,37 +403,45 @@ Given the equation of a linear function, use transformations to graph the linear
 **Example  3**
 
 ### Graphing by Using Transformations
-Graph f (x) =  1 __ 2 x - 3 using transformations. Solution The equation for the function shows that m =  1 __ 2  so the identity function is vertically compressed by  1 __ 2 . The equation for the function also shows that b = -3 so the identity function is vertically shifted down 3 units. First, graph the identity function, and show the vertical compression as in Figure 6. Then show the vertical shift as in Figure 7. x y = x y y = x
+Graph f (x) =  \frac{1}{2} x - 3 using transformations.
+
+**Solution**
+
+The equation for the function shows that m =  \frac{1}{2}  so the identity function is vertically compressed by  \frac{1}{2} . The equation for the function also shows that b = -3 so the identity function is vertically shifted down 3 units. First, graph the identity function, and show the vertical compression as in Figure 6. Then show the vertical shift as in Figure 7. x y = x y y = x
 
  y = x - 3 x y = x
 
 2 x, shifted down 3 units.
 
 **Try It #3**
-Graph f (x) = 4 + 2x, using t ransformations. In Example 3, could we have sketched the graph by reversing the order of the transformations? No. The order of the transformations follows the order of operations. When the function is evaluated at a given input, the corresponding output is calculated by following the order of operations. This is why we performed the compression first. For example, following the order: Let the input be 2. f(2) =  1 __ 2 (2) - 3 = 1 - 3 = -2 Writing the Equation for a Function from the Graph of a Line Recall that in Linear Functions, we wrote the equation for a linear function from a graph. Now we can extend what we know about graphing linear functions to analyze graphs a little more closely. Begin by taking a look at Figure 8. We can see right away that the graph crosses the y-axis at the point (0, 4) so this is the y-intercept. x f y Then we can calculate the slope by finding the rise and run. We can choose any two points, but let’s look at the point (-2, 0). To get from this point to the y-intercept, we must move up 4 units (rise) and to the right 2 units (run). So the slope must be m =  rise ___ run  =  4 __ 2  = 2 Substituting the slope and y-intercept into the slope-intercept form of a line gives y = 2x + 4 y
+Graph f (x) = 4 + 2x, using t ransformations. In Example 3, could we have sketched the graph by reversing the order of the transformations? No. The order of the transformations follows the order of operations. When the function is evaluated at a given input, the corresponding output is calculated by following the order of operations. This is why we performed the compression first. For example, following the order: Let the input be 2. f(2) =  \frac{1}{2} (2) - 3 = 1 - 3 = -2 Writing the Equation for a Function from the Graph of a Line Recall that in Linear Functions, we wrote the equation for a linear function from a graph. Now we can extend what we know about graphing linear functions to analyze graphs a little more closely. Begin by taking a look at Figure 8. We can see right away that the graph crosses the y-axis at the point (0, 4) so this is the y-intercept. x f y Then we can calculate the slope by finding the rise and run. We can choose any two points, but let’s look at the point (-2, 0). To get from this point to the y-intercept, we must move up 4 units (rise) and to the right 2 units (run). So the slope must be m =  rise ___ run  =  \frac{4}{2}  = 2 Substituting the slope and y-intercept into the slope-intercept form of a line gives y = 2x + 4 y
 
 
 **How To…**
 Given a graph of linear function, find the equation to describe the function. 1. Identify the y-intercept of an equation. 2. Choose two points to determine the slope. 3. Substitute the y-intercept and slope into the slope-intercept form of a line.
 
 **Example  4**
-Matching Linear Functions to Their Graphs Match each equation of the linear functions with one of the lines in Figure 9. a. f (x) = 2x + 3 b. g(x) = 2x - 3 c. h(x) = -2x + 3 d. j(x) =  1 __ 2 x + 3 I II III IV x y Solution Analyze the information for each function. a. This function has a slope of 2 and a y-intercept of 3. It must pass through the point (0, 3) and slant upward from left to right. We can use two points to find the slope, or we can compare it with the other functions listed. Function g has the same slope, but a different y-intercept. Lines I and III have the same slant because they have the same slope. Line III does not pass through (0, 3) so f must be represented by line I. b. This function also has a slope of 2, but a y-intercept of -3. It must pass through the point (0, -3) and slant upward from left to right. It must be represented by line III. c. This function has a slope of -2 and a y-intercept of 3. This is the only function listed with a negative slope, so it must be represented by line IV because it slants downward from left to right. d. This function has a slope of  1 __ 2  and a y-intercept of 3. It must pass through the point (0, 3) and slant upward from left to right. Lines I and II pass through (0, 3), but the slope of j is less than the slope of f so the line for j must be flatter. This function is represented by Line II. Now we can re-label the lines as in Figure 10. h(x) = -2x + 3 f (x) = 2x + 3 g(x) = 2x - 3 j(x) = x + 3 x y
+Matching Linear Functions to Their Graphs Match each equation of the linear functions with one of the lines in Figure 9. a. f (x) = 2x + 3 b. g(x) = 2x - 3 c. h(x) = -2x + 3 d. j(x) =  \frac{1}{2} x + 3 I II III IV x y
+
+**Solution**
+
+Analyze the information for each function. a. This function has a slope of 2 and a y-intercept of 3. It must pass through the point (0, 3) and slant upward from left to right. We can use two points to find the slope, or we can compare it with the other functions listed. Function g has the same slope, but a different y-intercept. Lines I and III have the same slant because they have the same slope. Line III does not pass through (0, 3) so f must be represented by line I. b. This function also has a slope of 2, but a y-intercept of -3. It must pass through the point (0, -3) and slant upward from left to right. It must be represented by line III. c. This function has a slope of -2 and a y-intercept of 3. This is the only function listed with a negative slope, so it must be represented by line IV because it slants downward from left to right. d. This function has a slope of  \frac{1}{2}  and a y-intercept of 3. It must pass through the point (0, 3) and slant upward from left to right. Lines I and II pass through (0, 3), but the slope of j is less than the slope of f so the line for j must be flatter. This function is represented by Line II. Now we can re-label the lines as in Figure 10. h(x) = -2x + 3 f (x) = 2x + 3 g(x) = 2x - 3 j(x) = x + 3 x y
 
 Finding the x-intercept of a Line So far, we have been finding the y-intercepts of a function: the point at which the graph of the function crosses the y-axis. A function may also have an x-intercept, which is the x-coordinate of the point where the graph of the function crosses the x-axis. In other words, it is the input value when the output value is zero. To find the x-intercept, set a function f (x) equal to zero and solve for the value of x. For example, consider the function shown. f(x) = 3x - 6 Set the function equal to 0 and solve for x. 0 = 3x - 6 6 = 3x 2 = x x = 2 The graph of the function crosses the x-axis at the point (2, 0). Do all linear functions have x-intercepts? No. However, linear functions of the form y = c, where c is a nonzero real number are the only examples of linear functions with no x-intercept. For example, y = 5 is a horizontal line 5 units above the x-axis. This function has no x-intercepts, as shown in Figure 11. x y y = 5 x-intercept The x-intercept of the function is value of x when f (x) = 0. It can be solved by the equation 0 = mx + b.
 
 **Example  5**
-Finding an x-intercept Find the x-intercept of f (x) =  1 __ 2 x - 3. Solution Set the function equal to zero to solve for x. 0 =  1 __ 2 x - 3 3 =  1 __ 2 x 6 = x x = 6
+Finding an x-intercept Find the x-intercept of f (x) =  \frac{1}{2} x - 3.
 
-The graph crosses the x-axis at the point (6, 0). Analysis A graph of the function is shown in Figure 12. We can see that the x-intercept is (6, 0) as we expected. x y __ 2 x - 3.
+**Solution**
+
+Set the function equal to zero to solve for x. 0 =  \frac{1}{2} x - 3 3 =  \frac{1}{2} x 6 = x x = 6
+
+The graph crosses the x-axis at the point (6, 0). Analysis A graph of the function is shown in Figure 12. We can see that the x-intercept is (6, 0) as we expected. x \frac{y}{2} x - 3.
 
 **Try It #4**
-Find the x-intercept of f (x) =  1 __ 4 x - 4. Describing Horizontal and Vertical Lines There are two special cases of lines on a graph—horizontal and vertical lines. A horizontal line indicates a constant output, or y-value. In Figure 13, we see that the output has a value of 2 for every input value. The change in outputs between any two points, therefore, is 0. In the slope formula, the numerator is 0, so the slope is 0. If we use m = 0 in the equation f (x) = mx + b, the equation simplifies to f (x) = b. In other words, the value of the function is a constant. This graph represents the function f (x) = 2. x -4 -2 y x y f A vertical line indicates a constant input, or x-value. We can see that the input value for every point on the line is 2, but the output value varies. Because this input value is mapped to more than one output value, a vertical line does not represent a function. Notice that between any two points, the change in the input values is zero. In the slope formula, the denominator will be zero, so the slope of a vertical line is undefined.
+Find the x-intercept of f (x) =  \frac{1}{4} x - 4. Describing Horizontal and Vertical Lines There are two special cases of lines on a graph—horizontal and vertical lines. A horizontal line indicates a constant output, or y-value. In Figure 13, we see that the output has a value of 2 for every input value. The change in outputs between any two points, therefore, is 0. In the slope formula, the numerator is 0, so the slope is 0. If we use m = 0 in the equation f (x) = mx + b, the equation simplifies to f (x) = b. In other words, the value of the function is a constant. This graph represents the function f (x) = 2. x -4 -2 y x y f A vertical line indicates a constant input, or x-value. We can see that the input value for every point on the line is 2, but the output value varies. Because this input value is mapped to more than one output value, a vertical line does not represent a function. Notice that between any two points, the change in the input values is zero. In the slope formula, the denominator will be zero, so the slope of a vertical line is undefined.
 
-m =  change of output
-
-__
-
-change of input  ← Non-zero real number
+m =  change of outpu\frac{t}{c}hange of input  ← Non-zero real number
 
 ← 0  Notice that a vertical line, such as the one in Figure 14, has an x-intercept, but no y-intercept unless it’s the line x = 0. This graph represents the line x = 2. x y x y -4 -2
 
@@ -394,12 +450,20 @@ horizontal and vertical lines Lines can be horizontal or vertical. A horizontal 
 **Example  6**
 
 ### Writing the Equation of a Horizontal Line
-Write the equation of the line graphed in Figure 15. x f y Solution For any x-value, the y-value is -4, so the equation is y = -4.
+Write the equation of the line graphed in Figure 15. x f y
+
+**Solution**
+
+For any x-value, the y-value is -4, so the equation is y = -4.
 
 **Example  7**
 
 ### Writing the Equation of a Vertical Line
-Write the equation of the line graphed in Figure 16. x f y Solution The constant x-value is 7, so the equation is x = 7. Determining Whether Lines are Parallel or Perpendicular The two lines in Figure 17 are parallel lines: they will never intersect. Notice that they have exactly the same steepness, which means their slopes are identical. The only difference between the two lines is the y-intercept. If we shifted one line vertically toward the y-intercept of the other, they would become the same line.
+Write the equation of the line graphed in Figure 16. x f y
+
+**Solution**
+
+The constant x-value is 7, so the equation is x = 7. Determining Whether Lines are Parallel or Perpendicular The two lines in Figure 17 are parallel lines: they will never intersect. Notice that they have exactly the same steepness, which means their slopes are identical. The only difference between the two lines is the y-intercept. If we shifted one line vertically toward the y-intercept of the other, they would become the same line.
 
 x y We can determine from their equations whether two lines are parallel by comparing their slopes. If the slopes are the same and the y-intercepts are different, the lines are parallel. If the slopes are different, the lines are not parallel.
 
@@ -407,13 +471,13 @@ f (x) = -2x + 6 }
 
 f (x) = 3x + 2 }
 
-f (x) = -2x - 4 parallel f (x) = 2x + 2 not parallel Unlike parallel lines, perpendicular lines do intersect. Their intersection forms a right, or 90-degree, angle. The two lines in Figure 18 are perpendicular. x y Perpendicular lines do not have the same slope. The slopes of perpendicular lines are different from one another in a specific way. The slope of one line is the negative reciprocal of the slope of the other line. The product of a number and its reciprocal is 1. So, if m^{1} and m^{2} are negative reciprocals of one another, they can be multiplied together to yield -1. m^{1}m^{2} = -1 To find the reciprocal of a number, divide 1 by the number. So the reciprocal of 8 is  1 __ 8 , and the reciprocal of  1 __ 8  is 8. To find the negative reciprocal, first find the reciprocal and then change the sign. As with parallel lines, we can determine whether two lines are perpendicular by comparing their slopes, assuming that the lines are neither horizontal nor perpendicular. The slope of each line below is the negative reciprocal of the other so the lines are perpendicular.
+f (x) = -2x - 4 parallel f (x) = 2x + 2 not parallel Unlike parallel lines, perpendicular lines do intersect. Their intersection forms a right, or 90-degree, angle. The two lines in Figure 18 are perpendicular. x y Perpendicular lines do not have the same slope. The slopes of perpendicular lines are different from one another in a specific way. The slope of one line is the negative reciprocal of the slope of the other line. The product of a number and its reciprocal is 1. So, if m^{1} and m^{2} are negative reciprocals of one another, they can be multiplied together to yield -1. m^{1}m^{2} = -1 To find the reciprocal of a number, divide 1 by the number. So the reciprocal of 8 is  \frac{1}{8} , and the reciprocal of  \frac{1}{8}  is 8. To find the negative reciprocal, first find the reciprocal and then change the sign. As with parallel lines, we can determine whether two lines are perpendicular by comparing their slopes, assuming that the lines are neither horizontal nor perpendicular. The slope of each line below is the negative reciprocal of the other so the lines are perpendicular.
 
-f (x) =  1 __ 4 x + 2 negative reciprocal of  1 __ 4  is -4
+f (x) =  \frac{1}{4} x + 2 negative reciprocal of  \frac{1}{4}  is -4
 
-f (x) = -4x + 3 negative reciprocal of -4 is  1 __ 4  The product of the slopes is -1. -4   1 __ 4   = -1 parallel and perpendicular lines Two lines are parallel lines if they do not intersect. The slopes of the lines are the same. f (x) = m^{1}x + b^{1} and g(x) = m^{2}x + b^{2} are parallel if m^{1} = m^{2}.
+f (x) = -4x + 3 negative reciprocal of -4 is  \frac{1}{4}  The product of the slopes is -1. -4 (  \frac{1}{4}  ) = -1 parallel and perpendicular lines Two lines are parallel lines if they do not intersect. The slopes of the lines are the same. f (x) = m^{1}x + b^{1} and g(x) = m^{2}x + b^{2} are parallel if m^{1} = m^{2}.
 
-If and only if b^{1} = b^{2} and m^{1} = m^{2}, we say the lines coincide. Coincident lines are the same line. Two lines are perpendicular lines if they intersect at right angles. f (x) = m^{1}x + b^{1} and g(x) = m^{2}x + b^{2} are perpendicular if m^{1}m^{2} = -1, and so m^{2} = - 1 _ m^{1} 
+If and only if b^{1} = b^{2} and m^{1} = m^{2}, we say the lines coincide. Coincident lines are the same line. Two lines are perpendicular lines if they intersect at right angles. f (x) = m^{1}x + b^{1} and g(x) = m^{2}x + b^{2} are perpendicular if m^{1}m^{2} = -1, and so m^{2} = - \frac{1}{m}^{1} 
 
 **Example  8**
 
@@ -422,7 +486,11 @@ Given the functions below, identify the functions whose graphs are a pair of par
 
 f (x) = 2x + 3 h(x) = -2x + 2
 
-g(x) =  1 __ 2 x - 4 j(x) = 2x - 6 Solution Parallel lines have the same slope. Because the functions f (x) = 2x + 3 and j(x) = 2x - 6 each have a slope of 2, they represent parallel lines. Perpendicular lines have negative reciprocal slopes. Because -2 and  1 __ 2  are negative reciprocals, the equations, g(x) =  1 __ 2 x - 4 and h(x) = -2x + 2 represent perpendicular lines. Analysis A graph of the lines is shown in Figure 19. x y h(x) = -2x + 2 f (x) = 2x + 3 j(x) = 2x - 6 g(x) = x - 4 The graph shows that the lines f (x) = 2x + 3 and j(x) = 2x - 6 are parallel, and the lines g(x) =  1 __ 2 x - 4 and h(x) = -2x + 2 are perpendicular. Writing the Equation of a Line Parallel or Perpendicular to a Given Line If we know the equation of a line, we can use what we know about slope to write the equation of a line that is either parallel or perpendicular to the given line. Writing Equations of Parallel Lines Suppose for example, we are given the following equation.
+g(x) =  \frac{1}{2} x - 4 j(x) = 2x - 6
+
+**Solution**
+
+Parallel lines have the same slope. Because the functions f (x) = 2x + 3 and j(x) = 2x - 6 each have a slope of 2, they represent parallel lines. Perpendicular lines have negative reciprocal slopes. Because -2 and  \frac{1}{2}  are negative reciprocals, the equations, g(x) =  \frac{1}{2} x - 4 and h(x) = -2x + 2 represent perpendicular lines. Analysis A graph of the lines is shown in Figure 19. x y h(x) = -2x + 2 f (x) = 2x + 3 j(x) = 2x - 6 g(x) = x - 4 The graph shows that the lines f (x) = 2x + 3 and j(x) = 2x - 6 are parallel, and the lines g(x) =  \frac{1}{2} x - 4 and h(x) = -2x + 2 are perpendicular. Writing the Equation of a Line Parallel or Perpendicular to a Given Line If we know the equation of a line, we can use what we know about slope to write the equation of a line that is either parallel or perpendicular to the given line. Writing Equations of Parallel Lines Suppose for example, we are given the following equation.
 
 f (x) = 3x + 1 We know that the slope of the line formed by the function is 3. We also know that the y-intercept is (0, 1). Any other line with a slope of 3 will be parallel to f (x). So the lines formed by all of the following functions will be parallel to f (x).
 
@@ -430,7 +498,7 @@ g(x) = 3x + 6
 
 h(x) = 3x + 1
 
-p(x) = 3x +  2 __ 3  Suppose then we want to write the equation of a line that is parallel to f and passes through the point (1, 7). We already know that the slope is 3. We just need to determine which value for b will give the correct line. We can begin with the point-slope form of an equation for a line, and then rewrite it in the slope-intercept form.
+p(x) = 3x +  \frac{2}{3}  Suppose then we want to write the equation of a line that is parallel to f and passes through the point (1, 7). We already know that the slope is 3. We just need to determine which value for b will give the correct line. We can begin with the point-slope form of an equation for a line, and then rewrite it in the slope-intercept form.
 
 y - y^{1} = m(x - x^{1})
 
@@ -444,7 +512,11 @@ y = 3x + 4 So g(x) = 3x + 4 is parallel to f (x) = 3x + 1 and passes through the
 Given the equation of a function and a point through which its graph passes, write the equation of a line parallel to the given line that passes through the given point. 1. Find the slope of the function. 2. Substitute the given values into either the general point-slope equation or the slope-intercept equation for a line. 3. Simplify.
 
 **Example  9**
-Finding a Line Parallel to a Given Line Find a line parallel to the graph of f (x) = 3x + 6 that passes through the point (3, 0). Solution The slope of the given line is 3. If we choose the slope-intercept form, we can substitute m = 3, x = 3, and f (x) = 0 into the slope-intercept form to find the y-intercept.
+Finding a Line Parallel to a Given Line Find a line parallel to the graph of f (x) = 3x + 6 that passes through the point (3, 0).
+
+**Solution**
+
+The slope of the given line is 3. If we choose the slope-intercept form, we can substitute m = 3, x = 3, and f (x) = 0 into the slope-intercept form to find the y-intercept.
 
 g(x) = 3x + b
 
@@ -452,33 +524,37 @@ g(x) = 3x + b
 
 b = -9 The line parallel to f (x) that passes through (3, 0) is g(x) = 3x - 9. Analysis We can confirm that the two lines are parallel by graphing them. x y Up 3 Up 3 Right 1 Right 1 y = 3x + 6 y = 3x - 9 Writing Equations of Perpendicular Lines We can use a very similar process to write the equation for a line perpendicular to a given line. Instead of using the same slope, however, we use the negative reciprocal of the given slope. Suppose we are given the following function:
 
-f (x) = 2x + 4 The slope of the line is 2, and its negative reciprocal is - 1 __ 2 . Any function with a slope of - 1 __ 2  will be perpendicular to f (x). So the lines formed by all of the following functions will be perpendicular to f (x). g(x) = - 1 __ 2 x + 4 h(x) = - 1 __ 2 x + 2 p(x) = - 1 __ 2 x -  1 __ 2  As before, we can narrow down our choices for a particular perpendicular line if we know that it passes through a given point. Suppose then we want to write the equation of a line that is perpendicular to f (x) and passes through the point (4, 0). We already know that the slope is - 1 __ 2 . Now we can use the point to find the y-intercept by substituting the given values into the slope-intercept form of a line and solving for b.
+f (x) = 2x + 4 The slope of the line is 2, and its negative reciprocal is - \frac{1}{2} . Any function with a slope of - \frac{1}{2}  will be perpendicular to f (x). So the lines formed by all of the following functions will be perpendicular to f (x). g(x) = - \frac{1}{2} x + 4 h(x) = - \frac{1}{2} x + 2 p(x) = - \frac{1}{2} x -  \frac{1}{2}  As before, we can narrow down our choices for a particular perpendicular line if we know that it passes through a given point. Suppose then we want to write the equation of a line that is perpendicular to f (x) and passes through the point (4, 0). We already know that the slope is - \frac{1}{2} . Now we can use the point to find the y-intercept by substituting the given values into the slope-intercept form of a line and solving for b.
 
 g (x) = mx + b
 
-0 = - 1 __ 2 (4) + b
+0 = - \frac{1}{2} (4) + b
 
 0 = -2 + b
 
 2 = b
 
-b = 2 The equation for the function with a slope of - 1 __ 2  and a y-intercept of 2 is
+b = 2 The equation for the function with a slope of - \frac{1}{2}  and a y-intercept of 2 is
 
-g(x) = - 1 __ 2 x + 2. So g(x) = - 1 __ 2  x + 2 is perpendicular to f (x) = 2x + 4 and passes through the point (4, 0). Be aware that perpendicular lines may not look obviously perpendicular on a graphing calculator unless we use the square zoom feature. A horizontal line has a slope of zero and a vertical line has an undefined slope. These two lines are perpendicular, but the product of their slopes is not -1. Doesn’t this fact contradict the definition of perpendicular lines? No. For two perpendicular linear functions, the product of their slopes is -1. However, a vertical line is not a function so the definition is not contradicted.
+g(x) = - \frac{1}{2} x + 2. So g(x) = - \frac{1}{2}  x + 2 is perpendicular to f (x) = 2x + 4 and passes through the point (4, 0). Be aware that perpendicular lines may not look obviously perpendicular on a graphing calculator unless we use the square zoom feature. A horizontal line has a slope of zero and a vertical line has an undefined slope. These two lines are perpendicular, but the product of their slopes is not -1. Doesn’t this fact contradict the definition of perpendicular lines? No. For two perpendicular linear functions, the product of their slopes is -1. However, a vertical line is not a function so the definition is not contradicted.
 
 **How To…**
 Given the equation of a function and a point through which its graph passes, write the equation of a line perpendicular to the given line. 1. Find the slope of the function. 2. Determine the negative reciprocal of the slope. 3. Substitute the new slope and the values for x and y from the coordinate pair provided into g(x) = mx + b. 4. Solve for b. 5. Write the equation for the line.
 
 **Example  10**
-Finding the Equation of a Perpendicular Line Find the equation of a line perpendicular to f (x) = 3x + 3 that passes through the point (3, 0). Solution The original line has slope m = 3, so the slope of the perpendicular line will be its negative reciprocal, or - 1 __ 3 . Using this slope and the given point, we can find the equation for the line.
+Finding the Equation of a Perpendicular Line Find the equation of a line perpendicular to f (x) = 3x + 3 that passes through the point (3, 0).
 
-g(x) = - 1 __ 3 x + b
+**Solution**
 
-0 = - 1 __ 3 (3) + b
+The original line has slope m = 3, so the slope of the perpendicular line will be its negative reciprocal, or - \frac{1}{3} . Using this slope and the given point, we can find the equation for the line.
+
+g(x) = - \frac{1}{3} x + b
+
+0 = - \frac{1}{3} (3) + b
 
 1 = b
 
-b = 1 The line perpendicular to f (x) that passes through (3, 0) is g(x) = - 1 __ 3 x + 1. Analysis A graph of the two lines is shown in Figure 21. x y f (x) = 3x + 6 g(x) = - x + 1
+b = 1 The line perpendicular to f (x) that passes through (3, 0) is g(x) = - \frac{1}{3} x + 1. Analysis A graph of the two lines is shown in Figure 21. x y f (x) = 3x + 6 g(x) = - x + 1
 
 
 **Try It #5**
@@ -488,17 +564,21 @@ Given the function h(x) = 2x - 4, write an equation for the line passing through
 Given two points on a line and a third point, write the equation of the perpendicular line that passes through the point. 1. Determine the slope of the line passing through the points. 2. Find the negative reciprocal of the slope. 3. Use the slope-intercept form or point-slope form to write the equation by substituting the known values. 4. Simplify.
 
 **Example  11**
-Finding the Equation of a Line Perpendicular to a Given Line Passing through a Point A line passes through the points (-2, 6) and (4, 5). Find the equation of a perpendicular line that passes through the point (4, 5). Solution From the two points of the given line, we can calculate the slope of that line.
+Finding the Equation of a Line Perpendicular to a Given Line Passing through a Point A line passes through the points (-2, 6) and (4, 5). Find the equation of a perpendicular line that passes through the point (4, 5).
+
+**Solution**
+
+From the two points of the given line, we can calculate the slope of that line.
 
 m^{1} =  5 - 6 _______ 4 - (-2) 
 
 =  -1 ___ 6 
 
-= - 1 __ 6  Find the negative reciprocal of the slope.
+= - \frac{1}{6}  Find the negative reciprocal of the slope.
 
-m^{2} =  -1 _ - 1 __ 6  
+m^{2} =  -1 _ - \frac{1}{6}  
 
-= -1  - 6 __ 1  
+= -1 ( - \frac{6}{1}  )
 
 = 6 We can then solve for the y-intercept of the line passing through the point (4, 5).
 
@@ -522,17 +602,21 @@ A line passes through the points, (-2, -15) and (2,-3). Find the equation of a p
 A system of linear equations includes two or more linear equations. The graphs of two lines will intersect at a single point if they are not parallel. Two parallel lines can also intersect if they are coincident, which means they are the same line and they intersect at every point. For two lines that are not parallel, the single point of intersection will satisfy both equations and therefore represent the solution to the system. To find this point when the equations are given as functions, we can solve for an input value so that f (x) = g(x). In other words, we can set the formulas for the lines equal to one another, and solve for the input that satisfies the equation.
 
 **Example  12**
-Finding a Point of Intersection Algebraically Find the point of intersection of the lines h(t) = 3t - 4 and j(t) = 5 - t. Solution Set h(t) = j(t).
+Finding a Point of Intersection Algebraically Find the point of intersection of the lines h(t) = 3t - 4 and j(t) = 5 - t.
+
+**Solution**
+
+Set h(t) = j(t).
 
 3t - 4 = 5 - t
 
 4t = 9
 
-t =  9 __ 4  This tells us the lines intersect when the input is  9 __ 4 . We can then find the output value of the intersection point by evaluating either function at this input.
+t =  \frac{9}{4}  This tells us the lines intersect when the input is  \frac{9}{4} . We can then find the output value of the intersection point by evaluating either function at this input.
 
-j   9 __ 4   = 5 -  9 __ 4 
+j (  \frac{9}{4}  ) = 5 -  \frac{9}{4} 
 
-=  11 __ 4  These lines intersect at the point   9 __ 4 ,  11 __ 4  . Analysis Looking at Figure 22, this result seems reasonable. j(t) h(t) x y If we were asked to find the point of intersection of two distinct parallel lines, should something in the solution process alert us to the fact that there are no solutions? Yes. After setting the two equations equal to one another, the result would be the contradiction “0 = non-zero real number.”
+=  \frac{11}{4}  These lines intersect at the point (  \frac{9}{4} ,  \frac{11}{4}  ). Analysis Looking at Figure 22, this result seems reasonable. j(t) h(t) x y If we were asked to find the point of intersection of two distinct parallel lines, should something in the solution process alert us to the fact that there are no solutions? Yes. After setting the two equations equal to one another, the result would be the contradiction “0 = non-zero real number.”
 
 
 **Try It #7**
@@ -562,9 +646,9 @@ Analysis This means if the company sells 12,500 helmets, they break even; both t
 
 -6y = 8x + 1
 
-3x + 2y = 1 __ 3 x + 1
+3x + 2y = \frac{1}{3} x + 1
 
-3x + 2y = 1 __ 4 x + 1
+3x + 2y = \frac{1}{4} x + 1
 
 -3x + 4y = 1 For the following exercises, find the x- and y-intercepts of each equation 12. f (x) = -x + 2 13. g(x) = 2x + 4 14. h(x) = 3x - 5 15. k(x) = -5x + 1 For the following exercises, use the descriptions of each pair of lines given below to find the slopes of Line 1 and Line 2. Is each pair of lines parallel, perpendicular, or neither? 18. Line 1: Passes through (0, 6) and (3, -24)
 
@@ -580,9 +664,9 @@ Line 2: Passes through (1, -5) and (3, -2) 23. Line 1: Passes through (2, 5) and
 
 Line 2: Passes through (-3, 7) and (3, -5) 24. Write an equation for a line parallel to f (x) = -5x - 3 and passing through the point (2, -12). 25. Write an equation for a line parallel to g(x) = 3x - 1 and passing through the point (4, 9). 26. Write an equation for a line perpendicular to h(t) = -2t + 4 and passing through the point 27. Write an equation for a line perpendicular to p(t) = 3t + 4 and passing through the point (3, 1).
 
-28. Find the point at which the line f (x) = -2x - 1 intersects the line g(x) = -x. 29. Find the point at which the line f (x) = 2x + 5 intersects the line g(x) = -3x - 5. 30. Use algebra to find the point at which the line f (x) = - 4 __ 5 x +  274 ___ 25  intersects h(x) =  9 __ 4 x +  73 __ 10 . 31. Use algebra to find the point at which the line f (x) =  7 __ 4 x +  457 ___ 60  intersects g(x) =  4 __ 3 x +  31 __ 5 . Graphical For the following exercises, match the given linear equation with its graph in Figure 24. A B C D E F 32. f (x) = -x - 1 33. f (x) = -2x - 1 34. f (x) = - 1 __ 2 x - 1 35. f (x) = 2 36. f (x) = 2 + x 37. f (x) = 3x + 2 For the following exercises, sketch a line with the given features. 38. An x-intercept of (-4, 0) and y-intercept of (0, -2) 39. An x-intercept of (-2, 0) and y-intercept of (0, 4) 40. A y-intercept of (0, 7) and slope - 3 __ 2  41. A y-intercept of (0, 3) and slope  2 __ 5  42. Passing through the points (-6, -2) and (6, -6) 43. Passing through the points (-3, -4) and (3, 0) For the following exercises, sketch the graph of each equation. 44. f (x) = -2x - 1 45. g(x) = -3x + 2 46. h(x) =  1 __ 3 x + 2 47. k(x) =  2 __ 3 x - 3 48. f (t) = 3 + 2t 49. p(t) = -2 + 3t 52. r(x) = 4 53. q(x) = 3 __ 3  -  y _ 4  = 1 59. If g(x) is the transformation of f (x) = x after a vertical compression by  3 __ 4 , a shift right by 2, and a shift down by 4 a. Write an equation for g(x). b. What is the slope of this line? c. Find the y-intercept of this line. 60. If g(x) is the transformation of f (x) = x after a vertical compression by  1 __ 3 , a shift left by 1, and a shift up by 3 a. Write an equation for g(x). b. What is the slope of this line? c. Find the y-intercept of this line.
+28. Find the point at which the line f (x) = -2x - 1 intersects the line g(x) = -x. 29. Find the point at which the line f (x) = 2x + 5 intersects the line g(x) = -3x - 5. 30. Use algebra to find the point at which the line f (x) = - \frac{4}{5} x +  274 ___ 25  intersects h(x) =  \frac{9}{4} x +  \frac{73}{10} . 31. Use algebra to find the point at which the line f (x) =  \frac{7}{4} x +  457 ___ 60  intersects g(x) =  \frac{4}{3} x +  \frac{31}{5} . Graphical For the following exercises, match the given linear equation with its graph in Figure 24. A B C D E F 32. f (x) = -x - 1 33. f (x) = -2x - 1 34. f (x) = - \frac{1}{2} x - 1 35. f (x) = 2 36. f (x) = 2 + x 37. f (x) = 3x + 2 For the following exercises, sketch a line with the given features. 38. An x-intercept of (-4, 0) and y-intercept of (0, -2) 39. An x-intercept of (-2, 0) and y-intercept of (0, 4) 40. A y-intercept of (0, 7) and slope - \frac{3}{2}  41. A y-intercept of (0, 3) and slope  \frac{2}{5}  42. Passing through the points (-6, -2) and (6, -6) 43. Passing through the points (-3, -4) and (3, 0) For the following exercises, sketch the graph of each equation. 44. f (x) = -2x - 1 45. g(x) = -3x + 2 46. h(x) =  \frac{1}{3} x + 2 47. k(x) =  \frac{2}{3} x - 3 48. f (t) = 3 + 2t 49. p(t) = -2 + 3t 52. r(x) = 4 53. q(x) = \frac{3}{3}  -  \frac{y}{4}  = 1 59. If g(x) is the transformation of f (x) = x after a vertical compression by  \frac{3}{4} , a shift right by 2, and a shift down by 4 a. Write an equation for g(x). b. What is the slope of this line? c. Find the y-intercept of this line. 60. If g(x) is the transformation of f (x) = x after a vertical compression by  \frac{1}{3} , a shift left by 1, and a shift up by 3 a. Write an equation for g(x). b. What is the slope of this line? c. Find the y-intercept of this line.
 
-For the following exercises, write the equation of the line shown in the graph. x y x y x y x y For the following exercises, find the point of intersection of each pair of lines if it exists. If it does not exist, indicate that there is no point of intersection. 65. y =  3 __ 4 x + 1
+For the following exercises, write the equation of the line shown in the graph. x y x y x y x y For the following exercises, find the point of intersection of each pair of lines if it exists. If it does not exist, indicate that there is no point of intersection. 65. y =  \frac{3}{4} x + 1
 
 -3x + 4y = 12
 
@@ -623,11 +707,11 @@ x = 4 The x-intercept is the number of months it takes her to reach a balance of
 Given a word problem that includes two pairs of input and output values, use the linear function to solve a problem. 1. Identify the input and output values. 2. Convert the data to two coordinate pairs. 3. Find the slope. 4. Write the linear model. 5. Use the model to make a prediction by evaluating the function at a given x-value. 6. Use the model to identify an x-value that results in a given y-value. 7. Answer the question posed.
 
 **Example  1**
-Using a Linear Model to Investigate a Town’s Population A town’s population has been growing linearly. In 2004 the population was 6,200. By 2009 the population had grown to 8,100. Assume this trend continues. a. Predict the population in 2013. b. Identify the year in which the population will reach 15,000. Solution The two changing quantities are the population size and time. While we could use the actual year value as the input quantity, doing so tends to lead to very cumbersome equations because the y-intercept would correspond to the year 0, more than 2,000 years ago! To make computation a little nicer, we will define our input as the number of years since 2004: • Input: t, years since 2004 • Output: P(t), the town’s population To predict the population in 2013 (t = 9), we would first need an equation for the population. Likewise, to find when the population would reach 15,000, we would need to solve for the input that would provide an output of 15,000. To write an equation, we need the initial value and the rate of change, or slope. To determine the rate of change, we will use the change in output per change in input. m =  change in output
+Using a Linear Model to Investigate a Town’s Population A town’s population has been growing linearly. In 2004 the population was 6,200. By 2009 the population had grown to 8,100. Assume this trend continues. a. Predict the population in 2013. b. Identify the year in which the population will reach 15,000.
 
-__
+**Solution**
 
-change in input  The problem gives us two input-output pairs. Converting them to match our defined variables, the year 2004 would correspond to t = 0, giving the point (0, 6200). Notice that through our clever choice of variable definition, we have “given” ourselves the y-intercept of the function. The year 2009 would correspond to t = 5, giving the point (5, 8100). The two coordinate pairs are (0, 6200) and (5, 8100). Recall that we encountered examples in which we were provided two points earlier in the chapter. We can use these values to calculate the slope.
+The two changing quantities are the population size and time. While we could use the actual year value as the input quantity, doing so tends to lead to very cumbersome equations because the y-intercept would correspond to the year 0, more than 2,000 years ago! To make computation a little nicer, we will define our input as the number of years since 2004: • Input: t, years since 2004 • Output: P(t), the town’s population To predict the population in 2013 (t = 9), we would first need an equation for the population. Likewise, to find when the population would reach 15,000, we would need to solve for the input that would provide an output of 15,000. To write an equation, we need the initial value and the rate of change, or slope. To determine the rate of change, we will use the change in output per change in input. m =  change in outpu\frac{t}{c}hange in input  The problem gives us two input-output pairs. Converting them to match our defined variables, the year 2004 would correspond to t = 0, giving the point (0, 6200). Notice that through our clever choice of variable definition, we have “given” ourselves the y-intercept of the function. The year 2009 would correspond to t = 5, giving the point (5, 8100). The two coordinate pairs are (0, 6200) and (5, 8100). Recall that we encountered examples in which we were provided two points earlier in the chapter. We can use these values to calculate the slope.
 
 __________ 5 - 0 
 
@@ -648,7 +732,11 @@ A company sells doughnuts. They incur a fixed cost of $25,000 for rent, insuranc
 A city’s population has been growing linearly. In 2008, the population was 28,200. By 2012, the population was 36,800. Assume this trend continues. a. Predict the population in 2014. b. Identify the year in which the population will reach 54,000. Using a Diagram to Model a Problem It is useful for many real-world applications to draw a picture to gain a sense of how the variables representing the input and output may be used to answer a question. To draw the picture, first consider what the problem is asking for. Then, determine the input and the output. The diagram should relate the variables. Often, geometrical shapes or figures are drawn. Distances are often traced out. If a right triangle is sketched, the Pythagorean Theorem relates the sides. If a rectangle is sketched, labeling width and height is helpful.
 
 **Example  2**
-Using a Diagram to Model Distance Walked Anna and Emanuel start at the same intersection. Anna walks east at 4 miles per hour while Emanuel walks south at 3 miles per hour. They are communicating with a two-way radio that has a range of 2 miles. How long after they start walking will they fall out of radio contact? Solution In essence, we can partially answer this question by saying they will fall out of radio contact when they are 2 miles apart, which leads us to ask a new question: “How long will it take them to be 2 miles apart?”
+Using a Diagram to Model Distance Walked Anna and Emanuel start at the same intersection. Anna walks east at 4 miles per hour while Emanuel walks south at 3 miles per hour. They are communicating with a two-way radio that has a range of 2 miles. How long after they start walking will they fall out of radio contact?
+
+**Solution**
+
+In essence, we can partially answer this question by saying they will fall out of radio contact when they are 2 miles apart, which leads us to ask a new question: “How long will it take them to be 2 miles apart?”
 
 In this problem, our changing quantities are time and position, but ultimately we need to know how long will it take for them to be 2 miles apart. We can see that time will be our input variable, so we’ll define our input and output variables. • Input: t, time in hours. • Output: A(t), distance in miles, and E(t), distance in miles Because it is not obvious how to define our output variable, we’ll start by drawing a picture such as Figure 2. Anna walking east, 4 miles/hour Distance between them Emanuel walking south, 3 miles/hour Initial Value: They both start at the same intersection so when t = 0, the distance traveled by each person should also be 0. Thus the initial value for each is 0. Rate of Change: Anna is walking 4 miles per hour and Emanuel is walking 3 miles per hour, which are both rates of change. The slope for A is 4 and the slope for E is 3. Using those values, we can write formulas for the distance each person has walked.
 
@@ -668,14 +756,18 @@ D(t) = 2
 
 5t = 2
 
-t =  2 __ They will fall out of radio contact in 0.4 hours, or 24 minutes. Should I draw diagrams when given information based on a geometric shape? Yes. Sketch the figure and label the quantities and unknowns on the sketch.
+t =  \frac{2}{T}hey will fall out of radio contact in 0.4 hours, or 24 minutes. Should I draw diagrams when given information based on a geometric shape? Yes. Sketch the figure and label the quantities and unknowns on the sketch.
 
 **Example  3**
-Using a Diagram to Model Distance Between Cities There is a straight road leading from the town of Westborough to Agritown 30 miles east and 10 miles north. Partway down this road, it junctions with a second road, perpendicular to the first, leading to the town of Eastborough. If the town of Eastborough is located 20 miles directly east of the town of Westborough, how far is the road junction from Westborough? Solution It might help here to draw a picture of the situation. See Figure 4. It would then be helpful to introduce a coordinate system. While we could place the origin anywhere, placing it at Westborough seems convenient. This puts Agritown at coordinates (30, 10), and Eastborough at (20, 0). Agritown Eastborough Westborough 20 miles Using this point along with the origin, we can find the slope of the line from Westborough to Agritown:
+Using a Diagram to Model Distance Between Cities There is a straight road leading from the town of Westborough to Agritown 30 miles east and 10 miles north. Partway down this road, it junctions with a second road, perpendicular to the first, leading to the town of Eastborough. If the town of Eastborough is located 20 miles directly east of the town of Westborough, how far is the road junction from Westborough?
 
-m =  10 - 0 ______ 30 - 0  =  1 __ 3  The equation of the road from Westborough to Agritown would be
+**Solution**
 
-W(x) =  1 __ 3 x From this, we can determine the perpendicular road to Eastborough will have slope m = -3. Because the town of Eastborough is at the point (20, 0), we can find the equation:
+It might help here to draw a picture of the situation. See Figure 4. It would then be helpful to introduce a coordinate system. While we could place the origin anywhere, placing it at Westborough seems convenient. This puts Agritown at coordinates (30, 10), and Eastborough at (20, 0). Agritown Eastborough Westborough 20 miles Using this point along with the origin, we can find the slope of the line from Westborough to Agritown:
+
+m =  10 - 0 ______ 30 - 0  =  \frac{1}{3}  The equation of the road from Westborough to Agritown would be
+
+W(x) =  \frac{1}{3} x From this, we can determine the perpendicular road to Eastborough will have slope m = -3. Because the town of Eastborough is at the point (20, 0), we can find the equation:
 
 E(x) = -3x + b
 
@@ -687,9 +779,9 @@ E(x) = -3x + 60
 
 We can now find the coordinates of the junction of the roads by finding the intersection of these lines. Setting them equal,
 
- 1 __ 3 x = -3x + 60
+ \frac{1}{3} x = -3x + 60
 
- 10 __ 3 x = 60
+ \frac{10}{3} x = 60
 
 x = 18 Substitute this back into W(x).
 
@@ -715,7 +807,11 @@ Given a situation that represents a system of linear equations, write the system
 
 
 **Example  4**
-Building a System of Linear Models to Choose a Truck Rental Company Jamal is choosing between two truck-rental companies. The first, Keep on Trucking, Inc., charges an up-front fee of $20, then 59 cents a mile. The second, Move It Your Way, charges an up-front fee of $16, then 63 cents a mile[9]. When will Keep on Trucking, Inc. be the better choice for Jamal? Solution The two important quantities in this problem are the cost and the number of miles driven. Because we have two companies to consider, we will define two functions. Input d, distance driven in miles Outputs K(d): cost, in dollars, for renting from Keep on Trucking M(d) cost, in dollars, for renting from Move It Your Way Initial Value Up-front fee: K(0) = 20 and M(0) = 16 Rate of Change K(d) = $0.59/mile and P(d) = $0.63/mile A linear function is of the form f (x) = mx + b. Using the rates of change and initial charges, we can write the equations Using these equations, we can determine when Keep on Trucking, Inc., will be the better choice. Because all we have to make that decision from is the costs, we are looking for when Move It Your Way, will cost less, or when K(d) < M(d). The solution pathway will lead us to find the equations for the two functions, find the intersection, and then see where the K(d) function is smaller. These graphs are sketched in Figure 6, with K(d) in red. d $ To find the intersection, we set the equations equal and solve:
+Building a System of Linear Models to Choose a Truck Rental Company Jamal is choosing between two truck-rental companies. The first, Keep on Trucking, Inc., charges an up-front fee of $20, then 59 cents a mile. The second, Move It Your Way, charges an up-front fee of $16, then 63 cents a mile[9]. When will Keep on Trucking, Inc. be the better choice for Jamal?
+
+**Solution**
+
+The two important quantities in this problem are the cost and the number of miles driven. Because we have two companies to consider, we will define two functions. Input d, distance driven in miles Outputs K(d): cost, in dollars, for renting from Keep on Trucking M(d) cost, in dollars, for renting from Move It Your Way Initial Value Up-front fee: K(0) = 20 and M(0) = 16 Rate of Change K(d) = $0.59/mile and P(d) = $0.63/mile A linear function is of the form f (x) = mx + b. Using the rates of change and initial charges, we can write the equations Using these equations, we can determine when Keep on Trucking, Inc., will be the better choice. Because all we have to make that decision from is the costs, we are looking for when Move It Your Way, will cost less, or when K(d) < M(d). The solution pathway will lead us to find the equations for the two functions, find the intersection, and then see where the K(d) function is smaller. These graphs are sketched in Figure 6, with K(d) in red. d $ To find the intersection, we set the equations equal and solve:
 
 K(d) = M(d)
 
@@ -723,7 +819,7 @@ This tells us that the cost from the two companies will be the same if 100 miles
 
 
 ### 2.3 section EXERCISES
-Verbal 1. Explain how to find the input variable in a word problem that uses a linear function. 2. Explain how to find the output variable in a word problem that uses a linear function. 3. Explain how to interpret the initial value in a word problem that uses a linear function. 4. Explain how to determine the slope in a word problem that uses a linear function. Algebraic 5. Find the area of a parallelogram bounded by the y-axis, the line x = 3, the line f (x) = 1 + 2x, and the line parallel to f (x) passing through (2, 7). 6. Find the area of a triangle bounded by the x-axis, the line f (x) = 12 –  1 __ 3 x, and the line perpendicular to f (x) that passes through the origin. 7. Find the area of a triangle bounded by the y-axis, the line f (x) = 9 –  6 __ 7 x, and the line perpendicular to f (x) that passes through the origin. 8. Find the area of a parallelogram bounded by the x-axis, the line g (x) = 2, the line f (x) = 3x, and the line parallel to f (x) passing through (6, 1). For the following exercises, consider this scenario: A town’s population has been decreasing at a constant rate. In 2010 the population was 5,900. By 2012 the population had dropped 4,700. Assume this trend continues. 9. Predict the population in 2016. 10. Identify the year in which the population will reach 0. For the following exercises, consider this scenario: A town’s population has been increased at a constant rate. In 2010 the population was 46,020. By 2012 the population had increased to 52,070. Assume this trend continues. 11. Predict the population in 2016. 12. Identify the year in which the population will reach For the following exercises, consider this scenario: A town has an initial population of 75,000. It grows at a constant rate of 2,500 per year for 5 years. 13. Find the linear function that models the town’s population P as a function of the year, t, where t is the number of years since the model began. 14. Find a reasonable domain and range for the function P. 15. If the function P is graphed, find and interpret the x-and y-intercepts. 16. If the function P is graphed, find and interpret the slope of the function. 17. When will the output reached 100,000? 18. What is the output in the year 12 years from the onset of the model?
+Verbal 1. Explain how to find the input variable in a word problem that uses a linear function. 2. Explain how to find the output variable in a word problem that uses a linear function. 3. Explain how to interpret the initial value in a word problem that uses a linear function. 4. Explain how to determine the slope in a word problem that uses a linear function. Algebraic 5. Find the area of a parallelogram bounded by the y-axis, the line x = 3, the line f (x) = 1 + 2x, and the line parallel to f (x) passing through (2, 7). 6. Find the area of a triangle bounded by the x-axis, the line f (x) = 12 –  \frac{1}{3} x, and the line perpendicular to f (x) that passes through the origin. 7. Find the area of a triangle bounded by the y-axis, the line f (x) = 9 –  \frac{6}{7} x, and the line perpendicular to f (x) that passes through the origin. 8. Find the area of a parallelogram bounded by the x-axis, the line g (x) = 2, the line f (x) = 3x, and the line parallel to f (x) passing through (6, 1). For the following exercises, consider this scenario: A town’s population has been decreasing at a constant rate. In 2010 the population was 5,900. By 2012 the population had dropped 4,700. Assume this trend continues. 9. Predict the population in 2016. 10. Identify the year in which the population will reach 0. For the following exercises, consider this scenario: A town’s population has been increased at a constant rate. In 2010 the population was 46,020. By 2012 the population had increased to 52,070. Assume this trend continues. 11. Predict the population in 2016. 12. Identify the year in which the population will reach For the following exercises, consider this scenario: A town has an initial population of 75,000. It grows at a constant rate of 2,500 per year for 5 years. 13. Find the linear function that models the town’s population P as a function of the year, t, where t is the number of years since the model began. 14. Find a reasonable domain and range for the function P. 15. If the function P is graphed, find and interpret the x-and y-intercepts. 16. If the function P is graphed, find and interpret the slope of the function. 17. When will the output reached 100,000? 18. What is the output in the year 12 years from the onset of the model?
 
 
 ## 2.3 Section Exercises
@@ -740,7 +836,11 @@ Real-World Applications the population had grown to 1,697. Assume the population
 A professor is attempting to identify trends among final exam scores. His class has a mixture of students, so he wonders if there is any relationship between age and final exam scores. One way for him to analyze the scores is by creating a diagram that relates the age of each student to the exam score received. In this section, we will examine one such diagram known as a scatter plot. Drawing and Interpreting Scatter Plots A scatter plot is a graph of plotted points that may show a relationship between two sets of data. If the relationship is from a linear model, or a model that is nearly linear, the professor can draw conclusions using his knowledge of linear functions. Figure 1 shows a sample scatter plot. Final Exam Score Final Exam Score vs. Age Age Notice this scatter plot does not indicate a linear relationship. The points do not appear to follow a trend. In other words, there does not appear to be a relationship between the age of the student and the score on the final exam.
 
 **Example  1**
-Using a Scatter Plot to Investigate Cricket Chirps Plot this data, and determine whether the data appears to be linearly related. Chirps 20.4 18.5 Temperature 80.5 70.5 73.5 Solution Plotting this data, as depicted in Figure 2 suggests that there may be a trend. We can see from the trend in the data that the number of chirps increases as the temperature increases. The trend appears to be roughly linear, though certainly not perfectly so. 10 Selected data from http://classic.globe.gov/fsl/scientistsblog/2007/10/. Retrieved Aug 3, 2010. Learning Objectives
+Using a Scatter Plot to Investigate Cricket Chirps Plot this data, and determine whether the data appears to be linearly related. Chirps 20.4 18.5 Temperature 80.5 70.5 73.5
+
+**Solution**
+
+Plotting this data, as depicted in Figure 2 suggests that there may be a trend. We can see from the trend in the data that the number of chirps increases as the temperature increases. The trend appears to be roughly linear, though certainly not perfectly so. 10 Selected data from http://classic.globe.gov/fsl/scientistsblog/2007/10/. Retrieved Aug 3, 2010. Learning Objectives
 In this section, you will:
 • Draw and interpret scatter plots.
 • Find the line of best fit.
@@ -749,7 +849,11 @@ In this section, you will:
 Cricket Chirps vs. Temperature Temperature (°F) Cricket Chirps in 15 Seconds Finding the Line of Best Fit Once we recognize a need for a linear function to model that data, the natural follow-up question is “what is that linear function?” One way to approximate our linear function is to sketch the line that seems to best fit the data. Then we can extend the line until we can verify the y-intercept. We can approximate the slope of the line by extending it until we can estimate the  rise ___ run .
 
 **Example  2**
-Finding a Line of Best Fit Find a linear function that fits the data in Table 1 by “eyeballing” a line that seems to fit. Solution On a graph, we could try sketching a line. Using the starting and ending points of our hand drawn line, points (0, 30) and (50, 90), this graph has a slope of m =  60 __ and a y-intercept at 30. This gives an equation of T(c) = 1.2c + 30 where c is the number of chirps in 15 seconds, and T(c) is the temperature in degrees Fahrenheit. The resulting equation is represented in Figure 3. c, Number of Chirps T(c), Temperature (°F) Cricket Chirps vs. Temperature
+Finding a Line of Best Fit Find a linear function that fits the data in Table 1 by “eyeballing” a line that seems to fit.
+
+**Solution**
+
+On a graph, we could try sketching a line. Using the starting and ending points of our hand drawn line, points (0, 30) and (50, 90), this graph has a slope of m =  \frac{60}{a}nd a y-intercept at 30. This gives an equation of T(c) = 1.2c + 30 where c is the number of chirps in 15 seconds, and T(c) is the temperature in degrees Fahrenheit. The resulting equation is represented in Figure 3. c, Number of Chirps T(c), Temperature (°F) Cricket Chirps vs. Temperature
 
 **Analysis**
 This linear equation can then be used to approximate answers to various questions we might ask about the trend.
@@ -787,11 +891,19 @@ Finding a Least Squares Regression Line Find the least squares regression line u
 Distinguishing Between Linear and Non-Linear Models As we saw above with the cricket-chirp model, some data exhibit strong linear trends, but other data, like the final exam scores plotted by age, are clearly nonlinear. Most calculators and computer software can also provide us with the correlation coefficient, which is a measure of how closely the line fits the data. Many graphing calculators require the user to turn a ”diagnostic on” selection to find the correlation coefficient, which mathematicians label as r. The correlation coefficient provides an easy way to get an idea of how close to a line the data falls. We should compute the correlation coefficient only for data that follows a linear pattern or to determine the degree to which a data set is linear. If the data exhibits a nonlinear pattern, the correlation coefficient for a linear regression is meaningless. To get a sense for the relationship between the value of r and the graph of the data, Figure 7 shows some large data sets with their correlation coefficients. Remember, for all plots, the horizontal axis shows the input and the vertical axis shows the output. 1.0 1.0 1.0 1.0 0.8 0.4 0.0 -0.4 -1.0 -1.0 -1.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 -0.8 -1.0 correlation coefficient The correlation coefficient is a value, r, between -1 and 1. • r > 0 suggests a positive (increasing) relationship • r < 0 suggests a negative (decreasing) relationship • The closer the value is to 0, the more scattered the data. • The closer the value is to 1 or -1, the less scattered the data is.
 
 **Example  5**
-Finding a Correlation Coefficient Calculate the correlation coefficient for cricket-chirp data in Table 1. Solution Because the data appear to follow a linear pattern, we can use technology to calculate r. Enter the inputs and corresponding outputs and select the Linear Regression. The calculator will also provide you with the correlation coefficient, r = 0.9509. This value is very close to 1, which suggests a strong increasing linear relationship. Note: For some calculators, the Diagnostics must be turned “on” in order to get the correlation coefficient when linear regression is performed: [2nd]>[0]>[alpha][x - 1], then scroll to DIAGNOSTICSON. Predicting with a Regression Line Once we determine that a set of data is linear using the correlation coefficient, we can use the regression line to make predictions. As we learned above, a regression line is a line that is closest to the data in the scatter plot, which means that only one such line is a best fit for the data.
+Finding a Correlation Coefficient Calculate the correlation coefficient for cricket-chirp data in Table 1.
+
+**Solution**
+
+Because the data appear to follow a linear pattern, we can use technology to calculate r. Enter the inputs and corresponding outputs and select the Linear Regression. The calculator will also provide you with the correlation coefficient, r = 0.9509. This value is very close to 1, which suggests a strong increasing linear relationship. Note: For some calculators, the Diagnostics must be turned “on” in order to get the correlation coefficient when linear regression is performed: [2nd]>[0]>[alpha][x - 1], then scroll to DIAGNOSTICSON. Predicting with a Regression Line Once we determine that a set of data is linear using the correlation coefficient, we can use the regression line to make predictions. As we learned above, a regression line is a line that is closest to the data in the scatter plot, which means that only one such line is a best fit for the data.
 
 
 **Example  6**
-Using a Regression Line to Make Predictions Gasoline consumption in the United States has been steadily increasing. Consumption data from 1994 to 2004 is shown in Table 3[13]. Determine whether the trend is linear, and if so, find a model for the data. Use the model to predict the consumption in 2008. Year ‘94 ‘95 ‘96 ‘97 ‘98 ‘99 ‘00 ‘01 ‘02 ‘03 ‘04 Consumption (billions of gallons) The scatter plot of the data, including the least squares regression line, is shown in Figure 8. Years Afer 1994 Gas Consumption (billions of gallons) Gas Consumption vs. Year Solution We can introduce new input variable, t, representing years since 1994. The least squares regression equation is: Using technology, the correlation coefficient was calculated to be 0.9965, suggesting a very strong increasing linear trend. Using this to predict consumption in 2008 (t = 14),
+Using a Regression Line to Make Predictions Gasoline consumption in the United States has been steadily increasing. Consumption data from 1994 to 2004 is shown in Table 3[13]. Determine whether the trend is linear, and if so, find a model for the data. Use the model to predict the consumption in 2008. Year ‘94 ‘95 ‘96 ‘97 ‘98 ‘99 ‘00 ‘01 ‘02 ‘03 ‘04 Consumption (billions of gallons) The scatter plot of the data, including the least squares regression line, is shown in Figure 8. Years Afer 1994 Gas Consumption (billions of gallons) Gas Consumption vs. Year
+
+**Solution**
+
+We can introduce new input variable, t, representing years since 1994. The least squares regression equation is: Using technology, the correlation coefficient was calculated to be 0.9965, suggesting a very strong increasing linear trend. Using this to predict consumption in 2008 (t = 14),
 
 The model predicts 144.244 billion gallons of gasoline consumption in 2008.
 
@@ -842,17 +954,17 @@ change in input (run)  =  \Delta y _ \Delta x  =  y^{2} - y^{1} _ x^{2} - x^{1} 
 
 Linear Functions 1. Determine whether the algebraic equation is linear. 2x + 3y = 7 2. Determine whether the algebraic equation is linear. 6x 2 - y = 5 3. Determine whether the function is increasing or decreasing. f (x) = 7x - 2 4. Determine whether the function is increasing or decreasing. g(x) = -x + 2 5. Given each set of information, find a linear equation that satisfies the given conditions, if possible. Passes through (7, 5) and (3, 17) 6. Given each set of information, find a linear equation that satisfies the given conditions, if possible. x-intercept at (6, 0) and y-intercept at (0, 10) 7. Find the slope of the line shown in the graph. x y 8. Find the slope of the line shown in the graph. x y 9. Write an equation in slope-intercept form for the line shown. x y 10. Does the following table represent a linear function? If so, find the linear equation that models the data. x g(x) 11. Does the following table represent a linear function? If so, find the linear equation that models the data. x g(x) 12. On June 1st, a company has $4,000,000 profit. If the company then loses 150,000 dollars per day thereafter in the month of June, what is the company’s profit nth day after June 1st? Graphs of Linear Functions For the following exercises, determine whether the lines given by the equations below are parallel, perpendicular, or neither parallel nor perpendicular:
 
--x + 3y = 1 __ 3 x - 2 3x + y = - 9
+-x + 3y = \frac{1}{3} x - 2 3x + y = - 9
 
-For the following exercises, find the x- and y-intercepts of the given equation 16. f (x) = 2x - 1 For the following exercises, use the descriptions of the pairs of lines to find the slopes of Line 1 and Line 2. Is each pair of lines parallel, perpendicular, or neither? 17. Line 1: Passes through (5, 11) and (10, 1) Line 2: Passes through (-1, 3) and (-5, 11) 18. Line 1: Passes through (8, -10) and (0, -26) Line 2: Passes through (2, 5) and (4, 4) 19. Write an equation for a line perpendicular to f (x) = 5x - 1 and passing through the point (5, 20). 20. Find the equation of a line with a y-intercept of (0, 2) and slope - 1 __ 2 . 21. Sketch a graph of the linear function f (t) = 2t - 5. 22. Find the point of intersection for the 2 linear functions: x = y + 6 2x - y = 13 23. A car rental company offers two plans for renting a car. Plan A: 25 dollars per day and 10 cents per mile Plan B: 50 dollars per day with free unlimited mileage How many miles would you need to drive for plan B to save you money? Modeling with Linear Functions 24. Find the area of a triangle bounded by the y-axis, the line f (x) = 10 - 2x, and the line perpendicular to f that passes through the origin. 25. A town’s population increases at a constant rate. In 2010 the population was 55,000. By 2012 the population had increased to 76,000. If this trend continues, predict the population in 2016. 26. The number of people afflicted with the common cold in the winter months dropped steadily by 50 each year since 2004 until 2010. In 2004, 875 people were inflicted. Find the linear function that models the number of people afflicted with the common cold C as a function of the year, t. When will no one be afflicted? For the following exercises, use the graph in Figure 1 showing the profit, y, in thousands of dollars, of a company in a given year, x, where x represents years since 1980. x y 27. Find the linear function y, where y depends on x, the number of years since 1980. 28. Find and interpret the y-intercept.
+For the following exercises, find the x- and y-intercepts of the given equation 16. f (x) = 2x - 1 For the following exercises, use the descriptions of the pairs of lines to find the slopes of Line 1 and Line 2. Is each pair of lines parallel, perpendicular, or neither? 17. Line 1: Passes through (5, 11) and (10, 1) Line 2: Passes through (-1, 3) and (-5, 11) 18. Line 1: Passes through (8, -10) and (0, -26) Line 2: Passes through (2, 5) and (4, 4) 19. Write an equation for a line perpendicular to f (x) = 5x - 1 and passing through the point (5, 20). 20. Find the equation of a line with a y-intercept of (0, 2) and slope - \frac{1}{2} . 21. Sketch a graph of the linear function f (t) = 2t - 5. 22. Find the point of intersection for the 2 linear functions: x = y + 6 2x - y = 13 23. A car rental company offers two plans for renting a car. Plan A: 25 dollars per day and 10 cents per mile Plan B: 50 dollars per day with free unlimited mileage How many miles would you need to drive for plan B to save you money? Modeling with Linear Functions 24. Find the area of a triangle bounded by the y-axis, the line f (x) = 10 - 2x, and the line perpendicular to f that passes through the origin. 25. A town’s population increases at a constant rate. In 2010 the population was 55,000. By 2012 the population had increased to 76,000. If this trend continues, predict the population in 2016. 26. The number of people afflicted with the common cold in the winter months dropped steadily by 50 each year since 2004 until 2010. In 2004, 875 people were inflicted. Find the linear function that models the number of people afflicted with the common cold C as a function of the year, t. When will no one be afflicted? For the following exercises, use the graph in Figure 1 showing the profit, y, in thousands of dollars, of a company in a given year, x, where x represents years since 1980. x y 27. Find the linear function y, where y depends on x, the number of years since 1980. 28. Find and interpret the y-intercept.
 
 For the following exercise, consider this scenario: In 2004, a school population was 1,700. By 2012 the population had 29. Assume the population is changing linearly. a. How much did the population grow between the year 2004 and 2012? b. What is the average population growth per year? c. Find an equation for the population, P, of the school t years after 2004. For the following exercises, consider this scenario: In 2000, the moose population in a park was measured to be 6,500. By 2010, the population was measured to be 12,500. Assume the population continues to change linearly. 30. Find a formula for the moose population, P. 31. What does your model predict the moose population to be in 2020? For the following exercises, consider this scenario: The median home values in subdivisions Pima Central and East Valley (adjusted for inflation) are shown in Table 1. Assume that the house values are changing linearly. Year Pima Central East Valley 32. In which subdivision have home values increased at a higher rate? 33. If these trends were to continue, what would be the median home value in Pima Central in 2015? Fitting Linear Models to Data 34. Draw a scatter plot for the data in Table 2. Then determine whether the data appears to be linearly related. 35. Draw a scatter plot for the data in Table 3. If we wanted to know when the population would reach 15,000, would the answer involve interpolation or extrapolation? Year Population 36. Eight students were asked to estimate their score on a 10-point quiz. Their estimated and actual scores are given in Table 4. Plot the points, then sketch a line that fits the data. Predicted Actual
 
 37. Draw a best-fit line for the plotted data. x y For the following exercises, consider the data in Table 5, which shows the percent of unemployed in a city of people 25 years or older who are college graduates is given below, by year. Year Percent Graduates 6.5 7.0 7.4 8.2 9.0 38. Determine whether the trend appears to be linear. If so, and assuming the trend continues, find a linear regression model to predict the percent of unemployed in a given year to three decimal places. 39. In what year will the percentage exceed 12%? 40. Based on the set of data given in Table 6, calculate the regression line using a calculator or other technology tool, and determine the correlation coefficient to three decimal places. x y 41. Based on the set of data given in Table 7, calculate the regression line using a calculator or other technology tool, and determine the correlation coefficient to three decimal places. x y For the following exercises, consider this scenario: The population of a city increased steadily over a ten-year span. The following ordered pairs show the population and the year over the ten-year span (population, year) for specific recorded years: 42. Use linear regression to determine a function y, where the year depends on the population, to three decimal places of accuracy. 43. Predict when the population will hit 12,000. 44. What is the correlation coefficient for this model to three decimal places of accuracy? 45. According to the model, what is the population
 
-1. Determine whether the following algebraic equation can be written as a linear function. 2x + 3y = 7 2. Determine whether the following function is increasing or decreasing. f (x) = -2x + 5 3. Determine whether the following function is increasing or decreasing. f (x) = 7x + 9 4. Given the following set of information, find a linear equation satisfying the conditions, if possible. Passes through (5, 1) and (3, -9) 5. Given the following set of information, find a linear equation satisfying the conditions, if possible. x-intercept at (-4, 0) and y-intercept at (0, -6) 6. Find the slope of the line in Figure 1. x y 7. Write an equation for line in Figure 2. x y 8. Does Table 1 represent a linear function? If so, find a linear equation that models the data. x -6 g(x) 9. Does Table 2 represent a linear function? If so, find a linear equation that models the data. x g(x) 10. At 6 am, an online company has sold 120 items that day. If the company sells an average of 30 items per hour for the remainder of the day, write an expression to represent the number of items that were sold n after 6 am. For the following exercises, determine whether the lines given by the equations below are parallel, perpendicular, or neither parallel nor perpendicular: __ 4 x - 9 -4x - 3y = 8 12. -2x + y = 3 3x +  3 __ 2 y = 5 13. Find the x- and y-intercepts of the equation 14. Given below are descriptions of two lines. Find the slopes of Line 1 and Line 2. Is the pair of lines parallel, perpendicular, or neither? Line 1: Passes through (-2, -6) and (3, 14) Line 2: Passes through (2, 6) and (4, 14)
+1. Determine whether the following algebraic equation can be written as a linear function. 2x + 3y = 7 2. Determine whether the following function is increasing or decreasing. f (x) = -2x + 5 3. Determine whether the following function is increasing or decreasing. f (x) = 7x + 9 4. Given the following set of information, find a linear equation satisfying the conditions, if possible. Passes through (5, 1) and (3, -9) 5. Given the following set of information, find a linear equation satisfying the conditions, if possible. x-intercept at (-4, 0) and y-intercept at (0, -6) 6. Find the slope of the line in Figure 1. x y 7. Write an equation for line in Figure 2. x y 8. Does Table 1 represent a linear function? If so, find a linear equation that models the data. x -6 g(x) 9. Does Table 2 represent a linear function? If so, find a linear equation that models the data. x g(x) 10. At 6 am, an online company has sold 120 items that day. If the company sells an average of 30 items per hour for the remainder of the day, write an expression to represent the number of items that were sold n after 6 am. For the following exercises, determine whether the lines given by the equations below are parallel, perpendicular, or neither parallel nor perpendicular: __ 4 x - 9 -4x - 3y = 8 12. -2x + y = 3 3x +  \frac{3}{2} y = 5 13. Find the x- and y-intercepts of the equation 14. Given below are descriptions of two lines. Find the slopes of Line 1 and Line 2. Is the pair of lines parallel, perpendicular, or neither? Line 1: Passes through (-2, -6) and (3, 14) Line 2: Passes through (2, 6) and (4, 14)
 
-15. Write an equation for a line perpendicular to f (x) = 4x + 3 and passing through the point (8, 10). 16. Sketch a line with a y-intercept of (0, 5) and slope - 5 __ 2 . 17. Graph of the linear function f (x) = -x + 6 . 18. For the two linear functions, find the point of intersection: x = y + 2
+15. Write an equation for a line perpendicular to f (x) = 4x + 3 and passing through the point (8, 10). 16. Sketch a line with a y-intercept of (0, 5) and slope - \frac{5}{2} . 17. Graph of the linear function f (x) = -x + 6 . 18. For the two linear functions, find the point of intersection: x = y + 2
 
 2x - 3y = -1 19. A car rental company offers two plans for renting a car. Plan A: $25 per day and $0.10 per mile Plan B: $40 per day with free unlimited mileage How many miles would you need to drive for plan B to save you money? 20. Find the area of a triangle bounded by the y-axis, the line f (x) = 12 - 4x, and the line perpendicular to f that passes through the origin. 21. A town’s population increases at a constant rate. In 2010 the population was 65,000. By 2012 the population had increased to 90,000. Assuming this trend continues, predict the population in 2018. 22. The number of people afflicted with the common cold in the winter months dropped steadily by people were inflicted. Find the linear function that models the number of people afflicted with the common cold C as a function of the year, t. When will less than 6,000 people be afflicted? For the following exercises, use the graph in Figure 3, showing the profit, y, in thousands of dollars, of a company in a given year, x, where x represents years since 1980. x y 23. Find the linear function y , where y depends on x, the number of years since 1980. 24. Find and interpret the y-intercept. 25. In 2004, a school population was 1250. By 2012 the population had dropped to 875. Assume the population is changing linearly. a. How much did the population drop between the year 2004 and 2012? b. What is the average population decline per year? c. Find an equation for the population, P, of the school t years after 2004.
 
