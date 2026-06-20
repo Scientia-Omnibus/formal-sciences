@@ -122,7 +122,7 @@ An ordered pair, <span class="math-inline">(x,y)</span> gives the coordinates of
 
 
 <div class="math-display">
-The first number is the \\
+The first number is the
 The second number is the
 </div>
 
@@ -417,9 +417,7 @@ Here’s an example of a **linear equation in one variable**, and its one soluti
 
 
 <div class="math-display">
-3 \\
- \\
- \\
+3
 </div>
 
 But equations can have more than one variable. Equations with two variables can be written in the general form <span class="math-inline">Ax+By=C.</span> An equation of this form is called a linear equation in two variables.

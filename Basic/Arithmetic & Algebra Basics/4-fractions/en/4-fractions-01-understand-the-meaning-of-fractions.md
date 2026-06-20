@@ -74,11 +74,11 @@ Name the **fraction** of the shape that is shaded in each of the figures.
 Solution
 We need to ask two questions. First, how many equal parts are there? This will be the **denominator**. Second, of these equal parts, how many are shaded? This will be the **numerator**.
 ⓐ
-<span class="math-inline">How many equal parts are there? & & & There are eight equal parts. \\
-How many are shaded? & & & Five parts are shaded.</span>Five out of eight parts are shaded. Therefore, the fraction of the circle that is shaded is <span class="math-inline"><sup>5</sup>⁄<sub>8</sub>.</span>
+<span class="math-inline">How many equal parts are there? There are eight equal parts.
+How many are shaded? Five parts are shaded.</span>Five out of eight parts are shaded. Therefore, the fraction of the circle that is shaded is <span class="math-inline"><sup>5</sup>⁄<sub>8</sub>.</span>
 ⓑ
-<span class="math-inline">How many equal parts are there? & & & There are nine equal parts. \\
-How many are shaded? & & & Two parts are shaded.</span>Two out of nine parts are shaded. Therefore, the fraction of the square that is shaded is <span class="math-inline"><sup>2</sup>⁄<sub>9</sub>.</span>
+<span class="math-inline">How many equal parts are there? There are nine equal parts.
+How many are shaded? Two parts are shaded.</span>Two out of nine parts are shaded. Therefore, the fraction of the square that is shaded is <span class="math-inline"><sup>2</sup>⁄<sub>9</sub>.</span>
 
 
 **Try It**

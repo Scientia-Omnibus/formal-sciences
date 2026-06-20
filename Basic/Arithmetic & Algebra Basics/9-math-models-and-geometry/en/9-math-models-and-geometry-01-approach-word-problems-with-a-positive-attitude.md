@@ -673,10 +673,6 @@ Consecutive integers are integers that immediately follow each other. Some examp
 
 
 <div class="math-display">
-\\
- \\
- \\
- \\
 ...
 </div>
 
@@ -696,9 +692,9 @@ So if we define the first integer as <span class="math-inline">n,</span> the nex
 
 
 <div class="math-display">
-n & & & 1st integer \\
-n & & & 2nd consecutive integer \\
-n & & & 3rd consecutive integer
+n 1st integer
+n 2nd consecutive integer
+n 3rd consecutive integer
 </div>
 
 

@@ -9,8 +9,8 @@ The perimeter, <span class="math-inline">P,</span> of the rectangle is the dista
 
 
 <div class="math-display">
-P \\
-or \\
+P
+or
 P
 </div>
 

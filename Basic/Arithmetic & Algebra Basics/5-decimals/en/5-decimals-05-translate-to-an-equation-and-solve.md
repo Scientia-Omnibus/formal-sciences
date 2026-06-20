@@ -651,9 +651,8 @@ Suppose Ethan’s first three test scores were <span class="math-inline">85,88,a
 
 
 <div class="math-display">
-\\
-<sup>85+88+94</sup>⁄<sub>3</sub> \\
-<sup>267</sup>⁄<sub>3</sub> \\
+<sup>85+88+94</sup>⁄<sub>3</sub>
+<sup>267</sup>⁄<sub>3</sub>
 89
 </div>
 

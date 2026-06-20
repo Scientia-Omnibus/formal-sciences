@@ -19,10 +19,10 @@ where
 
 
 <div class="math-display">
-I & = & interest \\
-P & = & principal \\
-r & = & rate \\
-t & = & time
+I = interest
+P = principal
+r = rate
+t = time
 </div>
 
 Interest earned according to this formula is called **simple interest**.
@@ -38,10 +38,10 @@ Find the simple interest earned after <span class="math-inline">3</span> years o
 
 Solution
 Organize the given information in a list.
-<span class="math-inline">I & = & ? \\
-P & = & $500 \\
-r & = & 6% \\
-t & = & 3 years</span>
+<span class="math-inline">I = ?
+P = $500
+r = 6%
+t = 3 years</span>
 We will use the simple interest formula to find the interest.
 
 
@@ -96,10 +96,10 @@ Find the principal invested if <span class="math-inline">$178</span> interest wa
 
 Solution
 Organize the given information in a list.
-<span class="math-inline">I & = & $178 \\
-P & = & ? \\
-r & = & 4% \\
-t & = & 2 years</span>
+<span class="math-inline">I = $178
+P = ?
+r = 4%
+t = 2 years</span>
 We will use the simple interest formula to find the principal.
 
 
@@ -164,10 +164,10 @@ Find the rate if a principal of <span class="math-inline">$8,200</span> earned <
 
 Solution
 Organize the given information.
-<span class="math-inline">I & = & $3,772 \\
-P & = & $8,200 \\
-r & = & ? \\
-t & = & 4 years</span>
+<span class="math-inline">I = $3,772
+P = $8,200
+r = ?
+t = 4 years</span>
 We will use the simple interest formula to find the rate.
 
 
@@ -245,10 +245,10 @@ Nathaly deposited <span class="math-inline">$12,500</span> in her bank account w
 Solution
 We are asked to find the Interest, <span class="math-inline">I.</span>
 Organize the given information in a list.
-<span class="math-inline">I & = & ? \\
-P & = & $12,500 \\
-r & = & 4% \\
-t & = & 5 years</span>
+<span class="math-inline">I = ?
+P = $12,500
+r = 4%
+t = 5 years</span>
 
 
 Write the formula.
@@ -303,10 +303,10 @@ Loren lent his brother <span class="math-inline">$3,000</span> to help him buy a
 Solution
 We are asked to find the rate of interest, <span class="math-inline">r.</span>
 Organize the given information.
-<span class="math-inline">I & = & 660 \\
-P & = & $3,000 \\
-r & = & ? \\
-t & = & 4 years</span>
+<span class="math-inline">I = 660
+P = $3,000
+r = ?
+t = 4 years</span>
 
 
 Write the formula.
@@ -379,10 +379,10 @@ Eduardo noticed that his new car loan papers stated that with an interest rate o
 Solution
 We are asked to find the principal, <span class="math-inline">P.</span>
  Organize the given information.
-<span class="math-inline">I & = & 6,596.25 \\
-P & = & ? \\
-r & = & 7.5% \\
-t & = & 5 years</span>
+<span class="math-inline">I = 6,596.25
+P = ?
+r = 7.5%
+t = 5 years</span>
 
 
 Write the formula.
@@ -451,10 +451,10 @@ Caroline got <span class="math-inline">$900</span> as graduation gifts and inves
 Solution
 We are asked to find the interest, <span class="math-inline">I.</span>
 Organize the given information.
-<span class="math-inline">I & = & ? \\
-P & = & $900 \\
-r & = & 2.1% \\
-t & = & 10 months</span>
+<span class="math-inline">I = ?
+P = $900
+r = 2.1%
+t = 10 months</span>
 
 
 Write the formula.

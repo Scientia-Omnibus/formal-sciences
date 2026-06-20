@@ -184,9 +184,9 @@ We know <span class="math-inline">7-3=4</span> because <span class="math-inline"
 
 
 <div class="math-display">
-& & & because & & & \\
- & & & because & & & \\
-43 & & & because & & & 17
+because
+ because
+43 because 17
 </div>
 
 
@@ -261,7 +261,7 @@ Solution
 
     Write the numbers so the ones and tens digits line up vertically.
 
-    <span class="math-inline">89 \\
+    <span class="math-inline">89
 -61<sub>____</sub></span>
 
 
@@ -270,14 +270,14 @@ Solution
 Subtract the ones: <span class="math-inline">9-1=8</span>
 Subtract the tens: <span class="math-inline">8-6=2</span>
 
-    <span class="math-inline">89 \\
--61<sub>____</sub> \\
+    <span class="math-inline">89
+-61<sub>____</sub>
 28</span>
 
 
 Check using addition.
-<span class="math-inline">28 \\
-+61<sub>____</sub> \\
+<span class="math-inline">28
++61<sub>____</sub>
 89</span>
 
 
@@ -493,9 +493,7 @@ Write 6 in the hundreds place in the difference.
 Subtract the thousands. There is no digit in the thousands place of the bottom number, so we imagine a 0. <span class="math-inline">1-0=1.</span> Write 1 in the thousands place of the difference.
 Check by adding.
 
-<span class="math-inline">\\
- \\
- \\</span>
+<span class="math-inline"></span>
 
 
 Our answer is correct.

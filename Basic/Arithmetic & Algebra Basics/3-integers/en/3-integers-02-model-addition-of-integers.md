@@ -876,9 +876,9 @@ Simplify:
 
 
 Solution
-ⓐ Since the signs are different, we subtract <span class="math-inline">19</span> from <span class="math-inline">47.</span> The answer will be negative because there are more negatives than positives.<span class="math-inline">19 \\
+ⓐ Since the signs are different, we subtract <span class="math-inline">19</span> from <span class="math-inline">47.</span> The answer will be negative because there are more negatives than positives.<span class="math-inline">19
 −28</span>
-ⓑ The signs are different so we subtract <span class="math-inline">32</span> from <span class="math-inline">40.</span> The answer will be positive because there are more positives than negatives<span class="math-inline">−32 \\
+ⓑ The signs are different so we subtract <span class="math-inline">32</span> from <span class="math-inline">40.</span> The answer will be positive because there are more positives than negatives<span class="math-inline">−32
 8</span>
 
 
@@ -916,7 +916,7 @@ Simplify: <span class="math-inline">−14+(−36).</span>
 
 Solution
 Since the signs are the same, we add. The answer will be negative because there are only negatives.
-<span class="math-inline">−14 \\
+<span class="math-inline">−14
 −50</span>
 
 

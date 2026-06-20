@@ -967,13 +967,13 @@ If <span class="math-inline">a,b</span> are real numbers and <span class="math-i
 
 
 <div class="math-display">
-Product Property & & & a<sup>m</sup>· a<sup>n</sup>=a<sup>m+n</sup> \\
-Power Property & & & (a<sup>m</sup>)<sup>n</sup>=a<sup>m· n</sup> \\
-Product to a Power Property & & & (ab)<sup>m</sup>=a<sup>m</sup>b<sup>m</sup> \\
-Quotient Property & & & <sup>a<sup>m</sup></sup>⁄<sub>a<sup>n</sup></sub>=a<sup>m-n</sup>, a≠ 0 \\
-Zero Exponent Property & & & a<sup>0</sup>=1, \\
-Quotient to a Power Property & & & (<sup>a</sup>⁄<sub>b</sub>)<sup>m</sup>=<sup>a<sup>m</sup></sup>⁄<sub>b<sup>m</sup></sub>, b≠ 0 \\
-Definition of Negative Exponent & & & a<sup>-n</sup>=<sup>1</sup>⁄<sub>a<sup>n</sup></sub>
+Product Property a<sup>m</sup>· a<sup>n</sup>=a<sup>m+n</sup>
+Power Property (a<sup>m</sup>)<sup>n</sup>=a<sup>m· n</sup>
+Product to a Power Property (ab)<sup>m</sup>=a<sup>m</sup>b<sup>m</sup>
+Quotient Property <sup>a<sup>m</sup></sup>⁄<sub>a<sup>n</sup></sub>=a<sup>m-n</sup>, a≠ 0
+Zero Exponent Property a<sup>0</sup>=1,
+Quotient to a Power Property (<sup>a</sup>⁄<sub>b</sub>)<sup>m</sup>=<sup>a<sup>m</sup></sup>⁄<sub>b<sup>m</sup></sub>, b≠ 0
+Definition of Negative Exponent a<sup>-n</sup>=<sup>1</sup>⁄<sub>a<sup>n</sup></sub>
 </div>
 
 

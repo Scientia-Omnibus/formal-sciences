@@ -705,8 +705,8 @@ Remember, quarters are really fractions of a dollar. Quarters are another way to
 
 
 <div class="math-display">
-<sup>1</sup>⁄<sub>4</sub> & & <sup>2</sup>⁄<sub>4</sub> & & <sup>3</sup>⁄<sub>4</sub> \\
-one quarter & + & two quarters & = & three quarters
+<sup>1</sup>⁄<sub>4</sub> <sup>2</sup>⁄<sub>4</sub> <sup>3</sup>⁄<sub>4</sub>
+one quarter + two quarters = three quarters
 </div>
 
 Let’s use fraction circles to model the same example, <span class="math-inline"><sup>1</sup>⁄<sub>4</sub>+<sup>2</sup>⁄<sub>4</sub>.</span>

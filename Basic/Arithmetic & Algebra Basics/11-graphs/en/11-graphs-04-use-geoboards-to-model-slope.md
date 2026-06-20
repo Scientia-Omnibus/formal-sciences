@@ -63,9 +63,9 @@ Use the definition of slope.
 Start at the left peg and make a right triangle by stretching the rubber band up and to the right to reach the second peg.
 Count the rise and the run as shown.
 
-<span class="math-inline">The rise is & & & m \\
-The run is & & & m \\
- & & & The slope is</span>
+<span class="math-inline">The rise is m
+The run is m
+ The slope is</span>
 
 
 **Try It**
@@ -97,10 +97,10 @@ Use the definition of slope.
 <span class="math-inline">m=<sup>rise</sup>⁄<sub>run</sub></span>
 Start at the left peg and make a right triangle by stretching the rubber band to the peg on the right. This time we need to stretch the rubber band down to make the vertical leg, so the rise is negative.
 
-<span class="math-inline">The rise is & & & m \\
-The run is & & & m \\
- & & & m \\
- & & & The slope is</span>
+<span class="math-inline">The rise is m
+The run is m
+ m
+ The slope is</span>
 
 
 **Try It**
@@ -506,8 +506,8 @@ On the graph, we counted the rise of <span class="math-inline">3.</span> The ris
 
 
 <div class="math-display">
-y<sub>2</sub> \\
-6 \\
+y<sub>2</sub>
+6
 3
 </div>
 
@@ -515,8 +515,8 @@ We counted a run of <span class="math-inline">5.</span> The run can also be foun
 
 
 <div class="math-display">
-x<sub>2</sub> \\
-7 \\
+x<sub>2</sub>
+7
 5
 </div>
 
@@ -591,9 +591,8 @@ Use the slope formula.
 Let’s confirm this by counting out the slope on the graph.
 
 The rise is <span class="math-inline">3</span> and the run is <span class="math-inline">3,</span> so
-<span class="math-inline">\\
-m \\
-m \\
+<span class="math-inline">m
+m
 m</span>
 
 
@@ -658,11 +657,7 @@ Use the slope formula.
 
 Let’s confirm this on the graph shown.
 
-<span class="math-inline">\\
- \\
- \\
- \\
-m \\</span>
+<span class="math-inline">m</span>
 
 
 **Try It**
@@ -701,13 +696,7 @@ Plot the given point, <span class="math-inline">(1,−1).</span>
 
 
 Use the slope formula <span class="math-inline">m=<sup>rise</sup>⁄<sub>run</sub></span> to identify the rise and the run.
-<span class="math-inline">\\
- \\
- \\
-<sup>rise</sup>⁄<sub>run</sub> \\
- \\
- \\
- \\</span>
+<span class="math-inline"><sup>rise</sup>⁄<sub>run</sub></span>
 Starting at the point we plotted, count out the rise and run to mark the second point. We count <span class="math-inline">3</span> units up and <span class="math-inline">4</span> units right.
 
 Then we connect the points with a line and draw arrows at the ends to show it continues.
@@ -750,13 +739,7 @@ Solution
 Plot the given point, the <span class="math-inline">y</span>-intercept <span class="math-inline">(0,2).</span>
 
 Use the slope formula <span class="math-inline">m=<sup>rise</sup>⁄<sub>run</sub></span> to identify the rise and the run.
-<span class="math-inline">\\
- \\
- \\
-<sup>rise</sup>⁄<sub>run</sub> \\
- \\
- \\
- \\</span>
+<span class="math-inline"><sup>rise</sup>⁄<sub>run</sub></span>
 Starting at <span class="math-inline">(0,2),</span> count the rise and the run and mark the second point.
 
 Connect the points with a line.

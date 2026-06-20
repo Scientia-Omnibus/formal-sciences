@@ -377,8 +377,7 @@ The math to calculate the distance might look like this:
 
 
 <div class="math-display">
-\\
-distance \\
+distance
 distance
 </div>
 

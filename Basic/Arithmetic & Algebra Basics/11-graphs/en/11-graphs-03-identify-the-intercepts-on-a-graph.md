@@ -658,26 +658,15 @@ Graph <span class="math-inline">-x+2y=6</span> using intercepts.
 
 Solution
 First, find the <span class="math-inline">x-intercept.</span> Let <span class="math-inline">y=0,</span>
-<span class="math-inline">\\
- \\
-- \\
- \\</span>
+<span class="math-inline">-</span>
 The <span class="math-inline">x-intercept</span> is <span class="math-inline">(–6,0).</span>
 Now find the <span class="math-inline">y-intercept.</span> Let <span class="math-inline">x=0.</span>
-<span class="math-inline">\\
-- \\
-−0 \\
- \\
- \\
- \\</span>
+<span class="math-inline">-
+−0</span>
 The <span class="math-inline">y-intercept</span> is <span class="math-inline">(0,3).</span>
 Find a third point. We’ll use <span class="math-inline">x=2,</span>
-<span class="math-inline">\\
-- \\
-−2 \\
- \\
- \\
- \\</span>
+<span class="math-inline">-
+−2</span>
 A third solution to the equation is <span class="math-inline">(2,4).</span>
 Summarize the three points in a table and then plot them on a graph.
 

@@ -397,12 +397,11 @@ In the following exercises, complete the table to find solutions to each linear 
 ⓐ Plot the points on a coordinate grid.
 
 
-<span class="math-inline">Height \\
+<span class="math-inline">Height
 x</span>
-<span class="math-inline">Weight \\
+<span class="math-inline">Weight
 y</span>
-<span class="math-inline">\\
-(</span>
+<span class="math-inline">(</span>
 
 
 <span class="math-inline">28</span>
@@ -826,8 +825,8 @@ Graph the equation <span class="math-inline">3x+y=−1.</span>
 Solution
 Find three points that are solutions to the equation.
 First, solve the equation for <span class="math-inline">y.</span>
-<span class="math-inline">3 & = & −1 \\
-y & = & −3</span>We’ll let <span class="math-inline">x</span> be <span class="math-inline">0,1,</span> and <span class="math-inline">−1</span> to find three points. The ordered pairs are shown in the table. Plot the points, check that they line up, and draw the line.
+<span class="math-inline">3 = −1
+y = −3</span>We’ll let <span class="math-inline">x</span> be <span class="math-inline">0,1,</span> and <span class="math-inline">−1</span> to find three points. The ordered pairs are shown in the table. Plot the points, check that they line up, and draw the line.
 
 
 <span class="math-inline">y=−3x-1</span>

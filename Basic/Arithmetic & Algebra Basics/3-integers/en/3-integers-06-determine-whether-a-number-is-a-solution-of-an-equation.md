@@ -287,8 +287,8 @@ The previous examples lead to the **Division Property of Equality**. When you di
 
 
 <div class="math-display">
-For any numbers & a & c \\
-If & a & <sup>a</sup>⁄<sub>c</sub>
+For any numbers a c
+If a <sup>a</sup>⁄<sub>c</sub>
 </div>
 
 
@@ -426,10 +426,8 @@ Solution
 
 
 Check the answer by substituting it into the original equation.
-<span class="math-inline">\\
- \\
-x \\
-−8 \\
+<span class="math-inline">x
+−8
 −3</span>
 
 
@@ -478,9 +476,7 @@ Solution
 
 
 Check the answer by substituting it into the original equation.
-<span class="math-inline">\\
- \\
-−4 \\
+<span class="math-inline">−4
 −10</span>
 
 
@@ -529,8 +525,8 @@ Solution
 
 
 Check the answer by substituting it into the original equation.
-<span class="math-inline">108 \\
-108 \\
+<span class="math-inline">108
+108
 108</span>
 
 

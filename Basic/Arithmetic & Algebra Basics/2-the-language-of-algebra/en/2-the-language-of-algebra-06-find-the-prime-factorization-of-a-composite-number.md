@@ -49,8 +49,8 @@ In cases like this, where some of the prime factors are repeated, we can write p
 
 
 <div class="math-display">
-2 \\
- \\
+2
+
 2<sup>2</sup>
 </div>
 
@@ -177,8 +177,8 @@ The prime factorization is the product of all the primes on the sides and top of
 
 
 <div class="math-display">
-2 \\
- \\
+2
+
 2<sup>2</sup>
 </div>
 
@@ -293,7 +293,7 @@ A common multiple of two numbers is a number that is a multiple of both numbers.
 
 
 <div class="math-display">
-10 \\
+10
 25:25, 50,75, 100,125,…
 </div>
 
@@ -321,7 +321,7 @@ Find the LCM of <span class="math-inline">15</span> and <span class="math-inline
 
 Solution
 List the first several multiples of <span class="math-inline">15</span> and of <span class="math-inline">20.</span> Identify the first common multiple.
-<span class="math-inline">15: \\
+<span class="math-inline">15:
 20:</span>
 The smallest number to appear on both lists is <span class="math-inline">60,</span> so <span class="math-inline">60</span> is the least common multiple of <span class="math-inline">15</span> and <span class="math-inline">20.</span>
 Notice that <span class="math-inline">120</span> is on both lists, too. It is a common multiple, but it is not the least common multiple.
@@ -360,7 +360,7 @@ Then we write each number as a product of primes, matching primes vertically whe
 
 
 <div class="math-display">
-12 \\
+12
 18
 </div>
 

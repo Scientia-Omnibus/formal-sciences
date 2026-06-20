@@ -6,10 +6,10 @@ Consider the numbers <span class="math-inline">4000</span> and <span class="math
 
 
 <div class="math-display">
-4000 & & & 0.004 \\
-4 × 1000 & & & 4 × <sup>1</sup>⁄<sub>1000</sub> \\
-4 × 10<sup>3</sup> & & & 4 × <sup>1</sup>⁄<sub>10<sup>3</sup></sub> \\
- & & & 4 × 10<sup>−3</sup>
+4000 0.004
+4 × 1000 4 × <sup>1</sup>⁄<sub>1000</sub>
+4 × 10<sup>3</sup> 4 × <sup>1</sup>⁄<sub>10<sup>3</sup></sub>
+ 4 × 10<sup>−3</sup>
 </div>
 
 When a number is written as a product of two numbers, where the first factor is a number greater than or equal to one but less than <span class="math-inline">10,</span> and the second factor is a power of <span class="math-inline">10</span> written in exponential form, it is said to be in *scientific notation.*
@@ -134,12 +134,12 @@ Write as a product with a power of 10.
 
 
 Check your answer:
-<span class="math-inline">5.2 × 10<sup>−3</sup> \\
-5.2 × <sup>1</sup>⁄<sub>10<sup>3</sup></sub> \\
- \\
- \\
- \\
- \\
+<span class="math-inline">5.2 × 10<sup>−3</sup>
+5.2 × <sup>1</sup>⁄<sub>10<sup>3</sup></sub>
+
+
+
+
 0.0052</span>
 
 
@@ -170,9 +170,9 @@ How can we convert from scientific notation to decimal form? Let’s look at two
 
 
 <div class="math-display">
-9.12 × 10<sup>4</sup> & & & 9.12 × 10<sup>−4</sup> \\
-9.12 × 10,000 & & & 9.12 × 0.0001 \\
-91,200 & & & 0.000912
+9.12 × 10<sup>4</sup> 9.12 × 10<sup>−4</sup>
+9.12 × 10,000 9.12 × 0.0001
+91,200 0.000912
 </div>
 
 If we look at the location of the decimal point, we can see an easy method to convert a number from scientific notation to decimal form.
@@ -391,13 +391,13 @@ Divide. Write answers in decimal form: <span class="math-inline"><sup>8 × 10<su
 - *Summary of Exponent Properties*
 
   - If <span class="math-inline">a,b</span> are real numbers and <span class="math-inline">m,n</span> are integers, then
-<span class="math-inline">Product Property & & & a<sup>m</sup>· a<sup>n</sup>=a<sup>m+n</sup> \\
-Power Property & & & (a<sup>m</sup>)<sup>n</sup>=a<sup>m· n</sup> \\
-Product to a Power Property & & & (ab)<sup>m</sup>=a<sup>m</sup>b<sup>m</sup> \\
-Quotient Property & & & <sup>a<sup>m</sup></sup>⁄<sub>a<sup>n</sup></sub>=a<sup>m-n</sup>, a≠ 0 \\
-Zero Exponent Property & & & a<sup>0</sup>=1, \\
-Quotient to a Power Property & & & (<sup>a</sup>⁄<sub>b</sub>)<sup>m</sup>=<sup>a<sup>m</sup></sup>⁄<sub>b<sup>m</sup></sub>, b≠ 0 \\
-Definition of Negative Exponent & & & a<sup>-n</sup>=<sup>1</sup>⁄<sub>a<sup>n</sup></sub></span>
+<span class="math-inline">Product Property a<sup>m</sup>· a<sup>n</sup>=a<sup>m+n</sup>
+Power Property (a<sup>m</sup>)<sup>n</sup>=a<sup>m· n</sup>
+Product to a Power Property (ab)<sup>m</sup>=a<sup>m</sup>b<sup>m</sup>
+Quotient Property <sup>a<sup>m</sup></sup>⁄<sub>a<sup>n</sup></sub>=a<sup>m-n</sup>, a≠ 0
+Zero Exponent Property a<sup>0</sup>=1,
+Quotient to a Power Property (<sup>a</sup>⁄<sub>b</sub>)<sup>m</sup>=<sup>a<sup>m</sup></sup>⁄<sub>b<sup>m</sup></sub>, b≠ 0
+Definition of Negative Exponent a<sup>-n</sup>=<sup>1</sup>⁄<sub>a<sup>n</sup></sub></span>
 
 
 - *Convert from Decimal Notation to Scientific Notation:* To convert a decimal to scientific notation:

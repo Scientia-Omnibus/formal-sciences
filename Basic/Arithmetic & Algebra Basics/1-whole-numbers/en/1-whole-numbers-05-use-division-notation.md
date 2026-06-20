@@ -382,8 +382,8 @@ Check by multiplying the quotient times the divisor to get the dividend. Multipl
 
 
 <div class="math-display">
-2<sup>1</sup> \\
-× 3<sub>___</sub> \\
+2<sup>1</sup>
+× 3<sub>___</sub>
 78
 </div>
 
@@ -590,10 +590,10 @@ To check this division we multiply <span class="math-inline">3</span> times <spa
 
 
 <div class="math-display">
-3 \\
-× 8<sub>___</sub> \\
-24 \\
-+4<sub>___</sub> \\
+3
+× 8<sub>___</sub>
+24
++4<sub>___</sub>
 28
 </div>
 
@@ -774,9 +774,9 @@ Translate and simplify: the quotient of <span class="math-inline">51</span> and 
 
 Solution
 The word *quotient* tells us to divide.
-<span class="math-inline">& & & the quotient of 51 and 17 \\
-Translate. & & & 51 \\
-Divide. & & & 3</span>We could just as correctly have translated *the quotient of* <span class="math-inline">51</span> *and* <span class="math-inline">17</span> using the notation
+<span class="math-inline">the quotient of 51 and 17
+Translate. 51
+Divide. 3</span>We could just as correctly have translated *the quotient of* <span class="math-inline">51</span> *and* <span class="math-inline">17</span> using the notation
 <span class="math-inline">17 or <sup>51</sup>⁄<sub>17</sub>.</span>
 
 

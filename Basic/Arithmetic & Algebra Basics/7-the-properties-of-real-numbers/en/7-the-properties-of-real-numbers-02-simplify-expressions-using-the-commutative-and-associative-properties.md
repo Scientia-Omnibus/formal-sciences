@@ -829,11 +829,11 @@ Back to our friends at the movies, we could show the math steps we take to find 
 
 
 <div class="math-display">
-& 3 & \\
-3 & + & 0.25 \\
-3 & + & 3 \\
-27 & + & 0.75 \\
- & 27.75 &
+3
+3 + 0.25
+3 + 3
+27 + 0.75
+ 27.75
 </div>
 
 

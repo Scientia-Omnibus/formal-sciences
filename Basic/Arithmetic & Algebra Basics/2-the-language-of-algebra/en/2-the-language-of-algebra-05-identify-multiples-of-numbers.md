@@ -6,11 +6,11 @@ The numbers <span class="math-inline">2,4,6,8,10,12</span> are called multiples 
 
 
 <div class="math-display">
-1 \\
-2 \\
-3 \\
-4 \\
-5 \\
+1
+2
+3
+4
+5
 6
 </div>
 
@@ -18,11 +18,11 @@ A **multiple of a number** is the product of the number and a counting number. S
 
 
 <div class="math-display">
-1 \\
-2 \\
-3 \\
-4 \\
-5 \\
+1
+2
+3
+4
+5
 6
 </div>
 
@@ -369,7 +369,7 @@ Solution
 
 
     We can check this by dividing by 10,519 by 3.
-    <span class="math-inline">3,506 \\
+    <span class="math-inline">3,506
 3</span>
 
 

@@ -30,8 +30,8 @@ The **sales tax** is a percent of the purchase price.
 
 
 <div class="math-display">
-Sales Tax & = & Tax Rate \\
-Total Cost & = & Purchase Price
+Sales Tax = Tax Rate
+Total Cost = Purchase Price
 </div>
 
 
@@ -355,8 +355,8 @@ An amount of **discount** is a percent off the original price.
 
 
 <div class="math-display">
-amount of discount & = & discount rate \\
-sale price & = & original price
+amount of discount = discount rate
+sale price = original price
 </div>
 
 The sale price should always be less than the original price. In some cases, the amount of discount is a fixed dollar amount. Then we just find the sale price by subtracting the amount of discount from the original price.
@@ -658,8 +658,8 @@ The mark-up is the amount added to the wholesale price.
 
 
 <div class="math-display">
-amount of mark-up & = & mark-up rate \\
-list price & = & wholesale price
+amount of mark-up = mark-up rate
+list price = wholesale price
 </div>
 
 The list price should always be more than the wholesale price.

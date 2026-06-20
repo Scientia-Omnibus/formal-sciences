@@ -350,9 +350,9 @@ In the same way, integers can be written as decimals with as many zeros as neede
 
 
 <div class="math-display">
-5 & & & −2 \\
-5 & & & −2 \\
-5 & & & −2
+5 −2
+5 −2
+5 −2
 </div>
 
 
@@ -579,8 +579,7 @@ In previous chapters, we used the number line to order numbers.
 
 
 <div class="math-display">
-\\
-a \\
+a
 a
 </div>
 

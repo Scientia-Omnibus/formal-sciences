@@ -629,8 +629,8 @@ For example,
 
 
 <div class="math-display">
-13 & & −14 & & 0 \\
-13 & & −14 & & −3
+13 −14 0
+13 −14 −3
 </div>
 
 What happens when you multiply any number by one? Multiplying by one doesn’t change the value. So we call <span class="math-inline">1</span> the **multiplicative identity**.
@@ -639,8 +639,8 @@ For example,
 
 
 <div class="math-display">
-43 & & −27 & & 1 \\
-43 & & −27 & & <sup>6y</sup>⁄<sub>5</sub>
+43 −27 1
+43 −27 <sup>6y</sup>⁄<sub>5</sub>
 </div>
 
 
@@ -650,8 +650,7 @@ The *identity property of addition*: for any real number <span class="math-inlin
 
 
 <div class="math-display">
-\\
-a \\
+a
 0 is called the
 </div>
 
@@ -659,7 +658,7 @@ The *identity property of multiplication*: for any real number <span class="math
 
 
 <div class="math-display">
-a \\
+a
 1 is called the
 </div>
 
@@ -747,8 +746,7 @@ We’ll formally state the Inverse Properties here:
 
 
 <div class="math-display">
-\\
-a \\
+a
 -
 </div>
 
@@ -756,9 +754,7 @@ a \\
 
 
 <div class="math-display">
-\\
- \\
-a \\
+a
 <sup>1</sup>⁄<sub>a</sub>
 </div>
 

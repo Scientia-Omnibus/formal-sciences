@@ -28,9 +28,9 @@ An example with numbers helps to verify this property.
 
 
 <div class="math-display">
-2<sup>2</sup>· 2<sup>3</sup> & =<sup>?</sup> & 2<sup>2+3</sup> \\
-4· 8 & =<sup>?</sup> & 2<sup>5</sup> \\
-32 & = & 32
+2<sup>2</sup>· 2<sup>3</sup> =<sup>?</sup> 2<sup>2+3</sup>
+4· 8 =<sup>?</sup> 2<sup>5</sup>
+32 = 32
 </div>
 
 
@@ -249,9 +249,9 @@ An example with numbers helps to verify this property.
 
 
 <div class="math-display">
-(5<sup>2</sup>)<sup>3</sup> & =<sup>?</sup> & 5<sup>2· 3</sup> \\
-(25)<sup>3</sup> & =<sup>?</sup> & 5<sup>6</sup> \\
-15,625 & = & 15,625
+(5<sup>2</sup>)<sup>3</sup> =<sup>?</sup> 5<sup>2· 3</sup>
+(25)<sup>3</sup> =<sup>?</sup> 5<sup>6</sup>
+15,625 = 15,625
 </div>
 
 
@@ -339,9 +339,9 @@ An example with numbers helps to verify this property:
 
 
 <div class="math-display">
-(2· 3)<sup>2</sup> & =<sup>?</sup> & 2<sup>2</sup> \\
-6<sup>2</sup> & =<sup>?</sup> & 4 \\
-36 & = & 36
+(2· 3)<sup>2</sup> =<sup>?</sup> 2<sup>2</sup>
+6<sup>2</sup> =<sup>?</sup> 4
+36 = 36
 </div>
 
 
@@ -430,9 +430,9 @@ If <span class="math-inline">a,b</span> are real numbers and <span class="math-i
 
 
 <div class="math-display">
-Product Property & & & \\
-Power Property & & & \\
-Product to a Power Property & & &
+Product Property
+Power Property
+Product to a Power Property
 </div>
 
 

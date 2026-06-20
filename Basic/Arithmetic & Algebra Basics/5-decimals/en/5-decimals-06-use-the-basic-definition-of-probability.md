@@ -22,8 +22,7 @@ Converting the fraction <span class="math-inline"><sup>3</sup>⁄<sub>5</sub></s
 
 
 <div class="math-display">
-\\
-Probability of choosing a banana \\
+Probability of choosing a banana
 Probability of choosing a banana
 </div>
 
@@ -1084,9 +1083,9 @@ Find the unit price.
 
 
 Round to the nearest cent.
-<span class="math-inline">$0.23/load \\
+<span class="math-inline">$0.23/load
 (23 cents per load.)</span>
-<span class="math-inline">$0.20/load \\
+<span class="math-inline">$0.20/load
 (20 cents per load)</span>
 
 

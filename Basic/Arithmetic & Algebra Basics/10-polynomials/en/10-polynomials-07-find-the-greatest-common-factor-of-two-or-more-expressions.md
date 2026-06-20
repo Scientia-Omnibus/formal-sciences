@@ -42,7 +42,7 @@ Circle the 2, 2, and 3 that are shared by both numbers.
 
 
 Notice that since the GCF is a factor of both numbers, <span class="math-inline">24</span> and <span class="math-inline">36</span> can be written as multiples of <span class="math-inline">12.</span>
-<span class="math-inline">24 \\
+<span class="math-inline">24
 36</span>
 
 
@@ -209,9 +209,9 @@ Remember that you can multiply a polynomial by a monomial as follows:
 
 
 <div class="math-display">
-2 & + & 7 \\
-2 & + & 2 \\
-2 & + & 14
+2 + 7
+2 + 2
+2 + 14
 </div>
 
 Here, we will start with a product, like <span class="math-inline">2x+14,</span> and end with its factors, <span class="math-inline">2(x+7).</span> To do this we apply the **Distributive Property** “in reverse”.
@@ -282,8 +282,8 @@ Notice that in , we used the word *factor* as both a noun and a verb:
 
 
 <div class="math-display">
-Noun & & & 7 \\
-Verb & & & factor
+Noun 7
+Verb factor
 </div>
 
 

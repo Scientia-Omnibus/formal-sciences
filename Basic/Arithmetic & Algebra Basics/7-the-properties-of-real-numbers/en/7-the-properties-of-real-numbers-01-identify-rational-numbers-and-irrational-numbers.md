@@ -172,14 +172,14 @@ Write each as the ratio of two integers: ⓐ <span class="math-inline">−19</sp
 
 Let's look at the decimal form of the numbers we know are rational. We have seen that every **integer** is a **rational number**, since <span class="math-inline">a=<sup>a</sup>⁄<sub>1</sub></span> for any integer, <span class="math-inline">a.</span> We can also change any integer to a decimal by adding a decimal point and a zero.
 
-<span class="math-inline">Integer & & & −2 \\
-Decimal & & & −2.0</span>
+<span class="math-inline">Integer −2
+Decimal −2.0</span>
 
 We have also seen that every fraction is a rational number. Look at the decimal form of the fractions we just considered.
 
-<span class="math-inline">Ratio of Integers & & <sup>4</sup>⁄<sub>5</sub> & & - & & <sup>13</sup>⁄<sub>4</sub> & - & \\
-Decimal Forms & & 0.8 & & −0.875 & & 3.25 & −6.666… & These decimals either stop or repeat. \\
- & & & & & & & −6</span>
+<span class="math-inline">Ratio of Integers <sup>4</sup>⁄<sub>5</sub> - <sup>13</sup>⁄<sub>4</sub> -
+Decimal Forms 0.8 −0.875 3.25 −6.666… These decimals either stop or repeat.
+ −6</span>
 
 What do these examples tell you? Every rational number can be written both as a ratio of integers and as a decimal that either stops or repeats. The table below shows the numbers we looked at expressed as a ratio of integers and as a decimal.
 
@@ -627,8 +627,8 @@ Think about adding two numbers, such as <span class="math-inline">5</span> and <
 
 
 <div class="math-display">
-5 & & & 3 \\
-8 & & & 8
+5 3
+8 8
 </div>
 
 The results are the same. <span class="math-inline">5+3=3+5</span>
@@ -637,8 +637,8 @@ Notice, the order in which we add does not matter. The same is true when multipl
 
 
 <div class="math-display">
-5 & & & 3 \\
-15 & & & 15
+5 3
+15 15
 </div>
 
 Again, the results are the same! <span class="math-inline">5· 3=3· 5.</span> The order in which we multiply does not matter.
@@ -727,9 +727,9 @@ What about subtraction? Does order matter when we subtract numbers? Does <span c
 
 
 <div class="math-display">
-7 & & 3 \\
-4 & & - \\
- & 4 &
+7 3
+4 -
+ 4
 </div>
 
 
@@ -743,10 +743,10 @@ Let’s see what happens when we divide two numbers. Is division commutative?
 
 
 <div class="math-display">
-12 & & 4 \\
-<sup>12</sup>⁄<sub>4</sub> & & <sup>4</sup>⁄<sub>12</sub> \\
-3 & & <sup>1</sup>⁄<sub>3</sub> \\
- & 3 &
+12 4
+<sup>12</sup>⁄<sub>4</sub> <sup>4</sup>⁄<sub>12</sub>
+3 <sup>1</sup>⁄<sub>3</sub>
+ 3
 </div>
 
 

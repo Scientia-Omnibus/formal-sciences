@@ -749,8 +749,8 @@ In the following exercises, solve.
 
 
 *Stock Market* The week of September 15, 2008, was one of the most volatile weeks ever for the U.S. stock market. The change in the Dow Jones Industrial Average each day was:
-<span class="math-inline">Monday & −504 & Tuesday & +142 & Wednesday & −449 \\
-Thursday & +410 & Friday & +369 &</span>
+<span class="math-inline">Monday −504 Tuesday +142 Wednesday −449
+Thursday +410 Friday +369</span>
 What was the overall change for the week?
 
 
@@ -758,8 +758,8 @@ What was the overall change for the week?
 
 
 *Stock Market* During the week of June 22, 2009, the change in the Dow Jones Industrial Average each day was:
-<span class="math-inline">Monday & −201 & Tuesday & −16 & Wednesday & −23 \\
-Thursday & +172 & Friday & −34 &</span>
+<span class="math-inline">Monday −201 Tuesday −16 Wednesday −23
+Thursday +172 Friday −34</span>
 What was the overall change for the week?
 
 

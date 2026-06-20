@@ -205,8 +205,8 @@ If two triangles are similar, then their corresponding angle measures are equal 
 
 The length of a side of a triangle may be referred to by its endpoints, two vertices of the triangle. For example, in <span class="math-inline">ΔABC:</span>
 
-<span class="math-inline">the length \\
-the length \\
+<span class="math-inline">the length
+the length
 the length</span>
 
 We will often use this notation when we solve similar triangles because it will help us match up the corresponding side lengths.
@@ -931,7 +931,7 @@ The **area** is a measure of the surface covered by a figure.
 Since the tile is a square that is <span class="math-inline">1</span> inch on each side, its area is one square inch. The area of a shape is measured by determining how many square units cover the shape.
 
 
-*<span class="math-inline">Perimeter \\
+*<span class="math-inline">Perimeter
 Area</span>
 
 When the ant walks completely around the tile on its edge, it is tracing the perimeter of the tile. The area of the tile is 1 square inch.*

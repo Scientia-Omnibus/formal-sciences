@@ -19,7 +19,7 @@ To find the total value of the pile of <span class="math-inline">17</span> dimes
 
 
 <div class="math-display">
-17 \\
+17
 number
 </div>
 
@@ -165,16 +165,15 @@ Write the equation.
  The number of nickels is *d* + 9
 
 
-Step 6. *Check.*<span class="math-inline">12 & = & \\
-21 & = & \\
- & &</span>
+Step 6. *Check.*<span class="math-inline">12 =
+21 =</span>
 Step 7. *Answer* the question.<span class="math-inline">Adalberto has twelve dimes and twenty-one nickels.</span>
 If this were a homework exercise, our work might look like this:
 
 Check:
-<span class="math-inline">12 dimes & & & 12(0.10) & = & \\
-21 nickels & & & 21(0.05) & = & \\
- & & & & & $2.25</span>
+<span class="math-inline">12 dimes 12(0.10) =
+21 nickels 21(0.05) =
+ $2.25</span>
 
 
 **Try It**
@@ -323,9 +322,9 @@ Write the equation.
 
 
 Step 6. *Check* the answer in the problem. Maria has <span class="math-inline">9</span> quarters and <span class="math-inline">18</span> pennies. Does this make <span class="math-inline">$2.43?</span>
-<span class="math-inline">9 quarters & & & 9(0.25) & = & \\
-18 pennies & & & 18(0.01) & = & \\
-Total & & & & & $2.43✓</span>
+<span class="math-inline">9 quarters 9(0.25) =
+18 pennies 18(0.01) =
+Total $2.43✓</span>
 Step 7. *Answer* the question. Maria has nine quarters and eighteen pennies.
 
 
@@ -416,8 +415,7 @@ Step 4. *Translate:* Write the equation by adding the total value of all the typ
     How many nickels?
 
 
-Step 6. *Check.* Is the total value of <span class="math-inline">4</span> pennies and <span class="math-inline">42</span> nickels equal to <span class="math-inline">$2.14?</span><span class="math-inline">\\
-4 \\</span>
+Step 6. *Check.* Is the total value of <span class="math-inline">4</span> pennies and <span class="math-inline">42</span> nickels equal to <span class="math-inline">$2.14?</span><span class="math-inline">4</span>
 Step 7. *Answer* the question. Danny has <span class="math-inline">4</span> pennies and <span class="math-inline">42</span> nickels.
 
 
@@ -509,17 +507,14 @@ Adult
 
 
 Step 4. *Translate:* Write the equation by adding the total values of each type of ticket.<span class="math-inline">6s+9(3s-5)=1506</span>
-Step 5. *Solve* the equation.<span class="math-inline">6 \\
- \\
- \\</span>
+Step 5. *Solve* the equation.<span class="math-inline">6</span>
 Substitute to find the number of adults.
 
 
 Step 6. *Check.* There were <span class="math-inline">47</span> student tickets at <span class="math-inline">$6</span> each and <span class="math-inline">136</span> adult tickets at <span class="math-inline">$9</span> each.
-Is the total value <span class="math-inline">$1506?</span> We find the total value of each type of ticket by multiplying the number of tickets times its value; we then add to get the total value of all the tickets sold.<span class="math-inline">47 & = & \\
+Is the total value <span class="math-inline">$1506?</span> We find the total value of each type of ticket by multiplying the number of tickets times its value; we then add to get the total value of all the tickets sold.<span class="math-inline">47 =
 
-136 & = & 1224<sub>_____</sub> \\
- & &</span>
+136 = 1224<sub>_____</sub></span>
 Step 7. *Answer* the question. They sold <span class="math-inline">47</span> student tickets and <span class="math-inline">136</span> adult tickets.
 
 
@@ -558,7 +553,7 @@ How many <span class="math-inline">49-cent</span> stamps and how many <span clas
 Solution
 The type of stamps are <span class="math-inline">49-cent</span> stamps and <span class="math-inline">8-cent</span> stamps. Their names also give the value.
 “The number of <span class="math-inline">49</span> cent stamps was four more than twice the number of <span class="math-inline">8</span> cent stamps.”
-<span class="math-inline">Let x=number of 8-cent stamps \\
+<span class="math-inline">Let x=number of 8-cent stamps
 2x+4=number of 49-cent stamps</span>
 
 

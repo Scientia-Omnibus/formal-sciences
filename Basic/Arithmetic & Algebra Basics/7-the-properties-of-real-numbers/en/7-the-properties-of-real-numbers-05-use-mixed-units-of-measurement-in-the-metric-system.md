@@ -12,10 +12,8 @@ Ryland is <span class="math-inline">1.6</span> meters tall. His younger brother 
 Solution
 We will subtract the lengths in meters. Convert <span class="math-inline">85</span> centimeters to meters by moving the decimal <span class="math-inline">2</span> places to the left; <span class="math-inline">85</span> cm is the same as <span class="math-inline">0.85</span> m.
 Now that both measurements are in meters, subtract to find out how much taller Ryland is than his brother.
-<span class="math-inline">\\
- \\
-1.60 m \\
-−0.85 m<sub>_______</sub> \\
+<span class="math-inline">1.60 m
+−0.85 m<sub>_______</sub>
 0.75 m</span>
 Ryland is <span class="math-inline">0.75</span> meters taller than his brother.
 

@@ -350,7 +350,7 @@ Tables can be used when graphical utilities aren’t available, and they can be 
 ### 📐 **Example 4**
 Using a Graphing Utility to Determine a Limit With the use of a graphing utility, if possible, determine the left- and right-hand limits of the following function as x approaches 0.
 If the function has a limit as x approaches 0, state it.
-If not, discuss why there is no limit. f (x) = 3sin ( \p(i)/(x) ) x y f -2 -1 -3 -4 -5 L = 75 a = 5
+If not, discuss why there is no limit. f (x) = 3sin ( p(i)/(x) ) x y f -2 -1 -3 -4 -5 L = 75 a = 5
 
 **Solution**
 
@@ -361,11 +361,11 @@ That is not the behavior of a function with either a left-hand limit or a right-
 And if there is no left-hand limit or right-hand limit, there certainly is no limit to the function f (x) as x approaches 0.
 We write lim
 
-x → 0- ( 3sin ( \p(i)/(x) ) ) does not exist. lim
+x → 0- ( 3sin ( p(i)/(x) ) ) does not exist. lim
 
-x → 0+ ( 3sin ( \p(i)/(x) ) ) does not exist. lim
+x → 0+ ( 3sin ( p(i)/(x) ) ) does not exist. lim
 
-x → 0 ( 3sin ( \p(i)/(x) ) ) does not exist.
+x → 0 ( 3sin ( p(i)/(x) ) ) does not exist.
 
 ---
 ### ✏️ **Try It #4**
@@ -1062,7 +1062,7 @@ x → c f (x) _ g(x) For the following exercises, evaluate the following limits.
 > **x → 2sin(π x) 36. lim**
 
 
-x → 2sin( \p(i)/(x) ) 37. f (x) = { 2x² + 2x + 1, x ≤ 0
+x → 2sin( p(i)/(x) ) 37. f (x) = { 2x² + 2x + 1, x ≤ 0
 
 x - 3, x > 0 ; lim
 

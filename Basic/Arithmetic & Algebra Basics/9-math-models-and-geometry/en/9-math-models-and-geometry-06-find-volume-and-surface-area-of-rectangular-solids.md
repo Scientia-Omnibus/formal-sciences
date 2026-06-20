@@ -39,19 +39,19 @@ To find the *surface area* of a rectangular solid, think about finding the area 
 
 
 <div class="math-display">
-A<sub>front</sub>=L× W & & & A<sub>side</sub>=L× W & & & A<sub>top</sub>=L× W \\
-A<sub>front</sub>=4· 3 & & & A<sub>side</sub>=2· 3 & & & A<sub>top</sub>=4· 2 \\
-A<sub>front</sub>=12 & & & A<sub>side</sub>=6 & & & A<sub>top</sub>=8
+A<sub>front</sub>=L× W A<sub>side</sub>=L× W A<sub>top</sub>=L× W
+A<sub>front</sub>=4· 3 A<sub>side</sub>=2· 3 A<sub>top</sub>=4· 2
+A<sub>front</sub>=12 A<sub>side</sub>=6 A<sub>top</sub>=8
 </div>
 
 Notice for each of the three faces you see, there is an identical opposite face that does not show.
 
 
 <div class="math-display">
-S \\
-S \\
-S \\
-S \\
+S
+S
+S
+S
 S
 </div>
 
@@ -270,10 +270,10 @@ A **cube** is a rectangular solid whose length, width, and height are equal. See
 
 
 <div class="math-display">
-V=LWH & & & & S=2LH+2LW+2WH \\
-V=s· s· s & & & & S=2s· s+2s· s+2s· s \\
-V=s<sup>3</sup> & & & & S=2s<sup>2</sup>+2s<sup>2</sup>+2s<sup>2</sup> \\
- & & & & S=6s<sup>2</sup>
+V=LWH S=2LH+2LW+2WH
+V=s· s· s S=2s· s+2s· s+2s· s
+V=s<sup>3</sup> S=2s<sup>2</sup>+2s<sup>2</sup>+2s<sup>2</sup>
+ S=6s<sup>2</sup>
 </div>
 
 So for a cube, the formulas for volume and surface area are <span class="math-inline">V=s<sup>3</sup></span> and <span class="math-inline">S=6s<sup>2</sup>.</span>

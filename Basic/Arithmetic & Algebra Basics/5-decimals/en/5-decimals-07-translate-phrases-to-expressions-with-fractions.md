@@ -612,8 +612,8 @@ What happens when you square a negative number?
 
 
 <div class="math-display">
-(−8)<sup>2</sup> & = \\
- & =
+(−8)<sup>2</sup> =
+ =
 </div>
 
 When we multiply two negative numbers, the product is always positive. So, the square of a negative number is always positive.
@@ -950,8 +950,8 @@ How do we know these values are approximations and not the exact values? Look at
 
 
 <div class="math-display">
-2.236067978<sup>2</sup> & = & 5.000000002 \\
-2.24<sup>2</sup> & = & 5.0176
+2.236067978<sup>2</sup> = 5.000000002
+2.24<sup>2</sup> = 5.0176
 </div>
 
 The squares are close, but not exactly equal, to <span class="math-inline">5.</span>

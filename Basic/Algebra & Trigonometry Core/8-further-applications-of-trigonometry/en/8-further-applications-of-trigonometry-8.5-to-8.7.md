@@ -378,13 +378,13 @@ z 1/3 = 2[ cos ( 2π 9 + 2kπ 3 ) + isin ( 2π 9 + 2kπ 3 ) ] There will be thre
 z 1/3 = 2( cos ( 2π 9 ) + isin ( 2π 9 ) ) When k = 1, we have
 
 
-z 1/3 = 2[ cos ( 2π 9 + 6π 9 ) + isin ( 2π 9 + 6π 9 ) ] Add 2(1)\p(i)/(t)o each angle.
+z 1/3 = 2[ cos ( 2π 9 + 6π 9 ) + isin ( 2π 9 + 6π 9 ) ] Add 2(1)p(i)/(t)o each angle.
 
 
 z 1/3 = 2( cos ( 8π 9 ) + isin ( 8π 9 ) ) When k = 2, we have
 
 
-z 1/3 = 2[ cos ( 2π 9 + 12π 9 ) + isin ( 2π 9 + 12π 9 ) ] Add 2(2)\p(i)/(t)o each angle.
+z 1/3 = 2[ cos ( 2π 9 + 12π 9 ) + isin ( 2π 9 + 12π 9 ) ] Add 2(2)p(i)/(t)o each angle.
 
 z 1/3 = 2( cos ( 14π 9 ) + isin ( 14π 9 ) ) Remember to find the common denominator to simplify fractions in situations like this one. For k = 1, the angle simplification is
 

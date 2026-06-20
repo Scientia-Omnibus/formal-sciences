@@ -212,9 +212,9 @@ For any real number *a*:  <span class="math-inline">a· 1=a 1· a=a</span> *1* i
 
 - *Properties of Zero*
   - *Multiplication by Zero: * For any real number *a*,
-<span class="math-inline">a & & & 0 & & & The product of any number and 0 is 0.</span>
+<span class="math-inline">a 0 The product of any number and 0 is 0.</span>
   - *Division of Zero: * For any real number *a*,
-<span class="math-inline"><sup>0</sup>⁄<sub>a</sub> & & & & & & Zero divided by any real number, except itself, is zero.</span>
+<span class="math-inline"><sup>0</sup>⁄<sub>a</sub> Zero divided by any real number, except itself, is zero.</span>
   - *Division by Zero: *For any real number *a,* <span class="math-inline"><sup>a</sup>⁄<sub>0</sub></span> is undefined and <span class="math-inline">a÷ 0</span> is undefined. Division by zero is undefined.
 
 

@@ -120,8 +120,7 @@ The product of any number and <span class="math-inline">0</span> is <span class=
 
 
 <div class="math-display">
-\\
-a \\
+a
 0
 </div>
 
@@ -183,7 +182,7 @@ The product of any number and <span class="math-inline">1</span> is the number.
 
 
 <div class="math-display">
-1 \\
+1
 a
 </div>
 
@@ -328,7 +327,7 @@ To multiply numbers with more than one digit, it is usually easier to write the 
 
 
 <div class="math-display">
-27 \\
+27
 × 3<sub>___</sub>
 </div>
 
@@ -358,7 +357,7 @@ Solution
 
 
     Write the numbers so the digits <span class="math-inline">5</span> and <span class="math-inline">4</span> line up vertically.
-    <span class="math-inline">15 \\
+    <span class="math-inline">15
 × 4<sub>_____</sub></span>
 
 
@@ -366,8 +365,8 @@ Solution
 
 
     Write <span class="math-inline">0</span> in the ones place of the product and carry the <span class="math-inline">2</span> tens.
-    <span class="math-inline">1<sup>2</sup> \\
-× 4<sub>_____</sub> \\
+    <span class="math-inline">1<sup>2</sup>
+× 4<sub>_____</sub>
 0</span>
 
 
@@ -376,8 +375,8 @@ Add the <span class="math-inline">2</span> tens we carried. <span class="math-in
 
 
     Write the <span class="math-inline">6</span> in the tens place of the product.
-    <span class="math-inline">1<sup>2</sup> \\
-× 4<sub>_____</sub> \\
+    <span class="math-inline">1<sup>2</sup>
+× 4<sub>_____</sub>
 60</span>
 
 
@@ -409,7 +408,7 @@ Solution
 
 
     Write the numbers so the digits <span class="math-inline">5</span> and <span class="math-inline">6</span> line up vertically.
-    <span class="math-inline">286 \\
+    <span class="math-inline">286
 × 5<sub>_____</sub></span>
 
 
@@ -417,24 +416,23 @@ Solution
 
 
     Write the <span class="math-inline">0</span> in the ones place of the product and carry the <span class="math-inline">3</span> to the tens place. Multiply <span class="math-inline">5</span> by the digit in the tens place of <span class="math-inline">286.</span> <span class="math-inline">5· 8=40</span>.
-    <span class="math-inline">\\
-2 \\
-× 5<sub>_____</sub> \\
+    <span class="math-inline">2
+× 5<sub>_____</sub>
 0</span>
 
 
     Add the <span class="math-inline">3</span> tens we carried to get <span class="math-inline">40+3=43</span>.
 Write the <span class="math-inline">3</span> in the tens place of the product and carry the 4 to the hundreds place.
-    <span class="math-inline">2<sup>4</sup> \\
-× 5<sub>_____</sub> \\
+    <span class="math-inline">2<sup>4</sup>
+× 5<sub>_____</sub>
 30</span>
 
 
     Multiply <span class="math-inline">5</span> by the digit in the hundreds place of <span class="math-inline">286.</span> <span class="math-inline">5· 2=10.</span>
 Add the <span class="math-inline">4</span> hundreds we carried to get <span class="math-inline">10+4=14.</span>
 Write the <span class="math-inline">4</span> in the hundreds place of the product and the <span class="math-inline">1</span> to the thousands place.
-    <span class="math-inline">2<sup>4</sup> \\
-× 5<sub>_____</sub> \\
+    <span class="math-inline">2<sup>4</sup>
+× 5<sub>_____</sub>
 1,430</span>
 
 
@@ -539,19 +537,19 @@ Solution
 
 
     ⓐ <span class="math-inline">47· 10</span>.
-    <span class="math-inline">47 \\
-× 10<sub>___</sub> \\
-00 \\
-470<sub>___</sub> \\
+    <span class="math-inline">47
+× 10<sub>___</sub>
+00
+470<sub>___</sub>
 470</span>
 
 
     ⓑ <span class="math-inline">47· 100</span>
-    <span class="math-inline">47 \\
-× 100<sub>_____</sub> \\
-00 \\
-000 \\
-470<sub>_____</sub> \\
+    <span class="math-inline">47
+× 100<sub>_____</sub>
+00
+000
+470<sub>_____</sub>
 4,700</span>
 
 
@@ -625,12 +623,10 @@ There should be <span class="math-inline">3</span> partial products. The second 
 
 Notice that the second **partial product** of all zeros doesn’t really affect the result. We can place a zero as a placeholder in the tens place and then proceed directly to multiplying by the <span class="math-inline">2</span> in the hundreds place, as shown.
 Multiply by <span class="math-inline">10,</span> but insert only one zero as a placeholder in the tens place. Multiply by <span class="math-inline">200,</span> putting the <span class="math-inline">2</span> from the <span class="math-inline">12.</span> <span class="math-inline">2· 6=12</span> in the hundreds place.
-<span class="math-inline">\\
- \\
-896 \\
-× 201<sub>_____</sub> \\
-896 \\
-17920<sub>__________</sub> \\
+<span class="math-inline">896
+× 201<sub>_____</sub>
+896
+17920<sub>__________</sub>
 180,096</span>
 
 
@@ -862,10 +858,7 @@ We are asked to find the total number of tiles.
 
 
     Multiply to simplify.
-    <span class="math-inline">\\
- \\
- \\
-112</span>
+    <span class="math-inline">112</span>
 
 Write a sentence to answer the question. Van needs 112 tiles for his patio.
 
@@ -924,10 +917,7 @@ We are asked to find the area of the kitchen ceiling.
 
 
     Multiply.
-    <span class="math-inline">\\
- \\
- \\
-108</span>
+    <span class="math-inline">108</span>
 
 Answer with a sentence. The area of Jen's kitchen ceiling is 108 square feet.
 

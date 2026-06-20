@@ -1716,7 +1716,7 @@ The amplitude of a sinusoidal function is the distance from the midline to the m
 The midline is the average value.
 Sinusoidal functions oscillate above and below the midline, are periodic, and repeat values in set cycles.
 Recall from Graphs of the Sine and Cosine Functions that the period of the sine function and the cosine function is 2π .
-In other words, for any value of x, sin(x ± 2π k) = sin x and cos(x ± 2π k) = cos x where k is an integer standard form of sinusoidal equations The general forms of a sinusoidal equation are given as y = Asin(Bt - C) + D or y = Acos(Bt - C) + D where amplitude = ∣ A ∣, B is related to period such that the period = 2\p(i)/(B) , C is the phase shift such that (C)/(B) denotes the horizontal shift, and D represents the vertical shift from the graph’s parent graph.
+In other words, for any value of x, sin(x ± 2π k) = sin x and cos(x ± 2π k) = cos x where k is an integer standard form of sinusoidal equations The general forms of a sinusoidal equation are given as y = Asin(Bt - C) + D or y = Acos(Bt - C) + D where amplitude = ∣ A ∣, B is related to period such that the period = 2p(i)/(B) , C is the phase shift such that (C)/(B) denotes the horizontal shift, and D represents the vertical shift from the graph’s parent graph.
 Note that the models are sometimes written as y = a sin(ω t ± C) + D or y = a cos(ω t ± C) + D, and period is given as 2π _ ω .
 The difference between the sine and the cosine graphs is that the sine graph begins with the average value of the function and the cosine graph begins with the maximum or minimum value of the function.
 
@@ -1741,10 +1741,10 @@ Finding the Amplitude and Period of a Function Find the amplitude and period of 
 
 We will solve these problems according to the models. a. y = 2sin( 1/4 x ) involves sine, so we use the form
 
-y = Asin(Bt - C) + D We know that ∣ A ∣ is the amplitude, so the amplitude is 2. Period is 2\p(i)/(B) , so the period is
+y = Asin(Bt - C) + D We know that ∣ A ∣ is the amplitude, so the amplitude is 2. Period is 2p(i)/(B) , so the period is
 
 
-> **2\p(i)/(B) = 2π/1/4**
+> **2p(i)/(B) = 2π/1/4**
 
 
 = 8π See the graph in Figure 3. 2π 4π 6π 8π x y Amplitude = 2 Period = 8π y = 2 sin 1 x
@@ -1753,9 +1753,9 @@ y = Asin(Bt - C) + D We know that ∣ A ∣ is the amplitude, so the amplitude i
 b. y = -3sin( 2x + π/2 ) involves sine, so we use the form
 
 
-y = Asin(Bt - C) + D Amplitude is ∣ A ∣, so the amplitude is ∣ -3 ∣ = 3. Since A is negative, the graph is reflected over the x-axis. Period is 2\p(i)/(B) , so the period is
+y = Asin(Bt - C) + D Amplitude is ∣ A ∣, so the amplitude is ∣ -3 ∣ = 3. Since A is negative, the graph is reflected over the x-axis. Period is 2p(i)/(B) , so the period is
 
- 2\p(i)/(B) = 2π/2 = π The graph is shifted to the left by (C)/(B) = π/2/2 = π/4 units. See Figure 4. π π 3π – π x y y = –3 sin + π 2x c. y = cos x + 3 involves cosine, so we use the form
+ 2p(i)/(B) = 2π/2 = π The graph is shifted to the left by (C)/(B) = π/2/2 = π/4 units. See Figure 4. π π 3π – π x y y = –3 sin + π 2x c. y = cos x + 3 involves cosine, so we use the form
 
 y = Acos(Bt - C) + D Amplitude is ∣ A ∣, so the amplitude is 1.
 The period is 2π .
@@ -1821,7 +1821,7 @@ A = largest value - smallest value
 
 ∣ A ∣ = 69 - 42.5 
 
-The data covers a period of 12 months, so 2\p(i)/(B) = 12 which gives B = 2π/12 = π/6 . The vertical shift is found using the following equation.
+The data covers a period of 12 months, so 2p(i)/(B) = 12 which gives B = 2π/12 = π/6 . The vertical shift is found using the following equation.
 
 D = highest value + lowest value
 

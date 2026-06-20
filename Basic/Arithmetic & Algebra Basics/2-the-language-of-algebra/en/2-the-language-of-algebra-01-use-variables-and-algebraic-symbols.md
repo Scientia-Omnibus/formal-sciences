@@ -211,7 +211,7 @@ The expressions <span class="math-inline">a<b and a>b</span> can be read from le
 
 
 <div class="math-display">
-a \\
+a
 a
 </div>
 
@@ -448,7 +448,7 @@ Here are some examples of expressions that include grouping symbols. We will sim
 
 
 <div class="math-display">
-8(14-8) 21-3[2+4(9-8)] 24÷ \13-2[1(6-5)+4]\
+8(14-8) 21-3[2+4(9-8)] 24÷ 13-2[1(6-5)+4]
 </div>
 
 
@@ -576,7 +576,7 @@ For powers of <span class="math-inline">n=2</span> and <span class="math-inline"
 
 
 <div class="math-display">
-a<sup>2</sup> \\
+a<sup>2</sup>
 a<sup>3</sup>
 </div>
 
@@ -741,12 +741,12 @@ For example, consider the expression:
 
 
 <div class="math-display">
-Some students say it simplifies to 49. & & & Some students say it simplifies to 25. \\
-& & 4 \\
-Since & & 7 \\
-And & & 49 & & & & & 4 \\
- & & 4 \\
- & & 25
+Some students say it simplifies to 49. Some students say it simplifies to 25.
+ 4
+Since 7
+And 49 4
+ 4
+ 25
 </div>
 
 Imagine the confusion that could result if every problem had several different correct answers. The same expression should give the same result. So mathematicians established some guidelines called the order of operations, which outlines the order in which parts of an expression must be simplified.

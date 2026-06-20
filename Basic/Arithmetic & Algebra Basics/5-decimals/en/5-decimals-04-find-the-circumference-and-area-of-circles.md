@@ -24,14 +24,14 @@ We can get an approximate answer by substituting <span class="math-inline">3.14<
 
 
 <div class="math-display">
-r \\
+r
 d
 </div>
 
 
 <div class="math-display">
-The circumference is & & & C \\
-The area is & & & A
+The circumference is C
+The area is A
 </div>
 
 Since the diameter is twice the radius, another way to find the circumference is to use the formula <span class="math-inline">C= πd.</span>
@@ -40,9 +40,8 @@ Suppose we want to find the exact area of a circle of radius <span class="math-i
 
 
 <div class="math-display">
-\\
-A \\
-A \\
+A
+A
 A
 </div>
 
@@ -52,10 +51,10 @@ To approximate the area, we would substitute <span class="math-inline">π≈ 3.1
 
 
 <div class="math-display">
-A & = & 100 \\
- \\
- & ≈ & 100 \\
- & ≈ & 314
+A = 100
+
+ ≈ 100
+ ≈ 314
 </div>
 
 Remember to use square units, such as square inches, when you calculate the area.

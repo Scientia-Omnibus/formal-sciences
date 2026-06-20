@@ -235,7 +235,7 @@ So D = -2.
 The distance from the midline to the highest or lowest value gives an amplitude of ∣ A ∣ = 3.
 The period of the graph is 6, which can be measured from the peak at x = 1 to the next peak at x = 7, or from the distance between the lowest points.
 Therefore, P = 2π _ ∣ B ∣ = 6.
-Using the positive value for B, we find that B = 2\p(i)/(P) = 2π/6 = π/3 So far, our equation is either y = 3sin ( π/3 x - C ) - 2 or y = 3cos ( π/3 x - C ) - 2.
+Using the positive value for B, we find that B = 2p(i)/(P) = 2π/6 = π/3 So far, our equation is either y = 3sin ( π/3 x - C ) - 2 or y = 3cos ( π/3 x - C ) - 2.
 For the shape and shift, we have more than one option.
 We could write this as any one of the following: • a cosine shifted to the right • a negative cosine shifted to the left • a sine shifted to the left • a negative sine shifted to the right While any of these would be correct, the cosine shifts are easier to work with than the sine shifts in this case because they involve integer values.
 So our function becomes y = 3cos ( π/3 x - π/3 ) - 2 or y = -3cos ( π/3 x + 2π/3 ) -2 Again, these functions are equivalent, so both yield the same graph.
@@ -405,7 +405,7 @@ Passengers board 2 m above ground level, so the center of the wheel must be loca
 The midline of the oscillation will be at 69.5 m.
 The wheel takes 30 minutes to complete 1 revolution, so the height will oscillate with a period of 30 minutes.
 Lastly, because the rider boards at the lowest point, the height will start at the smallest value and increase, following the shape of a vertically reflected cosine curve.
-• Amplitude: 67.5, so A = 67.5 • Midline: 69.5, so D = 69.5 • Period: 30, so B = 2π 30 = π/15 • Shape: -cos(t) An equation for the rider’s height would be y = - 67.5cos( \p(i)/(w)here t is in minutes and y is measured in meters.
+• Amplitude: 67.5, so A = 67.5 • Midline: 69.5, so D = 69.5 • Period: 30, so B = 2π 30 = π/15 • Shape: -cos(t) An equation for the rider’s height would be y = - 67.5cos( p(i)/(w)here t is in minutes and y is measured in meters.
 Access these online resources for additional instruction and practice with graphs of sine and cosine functions.
 • Amplitude and Period of Sine and Cosine (http://openstaxcollege.org/l/ampperiod) • Translations of Sine and Cosine (http://openstaxcollege.org/l/translasincos) • Graphing Sine and Cosine Transformations (http://openstaxcollege.org/l/transformsincos) • Graphing the Sine Function (http://openstaxcollege.org/l/graphsinefunc)
 
@@ -504,7 +504,7 @@ Instead, we will use the phrase stretching/compressing factor when referring to 
 ### Graphing One Period of a Stretched or Compressed Tangent Function
 We can use what we know about the properties of the tangent function to quickly sketch a graph of any stretched and/ or compressed tangent function of the form f (x) = Atan(Bx).
 We focus on a single period of the function including the origin, because the periodic property enables us to extend the graph to the rest of the function’s domain if we wish.
-Our limited domain is then the interval ( - P/2 , P/2 ) and the graph has vertical asymptotes at ± P/2 where P = \p(i)/(B) .
+Our limited domain is then the interval ( - P/2 , P/2 ) and the graph has vertical asymptotes at ± P/2 where P = p(i)/(B) .
 On ( - π/2 , π/2 ), the graph will come up from the left asymptote at x = - π/2 , cross through the origin, and continue to increase as it approaches the right asymptote at x = π/2 .
 To make the function approach the asymptotes at the correct rate, we also need to set the vertical scale by actually evaluating the function for at least one point that the graph will pass through.
 For example, we can use f ( P/4 ) = Atan ( B P/4 ) = Atan ( B π/4B ) = A because tan ( π/4 ) = 1.
@@ -600,7 +600,7 @@ How would the graph in Example 2 look different if we made A = 2 instead of -2?
 ### 💡 **How To…**
 Given the graph of a tangent function, identify horizontal and vertical stretches. 1.
 Find the period P from the spacing between successive vertical asymptotes or x-intercepts. 2.
-Write f (x) = Atan( \p(i)/(P) x ). 3.
+Write f (x) = Atan( p(i)/(P) x ). 3.
 Determine a convenient point (x, f (x)) on the given graph and use it to determine A.
 
 ---
@@ -613,7 +613,7 @@ Find a formula for the function graphed in Figure 4. x = -12 x = -4 x = 4 x = 12
 The graph has the shape of a tangent function.
 Step 1.
 One cycle extends from –4 to 4, so the period is P = 8.
-Since P = π ∣ B ∣ , we have B = \p(i)/(P) = π/8 .
+Since P = π ∣ B ∣ , we have B = p(i)/(P) = π/8 .
 Step 2.
 The equation must have the form f (x) = Atan ( π/8 x ).
 Step 3.
@@ -906,7 +906,7 @@ Step 4.
 Sketch the graph of y = 3tan(4x).
 Step 5.
 Plot two reference points.
-Two such points are ( π/16 , 3 ) and ( 3\p(i)/(S)tep 6.
+Two such points are ( π/16 , 3 ) and ( 3p(i)/(S)tep 6.
 Use the reciprocal relationship to draw y = 3cot(4x).
 Step 7.
 Sketch the asymptotes, x = 0, x = π/4 .
@@ -960,7 +960,7 @@ Evaluate f (1) and discuss the function’s value at that input.
 
 **Solution**
 
-a. We know from the general form of y = Atan(Bt) that ∣ A ∣ is the stretching factor and \p(i)/(B) is the period. y = 5 tan ( π/4 t )
+a. We know from the general form of y = Atan(Bt) that ∣ A ∣ is the stretching factor and p(i)/(B) is the period. y = 5 tan ( π/4 t )
 
 ↑ ↑
 

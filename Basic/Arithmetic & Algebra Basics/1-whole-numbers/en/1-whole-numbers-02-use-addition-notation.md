@@ -205,8 +205,7 @@ The sum of any number <span class="math-inline">a</span> and <span class="math-i
 
 
 <div class="math-display">
-\\
-a \\
+a
 0
 </div>
 
@@ -351,16 +350,15 @@ To add numbers with more than one digit, it is often easier to write the numbers
 
 
     Write the numbers so the ones and tens digits line up vertically.
-    <span class="math-inline">28 \\
- \\</span>
+    <span class="math-inline">28</span>
 
 
     Then add the digits in each place value.
 Add the ones: <span class="math-inline">8+1=9</span>
 Add the tens: <span class="math-inline">2+6=8</span>
-    <span class="math-inline">28 \\
- \\
- \\
+    <span class="math-inline">28
+
+
 89</span>
 
 
@@ -416,8 +414,7 @@ Solution
 
 
     Write the numbers so the digits line up vertically.
-    <span class="math-inline">43 \\
- \\</span>
+    <span class="math-inline">43</span>
 
 
    Add the digits in each place.
@@ -426,15 +423,15 @@ Add the ones: <span class="math-inline">3+9=12</span>
 
     Write the <span class="math-inline">2</span> in the ones place in the sum.
 Add the <span class="math-inline">1</span> ten to the tens place.
-    <span class="math-inline">4<sup>1</sup>3 \\
-+69<sub>____</sub> \\
+    <span class="math-inline">4<sup>1</sup>3
++69<sub>____</sub>
 2</span>
 
 
     Now add the tens: <span class="math-inline">1+4+6=11</span>
 Write the 11 in the sum.
-    <span class="math-inline">4<sup>1</sup>3 \\
-+69<sub>____</sub> \\
+    <span class="math-inline">4<sup>1</sup>3
++69<sub>____</sub>
 112</span>
 
 
@@ -509,8 +506,7 @@ Solution
 
 
     Write the numbers so the digits line up vertically.
-    <span class="math-inline">1,683 \\
- \\</span>
+    <span class="math-inline">1,683</span>
 
 
     Add the digits in each place value.
@@ -518,33 +514,33 @@ Solution
 
     Add the ones: <span class="math-inline">3+9=12.</span>
 Write the <span class="math-inline">2</span> in the ones place of the sum and carry the <span class="math-inline">1</span> ten to the tens place.
-    <span class="math-inline">1,68<sup>1</sup>3 \\
- \\
- \\
+    <span class="math-inline">1,68<sup>1</sup>3
+
+
 2</span>
 
 
     Add the tens: <span class="math-inline">1+7+8=16</span>
 Write the <span class="math-inline">6</span> in the tens place and carry the <span class="math-inline">1</span> hundred to the hundreds place.
-    <span class="math-inline">1,6<sup>1</sup>8<sup>1</sup>3 \\
- \\
- \\
+    <span class="math-inline">1,6<sup>1</sup>8<sup>1</sup>3
+
+
 62</span>
 
 
     Add the hundreds: <span class="math-inline">1+6+4=11</span>
 Write the <span class="math-inline">1</span> in the hundreds place and carry the <span class="math-inline">1</span> thousand to the thousands place.
-    <span class="math-inline">1,6<sup>1</sup>8<sup>1</sup>3 \\
- \\
- \\
+    <span class="math-inline">1,6<sup>1</sup>8<sup>1</sup>3
+
+
 162</span>
 
 
     Add the thousands <span class="math-inline">1+1=2</span>.
 Write the <span class="math-inline">2</span> in the thousands place of the sum.
-    <span class="math-inline">1,<sup>1</sup>6<sup>1</sup>8<sup>1</sup>3 \\
- \\
- \\
+    <span class="math-inline">1,<sup>1</sup>6<sup>1</sup>8<sup>1</sup>3
+
+
 2,162</span>
 
 
@@ -579,9 +575,8 @@ Solution
 
 
     Write the numbers so the place values line up vertically.
-    <span class="math-inline">21,357 \\
-861 \\
- \\</span>
+    <span class="math-inline">21,357
+861</span>
 
 
     Add the digits in each place value.
@@ -589,46 +584,46 @@ Solution
 
     Add the ones: <span class="math-inline">7+1+6=14</span>
 Write the <span class="math-inline">4</span> in the ones place of the sum and carry the <span class="math-inline">1</span> to the tens place.
-    <span class="math-inline">21,35<sup>1</sup>7 \\
-861 \\
- \\
- \\
+    <span class="math-inline">21,35<sup>1</sup>7
+861
+
+
 4</span>
 
 
     Add the tens: <span class="math-inline">1+5+6+9=21</span>
 Write the <span class="math-inline">1</span> in the tens place and carry the <span class="math-inline">2</span> to the hundreds place.
-    <span class="math-inline">21,3<sup>2</sup>5<sup>1</sup>7 \\
-861 \\
- \\
- \\
+    <span class="math-inline">21,3<sup>2</sup>5<sup>1</sup>7
+861
+
+
 14</span>
 
 
     Add the hundreds: <span class="math-inline">2+3+8+5=18</span>
 Write the <span class="math-inline">8</span> in the hundreds place and carry the <span class="math-inline">1</span> to the thousands place.
-    <span class="math-inline">21,<sup>1</sup>3<sup>2</sup>5<sup>1</sup>7 \\
-861 \\
- \\
- \\
+    <span class="math-inline">21,<sup>1</sup>3<sup>2</sup>5<sup>1</sup>7
+861
+
+
 814</span>
 
 
     Add the thousands <span class="math-inline">1+1+8=10</span>.
 Write the <span class="math-inline">0</span> in the thousands place and carry the <span class="math-inline">1</span> to the ten thousands place.
-    <span class="math-inline">2<sup>1</sup>1,<sup>1</sup>3<sup>2</sup>5<sup>1</sup>7 \\
-861 \\
- \\
- \\
+    <span class="math-inline">2<sup>1</sup>1,<sup>1</sup>3<sup>2</sup>5<sup>1</sup>7
+861
+
+
 0814</span>
 
 
 Add the ten-thousands <span class="math-inline">1+2=3</span>.
 Write the <span class="math-inline">3</span> in the ten thousands place in the sum.
-<span class="math-inline">2<sup>1</sup>1,<sup>1</sup>3<sup>2</sup>5<sup>1</sup>7 \\
-861 \\
- \\
- \\
+<span class="math-inline">2<sup>1</sup>1,<sup>1</sup>3<sup>2</sup>5<sup>1</sup>7
+861
+
+
 30,814</span>
 
 
@@ -775,14 +770,7 @@ We are asked to find the total number of points on the tests.
 
 
     Since there are several numbers, we will write them vertically.
-    <span class="math-inline">\\
- \\
- \\
- \\
- \\
- \\
- \\
- \\</span>
+    <span class="math-inline"></span>
 
 
     Write a sentence to answer the question.

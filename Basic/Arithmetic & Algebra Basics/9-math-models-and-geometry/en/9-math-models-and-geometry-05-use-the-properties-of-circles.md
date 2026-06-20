@@ -641,10 +641,10 @@ But since the diameter of a circle is two times the radius, we could write the f
 
 
 <div class="math-display">
-& & & C \\
-Using the commutative property, we get & & & C \\
-Then substituting & & & C \\
-So & & & C
+C
+Using the commutative property, we get C
+Then substituting C
+So C
 </div>
 
 We will use this form of the circumference when we’re given the length of the diameter instead of the radius.

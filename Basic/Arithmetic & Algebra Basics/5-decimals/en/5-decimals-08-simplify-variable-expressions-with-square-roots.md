@@ -6,8 +6,8 @@ Consider <span class="math-inline">√9x<sup>2</sup>,</span> where <span class="
 
 
 <div class="math-display">
-(?)<sup>2</sup> & = & 9 \\
-(3x)<sup>2</sup> & = & 9
+(?)<sup>2</sup> = 9
+(3x)<sup>2</sup> = 9
 </div>
 
 When we use a variable in a square root expression, for our work, we will assume that the variable represents a non-negative number. In every example and exercise that follows, each variable in a square root expression is greater than or equal to zero.

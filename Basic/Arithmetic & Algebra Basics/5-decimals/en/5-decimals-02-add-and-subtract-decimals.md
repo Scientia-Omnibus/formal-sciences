@@ -30,7 +30,7 @@ Solution
 
 
    Write the numbers vertically so the decimal points line up.
-   <span class="math-inline">3.7 \\
+   <span class="math-inline">3.7
 +12.4<sub>_____</sub></span>
 
 
@@ -38,8 +38,8 @@ Solution
 
 
    Add the numbers as if they were whole numbers. Then place the decimal in the answer under the decimal points in the given numbers.
-   <span class="math-inline">3<sup>1</sup> \\
-+12.4<sub>_____</sub> \\
+   <span class="math-inline">3<sup>1</sup>
++12.4<sub>_____</sub>
 16.1</span>
 
 
@@ -292,22 +292,22 @@ Solution
 
 
    Write in vertical format, lining up the numbers on the right.
-   <span class="math-inline">5.19 \\
+   <span class="math-inline">5.19
 × 8.2<sub>_____</sub></span>
 
 
    Multiply.
-   <span class="math-inline">5.19 \\
-× 8.2<sub>_____</sub> \\
-1038 \\
-4152<sub>_____</sub> \\
+   <span class="math-inline">5.19
+× 8.2<sub>_____</sub>
+1038
+4152<sub>_____</sub>
 42558</span>
 
 
- <span class="math-inline">5.19 \\
-× 8.2<sub>_____</sub> \\
-1038 \\
-4152<sub>_____</sub> \\
+ <span class="math-inline">5.19
+× 8.2<sub>_____</sub>
+1038
+4152<sub>_____</sub>
 42.558</span>
 
 
@@ -388,9 +388,9 @@ In many fields, especially in the sciences, it is common to multiply **decimal**
 
 Look at the results without the final zeros. Do you notice a pattern?
 
-<span class="math-inline">1.9436 & = & 19.436 \\
-1.9436 & = & 194.36 \\
-1.9436 & = & 1943.6</span>
+<span class="math-inline">1.9436 = 19.436
+1.9436 = 194.36
+1.9436 = 1943.6</span>
 
 
 The number of places that the **decimal point** moved is the same as the number of zeros in the power of ten.  summarizes the results.
@@ -629,12 +629,12 @@ We would get the same answer, <span class="math-inline">4,</span> if we divide <
 
 
 <div class="math-display">
-<sup>0.8</sup>⁄<sub>0.2</sub> \\
- \\
-<sup>(0.8)10</sup>⁄<sub>(0.2)10</sub> \\
- \\
-<sup>8</sup>⁄<sub>2</sub> \\
- \\
+<sup>0.8</sup>⁄<sub>0.2</sub>
+
+<sup>(0.8)10</sup>⁄<sub>(0.2)10</sub>
+
+<sup>8</sup>⁄<sub>2</sub>
+
 4
 </div>
 

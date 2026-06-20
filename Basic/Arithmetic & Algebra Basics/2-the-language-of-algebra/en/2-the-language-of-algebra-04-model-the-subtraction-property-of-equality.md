@@ -109,7 +109,7 @@ Their ages are equal now, and subtracting the same quantity from both of them re
 
 
 <div class="math-display">
-a \\
+a
 a
 </div>
 
@@ -233,7 +233,7 @@ Remember the <span class="math-inline">17-year-old</span> twins, Andy and Bobby?
 
 
 <div class="math-display">
-a \\
+a
 a
 </div>
 

@@ -249,10 +249,10 @@ Be careful to distinguish between a sum and a product.
 
 
 <div class="math-display">
-Sum & & & Product \\
-x+x & & & x· x \\
-2x & & & x<sup>2</sup> \\
-combine like terms & & & add exponents of like bases
+Sum Product
+x+x x· x
+2x x<sup>2</sup>
+combine like terms add exponents of like bases
 </div>
 
 

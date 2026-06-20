@@ -892,7 +892,7 @@ x = 1/2 , y = √3/2
 
 cos t = 1/2 , sin t = √3/2 We have now found the cosine and sine values for all of the most commonly encountered angles in the first quadrant of the unit circle.
 Table 1 summarizes these values.
-Angle π/π __ π __ \p(i)/(C)osine √3/2 √2/2 1/2 Sine 1/2 √2/2 √3/2 π 60°, 45°, 30°, Using a Calculator to Find Sine and Cosine To find the cosine and sine of angles other than the special angles, we turn to a computer or calculator.
+Angle π/π __ π __ p(i)/(C)osine √3/2 √2/2 1/2 Sine 1/2 √2/2 √3/2 π 60°, 45°, 30°, Using a Calculator to Find Sine and Cosine To find the cosine and sine of angles other than the special angles, we turn to a computer or calculator.
 Be aware: Most calculators can be set into “degree” or “radian” mode, which tells the calculator the units for the input value.
 When we evaluate cos(30) on our calculator, it will evaluate it as the cosine of 30 degrees if the calculator is in degree mode, or the cosine of 30 radians if the calculator is in radian mode.
 
@@ -1176,7 +1176,7 @@ _ √3/2 = 1 _ √3 = √3/3
 Find sin t, cos t, tan t, sec t, csc t, and cot t when t = π/3 .
 Because we know the sine and cosine values for the common first-quadrant angles, we can find the other function values for those angles as well by setting x equal to the cosine and y equal to the sine and then using the definitions of tangent, secant, cosecant, and cotangent.
 The results are shown in Table 1.
-Angle π/π __ π __ \p(i)/(C)osine √3 2 √2 2 1/2 Sine 1/2 √2 2 √3 2 Tangent √3 3 √3 Undefined Secant 2√3 3 √2 Undefined Cosecant Undefined √2 2√3 3 Cotangent Undefined √3 √3 3 
+Angle π/π __ π __ p(i)/(C)osine √3 2 √2 2 1/2 Sine 1/2 √2 2 √3 2 Tangent √3 3 √3 Undefined Secant 2√3 3 √2 Undefined Cosecant Undefined √2 2√3 3 Cotangent Undefined √3 √3 3 
 
 Using Reference Angles to Evaluate Tangent, Secant, Cosecant, and Cotangent We can evaluate trigonometric functions of angles outside the first quadrant using reference angles as we have already done with the sine and cosine functions.
 The procedure is the same:

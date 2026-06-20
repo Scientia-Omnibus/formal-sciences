@@ -9,9 +9,9 @@ If <span class="math-inline">a, b</span> are real numbers and <span class="math-
 
 
 <div class="math-display">
-Product Property & & & a<sup>m</sup>· a<sup>n</sup>=a<sup>m+n</sup> \\
-Power Property & & & \\
-Product to a Power & & &
+Product Property a<sup>m</sup>· a<sup>n</sup>=a<sup>m+n</sup>
+Power Property
+Product to a Power
 </div>
 
 
@@ -32,10 +32,10 @@ If <span class="math-inline">a, b, c</span> are whole numbers where <span class=
 
 As before, we'll try to discover a property by looking at some examples.
 
-<span class="math-inline">Consider & & & <sup>x<sup>5</sup></sup>⁄<sub>x<sup>2</sup></sub> & & & and & & & <sup>x<sup>2</sup></sup>⁄<sub>x<sup>3</sup></sub> \\
-What do they mean? & & & <sup>x· x· x· x· x</sup>⁄<sub>x· x</sub> & & & & & & <sup>x· x</sup>⁄<sub>x· x· x</sub> \\
-Use the Equivalent Fractions Property. & & & <sup>· · x· x· x</sup>⁄<sub>· · 1</sub> & & & & & & <sup>· · 1</sup>⁄<sub>· · x</sub> \\
-Simplify. & & & x<sup>3</sup> & & & & & & <sup>1</sup>⁄<sub>x</sub></span>
+<span class="math-inline">Consider <sup>x<sup>5</sup></sup>⁄<sub>x<sup>2</sup></sub> and <sup>x<sup>2</sup></sup>⁄<sub>x<sup>3</sup></sub>
+What do they mean? <sup>x· x· x· x· x</sup>⁄<sub>x· x</sub> <sup>x· x</sup>⁄<sub>x· x· x</sub>
+Use the Equivalent Fractions Property. <sup>· · x· x· x</sup>⁄<sub>· · 1</sub> <sup>· · 1</sup>⁄<sub>· · x</sub>
+Simplify. x<sup>3</sup> <sup>1</sup>⁄<sub>x</sub></span>
 
 Notice that in each case the bases were the same and we subtracted the exponents.
 
@@ -47,9 +47,9 @@ We write:
 
 
 <div class="math-display">
-<sup>x<sup>5</sup></sup>⁄<sub>x<sup>2</sup></sub> & & & & <sup>x<sup>2</sup></sup>⁄<sub>x<sup>3</sup></sub> \\
-x<sup>5-2</sup> & & & & <sup>1</sup>⁄<sub>x<sup>3-2</sup></sub> \\
-x<sup>3</sup> & & & & <sup>1</sup>⁄<sub>x</sub>
+<sup>x<sup>5</sup></sup>⁄<sub>x<sup>2</sup></sub> <sup>x<sup>2</sup></sup>⁄<sub>x<sup>3</sup></sub>
+x<sup>5-2</sup> <sup>1</sup>⁄<sub>x<sup>3-2</sup></sub>
+x<sup>3</sup> <sup>1</sup>⁄<sub>x</sub>
 </div>
 
 
@@ -66,9 +66,8 @@ A couple of examples with numbers may help to verify this property.
 
 
 <div class="math-display">
-<sup>3<sup>4</sup></sup>⁄<sub>3<sup>2</sup></sub>=<sup>?</sup>3<sup>4-2</sup> & & & \\
-<sup>81</sup>⁄<sub>9</sub>=<sup>?</sup>3<sup>2</sup> & & & <sup>25</sup>⁄<sub>125</sub>=<sup>?</sup><sup>1</sup>⁄<sub>5<sup>1</sup></sub> \\
- & & &
+<sup>3<sup>4</sup></sup>⁄<sub>3<sup>2</sup></sub>=<sup>?</sup>3<sup>4-2</sup>
+<sup>81</sup>⁄<sub>9</sub>=<sup>?</sup>3<sup>2</sup> <sup>25</sup>⁄<sub>125</sub>=<sup>?</sup><sup>1</sup>⁄<sub>5<sup>1</sup></sub>
 </div>
 
 When we work with numbers and the exponent is less than or equal to <span class="math-inline">3,</span> we will apply the exponent. When the exponent is greater than <span class="math-inline">3</span>, we leave the answer in exponential form.
@@ -502,8 +501,8 @@ Notice that the exponent applies to both the numerator and the denominator.
 
 We see that <span class="math-inline">(<sup>x</sup>⁄<sub>y</sub>)<sup>3</sup></span> is <span class="math-inline"><sup>x<sup>3</sup></sup>⁄<sub>y<sup>3</sup></sub>.</span>
 
-<span class="math-inline">We write: & & & & (<sup>x</sup>⁄<sub>y</sub>)<sup>3</sup> \\
- & & & & <sup>x<sup>3</sup></sup>⁄<sub>y<sup>3</sup></sub></span>
+<span class="math-inline">We write: (<sup>x</sup>⁄<sub>y</sub>)<sup>3</sup>
+ <sup>x<sup>3</sup></sup>⁄<sub>y<sup>3</sup></sub></span>
 
 This leads to the Quotient to a Power Property for Exponents.
 
@@ -523,9 +522,9 @@ An example with numbers may help you understand this property:
 
 
 <div class="math-display">
-(<sup>2</sup>⁄<sub>3</sub>)<sup>3</sup> & =<sup>?</sup> & <sup>2<sup>3</sup></sup>⁄<sub>3<sup>3</sup></sub> \\
-<sup>2</sup>⁄<sub>3</sub>· <sup>2</sup>⁄<sub>3</sub>· <sup>2</sup>⁄<sub>3</sub> & =<sup>?</sup> & <sup>8</sup>⁄<sub>27</sub> \\
-<sup>8</sup>⁄<sub>27</sub> & = & <sup>8</sup>⁄<sub>27</sub>
+(<sup>2</sup>⁄<sub>3</sub>)<sup>3</sup> =<sup>?</sup> <sup>2<sup>3</sup></sup>⁄<sub>3<sup>3</sup></sub>
+<sup>2</sup>⁄<sub>3</sub>· <sup>2</sup>⁄<sub>3</sub>· <sup>2</sup>⁄<sub>3</sub> =<sup>?</sup> <sup>8</sup>⁄<sub>27</sub>
+<sup>8</sup>⁄<sub>27</sub> = <sup>8</sup>⁄<sub>27</sub>
 </div>
 
 
@@ -604,13 +603,13 @@ If <span class="math-inline">a, b</span> are real numbers and <span class="math-
 
 
 <div class="math-display">
-Product Property & & & a<sup>m</sup>· a<sup>n</sup>=a<sup>m+n</sup> \\
-Power Property & & & (a<sup>m</sup>)<sup>n</sup>=a<sup>m· n</sup> \\
-Product to a Power Property & & & (ab)<sup>m</sup>=a<sup>m</sup>b<sup>m</sup> \\
-Quotient Property & & & <sup>a<sup>m</sup></sup>⁄<sub>a<sup>n</sup></sub>=a<sup>m-n</sup>,a≠ 0, m>n \\
- & & & <sup>a<sup>m</sup></sup>⁄<sub>a<sup>n</sup></sub>=<sup>1</sup>⁄<sub>a<sup>n-m</sup></sub>,a≠ 0, n>m \\
-Zero Exponent Definition & & & a<sup>0</sup>=1, a≠ 0 \\
-Quotient to a Power Property & & & (<sup>a</sup>⁄<sub>b</sub>)<sup>m</sup>=<sup>a<sup>m</sup></sup>⁄<sub>b<sup>m</sup></sub>, b≠ 0
+Product Property a<sup>m</sup>· a<sup>n</sup>=a<sup>m+n</sup>
+Power Property (a<sup>m</sup>)<sup>n</sup>=a<sup>m· n</sup>
+Product to a Power Property (ab)<sup>m</sup>=a<sup>m</sup>b<sup>m</sup>
+Quotient Property <sup>a<sup>m</sup></sup>⁄<sub>a<sup>n</sup></sub>=a<sup>m-n</sup>,a≠ 0, m>n
+ <sup>a<sup>m</sup></sup>⁄<sub>a<sup>n</sup></sub>=<sup>1</sup>⁄<sub>a<sup>n-m</sup></sub>,a≠ 0, n>m
+Zero Exponent Definition a<sup>0</sup>=1, a≠ 0
+Quotient to a Power Property (<sup>a</sup>⁄<sub>b</sub>)<sup>m</sup>=<sup>a<sup>m</sup></sup>⁄<sub>b<sup>m</sup></sub>, b≠ 0
 </div>
 
 

@@ -146,13 +146,11 @@ Translate each word phrase into an algebraic expression:
 
 
 Solution
-ⓐ The key word is *difference*, which tells us the operation is subtraction. Look for the words *of* and *and* to find the numbers to subtract.<span class="math-inline">\\
-the difference \\
-20 \\
+ⓐ The key word is *difference*, which tells us the operation is subtraction. Look for the words *of* and *and* to find the numbers to subtract.<span class="math-inline">the difference
+20
 20</span>
-ⓑ The key word is *quotient*, which tells us the operation is division.<span class="math-inline">\\
-the quotient of \\
-divide \\
+ⓑ The key word is *quotient*, which tells us the operation is division.<span class="math-inline">the quotient of
+divide
 10</span>
 This can also be written as <span class="math-inline">10x/3 or <sup>10x</sup>⁄<sub>3</sub></span>
 
@@ -212,11 +210,11 @@ Translate each word phrase into an algebraic expression:
 
 
 Solution
-ⓐ The key words are *more than*. They tell us the operation is addition. *More than* means “added to”.<span class="math-inline">Eight more than \\
-Eight added to \\
+ⓐ The key words are *more than*. They tell us the operation is addition. *More than* means “added to”.<span class="math-inline">Eight more than
+Eight added to
 y</span>
-ⓑ The key words are *less than*. They tell us the operation is subtraction. *Less than* means “subtracted from”.<span class="math-inline">Seven less than \\
-Seven subtracted from \\
+ⓑ The key words are *less than*. They tell us the operation is subtraction. *Less than* means “subtracted from”.<span class="math-inline">Seven less than
+Seven subtracted from
 9</span>
 
 
@@ -276,11 +274,9 @@ Solution
 Because we are multiplying <span class="math-inline">5</span> times the sum, we need parentheses around the sum of <span class="math-inline">m</span> and <span class="math-inline">n.</span>five times the sum of <span class="math-inline">m</span> and <span class="math-inline">n</span>
 
 
-<span class="math-inline">\\
- \\</span>ⓑ To take a sum, we look for the words *of* and *and* to see what is being added. Here we are taking the sum *of* five times <span class="math-inline">m</span> and <span class="math-inline">n.</span>the sum of five times <span class="math-inline">m</span> and <span class="math-inline">n</span>
+<span class="math-inline"></span>ⓑ To take a sum, we look for the words *of* and *and* to see what is being added. Here we are taking the sum *of* five times <span class="math-inline">m</span> and <span class="math-inline">n.</span>the sum of five times <span class="math-inline">m</span> and <span class="math-inline">n</span>
 
-<span class="math-inline">\\
- \\</span>Notice how the use of parentheses changes the result. In part ⓐ , we add first and in part ⓑ , we multiply first.
+<span class="math-inline"></span>Notice how the use of parentheses changes the result. In part ⓐ , we add first and in part ⓑ , we multiply first.
 
 
 **Try It**
@@ -890,10 +886,8 @@ We say <span class="math-inline">5</span> is a solution to the equation <span cl
 
 
 <div class="math-display">
-\\
-x \\
-5 \\
- \\
+x
+5
 </div>
 
 Since <span class="math-inline">5+2=7</span> is a true statement, we know that <span class="math-inline">5</span> is indeed a solution to the equation.

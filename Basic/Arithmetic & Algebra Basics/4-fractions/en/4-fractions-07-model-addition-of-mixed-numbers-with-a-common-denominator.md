@@ -15,14 +15,8 @@ Because two quarters is half a dollar, they would have <span class="math-inline"
 
 
 <div class="math-display">
-\\
- \\
- \\
- \\
-+ \\
-________ \\
- \\
- \\
++
+________
 </div>
 
 When you added the dollars and then added the quarters, you were adding the whole numbers and then adding the fractions.
@@ -191,9 +185,8 @@ Solution
 
    Add the whole numbers and then add the fractions.
 
-<span class="math-inline">\\
-9 \\
-+ 5<sup>7</sup>⁄<sub>9</sub><sub>_____</sub> \\
+<span class="math-inline">9
++ 5<sup>7</sup>⁄<sub>9</sub><sub>_____</sub>
 14</span>
 
 

@@ -328,7 +328,7 @@ Notice that the function is continuous at x = 2. x y f -1-1 -2 -2 -3 -4 -5
 
 ---
 ### ✏️ **Try It #4**
-Determine where the function f (x) = π x/4 , x < 2 \p(i)/(x) , 2 ≤ x ≤ 6 2π x, x > 6 is discontinuous.
+Determine where the function f (x) = π x/4 , x < 2 p(i)/(x) , 2 ≤ x ≤ 6 2π x, x > 6 is discontinuous.
 Determining Whether a Function Is Continuous To determine whether a piecewise function is continuous or discontinuous, in addition to checking the boundary points, we must also check whether each of the functions that make up the piecewise function is continuous.
 
 ---
@@ -412,7 +412,7 @@ If it is discontinuous, state where it is discontinuous.
 
 x² + bx + c, | x - 2 | ≥ 1 Graphical For the following exercises, refer to Figure 15.
 Each square represents one square unit.
-For each value of a, determine which of the three conditions of continuity are satisfied at x = a and which are not. x y For the following exercises, use a graphing utility to graph the function f (x) = sin ( 12\p(i)/(x) ) as in Figure 16.
+For each value of a, determine which of the three conditions of continuity are satisfied at x = a and which are not. x y For the following exercises, use a graphing utility to graph the function f (x) = sin ( 12p(i)/(x) ) as in Figure 16.
 Set the x-axis a short distance before and after 0 to illustrate the point of discontinuity. x y -5 -5 -10 -10 40.
 Which conditions for continuity fail at the point of discontinuity? 41.
 Evaluate f (0). 42.

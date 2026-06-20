@@ -15,8 +15,8 @@ In the case on the left, we took away <span class="math-inline">5,3</span> times
 
 
 <div class="math-display">
-5 & & −5 \\
-5 & & (
+5 −5
+5 (
 </div>
 
 Notice that for multiplication of two **signed numbers**, when the signs are the same, the **product** is positive, and when the signs are different, the product is negative.
@@ -146,9 +146,9 @@ When we multiply a number by <span class="math-inline">1,</span> the result is t
 
 
 <div class="math-display">
-−1 & & −1 \\
-−4 & & 3 \\
-−4 & & 3
+−1 −1
+−4 3
+−4 3
 </div>
 
 Each time we multiply a number by <span class="math-inline">−1,</span> we get its opposite.
@@ -244,8 +244,8 @@ So, <span class="math-inline">15÷ 3=5</span> because <span class="math-inline">
 
 
 <div class="math-display">
-5 & & & & −5 \\
-( & & & & 5
+5 −5
+( 5
 </div>
 
 Division of signed numbers follows the same rules as multiplication. When the signs are the same, the **quotient** is positive, and when the signs are different, the quotient is negative.
@@ -334,9 +334,9 @@ Just as we saw with multiplication, when we divide a number by <span class="math
 
 
 <div class="math-display">
-8÷ (−1) & & & −9÷ (−1) \\
-−8 & & & 9 \\
-−8 is the opposite of 8 & & & 9 is the opposite of −9
+8÷ (−1) −9÷ (−1)
+−8 9
+−8 is the opposite of 8 9 is the opposite of −9
 </div>
 
 When we divide a number by, <span class="math-inline">−1</span> we get its opposite.
